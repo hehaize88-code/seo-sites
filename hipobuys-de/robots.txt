@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hipobuys.de/sitemap.xml
