@@ -9,6 +9,7 @@ Static SEO sites for Cloudflare Pages.
 - `hipobuys-uk/` — source folder for the UK Hipobuy guide site
 - `cssbuys-de/` — source folder for the German CSSBuy guide site
 - `cssbuys-pro/` — source folder for the .pro CSSBuy guide site
+- `cssbuys-store/` — source folder for the .store CSSBuy guide site
 
 ## Cloudflare Pages settings
 
@@ -46,5 +47,12 @@ Static SEO sites for Cloudflare Pages.
 - Production branch: `main`
 - Build command: leave blank or use `exit 0`
 - Build output directory: `cssbuys-pro`
+
+### cssbuys.store
+
+- Repository: `hehaize88-code/seo-sites`
+- Production branch: `main`
+- Build command: leave blank or use `exit 0`
+- Build output directory: `cssbuys-store`
 
 Each future domain should use its own folder and its own Cloudflare Pages project with the matching root/output directory.
