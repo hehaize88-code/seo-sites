@@ -12,6 +12,7 @@ Static SEO sites for Cloudflare Pages.
 - `cssbuys-store/` — source folder for the .store CSSBuy guide site
 - `hoobuys-pro/` — source folder for the .pro Hoobuy guide site
 - `hoobuys-net/` — source folder for the .net Hoobuy guide site
+- `hoobuys-org/` — source folder for the .org Hoobuy guide site
 
 ## Cloudflare Pages settings
 
@@ -70,5 +71,12 @@ Static SEO sites for Cloudflare Pages.
 - Production branch: `main`
 - Build command: leave blank or use `exit 0`
 - Build output directory: `hoobuys-net`
+
+### hoobuys.org
+
+- Repository: `hehaize88-code/seo-sites`
+- Production branch: `main`
+- Build command: leave blank or use `exit 0`
+- Build output directory: `hoobuys-org`
 
 Each future domain should use its own folder and its own Cloudflare Pages project with the matching root/output directory.
