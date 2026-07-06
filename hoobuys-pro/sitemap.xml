@@ -1,1 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url><loc>https://hoobuys.pro/</loc></url><url><loc>https://hoobuys.pro/products.html</loc></url><url><loc>https://hoobuys.pro/guides.html</loc></url><url><loc>https://hoobuys.pro/hoobuy-spreadsheet-guide.html</loc></url><url><loc>https://hoobuys.pro/faq.html</loc></url><url><loc>https://hoobuys.pro/shipping-guide.html</loc></url><url><loc>https://hoobuys.pro/terms.html</loc></url><url><loc>https://hoobuys.pro/privacy.html</loc></url></urlset>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://hoobuys.pro/</loc></url>
+  <url><loc>https://hoobuys.pro/products.html</loc></url>
+  <url><loc>https://hoobuys.pro/guides.html</loc></url>
+  <url><loc>https://hoobuys.pro/hoobuy-spreadsheet-guide.html</loc></url>
+  <url><loc>https://hoobuys.pro/faq.html</loc></url>
+  <url><loc>https://hoobuys.pro/shipping-guide.html</loc></url>
+  <url><loc>https://hoobuys.pro/languages.html</loc></url>
+  <url><loc>https://hoobuys.pro/terms.html</loc></url>
+  <url><loc>https://hoobuys.pro/privacy.html</loc></url>
+</urlset>
