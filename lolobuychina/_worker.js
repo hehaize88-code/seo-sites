@@ -1,0 +1,3 @@
+const STYLE=`<style>.top-extra-link{border-radius:999px;padding:9px 13px;color:#e2e7f5;font-weight:900}.top-extra-link:hover{background:rgba(152,255,41,.12);color:#98ff29}</style>`;
+const LINKS=`<a class="top-extra-link" href="/seo-guide.html">SEO Article</a><a class="top-extra-link" href="/faq.html">FAQ</a>`;
+export default{async fetch(request,env){const res=await env.ASSETS.fetch(request);const ct=res.headers.get('content-type')||'';if(!ct.includes('text/html'))return res;let done=false;const add={element(e){if(!done){e.append(LINKS,{html:true});done=true}}};return new HTMLRewriter().on('head',{element(e){e.append(STYLE,{html:true})}}).on('nav',add).transform(res)}};
