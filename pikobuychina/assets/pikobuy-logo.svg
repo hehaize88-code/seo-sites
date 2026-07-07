@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 150" role="img" aria-label="PIKOBUY logo">
+  <rect width="640" height="150" fill="none"/>
+  <g fill="#050505">
+    <path d="M18 31h82l18 96H4L18 31z"/>
+    <path d="M42 30c2-23 50-23 52 0h-14c-5-11-25-11-30 0H42z" fill="#fff"/>
+    <circle cx="61" cy="67" r="28" fill="#fff"/>
+    <path d="M39 55l8-10 10 9 8-2 9 2 10-9 8 10-2 18c-5 16-16 25-29 25S37 89 32 73l7-18z" fill="#fff"/>
+    <path d="M45 64c8 2 10 4 13 9m22-9c-8 2-10 4-13 9M52 78c7 6 18 6 25 0" fill="none" stroke="#050505" stroke-width="6" stroke-linecap="round"/>
+    <circle cx="54" cy="67" r="4"/><circle cx="75" cy="67" r="4"/><path d="M65 73l-5 5h10z"/>
+    <text x="22" y="119" font-family="Impact,Arial Black,Arial,sans-serif" font-size="25" font-weight="900" fill="#fff" transform="skewX(-7)">PIKOBUY</text>
+  </g>
+  <text x="136" y="117" font-family="Impact,Arial Black,Arial,sans-serif" font-size="118" font-weight="900" letter-spacing="4" fill="#050505" transform="skewX(-4)">PIKOBUY</text>
+</svg>
