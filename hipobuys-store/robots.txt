@@ -1,3 +1,5 @@
 User-agent: *
 Allow: /
+
 Sitemap: https://hipobuys.store/sitemap.xml
+Sitemap: https://hipobuys.store/sitemap-extra.xml
