@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://cssbuys.pro/</loc></url>
-  <url><loc>https://cssbuys.pro/guides/</loc></url>
+  <url><loc>https://cssbuys.pro/</loc><lastmod>2026-07-12</lastmod></url>
+  <url><loc>https://cssbuys.pro/guides/</loc><lastmod>2026-07-12</lastmod></url>
   <url><loc>https://cssbuys.pro/faq.html</loc></url>
   <url><loc>https://cssbuys.pro/guides/w2c.html</loc></url>
   <url><loc>https://cssbuys.pro/guides/qc-guide.html</loc></url>
@@ -12,4 +12,6 @@
   <url><loc>https://cssbuys.pro/guides/cssbuy-pro-qc-lab-photo-video-extra-fee.html</loc></url>
   <url><loc>https://cssbuys.pro/guides/cssbuy-pro-coupon-exchange-rate-reward-guide.html</loc></url>
   <url><loc>https://cssbuys.pro/guides/cssbuy-pro-w2c-qc-shipping-workflow-2026.html</loc></url>
+  <url><loc>https://cssbuys.pro/guides/cssbuy-pro-parcel-risk-qc-2026-07-09.html</loc><lastmod>2026-07-09</lastmod></url>
+  <url><loc>https://cssbuys.pro/guides/cssbuy-mixed-parcel-qc-volume-weight-audit-2026-07-12.html</loc><lastmod>2026-07-12</lastmod></url>
 </urlset>
