@@ -1,4 +1,42 @@
-const STYLE=`<style>.lang-switch{height:40px;border:1px solid #1cbfd1;border-radius:999px;background:#061c2b;color:#eaffff;font-weight:900;padding:0 12px;outline:0;min-width:112px;color-scheme:dark}.lang-switch option{background:#fff!important;color:#061226!important;font-weight:800}.mobile-lang-wrap{position:fixed;right:14px;bottom:14px;z-index:9999;display:none}.mobile-lang-wrap .lang-switch{box-shadow:0 12px 30px rgba(0,0,0,.28);background:#08283b}@media(max-width:760px){nav#nav .lang-switch{grid-column:1/-1;width:100%;margin-top:4px}.mobile-lang-wrap{display:block}.mobile-lang-wrap .lang-switch{width:118px;height:38px;font-size:12px}}.goog-te-banner-frame.skiptranslate{display:none!important}body{top:0!important}</style>`;
-const SELECT=`<select class="lang-switch" aria-label="Change language" onchange="setPageLang(this.value)"><option value="">语言</option><option value="zh-CN">中文</option><option value="en">EN</option><option value="de">DE</option><option value="fr">FR</option><option value="es">ES</option><option value="it">IT</option><option value="pl">PL</option><option value="nl">NL</option><option value="pt">PT</option></select>`;
-const FOOTER=`<div class="mobile-lang-wrap">${SELECT}</div><div id="google_translate_element" style="display:none"></div><script>function googleTranslateElementInit(){var l=(document.documentElement.lang||'zh-CN');new google.translate.TranslateElement({pageLanguage:l,includedLanguages:'zh-CN,en,de,fr,es,it,pl,nl,pt',autoDisplay:false},'google_translate_element')}function setPageLang(v){if(!v)return;var s=(document.documentElement.lang||'zh-CN');document.cookie='googtrans=/'+s+'/'+v+';path=/';document.cookie='googtrans=/'+s+'/'+v+';domain=.'+location.hostname+';path=/';location.reload()}</script><script src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>`;
-export default{async fetch(request,env){const res=await env.ASSETS.fetch(request);const ct=res.headers.get('content-type')||'';if(!ct.includes('text/html'))return res;let added=false;const addLang={element(e){if(!added){e.append(SELECT,{html:true});added=true}}};return new HTMLRewriter().on('head',{element(e){e.append(STYLE,{html:true})}}).on('nav#nav',addLang).on('body',{element(e){e.append(FOOTER,{html:true})}}).transform(res)}};
+const PRIMARY_ORIGIN = "https://hoobuys.net";
+
+const LEGACY_ROUTES = {
+  "/hoobuy-pro-w2c-qc-shipping-workflow-2026": "/hoobuy-net-w2c-qc-shipping-workflow-2026",
+  "/hoobuy-pro-qc-photo-video-checklist-2026": "/hoobuy-net-w2c-qc-shipping-workflow-2026",
+  "/hoobuy-pro-europe-parcel-ledger-w2c-qc-2026-07-14": "/hoobuy-net-shipping-cost-parcel-route-2026",
+  "/hoobuy-shop-w2c-qc-shipping-workflow-2026": "/hoobuy-net-w2c-qc-shipping-workflow-2026",
+  "/hoobuy-shop-coupon-qc-before-shipping-2026": "/hoobuy-net-w2c-qc-shipping-workflow-2026",
+  "/hoobuy-group-haul-w2c-qc-cost-ledger-2026-07-15": "/hoobuy-net-shipping-cost-parcel-route-2026",
+  "/hoobuy-org-w2c-qc-shipping-workflow-2026": "/hoobuy-net-w2c-qc-shipping-workflow-2026",
+  "/hoobuy-org-w2c-spreadsheet-method-2026": "/hoobuy-spreadsheet-guide",
+  "/sitemap.txt": "/sitemap.xml"
+};
+
+function normalizePath(pathname) {
+  let path = pathname.replace(/\/{2,}/g, "/");
+  if (/\/index\.html$/i.test(path)) {
+    path = path.slice(0, -"index.html".length);
+  } else if (/\.html$/i.test(path)) {
+    path = path.slice(0, -".html".length);
+  }
+  if (path.length > 1) path = path.replace(/\/+$/, "");
+  return path || "/";
+}
+
+export default {
+  async fetch(request) {
+    const source = new URL(request.url);
+    const normalizedPath = normalizePath(source.pathname);
+    const destination = new URL(PRIMARY_ORIGIN);
+    destination.pathname = LEGACY_ROUTES[normalizedPath.toLowerCase()] || normalizedPath;
+    destination.search = source.search;
+
+    return new Response(null, {
+      status: 308,
+      headers: {
+        Location: destination.toString(),
+        "Cache-Control": "public, max-age=3600"
+      }
+    });
+  }
+};
