@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://hoobuys.shop/</loc></url>
+  <url><loc>https://hoobuys.shop/</loc><lastmod>2026-07-15</lastmod></url>
   <url><loc>https://hoobuys.shop/products.html</loc></url>
-  <url><loc>https://hoobuys.shop/guides.html</loc></url>
+  <url><loc>https://hoobuys.shop/guides.html</loc><lastmod>2026-07-15</lastmod></url>
   <url><loc>https://hoobuys.shop/hoobuy-spreadsheet-guide.html</loc></url>
   <url><loc>https://hoobuys.shop/faq.html</loc></url>
   <url><loc>https://hoobuys.shop/shipping-guide.html</loc></url>
@@ -10,4 +10,5 @@
   <url><loc>https://hoobuys.shop/privacy.html</loc></url>
   <url><loc>https://hoobuys.shop/hoobuy-shop-w2c-qc-shipping-workflow-2026.html</loc></url>
   <url><loc>https://hoobuys.shop/hoobuy-shop-coupon-qc-before-shipping-2026.html</loc></url>
+  <url><loc>https://hoobuys.shop/hoobuy-group-haul-w2c-qc-cost-ledger-2026-07-15.html</loc><lastmod>2026-07-15</lastmod></url>
 </urlset>
