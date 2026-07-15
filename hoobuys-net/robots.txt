@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://hoobuys.net/sitemap.txt
 Sitemap: https://hoobuys.net/sitemap.xml
