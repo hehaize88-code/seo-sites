@@ -14,10 +14,19 @@ const LEGACY_ROUTES = {
 
 function normalizePath(pathname) {
   let path = pathname.replace(/\/{2,}/g, "/");
+  if (path === "/en" || path === "/en/") {
+    path = "/";
+  } else if (path.toLowerCase().startsWith("/en/")) {
+    path = path.slice(3) || "/";
+  }
   if (/\/index\.html$/i.test(path)) {
     path = path.slice(0, -"index.html".length);
   } else if (/\.html$/i.test(path)) {
     path = path.slice(0, -".html".length);
+  }
+  const language = path.split("/")[1]?.toLowerCase();
+  if (["de", "fr", "es", "pl"].includes(language) && path.replace(/\/+$/, "") === `/${language}`) {
+    return `/${language}/`;
   }
   if (path.length > 1) path = path.replace(/\/+$/, "");
   return path || "/";

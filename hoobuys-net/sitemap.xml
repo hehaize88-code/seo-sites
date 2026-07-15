@@ -1,14 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://hoobuys.net/</loc><lastmod>2026-07-15</lastmod></url>
-  <url><loc>https://hoobuys.net/products</loc><lastmod>2026-07-15</lastmod></url>
-  <url><loc>https://hoobuys.net/guides</loc><lastmod>2026-07-15</lastmod></url>
-  <url><loc>https://hoobuys.net/hoobuy-spreadsheet-guide</loc><lastmod>2026-07-15</lastmod></url>
-  <url><loc>https://hoobuys.net/faq</loc><lastmod>2026-07-15</lastmod></url>
-  <url><loc>https://hoobuys.net/shipping-guide</loc><lastmod>2026-07-15</lastmod></url>
-  <url><loc>https://hoobuys.net/terms</loc><lastmod>2026-07-15</lastmod></url>
-  <url><loc>https://hoobuys.net/privacy</loc><lastmod>2026-07-15</lastmod></url>
-  <url><loc>https://hoobuys.net/hoobuy-net-w2c-qc-shipping-workflow-2026</loc><lastmod>2026-07-15</lastmod></url>
-  <url><loc>https://hoobuys.net/hoobuy-net-shipping-cost-parcel-route-2026</loc><lastmod>2026-07-15</lastmod></url>
-  <url><loc>https://hoobuys.net/languages</loc><lastmod>2026-07-15</lastmod></url>
-</urlset>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <sitemap><loc>https://hoobuys.net/sitemap-en.xml</loc><lastmod>2026-07-15</lastmod></sitemap>
+  <sitemap><loc>https://hoobuys.net/sitemap-de.xml</loc><lastmod>2026-07-15</lastmod></sitemap>
+  <sitemap><loc>https://hoobuys.net/sitemap-fr.xml</loc><lastmod>2026-07-15</lastmod></sitemap>
+  <sitemap><loc>https://hoobuys.net/sitemap-es.xml</loc><lastmod>2026-07-15</lastmod></sitemap>
+  <sitemap><loc>https://hoobuys.net/sitemap-pl.xml</loc><lastmod>2026-07-15</lastmod></sitemap>
+</sitemapindex>
