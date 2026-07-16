@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Hoobuys.net shopping research guide">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#03111d"/><stop offset=".58" stop-color="#083044"/><stop offset="1" stop-color="#0a6170"/></linearGradient>
+    <radialGradient id="glow" cx="80%" cy="16%" r="70%"><stop stop-color="#1cbfd1" stop-opacity=".42"/><stop offset="1" stop-color="#1cbfd1" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect width="1200" height="630" fill="url(#glow)"/>
+  <g fill="none" stroke="#74e9f4" stroke-opacity=".18"><circle cx="1040" cy="80" r="250"/><circle cx="1040" cy="80" r="175"/><path d="M0 528h1200"/></g>
+  <rect x="78" y="72" width="86" height="86" rx="22" fill="#04131f" stroke="#45dce8" stroke-width="3"/>
+  <path d="M101 91v48h13v-18h17v18h13V91h-13v18h-17V91z" fill="#eaffff"/>
+  <circle cx="145" cy="92" r="7" fill="#1cbfd1"/>
+  <text x="190" y="132" fill="#eaffff" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="800">hoobuys<tspan fill="#35d6e3">.net</tspan></text>
+  <text x="78" y="260" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="70" font-weight="800">Check the route.</text>
+  <text x="78" y="340" fill="#8cf3fb" font-family="Arial, Helvetica, sans-serif" font-size="70" font-weight="800">Understand the order.</text>
+  <text x="82" y="416" fill="#c7e5ec" font-family="Arial, Helvetica, sans-serif" font-size="30">Independent W2C, QC and shipping research guide</text>
+  <g font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700">
+    <rect x="78" y="472" width="180" height="58" rx="29" fill="#1cbfd1"/><text x="125" y="510" fill="#04131f">W2C routes</text>
+    <rect x="278" y="472" width="156" height="58" rx="29" fill="#0c3a50" stroke="#327083"/><text x="326" y="510" fill="#eaffff">QC checks</text>
+    <rect x="454" y="472" width="205" height="58" rx="29" fill="#0c3a50" stroke="#327083"/><text x="498" y="510" fill="#eaffff">Shipping prep</text>
+  </g>
+  <text x="80" y="587" fill="#85aab5" font-family="Arial, Helvetica, sans-serif" font-size="20">Updated research • Direct source links • Five language editions</text>
+</svg>
