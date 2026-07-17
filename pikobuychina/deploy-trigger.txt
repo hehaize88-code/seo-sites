@@ -1,4 +1,4 @@
 PikobuyChina deployment trigger
 Updated: 2026-07-17
 Purpose: force Cloudflare Pages to rebuild from the latest pikobuychina folder and _worker.js changes.
-Latest intended changes: the homepage search box sends entered keywords to https://cnfansge.com/search.html?keywords=<keyword>&channelid=2 and supports both Search-button clicks and Enter-key submission.
+Latest intended changes: restore the search box on mobile, compress the mobile layout without removing sections by using horizontal carousels, and force Sweatshirts to https://cnfansge.com/hoodies-sweaters/.
