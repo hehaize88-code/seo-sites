@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Six-layer total landed cost worksheet</title>
+  <desc id="desc">A six-step path from product and domestic freight to payment, warehouse, parcel and destination costs.</desc>
+  <rect width="1200" height="630" rx="36" fill="#0d1226"/>
+  <text x="72" y="86" fill="#f6f8ff" font-family="Arial,sans-serif" font-size="42" font-weight="700">Build the total, one evidence layer at a time</text>
+  <text x="72" y="128" fill="#aeb9d4" font-family="Arial,sans-serif" font-size="22">Estimate → live quote → paid amount</text>
+  <g font-family="Arial,sans-serif" font-weight="700" font-size="23">
+    <rect x="72" y="190" width="320" height="108" rx="20" fill="#17213d" stroke="#98ff29"/><text x="100" y="235" fill="#98ff29">1 · Product</text><text x="100" y="270" fill="#dbe2f5" font-size="18">Variant + quantity</text>
+    <rect x="440" y="190" width="320" height="108" rx="20" fill="#17213d" stroke="#98ff29"/><text x="468" y="235" fill="#98ff29">2 · Domestic freight</text><text x="468" y="270" fill="#dbe2f5" font-size="18">Seller → warehouse</text>
+    <rect x="808" y="190" width="320" height="108" rx="20" fill="#17213d" stroke="#98ff29"/><text x="836" y="235" fill="#98ff29">3 · Payment / FX</text><text x="836" y="270" fill="#dbe2f5" font-size="18">Displayed vs charged</text>
+    <rect x="72" y="350" width="320" height="108" rx="20" fill="#17213d" stroke="#98ff29"/><text x="100" y="395" fill="#98ff29">4 · Warehouse</text><text x="100" y="430" fill="#dbe2f5" font-size="18">Only selected live options</text>
+    <rect x="440" y="350" width="320" height="108" rx="20" fill="#17213d" stroke="#98ff29"/><text x="468" y="395" fill="#98ff29">5 · International parcel</text><text x="468" y="430" fill="#dbe2f5" font-size="18">Weight + dimensions</text>
+    <rect x="808" y="350" width="320" height="108" rx="20" fill="#17213d" stroke="#98ff29"/><text x="836" y="395" fill="#98ff29">6 · Destination</text><text x="836" y="430" fill="#dbe2f5" font-size="18">Reserve → actual</text>
+  </g>
+  <path d="M392 244h48M760 244h48M228 298v52M600 298v52M968 298v52" stroke="#63708e" stroke-width="5" stroke-linecap="round"/>
+  <rect x="300" y="512" width="600" height="72" rx="20" fill="#98ff29"/>
+  <text x="600" y="558" text-anchor="middle" fill="#071018" font-family="Arial,sans-serif" font-size="28" font-weight="800">Known total + clearly labeled unknowns</text>
+</svg>
