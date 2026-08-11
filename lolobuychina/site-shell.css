@@ -1,16 +1,24 @@
 /* Shared LoloBuyChina shell. Loaded after page-local styles so navigation stays identical without changing page content. */
-:root{--shell-bg:#050816;--shell-line:#27324d;--shell-text:#f7f9ff;--shell-green:#7cff21}
-body{background:radial-gradient(circle at 20% 0,#102112 0,#050816 38%,#030611 100%)!important;color:var(--shell-text)!important;font-family:Inter,system-ui,-apple-system,Segoe UI,Arial,sans-serif!important}
-.site-top{position:sticky;top:0;z-index:50;background:rgba(5,8,22,.94);backdrop-filter:blur(12px);border-bottom:1px solid var(--shell-line)}
+:root{--shell-bg:#f4f1e8;--shell-panel:#fffdf8;--shell-panel2:#eef4e8;--shell-line:#d7ddcf;--shell-text:#172018;--shell-muted:#5c695e;--shell-green:#327a2d;--shell-green-soft:#e2f2dc}
+body{background:linear-gradient(180deg,#f7f4ec 0,#eef4e8 48%,#f8f5ed 100%)!important;color:var(--shell-text)!important;font-family:Inter,system-ui,-apple-system,Segoe UI,Arial,sans-serif!important}
+.site-top,.top{position:sticky;top:0;z-index:50;background:rgba(255,253,248,.96)!important;backdrop-filter:blur(12px);border-bottom:1px solid var(--shell-line)!important}
 .site-wrap{max-width:1180px;margin:auto;padding:0 20px}
 .site-bar{height:68px;display:flex;align-items:center;justify-content:space-between;gap:14px}
 .site-brand{display:flex;align-items:center;flex:0 0 auto;background:#fff;border-radius:10px;padding:4px 8px}
 .site-brand img{display:block;width:200px;height:37px;object-fit:contain}
 .site-nav{margin-left:auto;display:flex;gap:8px;align-items:center}
-.site-nav a{padding:10px 13px;border-radius:999px;color:#dce6ff;font-weight:850;font-size:14px;text-decoration:none}
-.site-nav a:hover,.site-nav a[aria-current="page"]{background:#17310f;color:var(--shell-green)}
-.site-lang{height:38px;border:1px solid var(--shell-line);border-radius:999px;background:#10162a;color:white;font-weight:900;padding:0 12px}
-.site-foot{margin-top:28px;border-top:1px solid var(--shell-line);padding:26px 0 40px;color:#b8c5e9;font-size:13px}
+.site-nav a,.nav a{padding:10px 13px;border-radius:999px;color:#26352a!important;font-weight:850;font-size:14px;text-decoration:none}
+.site-nav a:hover,.site-nav a[aria-current="page"],.nav a:hover,.nav .active{background:var(--shell-green-soft)!important;color:var(--shell-green)!important}
+.site-lang,.lang{height:38px;border:1px solid var(--shell-line)!important;border-radius:999px;background:#fff!important;color:#26352a!important;font-weight:900;padding:0 12px}
+.site-foot,.foot{margin-top:28px;border-top:1px solid var(--shell-line)!important;padding:26px 0 40px;color:var(--shell-muted)!important;font-size:13px}
 .site-foot a{color:inherit;text-decoration:none}
+.card,.cat,.article,.faq,.mock,.note,.toc a,.mini,.step{background:var(--shell-panel)!important;border-color:var(--shell-line)!important;box-shadow:0 8px 24px rgba(49,67,52,.06)}
+h1,h2,h3,strong,.mock-head,.brand{color:var(--shell-text)!important}
+p,li,.lead,.notice,.meta,.cat small,.article p,.faq p,.card p,.mini p{color:var(--shell-muted)!important}
+.btn{background:#fff!important;color:var(--shell-text)!important;border-color:var(--shell-line)!important}
+.btn.primary,.search button{background:var(--shell-green)!important;color:#fff!important;border-color:var(--shell-green)!important}
+.search{background:#fff!important;border-color:var(--shell-green)!important}.search input{color:var(--shell-text)!important}
+.eyebrow,.head a,.open,.price,.toc a{color:var(--shell-green)!important}
+.drawer{background:#fffdf8!important;border-color:var(--shell-line)!important}.drawer a,.drawer .close,.hamb{color:var(--shell-text)!important}
 @media(max-width:900px){.site-bar{height:auto;min-height:58px;flex-wrap:wrap;padding:10px 0}.site-brand img{width:160px;height:auto}.site-nav{order:3;width:100%;display:grid;grid-template-columns:repeat(4,1fr);gap:6px}.site-nav a{text-align:center;padding:8px 5px;border:1px solid var(--shell-line);font-size:12px}.site-lang{position:absolute;right:12px;top:12px}}
 @media(max-width:480px){.site-wrap{padding:0 12px}.site-brand img{width:140px}.site-nav{grid-template-columns:repeat(4,1fr)}}
