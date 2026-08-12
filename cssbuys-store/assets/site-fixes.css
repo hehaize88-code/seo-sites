@@ -1,0 +1,36 @@
+img{max-width:100%}
+.product .body h3{margin:0 0 5px;line-height:1.28}
+.product .body h3 a:hover,.product-detail a:hover{text-decoration:underline}
+.product-meta-line{display:flex;align-items:center;justify-content:space-between;gap:8px;margin:8px 0;font-size:13px}
+.product-meta-line .category{color:#52657d;font-weight:800}
+.product-meta-line .price{color:#047857;font-size:18px;font-weight:950}
+.qc-tip{font-size:13px;line-height:1.45;margin:7px 0;color:#52657d}
+.product-link{display:inline-flex;margin-top:8px;color:#2563eb;font-size:13px;font-weight:900}
+.product-detail-grid{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:28px;align-items:start}
+.product-detail-media{overflow:hidden;border:1px solid #dbe4f0;border-radius:22px;background:#eaf1ff}
+.product-detail-media img{display:block;width:100%;aspect-ratio:1/1;object-fit:cover}
+.product-detail-info{padding:8px 0}
+.product-detail-info .price{color:#047857;font-size:30px;font-weight:950}
+.check-list{padding-left:20px;color:#52657d}
+.check-list li{margin:10px 0}
+.source-note{font-size:13px;color:#64748b}
+.faq-card summary{cursor:pointer;font-weight:900;color:#061226;list-style:none}
+.faq-card summary::-webkit-details-marker{display:none}
+.faq-card summary:after{content:'+';float:right;color:#2563eb;font-size:20px}
+.faq-card[open] summary:after{content:'−'}
+.article-box .article-faq{margin-top:28px}
+.article-box .article-faq details{border-top:1px solid #dbe4f0;padding:14px 0}
+.article-box .article-faq summary{cursor:pointer;font-weight:900}
+@media(max-width:900px){
+  .hero{padding:28px 0}.hero .panel{display:block;padding:15px}.hero-grid{gap:14px}
+  .section{padding:26px 0}.guide-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}
+  .guide-card{padding:14px}.guide-card h3{font-size:16px;line-height:1.25;margin:9px 0}.guide-card p{font-size:13px;line-height:1.4;margin:5px 0}
+  .faq-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}.faq-card{padding:14px}.faq-card p{font-size:13px;line-height:1.4}
+  .products{gap:10px}.products .photo{height:auto;aspect-ratio:1/1}.body{padding:11px}.product .body h3{font-size:14px}.qc-tip{font-size:12px}
+  .product-detail-grid{grid-template-columns:1fr;gap:18px}.article{padding:26px 0}.article-box{padding:20px}
+}
+@media(max-width:520px){
+  .guide-grid,.faq-grid{grid-template-columns:repeat(2,minmax(0,1fr))}
+  .guide-card p{display:block}.faq-card p{margin-bottom:0}
+  .product-meta-line{display:block}.product-meta-line span{display:block}
+}

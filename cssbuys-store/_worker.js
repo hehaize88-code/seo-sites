@@ -1,7 +1,88 @@
-const ARTICLE='/guides/cssbuy-store-product-shelf-qc-2026-07-09.html',LOC='https://cssbuys.store/guides/cssbuy-store-product-shelf-qc-2026-07-09.html',TITLE='CSSBuy Store Product Shelf Guide 2026: W2C Cards, QC Photos and Shipping Prep',DESC='Daily SEO update about product shelf cards, W2C notes, QC photos, shipping preparation and buyer decisions.';
-const FAQ1=['CSSBuy Store 商品卡片为什么要配 W2C 备注？','只有商品图和按钮不够，W2C备注能提醒买家检查尺码、颜色、来源和运输风险。'];
-const FAQ2=['CSSBuy Store 哪些商品需要更多 QC 角度？','鞋子、包、配件和高价值商品通常需要更多角度确认五金、尺码、包装和细节。'];
-const STYLE=`<style>.daily-seo-update{max-width:1120px;margin:24px auto;padding:24px;border:1px solid #2563eb;border-radius:24px;background:#fff;box-shadow:0 18px 46px rgba(37,99,235,.12);color:#061226}.daily-seo-update h2{font-size:clamp(24px,4vw,42px);line-height:1.05;margin:8px 0 10px}.daily-seo-update p{color:#34465d}.daily-label{display:inline-flex;background:#eaf1ff;color:#2563eb;border-radius:999px;padding:6px 10px;font-size:12px;font-weight:950}.daily-link{display:inline-flex;margin-top:10px;background:#2563eb;color:#fff!important;border-radius:999px;padding:10px 15px;font-weight:950;text-decoration:none}.daily-faq{margin-top:18px}.daily-faq details{border-top:1px solid #dbe4f0;padding:14px 0}.daily-faq summary{cursor:pointer;font-weight:950;list-style:none;display:flex;justify-content:space-between}.daily-faq summary:after{content:'▼';color:#2563eb}.daily-faq details[open] summary:after{transform:rotate(180deg)}.lang-switch{height:38px;border:1px solid #2563eb;border-radius:999px;background:#fff;color:#061226;font-weight:900;padding:0 10px;margin-left:8px}.mobile-lang-wrap{position:fixed;right:14px;bottom:14px;z-index:9999}.mobile-lang-wrap .lang-switch{background:#2563eb;color:#fff}@media(max-width:760px){.daily-seo-update{margin:14px 12px;padding:16px}.daily-link{width:100%;justify-content:center}.lang-switch{width:100%;margin:8px 0 0}.mobile-lang-wrap .lang-switch{width:118px;height:38px;font-size:12px}}</style>`;
-const SELECT=`<select class="lang-switch" aria-label="Change language" onchange="setPageLang(this.value)"><option value="">Language</option><option value="en">EN</option><option value="zh-CN">中文</option><option value="de">DE</option><option value="fr">FR</option><option value="es">ES</option><option value="it">IT</option><option value="pl">PL</option><option value="nl">NL</option><option value="pt">PT</option></select>`;
-const SCRIPT=`<script>(()=>{const ARTICLE='${ARTICLE}',TITLE=${JSON.stringify(TITLE)},DESC=${JSON.stringify(DESC)},FAQ1=${JSON.stringify(FAQ1)},FAQ2=${JSON.stringify(FAQ2)};function esc(s){return String(s).replace(/[&<>]/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;'}[m]))}function add(){if(document.querySelector('.daily-seo-update'))return;const t=document.querySelector('.hero,.hero-v4,main>section,.product-section')||document.querySelector('main')||document.body;t.insertAdjacentHTML('afterend','<section class="daily-seo-update"><span class="daily-label">TODAY SEO UPDATE</span><h2>'+esc(TITLE)+'</h2><p>'+esc(DESC)+'</p><a class="daily-link" href="'+ARTICLE+'">打开完整文章 →</a><div class="daily-faq"><h3>新增 FAQ</h3><details open><summary>'+esc(FAQ1[0])+'</summary><p>'+esc(FAQ1[1])+'</p></details><details><summary>'+esc(FAQ2[0])+'</summary><p>'+esc(FAQ2[1])+'</p></details></div></section>')}add();document.addEventListener('DOMContentLoaded',add);setTimeout(add,500);})();function googleTranslateElementInit(){var l=(document.documentElement.lang||'en');new google.translate.TranslateElement({pageLanguage:l,includedLanguages:'en,zh-CN,de,fr,es,it,pl,nl,pt',autoDisplay:false},'google_translate_element')}function setPageLang(v){if(!v)return;var s=(document.documentElement.lang||'en');document.cookie='googtrans=/'+s+'/'+v+';path=/';document.cookie='googtrans=/'+s+'/'+v+';domain=.'+location.hostname+';path=/';location.reload()}</script><div id="google_translate_element" style="display:none"></div><div class="mobile-lang-wrap">${SELECT}</div><script src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>`;
-export default{async fetch(request,env){const res=await env.ASSETS.fetch(request);const url=new URL(request.url);if(url.pathname.endsWith('/sitemap.xml')){let t=await res.text();if(!t.includes(LOC))t=t.replace('</urlset>',`  <url><loc>${LOC}</loc></url>\n</urlset>`);return new Response(t,{headers:{'content-type':'application/xml; charset=UTF-8'}})}const ct=res.headers.get('content-type')||'';if(!ct.includes('text/html'))return res;let lang=false;return new HTMLRewriter().on('head',{element(e){e.append(STYLE,{html:true})}}).on('nav',{element(e){if(!lang){e.append(SELECT,{html:true});lang=true}}}).on('body',{element(e){e.append(SCRIPT,{html:true})}}).transform(res)}};
+const CANONICAL_HOST = "cssbuys.store";
+
+const LEGACY_PATHS = new Map([
+  ["/guides", "/guides/"],
+  ["/guides.html", "/guides/"],
+  ["/products/5691", "/products/3402"],
+  ["/products/5940", "/products/3401"],
+  ["/products/5987", "/products/3400"],
+  ["/products/5975", "/products/3399"],
+  ["/products/5963", "/products/3398"],
+  ["/products/5985", "/products/3397"],
+  ["/products/6052", "/products/3396"],
+  ["/products/5910", "/products/3395"],
+  ["/products/5973", "/products/3394"],
+  ["/products/5751", "/products/3393"],
+]);
+
+const CATEGORY_ROUTES = new Map([
+  ["accessories", "accessories"],
+  ["electronics", "electronics"],
+  ["headwear", "headwear"],
+  ["hoodies-sweaters", "hoodies-sweaters"],
+  ["jackets", "jackets"],
+  ["jersey", "Jersey"],
+  ["other-stuff", "other-stuff"],
+  ["pants-shorts", "pants-shorts"],
+  ["shoes", "shoes"],
+  ["short-sets", "short-sets"],
+  ["t-shirts", "t-shirts"],
+]);
+
+const SECURITY_HEADERS = {
+  "Content-Security-Policy": "default-src 'self'; img-src 'self' data: https://www.cnbuycha.com; style-src 'self' 'unsafe-inline'; script-src 'self' 'unsafe-inline'; connect-src 'self'; form-action 'self' https://www.cnbuycha.com; base-uri 'self'; frame-ancestors 'none'; upgrade-insecure-requests",
+  "Permissions-Policy": "camera=(), geolocation=(), microphone=(), payment=()",
+  "Referrer-Policy": "strict-origin-when-cross-origin",
+  "Strict-Transport-Security": "max-age=31536000; includeSubDomains; preload",
+  "X-Content-Type-Options": "nosniff",
+  "X-Frame-Options": "DENY",
+};
+
+function redirect(url, pathname, hostname = CANONICAL_HOST) {
+  const target = new URL(url);
+  target.protocol = "https:";
+  target.hostname = hostname;
+  target.port = "";
+  target.pathname = pathname;
+  return Response.redirect(target.toString(), 301);
+}
+
+function cleanPathname(pathname) {
+  if (pathname === "/index.html") return "/";
+  if (pathname.endsWith("/index.html")) return pathname.slice(0, -10);
+  return pathname.endsWith(".html") ? pathname.slice(0, -5) : pathname;
+}
+
+export default {
+  async fetch(request, env) {
+    const url = new URL(request.url);
+    const cleanPath = cleanPathname(url.pathname);
+    const legacyTarget = LEGACY_PATHS.get(cleanPath) || LEGACY_PATHS.get(url.pathname);
+
+    if (url.hostname !== CANONICAL_HOST || url.protocol !== "https:") {
+      return redirect(url, legacyTarget || cleanPath);
+    }
+
+    if (legacyTarget) return redirect(url, legacyTarget);
+    if (cleanPath !== url.pathname) return redirect(url, cleanPath);
+
+    const categoryMatch = cleanPath.match(/^\/categories\/([^/]+)\/?$/);
+    if (categoryMatch && CATEGORY_ROUTES.has(categoryMatch[1])) {
+      const target = new URL(`https://www.cnbuycha.com/${CATEGORY_ROUTES.get(categoryMatch[1])}/`);
+      target.search = url.search;
+      return Response.redirect(target.toString(), 301);
+    }
+
+    const response = await env.ASSETS.fetch(request);
+    const headers = new Headers(response.headers);
+    for (const [name, value] of Object.entries(SECURITY_HEADERS)) {
+      headers.set(name, value);
+    }
+
+    return new Response(response.body, {
+      status: response.status,
+      statusText: response.statusText,
+      headers,
+    });
+  },
+};
