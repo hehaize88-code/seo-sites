@@ -1,6 +1,37 @@
-const ARTICLE='/guides/cssbuy-mixed-parcel-qc-volume-weight-audit-2026-07-12.html',LOC='https://cssbuys.pro/guides/cssbuy-mixed-parcel-qc-volume-weight-audit-2026-07-12.html',TITLE='三件小商品放进一个箱子，运费为什么反而更难算？',DESC='从混合包裹出库场景拆解 CSSBuy QC、W2C、体积重、线路属性、90 天仓储与动态费用核对。';
-const CHECKS=['先把商品分成可直接发、需要确认、线路敏感三组','鞋盒与大包装要单独比较实际重量和体积重量','补图、视频、汇率和优惠没有公开确认时不要写死数字'];
-const STYLE=`<style>.daily-seo-update{max-width:1120px;margin:24px auto;padding:26px;border:1px solid #2563eb;border-radius:24px;background:linear-gradient(135deg,#fff,#f3f7ff);box-shadow:0 18px 46px rgba(37,99,235,.12);color:#061226}.daily-seo-update h2{font-size:clamp(24px,4vw,42px);line-height:1.08;margin:9px 0 10px}.daily-seo-update p{color:#34465d}.daily-label{display:inline-flex;background:#0b1f3a;color:#fff;border-radius:999px;padding:7px 11px;font-size:12px;font-weight:950;letter-spacing:1px}.daily-link{display:inline-flex;margin-top:12px;background:#2563eb;color:#fff!important;border-radius:999px;padding:11px 17px;font-weight:950;text-decoration:none}.audit-points{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;padding:0;margin:18px 0 0;list-style:none}.audit-points li{background:#fff;border:1px solid #dbe4f0;border-radius:14px;padding:13px;color:#20364f;font-weight:800}.lang-switch{height:38px;border:1px solid #2563eb;border-radius:999px;background:#fff;color:#061226;font-weight:900;padding:0 10px;margin-left:8px}.mobile-lang-wrap{position:fixed;right:14px;bottom:14px;z-index:9999}.mobile-lang-wrap .lang-switch{background:#2563eb;color:#fff}@media(max-width:760px){.daily-seo-update{margin:14px 12px;padding:17px}.daily-link{width:100%;justify-content:center}.audit-points{grid-template-columns:1fr}.lang-switch{width:100%;margin:8px 0 0}.mobile-lang-wrap .lang-switch{width:118px;height:38px;font-size:12px}}</style>`;
-const SELECT=`<select class="lang-switch" aria-label="Change language" onchange="setPageLang(this.value)"><option value="">Language</option><option value="en">EN</option><option value="zh-CN">中文</option><option value="de">DE</option><option value="fr">FR</option><option value="es">ES</option><option value="it">IT</option><option value="pl">PL</option><option value="nl">NL</option><option value="pt">PT</option></select>`;
-const SCRIPT=`<script>(()=>{const ARTICLE='${ARTICLE}',TITLE=${JSON.stringify(TITLE)},DESC=${JSON.stringify(DESC)},CHECKS=${JSON.stringify(CHECKS)};function esc(s){return String(s).replace(/[&<>]/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;'}[m]))}function add(){if(document.querySelector('.daily-seo-update'))return;const t=document.querySelector('.hero,.hero-v4,main>section,.product-section')||document.querySelector('main')||document.body;const points=CHECKS.map(x=>'<li>'+esc(x)+'</li>').join('');t.insertAdjacentHTML('afterend','<section class="daily-seo-update"><span class="daily-label">NEW PRACTICAL GUIDE</span><h2>'+esc(TITLE)+'</h2><p>'+esc(DESC)+'</p><ul class="audit-points">'+points+'</ul><a class="daily-link" href="'+ARTICLE+'">查看混合包裹出库审计 →</a></section>')}add();document.addEventListener('DOMContentLoaded',add);setTimeout(add,500);})();function googleTranslateElementInit(){var l=(document.documentElement.lang||'en');new google.translate.TranslateElement({pageLanguage:l,includedLanguages:'en,zh-CN,de,fr,es,it,pl,nl,pt',autoDisplay:false},'google_translate_element')}function setPageLang(v){if(!v)return;var s=(document.documentElement.lang||'en');document.cookie='googtrans=/'+s+'/'+v+';path=/';document.cookie='googtrans=/'+s+'/'+v+';domain=.'+location.hostname+';path=/';location.reload()}</script><div id="google_translate_element" style="display:none"></div><div class="mobile-lang-wrap">${SELECT}</div><script src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>`;
-export default{async fetch(request,env){const res=await env.ASSETS.fetch(request);const url=new URL(request.url);if(url.pathname.endsWith('/sitemap.xml')){let t=await res.text();if(!t.includes(LOC))t=t.replace('</urlset>',`  <url><loc>${LOC}</loc><lastmod>2026-07-12</lastmod></url>\n</urlset>`);return new Response(t,{status:res.status,headers:{'content-type':'application/xml; charset=UTF-8'}})}const ct=res.headers.get('content-type')||'';if(!ct.includes('text/html'))return res;let lang=false;return new HTMLRewriter().on('head',{element(e){e.append(STYLE,{html:true})}}).on('nav',{element(e){if(!lang){e.append(SELECT,{html:true});lang=true}}}).on('body',{element(e){e.append(SCRIPT,{html:true})}}).transform(res)}};
+const CANONICAL_HOST = 'cssbuys.pro';
+
+function canonicalPath(pathname) {
+  if (pathname === '/index.html') return '/';
+  if (pathname === '/guides' || pathname === '/guides.html' || pathname === '/guides/index.html') return '/guides/';
+  if (/\/(de|fr|es)\/index\.html$/.test(pathname)) return pathname.replace(/index\.html$/, '');
+  if (pathname.endsWith('.html')) return pathname.slice(0, -5);
+  return pathname;
+}
+
+export default {
+  async fetch(request, env) {
+    const url = new URL(request.url);
+    const finalPath = canonicalPath(url.pathname);
+
+    if (url.protocol !== 'https:' || url.hostname !== CANONICAL_HOST || finalPath !== url.pathname) {
+      url.protocol = 'https:';
+      url.hostname = CANONICAL_HOST;
+      url.port = '';
+      url.pathname = finalPath;
+      return Response.redirect(url.toString(), 301);
+    }
+
+    const response = await env.ASSETS.fetch(request);
+    const headers = new Headers(response.headers);
+    headers.set('x-content-type-options', 'nosniff');
+    headers.set('referrer-policy', 'strict-origin-when-cross-origin');
+    if (url.pathname === '/sitemap.xml') headers.set('content-type', 'application/xml; charset=UTF-8');
+    if (url.pathname === '/robots.txt' || url.pathname === '/sitemap.txt') headers.set('content-type', 'text/plain; charset=UTF-8');
+
+    return new Response(response.body, {
+      status: response.status,
+      statusText: response.statusText,
+      headers
+    });
+  }
+};
