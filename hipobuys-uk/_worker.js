@@ -1,7 +1,68 @@
-const ARTICLE='/hipobuy-uk-qc-w2c-shipping-check-2026-07-10.html',LOC='https://hipobuys.uk/hipobuy-uk-qc-w2c-shipping-check-2026-07-10.html',TITLE='英国买家别只看“到手图”：Hipobuy QC、W2C 与运费核对清单',DESC='面向英国买家的中文 Hipobuy 反向代购指南：W2C 备注、QC photos、90 天仓储、运费风险和未公开费用边界。';
-const FAQ1=['Hipobuy UK 买家为什么不能只看商品价？','最终成本还会受实际重量、体积重量、包装、路线限制、优惠券状态和可能的税费提示影响。'];
-const FAQ2=['Hipobuy 的补图、视频和汇率加价能写固定数字吗？','本次公开检索没有稳定确认固定补图价格、视频价格或汇率加价比例，应以订单后台和结算页为准。'];
-const STYLE=`<style>.daily-seo-update{max-width:1120px;margin:24px auto;padding:24px;border:1px solid #0f766e;border-radius:24px;background:#fffdf8;box-shadow:0 18px 46px rgba(15,118,110,.12);color:#0f172a}.daily-seo-update h2{font-size:clamp(24px,4vw,42px);line-height:1.05;margin:8px 0 10px}.daily-seo-update p{color:#475569}.daily-label{display:inline-flex;background:#e9f7f4;color:#0f766e;border-radius:999px;padding:6px 10px;font-size:12px;font-weight:950}.daily-link{display:inline-flex;margin-top:10px;background:#0f766e;color:#fff!important;border-radius:999px;padding:10px 15px;font-weight:950;text-decoration:none}.daily-faq{margin-top:18px}.daily-faq details{border-top:1px solid #d7e7df;padding:14px 0}.daily-faq summary{cursor:pointer;font-weight:950;list-style:none;display:flex;justify-content:space-between}.daily-faq summary:after{content:'▼';color:#0f766e}.daily-faq details[open] summary:after{transform:rotate(180deg)}.lang-switch{height:38px;border:1px solid #0f766e;border-radius:999px;background:#fff;color:#111827;font-weight:900;padding:0 10px;margin-left:8px}.mobile-lang-wrap{position:fixed;right:14px;bottom:14px;z-index:9999}.mobile-lang-wrap .lang-switch{background:#0f766e;color:#fff}@media(max-width:760px){.daily-seo-update{margin:14px 12px;padding:16px}.daily-link{width:100%;justify-content:center}.lang-switch{width:100%;margin:8px 0 0}.mobile-lang-wrap .lang-switch{width:118px;height:38px;font-size:12px}.main-nav.open,.main-nav.force-open,#nav.open{display:grid!important}}</style>`;
-const SELECT=`<select class="lang-switch" aria-label="Change language" onchange="setPageLang(this.value)"><option value="">Language</option><option value="en">EN</option><option value="zh-CN">中文</option><option value="de">DE</option><option value="fr">FR</option><option value="es">ES</option><option value="it">IT</option><option value="pl">PL</option><option value="nl">NL</option><option value="pt">PT</option></select>`;
-const SCRIPT=`<script>(()=>{const ARTICLE='${ARTICLE}',TITLE=${JSON.stringify(TITLE)},DESC=${JSON.stringify(DESC)},FAQ1=${JSON.stringify(FAQ1)},FAQ2=${JSON.stringify(FAQ2)};function esc(s){return String(s).replace(/[&<>]/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;'}[m]))}function menu(){const b=document.querySelector('.menu-button,#menuBtn,.menu');const n=document.querySelector('#mainNav,#nav,.main-nav');if(b&&n&&!b.dataset.dailyMenu){b.dataset.dailyMenu='1';b.addEventListener('click',()=>{n.classList.toggle('open');n.classList.toggle('force-open')},true)}}function add(){if(document.querySelector('.daily-seo-update'))return;const t=document.querySelector('.hero,.hero-v4,main>section,.product-section')||document.querySelector('main')||document.body;t.insertAdjacentHTML('afterend','<section class="daily-seo-update"><span class="daily-label">TODAY SEO UPDATE</span><h2>'+esc(TITLE)+'</h2><p>'+esc(DESC)+'</p><a class="daily-link" href="'+ARTICLE+'">打开完整文章 →</a><div class="daily-faq"><h3>新增 FAQ</h3><details open><summary>'+esc(FAQ1[0])+'</summary><p>'+esc(FAQ1[1])+'</p></details><details><summary>'+esc(FAQ2[0])+'</summary><p>'+esc(FAQ2[1])+'</p></details></div></section>')}function fixHero(){document.querySelectorAll('a[href="/uk-shipping-guide.html"]').forEach(a=>{a.href=ARTICLE;a.textContent='Read Full Article'})}function run(){menu();fixHero();add()}run();document.addEventListener('DOMContentLoaded',run);setTimeout(run,500);})();function googleTranslateElementInit(){var l=(document.documentElement.lang||'en');new google.translate.TranslateElement({pageLanguage:l,includedLanguages:'en,zh-CN,de,fr,es,it,pl,nl,pt',autoDisplay:false},'google_translate_element')}function setPageLang(v){if(!v)return;var s=(document.documentElement.lang||'en');document.cookie='googtrans=/'+s+'/'+v+';path=/';document.cookie='googtrans=/'+s+'/'+v+';domain=.'+location.hostname+';path=/';location.reload()}</script><div id="google_translate_element" style="display:none"></div><div class="mobile-lang-wrap">${SELECT}</div><script src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>`;
-export default{async fetch(request,env){const res=await env.ASSETS.fetch(request);const url=new URL(request.url);if(url.pathname.endsWith('/sitemap.xml')){let t=await res.text();if(!t.includes(LOC))t=t.replace('</urlset>',`  <url><loc>${LOC}</loc></url>\n</urlset>`);return new Response(t,{headers:{'content-type':'application/xml; charset=UTF-8'}})}const ct=res.headers.get('content-type')||'';if(!ct.includes('text/html'))return res;let lang=false;return new HTMLRewriter().on('head',{element(e){e.append(STYLE,{html:true})}}).on('nav',{element(e){if(!lang){e.append(SELECT,{html:true});lang=true}}}).on('body',{element(e){e.append(SCRIPT,{html:true})}}).transform(res)}};
+const CANONICAL_HOST = "hipobuys.uk";
+
+const LEGACY_REDIRECTS = new Map([
+  ["/uk-hipobuy-fees-guide-2026", "/en/hipobuy-fees/"],
+  ["/uk-hipobuy-shipping-estimate-guide", "/en/shipping-from-china/"],
+  ["/uk-qc-photos-before-shipping", "/qc-checklist-uk-buyers"],
+  ["/uk-shipping-guide", "/hipobuy-uk-shipping-line-selection"],
+  ["/uk-w2c-links-product-route-guide", "/en/w2c-links/"],
+  ["/w2c-links-guide", "/en/w2c-links/"],
+  ["/uk-hipobuy-coupons-insurance-checklist", "/en/hipobuy-coupon/"],
+  ["/hipobuy-uk-qc-w2c-shipping-check-2026-07-10", "/hipobuy-uk-w2c-qc-shipping-workflow-2026"],
+  ["/en", "/"],
+  ["/en/", "/"],
+]);
+
+const SECURITY_HEADERS = {
+  "Content-Security-Policy": "default-src 'self'; img-src 'self' data: https://www.cnbuycha.com; style-src 'self' 'unsafe-inline'; script-src 'self' 'unsafe-inline'; connect-src 'self'; form-action 'self' https://www.cnbuycha.com; base-uri 'self'; frame-ancestors 'none'; upgrade-insecure-requests",
+  "Permissions-Policy": "camera=(), geolocation=(), microphone=(), payment=()",
+  "Referrer-Policy": "strict-origin-when-cross-origin",
+  "Strict-Transport-Security": "max-age=31536000; includeSubDomains; preload",
+  "X-Content-Type-Options": "nosniff",
+  "X-Frame-Options": "DENY",
+};
+
+function permanentRedirect(url, pathname, hostname = CANONICAL_HOST) {
+  const target = new URL(url);
+  target.protocol = "https:";
+  target.hostname = hostname;
+  target.port = "";
+  target.pathname = pathname;
+  return Response.redirect(target.toString(), 301);
+}
+
+function cleanPathname(pathname) {
+  if (pathname === "/index.html") return "/";
+  return pathname.endsWith(".html") ? pathname.slice(0, -5) : pathname;
+}
+
+export default {
+  async fetch(request, env) {
+    const url = new URL(request.url);
+    const cleanPath = cleanPathname(url.pathname);
+    const legacyTarget = LEGACY_REDIRECTS.get(cleanPath);
+
+    if (url.hostname !== CANONICAL_HOST || url.protocol !== "https:") {
+      return permanentRedirect(url, legacyTarget || cleanPath);
+    }
+
+    if (cleanPath === "/de" || cleanPath === "/de/" || cleanPath.startsWith("/de/")) {
+      return permanentRedirect(url, cleanPath, "hipobuys.de");
+    }
+
+    if (legacyTarget) return permanentRedirect(url, legacyTarget);
+    if (cleanPath !== url.pathname) return permanentRedirect(url, cleanPath);
+
+    const response = await env.ASSETS.fetch(request);
+    const headers = new Headers(response.headers);
+    for (const [name, value] of Object.entries(SECURITY_HEADERS)) {
+      headers.set(name, value);
+    }
+
+    return new Response(response.body, {
+      status: response.status,
+      statusText: response.statusText,
+      headers,
+    });
+  },
+};
