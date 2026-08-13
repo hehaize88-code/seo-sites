@@ -1,4 +1,55 @@
-const STYLE=`<style>.lang-switch{height:40px;border:1px solid #1cbfd1;border-radius:999px;background:#061c2b;color:#eaffff;font-weight:900;padding:0 12px;outline:0;min-width:112px;color-scheme:dark}.lang-switch option{background:#fff!important;color:#061226!important;font-weight:800}.mobile-lang-wrap{position:fixed;right:14px;bottom:14px;z-index:9999;display:none}.mobile-lang-wrap .lang-switch{box-shadow:0 12px 30px rgba(0,0,0,.28);background:#08283b}@media(max-width:760px){nav#nav .lang-switch{grid-column:1/-1;width:100%;margin-top:4px}.mobile-lang-wrap{display:block}.mobile-lang-wrap .lang-switch{width:118px;height:38px;font-size:12px}}.goog-te-banner-frame.skiptranslate{display:none!important}body{top:0!important}</style>`;
-const SELECT=`<select class="lang-switch" aria-label="Change language" onchange="setPageLang(this.value)"><option value="">语言</option><option value="zh-CN">中文</option><option value="en">EN</option><option value="de">DE</option><option value="fr">FR</option><option value="es">ES</option><option value="it">IT</option><option value="pl">PL</option><option value="nl">NL</option><option value="pt">PT</option></select>`;
-const FOOTER=`<div class="mobile-lang-wrap">${SELECT}</div><div id="google_translate_element" style="display:none"></div><script>function googleTranslateElementInit(){var l=(document.documentElement.lang||'zh-CN');new google.translate.TranslateElement({pageLanguage:l,includedLanguages:'zh-CN,en,de,fr,es,it,pl,nl,pt',autoDisplay:false},'google_translate_element')}function setPageLang(v){if(!v)return;var s=(document.documentElement.lang||'zh-CN');document.cookie='googtrans=/'+s+'/'+v+';path=/';document.cookie='googtrans=/'+s+'/'+v+';domain=.'+location.hostname+';path=/';location.reload()}</script><script src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>`;
-export default{async fetch(request,env){const url=new URL(request.url);if(url.hostname==='www.hoobuys.pro'){url.hostname='hoobuys.pro';return new Response(null,{status:301,headers:{Location:url.toString(),'Cache-Control':'public, max-age=3600'}})}const res=await env.ASSETS.fetch(request);const ct=res.headers.get('content-type')||'';if(!ct.includes('text/html')||res.status!==200)return res;const canonical=`https://hoobuys.pro${url.pathname}`;let added=false;const addLang={element(e){if(!added){e.append(SELECT,{html:true});added=true}}};return new HTMLRewriter().on('link[rel="canonical"]',{element(e){e.remove()}}).on('head',{element(e){e.append(`${STYLE}<link rel="canonical" href="${canonical}">`,{html:true})}}).on('nav#nav',addLang).on('body',{element(e){e.append(FOOTER,{html:true})}}).transform(res)}};
+const SECURITY_HEADERS={
+  "X-Content-Type-Options":"nosniff",
+  "Referrer-Policy":"strict-origin-when-cross-origin",
+  "Permissions-Policy":"camera=(), microphone=(), geolocation=()",
+  "X-Frame-Options":"SAMEORIGIN",
+  "Strict-Transport-Security":"max-age=31536000; includeSubDomains",
+  "Content-Security-Policy":"default-src 'self'; img-src 'self' https://www.cnbuycha.com data:; style-src 'self' 'unsafe-inline'; script-src 'self'; form-action 'self' https://www.cnbuycha.com; base-uri 'self'; frame-ancestors 'self'"
+};
+
+function redirect(url,status=301){
+  return new Response(null,{status,headers:{Location:url.toString(),"Cache-Control":"public, max-age=3600"}});
+}
+
+export default{
+  async fetch(request,env){
+    const url=new URL(request.url);
+    if(url.hostname==="www.hoobuys.pro"){
+      url.hostname="hoobuys.pro";
+      return redirect(url);
+    }
+    if(url.pathname==="/languages"||url.pathname==="/languages.html"){
+      url.pathname="/";
+      return redirect(url);
+    }
+    if(url.pathname==="/hoobuy-pro-europe-parcel-ledger-w2c-qc-2026-07-14"||url.pathname==="/hoobuy-pro-europe-parcel-ledger-w2c-qc-2026-07-14.html"){
+      url.pathname="/shipping-guide";
+      return redirect(url);
+    }
+    if(url.pathname.endsWith(".html")){
+      url.pathname=url.pathname.slice(0,-5)||"/";
+      return redirect(url);
+    }
+    if(url.pathname!=="/"&&url.pathname.endsWith("/")){
+      url.pathname=url.pathname.slice(0,-1);
+      return redirect(url);
+    }
+    const response=await env.ASSETS.fetch(request);
+    const headers=new Headers(response.headers);
+    for(const [name,value] of Object.entries(SECURITY_HEADERS))headers.set(name,value);
+
+    const type=headers.get("content-type")||"";
+    if(!type.includes("text/html")||response.status!==200){
+      if(response.status===404)headers.set("Cache-Control","public, max-age=60");
+      return new Response(response.body,{status:response.status,statusText:response.statusText,headers});
+    }
+
+    headers.set("Cache-Control","public, max-age=0, s-maxage=3600, stale-while-revalidate=86400");
+    const canonical="https://hoobuys.pro"+url.pathname;
+    const transformed=new HTMLRewriter()
+      .on('link[rel="canonical"]',{element(element){element.remove()}})
+      .on("head",{element(element){element.append('<link rel="canonical" href="'+canonical+'">',{html:true})}})
+      .transform(new Response(response.body,{status:response.status,statusText:response.statusText,headers}));
+    return transformed;
+  }
+};
