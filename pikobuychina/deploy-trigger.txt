@@ -1,4 +1,4 @@
 PikobuyChina deployment trigger
-Updated: 2026-07-17
+Updated: 2026-08-24
 Purpose: force Cloudflare Pages to rebuild from the latest pikobuychina folder and _worker.js changes.
-Latest intended changes: restore the search box on mobile, compress the mobile layout without removing sections by using horizontal carousels, and force Sweatshirts to https://cnfansge.com/hoodies-sweaters/.
+Latest intended changes: consolidate canonical URLs, correct sitemap and internal links, improve search-result titles, default the homepage to English, and serve a distinct noindex 404 page.
