@@ -47,7 +47,7 @@ const SECURITY_HEADERS={
   "Permissions-Policy":"camera=(), microphone=(), geolocation=()",
   "X-Frame-Options":"SAMEORIGIN",
   "Strict-Transport-Security":"max-age=31536000; includeSubDomains",
-  "Content-Security-Policy":"default-src 'self'; img-src 'self' https://www.cnbuycha.com data:; style-src 'self' 'unsafe-inline'; script-src 'self' 'unsafe-inline'; form-action 'self' https://www.cnbuycha.com; base-uri 'self'; frame-ancestors 'self'"
+  "Content-Security-Policy":"default-src 'self'; img-src 'self' https://www.cnbuycha.com data:; style-src 'self' 'unsafe-inline'; script-src 'self' 'unsafe-inline' https://www.googletagmanager.com; form-action 'self' https://www.cnbuycha.com; base-uri 'self'; frame-ancestors 'self'"
 };
 
 function addSecurity(headers){
