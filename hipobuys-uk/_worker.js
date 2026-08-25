@@ -14,7 +14,7 @@ const LEGACY_REDIRECTS = new Map([
 ]);
 
 const SECURITY_HEADERS = {
-  "Content-Security-Policy": "default-src 'self'; img-src 'self' data: https://www.cnbuycha.com; style-src 'self' 'unsafe-inline'; script-src 'self' 'unsafe-inline'; connect-src 'self'; form-action 'self' https://www.cnbuycha.com; base-uri 'self'; frame-ancestors 'none'; upgrade-insecure-requests",
+  "Content-Security-Policy": "default-src 'self'; img-src 'self' data: https://www.cnbuycha.com; style-src 'self' 'unsafe-inline'; script-src 'self' 'unsafe-inline' https://www.googletagmanager.com; connect-src 'self' https://*.google-analytics.com https://*.analytics.google.com; form-action 'self' https://www.cnbuycha.com; base-uri 'self'; frame-ancestors 'none'; upgrade-insecure-requests",
   "Permissions-Policy": "camera=(), geolocation=(), microphone=(), payment=()",
   "Referrer-Policy": "strict-origin-when-cross-origin",
   "Strict-Transport-Security": "max-age=31536000; includeSubDomains; preload",
