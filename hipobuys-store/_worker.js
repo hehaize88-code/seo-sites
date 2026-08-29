@@ -5,6 +5,7 @@ const ROOT_PAGES=[
   "/","/agent-workflow-guide","/categories","/disclaimer","/faq","/first-order-checklist","/guides",
   "/hipobuy-coupons-insurance-storefront-checklist","/hipobuy-fees-storefront-guide",
   "/hipobuy-qc-photos-storefront-checklist","/hipobuy-shipping-estimate-europe-storefront",
+  "/hipobuy-keyword-search-product-finds",
   "/hipobuy-store-qc-photos-shipping-cost-checklist-2026","/hipobuy-store-w2c-qc-shipping-workflow-2026",
   "/imprint","/languages","/privacy","/product-qc-checklist","/products","/seo-guide",
   "/storefront-shipping-guide","/w2c-product-route-storefront-guide","/w2c-store-links"
