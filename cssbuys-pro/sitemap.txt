@@ -14,6 +14,7 @@ https://cssbuys.pro/guides/cssbuy-spreadsheet
 https://cssbuys.pro/guides/cssbuy-domestic-shipping-seller-to-warehouse
 https://cssbuys.pro/guides/cssbuy-service-payment-fees-prepayment-audit
 https://cssbuys.pro/guides/cssbuy-consolidate-or-split-parcel-cost-model
+https://cssbuys.pro/guides/cssbuy-shipping-line-comparison-framework
 https://cssbuys.pro/guides/cssbuy-total-landed-cost-worksheet
 https://cssbuys.pro/guides/cssbuy-tracking-not-updating-parcel-status-guide
 https://cssbuys.pro/guides/qc-guide
