@@ -6,8 +6,8 @@ export default {
       return Response.redirect(url.toString(), 301);
     }
 
-    if (url.pathname.startsWith("/articles/") && url.pathname.endsWith(".html")) {
-      url.pathname = url.pathname.slice(0, -5);
+    if (url.pathname.endsWith(".html")) {
+      url.pathname = url.pathname === "/index.html" ? "/" : url.pathname.slice(0, -5);
       return Response.redirect(url.toString(), 301);
     }
 

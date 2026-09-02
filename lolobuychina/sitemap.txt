@@ -1,7 +1,7 @@
 https://lolobuychina.com/
-https://lolobuychina.com/seo-guide.html
-https://lolobuychina.com/faq.html
-https://lolobuychina.com/guides.html
+https://lolobuychina.com/seo-guide
+https://lolobuychina.com/faq
+https://lolobuychina.com/guides
 https://lolobuychina.com/guides/lolobuy-warehouse-storage-planning
 https://lolobuychina.com/guides/lolobuy-total-landed-cost-worksheet
 https://lolobuychina.com/guides/lolobuy-domestic-shipping-seller-warehouse
@@ -9,11 +9,11 @@ https://lolobuychina.com/guides/lolobuy-service-payment-fees-verification
 https://lolobuychina.com/guides/lolobuy-currency-conversion-exchange-rate-cost
 https://lolobuychina.com/guides/lolobuy-shipping-calculator-estimate-final-charge
 https://lolobuychina.com/guides/lolobuy-actual-vs-volumetric-weight-cost
-https://lolobuychina.com/finds.html
-https://lolobuychina.com/directory.html
-https://lolobuychina.com/w2c.html
-https://lolobuychina.com/qc.html
-https://lolobuychina.com/shipping.html
+https://lolobuychina.com/finds
+https://lolobuychina.com/directory
+https://lolobuychina.com/w2c
+https://lolobuychina.com/qc
+https://lolobuychina.com/shipping
 https://lolobuychina.com/articles/lolobuy-w2c-qc-shipping-checklist
 https://lolobuychina.com/articles/lolobuy-coupons-exchange-rate-notes
 https://lolobuychina.com/articles/how-agent-style-ordering-works
