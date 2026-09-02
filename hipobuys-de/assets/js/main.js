@@ -41,3 +41,46 @@
     setTimeout(applyEnglishFix, 100);
   }
 })();
+
+
+(() => {
+  function sendEvent(name, params) {
+    if (typeof window.gtag === "function") window.gtag("event", name, params);
+  }
+
+  document.addEventListener("click", (event) => {
+    const link = event.target.closest("a[href]");
+    if (!link) return;
+    let url;
+    try { url = new URL(link.href, window.location.href); } catch { return; }
+    const text = (link.textContent || "").trim().slice(0, 120);
+    const card = link.closest(".product-tile");
+    if (url.hostname === "www.cnfanshp.com" || url.hostname === "cnfanshp.com") {
+      sendEvent(card ? "select_item" : "main_product_click", {
+        link_url: url.href,
+        link_text: text,
+        item_name: card ? (card.dataset.name || "") : "",
+        item_category: card ? (card.dataset.category || "") : "",
+        page_path: window.location.pathname
+      });
+      return;
+    }
+    if (url.origin === window.location.origin && /guide|anleitung|sendungsverfolgung|kosten|versand|qc|product|categor/.test(url.pathname)) {
+      sendEvent("article_click", {
+        link_url: url.href,
+        link_text: text,
+        page_path: window.location.pathname
+      });
+    }
+  });
+
+  document.addEventListener("submit", (event) => {
+    if (event.target && event.target.id === "productSearchForm") {
+      const input = document.querySelector("#productSearchInput");
+      sendEvent("product_search", {
+        search_term: input ? input.value.trim() : "",
+        page_path: window.location.pathname
+      });
+    }
+  });
+})();
