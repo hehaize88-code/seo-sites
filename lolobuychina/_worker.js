@@ -6,6 +6,11 @@ export default {
       return Response.redirect(url.toString(), 301);
     }
 
+    if (url.pathname.startsWith("/articles/") && url.pathname.endsWith(".html")) {
+      url.pathname = url.pathname.slice(0, -5);
+      return Response.redirect(url.toString(), 301);
+    }
+
     const response = await env.ASSETS.fetch(request);
     const contentType = response.headers.get("content-type") || "";
     if (!contentType.includes("text/html")) {
