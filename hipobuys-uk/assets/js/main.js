@@ -27,4 +27,14 @@
       });
     });
   }
+
+  document.addEventListener("click", (event) => {
+    const link = event.target.closest('a[href*="cnfanshp.com"]');
+    if (!link || typeof window.gtag !== "function") return;
+    window.gtag("event", "outbound_click_cnfanshp", {
+      link_url: link.href,
+      link_text: (link.textContent || "").trim(),
+      transport_type: "beacon",
+    });
+  });
 })();

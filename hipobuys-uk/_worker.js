@@ -9,6 +9,7 @@ const LEGACY_REDIRECTS = new Map([
   ["/w2c-links-guide", "/en/w2c-links/"],
   ["/uk-hipobuy-coupons-insurance-checklist", "/en/hipobuy-coupon/"],
   ["/hipobuy-uk-qc-w2c-shipping-check-2026-07-10", "/hipobuy-uk-w2c-qc-shipping-workflow-2026"],
+  ["/daily-seo/hipobuy-uk-vat-qc-parcel-guide-2026-07-09", "/hipobuy-uk-vat-customs-guide-2026"],
   ["/en", "/"],
   ["/en/", "/"],
 ]);
