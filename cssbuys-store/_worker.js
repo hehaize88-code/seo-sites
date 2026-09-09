@@ -30,7 +30,7 @@ const CATEGORY_ROUTES = new Map([
 ]);
 
 const SECURITY_HEADERS = {
-  "Content-Security-Policy": "default-src 'self'; img-src 'self' data: https://www.cnbuycha.com; style-src 'self' 'unsafe-inline'; script-src 'self' 'unsafe-inline' https://www.googletagmanager.com; connect-src 'self' https://*.google-analytics.com https://*.analytics.google.com; form-action 'self' https://www.cnbuycha.com; base-uri 'self'; frame-ancestors 'none'; upgrade-insecure-requests",
+  "Content-Security-Policy": "default-src 'self'; img-src 'self' data: https://cnfanssp.com; style-src 'self' 'unsafe-inline'; script-src 'self' 'unsafe-inline' https://www.googletagmanager.com; connect-src 'self' https://*.google-analytics.com https://*.analytics.google.com; form-action 'self' https://cnfanssp.com; base-uri 'self'; frame-ancestors 'none'; upgrade-insecure-requests",
   "Permissions-Policy": "camera=(), geolocation=(), microphone=(), payment=()",
   "Referrer-Policy": "strict-origin-when-cross-origin",
   "Strict-Transport-Security": "max-age=31536000; includeSubDomains; preload",
@@ -68,7 +68,7 @@ export default {
 
     const categoryMatch = cleanPath.match(/^\/categories\/([^/]+)\/?$/);
     if (categoryMatch && CATEGORY_ROUTES.has(categoryMatch[1])) {
-      const target = new URL(`https://www.cnbuycha.com/${CATEGORY_ROUTES.get(categoryMatch[1])}/`);
+      const target = new URL(`https://cnfanssp.com/${CATEGORY_ROUTES.get(categoryMatch[1])}/`);
       target.search = url.search;
       return Response.redirect(target.toString(), 301);
     }
