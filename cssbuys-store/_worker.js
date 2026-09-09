@@ -3,6 +3,12 @@ const CANONICAL_HOST = "cssbuys.store";
 const LEGACY_PATHS = new Map([
   ["/guides", "/guides/"],
   ["/guides.html", "/guides/"],
+  ["/guides/w2c", "/guides/cssbuy-link-converter-w2c-guide"],
+  ["/guides/store-w2c-link-desk", "/guides/cssbuy-link-converter-w2c-guide"],
+  ["/guides/spreadsheet-shelf-method", "/guides/cssbuy-spreadsheet"],
+  ["/guides/qc-desk-before-shipping", "/guides/qc-guide"],
+  ["/guides/shipping-prep-from-store-picks", "/guides/cssbuy-shipping-calculator-estimate"],
+  ["/guides/agent-route-checklist", "/guides/cssbuy-shipping-calculator-estimate"],
   ["/products/5691", "/products/3402"],
   ["/products/5940", "/products/3401"],
   ["/products/5987", "/products/3400"],
@@ -79,10 +85,22 @@ export default {
       headers.set(name, value);
     }
 
-    return new Response(response.body, {
+    const securedResponse = new Response(response.body, {
       status: response.status,
       statusText: response.statusText,
       headers,
     });
+
+    if ((headers.get("content-type") || "").includes("text/html")) {
+      return new HTMLRewriter()
+        .on("head", {
+          element(element) {
+            element.append('<script defer src="/assets/site-tracking.js"></script>', { html: true });
+          },
+        })
+        .transform(securedResponse);
+    }
+
+    return securedResponse;
   },
 };
