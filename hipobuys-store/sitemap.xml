@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://hipobuys.store/</loc><lastmod>2026-08-13</lastmod></url>
-  <url><loc>https://hipobuys.store/products</loc><lastmod>2026-08-13</lastmod></url>
+  <url><loc>https://hipobuys.store/</loc><lastmod>2026-09-11</lastmod></url>
+  <url><loc>https://hipobuys.store/products</loc><lastmod>2026-09-11</lastmod></url>
   <url><loc>https://hipobuys.store/categories</loc><lastmod>2026-08-13</lastmod></url>
-  <url><loc>https://hipobuys.store/guides</loc><lastmod>2026-08-13</lastmod></url>
+  <url><loc>https://hipobuys.store/guides</loc><lastmod>2026-09-11</lastmod></url>
+  <url><loc>https://hipobuys.store/articles</loc><lastmod>2026-09-11</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
   <url><loc>https://hipobuys.store/faq</loc><lastmod>2026-08-13</lastmod></url>
   <url><loc>https://hipobuys.store/seo-guide</loc><lastmod>2026-08-13</lastmod></url>
   <url><loc>https://hipobuys.store/agent-workflow-guide</loc><lastmod>2026-08-13</lastmod></url>
@@ -18,7 +19,7 @@
   <url><loc>https://hipobuys.store/imprint</loc><lastmod>2026-08-13</lastmod></url>
   <url><loc>https://hipobuys.store/languages</loc><lastmod>2026-08-13</lastmod></url>
   <url><loc>https://hipobuys.store/privacy</loc><lastmod>2026-08-13</lastmod></url>
-  <url><loc>https://hipobuys.store/product-qc-checklist</loc><lastmod>2026-08-13</lastmod></url>
+  <url><loc>https://hipobuys.store/product-qc-checklist</loc><lastmod>2026-09-11</lastmod></url>
   <url><loc>https://hipobuys.store/storefront-shipping-guide</loc><lastmod>2026-08-13</lastmod></url>
   <url><loc>https://hipobuys.store/w2c-product-route-storefront-guide</loc><lastmod>2026-08-13</lastmod></url>
   <url><loc>https://hipobuys.store/w2c-store-links</loc><lastmod>2026-08-13</lastmod></url>
@@ -86,4 +87,14 @@
   <url><loc>https://hipobuys.store/hipobuy-keyword-search-product-finds</loc><lastmod>2026-08-29</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://hipobuys.store/hipobuy-taobao-finds-listing-comparison</loc><lastmod>2026-08-31</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://hipobuys.store/hipobuy-1688-finds-moq-variants-seller-questions</loc><lastmod>2026-09-02</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://hipobuys.store/hipobuy-spreadsheet-2026-product-links-qc-checks</loc><lastmod>2026-09-11</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://hipobuys.store/hipobuy-warehouse-location-forwarding-address</loc><lastmod>2026-09-11</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://hipobuys.store/hipobuy-order-status-tracking-guide</loc><lastmod>2026-09-11</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://hipobuys.store/hipobuy-review-2026-safety-workflow</loc><lastmod>2026-09-11</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://hipobuys.store/hipobuy-rehearsal-parcel-volumetric-weight</loc><lastmod>2026-09-11</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://hipobuys.store/hipobuy-shipping-calculator-weight-dimensions</loc><lastmod>2026-09-11</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://hipobuys.store/hipobuy-restricted-items-shipping-lines</loc><lastmod>2026-09-11</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://hipobuys.store/hipobuy-custom-order-vs-forwarding-order</loc><lastmod>2026-09-11</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://hipobuys.store/hipobuy-login-app-account-navigation</loc><lastmod>2026-09-11</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://hipobuys.store/hipobuy-shipping-us-uk-canada</loc><lastmod>2026-09-11</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
 </urlset>

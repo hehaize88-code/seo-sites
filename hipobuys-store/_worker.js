@@ -2,13 +2,18 @@ const SITE="https://hipobuys.store";
 const STORE="https://cnfanssp.com";
 
 const ROOT_PAGES=[
-  "/","/agent-workflow-guide","/categories","/disclaimer","/faq","/first-order-checklist","/guides",
+  "/","/agent-workflow-guide","/articles","/categories","/disclaimer","/faq","/first-order-checklist","/guides",
   "/hipobuy-coupons-insurance-storefront-checklist","/hipobuy-fees-storefront-guide",
   "/hipobuy-qc-photos-storefront-checklist","/hipobuy-shipping-estimate-europe-storefront",
   "/hipobuy-keyword-search-product-finds","/hipobuy-taobao-finds-listing-comparison","/hipobuy-1688-finds-moq-variants-seller-questions",
   "/hipobuy-store-qc-photos-shipping-cost-checklist-2026","/hipobuy-store-w2c-qc-shipping-workflow-2026",
   "/imprint","/languages","/privacy","/product-qc-checklist","/products","/seo-guide",
-  "/storefront-shipping-guide","/w2c-product-route-storefront-guide","/w2c-store-links"
+  "/storefront-shipping-guide","/w2c-product-route-storefront-guide","/w2c-store-links",
+  "/hipobuy-spreadsheet-2026-product-links-qc-checks","/hipobuy-warehouse-location-forwarding-address",
+  "/hipobuy-order-status-tracking-guide","/hipobuy-review-2026-safety-workflow",
+  "/hipobuy-rehearsal-parcel-volumetric-weight","/hipobuy-shipping-calculator-weight-dimensions",
+  "/hipobuy-restricted-items-shipping-lines","/hipobuy-custom-order-vs-forwarding-order",
+  "/hipobuy-login-app-account-navigation","/hipobuy-shipping-us-uk-canada"
 ];
 
 const DAILY_PAGES=[
@@ -35,7 +40,8 @@ const LOCALIZED_PAGES=[
 const PAGES=new Set([...ROOT_PAGES,...DAILY_PAGES,...LOCALIZED_PAGES]);
 const ASSETS=new Set([
   "/robots.txt","/sitemap.xml","/autry-shoes.png","/bape-shoes.png","/corteiz-jacket.png",
-  "/gucci-jacket.png","/hoka-shoes.png","/lv-hoodie.png","/new-balance-9060.png"
+  "/gucci-jacket.png","/hoka-shoes.png","/lv-hoodie.png","/new-balance-9060.png",
+  "/assets/seo-article.css","/assets/site-analytics.js"
 ]);
 const STORE_HOSTS=new Set([
   "cnfanssp.com","www.cnfanssp.com",
@@ -116,7 +122,7 @@ export default{
       url.pathname=canonicalPath(url.pathname);
       return redirect(url);
     }
-    if(url.pathname==="/sitemap-extra.xml"){
+    if(url.pathname==="/sitemap-extra.xml"||url.pathname==="/google-sitemap.xml"){
       url.pathname="/sitemap.xml";
       return redirect(url);
     }
