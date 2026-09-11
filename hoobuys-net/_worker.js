@@ -4,6 +4,19 @@ const STYLE = `<style>
 
 const SELECT = `<select class="lang-switch" aria-label="Translate page" onchange="setPageLang(this.value)"><option value="">Translate</option><option value="en">EN</option><option value="zh-CN">中文</option><option value="de">DE</option><option value="fr">FR</option><option value="es">ES</option><option value="it">IT</option><option value="pl">PL</option><option value="nl">NL</option><option value="pt">PT</option></select>`;
 
+// Increment this whenever outbound product routes change. Cache API entries can
+// survive a Pages deployment, so a versioned cache key prevents an older HTML
+// response from keeping obsolete product and category destinations alive.
+const CACHE_VERSION = 'cnfanssp-20260911-v2';
+const PRIMARY_SITE = 'https://cnfanssp.com';
+
+function normalizePrimarySite(value) {
+  if (!value) return value;
+  return value
+    .replace(/^https:\/\/www\.cnbuycha\.com(?=\/|$)/i, PRIMARY_SITE)
+    .replace(/^https:\/\/cnbuycha\.com(?=\/|$)/i, PRIMARY_SITE);
+}
+
 const PAGE_END = `<div class="trust-links"><a href="/articles">Articles</a><a href="/guides">Guides</a><a href="/about">About</a><a href="/editorial-policy">Editorial policy</a><a href="/privacy">Privacy</a><a href="/terms">Terms</a><a href="/sitemap.xml">Sitemap</a></div><div class="mobile-lang-wrap">${SELECT}</div><div id="google_translate_element" hidden></div><script>function googleTranslateElementInit(){new google.translate.TranslateElement({pageLanguage:'en',includedLanguages:'en,zh-CN,de,fr,es,it,pl,nl,pt',autoDisplay:false},'google_translate_element')}function setPageLang(v){if(!v)return;document.cookie='googtrans=/en/'+v+';path=/;SameSite=Lax';document.cookie='googtrans=/en/'+v+';domain=.'+location.hostname+';path=/;SameSite=Lax';location.reload()}</script><script>(function(){var sentScroll=false;function event(name,params){if(typeof window.gtag==='function')window.gtag('event',name,params||{})}document.addEventListener('click',function(e){var a=e.target.closest&&e.target.closest('a');if(!a)return;try{var u=new URL(a.href,location.href);if(u.hostname==='cnfanssp.com')event('outbound_product_click',{link_url:u.href,link_text:(a.textContent||'').trim().slice(0,100),page_path:location.pathname})}catch(_){} });document.addEventListener('submit',function(e){var f=e.target;try{var u=new URL(f.action,location.href);if(u.hostname==='cnfanssp.com')event('product_search_submit',{page_path:location.pathname})}catch(_){} });addEventListener('scroll',function(){if(!sentScroll&&scrollY+innerHeight>=document.documentElement.scrollHeight*.5){sentScroll=true;event('article_scroll_50',{page_path:location.pathname})}},{passive:true})})();</script><script defer src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>`;
 
 const LEGACY_REDIRECTS = new Map([
@@ -46,7 +59,9 @@ export default {
 
     const canCache = request.method === 'GET' && !url.search;
     const cache = caches.default;
-    const cacheKey = new Request(url.toString(), {method: 'GET'});
+    const cacheKeyUrl = new URL(url);
+    cacheKeyUrl.searchParams.set('__hoobuys_cache', CACHE_VERSION);
+    const cacheKey = new Request(cacheKeyUrl.toString(), {method: 'GET'});
     if (canCache) {
       const cached = await cache.match(cacheKey);
       if (cached) return cached;
@@ -59,6 +74,21 @@ export default {
     let selectAdded = false;
     const transformed = new HTMLRewriter()
       .on('head', {element(element) { element.append(STYLE, {html: true}); }})
+      .on('a[href]', {element(element) {
+        const current = element.getAttribute('href');
+        const normalized = normalizePrimarySite(current);
+        if (normalized !== current) element.setAttribute('href', normalized);
+      }})
+      .on('form[action]', {element(element) {
+        const current = element.getAttribute('action');
+        const normalized = normalizePrimarySite(current);
+        if (normalized !== current) element.setAttribute('action', normalized);
+      }})
+      .on('img[src]', {element(element) {
+        const current = element.getAttribute('src');
+        const normalized = normalizePrimarySite(current);
+        if (normalized !== current) element.setAttribute('src', normalized);
+      }})
       .on('nav#nav', {element(element) { if (!selectAdded) { element.append(SELECT, {html: true}); selectAdded = true; } }})
       .on('body', {element(element) { element.append(PAGE_END, {html: true}); }})
       .transform(response);
@@ -68,8 +98,9 @@ export default {
     headers.set('X-Content-Type-Options', 'nosniff');
     headers.set('Referrer-Policy', 'strict-origin-when-cross-origin');
     headers.set('X-Frame-Options', 'SAMEORIGIN');
+    headers.set('X-Hoobuys-Release', CACHE_VERSION);
     if (transformed.status === 404) headers.set('Cache-Control', 'no-store');
-    else headers.set('Cache-Control', 'public, max-age=300, s-maxage=86400, stale-while-revalidate=604800');
+    else headers.set('Cache-Control', 'public, max-age=60, s-maxage=300, stale-while-revalidate=60');
 
     const finalResponse = new Response(transformed.body, {status: transformed.status, statusText: transformed.statusText, headers});
     if (canCache && finalResponse.ok) {
