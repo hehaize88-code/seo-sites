@@ -1,5 +1,5 @@
 const SITE="https://hipobuys.store";
-const STORE="https://www.cnbuycha.com";
+const STORE="https://cnfanssp.com";
 
 const ROOT_PAGES=[
   "/","/agent-workflow-guide","/categories","/disclaimer","/faq","/first-order-checklist","/guides",
@@ -37,7 +37,11 @@ const ASSETS=new Set([
   "/robots.txt","/sitemap.xml","/autry-shoes.png","/bape-shoes.png","/corteiz-jacket.png",
   "/gucci-jacket.png","/hoka-shoes.png","/lv-hoodie.png","/new-balance-9060.png"
 ]);
-const OLD_STORE_HOSTS=new Set(["cnfanssp.com","www.cnfanssp.com","cnfanshp.com","www.cnfanshp.com"]);
+const STORE_HOSTS=new Set([
+  "cnfanssp.com","www.cnfanssp.com",
+  "cnfanshp.com","www.cnfanshp.com",
+  "cnbuycha.com","www.cnbuycha.com"
+]);
 const PLATFORM_HOSTS=new Set(["hipobuy.com","www.hipobuy.com","app.hipobuy.com","play.google.com","apps.apple.com"]);
 const CATEGORY_PATHS=new Set(["/shoes/","/hoodies-sweaters/","/t-shirts/","/jackets/","/pants-shorts/","/Jersey/","/accessories/","/electronics/","/headwear/","/other-stuff/"]);
 const FAQ_SCHEMA='<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Is HipoBuys Store a checkout site?","acceptedAnswer":{"@type":"Answer","text":"No. It is an independent discovery and guide hub and does not process product orders or payments."}},{"@type":"Question","name":"Should visitors check QC photos?","acceptedAnswer":{"@type":"Answer","text":"Yes. Start by matching product identity, colour, size and quantity, then review visible measurements, construction and damage."}},{"@type":"Question","name":"Can users start with W2C searches?","acceptedAnswer":{"@type":"Answer","text":"Yes. A useful W2C route connects current search intent to an exact, dated product listing and a later QC checklist."}},{"@type":"Question","name":"Does the site guarantee delivery time?","acceptedAnswer":{"@type":"Answer","text":"No. Delivery depends on the selected route, parcel contents, carrier operations and customs processing."}}]}</script>';
@@ -48,7 +52,7 @@ const SECURITY_HEADERS={
   "Permissions-Policy":"camera=(), microphone=(), geolocation=()",
   "X-Frame-Options":"SAMEORIGIN",
   "Strict-Transport-Security":"max-age=31536000; includeSubDomains",
-  "Content-Security-Policy":"default-src 'self'; img-src 'self' https://www.cnbuycha.com data:; style-src 'self' 'unsafe-inline'; script-src 'self' 'unsafe-inline' https://www.googletagmanager.com; form-action 'self' https://www.cnbuycha.com; base-uri 'self'; frame-ancestors 'self'"
+  "Content-Security-Policy":"default-src 'self'; img-src 'self' https://cnfanssp.com https://cnfanssp.com data:; style-src 'self' 'unsafe-inline'; script-src 'self' 'unsafe-inline' https://www.googletagmanager.com; form-action 'self' https://cnfanssp.com https://cnfanssp.com; base-uri 'self'; frame-ancestors 'self'"
 };
 
 function addSecurity(headers){
@@ -83,10 +87,11 @@ function rewriteHref(value,currentUrl){
     target.pathname=canonicalPath(target.pathname);
     return target.pathname+target.search+target.hash;
   }
-  if(OLD_STORE_HOSTS.has(target.hostname)){
-    if(CATEGORY_PATHS.has(target.pathname))return STORE+target.pathname;
-    if(target.pathname.startsWith("/AllProducts/")&&target.pathname!=="/AllProducts/")return "/products";
-    return STORE+"/AllProducts/";
+  if(STORE_HOSTS.has(target.hostname)){
+    target.protocol="https:";
+    target.hostname="cnfanssp.com";
+    target.port="";
+    return target.toString();
   }
   if(PLATFORM_HOSTS.has(target.hostname))return "/guides";
   return value;
