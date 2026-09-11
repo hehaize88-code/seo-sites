@@ -41,7 +41,8 @@ const PAGES=new Set([...ROOT_PAGES,...DAILY_PAGES,...LOCALIZED_PAGES]);
 const ASSETS=new Set([
   "/robots.txt","/sitemap.xml","/autry-shoes.png","/bape-shoes.png","/corteiz-jacket.png",
   "/gucci-jacket.png","/hoka-shoes.png","/lv-hoodie.png","/new-balance-9060.png",
-  "/assets/seo-article.css","/assets/site-analytics.js"
+  "/assets/seo-article.css","/assets/site-analytics.js",
+  "/assets/brand-logo.css","/assets/hipobuy-logo.png"
 ]);
 const STORE_HOSTS=new Set([
   "cnfanssp.com","www.cnfanssp.com",
