@@ -7,7 +7,7 @@ const SELECT = `<select class="lang-switch" aria-label="Translate page" onchange
 // Increment this whenever outbound product routes change. Cache API entries can
 // survive a Pages deployment, so a versioned cache key prevents an older HTML
 // response from keeping obsolete product and category destinations alive.
-const CACHE_VERSION = 'cnfanssp-20260911-v2';
+const CACHE_VERSION = 'cnfanssp-images-20260911-v3';
 const PRIMARY_SITE = 'https://cnfanssp.com';
 
 function normalizePrimarySite(value) {
