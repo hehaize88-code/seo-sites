@@ -1,6 +1,7 @@
 const STYLE = `<style>.lang-switch{height:40px;border:1px solid #1cbfd1;border-radius:999px;background:#061c2b;color:#eaffff;font-weight:900;padding:0 12px;outline:0;min-width:112px;color-scheme:dark}.lang-switch option{background:#fff!important;color:#061226!important;font-weight:800}.mobile-lang-wrap{position:fixed;right:14px;bottom:14px;z-index:9999;display:none}.mobile-lang-wrap .lang-switch{box-shadow:0 12px 30px rgba(0,0,0,.28);background:#08283b}@media(max-width:760px){nav#nav .lang-switch{grid-column:1/-1;width:100%;margin-top:4px}.mobile-lang-wrap{display:block}.mobile-lang-wrap .lang-switch{width:118px;height:38px;font-size:12px}}.goog-te-banner-frame.skiptranslate{display:none!important}body{top:0!important}</style>`;
 const SELECT = `<select class="lang-switch" aria-label="Change language" onchange="setPageLang(this.value)"><option value="">Language</option><option value="en">EN</option><option value="zh-CN">中文</option><option value="de">DE</option><option value="fr">FR</option><option value="es">ES</option><option value="it">IT</option><option value="pl">PL</option><option value="nl">NL</option><option value="pt">PT</option></select>`;
-const FOOTER = `<div class="mobile-lang-wrap">${SELECT}</div><div id="google_translate_element" style="display:none"></div><script>function googleTranslateElementInit(){var l=(document.documentElement.lang||'en');new google.translate.TranslateElement({pageLanguage:l,includedLanguages:'en,zh-CN,de,fr,es,it,pl,nl,pt',autoDisplay:false},'google_translate_element')}function setPageLang(v){if(!v)return;var s=(document.documentElement.lang||'en');document.cookie='googtrans=/'+s+'/'+v+';path=/';document.cookie='googtrans=/'+s+'/'+v+';domain=.'+location.hostname+';path=/';location.reload()}</script><script src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>`;
+const FOOTER = `<div class="mobile-lang-wrap">${SELECT}</div><div id="google_translate_element" style="display:none"></div><script>function googleTranslateElementInit(){var l=(document.documentElement.lang||'en');new google.translate.TranslateElement({pageLanguage:l,includedLanguages:'en,zh-CN,de,fr,es,it,pl,nl,pt',autoDisplay:false},'google_translate_element')}function setPageLang(v){if(!v)return;var s=(document.documentElement.lang||'en');document.cookie='googtrans=/'+s+'/'+v+';path=/';document.cookie='googtrans=/'+s+'/'+v+';domain=.'+location.hostname+';path=/';location.reload()}document.addEventListener('click',function(e){var a=e.target.closest('a');if(!a||typeof gtag!=='function')return;try{var u=new URL(a.href,location.href);if(u.hostname==='cnfanssp.com')gtag('event','product_index_click',{link_url:u.href,page_path:location.pathname});else if(u.origin===location.origin&&u.pathname.indexOf('/hoobuy')===0)gtag('event','guide_click',{link_url:u.pathname,page_path:location.pathname})}catch(_){}})</script><script src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>`;
+const CACHE_VERSION = 'org-seo-20260912-v1';
 
 export default {
   async fetch(request, env, ctx) {
@@ -13,8 +14,18 @@ export default {
       });
     }
 
+    if (url.pathname.endsWith('.html')) {
+      url.pathname = url.pathname.slice(0, -5) || '/';
+      return new Response(null, {
+        status: 301,
+        headers: { Location: url.toString(), 'Cache-Control': 'public, max-age=86400' },
+      });
+    }
+
     const cacheable = request.method === 'GET' && !url.search;
-    const cacheKey = new Request(url.toString(), request);
+    const cacheUrl = new URL(url.toString());
+    cacheUrl.searchParams.set('__cv', CACHE_VERSION);
+    const cacheKey = new Request(cacheUrl.toString(), request);
     if (cacheable) {
       const cached = await caches.default.match(cacheKey);
       if (cached) return cached;
