@@ -65,7 +65,7 @@
       });
       return;
     }
-    if (url.origin === window.location.origin && /guide|anleitung|sendungsverfolgung|kosten|versand|qc|product|categor/.test(url.pathname)) {
+    if (url.origin === window.location.origin && /guide|anleitung|sendungsverfolgung|kosten|versand|qc|product|categor|groessen|rueckgabe|lager|winterkleidung/.test(url.pathname)) {
       sendEvent("article_click", {
         link_url: url.href,
         link_text: text,
@@ -77,6 +77,7 @@
   document.addEventListener("submit", (event) => {
     if (event.target && event.target.id === "productSearchForm") {
       const input = document.querySelector("#productSearchInput");
+      if (event.defaultPrevented || !input || !input.value.trim()) return;
       sendEvent("product_search", {
         search_term: input ? input.value.trim() : "",
         page_path: window.location.pathname
