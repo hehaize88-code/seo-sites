@@ -20,7 +20,10 @@ export default {
     if (Object.hasOwn(productDestinations, productPath)) {
       return Response.redirect(productDestinations[productPath], 302);
     }
-    if (url.pathname === '/guides' || url.pathname === '/guides.html') { url.pathname = '/guides/'; return Response.redirect(url.toString(), 301); }
+    if (/^\/(?:de\/|fr\/|es\/|it\/|pl\/)?guides(?:\.html)?$/.test(url.pathname)) {
+      url.pathname = url.pathname.replace(/\.html$/, '') + '/';
+      return Response.redirect(url.toString(), 301);
+    }
     if (url.pathname.endsWith('/index.html')) { url.pathname = url.pathname.slice(0, -10); return Response.redirect(url.toString(), 301); }
     if (url.pathname.endsWith('.html') && url.pathname !== '/404.html') { url.pathname = url.pathname.slice(0, -5) || '/'; return Response.redirect(url.toString(), 301); }
     const response = await env.ASSETS.fetch(request);
