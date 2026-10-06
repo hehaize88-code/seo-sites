@@ -59,3 +59,19 @@
   .latest-guides .guide-tile > span { font-size: 11px; }
   .latest-guides .guide-tile .read-link { font-size: 14px; }
 }
+
+/* Article discovery and comfortable mobile reading. */
+.guide-tile time{display:block;color:#64748b;font-size:13px;margin-top:6px}
+.guide-tile h3{margin-top:18px}
+.all-guides .guide-tile{min-height:0}
+.article-updated{max-width:980px;margin:0 auto;padding:0 18px 24px;color:#56647a;font-size:14px}
+.article-refresh{margin:32px 0}
+.article-refresh p{font-size:16px;line-height:1.72}
+@media(max-width:700px){
+ .guide-tile time{font-size:12px}.guide-tile h3{margin-top:10px}
+ .all-guides .guide-tile h3{font-size:16px;line-height:1.25}
+ .all-guides .guide-tile p{font-size:14px;line-height:1.45}
+ .article .table-wrap{overflow:visible}.article table{min-width:0;table-layout:fixed;font-size:14px}
+ .article th,.article td{padding:7px;overflow-wrap:anywhere}
+ .article .hero h1{overflow-wrap:anywhere}
+}
