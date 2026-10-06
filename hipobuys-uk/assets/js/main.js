@@ -16,15 +16,15 @@
     });
   }
 
-  const categorySearch = document.querySelector("#categorySearch");
-  if (categorySearch) {
-    const cards = [...document.querySelectorAll(".lane-card")];
-    categorySearch.addEventListener("input", () => {
-      const query = categorySearch.value.trim().toLocaleLowerCase("en-GB");
-      cards.forEach((card) => {
-        const content = `${card.dataset.name || ""} ${card.textContent}`.toLocaleLowerCase("en-GB");
-        card.hidden = query !== "" && !content.includes(query);
-      });
+  const productSearch = document.querySelector(".product-search");
+  if (productSearch) {
+    productSearch.addEventListener("submit", (event) => {
+      const input = productSearch.querySelector('[name="keywords"]');
+      input.value = input.value.trim();
+      if (!input.value) {
+        event.preventDefault();
+        input.focus();
+      }
     });
   }
 
