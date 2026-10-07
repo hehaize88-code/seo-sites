@@ -1,5 +1,5 @@
 const CANONICAL_HOST = 'cssbuys.pro';
-const CACHE_VERSION = '20261007-store-links-v1';
+const CACHE_VERSION = '20261007-logo-v2';
 const STORE_CATEGORIES = {
   "other-stuff": "https://cnfanshp.com/other-stuff/",
   "electronics": "https://cnfanshp.com/electronics/",
