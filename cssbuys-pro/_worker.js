@@ -1,4 +1,18 @@
 const CANONICAL_HOST = 'cssbuys.pro';
+const CACHE_VERSION = '20261007-store-links-v1';
+const STORE_CATEGORIES = {
+  "other-stuff": "https://cnfanshp.com/other-stuff/",
+  "electronics": "https://cnfanshp.com/electronics/",
+  "jersey": "https://cnfanshp.com/Jersey/",
+  "accessories": "https://cnfanshp.com/accessories/",
+  "headwear": "https://cnfanshp.com/headwear/",
+  "pants-shorts": "https://cnfanshp.com/pants-shorts/",
+  "jackets": "https://cnfanshp.com/jackets/",
+  "t-shirts": "https://cnfanshp.com/t-shirts/",
+  "hoodies-sweaters": "https://cnfanshp.com/hoodies-sweaters/",
+  "shoes": "https://cnfanshp.com/shoes/",
+  "short-sets": "https://cnfanshp.com/short-sets/"
+};
 
 function canonicalPath(pathname) {
   if (pathname === '/index.html') return '/';
@@ -15,8 +29,8 @@ document.addEventListener('click',function(event){
   if(!link)return;
   try{
     var target=new URL(link.href,location.href);
-    if((target.hostname==='www.cssbuy.com'||target.hostname==='m.cssbuy.com')&&typeof gtag==='function'){
-      gtag('event','cssbuy_outbound_click',{
+    if((target.hostname==='cnfanshp.com'||target.hostname==='www.cnfanshp.com')&&typeof gtag==='function'){
+      gtag('event','store_outbound_click',{
         link_url:target.href,
         link_text:(link.textContent||'').trim().slice(0,100),
         page_location:location.href,
@@ -40,12 +54,18 @@ export default {
       return Response.redirect(url.toString(), 301);
     }
 
-    if (url.pathname.startsWith('/categories/')) {
-      return Response.redirect('https://www.cssbuy.com/', 301);
+    const category = /^\/categories\/([^/]+)\/?$/.exec(url.pathname);
+    if (category && Object.hasOwn(STORE_CATEGORIES, category[1])) {
+      return Response.redirect(STORE_CATEGORIES[category[1]], 301);
     }
 
+    // Scope edge entries to this release so old destinations cannot survive a deployment.
+    const cacheUrl = new URL(request.url);
+    cacheUrl.searchParams.set('__site_revision', CACHE_VERSION);
+    const cacheKey = new Request(cacheUrl.toString(), { method: 'GET' });
+
     if (request.method === 'GET') {
-      const cached = await caches.default.match(request);
+      const cached = await caches.default.match(cacheKey);
       if (cached) return cached;
     }
 
@@ -75,7 +95,7 @@ export default {
     }
 
     if (request.method === 'GET' && finalResponse.status === 200) {
-      ctx.waitUntil(caches.default.put(request, finalResponse.clone()));
+      ctx.waitUntil(caches.default.put(cacheKey, finalResponse.clone()));
     }
 
     return finalResponse;
