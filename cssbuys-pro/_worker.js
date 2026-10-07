@@ -1,5 +1,5 @@
 const CANONICAL_HOST = 'cssbuys.pro';
-const CACHE_VERSION = '20261007-seo-six-languages-v3';
+const CACHE_VERSION = '20261007-seo-six-languages-v4';
 const STORE_CATEGORIES = {
   "other-stuff": "https://cnfanshp.com/other-stuff/",
   "electronics": "https://cnfanshp.com/electronics/",
