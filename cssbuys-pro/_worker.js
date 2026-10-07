@@ -1,5 +1,5 @@
 const CANONICAL_HOST = 'cssbuys.pro';
-const CACHE_VERSION = '20261007-logo-v2';
+const CACHE_VERSION = '20261007-seo-six-languages-v3';
 const STORE_CATEGORIES = {
   "other-stuff": "https://cnfanshp.com/other-stuff/",
   "electronics": "https://cnfanshp.com/electronics/",
@@ -15,9 +15,10 @@ const STORE_CATEGORIES = {
 };
 
 function canonicalPath(pathname) {
-  if (pathname === '/index.html') return '/';
-  if (pathname === '/guides' || pathname === '/guides.html' || pathname === '/guides/index.html') return '/guides/';
-  if (/\/(de|fr|es)\/index\.html$/.test(pathname)) return pathname.replace(/index\.html$/, '');
+  if (pathname.endsWith('/index.html')) return pathname.slice(0, -10);
+  if (pathname === '/guides' || pathname === '/guides.html') return '/guides/';
+  if (/^\/(de|fr|es|it|zh)$/.test(pathname)) return pathname + '/';
+  if (/^\/(de|fr|es|it|zh)\/guides(?:\.html)?$/.test(pathname)) return pathname.replace(/\.html$/, '') + '/';
   if (pathname.endsWith('.html')) return pathname.slice(0, -5);
   return pathname;
 }
@@ -34,9 +35,27 @@ document.addEventListener('click',function(event){
         link_url:target.href,
         link_text:(link.textContent||'').trim().slice(0,100),
         page_location:location.href,
+        language:document.documentElement.lang,
+        link_type:target.pathname==='/AllProducts/'?'catalog':target.pathname.indexOf('/AllProducts/')===0?'product':'category',
+        item_id:target.pathname.indexOf('/AllProducts/')===0?target.pathname.split('/').pop().replace('.html',''):'',
         transport_type:'beacon'
       });
     }
+  }catch(_error){}
+});
+document.addEventListener('submit',function(event){
+  var form=event.target;
+  if(!form.matches || !form.matches('form[role="search"]') || typeof gtag!=='function')return;
+  try{
+    var target=new URL(form.action,location.href);
+    if(target.hostname!=='cnfanshp.com')return;
+    var input=form.querySelector('[name="keywords"]');
+    gtag('event','store_search',{
+      search_term:(input?input.value:'').trim().slice(0,150),
+      language:document.documentElement.lang,
+      page_location:location.href,
+      transport_type:'beacon'
+    });
   }catch(_error){}
 });
 </script>`;
