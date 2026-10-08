@@ -1,0 +1,5 @@
+beautifulsoup4>=4.12,<5
+ctranslate2>=4,<5
+sentencepiece>=0.2,<1
+sacremoses>=0.1,<1
+subword-nmt>=0.3,<1

@@ -1,0 +1,104 @@
+{
+  "cssbuy-spreadsheet": {
+    "title": "CSSBuy Spreadsheet: Product Finds, Prices and QC Notes",
+    "description": "Compare CSSBuy finds using dated USD prices, matching product links, variant checks, QC notes and shipping considerations.",
+    "published": "2026-09-09",
+    "status": "updated"
+  },
+  "qc-guide": {
+    "title": "CSSBuy QC Photos: 12 Checks Before Shipping or Returning",
+    "description": "Use a CSSBuy QC return decision checklist to verify the item, measurements, visible defects and missing parts before approving shipment.",
+    "published": "2026-09-09",
+    "status": "updated"
+  },
+  "cssbuy-shipping-calculator-estimate": {
+    "title": "CSSBuy Shipping Calculator: Weight, Volume and Cost",
+    "description": "Use the CSSBuy shipping calculator with realistic parcel weight, dimensions, route rules and packing scenarios. Includes a worked volumetric-weight example.",
+    "published": "2026-09-09",
+    "status": "updated"
+  },
+  "cssbuy-warehouse-address-location-storage": {
+    "title": "CSSBuy Warehouse Address, Location & Storage Guide 2026",
+    "description": "Find and verify the current CSSBuy warehouse address, preserve package identifiers, track arrival and separate free storage time from seller return deadlines.",
+    "published": "2026-09-09",
+    "status": "existing"
+  },
+  "cssbuy-points-rewards-guide": {
+    "title": "CSSBuy Points Guide 2026: Earn, Check and Use Rewards",
+    "description": "Understand CSSBuy points and rewards: where points may come from, how to verify a balance, what to check before redemption and why live account terms matter.",
+    "published": "2026-09-09",
+    "status": "existing"
+  },
+  "cssbuy-link-converter-w2c-guide": {
+    "title": "CSSBuy Link Converter & W2C Product Route Guide 2026",
+    "description": "Convert and verify CSSBuy product links safely: preserve marketplace item IDs, remove fragile redirects, confirm options and recover W2C routes that fail to parse.",
+    "published": "2026-09-09",
+    "status": "existing"
+  },
+  "cssbuy-store-product-shelf-qc-2026-07-09": {
+    "title": "CSSBuy Product Finds: Build a Shelf That Connects Images, Prices and QC",
+    "description": "A practical product-find guide to matching titles, first images, live USD prices, category routes and useful QC checks before shipping.",
+    "published": "2026-09-09",
+    "status": "existing"
+  },
+  "cssbuy-return-window-qc-decision-2026-07-13": {
+    "title": "CSSBuy Warehouse QC Decision Window: Storage and Return Checks",
+    "description": "An English guide to separating CSSBuy warehouse storage time from the shorter return decision window, with a practical arrival-day QC workflow.",
+    "published": "2026-09-09",
+    "status": "existing"
+  },
+  "cssbuy-alignment-symmetry-print-placement-qc": {
+    "title": "CSSBuy Alignment QC: Symmetry & Print Placement",
+    "description": "Review CSSBuy QC photos for garment symmetry, centered graphics, print placement and camera distortion with a repeatable evidence checklist.",
+    "published": "2026-08-13",
+    "status": "existing"
+  },
+  "cssbuy-size-measurement-qc-photo-limits": {
+    "title": "CSSBuy Size Measurement QC: What Photos Cannot Prove",
+    "description": "Review CSSBuy size measurement QC photos: verify ruler endpoints, compare garment dimensions and understand what warehouse images cannot prove about fit.",
+    "published": "2026-08-27",
+    "status": "existing"
+  },
+  "cssbuy-qc-color-lighting-photo-errors": {
+    "title": "CSSBuy QC Color and Lighting Errors: Photo Review Guide",
+    "description": "Separate a real CSSBuy QC color mismatch from white-balance, exposure, mixed-lighting, reflection and screen errors before approving warehouse goods.",
+    "published": "2026-08-29",
+    "status": "existing"
+  },
+  "cssbuy-material-texture-qc-photo-evidence": {
+    "title": "CSSBuy Material and Texture QC: Photo Evidence Guide",
+    "description": "Review CSSBuy material and texture QC evidence without guessing fiber content, hand feel, durability or authenticity from warehouse photos.",
+    "published": "2026-09-02",
+    "status": "existing"
+  },
+  "cssbuy-shoe-sizing-qc-checklist": {
+    "title": "CSSBuy Shoe Sizing Guide: Measurements and QC Checklist",
+    "description": "Compare CSSBuy shoe size charts, both size labels and insole measurements. Use a practical QC checklist to decide before international shipping.",
+    "published": "2026-09-09",
+    "status": "updated"
+  },
+  "cssbuy-stitching-finish-qc-checklist": {
+    "title": "CSSBuy Stitching QC Checklist: Seams and Finish",
+    "description": "Use a CSSBuy stitching QC checklist to review seams, hems, loose threads, finish defects and photo evidence before international shipping.",
+    "published": "2026-09-09",
+    "status": "existing"
+  },
+  "cssbuy-fees-payment-total-cost": {
+    "title": "CSSBuy Fees Explained: Build a Complete Buying Budget",
+    "description": "Understand CSSBuy fees with a complete budget for goods, payment costs, warehouse choices and international delivery. Includes a clearly labelled worked example.",
+    "published": "2026-10-08",
+    "status": "new"
+  },
+  "cssbuy-shoe-finds-price-sizing": {
+    "title": "CSSBuy Shoe Finds: Compare Price, Sizing and QC Evidence",
+    "description": "Compare CSSBuy shoe finds using dated USD prices, seller size charts, measurement methods, warehouse QC evidence and realistic shoebox packing choices.",
+    "published": "2026-10-08",
+    "status": "new"
+  },
+  "cssbuy-hoodie-finds-sizing-fabric": {
+    "title": "CSSBuy Hoodie Finds: Compare Measurements, Fabric and Cost",
+    "description": "Compare CSSBuy hoodie finds by chest width, length, sleeve construction, fabric evidence, dated product prices and warehouse QC checks.",
+    "published": "2026-10-08",
+    "status": "new"
+  }
+}

@@ -21,6 +21,11 @@ const LEGACY_PATHS = new Map([
   ["/products/5751", "/products/3393"],
 ]);
 
+for (const language of ["de", "fr", "es", "it", "pl", "nl", "pt"]) {
+  LEGACY_PATHS.set(`/${language}`, `/${language}/`);
+  LEGACY_PATHS.set(`/${language}/guides`, `/${language}/guides/`);
+}
+
 const CATEGORY_ROUTES = new Map([
   ["accessories", "accessories"],
   ["electronics", "electronics"],
@@ -74,7 +79,7 @@ export default {
 
     const categoryMatch = cleanPath.match(/^\/categories\/([^/]+)\/?$/);
     if (categoryMatch && CATEGORY_ROUTES.has(categoryMatch[1])) {
-      const target = new URL(`https://cnfanssp.com/${CATEGORY_ROUTES.get(categoryMatch[1])}/`);
+      const target = new URL(`https://www.cnfanssp.com/${CATEGORY_ROUTES.get(categoryMatch[1])}/`);
       target.search = url.search;
       return Response.redirect(target.toString(), 301);
     }
@@ -95,6 +100,7 @@ export default {
       return new HTMLRewriter()
         .on("head", {
           element(element) {
+            if (element.getAttribute("data-store-tracking") === "inline") return;
             element.append('<script defer src="/assets/site-tracking.js"></script>', { html: true });
           },
         })

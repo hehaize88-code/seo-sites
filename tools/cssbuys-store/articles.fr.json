@@ -1,0 +1,104 @@
+{
+  "cssbuy-spreadsheet": {
+    "title": "Feuille de calcul CSSBuy : Recherches de produits, prix et notes de QC",
+    "description": "Comparer CSSBuy trouve en utilisant des prix USD datés, des liens de produit correspondants, des vérifications de variantes, des notes de QC et des considérations d'expédition.",
+    "published": "2026-09-09",
+    "status": "updated"
+  },
+  "qc-guide": {
+    "title": "CSSBuy QC Photos: 12 vérifications avant expédition ou retour",
+    "description": "Utilisez une liste de vérification de la décision de retour CSSBuy QC pour vérifier l'article, les mesures, les défauts visibles et les pièces manquantes avant d'approuver l'expédition.",
+    "published": "2026-09-09",
+    "status": "updated"
+  },
+  "cssbuy-shipping-calculator-estimate": {
+    "title": "CSSBuy Calculatrice d'expédition: Poids, Volume et Coût",
+    "description": "Utilisez la calculatrice d'expédition CSSBuy avec poids de colis réaliste, dimensions, règles d'itinéraire et scénarios d'emballage. Comprend un exemple de poids volumétrique travaillé.",
+    "published": "2026-09-09",
+    "status": "updated"
+  },
+  "cssbuy-warehouse-address-location-storage": {
+    "title": "CSSBuy Entrepôt Adresse, emplacement et guide de stockage 2026",
+    "description": "Trouver et vérifier l'adresse actuelle de l'entrepôt CSSBuy, préserver les identifiants de colis, suivre l'arrivée et séparer le temps de stockage gratuit des délais de retour du vendeur.",
+    "published": "2026-09-09",
+    "status": "existing"
+  },
+  "cssbuy-points-rewards-guide": {
+    "title": "CSSBuy Guide des points 2026: Obtenir, vérifier et utiliser les récompenses",
+    "description": "Comprendre les points CSSBuy et les récompenses : d'où viennent les points, comment vérifier un solde, ce qu'il faut vérifier avant le rachat et pourquoi les termes de compte en direct comptent.",
+    "published": "2026-09-09",
+    "status": "existing"
+  },
+  "cssbuy-link-converter-w2c-guide": {
+    "title": "CSSBuy Link Converter & W2C Guide de route des produits 2026",
+    "description": "Convertir et vérifier CSSBuy liens de produit en toute sécurité: préserver les ID d'item du marché, supprimer les redirections fragiles, confirmer les options et récupérer les routes W2C qui ne parviennent pas à analyser.",
+    "published": "2026-09-09",
+    "status": "existing"
+  },
+  "cssbuy-store-product-shelf-qc-2026-07-09": {
+    "title": "CSSBuy Recherches de produits: Construire une plate-forme qui relie les images, les prix et le QC",
+    "description": "Un guide pratique produit-find pour les titres correspondants, les premières images, les prix en direct USD, les itinéraires de catégorie et les contrôles QC utiles avant l'expédition.",
+    "published": "2026-09-09",
+    "status": "existing"
+  },
+  "cssbuy-return-window-qc-decision-2026-07-13": {
+    "title": "CSSBuy Warehouse QC - Fenêtre de décision : Contrôles de stockage et de retour",
+    "description": "Un guide anglais pour séparer CSSBuy temps de stockage d'entrepôt de la fenêtre de décision de retour plus courte, avec un flux de travail pratique arrivée-jour QC.",
+    "published": "2026-09-09",
+    "status": "existing"
+  },
+  "cssbuy-alignment-symmetry-print-placement-qc": {
+    "title": "CSSBuy Alignement QC: Symmétrie & Placement d'impression",
+    "description": "Revue CSSBuy QC photos pour la symétrie de vêtement, graphiques centrés, placement d'impression et la distorsion de la caméra avec une liste de vérification de preuves répétables.",
+    "published": "2026-08-13",
+    "status": "existing"
+  },
+  "cssbuy-size-measurement-qc-photo-limits": {
+    "title": "CSSBuy Taille mesure QC: ce que les photos ne peuvent pas prouver",
+    "description": "Revue CSSBuy mesure de taille QC photos: vérifier les paramètres de règle, comparer les dimensions du vêtement et comprendre ce que les images d'entrepôt ne peuvent pas prouver à propos de l'ajustement.",
+    "published": "2026-08-27",
+    "status": "existing"
+  },
+  "cssbuy-qc-color-lighting-photo-errors": {
+    "title": "CSSBuy QC Erreurs de couleur et d'éclairage : Guide d'examen des photos",
+    "description": "Séparer une réelle erreur de couleur CSSBuy QC de l'équilibre blanc, de l'exposition, de l'éclairage mixte, de la réflexion et des erreurs d'écran avant d'approuver les marchandises d'entrepôt.",
+    "published": "2026-08-29",
+    "status": "existing"
+  },
+  "cssbuy-material-texture-qc-photo-evidence": {
+    "title": "CSSBuy Matériel et texture QC : Guide d'information photographique",
+    "description": "Avis CSSAcheter du matériel et de la texture QC preuves sans deviner le contenu en fibres, toucher les mains, la durabilité ou l'authenticité à partir de photos d'entrepôt.",
+    "published": "2026-09-02",
+    "status": "existing"
+  },
+  "cssbuy-shoe-sizing-qc-checklist": {
+    "title": "CSSBuy Guide de calibrage des chaussures: Mesures et Liste de contrôle QC",
+    "description": "Comparez les cartes de taille CSSBuy, les étiquettes de taille et les mesures de semelle intérieure. Utilisez une liste de contrôle pratique du CQ pour décider avant le transport international.",
+    "published": "2026-09-09",
+    "status": "updated"
+  },
+  "cssbuy-stitching-finish-qc-checklist": {
+    "title": "Liste de contrôle CSSBuy Stitching QC : coutures et finition",
+    "description": "Utilisez une liste de contrôle CSSBuy pour examiner les coutures, les ourlets, les fils lâches, les défauts de finition et les photos avant l'expédition internationale.",
+    "published": "2026-09-09",
+    "status": "existing"
+  },
+  "cssbuy-fees-payment-total-cost": {
+    "title": "Frais CSSBuy expliqués: Construire un budget d'achat complet",
+    "description": "Comprendre les frais CSSBuy avec un budget complet pour les marchandises, les coûts de paiement, les choix d'entrepôt et la livraison internationale. Comprend un exemple de travail clairement étiqueté.",
+    "published": "2026-10-08",
+    "status": "new"
+  },
+  "cssbuy-shoe-finds-price-sizing": {
+    "title": "CSSBuy Shoe Finds: Comparez les prix, le tailleur et la preuve de QC",
+    "description": "Comparer CSSBuy chaussures trouve en utilisant des prix USD datés, des graphiques de taille du vendeur, des méthodes de mesure, entrepôt QC preuves et des choix d'emballage de boîte à chaussures réalistes.",
+    "published": "2026-10-08",
+    "status": "new"
+  },
+  "cssbuy-hoodie-finds-sizing-fabric": {
+    "title": "CSSBuy Hoodie trouve: Comparer les mesures, le tissu et le coût",
+    "description": "Comparer CSSBuy sweat à capuche trouve par la largeur de poitrine, la longueur, la construction des manches, les preuves de tissu, les prix des produits datés et les contrôles QC entrepôt.",
+    "published": "2026-10-08",
+    "status": "new"
+  }
+}
