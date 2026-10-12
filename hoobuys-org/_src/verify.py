@@ -11,7 +11,7 @@ for row in rows:
  if len(forms)!=1:errors.append((str(p),'search form count'))
  else:
   f=forms[0];q=f.select_one('input[name="keywords"]');channel=f.select_one('input[name="channelid"]')
-  if f.get('action')!='https://cnfanssp.com/search.html' or f.get('method')!='get':errors.append((str(p),'search destination'))
+  if f.get('action')!='https://www.cnfanssp.com/search.html' or f.get('method')!='get':errors.append((str(p),'search destination'))
   if not q or q.get('type')!='search' or not q.has_attr('required') or not q.get('placeholder'):errors.append((str(p),'search input'))
   if not channel or channel.get('value')!='2':errors.append((str(p),'search channel'))
   if not f.select_one('button[type="submit"]') or not f.select_one('label[for="product-keywords"]'):errors.append((str(p),'search controls'))
@@ -34,8 +34,8 @@ for row in rows:
  s=docs[row['url']]
  for a in s.select('a[href],link[rel=alternate]'):
   href=a.get('href');v=urlsplit(href)
-  if v.netloc and v.netloc not in ['hoobuys.org','cnfanssp.com']:errors.append((row['url'],'external',href));continue
-  if v.netloc=='cnfanssp.com':continue
+  if v.netloc and v.netloc not in ['hoobuys.org','cnfanssp.com','www.cnfanssp.com']:errors.append((row['url'],'external',href));continue
+  if v.netloc in ['cnfanssp.com','www.cnfanssp.com']:continue
   if v.path in ['/sitemap.xml','/sitemap.txt']:continue
   target='https://hoobuys.org'+v.path if v.path else row['url']
   if target not in docs:errors.append((row['url'],'broken link',href));continue
