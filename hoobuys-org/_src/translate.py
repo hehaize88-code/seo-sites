@@ -32,6 +32,9 @@ def clean(value,source,lang):
  if 'HooBuy' in source or 'HooBuy' in source.replace('HoooBuy','HooBuy'):
   value=re.sub(r'HooAcheter|HooAchetez|HoooBuy|霍布依|呼和浩特|胡布伊|胡同|胡布伊', 'HooBuy',value)
  value=value.replace('😛','↗')
+ if lang=='zh-CN':
+  for a,b in {'田地':'字段','布料索赔':'面料说明','织物索赔':'面料说明','大小证据':'尺码依据','大小标签':'尺码标签','大小图表':'尺码表','陶宝':'淘宝','魏甸':'微店','HooBuy帽':'HooBuy 连帽卫衣','售货到货房航运':'卖家到仓库的国内运输'}.items():value=value.replace(a,b)
+  if any(x in source.lower() for x in ['exact order','your order','order id','order record']):value=value.replace('顺序','订单')
  if '→' in source and '→' not in value:value=value.rstrip(' _+')+' →'
  if '↗' in source and '↗' not in value:value=value.rstrip(' _+')+' ↗'
  return value
@@ -39,6 +42,7 @@ def clean(value,source,lang):
 def render_localized(doc,lang,slug,cache,langs,names,route):
  soup=BeautifulSoup(doc,'html.parser');origin='https://hoobuys.org'
  overrides_file=S/'overrides.json';overrides=json.loads(overrides_file.read_text()).get(lang,{}) if overrides_file.exists() else {}
+ if lang=='zh-CN':overrides.update(json.loads((S/'zh-review.json').read_text()))
  known=set(json.loads((S/'english-pages.json').read_text()))
  def convert(s):
   if lang=='en' or not needed(s):return s
