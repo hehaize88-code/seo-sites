@@ -1,0 +1,218 @@
+{
+  "en": [
+    {
+      "path": "/en/hipobuy-coupon/",
+      "title": "Hipobuy Coupon and Shipping Discount Guide",
+      "desc": "Coupons may include new-user, shipping and limited-time campaign benefits. Availability changes, so users should check the official Hipobuy account or curr"
+    },
+    {
+      "path": "/en/hipobuy-fees/",
+      "title": "Hipobuy Fees: Service, Shipping and Customs",
+      "desc": "Hipobuy states that its shopping agent service is free. The public formula is item cost plus international shipping plus customs charges."
+    },
+    {
+      "path": "/en/qc-photos/",
+      "title": "QC Photos Guide for Hipobuy Orders",
+      "desc": "QC photos help buyers check visible details after items reach the warehouse. They do not guarantee every material detail, but they reduce avoidable mistake"
+    },
+    {
+      "path": "/en/shipping-from-china/",
+      "title": "Shipping from China with Hipobuy",
+      "desc": "Hipobuy shipping is calculated by destination, weight, route and item type. Use the shipping estimate before assuming a fixed cost."
+    },
+    {
+      "path": "/en/w2c-links/",
+      "title": "W2C Links Guide for Europe",
+      "desc": "W2C means “where to cop”. Use this page to move from search intent into categories, product links and QC checks before shipping."
+    }
+  ],
+  "de": [
+    {
+      "path": "/de/hipobuy-gutschein/",
+      "title": "Hipobuy Gutschein und Versandrabatt Guide",
+      "desc": "Gutscheine können Neukunden-, Versand- oder Aktionsvorteile sein. Verfügbarkeit und Betrag hängen vom aktuellen Hipobuy-Konto oder Banner ab."
+    },
+    {
+      "path": "/de/hipobuy-kosten/",
+      "title": "Hipobuy Kosten: Servicegebühr, Versand und Zoll",
+      "desc": "Hipobuy beschreibt den Shopping-Agent-Service öffentlich als kostenlos. Die Gesamtkosten bestehen aus Warenkosten, internationalem Versand und Zoll-/Deklar"
+    },
+    {
+      "path": "/de/qc-fotos/",
+      "title": "QC Fotos bei Hipobuy: Schuhe, Kleidung und Zubehör prüfen",
+      "desc": "QC-Fotos helfen, sichtbare Details nach Ankunft im Lager zu prüfen. Sie ersetzen keine Garantie, reduzieren aber vermeidbare Fehler."
+    },
+    {
+      "path": "/de/versand-aus-china/",
+      "title": "Versand aus China mit Hipobuy",
+      "desc": "Der Versand wird nach Zielland, Gewicht, Route und Produkttyp berechnet. Für Deutschland sind DHL- und Tax-Free-Routen besonders relevant."
+    },
+    {
+      "path": "/de/w2c-links/",
+      "title": "W2C Links Deutschland und Europa",
+      "desc": "W2C bedeutet “where to cop”. Diese Seite führt Nutzer von der Produktsuche zu Kategorien, Produktlinks und QC-Prüfung."
+    }
+  ],
+  "fr": [
+    {
+      "path": "/fr/coupon-hipobuy/",
+      "title": "Guide des coupons et réductions Hipobuy",
+      "desc": "Les coupons peuvent être liés à l’inscription, à la livraison ou à des campagnes limitées. Les détails changent selon le compte et les promotions officiell"
+    },
+    {
+      "path": "/fr/frais-hipobuy/",
+      "title": "Frais Hipobuy : service, livraison et douane",
+      "desc": "Hipobuy indique publiquement que le service d’agent d’achat est gratuit. Le coût total comprend le produit, la livraison internationale et les frais de dou"
+    },
+    {
+      "path": "/fr/liens-w2c/",
+      "title": "Guide des liens W2C pour la France et l’Europe",
+      "desc": "W2C signifie “where to cop”. Cette page transforme une recherche de produit en catégorie, lien produit et contrôle QC."
+    },
+    {
+      "path": "/fr/livraison-depuis-la-chine/",
+      "title": "Livraison depuis la Chine avec Hipobuy",
+      "desc": "La livraison dépend du pays, du poids, de la route et du type de produit. Il faut utiliser l’estimateur avant de supposer un prix fixe."
+    },
+    {
+      "path": "/fr/photos-qc/",
+      "title": "Photos QC Hipobuy : vérifier avant l’expédition",
+      "desc": "Les photos QC permettent de vérifier les détails visibles après l’arrivée en entrepôt. Elles réduisent les erreurs mais ne garantissent pas tout."
+    }
+  ],
+  "es": [
+    {
+      "path": "/es/cupon-hipobuy/",
+      "title": "Guía de cupones y descuentos Hipobuy",
+      "desc": "Los cupones pueden ser de nuevo usuario, envío o campañas limitadas. La disponibilidad cambia según la cuenta y los banners oficiales."
+    },
+    {
+      "path": "/es/enlaces-w2c/",
+      "title": "Guía de enlaces W2C para España y Europa",
+      "desc": "W2C significa “where to cop”. Esta página conecta búsquedas con categorías, enlaces de producto y revisión QC."
+    },
+    {
+      "path": "/es/envio-desde-china/",
+      "title": "Envío desde China con Hipobuy",
+      "desc": "El envío depende del destino, peso, ruta y tipo de producto. Usa el estimador antes de asumir un precio fijo."
+    },
+    {
+      "path": "/es/fotos-qc/",
+      "title": "Fotos QC en Hipobuy: revisión antes del envío",
+      "desc": "Las fotos QC ayudan a revisar detalles visibles cuando el producto llega al almacén. Reducen errores, pero no garantizan todos los detalles."
+    },
+    {
+      "path": "/es/tarifas-hipobuy/",
+      "title": "Tarifas Hipobuy: servicio, envío y aduanas",
+      "desc": "Hipobuy afirma públicamente que el servicio de agente de compra es gratuito. El coste total incluye producto, envío internacional y aduanas/declaración."
+    }
+  ],
+  "it": [
+    {
+      "path": "/it/costi-hipobuy/",
+      "title": "Costi Hipobuy: servizio, spedizione e dogana",
+      "desc": "Hipobuy dichiara pubblicamente che il servizio di shopping agent è gratuito. Il costo totale include prodotto, spedizione internazionale e dogana/dichiaraz"
+    },
+    {
+      "path": "/it/coupon-hipobuy/",
+      "title": "Guida coupon e sconti Hipobuy",
+      "desc": "I coupon possono riguardare nuovi utenti, spedizione o campagne limitate. Dettagli e disponibilità cambiano."
+    },
+    {
+      "path": "/it/foto-qc/",
+      "title": "Foto QC Hipobuy: controllo prima della spedizione",
+      "desc": "Le foto QC aiutano a controllare i dettagli visibili dopo l’arrivo in magazzino. Riduccono gli errori ma non garantiscono tutto."
+    },
+    {
+      "path": "/it/link-w2c/",
+      "title": "Guida link W2C per Italia ed Europa",
+      "desc": "W2C significa “where to cop”. Questa pagina collega la ricerca a categorie, link prodotto e controlli QC."
+    },
+    {
+      "path": "/it/spedizione-dalla-cina/",
+      "title": "Spedizione dalla Cina con Hipobuy",
+      "desc": "La spedizione dipende da destinazione, peso, rotta e tipo di prodotto. Usa lo stimatore prima di assumere un costo fisso."
+    }
+  ],
+  "pl": [
+    {
+      "path": "/pl/koszty-hipobuy/",
+      "title": "Koszty Hipobuy: usługa, wysyłka i cło",
+      "desc": "Hipobuy publicznie podaje, że usługa agenta zakupowego jest bezpłatna. Całkowity koszt obejmuje produkt, wysyłkę międzynarodową i opłaty celne/deklaracyjne"
+    },
+    {
+      "path": "/pl/kupon-hipobuy/",
+      "title": "Kupony i zniżki Hipobuy",
+      "desc": "Kupony mogą dotyczyć nowych użytkowników, wysyłki lub kampanii czasowych. Dostępność zmienia się w zależności od konta i promocji."
+    },
+    {
+      "path": "/pl/linki-w2c/",
+      "title": "Linki W2C dla Polski i Europy",
+      "desc": "W2C oznacza “where to cop”. Strona prowadzi od wyszukiwania do kategorii, linków produktów i kontroli QC."
+    },
+    {
+      "path": "/pl/wysylka-z-chin/",
+      "title": "Wysyłka z Chin przez Hipobuy",
+      "desc": "Wysyłka zależy od kraju, wagi, trasy i typu produktu. Należy użyć kalkulatora przed założeniem stałej ceny."
+    },
+    {
+      "path": "/pl/zdjecia-qc/",
+      "title": "Zdjęcia QC Hipobuy: kontrola przed wysyłką",
+      "desc": "Zdjęcia QC pomagają sprawdzić widoczne szczegóły po dotarciu do magazynu. Zmniejszają ryzyko błędów, ale nie gwarantują wszystkiego."
+    }
+  ],
+  "pt": [
+    {
+      "path": "/pt/cupom-hipobuy/",
+      "title": "Guia de cupões e descontos Hipobuy",
+      "desc": "Os cupões podem ser para novos utilizadores, envio ou campanhas limitadas. A disponibilidade muda conforme a conta e as promoções."
+    },
+    {
+      "path": "/pt/envio-da-china/",
+      "title": "Envio da China com Hipobuy",
+      "desc": "O envio depende do destino, peso, rota e tipo de produto. Use o estimador antes de assumir um preço fixo."
+    },
+    {
+      "path": "/pt/fotos-qc/",
+      "title": "Fotos QC Hipobuy: verificar antes do envio",
+      "desc": "As fotos QC ajudam a verificar detalhes visíveis quando o produto chega ao armazém. Reduzem erros, mas não garantem todos os detalhes."
+    },
+    {
+      "path": "/pt/links-w2c/",
+      "title": "Guia de links W2C para Portugal e Europa",
+      "desc": "W2C significa “where to cop”. Esta página liga a pesquisa a categorias, links de produto e verificação QC."
+    },
+    {
+      "path": "/pt/taxas-hipobuy/",
+      "title": "Taxas Hipobuy: serviço, envio e alfândega",
+      "desc": "Hipobuy afirma publicamente que o serviço de agente de compras é gratuito. O custo total inclui produto, envio internacional e taxas alfandegárias/de decla"
+    }
+  ],
+  "nl": [
+    {
+      "path": "/nl/hipobuy-korting/",
+      "title": "Hipobuy korting en coupon gids",
+      "desc": "Coupons kunnen voor nieuwe gebruikers, verzending of tijdelijke acties zijn. Beschikbaarheid verandert per account en promotie."
+    },
+    {
+      "path": "/nl/hipobuy-kosten/",
+      "title": "Hipobuy kosten: service, verzending en douane",
+      "desc": "Hipobuy vermeldt publiekelijk dat de shopping-agent service gratis is. De totale kosten bestaan uit productkosten, internationale verzending en douane/decl"
+    },
+    {
+      "path": "/nl/qc-fotos/",
+      "title": "QC-foto’s bij Hipobuy: controleren vóór verzending",
+      "desc": "QC-foto’s helpen zichtbare details te controleren zodra producten in het magazijn aankomen. Ze beperken fouten, maar garanderen niet alles."
+    },
+    {
+      "path": "/nl/verzending-uit-china/",
+      "title": "Verzending vanuit China met Hipobuy",
+      "desc": "Verzending hangt af van bestemming, gewicht, route en producttype. Gebruik de schatting voordat je een vaste prijs aanneemt."
+    },
+    {
+      "path": "/nl/w2c-links/",
+      "title": "W2C-links voor Nederland en Europa",
+      "desc": "W2C betekent “where to cop”. Deze pagina verbindt zoekintentie met categorieën, productlinks en QC-controle."
+    }
+  ]
+}

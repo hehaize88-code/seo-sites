@@ -1,0 +1,145 @@
+@@ tracking
+Rastreio Hipobuy: estados da encomenda e do pacote
+Compreenda os estados Hipobuy desde a compra até à entrega e verifique os comprovativos certos quando o rastreio deixa de atualizar.
+O rastreio Hipobuy tem dois registos: a encomenda acompanha o produto até ao armazém e o pacote acompanha o envio internacional. Identifique primeiro o registo afetado. Uma entrega da transportadora chinesa não significa que o pacote internacional esteja pronto. Um número de rastreio também não prova, por si só, a recolha.
+## Identifique a etapa
+Anote referência, estado e data da última alteração. Pagamento, compra, saída do vendedor, receção e transporte internacional são etapas distintas. A informação atual da conta prevalece sobre capturas antigas. Guarde ligação do produto, tamanho, cor e quantidade para identificar a compra exata.
+## Pagamento e expedição do vendedor
+Se o pagamento estiver pendente, confirme o débito efetivo e a existência da encomenda antes de repetir. Uma autorização bancária nem sempre equivale a uma compra concluída. Procure mensagens sobre disponibilidade, variante ou preço. Compare qualquer suplemento com o preço original e o transporte interno antes de pagar uma diferença inexplicada.
+Guarde transportadora e número nacional após a expedição. A etiqueta pode ser criada antes da entrega física à transportadora. Se houver vários volumes, registe todos os números e quantidades. Um volume entregue não confirma a chegada da encomenda completa.
+## Entregue, recebido e armazenado
+O armazém ainda precisa de associar a etiqueta à conta, identificar e inspecionar o conteúdo. Se o artigo não aparecer, compare hora de entrega, destinatário, número de volumes e referência. Envie as provas ao apoio oficial ocultando dados pessoais desnecessários.
+Depois do armazenamento, confira cor, quantidade, medidas e danos visíveis nas fotografias QC. Resolva tamanhos incorretos enquanto a devolução estiver disponível. Registe os prazos mostrados para cada artigo, sem assumir uma data igual para todas as compras.
+## Preparação e transporte internacional
+Confirme destino, artigos, linha e pagamento do pacote. A embalagem pode alterar peso e dimensões. Compare um suplemento com as medidas finais e as regras da linha, guardando a estimativa inicial e o resultado definitivo.
+Distingua preparação, recolha e trânsito. A mudança de transportadora pode gerar outro número. Compare o último evento no sítio da transportadora com a conta. Uma pausa nas leituras não explica sozinha a causa nem demonstra perda.
+## Envie uma pergunta concreta
+Reúna referência, estado, última alteração, transportadora, número e último evento. Para receções em falta, acrescente comprovativo de entrega e conteúdo esperado; para diferenças de preço, medidas estimadas e finais. Peça uma ação específica, como associar um volume entregue.
+Exemplo: «O pacote está pronto para recolha, mas a transportadora mostra apenas etiqueta criada. Confirmem a entrega à transportadora e o número da primeira leitura de aceitação». Respeite o prazo de reclamação da linha em vez de esperar indefinidamente.
+## Receção e reembolsos
+Confirme a receção apenas depois da entrega física. Perante danos ou faltas, conserve embalagem e fotografias da etiqueta, caixa e conteúdo. Cancelamento, crédito no saldo e reembolso no método de pagamento são eventos diferentes. Identifique o que falta e mantenha privados os dados da conta e do rastreio.
+@@ warehouse
+Morada do armazém Hipobuy: encontrar os dados corretos
+Encontre a morada atual do armazém Hipobuy na conta, evite instruções antigas e resolva volumes entregues que ainda não aparecem armazenados.
+Use as instruções atuais de receção da encomenda ou do reencaminhamento na conta oficial Hipobuy. Não publicamos uma morada: uma sede empresarial, captura antiga ou destinatário de outro cliente não confirmam onde enviar o seu pacote. Verifique todos os dados antes da expedição.
+## Escolha o serviço adequado
+Numa compra através do agente, siga a encomenda e o transporte interno. Num reencaminhamento de compra própria, confirme primeiro a aceitação do produto e obtenha instruções no processo atual ou junto do apoio oficial. Uma devolução pode exigir outra morada autorizada.
+Copie exatamente destinatário, telefone, região, rua, eventual código postal e identificador de cliente. Preserve os caracteres originais necessários. Não traduza nem abrevie o identificador por iniciativa própria. Chegar ao edifício certo não garante a atribuição à conta.
+## Confirme os dados do vendedor
+Compare a morada guardada pelo vendedor com as instruções vigentes. Conserve em privado confirmação, variante, quantidade e referência. Registe cada número de volumes separados e atualize-o quando mudar a etiqueta ou transportadora.
+Uma morada fiscal não é necessariamente um ponto de receção. Se uma encomenda antiga indicar dados diferentes, suspenda o novo envio até esclarecer. Para volumes em trânsito, coordene alterações com vendedor, transportadora e plataforma.
+## Separe entrega e entrada em armazém
+A leitura de entrega e o registo armazenado são marcos distintos. Pode faltar associar a etiqueta ou inspecionar o conteúdo. Verifique data, destinatário, volumes e prova de entrega, além de mensagens ou artigos não identificados na conta.
+Descreva a diferença: «A transportadora confirma um volume entregue, mas falta o registo de armazém desta encomenda». Envie referências ao apoio oficial. Não publique a morada completa com o seu identificador pessoal.
+## Verifique cada artigo
+Compare origem, cor, tamanho e unidades com as fotografias QC. Uma medição legível ajuda em vestuário e calçado. As imagens mostram o estado visível, mas não certificam materiais ocultos, autenticidade ou durabilidade.
+Mantenha uma lista com data de entrada, decisão QC, prazos de devolução e armazenamento e grupo de envio previsto. Use as datas do artigo individual. Resolva acessórios em falta e variantes erradas antes de juntar produtos.
+## Prepare o envio depois da inspeção
+Agrupe produtos compatíveis e confirme destino, restrições e proteção antes da estimativa. Caixas de sapatos e roupa volumosa alteram as dimensões exteriores. Peça medidas embaladas se influenciarem a linha ou o peso faturável. A cidade do armazém não prevê, sozinha, preço ou prazo internacional.
+## Preserve a sequência de provas
+Relacione aceitação do vendedor, rastreio interno, receção, identidade armazenada e criação do pacote internacional. Guarde provas anteriores quando o estado muda. Envie etiquetas legíveis em privado com a questão específica. O objetivo é um volume corretamente atribuído, não apenas um nome de localidade.
+@@ calculator
+Calculadora de envio Hipobuy: peso e dimensões
+Prepare uma estimativa Hipobuy com destino, peso embalado e medidas exteriores. Calcule um exemplo de peso volumétrico antes de comparar linhas.
+Uma estimativa útil precisa de destino, peso embalado, dimensões exteriores e tipo de produto. A calculadora abaixo ilustra um peso faturável, não um preço Hipobuy em tempo real. Use divisor, arredondamento e limites da linha escolhida. Uma caixa grande e leve pode custar mais do que sugere a balança.
+## Defina destino e conteúdo
+Escolha o país real e código postal quando solicitado. Identifique todo o conteúdo, incluindo baterias ou líquidos. Um preço disponível não confirma a admissibilidade de todos os produtos. Verifique compatibilidade antes de otimizar custos.
+Compare com destino, conteúdo e proteção iguais. Guarde data, moeda e condições. Suplementos ou serviços incluídos diferentes tornam enganador comparar apenas valores.
+## Meça o pacote terminado
+Ao produto somam-se caixa exterior, proteções e embalagens conservadas. Meça as dimensões máximas em centímetros, incluindo saliências. Com várias caixas, interessa o conjunto. Se as medidas forem incertas, compare dois cenários de embalagem realistas.
+## Entenda o peso volumétrico
+A fórmula geral é comprimento × largura × altura ÷ divisor da linha. A DHL publica, por exemplo, 5.000 para centímetros e quilogramas. Trata-se de um exemplo de transportadora, não de uma regra universal Hipobuy. Outras linhas podem usar outro divisor, arredondamento ou base de cobrança.
+Uma caixa de 40 × 30 × 25 cm dá 6 kg com divisor 5.000. Se pesar 3 kg e o serviço cobrar o maior valor, a base antes de arredondar é 6 kg. Reduzir a altura para 20 cm dá 4,8 kg. Isto explica o efeito do volume, sem estabelecer preço ou poupança garantida.
+## Leia os escalões de cobrança
+Uma linha pode cobrar um montante inicial e incrementos adicionais. Confirme arredondamento e intervalo: uma pequena diferença pode ultrapassar um escalão. Não multiplique uma tarifa por quilogramas se o serviço não calcular dessa forma.
+Separe frete internacional, compra, transporte interno, embalagem opcional, pagamento e eventuais encargos no destino. Verifique o que o orçamento inclui. O total depende do pacote real e das condições atuais.
+## Compare embalagens alternativas
+Calcule com a proteção necessária. Retirar uma caixa reduz volume mas pode eliminar proteção ou algo que quer conservar. Dividir permite por vezes outra linha, acrescentando embalagem e montante inicial. Compare a soma de todos os pacotes com proteção equivalente.
+## Atualize em três momentos
+Estime antes de comprar, reveja após entrada dos artigos e confirme depois de embalar. Guarde os parâmetros de cada cálculo. Perante diferenças, compare conteúdo, medidas, peso, linha e extras antes de pedir explicação. A ferramenta orienta; a oferta atual da conta determina a contratação.
+@@ rehearsal
+Hipobuy Rehearsal Parcel: embalagem e peso volumétrico
+Planeie um ensaio de embalagem Hipobuy, compare caixas e consolidação e use as medidas reais para rever o orçamento de transporte.
+O rehearsal parcel Hipobuy ajuda quando a incerteza da embalagem pode mudar a escolha. Procura obter peso e dimensões mais realistas antes da confirmação. Verifique disponibilidade, preço e processo atuais na conta. Não presuma que é gratuito, imediato ou sempre mais económico.
+## Comece com artigos aprovados
+Liste referências armazenadas, variantes e quantidades. Exclua devoluções e QC por resolver. Identifique fragilidade, baterias, líquidos e embalagens a manter. Agrupe por linhas compatíveis: uma caixa compacta não ajuda se o conteúdo não for aceite.
+## Escreva instruções precisas
+Diga o que retirar e conservar. «Retirar caixa comercial, manter acessórios e proteger ambos os sapatos» é mais claro do que «reduzir tudo». Indique se deseja a caixa. Discuta proteção de formas delicadas antes de pedir compressão.
+Guarde as instruções e peça alternativa caso não sejam executáveis. Mudar artigos depois pode invalidar as medidas, que descrevem apenas a combinação efetivamente embalada.
+## Avalie a utilidade
+Várias caixas de calçado, peças acolchoadas e objetos rígidos misturados são difíceis de estimar pelos pesos individuais. O ensaio pode ajudar perto de limites dimensionais. Para um objeto denso com medidas fiáveis, o benefício pode ser menor. Compare tarifa e espera com a incerteza a resolver, sem percentagens de poupança presumidas.
+## Compare peso real e volumétrico
+Registe balança e dimensões exteriores. A fórmula é comprimento × largura × altura dividida pelo coeficiente da linha. Quando se cobra o maior, uma caixa leve pode ser faturada pelo volume. Use divisor e arredondamento das condições efetivas.
+Com divisor ilustrativo de 5.000, 40 × 30 × 25 cm representam 6 kg volumétricos. Pesar realmente 3 kg não anula esse efeito. Reduzir altura inútil só ajuda se a proteção continuar adequada. Use medidas obtidas, não as desejadas.
+## Compare um pacote com dois
+Anote conteúdo, peso, dimensões, admissibilidade e total de cada opção. Juntar pode reduzir encargos iniciais repetidos mas aumentar volume. Separar isola artigos incompatíveis, acrescentando caixas e custos iniciais. Compare a soma dos dois pequenos com o grande.
+Considere se um artigo pendente bloqueia os restantes. Enviar os que estão prontos pode fazer sentido sem atingir o mínimo absoluto. Guarde a razão para avaliar alterações posteriores.
+## Verifique antes de autorizar
+Cada artigo previsto deve aparecer uma única vez. Confirme embalagens e unidades. Investigue diferenças inexplicadas entre pesos individuais e final. Refaça a estimativa com medidas reais, destino e categoria corretos.
+Conserve pedido, resultado, orçamento e linha. Acrescentos ou nova embalagem podem tornar a medição antiga. Reveja total e serviços. O ensaio melhora a decisão, mas não garante data, estado à chegada ou preço mínimo.
+@@ time
+Tempo de envio Hipobuy: vendedor, armazém e entrega
+Estime o prazo Hipobuy por etapas: preparação, transporte interno, QC, embalagem e viagem internacional, sem prometer um número fixo de dias.
+Quanto demora a entrega Hipobuy? Não existe um número útil para todas as encomendas. O total inclui preparação do vendedor, transporte interno, receção e QC, espera voluntária, embalagem, viagem internacional e distribuição. A estimativa de uma linha pode cobrir apenas parte disso. Confirme o evento inicial antes de calcular a chegada.
+## Use o início correto
+Registe separadamente pagamento da compra e aceitação pela transportadora internacional. Pagar o artigo não inicia a viagem internacional; criar uma etiqueta não confirma recolha. Verifique se o prazo começa à saída do armazém, na aceitação ou noutro marco.
+Distingua dias úteis e de calendário. Não some automaticamente um prazo útil à data do pagamento sem considerar início e dias não úteis. Linha, destino, stock e processamento impedem uma duração universal.
+## Preparação e transporte interno
+Confirme tamanho e cor disponíveis, aceitação e prazo anunciado. Pré-encomendas e variantes esgotadas precisam de planeamento próprio. Uma promessa para outra opção não vale necessariamente para a sua. Guarde a resposta com o pedido.
+Depois da expedição, procure aceitação real e movimentos seguintes. Registe todos os números de envios parciais. A entrega nacional termina uma etapa, não a associação e inspeção no armazém. Um artigo em trânsito na China ainda não está atrasado numa linha internacional.
+## Receção, QC e espera escolhida
+Considere a transição entre entrega e registo armazenado. Confira medidas e estado antes da aprovação. Devoluções, fotografias extra e substituições acrescentam tempo, mas podem evitar problemas mais caros. Separe essas decisões da duração da transportadora.
+Se quatro produtos aguardam um quinto, compare enviar os prontos ou esperar com base nos custos e prazos da conta. Armazenamento voluntário não demonstra lentidão da linha.
+## Embalagem e recolha
+Verifique pagamento do pacote, morada completa e suplementos. Embalagem ou rehearsal podem alterar dimensões e linha disponível. Distingua pronto para recolha de efetivamente aceite. A primeira leitura real é um marco melhor do que um número sem movimento.
+## Viagem internacional e última etapa
+Leia estimativa atual, cobertura e explicação do rastreio da linha. Podem existir várias transportadoras e outro número local. Uma pausa nas leituras não determina data ou perda. Confirme último evento e ações do destinatário por canais oficiais.
+Moradas incorretas, marcações e tentativas falhadas afetam a entrega. Quando souber a transportadora local, use as suas informações. Verifique independentemente pedidos inesperados de pagamento no registo verdadeiro da expedição.
+## Construa um intervalo fundamentado
+Crie uma linha por etapa com prova e datas mínima e máxima justificadas. Mantenha as incógnitas visíveis. Exemplo totalmente inventado: 2 dias de preparação + 4 de transporte interno + 2 de receção + 3 à espera de outros artigos + 2 de embalagem + 8–12 de transporte e entrega totalizam 21–25 dias. São números didáticos, não médias Hipobuy.
+Atualize o intervalo restante após cada marco. Para uma ocasião com data fixa, avalie antes da compra a margem das etapas abertas. Depender sempre da duração mínima torna o plano frágil.
+## Investigue a etapa parada
+Pergunte stock e expedição ao vendedor; envie prova de entrega para receção; confirme recolha e número de pacotes preparados; apresente último evento e linha em incidências internacionais. Respeite prazos de consulta ou reclamação. A cronologia distingue uma atualização ausente de uma operação incompleta.
+@@ sizing
+Guia de tamanhos Hipobuy: roupa e calçado
+Escolha tamanhos Hipobuy com tabelas do vendedor, peças de referência e fotografias QC. Interprete EU, UK e US segundo o produto concreto.
+A tabela pertence ao vendedor e ao produto, não à Hipobuy em geral. Dois tamanhos M podem ter cortes diferentes e uma etiqueta EU não define todas as dimensões internas. Guarde a tabela da opção exata, compare medidas fiáveis e esclareça dúvidas antes do envio internacional.
+## Entenda o que está a medir
+Distingua corpo, peça estendida, comprimento do pé e palmilha. Confirme centímetros ou polegadas, pontos de medição e tolerância. Largura de peito em plano não é perímetro corporal. Guarde nomes e valores juntos.
+Não use a tabela de um anúncio semelhante: vendedor, molde ou lote podem mudar. Registe URL, variante e data. Peça qualquer medida decisiva em falta; uma letra não substitui a informação.
+## Meça uma peça que assente bem
+Escolha uma peça comparável com o ajuste desejado. Estenda sem puxar e meça peito, ombros, comprimento e mangas conforme necessário. Nas calças acrescente cintura, gancho, anca e entreperna. Meça a cintura relaxada ou esticada como o vendedor.
+Um casaco confortável com 58 cm de peito plano e uma opção de 54 cm diferem 4 cm em largura. Duplicar esses valores compara aproximadamente perímetros da peça, não cria uma medida corporal. Considere corte, elasticidade e camadas interiores.
+## Separe etiqueta e comprimento do pé
+Meça ambos os pés de pé num chão firme, do calcanhar ao dedo mais longo. Use o maior valor na tabela adequada e anote largura e dificuldades habituais. Vista meias apropriadas. Siga a indicação do modelo em vez de acrescentar uma folga universal.
+A Nike distingue expressamente comprimento do pé e tamanho CM impresso na caixa. Isso mostra por que valores semelhantes não são intercambiáveis, mas não torna a tabela Nike universal. Interprete EU, UK e US pela tabela do produto escolhido.
+## Registe a comparação
+Anote vendedor, opção, tipo de medida, unidade, referência pessoal e diferenças. Num topo largo podem importar peito e comprimento; em calças ajustadas, cintura, gancho e anca. No calçado, combine comprimento, largura e orientação do modelo. Não faça médias entre tabelas contraditórias.
+Entre tamanhos próximos, identifique o compromisso sem subir automaticamente. Comprimento extra pode incomodar. Tecido, forro e sobreposição mudam a decisão. Escreva a razão para o QC verificar a mesma hipótese.
+## Peça fotografias QC úteis
+Solicite imagem com início e fim da fita visíveis e posição correta. Especifique peito ou comprimento, não apenas «foto do tamanho». Nas calças indique cintura esticada ou relaxada; no calçado, etiqueta e medida necessária. Uma palmilha removida não demonstra conforto por si só.
+Compare chegada, escolha e tabela guardada. Confira alinhamento e perspetiva antes de concluir que a medida está errada. Resolva enquanto troca ou devolução forem possíveis. A partida internacional não é a altura de descobrir que falta a medida essencial.
+## Reconheça os limites
+As imagens ajudam com etiqueta e dimensões visíveis, mas não reproduzem uma prova vestida nem preveem conforto duradouro. Elasticidade, formato do pé e construção continuam relevantes. Explicite o risco pendente em vez de garantir ajuste perfeito.
+@@ sneakers
+Sneaker finds Hipobuy: ligações, tamanhos e QC
+Avalie sapatilhas Hipobuy com ligações exatas, tabelas de tamanhos, fotografias do armazém e custos das caixas antes de comprar.
+Um bom sneaker find precisa de mais do que imagem e preço: ligação exata, cor, tamanho, referência de medidas, QC e orçamento de envio. Este guia propõe um método e um índice externo independente. Não certifica stock, autenticidade, testes pessoais ou uma melhor opção universal.
+## Defina a utilização
+Anote uso, ajuste, cor, orçamento e problemas de largura ou conforto. Estilo quotidiano e desporto exigente precisam de provas diferentes. Uma fotografia não demonstra aderência, amortecimento ou desempenho. Procure informação específica do modelo e do fabricante quando necessário.
+Crie uma lista curta pela categoria ou pesquisa. O índice ligado não é a sua conta Hipobuy nem o apoio a encomendas; um clique não cria uma compra na Hipobuy. Verifique separadamente disponibilidade, condições e percurso real de compra.
+## Guarde a identidade exata
+Registe URL, vendedor, identificador, variante, tamanho e data. Fotografias parecidas podem pertencer a anúncios diferentes. Confirme preço e imagem da opção disponível. Não substitua uma variante esgotada pela mais barata só para preencher uma tabela.
+Separe alegações do vendedor, provas do anúncio e observações do armazém. QC antigo pode mostrar outro tamanho, cor ou lote. Reconfirme se a ligação mudar. Uma lista popular não torna os dados atuais.
+## Confirme o tamanho antes de pedir
+Compare tabela exata, pés medidos e um modelo confortável conhecido. Distinga pé, palmilha e etiqueta; meça ambos os pés e considere largura. Uma conversão EU, UK ou US não serve automaticamente todos os vendedores.
+Se faltar informação ou houver contradições, peça esclarecimento. Guarde tamanho e motivo junto do pedido. Muitas partilhas não eliminam uma dúvida de ajuste.
+## Examine vistas QC relevantes
+Comece pelos dois sapatos juntos, depois laterais, pontas, calcanhares, solas e etiquetas. Verifique tamanho, cor, simetria, costuras visíveis, alinhamento, manchas, rasgos e acessórios. Fotografias adicionais devem responder a uma questão concreta.
+Luz e ângulo alteram a perceção. Esclareça discrepâncias antes de deduzir materiais ocultos. QC não prova autenticidade ou durabilidade. Uma alegação de autenticidade exige proveniência adequada, não apenas um logótipo aproximado.
+## Inclua as caixas no orçamento
+Some compra, transporte interno, internacional, embalagem e eventuais encargos no destino. Uma caixa leve pode aumentar o peso volumétrico. Decida conservá-la conforme proteção, acessórios e interesse na própria caixa. Peça medidas embaladas ao juntar pares.
+Compare consolidação e divisão com igual proteção. Vários pacotes repetem custos iniciais; um grande pode ultrapassar limites. A calculadora explica o peso, mas o orçamento atual determina o preço.
+## Decida com provas atuais
+Antes de enviar, confirme par, tamanho, QC, embalagem, devolução e linha. Para variante errada ou medida por resolver, escolha devolver, trocar ou esperar antes de juntar a um pacote maior. Guarde provas de entrega e abertura em caso de diferenças.
+Uma ficha útil diz o que foi verificado e o que falta. Atualize-a quando mudarem ligação, opção ou provas. Evite «melhor», «verificado» ou entrega garantida sem fundamentação precisa. O objetivo é acompanhar uma escolha documentada até à receção.
