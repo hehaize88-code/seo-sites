@@ -1,0 +1,1232 @@
+{
+  "date": "2026-10-12",
+  "languages": [
+    "en",
+    "zh-CN",
+    "de",
+    "fr",
+    "es",
+    "it",
+    "pl",
+    "nl",
+    "pt"
+  ],
+  "articles_per_language": 20,
+  "pages": [
+    {
+      "lang": "en",
+      "slug": "index",
+      "url": "https://hoobuys.org/"
+    },
+    {
+      "lang": "en",
+      "slug": "products",
+      "url": "https://hoobuys.org/products"
+    },
+    {
+      "lang": "en",
+      "slug": "guides",
+      "url": "https://hoobuys.org/guides"
+    },
+    {
+      "lang": "en",
+      "slug": "faq",
+      "url": "https://hoobuys.org/faq"
+    },
+    {
+      "lang": "en",
+      "slug": "privacy",
+      "url": "https://hoobuys.org/privacy"
+    },
+    {
+      "lang": "en",
+      "slug": "terms",
+      "url": "https://hoobuys.org/terms"
+    },
+    {
+      "lang": "en",
+      "slug": "languages",
+      "url": "https://hoobuys.org/languages"
+    },
+    {
+      "lang": "en",
+      "slug": "hoobuy-shipping-calculator-weight-and-cost",
+      "url": "https://hoobuys.org/hoobuy-shipping-calculator-weight-and-cost"
+    },
+    {
+      "lang": "en",
+      "slug": "hoobuy-qc-photo-checklist",
+      "url": "https://hoobuys.org/hoobuy-qc-photo-checklist"
+    },
+    {
+      "lang": "en",
+      "slug": "hoobuy-total-cost-budget",
+      "url": "https://hoobuys.org/hoobuy-total-cost-budget"
+    },
+    {
+      "lang": "en",
+      "slug": "hoobuy-size-chart-workflow-measurements-2026",
+      "url": "https://hoobuys.org/hoobuy-size-chart-workflow-measurements-2026"
+    },
+    {
+      "lang": "en",
+      "slug": "hoobuy-holiday-shopping-timeline-spreadsheet-2026",
+      "url": "https://hoobuys.org/hoobuy-holiday-shopping-timeline-spreadsheet-2026"
+    },
+    {
+      "lang": "en",
+      "slug": "hoobuy-product-link-verification-taobao-1688-weidian-2026",
+      "url": "https://hoobuys.org/hoobuy-product-link-verification-taobao-1688-weidian-2026"
+    },
+    {
+      "lang": "en",
+      "slug": "hoobuy-keyword-search-better-product-finds-2026",
+      "url": "https://hoobuys.org/hoobuy-keyword-search-better-product-finds-2026"
+    },
+    {
+      "lang": "en",
+      "slug": "hoobuy-1688-finds-moq-variants-seller-questions-2026",
+      "url": "https://hoobuys.org/hoobuy-1688-finds-moq-variants-seller-questions-2026"
+    },
+    {
+      "lang": "en",
+      "slug": "hoobuy-spreadsheet-guide",
+      "url": "https://hoobuys.org/hoobuy-spreadsheet-guide"
+    },
+    {
+      "lang": "en",
+      "slug": "hoobuy-weidian-finds-options-seller-signals-2026",
+      "url": "https://hoobuys.org/hoobuy-weidian-finds-options-seller-signals-2026"
+    },
+    {
+      "lang": "en",
+      "slug": "hoobuy-org-w2c-spreadsheet-method-2026",
+      "url": "https://hoobuys.org/hoobuy-org-w2c-spreadsheet-method-2026"
+    },
+    {
+      "lang": "en",
+      "slug": "hoobuy-seller-page-checklist-before-saving-find-2026",
+      "url": "https://hoobuys.org/hoobuy-seller-page-checklist-before-saving-find-2026"
+    },
+    {
+      "lang": "en",
+      "slug": "shipping-guide",
+      "url": "https://hoobuys.org/shipping-guide"
+    },
+    {
+      "lang": "en",
+      "slug": "hoobuy-bags-spreadsheet-dimensions-hardware-shipping-2026",
+      "url": "https://hoobuys.org/hoobuy-bags-spreadsheet-dimensions-hardware-shipping-2026"
+    },
+    {
+      "lang": "en",
+      "slug": "hoobuy-shoes-spreadsheet-size-qc-fields-2026",
+      "url": "https://hoobuys.org/hoobuy-shoes-spreadsheet-size-qc-fields-2026"
+    },
+    {
+      "lang": "en",
+      "slug": "hoobuy-taobao-finds-compare-listings-2026",
+      "url": "https://hoobuys.org/hoobuy-taobao-finds-compare-listings-2026"
+    },
+    {
+      "lang": "en",
+      "slug": "hoobuy-hoodie-spreadsheet-fabric-measurements-weight-2026",
+      "url": "https://hoobuys.org/hoobuy-hoodie-spreadsheet-fabric-measurements-weight-2026"
+    },
+    {
+      "lang": "en",
+      "slug": "hoobuy-org-w2c-qc-shipping-workflow-2026",
+      "url": "https://hoobuys.org/hoobuy-org-w2c-qc-shipping-workflow-2026"
+    },
+    {
+      "lang": "en",
+      "slug": "hoobuy-autumn-finds-spreadsheet-2026",
+      "url": "https://hoobuys.org/hoobuy-autumn-finds-spreadsheet-2026"
+    },
+    {
+      "lang": "en",
+      "slug": "hoobuy-jersey-spreadsheet-sizing-customization-qc-2026",
+      "url": "https://hoobuys.org/hoobuy-jersey-spreadsheet-sizing-customization-qc-2026"
+    },
+    {
+      "lang": "zh-CN",
+      "slug": "index",
+      "url": "https://hoobuys.org/zh-CN/"
+    },
+    {
+      "lang": "zh-CN",
+      "slug": "products",
+      "url": "https://hoobuys.org/zh-CN/products"
+    },
+    {
+      "lang": "zh-CN",
+      "slug": "guides",
+      "url": "https://hoobuys.org/zh-CN/guides"
+    },
+    {
+      "lang": "zh-CN",
+      "slug": "faq",
+      "url": "https://hoobuys.org/zh-CN/faq"
+    },
+    {
+      "lang": "zh-CN",
+      "slug": "privacy",
+      "url": "https://hoobuys.org/zh-CN/privacy"
+    },
+    {
+      "lang": "zh-CN",
+      "slug": "terms",
+      "url": "https://hoobuys.org/zh-CN/terms"
+    },
+    {
+      "lang": "zh-CN",
+      "slug": "languages",
+      "url": "https://hoobuys.org/zh-CN/languages"
+    },
+    {
+      "lang": "zh-CN",
+      "slug": "hoobuy-shipping-calculator-weight-and-cost",
+      "url": "https://hoobuys.org/zh-CN/hoobuy-shipping-calculator-weight-and-cost"
+    },
+    {
+      "lang": "zh-CN",
+      "slug": "hoobuy-qc-photo-checklist",
+      "url": "https://hoobuys.org/zh-CN/hoobuy-qc-photo-checklist"
+    },
+    {
+      "lang": "zh-CN",
+      "slug": "hoobuy-total-cost-budget",
+      "url": "https://hoobuys.org/zh-CN/hoobuy-total-cost-budget"
+    },
+    {
+      "lang": "zh-CN",
+      "slug": "hoobuy-size-chart-workflow-measurements-2026",
+      "url": "https://hoobuys.org/zh-CN/hoobuy-size-chart-workflow-measurements-2026"
+    },
+    {
+      "lang": "zh-CN",
+      "slug": "hoobuy-holiday-shopping-timeline-spreadsheet-2026",
+      "url": "https://hoobuys.org/zh-CN/hoobuy-holiday-shopping-timeline-spreadsheet-2026"
+    },
+    {
+      "lang": "zh-CN",
+      "slug": "hoobuy-product-link-verification-taobao-1688-weidian-2026",
+      "url": "https://hoobuys.org/zh-CN/hoobuy-product-link-verification-taobao-1688-weidian-2026"
+    },
+    {
+      "lang": "zh-CN",
+      "slug": "hoobuy-keyword-search-better-product-finds-2026",
+      "url": "https://hoobuys.org/zh-CN/hoobuy-keyword-search-better-product-finds-2026"
+    },
+    {
+      "lang": "zh-CN",
+      "slug": "hoobuy-1688-finds-moq-variants-seller-questions-2026",
+      "url": "https://hoobuys.org/zh-CN/hoobuy-1688-finds-moq-variants-seller-questions-2026"
+    },
+    {
+      "lang": "zh-CN",
+      "slug": "hoobuy-spreadsheet-guide",
+      "url": "https://hoobuys.org/zh-CN/hoobuy-spreadsheet-guide"
+    },
+    {
+      "lang": "zh-CN",
+      "slug": "hoobuy-weidian-finds-options-seller-signals-2026",
+      "url": "https://hoobuys.org/zh-CN/hoobuy-weidian-finds-options-seller-signals-2026"
+    },
+    {
+      "lang": "zh-CN",
+      "slug": "hoobuy-org-w2c-spreadsheet-method-2026",
+      "url": "https://hoobuys.org/zh-CN/hoobuy-org-w2c-spreadsheet-method-2026"
+    },
+    {
+      "lang": "zh-CN",
+      "slug": "hoobuy-seller-page-checklist-before-saving-find-2026",
+      "url": "https://hoobuys.org/zh-CN/hoobuy-seller-page-checklist-before-saving-find-2026"
+    },
+    {
+      "lang": "zh-CN",
+      "slug": "shipping-guide",
+      "url": "https://hoobuys.org/zh-CN/shipping-guide"
+    },
+    {
+      "lang": "zh-CN",
+      "slug": "hoobuy-bags-spreadsheet-dimensions-hardware-shipping-2026",
+      "url": "https://hoobuys.org/zh-CN/hoobuy-bags-spreadsheet-dimensions-hardware-shipping-2026"
+    },
+    {
+      "lang": "zh-CN",
+      "slug": "hoobuy-shoes-spreadsheet-size-qc-fields-2026",
+      "url": "https://hoobuys.org/zh-CN/hoobuy-shoes-spreadsheet-size-qc-fields-2026"
+    },
+    {
+      "lang": "zh-CN",
+      "slug": "hoobuy-taobao-finds-compare-listings-2026",
+      "url": "https://hoobuys.org/zh-CN/hoobuy-taobao-finds-compare-listings-2026"
+    },
+    {
+      "lang": "zh-CN",
+      "slug": "hoobuy-hoodie-spreadsheet-fabric-measurements-weight-2026",
+      "url": "https://hoobuys.org/zh-CN/hoobuy-hoodie-spreadsheet-fabric-measurements-weight-2026"
+    },
+    {
+      "lang": "zh-CN",
+      "slug": "hoobuy-org-w2c-qc-shipping-workflow-2026",
+      "url": "https://hoobuys.org/zh-CN/hoobuy-org-w2c-qc-shipping-workflow-2026"
+    },
+    {
+      "lang": "zh-CN",
+      "slug": "hoobuy-autumn-finds-spreadsheet-2026",
+      "url": "https://hoobuys.org/zh-CN/hoobuy-autumn-finds-spreadsheet-2026"
+    },
+    {
+      "lang": "zh-CN",
+      "slug": "hoobuy-jersey-spreadsheet-sizing-customization-qc-2026",
+      "url": "https://hoobuys.org/zh-CN/hoobuy-jersey-spreadsheet-sizing-customization-qc-2026"
+    },
+    {
+      "lang": "de",
+      "slug": "index",
+      "url": "https://hoobuys.org/de/"
+    },
+    {
+      "lang": "de",
+      "slug": "products",
+      "url": "https://hoobuys.org/de/products"
+    },
+    {
+      "lang": "de",
+      "slug": "guides",
+      "url": "https://hoobuys.org/de/guides"
+    },
+    {
+      "lang": "de",
+      "slug": "faq",
+      "url": "https://hoobuys.org/de/faq"
+    },
+    {
+      "lang": "de",
+      "slug": "privacy",
+      "url": "https://hoobuys.org/de/privacy"
+    },
+    {
+      "lang": "de",
+      "slug": "terms",
+      "url": "https://hoobuys.org/de/terms"
+    },
+    {
+      "lang": "de",
+      "slug": "languages",
+      "url": "https://hoobuys.org/de/languages"
+    },
+    {
+      "lang": "de",
+      "slug": "hoobuy-shipping-calculator-weight-and-cost",
+      "url": "https://hoobuys.org/de/hoobuy-shipping-calculator-weight-and-cost"
+    },
+    {
+      "lang": "de",
+      "slug": "hoobuy-qc-photo-checklist",
+      "url": "https://hoobuys.org/de/hoobuy-qc-photo-checklist"
+    },
+    {
+      "lang": "de",
+      "slug": "hoobuy-total-cost-budget",
+      "url": "https://hoobuys.org/de/hoobuy-total-cost-budget"
+    },
+    {
+      "lang": "de",
+      "slug": "hoobuy-size-chart-workflow-measurements-2026",
+      "url": "https://hoobuys.org/de/hoobuy-size-chart-workflow-measurements-2026"
+    },
+    {
+      "lang": "de",
+      "slug": "hoobuy-holiday-shopping-timeline-spreadsheet-2026",
+      "url": "https://hoobuys.org/de/hoobuy-holiday-shopping-timeline-spreadsheet-2026"
+    },
+    {
+      "lang": "de",
+      "slug": "hoobuy-product-link-verification-taobao-1688-weidian-2026",
+      "url": "https://hoobuys.org/de/hoobuy-product-link-verification-taobao-1688-weidian-2026"
+    },
+    {
+      "lang": "de",
+      "slug": "hoobuy-keyword-search-better-product-finds-2026",
+      "url": "https://hoobuys.org/de/hoobuy-keyword-search-better-product-finds-2026"
+    },
+    {
+      "lang": "de",
+      "slug": "hoobuy-1688-finds-moq-variants-seller-questions-2026",
+      "url": "https://hoobuys.org/de/hoobuy-1688-finds-moq-variants-seller-questions-2026"
+    },
+    {
+      "lang": "de",
+      "slug": "hoobuy-spreadsheet-guide",
+      "url": "https://hoobuys.org/de/hoobuy-spreadsheet-guide"
+    },
+    {
+      "lang": "de",
+      "slug": "hoobuy-weidian-finds-options-seller-signals-2026",
+      "url": "https://hoobuys.org/de/hoobuy-weidian-finds-options-seller-signals-2026"
+    },
+    {
+      "lang": "de",
+      "slug": "hoobuy-org-w2c-spreadsheet-method-2026",
+      "url": "https://hoobuys.org/de/hoobuy-org-w2c-spreadsheet-method-2026"
+    },
+    {
+      "lang": "de",
+      "slug": "hoobuy-seller-page-checklist-before-saving-find-2026",
+      "url": "https://hoobuys.org/de/hoobuy-seller-page-checklist-before-saving-find-2026"
+    },
+    {
+      "lang": "de",
+      "slug": "shipping-guide",
+      "url": "https://hoobuys.org/de/shipping-guide"
+    },
+    {
+      "lang": "de",
+      "slug": "hoobuy-bags-spreadsheet-dimensions-hardware-shipping-2026",
+      "url": "https://hoobuys.org/de/hoobuy-bags-spreadsheet-dimensions-hardware-shipping-2026"
+    },
+    {
+      "lang": "de",
+      "slug": "hoobuy-shoes-spreadsheet-size-qc-fields-2026",
+      "url": "https://hoobuys.org/de/hoobuy-shoes-spreadsheet-size-qc-fields-2026"
+    },
+    {
+      "lang": "de",
+      "slug": "hoobuy-taobao-finds-compare-listings-2026",
+      "url": "https://hoobuys.org/de/hoobuy-taobao-finds-compare-listings-2026"
+    },
+    {
+      "lang": "de",
+      "slug": "hoobuy-hoodie-spreadsheet-fabric-measurements-weight-2026",
+      "url": "https://hoobuys.org/de/hoobuy-hoodie-spreadsheet-fabric-measurements-weight-2026"
+    },
+    {
+      "lang": "de",
+      "slug": "hoobuy-org-w2c-qc-shipping-workflow-2026",
+      "url": "https://hoobuys.org/de/hoobuy-org-w2c-qc-shipping-workflow-2026"
+    },
+    {
+      "lang": "de",
+      "slug": "hoobuy-autumn-finds-spreadsheet-2026",
+      "url": "https://hoobuys.org/de/hoobuy-autumn-finds-spreadsheet-2026"
+    },
+    {
+      "lang": "de",
+      "slug": "hoobuy-jersey-spreadsheet-sizing-customization-qc-2026",
+      "url": "https://hoobuys.org/de/hoobuy-jersey-spreadsheet-sizing-customization-qc-2026"
+    },
+    {
+      "lang": "fr",
+      "slug": "index",
+      "url": "https://hoobuys.org/fr/"
+    },
+    {
+      "lang": "fr",
+      "slug": "products",
+      "url": "https://hoobuys.org/fr/products"
+    },
+    {
+      "lang": "fr",
+      "slug": "guides",
+      "url": "https://hoobuys.org/fr/guides"
+    },
+    {
+      "lang": "fr",
+      "slug": "faq",
+      "url": "https://hoobuys.org/fr/faq"
+    },
+    {
+      "lang": "fr",
+      "slug": "privacy",
+      "url": "https://hoobuys.org/fr/privacy"
+    },
+    {
+      "lang": "fr",
+      "slug": "terms",
+      "url": "https://hoobuys.org/fr/terms"
+    },
+    {
+      "lang": "fr",
+      "slug": "languages",
+      "url": "https://hoobuys.org/fr/languages"
+    },
+    {
+      "lang": "fr",
+      "slug": "hoobuy-shipping-calculator-weight-and-cost",
+      "url": "https://hoobuys.org/fr/hoobuy-shipping-calculator-weight-and-cost"
+    },
+    {
+      "lang": "fr",
+      "slug": "hoobuy-qc-photo-checklist",
+      "url": "https://hoobuys.org/fr/hoobuy-qc-photo-checklist"
+    },
+    {
+      "lang": "fr",
+      "slug": "hoobuy-total-cost-budget",
+      "url": "https://hoobuys.org/fr/hoobuy-total-cost-budget"
+    },
+    {
+      "lang": "fr",
+      "slug": "hoobuy-size-chart-workflow-measurements-2026",
+      "url": "https://hoobuys.org/fr/hoobuy-size-chart-workflow-measurements-2026"
+    },
+    {
+      "lang": "fr",
+      "slug": "hoobuy-holiday-shopping-timeline-spreadsheet-2026",
+      "url": "https://hoobuys.org/fr/hoobuy-holiday-shopping-timeline-spreadsheet-2026"
+    },
+    {
+      "lang": "fr",
+      "slug": "hoobuy-product-link-verification-taobao-1688-weidian-2026",
+      "url": "https://hoobuys.org/fr/hoobuy-product-link-verification-taobao-1688-weidian-2026"
+    },
+    {
+      "lang": "fr",
+      "slug": "hoobuy-keyword-search-better-product-finds-2026",
+      "url": "https://hoobuys.org/fr/hoobuy-keyword-search-better-product-finds-2026"
+    },
+    {
+      "lang": "fr",
+      "slug": "hoobuy-1688-finds-moq-variants-seller-questions-2026",
+      "url": "https://hoobuys.org/fr/hoobuy-1688-finds-moq-variants-seller-questions-2026"
+    },
+    {
+      "lang": "fr",
+      "slug": "hoobuy-spreadsheet-guide",
+      "url": "https://hoobuys.org/fr/hoobuy-spreadsheet-guide"
+    },
+    {
+      "lang": "fr",
+      "slug": "hoobuy-weidian-finds-options-seller-signals-2026",
+      "url": "https://hoobuys.org/fr/hoobuy-weidian-finds-options-seller-signals-2026"
+    },
+    {
+      "lang": "fr",
+      "slug": "hoobuy-org-w2c-spreadsheet-method-2026",
+      "url": "https://hoobuys.org/fr/hoobuy-org-w2c-spreadsheet-method-2026"
+    },
+    {
+      "lang": "fr",
+      "slug": "hoobuy-seller-page-checklist-before-saving-find-2026",
+      "url": "https://hoobuys.org/fr/hoobuy-seller-page-checklist-before-saving-find-2026"
+    },
+    {
+      "lang": "fr",
+      "slug": "shipping-guide",
+      "url": "https://hoobuys.org/fr/shipping-guide"
+    },
+    {
+      "lang": "fr",
+      "slug": "hoobuy-bags-spreadsheet-dimensions-hardware-shipping-2026",
+      "url": "https://hoobuys.org/fr/hoobuy-bags-spreadsheet-dimensions-hardware-shipping-2026"
+    },
+    {
+      "lang": "fr",
+      "slug": "hoobuy-shoes-spreadsheet-size-qc-fields-2026",
+      "url": "https://hoobuys.org/fr/hoobuy-shoes-spreadsheet-size-qc-fields-2026"
+    },
+    {
+      "lang": "fr",
+      "slug": "hoobuy-taobao-finds-compare-listings-2026",
+      "url": "https://hoobuys.org/fr/hoobuy-taobao-finds-compare-listings-2026"
+    },
+    {
+      "lang": "fr",
+      "slug": "hoobuy-hoodie-spreadsheet-fabric-measurements-weight-2026",
+      "url": "https://hoobuys.org/fr/hoobuy-hoodie-spreadsheet-fabric-measurements-weight-2026"
+    },
+    {
+      "lang": "fr",
+      "slug": "hoobuy-org-w2c-qc-shipping-workflow-2026",
+      "url": "https://hoobuys.org/fr/hoobuy-org-w2c-qc-shipping-workflow-2026"
+    },
+    {
+      "lang": "fr",
+      "slug": "hoobuy-autumn-finds-spreadsheet-2026",
+      "url": "https://hoobuys.org/fr/hoobuy-autumn-finds-spreadsheet-2026"
+    },
+    {
+      "lang": "fr",
+      "slug": "hoobuy-jersey-spreadsheet-sizing-customization-qc-2026",
+      "url": "https://hoobuys.org/fr/hoobuy-jersey-spreadsheet-sizing-customization-qc-2026"
+    },
+    {
+      "lang": "es",
+      "slug": "index",
+      "url": "https://hoobuys.org/es/"
+    },
+    {
+      "lang": "es",
+      "slug": "products",
+      "url": "https://hoobuys.org/es/products"
+    },
+    {
+      "lang": "es",
+      "slug": "guides",
+      "url": "https://hoobuys.org/es/guides"
+    },
+    {
+      "lang": "es",
+      "slug": "faq",
+      "url": "https://hoobuys.org/es/faq"
+    },
+    {
+      "lang": "es",
+      "slug": "privacy",
+      "url": "https://hoobuys.org/es/privacy"
+    },
+    {
+      "lang": "es",
+      "slug": "terms",
+      "url": "https://hoobuys.org/es/terms"
+    },
+    {
+      "lang": "es",
+      "slug": "languages",
+      "url": "https://hoobuys.org/es/languages"
+    },
+    {
+      "lang": "es",
+      "slug": "hoobuy-shipping-calculator-weight-and-cost",
+      "url": "https://hoobuys.org/es/hoobuy-shipping-calculator-weight-and-cost"
+    },
+    {
+      "lang": "es",
+      "slug": "hoobuy-qc-photo-checklist",
+      "url": "https://hoobuys.org/es/hoobuy-qc-photo-checklist"
+    },
+    {
+      "lang": "es",
+      "slug": "hoobuy-total-cost-budget",
+      "url": "https://hoobuys.org/es/hoobuy-total-cost-budget"
+    },
+    {
+      "lang": "es",
+      "slug": "hoobuy-size-chart-workflow-measurements-2026",
+      "url": "https://hoobuys.org/es/hoobuy-size-chart-workflow-measurements-2026"
+    },
+    {
+      "lang": "es",
+      "slug": "hoobuy-holiday-shopping-timeline-spreadsheet-2026",
+      "url": "https://hoobuys.org/es/hoobuy-holiday-shopping-timeline-spreadsheet-2026"
+    },
+    {
+      "lang": "es",
+      "slug": "hoobuy-product-link-verification-taobao-1688-weidian-2026",
+      "url": "https://hoobuys.org/es/hoobuy-product-link-verification-taobao-1688-weidian-2026"
+    },
+    {
+      "lang": "es",
+      "slug": "hoobuy-keyword-search-better-product-finds-2026",
+      "url": "https://hoobuys.org/es/hoobuy-keyword-search-better-product-finds-2026"
+    },
+    {
+      "lang": "es",
+      "slug": "hoobuy-1688-finds-moq-variants-seller-questions-2026",
+      "url": "https://hoobuys.org/es/hoobuy-1688-finds-moq-variants-seller-questions-2026"
+    },
+    {
+      "lang": "es",
+      "slug": "hoobuy-spreadsheet-guide",
+      "url": "https://hoobuys.org/es/hoobuy-spreadsheet-guide"
+    },
+    {
+      "lang": "es",
+      "slug": "hoobuy-weidian-finds-options-seller-signals-2026",
+      "url": "https://hoobuys.org/es/hoobuy-weidian-finds-options-seller-signals-2026"
+    },
+    {
+      "lang": "es",
+      "slug": "hoobuy-org-w2c-spreadsheet-method-2026",
+      "url": "https://hoobuys.org/es/hoobuy-org-w2c-spreadsheet-method-2026"
+    },
+    {
+      "lang": "es",
+      "slug": "hoobuy-seller-page-checklist-before-saving-find-2026",
+      "url": "https://hoobuys.org/es/hoobuy-seller-page-checklist-before-saving-find-2026"
+    },
+    {
+      "lang": "es",
+      "slug": "shipping-guide",
+      "url": "https://hoobuys.org/es/shipping-guide"
+    },
+    {
+      "lang": "es",
+      "slug": "hoobuy-bags-spreadsheet-dimensions-hardware-shipping-2026",
+      "url": "https://hoobuys.org/es/hoobuy-bags-spreadsheet-dimensions-hardware-shipping-2026"
+    },
+    {
+      "lang": "es",
+      "slug": "hoobuy-shoes-spreadsheet-size-qc-fields-2026",
+      "url": "https://hoobuys.org/es/hoobuy-shoes-spreadsheet-size-qc-fields-2026"
+    },
+    {
+      "lang": "es",
+      "slug": "hoobuy-taobao-finds-compare-listings-2026",
+      "url": "https://hoobuys.org/es/hoobuy-taobao-finds-compare-listings-2026"
+    },
+    {
+      "lang": "es",
+      "slug": "hoobuy-hoodie-spreadsheet-fabric-measurements-weight-2026",
+      "url": "https://hoobuys.org/es/hoobuy-hoodie-spreadsheet-fabric-measurements-weight-2026"
+    },
+    {
+      "lang": "es",
+      "slug": "hoobuy-org-w2c-qc-shipping-workflow-2026",
+      "url": "https://hoobuys.org/es/hoobuy-org-w2c-qc-shipping-workflow-2026"
+    },
+    {
+      "lang": "es",
+      "slug": "hoobuy-autumn-finds-spreadsheet-2026",
+      "url": "https://hoobuys.org/es/hoobuy-autumn-finds-spreadsheet-2026"
+    },
+    {
+      "lang": "es",
+      "slug": "hoobuy-jersey-spreadsheet-sizing-customization-qc-2026",
+      "url": "https://hoobuys.org/es/hoobuy-jersey-spreadsheet-sizing-customization-qc-2026"
+    },
+    {
+      "lang": "it",
+      "slug": "index",
+      "url": "https://hoobuys.org/it/"
+    },
+    {
+      "lang": "it",
+      "slug": "products",
+      "url": "https://hoobuys.org/it/products"
+    },
+    {
+      "lang": "it",
+      "slug": "guides",
+      "url": "https://hoobuys.org/it/guides"
+    },
+    {
+      "lang": "it",
+      "slug": "faq",
+      "url": "https://hoobuys.org/it/faq"
+    },
+    {
+      "lang": "it",
+      "slug": "privacy",
+      "url": "https://hoobuys.org/it/privacy"
+    },
+    {
+      "lang": "it",
+      "slug": "terms",
+      "url": "https://hoobuys.org/it/terms"
+    },
+    {
+      "lang": "it",
+      "slug": "languages",
+      "url": "https://hoobuys.org/it/languages"
+    },
+    {
+      "lang": "it",
+      "slug": "hoobuy-shipping-calculator-weight-and-cost",
+      "url": "https://hoobuys.org/it/hoobuy-shipping-calculator-weight-and-cost"
+    },
+    {
+      "lang": "it",
+      "slug": "hoobuy-qc-photo-checklist",
+      "url": "https://hoobuys.org/it/hoobuy-qc-photo-checklist"
+    },
+    {
+      "lang": "it",
+      "slug": "hoobuy-total-cost-budget",
+      "url": "https://hoobuys.org/it/hoobuy-total-cost-budget"
+    },
+    {
+      "lang": "it",
+      "slug": "hoobuy-size-chart-workflow-measurements-2026",
+      "url": "https://hoobuys.org/it/hoobuy-size-chart-workflow-measurements-2026"
+    },
+    {
+      "lang": "it",
+      "slug": "hoobuy-holiday-shopping-timeline-spreadsheet-2026",
+      "url": "https://hoobuys.org/it/hoobuy-holiday-shopping-timeline-spreadsheet-2026"
+    },
+    {
+      "lang": "it",
+      "slug": "hoobuy-product-link-verification-taobao-1688-weidian-2026",
+      "url": "https://hoobuys.org/it/hoobuy-product-link-verification-taobao-1688-weidian-2026"
+    },
+    {
+      "lang": "it",
+      "slug": "hoobuy-keyword-search-better-product-finds-2026",
+      "url": "https://hoobuys.org/it/hoobuy-keyword-search-better-product-finds-2026"
+    },
+    {
+      "lang": "it",
+      "slug": "hoobuy-1688-finds-moq-variants-seller-questions-2026",
+      "url": "https://hoobuys.org/it/hoobuy-1688-finds-moq-variants-seller-questions-2026"
+    },
+    {
+      "lang": "it",
+      "slug": "hoobuy-spreadsheet-guide",
+      "url": "https://hoobuys.org/it/hoobuy-spreadsheet-guide"
+    },
+    {
+      "lang": "it",
+      "slug": "hoobuy-weidian-finds-options-seller-signals-2026",
+      "url": "https://hoobuys.org/it/hoobuy-weidian-finds-options-seller-signals-2026"
+    },
+    {
+      "lang": "it",
+      "slug": "hoobuy-org-w2c-spreadsheet-method-2026",
+      "url": "https://hoobuys.org/it/hoobuy-org-w2c-spreadsheet-method-2026"
+    },
+    {
+      "lang": "it",
+      "slug": "hoobuy-seller-page-checklist-before-saving-find-2026",
+      "url": "https://hoobuys.org/it/hoobuy-seller-page-checklist-before-saving-find-2026"
+    },
+    {
+      "lang": "it",
+      "slug": "shipping-guide",
+      "url": "https://hoobuys.org/it/shipping-guide"
+    },
+    {
+      "lang": "it",
+      "slug": "hoobuy-bags-spreadsheet-dimensions-hardware-shipping-2026",
+      "url": "https://hoobuys.org/it/hoobuy-bags-spreadsheet-dimensions-hardware-shipping-2026"
+    },
+    {
+      "lang": "it",
+      "slug": "hoobuy-shoes-spreadsheet-size-qc-fields-2026",
+      "url": "https://hoobuys.org/it/hoobuy-shoes-spreadsheet-size-qc-fields-2026"
+    },
+    {
+      "lang": "it",
+      "slug": "hoobuy-taobao-finds-compare-listings-2026",
+      "url": "https://hoobuys.org/it/hoobuy-taobao-finds-compare-listings-2026"
+    },
+    {
+      "lang": "it",
+      "slug": "hoobuy-hoodie-spreadsheet-fabric-measurements-weight-2026",
+      "url": "https://hoobuys.org/it/hoobuy-hoodie-spreadsheet-fabric-measurements-weight-2026"
+    },
+    {
+      "lang": "it",
+      "slug": "hoobuy-org-w2c-qc-shipping-workflow-2026",
+      "url": "https://hoobuys.org/it/hoobuy-org-w2c-qc-shipping-workflow-2026"
+    },
+    {
+      "lang": "it",
+      "slug": "hoobuy-autumn-finds-spreadsheet-2026",
+      "url": "https://hoobuys.org/it/hoobuy-autumn-finds-spreadsheet-2026"
+    },
+    {
+      "lang": "it",
+      "slug": "hoobuy-jersey-spreadsheet-sizing-customization-qc-2026",
+      "url": "https://hoobuys.org/it/hoobuy-jersey-spreadsheet-sizing-customization-qc-2026"
+    },
+    {
+      "lang": "pl",
+      "slug": "index",
+      "url": "https://hoobuys.org/pl/"
+    },
+    {
+      "lang": "pl",
+      "slug": "products",
+      "url": "https://hoobuys.org/pl/products"
+    },
+    {
+      "lang": "pl",
+      "slug": "guides",
+      "url": "https://hoobuys.org/pl/guides"
+    },
+    {
+      "lang": "pl",
+      "slug": "faq",
+      "url": "https://hoobuys.org/pl/faq"
+    },
+    {
+      "lang": "pl",
+      "slug": "privacy",
+      "url": "https://hoobuys.org/pl/privacy"
+    },
+    {
+      "lang": "pl",
+      "slug": "terms",
+      "url": "https://hoobuys.org/pl/terms"
+    },
+    {
+      "lang": "pl",
+      "slug": "languages",
+      "url": "https://hoobuys.org/pl/languages"
+    },
+    {
+      "lang": "pl",
+      "slug": "hoobuy-shipping-calculator-weight-and-cost",
+      "url": "https://hoobuys.org/pl/hoobuy-shipping-calculator-weight-and-cost"
+    },
+    {
+      "lang": "pl",
+      "slug": "hoobuy-qc-photo-checklist",
+      "url": "https://hoobuys.org/pl/hoobuy-qc-photo-checklist"
+    },
+    {
+      "lang": "pl",
+      "slug": "hoobuy-total-cost-budget",
+      "url": "https://hoobuys.org/pl/hoobuy-total-cost-budget"
+    },
+    {
+      "lang": "pl",
+      "slug": "hoobuy-size-chart-workflow-measurements-2026",
+      "url": "https://hoobuys.org/pl/hoobuy-size-chart-workflow-measurements-2026"
+    },
+    {
+      "lang": "pl",
+      "slug": "hoobuy-holiday-shopping-timeline-spreadsheet-2026",
+      "url": "https://hoobuys.org/pl/hoobuy-holiday-shopping-timeline-spreadsheet-2026"
+    },
+    {
+      "lang": "pl",
+      "slug": "hoobuy-product-link-verification-taobao-1688-weidian-2026",
+      "url": "https://hoobuys.org/pl/hoobuy-product-link-verification-taobao-1688-weidian-2026"
+    },
+    {
+      "lang": "pl",
+      "slug": "hoobuy-keyword-search-better-product-finds-2026",
+      "url": "https://hoobuys.org/pl/hoobuy-keyword-search-better-product-finds-2026"
+    },
+    {
+      "lang": "pl",
+      "slug": "hoobuy-1688-finds-moq-variants-seller-questions-2026",
+      "url": "https://hoobuys.org/pl/hoobuy-1688-finds-moq-variants-seller-questions-2026"
+    },
+    {
+      "lang": "pl",
+      "slug": "hoobuy-spreadsheet-guide",
+      "url": "https://hoobuys.org/pl/hoobuy-spreadsheet-guide"
+    },
+    {
+      "lang": "pl",
+      "slug": "hoobuy-weidian-finds-options-seller-signals-2026",
+      "url": "https://hoobuys.org/pl/hoobuy-weidian-finds-options-seller-signals-2026"
+    },
+    {
+      "lang": "pl",
+      "slug": "hoobuy-org-w2c-spreadsheet-method-2026",
+      "url": "https://hoobuys.org/pl/hoobuy-org-w2c-spreadsheet-method-2026"
+    },
+    {
+      "lang": "pl",
+      "slug": "hoobuy-seller-page-checklist-before-saving-find-2026",
+      "url": "https://hoobuys.org/pl/hoobuy-seller-page-checklist-before-saving-find-2026"
+    },
+    {
+      "lang": "pl",
+      "slug": "shipping-guide",
+      "url": "https://hoobuys.org/pl/shipping-guide"
+    },
+    {
+      "lang": "pl",
+      "slug": "hoobuy-bags-spreadsheet-dimensions-hardware-shipping-2026",
+      "url": "https://hoobuys.org/pl/hoobuy-bags-spreadsheet-dimensions-hardware-shipping-2026"
+    },
+    {
+      "lang": "pl",
+      "slug": "hoobuy-shoes-spreadsheet-size-qc-fields-2026",
+      "url": "https://hoobuys.org/pl/hoobuy-shoes-spreadsheet-size-qc-fields-2026"
+    },
+    {
+      "lang": "pl",
+      "slug": "hoobuy-taobao-finds-compare-listings-2026",
+      "url": "https://hoobuys.org/pl/hoobuy-taobao-finds-compare-listings-2026"
+    },
+    {
+      "lang": "pl",
+      "slug": "hoobuy-hoodie-spreadsheet-fabric-measurements-weight-2026",
+      "url": "https://hoobuys.org/pl/hoobuy-hoodie-spreadsheet-fabric-measurements-weight-2026"
+    },
+    {
+      "lang": "pl",
+      "slug": "hoobuy-org-w2c-qc-shipping-workflow-2026",
+      "url": "https://hoobuys.org/pl/hoobuy-org-w2c-qc-shipping-workflow-2026"
+    },
+    {
+      "lang": "pl",
+      "slug": "hoobuy-autumn-finds-spreadsheet-2026",
+      "url": "https://hoobuys.org/pl/hoobuy-autumn-finds-spreadsheet-2026"
+    },
+    {
+      "lang": "pl",
+      "slug": "hoobuy-jersey-spreadsheet-sizing-customization-qc-2026",
+      "url": "https://hoobuys.org/pl/hoobuy-jersey-spreadsheet-sizing-customization-qc-2026"
+    },
+    {
+      "lang": "nl",
+      "slug": "index",
+      "url": "https://hoobuys.org/nl/"
+    },
+    {
+      "lang": "nl",
+      "slug": "products",
+      "url": "https://hoobuys.org/nl/products"
+    },
+    {
+      "lang": "nl",
+      "slug": "guides",
+      "url": "https://hoobuys.org/nl/guides"
+    },
+    {
+      "lang": "nl",
+      "slug": "faq",
+      "url": "https://hoobuys.org/nl/faq"
+    },
+    {
+      "lang": "nl",
+      "slug": "privacy",
+      "url": "https://hoobuys.org/nl/privacy"
+    },
+    {
+      "lang": "nl",
+      "slug": "terms",
+      "url": "https://hoobuys.org/nl/terms"
+    },
+    {
+      "lang": "nl",
+      "slug": "languages",
+      "url": "https://hoobuys.org/nl/languages"
+    },
+    {
+      "lang": "nl",
+      "slug": "hoobuy-shipping-calculator-weight-and-cost",
+      "url": "https://hoobuys.org/nl/hoobuy-shipping-calculator-weight-and-cost"
+    },
+    {
+      "lang": "nl",
+      "slug": "hoobuy-qc-photo-checklist",
+      "url": "https://hoobuys.org/nl/hoobuy-qc-photo-checklist"
+    },
+    {
+      "lang": "nl",
+      "slug": "hoobuy-total-cost-budget",
+      "url": "https://hoobuys.org/nl/hoobuy-total-cost-budget"
+    },
+    {
+      "lang": "nl",
+      "slug": "hoobuy-size-chart-workflow-measurements-2026",
+      "url": "https://hoobuys.org/nl/hoobuy-size-chart-workflow-measurements-2026"
+    },
+    {
+      "lang": "nl",
+      "slug": "hoobuy-holiday-shopping-timeline-spreadsheet-2026",
+      "url": "https://hoobuys.org/nl/hoobuy-holiday-shopping-timeline-spreadsheet-2026"
+    },
+    {
+      "lang": "nl",
+      "slug": "hoobuy-product-link-verification-taobao-1688-weidian-2026",
+      "url": "https://hoobuys.org/nl/hoobuy-product-link-verification-taobao-1688-weidian-2026"
+    },
+    {
+      "lang": "nl",
+      "slug": "hoobuy-keyword-search-better-product-finds-2026",
+      "url": "https://hoobuys.org/nl/hoobuy-keyword-search-better-product-finds-2026"
+    },
+    {
+      "lang": "nl",
+      "slug": "hoobuy-1688-finds-moq-variants-seller-questions-2026",
+      "url": "https://hoobuys.org/nl/hoobuy-1688-finds-moq-variants-seller-questions-2026"
+    },
+    {
+      "lang": "nl",
+      "slug": "hoobuy-spreadsheet-guide",
+      "url": "https://hoobuys.org/nl/hoobuy-spreadsheet-guide"
+    },
+    {
+      "lang": "nl",
+      "slug": "hoobuy-weidian-finds-options-seller-signals-2026",
+      "url": "https://hoobuys.org/nl/hoobuy-weidian-finds-options-seller-signals-2026"
+    },
+    {
+      "lang": "nl",
+      "slug": "hoobuy-org-w2c-spreadsheet-method-2026",
+      "url": "https://hoobuys.org/nl/hoobuy-org-w2c-spreadsheet-method-2026"
+    },
+    {
+      "lang": "nl",
+      "slug": "hoobuy-seller-page-checklist-before-saving-find-2026",
+      "url": "https://hoobuys.org/nl/hoobuy-seller-page-checklist-before-saving-find-2026"
+    },
+    {
+      "lang": "nl",
+      "slug": "shipping-guide",
+      "url": "https://hoobuys.org/nl/shipping-guide"
+    },
+    {
+      "lang": "nl",
+      "slug": "hoobuy-bags-spreadsheet-dimensions-hardware-shipping-2026",
+      "url": "https://hoobuys.org/nl/hoobuy-bags-spreadsheet-dimensions-hardware-shipping-2026"
+    },
+    {
+      "lang": "nl",
+      "slug": "hoobuy-shoes-spreadsheet-size-qc-fields-2026",
+      "url": "https://hoobuys.org/nl/hoobuy-shoes-spreadsheet-size-qc-fields-2026"
+    },
+    {
+      "lang": "nl",
+      "slug": "hoobuy-taobao-finds-compare-listings-2026",
+      "url": "https://hoobuys.org/nl/hoobuy-taobao-finds-compare-listings-2026"
+    },
+    {
+      "lang": "nl",
+      "slug": "hoobuy-hoodie-spreadsheet-fabric-measurements-weight-2026",
+      "url": "https://hoobuys.org/nl/hoobuy-hoodie-spreadsheet-fabric-measurements-weight-2026"
+    },
+    {
+      "lang": "nl",
+      "slug": "hoobuy-org-w2c-qc-shipping-workflow-2026",
+      "url": "https://hoobuys.org/nl/hoobuy-org-w2c-qc-shipping-workflow-2026"
+    },
+    {
+      "lang": "nl",
+      "slug": "hoobuy-autumn-finds-spreadsheet-2026",
+      "url": "https://hoobuys.org/nl/hoobuy-autumn-finds-spreadsheet-2026"
+    },
+    {
+      "lang": "nl",
+      "slug": "hoobuy-jersey-spreadsheet-sizing-customization-qc-2026",
+      "url": "https://hoobuys.org/nl/hoobuy-jersey-spreadsheet-sizing-customization-qc-2026"
+    },
+    {
+      "lang": "pt",
+      "slug": "index",
+      "url": "https://hoobuys.org/pt/"
+    },
+    {
+      "lang": "pt",
+      "slug": "products",
+      "url": "https://hoobuys.org/pt/products"
+    },
+    {
+      "lang": "pt",
+      "slug": "guides",
+      "url": "https://hoobuys.org/pt/guides"
+    },
+    {
+      "lang": "pt",
+      "slug": "faq",
+      "url": "https://hoobuys.org/pt/faq"
+    },
+    {
+      "lang": "pt",
+      "slug": "privacy",
+      "url": "https://hoobuys.org/pt/privacy"
+    },
+    {
+      "lang": "pt",
+      "slug": "terms",
+      "url": "https://hoobuys.org/pt/terms"
+    },
+    {
+      "lang": "pt",
+      "slug": "languages",
+      "url": "https://hoobuys.org/pt/languages"
+    },
+    {
+      "lang": "pt",
+      "slug": "hoobuy-shipping-calculator-weight-and-cost",
+      "url": "https://hoobuys.org/pt/hoobuy-shipping-calculator-weight-and-cost"
+    },
+    {
+      "lang": "pt",
+      "slug": "hoobuy-qc-photo-checklist",
+      "url": "https://hoobuys.org/pt/hoobuy-qc-photo-checklist"
+    },
+    {
+      "lang": "pt",
+      "slug": "hoobuy-total-cost-budget",
+      "url": "https://hoobuys.org/pt/hoobuy-total-cost-budget"
+    },
+    {
+      "lang": "pt",
+      "slug": "hoobuy-size-chart-workflow-measurements-2026",
+      "url": "https://hoobuys.org/pt/hoobuy-size-chart-workflow-measurements-2026"
+    },
+    {
+      "lang": "pt",
+      "slug": "hoobuy-holiday-shopping-timeline-spreadsheet-2026",
+      "url": "https://hoobuys.org/pt/hoobuy-holiday-shopping-timeline-spreadsheet-2026"
+    },
+    {
+      "lang": "pt",
+      "slug": "hoobuy-product-link-verification-taobao-1688-weidian-2026",
+      "url": "https://hoobuys.org/pt/hoobuy-product-link-verification-taobao-1688-weidian-2026"
+    },
+    {
+      "lang": "pt",
+      "slug": "hoobuy-keyword-search-better-product-finds-2026",
+      "url": "https://hoobuys.org/pt/hoobuy-keyword-search-better-product-finds-2026"
+    },
+    {
+      "lang": "pt",
+      "slug": "hoobuy-1688-finds-moq-variants-seller-questions-2026",
+      "url": "https://hoobuys.org/pt/hoobuy-1688-finds-moq-variants-seller-questions-2026"
+    },
+    {
+      "lang": "pt",
+      "slug": "hoobuy-spreadsheet-guide",
+      "url": "https://hoobuys.org/pt/hoobuy-spreadsheet-guide"
+    },
+    {
+      "lang": "pt",
+      "slug": "hoobuy-weidian-finds-options-seller-signals-2026",
+      "url": "https://hoobuys.org/pt/hoobuy-weidian-finds-options-seller-signals-2026"
+    },
+    {
+      "lang": "pt",
+      "slug": "hoobuy-org-w2c-spreadsheet-method-2026",
+      "url": "https://hoobuys.org/pt/hoobuy-org-w2c-spreadsheet-method-2026"
+    },
+    {
+      "lang": "pt",
+      "slug": "hoobuy-seller-page-checklist-before-saving-find-2026",
+      "url": "https://hoobuys.org/pt/hoobuy-seller-page-checklist-before-saving-find-2026"
+    },
+    {
+      "lang": "pt",
+      "slug": "shipping-guide",
+      "url": "https://hoobuys.org/pt/shipping-guide"
+    },
+    {
+      "lang": "pt",
+      "slug": "hoobuy-bags-spreadsheet-dimensions-hardware-shipping-2026",
+      "url": "https://hoobuys.org/pt/hoobuy-bags-spreadsheet-dimensions-hardware-shipping-2026"
+    },
+    {
+      "lang": "pt",
+      "slug": "hoobuy-shoes-spreadsheet-size-qc-fields-2026",
+      "url": "https://hoobuys.org/pt/hoobuy-shoes-spreadsheet-size-qc-fields-2026"
+    },
+    {
+      "lang": "pt",
+      "slug": "hoobuy-taobao-finds-compare-listings-2026",
+      "url": "https://hoobuys.org/pt/hoobuy-taobao-finds-compare-listings-2026"
+    },
+    {
+      "lang": "pt",
+      "slug": "hoobuy-hoodie-spreadsheet-fabric-measurements-weight-2026",
+      "url": "https://hoobuys.org/pt/hoobuy-hoodie-spreadsheet-fabric-measurements-weight-2026"
+    },
+    {
+      "lang": "pt",
+      "slug": "hoobuy-org-w2c-qc-shipping-workflow-2026",
+      "url": "https://hoobuys.org/pt/hoobuy-org-w2c-qc-shipping-workflow-2026"
+    },
+    {
+      "lang": "pt",
+      "slug": "hoobuy-autumn-finds-spreadsheet-2026",
+      "url": "https://hoobuys.org/pt/hoobuy-autumn-finds-spreadsheet-2026"
+    },
+    {
+      "lang": "pt",
+      "slug": "hoobuy-jersey-spreadsheet-sizing-customization-qc-2026",
+      "url": "https://hoobuys.org/pt/hoobuy-jersey-spreadsheet-sizing-customization-qc-2026"
+    }
+  ]
+}

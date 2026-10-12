@@ -1,68 +1,40 @@
-const STYLE = `<style>.lang-switch{height:40px;border:1px solid #1cbfd1;border-radius:999px;background:#061c2b;color:#eaffff;font-weight:900;padding:0 12px;outline:0;min-width:112px;color-scheme:dark}.lang-switch option{background:#fff!important;color:#061226!important;font-weight:800}.mobile-lang-wrap{position:fixed;right:14px;bottom:14px;z-index:9999;display:none}.mobile-lang-wrap .lang-switch{box-shadow:0 12px 30px rgba(0,0,0,.28);background:#08283b}@media(max-width:760px){nav#nav .lang-switch{grid-column:1/-1;width:100%;margin-top:4px}.mobile-lang-wrap{display:block}.mobile-lang-wrap .lang-switch{width:118px;height:38px;font-size:12px}}.goog-te-banner-frame.skiptranslate{display:none!important}body{top:0!important}</style>`;
-const SELECT = `<select class="lang-switch" aria-label="Change language" onchange="setPageLang(this.value)"><option value="">Language</option><option value="en">EN</option><option value="zh-CN">中文</option><option value="de">DE</option><option value="fr">FR</option><option value="es">ES</option><option value="it">IT</option><option value="pl">PL</option><option value="nl">NL</option><option value="pt">PT</option></select>`;
-const FOOTER = `<div class="mobile-lang-wrap">${SELECT}</div><div id="google_translate_element" style="display:none"></div><script>function googleTranslateElementInit(){var l=(document.documentElement.lang||'en');new google.translate.TranslateElement({pageLanguage:l,includedLanguages:'en,zh-CN,de,fr,es,it,pl,nl,pt',autoDisplay:false},'google_translate_element')}function setPageLang(v){if(!v)return;var s=(document.documentElement.lang||'en');document.cookie='googtrans=/'+s+'/'+v+';path=/';document.cookie='googtrans=/'+s+'/'+v+';domain=.'+location.hostname+';path=/';location.reload()}document.addEventListener('click',function(e){var a=e.target.closest('a');if(!a||typeof gtag!=='function')return;try{var u=new URL(a.href,location.href);if(u.hostname==='cnfanssp.com')gtag('event','product_index_click',{link_url:u.href,page_path:location.pathname});else if(u.origin===location.origin&&u.pathname.indexOf('/hoobuy')===0)gtag('event','guide_click',{link_url:u.pathname,page_path:location.pathname})}catch(_){}})</script><script src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>`;
-const CACHE_VERSION = 'org-seo-20260912-v2';
-
+const PAGES = ["index", "products", "guides", "faq", "privacy", "terms", "languages", "hoobuy-shipping-calculator-weight-and-cost", "hoobuy-qc-photo-checklist", "hoobuy-total-cost-budget", "hoobuy-size-chart-workflow-measurements-2026", "hoobuy-holiday-shopping-timeline-spreadsheet-2026", "hoobuy-product-link-verification-taobao-1688-weidian-2026", "hoobuy-keyword-search-better-product-finds-2026", "hoobuy-1688-finds-moq-variants-seller-questions-2026", "hoobuy-spreadsheet-guide", "hoobuy-weidian-finds-options-seller-signals-2026", "hoobuy-org-w2c-spreadsheet-method-2026", "hoobuy-seller-page-checklist-before-saving-find-2026", "shipping-guide", "hoobuy-bags-spreadsheet-dimensions-hardware-shipping-2026", "hoobuy-shoes-spreadsheet-size-qc-fields-2026", "hoobuy-taobao-finds-compare-listings-2026", "hoobuy-hoodie-spreadsheet-fabric-measurements-weight-2026", "hoobuy-org-w2c-qc-shipping-workflow-2026", "hoobuy-autumn-finds-spreadsheet-2026", "hoobuy-jersey-spreadsheet-sizing-customization-qc-2026", "404"];
+const LANGS = ['zh-CN', 'de', 'fr', 'es', 'it', 'pl', 'nl', 'pt'];
+const REVISION = '2026-10-12-org-multilingual';
+function route(path) {
+  const parts = path.split('/').filter(Boolean);
+  const lang = LANGS.includes(parts[0]) ? parts.shift() : '';
+  const slug = parts.join('/') || 'index';
+  return { lang, slug, valid: PAGES.includes(slug) };
+}
 export default {
-  async fetch(request, env, ctx) {
+  async fetch(request, env) {
     const url = new URL(request.url);
-    if (url.hostname === 'www.hoobuys.org') {
-      url.hostname = 'hoobuys.org';
-      return new Response(null, {
-        status: 301,
-        headers: { Location: url.toString(), 'Cache-Control': 'public, max-age=3600' },
-      });
+    if (!['GET', 'HEAD'].includes(request.method)) return new Response('Method not allowed', { status: 405, headers: { Allow: 'GET, HEAD' } });
+    const original = url.pathname;
+    let path = original.replace(/\.html$/, '').replace(/\/index$/, '/');
+    if (path === '/index') path = '/';
+    if (/^\/(zh-CN|de|fr|es|it|pl|nl|pt)$/.test(path)) path += '/';
+    const home = path === '/' || /^\/(zh-CN|de|fr|es|it|pl|nl|pt)\/$/.test(path);
+    if (!home) path = path.replace(/\/$/, '');
+    const info = route(path);
+    const asset = /^\/assets\/[a-zA-Z0-9_.-]+$/.test(path) || ['/robots.txt', '/sitemap.xml', '/sitemap.txt'].includes(path);
+    if (url.hostname === 'www.hoobuys.org' || (info.valid && path !== original)) {
+      url.hostname = url.hostname === 'www.hoobuys.org' ? 'hoobuys.org' : url.hostname;
+      url.pathname = info.valid ? path : original;
+      return Response.redirect(url.toString(), 301);
     }
-
-    if (url.pathname.endsWith('.html')) {
-      url.pathname = url.pathname.slice(0, -5) || '/';
-      return new Response(null, {
-        status: 301,
-        headers: { Location: url.toString(), 'Cache-Control': 'public, max-age=86400' },
-      });
+    if (!info.valid && !asset) {
+      const missing = new URL(request.url); missing.pathname = (info.lang ? '/' + info.lang : '') + '/404'; missing.search = '';
+      const page = await env.ASSETS.fetch(new Request(missing, request));
+      return new Response(request.method === 'HEAD' ? null : page.body, { status: 404, headers: { 'Content-Type': 'text/html; charset=utf-8', 'Cache-Control': 'no-store', 'X-Robots-Tag': 'noindex', 'X-Site-Revision': REVISION } });
     }
-
-    const cacheable = request.method === 'GET' && !url.search;
-    const cacheUrl = new URL(url.toString());
-    cacheUrl.searchParams.set('__cv', CACHE_VERSION);
-    const cacheKey = new Request(cacheUrl.toString(), request);
-    if (cacheable) {
-      const cached = await caches.default.match(cacheKey);
-      if (cached) return cached;
-    }
-
-    const res = await env.ASSETS.fetch(request);
-    const contentType = res.headers.get('content-type') || '';
-    if (!contentType.includes('text/html') || res.status !== 200) return res;
-
-    const canonicalPath = url.pathname === '/' ? '/' : url.pathname.replace(/\.html$/, '');
-    const canonical = `https://hoobuys.org${canonicalPath}`;
-    let added = false;
-    const addLang = {
-      element(element) {
-        if (!added) {
-          element.append(SELECT, { html: true });
-          added = true;
-        }
-      },
-    };
-
-    const transformed = new HTMLRewriter()
-      .on('link[rel="canonical"]', { element(element) { element.remove(); } })
-      .on('head', { element(element) { element.append(`${STYLE}<link rel="canonical" href="${canonical}">`, { html: true }); } })
-      .on('nav#nav', addLang)
-      .on('body', { element(element) { element.append(FOOTER, { html: true }); } })
-      .transform(res);
-
-    const headers = new Headers(transformed.headers);
-    headers.set('Cache-Control', 'public, max-age=0, s-maxage=86400, stale-while-revalidate=604800');
-    const finalResponse = new Response(transformed.body, {
-      status: transformed.status,
-      statusText: transformed.statusText,
-      headers,
-    });
-
-    if (cacheable) ctx.waitUntil(caches.default.put(cacheKey, finalResponse.clone()));
-    return finalResponse;
-  },
+    const response = await env.ASSETS.fetch(request);
+    const headers = new Headers(response.headers);
+    headers.set('X-Site-Revision', REVISION);
+    headers.set('X-Content-Type-Options', 'nosniff');
+    if ((headers.get('content-type') || '').includes('text/html')) headers.set('Cache-Control', 'public, max-age=0, s-maxage=300');
+    else if (/\.[a-f0-9]{12}\.(css|js)$/.test(path)) headers.set('Cache-Control', 'public, max-age=31536000, immutable');
+    return new Response(request.method === 'HEAD' ? null : response.body, { status: response.status, headers });
+  }
 };
