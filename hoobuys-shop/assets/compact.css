@@ -1,0 +1,115 @@
+/* Shared branding and compact layouts across every Hoobuys Shop template. */
+.site-compact .site-header{position:sticky;top:0;z-index:30;background:#04131f;border-bottom:1px solid #22677a;color:#eaffff}
+.site-compact .site-header .bar{max-width:1180px;width:100%;min-height:66px;margin:0 auto;padding:10px 20px;display:flex;align-items:center;justify-content:space-between;flex-wrap:nowrap;gap:16px}
+.site-compact .site-brand{display:inline-flex;align-items:center;flex:none;min-height:44px;text-decoration:none}
+.site-compact .site-logo{display:block;width:158px;height:auto;max-width:100%;object-fit:contain}
+.site-compact .site-header .nav{display:flex;align-items:center;gap:6px;margin:0;width:auto}
+.site-compact .site-header .nav a{display:inline-flex;align-items:center;justify-content:center;min-height:40px;padding:7px 10px;border:1px solid #2b5269;border-radius:12px;background:#08283b;color:#eaffff;font-size:13px;font-weight:700;line-height:1.3;text-decoration:none}
+.site-compact .site-header .nav .hot{background:#22d3ee;color:#06202a}
+.site-compact .site-header .menu{display:none}
+.site-compact :is(a,button,summary,select):focus-visible{outline:2px solid #fa8b28;outline-offset:3px}
+.site-compact :is(h1,h2,h3,p,li,a,summary){overflow-wrap:anywhere}
+.site-compact [id]{scroll-margin-top:82px}
+.site-compact .guide-list{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px}
+.site-compact .guide-list>.box{margin:0}
+.site-compact .guide-list h2{font-size:22px;line-height:1.25}
+.site-compact .reading-section{margin:24px 0;border:0}
+.site-compact .reading-section>summary{display:block;list-style:none;cursor:pointer}
+.site-compact .reading-section>summary::-webkit-details-marker{display:none}
+.site-compact .reading-section>summary h2{margin:0 0 12px}
+.site-compact .reading-tools{display:flex;align-items:start;gap:10px;margin:16px 0}
+.site-compact .reading-toc{flex:1;border:1px solid #2b5269;border-radius:10px;padding:10px 12px;background:#061827;color:#dffaff}
+.site-compact .reading-toc>summary{display:block;cursor:pointer;font-size:15px;font-weight:700;line-height:1.4}
+.site-compact .reading-toc>summary:after{content:' +';color:#67e8f9}
+.site-compact .reading-toc[open]>summary:after{content:' −'}
+.site-compact .reading-toc nav{display:grid;gap:0;padding-top:8px}
+.site-compact .reading-toc nav a{padding:8px 0;color:#9debf3;font-size:14px;line-height:1.4;text-decoration:none}
+.site-compact .reading-toggle{display:none}
+.site-compact .compact-faq{border-bottom:1px solid #2b5269;padding:12px 0}
+.site-compact .compact-faq summary{display:flex;gap:10px;align-items:center;justify-content:space-between;list-style:none;cursor:pointer}
+.site-compact .compact-faq summary::-webkit-details-marker{display:none}
+.site-compact .compact-faq summary:after{content:'+';color:#67e8f9;font-size:22px;flex:none}
+.site-compact .compact-faq[open] summary:after{content:'−'}
+.site-compact .compact-faq h3{margin:0;font-size:17px;line-height:1.4}
+.site-compact .compact-faq p{margin:8px 0 0}
+@media(max-width:1100px){
+ .site-compact .site-header .bar{min-height:58px;padding:6px 14px;gap:12px}
+ .site-compact .site-header .menu{display:inline-flex;align-items:center;justify-content:center;order:2;min-width:44px;height:44px;padding:4px;border:1px solid #2b5269;border-radius:10px;background:#08283b;color:#fff;font-size:24px;cursor:pointer}
+ .site-compact .site-header .nav{display:none;position:absolute;left:12px;right:12px;top:calc(100% + 4px);max-height:calc(100dvh - 80px);overflow:auto;grid-template-columns:repeat(2,minmax(0,1fr));padding:10px;border:1px solid #2b5269;border-radius:12px;background:#061c2b;box-shadow:0 12px 28px #0005}
+ .site-compact .site-header .nav.open{display:grid}
+ .site-compact .site-header .nav a{display:flex;min-height:44px;font-size:14px}
+ .site-compact .site-header .nav .lang-switch{grid-column:1/-1;width:100%;min-height:44px}
+}
+@media(max-width:760px){
+ .site-compact{line-height:1.5}
+ .site-compact .wrap{width:100%;padding:0 12px}
+ .site-compact .site-logo{width:138px}
+ .site-compact [id]{scroll-margin-top:72px}
+ .site-compact main.wrap{padding-top:0;padding-bottom:0}
+ .site-compact .hero{padding:18px 0 10px}
+ .site-compact .hero h1,.site-compact .article h1,.site-compact .article-head h1,.site-compact h1{font-size:27px;line-height:1.17;letter-spacing:-.02em;margin:6px 0 10px}
+ .site-compact .hero p,.site-compact .lead,.site-compact .lede{display:block;font-size:15px;line-height:1.5;margin:8px 0;-webkit-line-clamp:unset;overflow:visible}
+ .site-compact .actions{gap:8px;margin-top:10px}
+ .site-compact .actions .btn{padding:9px 10px;min-height:44px;font-size:13px;line-height:1.3}
+ .site-compact .section,.site-compact main>section:not(.hero){padding-top:8px;padding-bottom:8px}
+ .site-compact .section h2,.site-compact main>section>h2{font-size:20px;line-height:1.25;margin:0 0 10px}
+ .site-compact :is(.grid,.grid2,.grid3,.grid4,.grid5,.guide-list){grid-template-columns:repeat(2,minmax(0,1fr));gap:8px;margin-top:0;margin-bottom:8px}
+ .site-compact :is(.grid,.grid2,.grid3,.grid4,.grid5,.guide-list)>*{min-width:0;margin:0}
+ .site-compact :is(.card,.box,.summary,.note,.article-card,.route,.product,details.collapsible,.faq-list){padding:12px;margin:8px 0;border-radius:12px;box-shadow:none}
+ .site-compact :is(.grid,.grid2,.grid3,.grid4,.grid5,.guide-list)>:is(.card,.box,.article-card,.route,.product){padding:10px;margin:0}
+ .site-compact :is(.card,.article-card,.route,.product) :is(h2,h3,b){font-size:15px;line-height:1.3;margin:0 0 6px}
+ .site-compact :is(.card,.article-card,.route,.product) p{font-size:13px;line-height:1.45;margin:5px 0}
+ .site-compact .article-card .article-link{display:inline-block;background:transparent;color:#67e8f9;padding:8px 0 0;border-radius:0;font-size:13px;line-height:1.35;margin:0}
+ .site-compact .guide-list h2{font-size:16px;line-height:1.3;margin:5px 0 7px}
+ .site-compact .guide-list .c{font-size:11px;line-height:1.4}
+ .site-compact .guide-list p{font-size:13px;line-height:1.45;margin:6px 0}
+ .site-compact .guide-list .btn{font-size:13px;line-height:1.3;padding:9px 10px;min-height:40px;margin-top:4px}
+ .site-compact .pic{height:100px;margin:0 0 8px;border-radius:8px}
+ .site-compact .pic img{width:100%;height:100%;object-fit:cover}
+ .site-compact .product .btn,.site-compact .grid5 .btn{font-size:13px;min-height:40px;line-height:1.3;padding:8px 10px;margin-top:5px}
+ .site-compact .collapsible>summary{font-size:17px;line-height:1.35;min-height:38px}
+ .site-compact .collapse-body{margin-top:10px;font-size:15px;line-height:1.5}
+ .site-compact .collapse-body p{margin-bottom:10px}
+ .site-compact .faq{grid-template-columns:1fr;gap:0}
+ .site-compact .faq-list h2{font-size:20px;line-height:1.25;margin-bottom:8px}
+ .site-compact .faq-item,.site-compact .compact-faq{padding:9px 0}
+ .site-compact .faq-item summary,.site-compact .compact-faq h3{font-size:15px;line-height:1.4;min-height:32px}
+ .site-compact .faq-item p,.site-compact .compact-faq p{font-size:15px;line-height:1.5;margin:8px 0 0}
+ .site-compact .crumb{font-size:12px;line-height:1.4;padding:10px 0 4px}
+ .site-compact .article{max-width:100%;margin:10px auto;padding:12px;border-radius:12px}
+ .site-compact main.wrap.article{margin:0 auto;padding:0 12px}
+ .site-compact .article-head{padding:8px 0}
+ .site-compact .article :is(p,li),.site-compact .box :is(p,li){font-size:16px;line-height:1.55}
+ .site-compact .article p{margin:0 0 10px}
+ .site-compact .article :is(h2,.reading-section>summary h2){font-size:20px;line-height:1.3;margin:18px 0 8px}
+ .site-compact .article h3{font-size:17px;line-height:1.35;margin:14px 0 7px}
+ .site-compact .article section{margin:14px 0}
+ .site-compact .article :is(ul,ol){padding-left:20px;margin:8px 0 12px}
+ .site-compact .article li{margin:4px 0}
+ .site-compact :is(.eyebrow,.intent,.meta){font-size:12px;line-height:1.4;letter-spacing:0}
+ .site-compact .intent{padding:5px 8px}
+ .site-compact .article :is(.disclosure,.rule,.note,.check,.fact-note,.source){padding:10px 12px;margin:12px 0;border-radius:10px;font-size:14px;line-height:1.5}
+ .site-compact .article .sources{margin-top:16px;padding-top:12px}
+ .site-compact .article .sources :is(p,li),.site-compact .article p.meta{font-size:13px;line-height:1.5}
+ .site-compact .reading-tools{align-items:start;margin:12px 0;gap:8px}
+ .site-compact .reading-toggle{display:inline-flex;align-items:center;justify-content:center;min-height:44px;max-width:46%;padding:8px 10px;border:1px solid #2b5269;border-radius:10px;background:#092b40;color:#dffaff;font:700 13px/1.3 Arial,sans-serif;cursor:pointer}
+ .site-compact .reading-toc{padding:11px 10px;min-height:44px}
+ .site-compact .reading-section{margin:0;border-top:1px solid #2b5269;padding:0}
+ .site-compact .reading-section>summary{display:flex;align-items:center;justify-content:space-between;gap:10px;min-height:52px;padding:11px 0;list-style:none}
+ .site-compact .reading-section>summary:after{content:'+';flex:none;font-size:23px;color:#67e8f9}
+ .site-compact .reading-section[open]>summary:after{content:'−'}
+ .site-compact .article .reading-section>summary h2{font-size:17px;line-height:1.4;margin:0}
+ .site-compact .reading-content{padding-bottom:4px}
+ .site-compact .legacy-toc{gap:6px;margin:10px 0}
+ .site-compact .legacy-toc a{font-size:13px;padding:6px 8px}
+ .site-compact .article .compact-table{display:table;width:100%;max-width:100%;table-layout:fixed;overflow:visible;margin:12px 0}
+ .site-compact .compact-table :is(th,td){min-width:0;font-size:14px;line-height:1.45;padding:8px;overflow-wrap:anywhere}
+ .site-compact .compact-table thead{position:absolute;width:1px;height:1px;padding:0;overflow:hidden;clip-path:inset(50%);white-space:nowrap}
+ .site-compact .compact-table,.site-compact .compact-table tbody{display:block;width:100%}
+ .site-compact .compact-table tr{display:block;border:1px solid #2b5269;border-radius:8px;margin:8px 0;overflow:hidden}
+ .site-compact .compact-table td{display:grid;grid-template-columns:minmax(0,32%) minmax(0,1fr);gap:8px;border:0;border-bottom:1px solid #2b5269;text-align:left}
+ .site-compact .compact-table td:last-child{border-bottom:0}
+ .site-compact .compact-table td:before{content:attr(data-label);font-weight:700;color:#9debf3}
+ .site-compact .foot,.site-compact .footer{font-size:12px;line-height:1.5;padding:18px 12px 64px}
+}
+@media print{.site-header,.reading-tools,.mobile-lang-wrap{display:none!important}.reading-section>summary{display:block}.reading-content{display:block!important}}
