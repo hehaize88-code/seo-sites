@@ -1,0 +1,32 @@
+Hoobuy Hoodies Spreadsheet: misure, tessuto e QC
+Confronta felpe Hoobuy usando misure del capo, informazioni sul tessuto, fotografie QC e costi del pacco completo.
+
+<p>Uno spreadsheet di felpe Hoobuy serve quando collega ogni prodotto alle misure necessarie per scegliere un capo utilizzabile. Una foto e una lettera non bastano. Due felpe L possono differire per torace, lunghezza, maniche e vestibilità. Anche il prezzo minimo può riferirsi a un'altra variante ed escludere le consegne.</p>
+<p>Parti dalle <a href="/products#hoodies">felpe selezionate</a> e confronta opzioni precise. Conserva il titolo della pagina per ritrovare la fonte. Una dichiarazione del venditore su materiali o qualità non è una verifica indipendente. Separa descrizione, misure e osservazioni del magazzino.</p>
+<h2>Registrare il capo selezionato</h2>
+<p>Salva URL, identificativo, colore, taglia, versione, quantità, prezzo e data. Un'inserzione può combinare tessuti, stampe e tipologie differenti. Verifica se l'opzione riguarda una felpa con cappuccio, senza cappuccio o un completo. Il prezzo più basso potrebbe non corrispondere alla prima immagine.</p>
+<p>Conserva importo e valuta originali. Se visualizzi USD, segnala la stima e il tasso comparativo. Il pagamento effettivo può applicare una conversione diversa. Tieni separati consegna interna, servizi scelti e spedizione internazionale.</p>
+<h2>Misurare una felpa che già veste bene</h2>
+<p>Stendi un capo di riferimento su una superficie piana, senza tirare il tessuto. Registra larghezza del torace, lunghezza, spalle e maniche con estremi definiti. Specifica se il torace è una larghezza piatta o una circonferenza. Raddoppiare la larghezza approssima il giro del capo, non consiglia una misura corporea.</p>
+<p>Confronta metodi equivalenti. Una manica misurata dalla spalla differisce da una misura dal centro della schiena. Una manica raglan non ha la cucitura di spalla convenzionale. Anche la lunghezza può partire da punti diversi: segui il disegno della scheda.</p>
+<p>Definisci la vestibilità prima di scegliere la lettera. Un capo ampio può essere adatto a più strati, uno corto a una silhouette diversa. Più largo o lungo non significa automaticamente migliore. Considera uso previsto e incertezza accettabile.</p>
+<h2>Leggere la tabella del venditore</h2>
+<p>Verifica che riguardi la variante scelta e identifica centimetri o pollici. Un pollice equivale esattamente a 2,54 cm, ma convertire non chiarisce punti di misura ambigui. Traduci le colonne sconosciute e conserva la tolleranza eventualmente dichiarata come informazione specifica di quell'offerta.</p>
+<p>Quando due taglie sono vicine, individua la dimensione decisiva: torace per gli strati, lunghezza delle maniche o del corpo. Chiedi chiarimenti se tabella e opzioni si contraddicono. Quando esistono misure dirette, una raccomandazione basata soltanto su altezza e peso può lasciare dubbi evitabili.</p>
+<h2>Separare dichiarazioni sul tessuto e prove</h2>
+<p>Etichetta come informazioni del venditore composizione, fodera e grammatura. Una foto dell'interno felpato mostra l'aspetto, ma non conferma percentuale di cotone o comportamento dopo il lavaggio. Un'etichetta documenta ciò che dichiara, non un'analisi di laboratorio.</p>
+<p>Non confondere peso del capo e GSM. GSM indica massa del tessuto per unità di superficie. Il peso complessivo comprende taglia, cappuccio, tasche, polsini e cordini. Una felpa pesante non dimostra maggiore grammatura del tessuto principale né migliore durata.</p>
+<p>Se contano restringimento, morbidezza o tenuta del colore, annota ciò che non sai. Le immagini non consentono previsioni certe. Valuta se le informazioni bastano per aspettative e budget, evitando punteggi di qualità senza metodo.</p>
+<h2>Controllare identità e costruzione al magazzino</h2>
+<p>Collega il registro a ordine, colore, taglia e quantità. Confronta la silhouette con la scheda salvata. Esamina poi fronte, retro, cappuccio, collo, polsini, fondo, tasche e cuciture principali. Per un completo, verifica tutti i pezzi previsti.</p>
+<p>Cerca disallineamenti visibili, cuciture aperte, arricciature insolite, macchie o stampa errata. Confronta con la variante ordinata, non con immagini estranee. L'illuminazione può modificare il colore apparente; una singola foto non risolve sempre piccole differenze di tonalità.</p>
+<p>Una foto della cerniera non ne prova il funzionamento. Se il servizio è disponibile e rilevante, chiedi un'azione specifica, come aprirla e chiuderla una volta. Un video non è sempre più utile: per leggere un'etichetta o osservare una cucitura può bastare una foto nitida.</p>
+<h2>Richiedere misure decisive</h2>
+<p>Chiedi, per esempio, la larghezza del torace con capo rilassato e metro visibile alle estremità, la lunghezza da un punto preciso o un'etichetta leggibile. «Controllare la taglia» è ambiguo. Tessuto allungato o piegato sul metro rende il dato meno confrontabile.</p>
+<p>Affianca risultato, tabella e riferimento personale. Interpreta lo scarto secondo metodo e vestibilità desiderata. Risolvi una differenza determinante prima della spedizione internazionale. La <a href="/hoobuy-size-guide">guida alle taglie</a> propone un registro riutilizzabile.</p>
+<h2>Includere l'imballaggio nel costo totale</h2>
+<p>Una felpa voluminosa può occupare molto spazio. Usa le misure del magazzino e le regole correnti della linea, senza ricavare il trasporto finale da una foto. Separa consegna interna, imballaggio opzionale, spedizione internazionale e costi applicabili a destinazione.</p>
+<p>La compressione può ridurre il volume di alcuni capi, ma non è adatta automaticamente a ogni tessuto, decorazione o struttura. Valuta forma e protezione. Confronta il pacco finale con imballaggio esterno invece di sottrarre un risparmio immaginato da una vecchia stima.</p>
+<h2>Conservare una decisione comprensibile</h2>
+<p>Approva quando identità, misure importanti e controllo visibile sono accettabili. Richiedi prove se manca un dettaglio necessario. Fai esaminare varianti errate, danni o differenze irrisolte prima di creare il pacco. Registra decisione e data.</p>
+<p>Rivedi collegamenti e prezzi quando riprendi una selezione vecchia, senza cancellare le note precedenti. Continua con la <a href="/hoobuy-pro-qc-photo-video-checklist-2026">lista QC</a>, la <a href="/shipping-guide">guida alla spedizione</a> e il <a href="/hoobuy-budget-finds">budget completo</a>. Una selezione utile produce una scelta motivata, non una promessa assoluta.</p>

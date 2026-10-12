@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-# Content deployment refreshed 2026-09-10
+Disallow: /_src/
 Sitemap: https://hoobuys.pro/sitemap.xml

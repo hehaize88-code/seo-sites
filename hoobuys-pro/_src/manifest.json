@@ -1,0 +1,883 @@
+{
+  "date": "2026-10-12",
+  "languages": [
+    "en",
+    "de",
+    "es",
+    "fr",
+    "it"
+  ],
+  "articles_per_language": 23,
+  "pages": [
+    {
+      "lang": "en",
+      "slug": "",
+      "url": "https://hoobuys.pro/",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "en",
+      "slug": "products",
+      "url": "https://hoobuys.pro/products",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "en",
+      "slug": "guides",
+      "url": "https://hoobuys.pro/guides",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "en",
+      "slug": "hoobuy-shoes-spreadsheet",
+      "url": "https://hoobuys.pro/hoobuy-shoes-spreadsheet",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "en",
+      "slug": "hoobuy-hoodies-spreadsheet",
+      "url": "https://hoobuys.pro/hoobuy-hoodies-spreadsheet",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "en",
+      "slug": "hoobuy-size-guide",
+      "url": "https://hoobuys.pro/hoobuy-size-guide",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "en",
+      "slug": "hoobuy-budget-finds",
+      "url": "https://hoobuys.pro/hoobuy-budget-finds",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "en",
+      "slug": "hoobuy-pro-w2c-qc-shipping-workflow-2026",
+      "url": "https://hoobuys.pro/hoobuy-pro-w2c-qc-shipping-workflow-2026",
+      "modified": "2026-09-10"
+    },
+    {
+      "lang": "en",
+      "slug": "hoobuy-consolidate-or-split-parcels-cost-model-2026",
+      "url": "https://hoobuys.pro/hoobuy-consolidate-or-split-parcels-cost-model-2026",
+      "modified": "2026-09-10"
+    },
+    {
+      "lang": "en",
+      "slug": "hoobuy-parcel-insurance-claims-evidence-guide-2026",
+      "url": "https://hoobuys.pro/hoobuy-parcel-insurance-claims-evidence-guide-2026",
+      "modified": "2026-09-10"
+    },
+    {
+      "lang": "en",
+      "slug": "hoobuy-returns-refunds-deductions-guide-2026",
+      "url": "https://hoobuys.pro/hoobuy-returns-refunds-deductions-guide-2026",
+      "modified": "2026-09-10"
+    },
+    {
+      "lang": "en",
+      "slug": "hoobuy-service-payment-fees-verification-guide-2026",
+      "url": "https://hoobuys.pro/hoobuy-service-payment-fees-verification-guide-2026",
+      "modified": "2026-09-10"
+    },
+    {
+      "lang": "en",
+      "slug": "hoobuy-spreadsheet-guide",
+      "url": "https://hoobuys.pro/hoobuy-spreadsheet-guide",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "en",
+      "slug": "hoobuy-pro-qc-photo-video-checklist-2026",
+      "url": "https://hoobuys.pro/hoobuy-pro-qc-photo-video-checklist-2026",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "en",
+      "slug": "hoobuy-rehearsal-shipping-cost-guide-2026",
+      "url": "https://hoobuys.pro/hoobuy-rehearsal-shipping-cost-guide-2026",
+      "modified": "2026-09-10"
+    },
+    {
+      "lang": "en",
+      "slug": "hoobuy-domestic-shipping-seller-to-warehouse-cost-guide-2026",
+      "url": "https://hoobuys.pro/hoobuy-domestic-shipping-seller-to-warehouse-cost-guide-2026",
+      "modified": "2026-09-10"
+    },
+    {
+      "lang": "en",
+      "slug": "hoobuy-shipping-calculator-estimate-final-charge-guide-2026",
+      "url": "https://hoobuys.pro/hoobuy-shipping-calculator-estimate-final-charge-guide-2026",
+      "modified": "2026-09-10"
+    },
+    {
+      "lang": "en",
+      "slug": "hoobuy-parcel-dimensions-billable-weight-ledger-2026",
+      "url": "https://hoobuys.pro/hoobuy-parcel-dimensions-billable-weight-ledger-2026",
+      "modified": "2026-09-10"
+    },
+    {
+      "lang": "en",
+      "slug": "shipping-guide",
+      "url": "https://hoobuys.pro/shipping-guide",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "en",
+      "slug": "hoobuy-volumetric-weight-cost-worksheet-2026",
+      "url": "https://hoobuys.pro/hoobuy-volumetric-weight-cost-worksheet-2026",
+      "modified": "2026-09-10"
+    },
+    {
+      "lang": "en",
+      "slug": "hoobuy-shipping-to-europe-vat-customs-routes-2026",
+      "url": "https://hoobuys.pro/hoobuy-shipping-to-europe-vat-customs-routes-2026",
+      "modified": "2026-09-10"
+    },
+    {
+      "lang": "en",
+      "slug": "hoobuy-restricted-items-shipping-routes-2026",
+      "url": "https://hoobuys.pro/hoobuy-restricted-items-shipping-routes-2026",
+      "modified": "2026-09-10"
+    },
+    {
+      "lang": "en",
+      "slug": "hoobuy-currency-conversion-exchange-rate-cost-guide-2026",
+      "url": "https://hoobuys.pro/hoobuy-currency-conversion-exchange-rate-cost-guide-2026",
+      "modified": "2026-09-10"
+    },
+    {
+      "lang": "en",
+      "slug": "hoobuy-tracking-not-updating-carrier-handoffs-2026",
+      "url": "https://hoobuys.pro/hoobuy-tracking-not-updating-carrier-handoffs-2026",
+      "modified": "2026-09-10"
+    },
+    {
+      "lang": "en",
+      "slug": "hoobuy-shoebox-removal-cost-damage-risk-2026",
+      "url": "https://hoobuys.pro/hoobuy-shoebox-removal-cost-damage-risk-2026",
+      "modified": "2026-09-10"
+    },
+    {
+      "lang": "en",
+      "slug": "hoobuy-warehouse-storage-deadlines-fees-2026",
+      "url": "https://hoobuys.pro/hoobuy-warehouse-storage-deadlines-fees-2026",
+      "modified": "2026-09-10"
+    },
+    {
+      "lang": "en",
+      "slug": "faq",
+      "url": "https://hoobuys.pro/faq",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "en",
+      "slug": "privacy",
+      "url": "https://hoobuys.pro/privacy",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "en",
+      "slug": "terms",
+      "url": "https://hoobuys.pro/terms",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "de",
+      "slug": "",
+      "url": "https://hoobuys.pro/de/",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "de",
+      "slug": "products",
+      "url": "https://hoobuys.pro/de/products",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "de",
+      "slug": "guides",
+      "url": "https://hoobuys.pro/de/guides",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "de",
+      "slug": "hoobuy-shoes-spreadsheet",
+      "url": "https://hoobuys.pro/de/hoobuy-shoes-spreadsheet",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "de",
+      "slug": "hoobuy-hoodies-spreadsheet",
+      "url": "https://hoobuys.pro/de/hoobuy-hoodies-spreadsheet",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "de",
+      "slug": "hoobuy-size-guide",
+      "url": "https://hoobuys.pro/de/hoobuy-size-guide",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "de",
+      "slug": "hoobuy-budget-finds",
+      "url": "https://hoobuys.pro/de/hoobuy-budget-finds",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "de",
+      "slug": "hoobuy-pro-w2c-qc-shipping-workflow-2026",
+      "url": "https://hoobuys.pro/de/hoobuy-pro-w2c-qc-shipping-workflow-2026",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "de",
+      "slug": "hoobuy-consolidate-or-split-parcels-cost-model-2026",
+      "url": "https://hoobuys.pro/de/hoobuy-consolidate-or-split-parcels-cost-model-2026",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "de",
+      "slug": "hoobuy-parcel-insurance-claims-evidence-guide-2026",
+      "url": "https://hoobuys.pro/de/hoobuy-parcel-insurance-claims-evidence-guide-2026",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "de",
+      "slug": "hoobuy-returns-refunds-deductions-guide-2026",
+      "url": "https://hoobuys.pro/de/hoobuy-returns-refunds-deductions-guide-2026",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "de",
+      "slug": "hoobuy-service-payment-fees-verification-guide-2026",
+      "url": "https://hoobuys.pro/de/hoobuy-service-payment-fees-verification-guide-2026",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "de",
+      "slug": "hoobuy-spreadsheet-guide",
+      "url": "https://hoobuys.pro/de/hoobuy-spreadsheet-guide",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "de",
+      "slug": "hoobuy-pro-qc-photo-video-checklist-2026",
+      "url": "https://hoobuys.pro/de/hoobuy-pro-qc-photo-video-checklist-2026",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "de",
+      "slug": "hoobuy-rehearsal-shipping-cost-guide-2026",
+      "url": "https://hoobuys.pro/de/hoobuy-rehearsal-shipping-cost-guide-2026",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "de",
+      "slug": "hoobuy-domestic-shipping-seller-to-warehouse-cost-guide-2026",
+      "url": "https://hoobuys.pro/de/hoobuy-domestic-shipping-seller-to-warehouse-cost-guide-2026",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "de",
+      "slug": "hoobuy-shipping-calculator-estimate-final-charge-guide-2026",
+      "url": "https://hoobuys.pro/de/hoobuy-shipping-calculator-estimate-final-charge-guide-2026",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "de",
+      "slug": "hoobuy-parcel-dimensions-billable-weight-ledger-2026",
+      "url": "https://hoobuys.pro/de/hoobuy-parcel-dimensions-billable-weight-ledger-2026",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "de",
+      "slug": "shipping-guide",
+      "url": "https://hoobuys.pro/de/shipping-guide",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "de",
+      "slug": "hoobuy-volumetric-weight-cost-worksheet-2026",
+      "url": "https://hoobuys.pro/de/hoobuy-volumetric-weight-cost-worksheet-2026",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "de",
+      "slug": "hoobuy-shipping-to-europe-vat-customs-routes-2026",
+      "url": "https://hoobuys.pro/de/hoobuy-shipping-to-europe-vat-customs-routes-2026",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "de",
+      "slug": "hoobuy-restricted-items-shipping-routes-2026",
+      "url": "https://hoobuys.pro/de/hoobuy-restricted-items-shipping-routes-2026",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "de",
+      "slug": "hoobuy-currency-conversion-exchange-rate-cost-guide-2026",
+      "url": "https://hoobuys.pro/de/hoobuy-currency-conversion-exchange-rate-cost-guide-2026",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "de",
+      "slug": "hoobuy-tracking-not-updating-carrier-handoffs-2026",
+      "url": "https://hoobuys.pro/de/hoobuy-tracking-not-updating-carrier-handoffs-2026",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "de",
+      "slug": "hoobuy-shoebox-removal-cost-damage-risk-2026",
+      "url": "https://hoobuys.pro/de/hoobuy-shoebox-removal-cost-damage-risk-2026",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "de",
+      "slug": "hoobuy-warehouse-storage-deadlines-fees-2026",
+      "url": "https://hoobuys.pro/de/hoobuy-warehouse-storage-deadlines-fees-2026",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "de",
+      "slug": "faq",
+      "url": "https://hoobuys.pro/de/faq",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "de",
+      "slug": "privacy",
+      "url": "https://hoobuys.pro/de/privacy",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "de",
+      "slug": "terms",
+      "url": "https://hoobuys.pro/de/terms",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "es",
+      "slug": "",
+      "url": "https://hoobuys.pro/es/",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "es",
+      "slug": "products",
+      "url": "https://hoobuys.pro/es/products",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "es",
+      "slug": "guides",
+      "url": "https://hoobuys.pro/es/guides",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "es",
+      "slug": "hoobuy-shoes-spreadsheet",
+      "url": "https://hoobuys.pro/es/hoobuy-shoes-spreadsheet",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "es",
+      "slug": "hoobuy-hoodies-spreadsheet",
+      "url": "https://hoobuys.pro/es/hoobuy-hoodies-spreadsheet",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "es",
+      "slug": "hoobuy-size-guide",
+      "url": "https://hoobuys.pro/es/hoobuy-size-guide",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "es",
+      "slug": "hoobuy-budget-finds",
+      "url": "https://hoobuys.pro/es/hoobuy-budget-finds",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "es",
+      "slug": "hoobuy-pro-w2c-qc-shipping-workflow-2026",
+      "url": "https://hoobuys.pro/es/hoobuy-pro-w2c-qc-shipping-workflow-2026",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "es",
+      "slug": "hoobuy-consolidate-or-split-parcels-cost-model-2026",
+      "url": "https://hoobuys.pro/es/hoobuy-consolidate-or-split-parcels-cost-model-2026",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "es",
+      "slug": "hoobuy-parcel-insurance-claims-evidence-guide-2026",
+      "url": "https://hoobuys.pro/es/hoobuy-parcel-insurance-claims-evidence-guide-2026",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "es",
+      "slug": "hoobuy-returns-refunds-deductions-guide-2026",
+      "url": "https://hoobuys.pro/es/hoobuy-returns-refunds-deductions-guide-2026",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "es",
+      "slug": "hoobuy-service-payment-fees-verification-guide-2026",
+      "url": "https://hoobuys.pro/es/hoobuy-service-payment-fees-verification-guide-2026",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "es",
+      "slug": "hoobuy-spreadsheet-guide",
+      "url": "https://hoobuys.pro/es/hoobuy-spreadsheet-guide",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "es",
+      "slug": "hoobuy-pro-qc-photo-video-checklist-2026",
+      "url": "https://hoobuys.pro/es/hoobuy-pro-qc-photo-video-checklist-2026",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "es",
+      "slug": "hoobuy-rehearsal-shipping-cost-guide-2026",
+      "url": "https://hoobuys.pro/es/hoobuy-rehearsal-shipping-cost-guide-2026",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "es",
+      "slug": "hoobuy-domestic-shipping-seller-to-warehouse-cost-guide-2026",
+      "url": "https://hoobuys.pro/es/hoobuy-domestic-shipping-seller-to-warehouse-cost-guide-2026",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "es",
+      "slug": "hoobuy-shipping-calculator-estimate-final-charge-guide-2026",
+      "url": "https://hoobuys.pro/es/hoobuy-shipping-calculator-estimate-final-charge-guide-2026",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "es",
+      "slug": "hoobuy-parcel-dimensions-billable-weight-ledger-2026",
+      "url": "https://hoobuys.pro/es/hoobuy-parcel-dimensions-billable-weight-ledger-2026",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "es",
+      "slug": "shipping-guide",
+      "url": "https://hoobuys.pro/es/shipping-guide",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "es",
+      "slug": "hoobuy-volumetric-weight-cost-worksheet-2026",
+      "url": "https://hoobuys.pro/es/hoobuy-volumetric-weight-cost-worksheet-2026",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "es",
+      "slug": "hoobuy-shipping-to-europe-vat-customs-routes-2026",
+      "url": "https://hoobuys.pro/es/hoobuy-shipping-to-europe-vat-customs-routes-2026",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "es",
+      "slug": "hoobuy-restricted-items-shipping-routes-2026",
+      "url": "https://hoobuys.pro/es/hoobuy-restricted-items-shipping-routes-2026",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "es",
+      "slug": "hoobuy-currency-conversion-exchange-rate-cost-guide-2026",
+      "url": "https://hoobuys.pro/es/hoobuy-currency-conversion-exchange-rate-cost-guide-2026",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "es",
+      "slug": "hoobuy-tracking-not-updating-carrier-handoffs-2026",
+      "url": "https://hoobuys.pro/es/hoobuy-tracking-not-updating-carrier-handoffs-2026",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "es",
+      "slug": "hoobuy-shoebox-removal-cost-damage-risk-2026",
+      "url": "https://hoobuys.pro/es/hoobuy-shoebox-removal-cost-damage-risk-2026",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "es",
+      "slug": "hoobuy-warehouse-storage-deadlines-fees-2026",
+      "url": "https://hoobuys.pro/es/hoobuy-warehouse-storage-deadlines-fees-2026",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "es",
+      "slug": "faq",
+      "url": "https://hoobuys.pro/es/faq",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "es",
+      "slug": "privacy",
+      "url": "https://hoobuys.pro/es/privacy",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "es",
+      "slug": "terms",
+      "url": "https://hoobuys.pro/es/terms",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "fr",
+      "slug": "",
+      "url": "https://hoobuys.pro/fr/",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "fr",
+      "slug": "products",
+      "url": "https://hoobuys.pro/fr/products",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "fr",
+      "slug": "guides",
+      "url": "https://hoobuys.pro/fr/guides",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "fr",
+      "slug": "hoobuy-shoes-spreadsheet",
+      "url": "https://hoobuys.pro/fr/hoobuy-shoes-spreadsheet",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "fr",
+      "slug": "hoobuy-hoodies-spreadsheet",
+      "url": "https://hoobuys.pro/fr/hoobuy-hoodies-spreadsheet",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "fr",
+      "slug": "hoobuy-size-guide",
+      "url": "https://hoobuys.pro/fr/hoobuy-size-guide",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "fr",
+      "slug": "hoobuy-budget-finds",
+      "url": "https://hoobuys.pro/fr/hoobuy-budget-finds",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "fr",
+      "slug": "hoobuy-pro-w2c-qc-shipping-workflow-2026",
+      "url": "https://hoobuys.pro/fr/hoobuy-pro-w2c-qc-shipping-workflow-2026",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "fr",
+      "slug": "hoobuy-consolidate-or-split-parcels-cost-model-2026",
+      "url": "https://hoobuys.pro/fr/hoobuy-consolidate-or-split-parcels-cost-model-2026",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "fr",
+      "slug": "hoobuy-parcel-insurance-claims-evidence-guide-2026",
+      "url": "https://hoobuys.pro/fr/hoobuy-parcel-insurance-claims-evidence-guide-2026",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "fr",
+      "slug": "hoobuy-returns-refunds-deductions-guide-2026",
+      "url": "https://hoobuys.pro/fr/hoobuy-returns-refunds-deductions-guide-2026",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "fr",
+      "slug": "hoobuy-service-payment-fees-verification-guide-2026",
+      "url": "https://hoobuys.pro/fr/hoobuy-service-payment-fees-verification-guide-2026",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "fr",
+      "slug": "hoobuy-spreadsheet-guide",
+      "url": "https://hoobuys.pro/fr/hoobuy-spreadsheet-guide",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "fr",
+      "slug": "hoobuy-pro-qc-photo-video-checklist-2026",
+      "url": "https://hoobuys.pro/fr/hoobuy-pro-qc-photo-video-checklist-2026",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "fr",
+      "slug": "hoobuy-rehearsal-shipping-cost-guide-2026",
+      "url": "https://hoobuys.pro/fr/hoobuy-rehearsal-shipping-cost-guide-2026",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "fr",
+      "slug": "hoobuy-domestic-shipping-seller-to-warehouse-cost-guide-2026",
+      "url": "https://hoobuys.pro/fr/hoobuy-domestic-shipping-seller-to-warehouse-cost-guide-2026",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "fr",
+      "slug": "hoobuy-shipping-calculator-estimate-final-charge-guide-2026",
+      "url": "https://hoobuys.pro/fr/hoobuy-shipping-calculator-estimate-final-charge-guide-2026",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "fr",
+      "slug": "hoobuy-parcel-dimensions-billable-weight-ledger-2026",
+      "url": "https://hoobuys.pro/fr/hoobuy-parcel-dimensions-billable-weight-ledger-2026",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "fr",
+      "slug": "shipping-guide",
+      "url": "https://hoobuys.pro/fr/shipping-guide",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "fr",
+      "slug": "hoobuy-volumetric-weight-cost-worksheet-2026",
+      "url": "https://hoobuys.pro/fr/hoobuy-volumetric-weight-cost-worksheet-2026",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "fr",
+      "slug": "hoobuy-shipping-to-europe-vat-customs-routes-2026",
+      "url": "https://hoobuys.pro/fr/hoobuy-shipping-to-europe-vat-customs-routes-2026",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "fr",
+      "slug": "hoobuy-restricted-items-shipping-routes-2026",
+      "url": "https://hoobuys.pro/fr/hoobuy-restricted-items-shipping-routes-2026",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "fr",
+      "slug": "hoobuy-currency-conversion-exchange-rate-cost-guide-2026",
+      "url": "https://hoobuys.pro/fr/hoobuy-currency-conversion-exchange-rate-cost-guide-2026",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "fr",
+      "slug": "hoobuy-tracking-not-updating-carrier-handoffs-2026",
+      "url": "https://hoobuys.pro/fr/hoobuy-tracking-not-updating-carrier-handoffs-2026",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "fr",
+      "slug": "hoobuy-shoebox-removal-cost-damage-risk-2026",
+      "url": "https://hoobuys.pro/fr/hoobuy-shoebox-removal-cost-damage-risk-2026",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "fr",
+      "slug": "hoobuy-warehouse-storage-deadlines-fees-2026",
+      "url": "https://hoobuys.pro/fr/hoobuy-warehouse-storage-deadlines-fees-2026",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "fr",
+      "slug": "faq",
+      "url": "https://hoobuys.pro/fr/faq",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "fr",
+      "slug": "privacy",
+      "url": "https://hoobuys.pro/fr/privacy",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "fr",
+      "slug": "terms",
+      "url": "https://hoobuys.pro/fr/terms",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "it",
+      "slug": "",
+      "url": "https://hoobuys.pro/it/",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "it",
+      "slug": "products",
+      "url": "https://hoobuys.pro/it/products",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "it",
+      "slug": "guides",
+      "url": "https://hoobuys.pro/it/guides",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "it",
+      "slug": "hoobuy-shoes-spreadsheet",
+      "url": "https://hoobuys.pro/it/hoobuy-shoes-spreadsheet",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "it",
+      "slug": "hoobuy-hoodies-spreadsheet",
+      "url": "https://hoobuys.pro/it/hoobuy-hoodies-spreadsheet",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "it",
+      "slug": "hoobuy-size-guide",
+      "url": "https://hoobuys.pro/it/hoobuy-size-guide",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "it",
+      "slug": "hoobuy-budget-finds",
+      "url": "https://hoobuys.pro/it/hoobuy-budget-finds",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "it",
+      "slug": "hoobuy-pro-w2c-qc-shipping-workflow-2026",
+      "url": "https://hoobuys.pro/it/hoobuy-pro-w2c-qc-shipping-workflow-2026",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "it",
+      "slug": "hoobuy-consolidate-or-split-parcels-cost-model-2026",
+      "url": "https://hoobuys.pro/it/hoobuy-consolidate-or-split-parcels-cost-model-2026",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "it",
+      "slug": "hoobuy-parcel-insurance-claims-evidence-guide-2026",
+      "url": "https://hoobuys.pro/it/hoobuy-parcel-insurance-claims-evidence-guide-2026",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "it",
+      "slug": "hoobuy-returns-refunds-deductions-guide-2026",
+      "url": "https://hoobuys.pro/it/hoobuy-returns-refunds-deductions-guide-2026",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "it",
+      "slug": "hoobuy-service-payment-fees-verification-guide-2026",
+      "url": "https://hoobuys.pro/it/hoobuy-service-payment-fees-verification-guide-2026",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "it",
+      "slug": "hoobuy-spreadsheet-guide",
+      "url": "https://hoobuys.pro/it/hoobuy-spreadsheet-guide",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "it",
+      "slug": "hoobuy-pro-qc-photo-video-checklist-2026",
+      "url": "https://hoobuys.pro/it/hoobuy-pro-qc-photo-video-checklist-2026",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "it",
+      "slug": "hoobuy-rehearsal-shipping-cost-guide-2026",
+      "url": "https://hoobuys.pro/it/hoobuy-rehearsal-shipping-cost-guide-2026",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "it",
+      "slug": "hoobuy-domestic-shipping-seller-to-warehouse-cost-guide-2026",
+      "url": "https://hoobuys.pro/it/hoobuy-domestic-shipping-seller-to-warehouse-cost-guide-2026",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "it",
+      "slug": "hoobuy-shipping-calculator-estimate-final-charge-guide-2026",
+      "url": "https://hoobuys.pro/it/hoobuy-shipping-calculator-estimate-final-charge-guide-2026",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "it",
+      "slug": "hoobuy-parcel-dimensions-billable-weight-ledger-2026",
+      "url": "https://hoobuys.pro/it/hoobuy-parcel-dimensions-billable-weight-ledger-2026",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "it",
+      "slug": "shipping-guide",
+      "url": "https://hoobuys.pro/it/shipping-guide",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "it",
+      "slug": "hoobuy-volumetric-weight-cost-worksheet-2026",
+      "url": "https://hoobuys.pro/it/hoobuy-volumetric-weight-cost-worksheet-2026",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "it",
+      "slug": "hoobuy-shipping-to-europe-vat-customs-routes-2026",
+      "url": "https://hoobuys.pro/it/hoobuy-shipping-to-europe-vat-customs-routes-2026",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "it",
+      "slug": "hoobuy-restricted-items-shipping-routes-2026",
+      "url": "https://hoobuys.pro/it/hoobuy-restricted-items-shipping-routes-2026",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "it",
+      "slug": "hoobuy-currency-conversion-exchange-rate-cost-guide-2026",
+      "url": "https://hoobuys.pro/it/hoobuy-currency-conversion-exchange-rate-cost-guide-2026",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "it",
+      "slug": "hoobuy-tracking-not-updating-carrier-handoffs-2026",
+      "url": "https://hoobuys.pro/it/hoobuy-tracking-not-updating-carrier-handoffs-2026",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "it",
+      "slug": "hoobuy-shoebox-removal-cost-damage-risk-2026",
+      "url": "https://hoobuys.pro/it/hoobuy-shoebox-removal-cost-damage-risk-2026",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "it",
+      "slug": "hoobuy-warehouse-storage-deadlines-fees-2026",
+      "url": "https://hoobuys.pro/it/hoobuy-warehouse-storage-deadlines-fees-2026",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "it",
+      "slug": "faq",
+      "url": "https://hoobuys.pro/it/faq",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "it",
+      "slug": "privacy",
+      "url": "https://hoobuys.pro/it/privacy",
+      "modified": "2026-10-12"
+    },
+    {
+      "lang": "it",
+      "slug": "terms",
+      "url": "https://hoobuys.pro/it/terms",
+      "modified": "2026-10-12"
+    }
+  ]
+}
