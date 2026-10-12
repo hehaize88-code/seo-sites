@@ -17,7 +17,10 @@
     "Belt": "腰带",
     "Belt product listing": "腰带",
     "Wallet": "钱包",
-    "Wallet product listing": "钱包"
+    "Wallet product listing": "钱包",
+    "Search products": "搜索商品",
+    "Search shoes, hoodies, bags...": "搜索鞋子、卫衣、包袋……",
+    "Search": "搜索"
   },
   "de": {
     "Jeans": "Jeans",
@@ -37,7 +40,10 @@
     "Belt": "Gürtel",
     "Belt product listing": "Gürtel",
     "Wallet": "Geldbörse",
-    "Wallet product listing": "Geldbörse"
+    "Wallet product listing": "Geldbörse",
+    "Search products": "Produkte suchen",
+    "Search shoes, hoodies, bags...": "Schuhe, Hoodies, Taschen suchen …",
+    "Search": "Suchen"
   },
   "fr": {
     "Jeans": "Jean",
@@ -57,7 +63,10 @@
     "Belt": "Ceinture",
     "Belt product listing": "Ceinture",
     "Wallet": "Portefeuille",
-    "Wallet product listing": "Portefeuille"
+    "Wallet product listing": "Portefeuille",
+    "Search products": "Rechercher des produits",
+    "Search shoes, hoodies, bags...": "Chaussures, sweats, sacs…",
+    "Search": "Rechercher"
   },
   "es": {
     "Jeans": "Vaqueros",
@@ -77,7 +86,10 @@
     "Belt": "Cinturón",
     "Belt product listing": "Cinturón",
     "Wallet": "Cartera",
-    "Wallet product listing": "Cartera"
+    "Wallet product listing": "Cartera",
+    "Search products": "Buscar productos",
+    "Search shoes, hoodies, bags...": "Buscar calzado, sudaderas, bolsos…",
+    "Search": "Buscar"
   },
   "it": {
     "Jeans": "Jeans",
@@ -97,7 +109,10 @@
     "Belt": "Cintura",
     "Belt product listing": "Cintura",
     "Wallet": "Portafoglio",
-    "Wallet product listing": "Portafoglio"
+    "Wallet product listing": "Portafoglio",
+    "Search products": "Cerca prodotti",
+    "Search shoes, hoodies, bags...": "Cerca scarpe, felpe, borse…",
+    "Search": "Cerca"
   },
   "pl": {
     "Jeans": "Dżinsy",
@@ -117,7 +132,10 @@
     "Belt": "Pasek",
     "Belt product listing": "Pasek",
     "Wallet": "Portfel",
-    "Wallet product listing": "Portfel"
+    "Wallet product listing": "Portfel",
+    "Search products": "Szukaj produktów",
+    "Search shoes, hoodies, bags...": "Szukaj butów, bluz, toreb…",
+    "Search": "Szukaj"
   },
   "nl": {
     "Jeans": "Jeans",
@@ -137,7 +155,10 @@
     "Belt": "Riem",
     "Belt product listing": "Riem",
     "Wallet": "Portemonnee",
-    "Wallet product listing": "Portemonnee"
+    "Wallet product listing": "Portemonnee",
+    "Search products": "Producten zoeken",
+    "Search shoes, hoodies, bags...": "Zoek schoenen, hoodies, tassen…",
+    "Search": "Zoeken"
   },
   "pt": {
     "Jeans": "Calças de ganga",
@@ -157,6 +178,9 @@
     "Belt": "Cinto",
     "Belt product listing": "Cinto",
     "Wallet": "Carteira",
-    "Wallet product listing": "Carteira"
+    "Wallet product listing": "Carteira",
+    "Search products": "Pesquisar produtos",
+    "Search shoes, hoodies, bags...": "Pesquisar calçado, sweatshirts, malas…",
+    "Search": "Pesquisar"
   }
 }

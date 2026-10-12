@@ -24,6 +24,11 @@ Official sources checked 12 October 2026:
 
 No live freight price, universal divisor, guaranteed QC count, fee schedule, return period, refund policy or delivery promise was inferred. New calculations and budgets are explicitly hypothetical editorial examples. Official sources are fact-check inputs, not commercial outbound CTAs.
 
+## Product search and compact layout
+
+- Every language page has a native GET search form targeting `https://cnfanssp.com/search.html`, with `keywords` and `channelid=2`; it works without JavaScript. Labels and placeholders are localized.
+- Product images have an explicit CSS `height:auto` with a square aspect ratio, overriding the HTML image-height hint. Hero, section and page spacing are reduced for desktop and mobile.
+
 ## Rebuild and verify
 
 Runtime dependencies: Python with beautifulsoup4 and ftfy. For new translation text, also install ctranslate2, sentencepiece, sacremoses and subword-nmt. Argos models are downloaded separately from the official argospm-index.

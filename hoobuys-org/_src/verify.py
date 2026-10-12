@@ -7,6 +7,15 @@ B=Path(__file__).resolve().parents[1];M=json.loads((B/'_src/manifest.json').read
 for row in rows:
  lang=row['lang'];slug=row['slug'];p=B/('' if lang=='en' else lang)/(slug+'.html');s=BeautifulSoup(p.read_text(),'html.parser');docs[row['url']]=s
  if s.html.get('lang')!=lang:errors.append((p.name,'lang'))
+ forms=s.select('form.product-search')
+ if len(forms)!=1:errors.append((str(p),'search form count'))
+ else:
+  f=forms[0];q=f.select_one('input[name="keywords"]');channel=f.select_one('input[name="channelid"]')
+  if f.get('action')!='https://cnfanssp.com/search.html' or f.get('method')!='get':errors.append((str(p),'search destination'))
+  if not q or q.get('type')!='search' or not q.has_attr('required') or not q.get('placeholder'):errors.append((str(p),'search input'))
+  if not channel or channel.get('value')!='2':errors.append((str(p),'search channel'))
+  if not f.select_one('button[type="submit"]') or not f.select_one('label[for="product-keywords"]'):errors.append((str(p),'search controls'))
+  if lang!='en' and f.label.get_text()=='Search products':errors.append((str(p),'untranslated search'))
  if len(s.select('h1'))!=1:errors.append((str(p),'h1 count',len(s.select('h1'))))
  if s.select_one('link[rel=canonical]')['href']!=row['url']:errors.append((p.name,'canonical'))
  alts=s.select('link[rel=alternate][hreflang]')
@@ -49,4 +58,4 @@ assert len(rows)==243,len(rows)
 assert M['articles_per_language']==20
 if errors:
  print(json.dumps(errors,ensure_ascii=False,indent=2));raise SystemExit(1)
-print('PASS: 243 indexable pages; 9 languages; 20 complete guides each; 10 reciprocal alternates; original article bodies retained; links, assets, schema and metadata valid.')
+print('PASS: 243 indexable pages; 9 languages; 20 complete guides each; 10 reciprocal alternates; original article bodies retained; localized main-site search forms, links, assets, schema and metadata valid.')
