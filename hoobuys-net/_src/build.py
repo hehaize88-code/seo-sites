@@ -6,7 +6,7 @@ from html import escape
 import json,re,hashlib,argparse
 
 S=Path(__file__).parent; B=S.parent
-ORIGIN='https://hoobuys.net'; DATE='2026-10-12'; RELEASE='multilingual-guides-20261012-v1'
+ORIGIN='https://hoobuys.net'; DATE='2026-10-12'; RELEASE='multilingual-guides-20261012-logo-v2'
 LANGS={'en':('','English'),'zh-CN':('zh-cn','简体中文'),'de':('de','Deutsch'),'fr':('fr','Français'),'es':('es','Español'),'it':('it','Italiano'),'pl':('pl','Polski'),'nl':('nl','Nederlands'),'pt':('pt','Português')}
 CAT=json.loads((S/'catalog.json').read_text()); PAGES=json.loads((S/'pages.json').read_text()); UPDATES=json.loads((S/'updates.json').read_text()); DATES=json.loads((S/'dates.json').read_text())
 INLINE=json.loads((S/'inline_translations.json').read_text())

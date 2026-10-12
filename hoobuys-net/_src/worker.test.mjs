@@ -30,7 +30,7 @@ for (const path of ['/', '/de/', '/fr/shipping-guide', '/zh-cn/hoobuy-process-pe
   const r=await worker.fetch(new Request('https://hoobuys.net'+path),env);
   assert.equal(r.status,200);assert.equal(fetched,'https://hoobuys.net'+path);
   assert.equal(r.headers.get('link'),`<https://hoobuys.net${path}>; rel="canonical"`);
-  assert.equal(r.headers.get('x-hoobuys-release'),'multilingual-guides-20261012-v1');
+  assert.equal(r.headers.get('x-hoobuys-release'),'multilingual-guides-20261012-logo-v2');
 }
 for (const path of ['/_src/en/index.html','/%5fsrc/catalog.json','/.git/config']) {
   fetched=null;const r=await worker.fetch(new Request('https://hoobuys.net'+path),env);

@@ -70,3 +70,7 @@ main{min-height:45vh}.latest-grid{grid-template-columns:repeat(2,minmax(0,1fr))}
 @media(max-width:900px){.header-row{flex-wrap:wrap;gap:12px}.site-header nav{order:3;flex-basis:100%;justify-content:center;border-top:1px solid var(--line);padding-top:10px}.language-menu{margin-left:auto}}
 @media(max-width:760px){.header-row{padding-top:12px;padding-bottom:10px}.site-brand{font-size:25px}.site-header nav{gap:6px 17px;font-size:13px;justify-content:flex-start}.site-brand small{font-size:10px}.language-menu{font-size:13px}.language-menu summary{min-height:40px;padding:8px 10px}.site-footer{font-size:13px}.latest-grid{gap:9px}.latest-grid .guide-card{padding:13px;min-height:0}.latest-grid h3{font-size:17px;line-height:1.3}.latest-grid p{font-size:12px;line-height:1.55}.guide-card h3{font-size:19px}.table-scroll th,.table-scroll td{font-size:14px;padding:10px}.article h1{font-size:29px;line-height:1.17}.article h2{font-size:23px;line-height:1.3}.article p,.article li{font-size:16px;line-height:1.8}.product-card .pic{height:auto}.hero p{font-size:16px}.section-head{flex-wrap:wrap}.section-head p{font-size:14px}.search{flex-wrap:wrap}.search input{flex:1 1 140px}.search button{flex:0 1 auto}.sources p,.sources li,.article p.meta{font-size:13px}}
 @media(max-width:360px){.latest-grid{grid-template-columns:1fr}}
+
+/* Uploaded HooBuy wordmark; preserve the original image and aspect ratio. */
+.site-brand .site-logo{display:block;width:150px;height:auto;max-width:100%;object-fit:contain}
+@media(max-width:760px){.site-brand .site-logo{width:135px}}
