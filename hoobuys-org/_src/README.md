@@ -31,6 +31,8 @@ The header and footer use the user-supplied HooBuy PNG unchanged in every langua
 - Every language page has a native GET search form targeting `https://www.cnfanssp.com/search.html`, with `keywords` and `channelid=2`; it works without JavaScript. Search, product and category navigation use the main site’s working `www` host because browser testing found that its bare-domain frontend redirects to the home page and drops the path/query. Labels and placeholders are localized.
 - Product images have an explicit CSS `height:auto` with a square aspect ratio, overriding the HTML image-height hint. Hero, section and page spacing are reduced for desktop and mobile.
 
+- Mobile layout uses two-column product and guide cards, four home-page product previews and four guide previews. Full catalogs and article bodies remain available. Article pages remove the extra inset panel, use 1.6 body line height and tighter paragraph/heading spacing; three-column tables fit the viewport and calculator inputs use two columns.
+
 ## Rebuild and verify
 
 Runtime dependencies: Python with beautifulsoup4 and ftfy. For new translation text, also install ctranslate2, sentencepiece, sacremoses and subword-nmt. Argos models are downloaded separately from the official argospm-index.
