@@ -1,0 +1,133 @@
+{
+  "zh-CN": {
+    "559aead08264:f3bc47762017": "",
+    "559aead08264:d28548a958e7": "",
+    "559aead08264:79bcd0a0978c": "",
+    "559aead08264:68899cc39bf4": "",
+    "559aead08264:8f7fd74ddffc": "",
+    "559aead08264:4fed11a67deb": ""
+  },
+  "de": {
+    "559aead08264:f3bc47762017": "Eine",
+    "559aead08264:d28548a958e7": "",
+    "559aead08264:79bcd0a0978c": "Der Status",
+    "559aead08264:68899cc39bf4": "",
+    "559aead08264:8f7fd74ddffc": "",
+    "559aead08264:4fed11a67deb": "",
+    "b344d80e24a3:4f8b3b68b4f8": "Das"
+  },
+  "fr": {
+    "559aead08264:f3bc47762017": "",
+    "559aead08264:d28548a958e7": "",
+    "559aead08264:79bcd0a0978c": "",
+    "559aead08264:68899cc39bf4": "",
+    "559aead08264:8f7fd74ddffc": "",
+    "559aead08264:4fed11a67deb": "",
+    "3ffa30fbc409:461c66fbe54e": "Utilisez le",
+    "3ffa30fbc409:8587f290b767": "Utilisez le",
+    "3ffa30fbc409:c170e41dcd90": "Utilisez le",
+    "3ffa30fbc409:fff180eeed39": "Utilisez le"
+  },
+  "es": {
+    "559aead08264:f3bc47762017": "",
+    "559aead08264:d28548a958e7": "",
+    "559aead08264:79bcd0a0978c": "",
+    "559aead08264:68899cc39bf4": "",
+    "559aead08264:8f7fd74ddffc": "",
+    "559aead08264:4fed11a67deb": "",
+    "3ffa30fbc409:461c66fbe54e": "Utiliza la",
+    "3ffa30fbc409:8587f290b767": "Utiliza la",
+    "3ffa30fbc409:c170e41dcd90": "Utiliza la",
+    "3ffa30fbc409:fff180eeed39": "Utiliza la"
+  },
+  "it": {
+    "559aead08264:f3bc47762017": "",
+    "559aead08264:d28548a958e7": "",
+    "559aead08264:79bcd0a0978c": "",
+    "559aead08264:68899cc39bf4": "",
+    "559aead08264:8f7fd74ddffc": "",
+    "559aead08264:4fed11a67deb": "",
+    "b344d80e24a3:4f8b3b68b4f8": "Il",
+    "b344d80e24a3:79272ad8c67d": "Il",
+    "3ffa30fbc409:461c66fbe54e": "Usa la",
+    "3ffa30fbc409:8587f290b767": "Usa la",
+    "3ffa30fbc409:c170e41dcd90": "Usa la",
+    "3ffa30fbc409:fff180eeed39": "Usa la",
+    "1aaf981668e4:268daa9ce8dd": "Risolvi prima QC e questioni postvendita. Un articolo che potrebbe essere restituito non dovrebbe essere imballato solo per migliorare una stima. Usa il"
+  },
+  "pl": {
+    "559aead08264:f3bc47762017": "",
+    "559aead08264:d28548a958e7": "",
+    "559aead08264:79bcd0a0978c": "",
+    "559aead08264:68899cc39bf4": "",
+    "559aead08264:8f7fd74ddffc": "",
+    "559aead08264:4fed11a67deb": "",
+    "b344d80e24a3:7d76f4184f26": {
+      "inline": "od sprzedawcy do magazynu"
+    },
+    "404bd9338812:c170e41dcd90": {
+      "inline": "statusów zamówienia"
+    },
+    "02cb1677e3d4:50c480bbc8bf": {
+      "inline": "poradnika zaległej kwoty"
+    },
+    "b344d80e24a3:7d49013b3cba": {
+      "inline": "zwrotów i wymian"
+    },
+    "1aaf981668e4:268daa9ce8dd": {
+      "inline": "procedury zwrotu i wymiany z magazynu"
+    },
+    "05238044bf95:f06d6ffe450d": {
+      "inline": "poradniku łączenia i podziału paczek"
+    },
+    "48263df7a3b1:c170e41dcd90": {
+      "inline": "statusów zamówienia"
+    },
+    "fa4a0c669eef:c170e41dcd90": {
+      "inline": "poradnik statusów zamówienia"
+    },
+    "b344d80e24a3:4f8b3b68b4f8": {
+      "prefix": "",
+      "inline": "Arkusz śledzenia do pobrania"
+    },
+    "b344d80e24a3:c3d102b7889c": {
+      "inline": "braku aktualizacji"
+    },
+    "b344d80e24a3:79272ad8c67d": {
+      "prefix": "",
+      "inline": "Oficjalny kalkulator wysyłki Hoobuy"
+    },
+    "692878b82b5a:eb159c0e123e": {
+      "inline": "poradnik masy rzeczywistej i objętościowej"
+    },
+    "a6c9045f7234:c170e41dcd90": {
+      "inline": "statusów zamówienia"
+    },
+    "9fbd3c2352dd:066801ab5562": {
+      "inline": "poradnika numerów śledzenia"
+    }
+  },
+  "nl": {
+    "559aead08264:f3bc47762017": "Een",
+    "559aead08264:d28548a958e7": "",
+    "559aead08264:79bcd0a0978c": "",
+    "559aead08264:68899cc39bf4": "",
+    "559aead08264:8f7fd74ddffc": "",
+    "559aead08264:4fed11a67deb": "",
+    "b344d80e24a3:4f8b3b68b4f8": "Het",
+    "3ffa30fbc409:461c66fbe54e": "Gebruik de",
+    "3ffa30fbc409:8587f290b767": "Gebruik de",
+    "3ffa30fbc409:c170e41dcd90": "Gebruik de",
+    "3ffa30fbc409:fff180eeed39": "Gebruik de"
+  },
+  "pt": {
+    "559aead08264:f3bc47762017": "O",
+    "559aead08264:d28548a958e7": "",
+    "559aead08264:79bcd0a0978c": "",
+    "559aead08264:68899cc39bf4": "",
+    "559aead08264:8f7fd74ddffc": "",
+    "559aead08264:4fed11a67deb": "",
+    "b344d80e24a3:4f8b3b68b4f8": "A",
+    "b344d80e24a3:79272ad8c67d": "A"
+  }
+}
