@@ -18,7 +18,7 @@
     if (!link || typeof gtag !== 'function') return;
     const url = new URL(link.href, location.href);
     const data = { page_language: document.documentElement.lang, page_path: location.pathname };
-    if (url.hostname === 'cnfanshp.com' || url.hostname === 'www.cnfanshp.com') {
+    if (url.hostname === 'cnfanssp.com' || url.hostname === 'www.cnfanssp.com') {
       gtag('event', 'product_index_click', { ...data, link_url: url.origin + url.pathname });
     } else if (link.closest('.language-picker')) {
       gtag('event', 'language_switch', { ...data, target_language: link.hreflang });

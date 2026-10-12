@@ -25,12 +25,14 @@ for row in rows:
  s=docs[row['url']]
  for a in s.select('a[href],link[rel=alternate]'):
   href=a.get('href');v=urlsplit(href)
-  if v.netloc and v.netloc not in ['hoobuys.org','cnfanshp.com']:errors.append((row['url'],'external',href));continue
-  if v.netloc=='cnfanshp.com':continue
+  if v.netloc and v.netloc not in ['hoobuys.org','cnfanssp.com']:errors.append((row['url'],'external',href));continue
+  if v.netloc=='cnfanssp.com':continue
   if v.path in ['/sitemap.xml','/sitemap.txt']:continue
   target='https://hoobuys.org'+v.path if v.path else row['url']
   if target not in docs:errors.append((row['url'],'broken link',href));continue
   if v.fragment and not docs[target].find(id=v.fragment):errors.append((row['url'],'anchor',href))
+ for img in s.select('.product-card img'):
+  if urlsplit(img['src']).netloc!='cnfanssp.com':errors.append((row['url'],'product image host',img['src']))
  for n in s.select('script[src^="/"],link[rel=stylesheet],img[src^="/"]'):
   url=n.get('src') or n.get('href')
   if not (B/url.lstrip('/')).exists():errors.append((row['url'],'asset',url))

@@ -43,6 +43,7 @@ def render_localized(doc,lang,slug,cache,langs,names,route):
  soup=BeautifulSoup(doc,'html.parser');origin='https://hoobuys.org'
  overrides_file=S/'overrides.json';overrides=json.loads(overrides_file.read_text()).get(lang,{}) if overrides_file.exists() else {}
  if lang=='zh-CN':overrides.update(json.loads((S/'zh-review.json').read_text()))
+ overrides.update(json.loads((S/'product-translations.json').read_text()).get(lang,{}))
  known=set(json.loads((S/'english-pages.json').read_text()))
  def convert(s):
   if lang=='en' or not needed(s):return s

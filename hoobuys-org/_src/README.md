@@ -6,7 +6,7 @@ Scope is only `hoobuys-org/`. The existing GitHub main → Pages integration rem
 - 27 indexable URLs per locale; 20 full guides per locale, including three new 1,240–1,270-word English originals.
 - Original article body text is retained. All 17 existing guides gain practical introductions and related reading; shipping and the two shorter workflows are expanded.
 - Distinct home/product/guide titles, reciprocal hreflang, self-canonicals, localized Article metadata and navigation, XML and text sitemaps.
-- Product routes follow the user's hoobuys.org main-site instruction: cnfanshp.com. Tested existing product IDs 5974 and 6037 and catalog URL return HTTP 200.
+- The user-confirmed main site for hoobuys.org is https://cnfanssp.com. All language versions use this domain for product and category links, and GA4 outbound product-click tracking matches it. Product records and image URLs were re-read from this site; identical numeric IDs on another domain are not treated as the same products. All 10 destinations, their images and all 7 category routes returned HTTP 200 on 12 October 2026.
 - GA4 property tag G-Q60K7ELE45 retained; product_index_click and guide_click retained, language_switch and shipping_calculator_use added. Click payloads omit query strings and entered parcel values.
 - Offline Argos translation drafts, with reviewed titles, navigation, introductions and terminology overrides. Models are not deployed. Translation caches and full generated HTML are committed.
 
