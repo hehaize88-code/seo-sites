@@ -1,0 +1,72 @@
+/* Static multilingual pages: compact at every viewport, no content fetched on expand. */
+.seo-page .hero{padding:26px 0 16px}
+.seo-page main>section{margin:18px 0}
+.seo-page .article-head{padding:12px 0}
+.seo-page .article h1{font-size:clamp(28px,4vw,44px);line-height:1.13}
+.seo-page .article :is(p,li){line-height:1.65}
+.seo-page .article .source,.seo-page .tool-note{font-size:13px;line-height:1.5;color:#a8c1cf}
+.seo-page .source{margin-top:22px;border-top:1px solid #2b5269;padding-top:14px}
+.seo-page .card{min-width:0;margin:0;box-shadow:none}
+.seo-page :is(.grid2,.grid3,.grid5){margin:12px 0}
+.seo-page :is(.card,.product) h3{font-size:18px;line-height:1.35;margin:0 0 8px}
+.seo-page .card p{font-size:14px;line-height:1.5;margin:0}
+.seo-page .text-link,.seo-page .product-route{display:inline-block;min-height:44px;padding:10px 0;color:#9debf3;text-decoration:underline;text-underline-offset:3px}
+.seo-page .language-menu{position:relative;flex:none;margin-left:auto}
+.seo-page .language-menu summary{cursor:pointer;list-style:none;border:1px solid #2b5269;border-radius:9px;min-height:40px;padding:8px 10px;font-size:13px;line-height:22px}
+.seo-page .language-menu summary::-webkit-details-marker{display:none}
+.seo-page .language-menu>div{position:absolute;right:0;top:calc(100% + 6px);width:182px;max-height:70dvh;overflow:auto;display:grid;background:#08283b;border:1px solid #2b5269;border-radius:10px;padding:6px;box-shadow:0 8px 24px #0006;z-index:45}
+.seo-page .language-menu a{padding:10px 12px;min-height:44px;line-height:24px;border-radius:6px}
+.seo-page [aria-current=page]{color:#ffaf65!important;border-color:#f9953b!important}
+.seo-page .language-menu a:hover{background:#15425b}
+.seo-page .product-search{max-width:760px;margin:16px 0 4px}
+.seo-page .product-search>label{display:block;font-size:14px;margin-bottom:5px;font-weight:700}
+.seo-page .product-search>div{display:flex;gap:8px}
+.seo-page input{width:100%;min-width:0;border:1px solid #42677d;border-radius:9px;background:#f4fbff;color:#071523;font:16px/1.4 Arial,system-ui,sans-serif;padding:11px 12px;min-height:46px}
+.seo-page input::placeholder{color:#586a76}
+.seo-page input:focus-visible{outline:3px solid #ffaf65;outline-offset:2px}
+.seo-page button:not(.menu):not(.reading-toggle){border:0;border-radius:9px;min-height:46px;padding:10px 16px;font:700 14px/1.4 Arial,system-ui,sans-serif;background:#22d3ee;color:#06202a;cursor:pointer}
+.seo-page .product-search button{flex:none;max-width:42%}
+.seo-page .category-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:8px}
+.seo-page .category-link{padding:12px;border:1px solid #2b5269;border-radius:10px;background:#061827;font-weight:700;font-size:14px;min-height:46px;display:flex;align-items:center}
+.seo-page .product .pic{display:block;height:124px;overflow:hidden;margin:0 0 10px;border-radius:8px}
+.seo-page .product img{display:block;width:100%;height:100%;object-fit:cover}
+.seo-page .archive{border:1px solid #2b5269;border-radius:12px;padding:14px}
+.seo-page .archive summary{font-size:18px;font-weight:700;cursor:pointer;min-height:32px}
+.seo-page .archive ul{padding-left:20px;margin-bottom:0;columns:2;column-gap:32px}
+.seo-page .archive li{break-inside:avoid;margin:8px 0;line-height:1.5}
+.seo-page .archive a{display:inline-block;padding:5px 0;color:#b9f1f7;text-decoration:underline;text-underline-offset:3px}
+.seo-page .archive-lang{font-size:11px;color:#acbecc;margin-left:6px}
+.seo-page .interactive-tool,.seo-page .download-panel{padding:16px;border:1px solid #2b5269;border-radius:12px;background:#08283b;margin:14px 0}
+.seo-page .interactive-tool h2{font-size:22px}
+.seo-page .calculator-fields{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:10px;margin-bottom:12px}
+.seo-page .calculator-fields label{font-size:14px;line-height:1.4;display:grid;align-content:start;gap:5px}
+.seo-page output{display:block;margin:12px 0;font-weight:700;white-space:pre-line;color:#c0f6fc}
+.seo-page output:empty{display:none}
+.seo-page .download-panel p{font-size:14px;margin:8px 0 0}
+.seo-page .qc-diagram{margin:14px 0;padding:10px;border:1px solid #2b5269;border-radius:10px;background:#061827}
+.seo-page .qc-diagram img{display:block;width:100%;height:auto;max-height:220px}
+.seo-page .qc-diagram figcaption{font-size:13px;color:#b9cada;line-height:1.45;padding-top:8px}
+.seo-page .footer-links{display:flex;justify-content:center;flex-wrap:wrap;gap:16px;margin-top:8px}
+.seo-page .footer-links a{padding:8px 0;text-decoration:underline}
+@media(min-width:1101px) and (max-width:1350px){.seo-page .site-header .bar{flex-wrap:wrap;gap:6px}.seo-page .site-header .nav{width:100%;justify-content:center}.seo-page .site-header .site-logo{width:138px}}
+@media(max-width:760px){
+ .seo-page .hero{padding:14px 0 8px}
+ .seo-page main>section{margin:12px 0}
+ .seo-page .article h1{font-size:27px}
+ .seo-page .article-head{padding:8px 0}
+ .seo-page .site-header .bar{gap:8px}
+ .seo-page .language-menu summary{padding:7px 8px;font-size:12px;min-height:40px;max-width:116px}
+ .seo-page .category-grid{grid-template-columns:repeat(2,minmax(0,1fr))}
+ .seo-page :is(.card,.product) h3{font-size:15px;line-height:1.35}
+ .seo-page .card p{font-size:13px;line-height:1.45}
+ .seo-page .product .pic{height:100px}
+ .seo-page .product-route{font-size:13px;line-height:1.4;padding:8px 0}
+ .seo-page .product-search{margin:12px 0 0}
+ .seo-page .product-search button{padding:9px 10px;font-size:13px}
+ .seo-page .archive ul{columns:1}
+ .seo-page .calculator-fields{grid-template-columns:repeat(2,minmax(0,1fr))}
+ .seo-page .interactive-tool,.seo-page .download-panel{padding:12px}
+ .seo-page .interactive-tool h2{margin:0 0 12px;font-size:20px}
+ .seo-page .foot{padding-bottom:20px}
+}
+@media(max-width:359px){.seo-page .site-logo{width:112px}.seo-page .site-header .bar{padding:6px 10px}.seo-page .language-menu summary{max-width:105px}}
