@@ -1,0 +1,1254 @@
+{
+  "ui": {
+    "articles": "Artikli",
+    "faq": "Mistoqsijiet frekwenti",
+    "articlesTitle": "Gwidi prattiċi ta' Pikobuy",
+    "articlesIntro": "Gwidi prattiċi biex tagħżel prodotti, tiċċekkja d-dettalji, tippjana l-ispejjeż u torganizza t-tbaħħir.",
+    "faqTitle": "Tweġibiet għall-mistoqsijiet tiegħek dwar Pikobuy",
+    "faqIntro": "Tweġibiet għal 24 mistoqsija bbażati fuq il-paġni uffiċjali ta' Pikobuy.",
+    "toc": "F'din il-paġna",
+    "sources": "Sorsi",
+    "checked": "Iċċekkjat",
+    "byline": "PikobuySheet",
+    "readArticle": "Aqra l-artiklu",
+    "related": "Artikli relatati",
+    "allArticles": "L-artikli kollha",
+    "latestArticles": "L-aħħar artikli",
+    "articleCount": "10 gwidi prattiċi",
+    "sourceLink": "Sors uffiċjali"
+  },
+  "faq": [
+    {
+      "id": "what-is-pikobuy",
+      "question": "X'jagħmel Pikobuy?",
+      "answer": "Pikobuy jgħin lill-utenti jsibu prodotti miċ-Ċina, jixtruhom mingħand il-bejjiegħa, jirċevuhom fil-maħżen tiegħu u jorganizzaw kunsinna internazzjonali. Il-paġna ewlenija tiddeskrivi dawn bħala stadji separati tas-servizz.",
+      "sourceIds": [
+        "official-home"
+      ]
+    },
+    {
+      "id": "supported-marketplaces",
+      "question": "Liema pjattaformi ssemmi l-gwida?",
+      "answer": "Il-gwida uffiċjali ssemmi Taobao, Tmall, 1688, Weidian u Yupoo. Iċċekkja l-prodott eżatt, id-daqs u l-kulur qabel tibgħat it-talba għax-xiri.",
+      "sourceIds": [
+        "official-guide"
+      ]
+    },
+    {
+      "id": "finding-products",
+      "question": "Kif nista' nitlob lil Pikobuy isib prodott?",
+      "answer": "Il-paġna ewlenija ta' Pikobuy tiddeskrivi tfittxija diretta u s-sottomissjoni ta' links tal-prodotti, stampi jew talbiet biex jinstabu prodotti. Dawn huma servizzi ta' Pikobuy innifsu; ma jikkonfermawx tfittxija bl-istampi f'dan il-katalgu indipendenti.",
+      "sourceIds": [
+        "official-home"
+      ]
+    },
+    {
+      "id": "two-payments",
+      "question": "Għaliex inħallas ix-xiri u t-tbaħħir separatament?",
+      "answer": "Il-gwida tqiegħed il-ħlas tax-xiri qabel l-ispezzjoni fil-maħżen. Aktar tard tagħżel rotta, tissottometti l-pakkett biex jintbagħat u tħallas għat-tbaħħir internazzjonali.",
+      "sourceIds": [
+        "official-guide"
+      ]
+    },
+    {
+      "id": "payment-options",
+      "question": "Liema metodi ta' ħlas nista' nuża?",
+      "answer": "Pikobuy jirreklama diversi muniti u juri logos ta' kards u kartieri diġitali, fosthom Visa, Mastercard, Klarna, Google Pay u Apple Pay. Qabel tħallas, iċċekkja l-metodi, il-muniti u t-total li jkunu effettivament disponibbli fil-paġna tal-ħlas.",
+      "sourceIds": [
+        "official-about"
+      ]
+    },
+    {
+      "id": "failed-payment",
+      "question": "L-ordni tiegħi tiġi pproċessata jekk il-ħlas ifalli?",
+      "answer": "It-termini ta' Pikobuy jgħidu li ordni ma tiġix ipproċessata jekk il-ħlas ifalli. Iċċekkja r-riżultat tal-ħlas fil-kont tiegħek u kkuntattja l-appoġġ uffiċjali jekk l-istatus tat-tranżazzjoni jibqa' mhux ċar.",
+      "sourceIds": [
+        "official-terms"
+      ]
+    },
+    {
+      "id": "warehouse-inspection",
+      "question": "X'jiġri meta oġġett jasal fil-maħżen?",
+      "answer": "Il-gwida tiddeskrivi r-reġistrazzjoni tal-wasla, konferma b'ritratti u verifika tad-difetti. Eżamina r-rekords tal-ordni tiegħek qabel tiddeċiedi liema oġġetti tibgħat.",
+      "sourceIds": [
+        "official-guide"
+      ]
+    },
+    {
+      "id": "qc-limits",
+      "question": "Ir-ritratti tal-ispezzjoni jiggarantixxu l-awtentiċità jew il-funzjonament?",
+      "answer": "Le. Il-ftehim tal-utent jispjega li xi prodotti ma jistgħux jiġu ċċekkjati professjonalment għall-kwalità jew l-awtentiċità. L-ispezzjoni tista' tkun limitata għall-kundizzjoni esterna u l-aċċessorji. Ir-ritratti huma utli, iżda mhumiex garanzija ġenerali tal-prodott.",
+      "sourceIds": [
+        "official-user-agreement"
+      ]
+    },
+    {
+      "id": "detailed-photos",
+      "question": "Nista' nitlob ritratti tal-ispezzjoni aktar dettaljati?",
+      "answer": "It-termini tat-twassil mill-ġdid jgħidu li l-klijenti jistgħu jaraw ir-ritratti tal-ispezzjoni ta' Pikobuy jew jixtru ritratti dettaljati addizzjonali. Ikkonferma f'Pikobuy is-servizz disponibbli u l-prezz għall-oġġett li trid tiċċekkja.",
+      "sourceIds": [
+        "official-shipping"
+      ]
+    },
+    {
+      "id": "packaging",
+      "question": "Nista' nitlob ippakkjar differenti?",
+      "answer": "Il-gwida tax-xiri ssemmi talbiet għal ippakkjar minimu jew imsaħħaħ. Speċifika x'għandek bżonn u kkonferma l-għażliet ta' preparazzjoni disponibbli qabel tissottometti l-pakkett biex jintbagħat.",
+      "sourceIds": [
+        "official-guide"
+      ]
+    },
+    {
+      "id": "consolidation",
+      "question": "Jistgħu oġġetti minn bejjiegħa differenti jkunu fl-istess pakkett?",
+      "answer": "Il-paġna ta' kuntatt ta' Pikobuy tgħid li oġġetti minn bejjiegħa differenti jistgħu jingħaqdu f'pakkett wieħed bi ħlas wieħed tat-tbaħħir. Qabbel il-kwotazzjoni li tirriżulta; dan ma jiggarantixxix iffrankar għal kull ordni.",
+      "sourceIds": [
+        "official-contact"
+      ]
+    },
+    {
+      "id": "storage",
+      "question": "Kemm jistgħu jdumu l-oġġetti tiegħi fil-ħażna?",
+      "answer": "It-termini tat-twassil mill-ġdid jikkonfermaw il-ħażna wara l-wasla, iżda ma jispeċifikawx perjodu bla ħlas jew skadenza universali. Iċċekkja l-kundizzjonijiet attwali tal-oġġetti tiegħek f'Pikobuy jew staqsi lill-appoġġ uffiċjali qabel tistenna.",
+      "sourceIds": [
+        "official-shipping"
+      ]
+    },
+    {
+      "id": "shipping-estimate",
+      "question": "X'għandi bżonn għal stima tat-tbaħħir?",
+      "answer": "Il-kalkolatur ta' Pikobuy jitlob id-destinazzjoni, it-tip ta' prodott, il-piż, it-tul, il-wisa' u l-għoli. Uża l-aktar informazzjoni preċiża disponibbli u ċċekkja l-kwotazzjoni finali tal-pakkett qabel tħallas; prezz ta' prodott mhuwiex kwotazzjoni tat-tbaħħir.",
+      "sourceIds": [
+        "official-estimate"
+      ]
+    },
+    {
+      "id": "delivery-choice",
+      "question": "Liema rotta tat-tbaħħir għandi nagħżel?",
+      "answer": "Pikobuy jirreklama diversi kanali tat-tbaħħir u kombinazzjonijiet ta' rotot. Qabbel l-għażliet attwalment disponibbli għad-destinazzjoni u l-pakkett tiegħek. Il-paġna pubblika ta' informazzjoni ma tistabbilixxix rotta dejjem irħas u lanqas data tal-wasla garantita.",
+      "sourceIds": [
+        "official-about"
+      ]
+    },
+    {
+      "id": "tracking",
+      "question": "Meta għandha tidher l-informazzjoni tat-traċċar?",
+      "answer": "Il-gwida tax-xiri tgħid li t-traċċar isir disponibbli fi żmien tlett ijiem mit-tluq tal-pakkett. Qis dan bħala gwida ppubblikata u kkuntattja lil Pikobuy jekk aġġornament idum ma jasal.",
+      "sourceIds": [
+        "official-guide"
+      ]
+    },
+    {
+      "id": "taxes",
+      "question": "Jista' jkun hemm spejjeż oħra apparti l-ordni u t-tbaħħir?",
+      "answer": "Iva. It-termini ta' Pikobuy jgħidu li ordnijiet internazzjonali jistgħu jinvolvu dazji, taxxi, miżati tal-iżdoganar jew spejjeż oħra li jħallas il-klijent. Qabel tixtri, iċċekkja r-rekwiżiti tad-destinazzjoni u t-termini tat-tbaħħir magħżul.",
+      "sourceIds": [
+        "official-terms"
+      ]
+    },
+    {
+      "id": "forwarding",
+      "question": "Nista' nibgħat mill-ġdid oġġetti li xtrajt jien?",
+      "answer": "It-termini jiddeskrivu kif tikseb l-indirizz tal-maħżen mingħand l-appoġġ jew mill-formola tat-twassil mill-ġdid, tibgħat id-dettalji meħtieġa u tistenna l-wasla u r-ritratti. Imbagħad tissottometti l-pakkett u tħallas it-tbaħħir permezz ta' Pikobuy.",
+      "sourceIds": [
+        "official-shipping"
+      ]
+    },
+    {
+      "id": "forwarded-after-sales",
+      "question": "Min jieħu ħsieb is-servizz ta' wara l-bejgħ għal oġġetti mibgħuta mill-ġdid?",
+      "answer": "Għal oġġetti mibgħuta mill-ġdid, Pikobuy jidderieġi mistoqsijiet ta' wara l-bejgħ lejn il-mittent jew il-bejjiegħ. It-termini jgħidu li jista' jgħin jibgħat l-oġġetti lura, iżda ma jipprovdix is-servizz ta' wara l-bejgħ tal-prodott innifsu.",
+      "sourceIds": [
+        "official-shipping"
+      ]
+    },
+    {
+      "id": "return-deadline",
+      "question": "Meta għandi nitlob ritorn mill-maħżen?",
+      "answer": "Il-politika tar-ritorni tispeċifika 120 siegħa, li jibdew jgħoddu mis-siegħa wara l-bidla tal-istatus għal In Warehouse (fil-maħżen). Agħmel it-talba malajr; l-aċċettazzjoni xorta tiddependi mill-eliġibbiltà.",
+      "sourceIds": [
+        "official-returns"
+      ]
+    },
+    {
+      "id": "return-eligibility",
+      "question": "Jista' jiġi rritornat kull prodott?",
+      "answer": "Le. Jgħoddu l-parteċipazzjoni tal-bejjiegħ, il-kundizzjoni adattata għall-bejgħ mill-ġdid u l-limitu taż-żmien. Prodotti personalizzati, ippakkjar mibdul u ċerti kategoriji għandhom restrizzjonijiet. Iċċekkja l-eliġibbiltà qabel tordna jew tneħħi t-tikketti.",
+      "sourceIds": [
+        "official-returns"
+      ]
+    },
+    {
+      "id": "return-costs",
+      "question": "Ir-ritorni huma dejjem bla ħlas?",
+      "answer": "Le. Il-politika telenka spejjeż tat-tbaħħir u tas-servizz għal ritorni b'għażla tal-klijent. Staqsi lill-appoġġ għat-total eżatt tal-ordni tiegħek, għax l-informazzjoni ppubblikata dwar il-miżati tat-tbaħħir hija kontradittorja.",
+      "sourceIds": [
+        "official-returns"
+      ]
+    },
+    {
+      "id": "wrong-or-damaged-item",
+      "question": "X'jiġri jekk il-bejjiegħ jibgħat l-oġġett ħażin?",
+      "answer": "Irrapporta d-differenza malajr permezz ta' Pikobuy. Il-politika tiddistingwi żbalji tal-bejjiegħ u problemi ta' kwalità minn ritorni b'għażla tal-klijent, iżda l-kunsens tal-bejjiegħ u ċ-ċirkostanzi tal-każ jinfluwenzaw ir-riżultat.",
+      "sourceIds": [
+        "official-returns"
+      ]
+    },
+    {
+      "id": "not-shipped-cancellation",
+      "question": "Hemm ħlas għal talba ta' ritorn bl-istatus Not Shipped?",
+      "answer": "Il-mistoqsijiet dwar ir-ritorni jgħidu li ma tintalabx miżata tar-ritorn jekk l-ordni għadha ma ntbagħtitx. Iċċekkja l-istatus attwali qabel tissottometti t-talba.",
+      "sourceIds": [
+        "official-returns"
+      ]
+    },
+    {
+      "id": "official-support",
+      "question": "Fejn nista' nistaqsi dwar ordni, ħlas jew pakkett?",
+      "answer": "Uża l-paġna uffiċjali ta' kuntatt ta' Pikobuy, li tirrakkomanda li tiftaħ talba u tipprovdi l-kanali tal-appoġġ. Dan il-katalgu indipendenti ma jistax jaċċessa l-kont tiegħek ta' Pikobuy, ibiddel ordni jew isolvi ħlas f'ismek.",
+      "sourceIds": [
+        "official-contact"
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "slug": "pikobuy-spreadsheet-checklist",
+      "title": "Lista ta’ kontroll għall-ispreadsheet ta’ Pikobuy: qabbel is-sejbiet qabel tordna",
+      "description": "Uża lista prattika ta’ kontroll għal Pikobuy biex tqabbel links oriġinali, varjanti, ritratti u baġit, u tiddeċiedi liema sejbiet jistħoqqilhom aktar riċerka.",
+      "intro": "Spreadsheet ta’ Pikobuy issir utli meta tgħinek tieħu deċiżjoni. Lista twila ssejvjata tista’ taħbi daqsijiet neqsin, links skaduti u spejjeż li għadek ma kkunsidrajtx. Din il-lista ta’ kontroll għandha tibdel diversi sejbiet interessanti f’għażla żgħira li tista’ tispjega. Żomm il-paġna attwali tal-prodott separata min-noti tiegħek u agħti lil kull kandidat pass ċar li jmiss qabel tonfoq flus.",
+      "sections": [
+        {
+          "id": "define-the-job",
+          "heading": "1. Iddefinixxi x’għandu jagħmel ix-xiri",
+          "paragraphs": [
+            "Ibda bis-sitwazzjoni li fiha se tuża l-oġġett. Borża għal laptop għandha rekwiżiti differenti minn borża żgħira għal filgħaxija. Hoodie biex jintlibes fuq saffi oħra jeħtieġ qagħda differenti minn wieħed taħt ġakketta dejqa. Ikteb sentenza waħda li tiddeskrivi l-użu, imbagħad identifika żewġ jew tliet rekwiżiti li ma tistax tiċċedi fuqhom.",
+            "Stabbilixxi limitu għall-ispiża totali qabel tħares lejn il-prezzijiet tal-oġġetti. Ħalli spazju għall-ispejjeż li għad trid tistma. Prodott li jogħġbok iżda ma jissodisfax il-ħtieġa prattika tiegħu m’għandux jibqa’ fl-għażla sempliċement għax l-istampa żgħira hija attraenti."
+          ]
+        },
+        {
+          "id": "build-a-record",
+          "heading": "2. Issejvja l-identità ta’ kull kandidat",
+          "paragraphs": [
+            "Irreġistra l-URL oriġinali, ir-referenza tal-bejjiegħ jew tal-ħanut, il-varjant eżatt, il-prezz muri u d-data meta ċċekkjajthom. Żomm it-tabella tad-daqsijiet jew l-ispeċifikazzjoni importanti ma’ dak ir-rekord. Titlu fi spreadsheet spiss ikun iqsar mill-paġna sħiħa u jista’ jħalli barra l-varjant li jiddetermina l-prezz.",
+            "Żid nota qasira dwar għaliex issejvjajt l-oġġett. Pereżempju, kandidat jista’ jaqbel mal-wisa’ meħtieġa tal-ftuħ jew ikollu t-tul it-tajjeb tal-kmiem. Jekk ma tistax tispjega għaliex huwa adattat, erġa’ lura għar-rekwiżit minflok iżżid aktar ringieli kważi identiċi."
+          ]
+        },
+        {
+          "id": "separate-evidence",
+          "heading": "3. Identifika x’turi verament kull stampa",
+          "paragraphs": [
+            "Stampa tal-bejjiegħ tiddeskrivi kif jiġi ppreżentat prodott. Ritratt mingħand xerrej preċedenti jista’ juri ordni oħra. Ir-ritratti tal-maħżen tal-ordni tiegħek jirreferu għall-oġġett li wasal għalik. Żomm dawn it-tipi ta’ evidenza separati; l-utilità tagħhom tiddependi fuq il-mistoqsija li qed tistaqsi.",
+            "Ritratt preċedenti jista’ jgħinek tagħżel liema dettall tiċċekkja, iżda ma jistax jistabbilixxi l-kundizzjoni ta’ xiri futur. Bl-istess mod, stampa sabiħa ma twieġebx mistoqsija mhux ċara dwar kejl. Ikteb il-mistoqsija mhux solvuta ħdejn l-istampa minflok tqis l-eżistenza ta’ ritratt bħala kontroll komplut."
+          ]
+        },
+        {
+          "id": "apply-hard-stops",
+          "heading": "4. Solvi n-nuqqasijiet essenzjali qabel tikklassifika l-preferenzi",
+          "paragraphs": [
+            "Iċċekkja r-rekwiżiti li jistgħu jagħmlu x-xiri mhux adattat: l-identità tal-oġġett, il-varjant disponibbli, il-kejl importanti u baġit totali fattibbli. Jekk il-link oriġinali jiftaħ prodott differenti jew id-daqs magħżul ma jkollux tabella li tifhem, waqqaf temporanjament dik ir-ringiela.",
+            "Qabbel il-preferenzi wara dawn il-kontrolli biss. Kulur, finitura u stil jistgħu jgħinuk tagħżel bejn kandidati adattati, iżda ma jikkumpensawx għal ftuħ dejjaq wisq għal-laptop. Evita sistema ta’ punti li tħalli diversi karatteristiċi sbieħ jikkanċellaw nuqqas essenzjali. Deċiżjoni sempliċi li tistenna spiss tkun aktar ċara minn punteġġ li jagħti preċiżjoni qarrieqa."
+          ]
+        },
+        {
+          "id": "compare-example",
+          "heading": "5. Qabbel tliet sejbiet ipotetiċi",
+          "paragraphs": [
+            "Dan l-eżempju jirrigwarda borża li trid tieħu oġġett riġidu wiesa’ 30 cm. Il-valuri huma vvintati biex juru l-metodu, mhux meħuda minn prodotti attwali. Innota li l-inqas prezz muri ma jiddeċidix liema ringiela jistħoqqilha attenzjoni."
+          ],
+          "table": {
+            "headers": [
+              "Kandidat",
+              "Evidenza disponibbli",
+              "Deċiżjoni u l-pass li jmiss"
+            ],
+            "rows": [
+              [
+                "A",
+                "Il-ftuħ huwa dokumentat bħala 28 cm",
+                "Neħħi: rekwiżit essenzjali ma jintlaħaqx"
+              ],
+              [
+                "B",
+                "Il-wisa’ esterna hija 34 cm; il-ftuħ mhux magħruf",
+                "Żomm pendenti: itlob il-wisa’ użabbli tal-ftuħ"
+              ],
+              [
+                "C",
+                "Il-ftuħ huwa dokumentat bħala 32 cm; il-baġit mhux komplut",
+                "Żomm għar-riċerka: lesti l-istima tal-ispiża totali"
+              ]
+            ]
+          }
+        },
+        {
+          "id": "make-next-action",
+          "heading": "6. Agħti azzjoni waħda lil kull ringiela ssejvjata",
+          "paragraphs": [
+            "Uża żomm, pendenti u neħħi bħala tikketti tar-riċerka. Żomm ifisser li l-evidenza disponibbli tiġġustifika l-pass li jmiss; ma jfissirx li l-oġġett huwa vverifikat jew approvat. Pendenti jfisser li tweġiba waħda tista’ tbiddel id-deċiżjoni. Neħħi jfisser li rekwiżit ifalli jew li m’għadux ta’ min tfittex l-evidenza nieqsa.",
+            "Agħmel l-azzjoni speċifika biżżejjed biex tlestiha. Titlob il-wisa’ użabbli tal-ftuħ huwa aktar utli milli tiċċekkja l-kwalità. Tqabbel il-prezz tal-varjant magħżul huwa aktar utli milli terġa’ tħares lejn il-paġna. Żid data ta’ reviżjoni mal-kandidati pendenti biex l-istess oġġetti mhux solvuti ma jibqgħux jinġemgħu bla tmiem."
+          ]
+        },
+        {
+          "id": "recheck-before-payment",
+          "heading": "7. Erġa’ ċċekkja l-għażla qabel tħallas",
+          "paragraphs": [
+            "Iftaħ il-paġna attwali tal-prodott mill-ġdid meta tkun lest biex tkompli. Ikkonferma li l-varjant, il-kwantità u l-bażi tal-prezz għadhom jaqblu mar-rekord. Irrevedi kull dikjarazzjoni dwar kejl jew disponibbiltà li waslitlek indirettament u żomm l-evidenza li verament użajt.",
+            "Imbagħad kompli bil-proċess tal-ordni b’rekord ċar minflok folder ta’ screenshots mingħajr rabta. Meta tasal l-evidenza tal-maħżen, qabbilha ma’ dak ir-rekord. L-istess għażla tista’ issa tiċċekkja x’kont beħsiebek tordna, liema dettalji għadhom mhux solvuti u x’għandek tistaqsi wara."
+          ]
+        }
+      ],
+      "sourceIds": [
+        "official-guide"
+      ],
+      "related": [
+        "spreadsheet",
+        "articles/pikobuy-product-links",
+        "articles/pikobuy-haul-budget"
+      ]
+    },
+    {
+      "slug": "pikobuy-clothing-size-chart",
+      "title": "Tabelli tad-daqsijiet tal-ħwejjeġ Pikobuy: kejjel qabel tagħżel",
+      "description": "Aqra t-tabelli tad-daqsijiet Pikobuy b’ilbies ta’ referenza, punti ta’ kejl konsistenti u unitajiet ċari, b’eżempju prattiku qabel tagħżel id-daqs.",
+      "intro": "Ittra ta’ daqs familjari mhijiex biżżejjed biex tagħżel ħwejjeġ minn sejba ta’ Pikobuy. Il-paragun utli huwa bejn qisien li jiddeskrivu l-istess ħaġa: l-istess parti tal-ilbies, l-istess unitajiet u metodu simili. Din il-gwida tgħinek tibni dak il-paragun b’ħwejjeġ li diġà għandek. Ma tassumix li kull bejjiegħ juża sistema waħda jew li ittra akbar issolvi tabella mhux ċara.",
+      "sections": [
+        {
+          "id": "identify-chart-type",
+          "heading": "1. Stabbilixxi x’tkejjel it-tabella",
+          "paragraphs": [
+            "Aqra t-tikketti qabel tinterpreta n-numri. Tabella tista’ tiddeskrivi l-ilbies lest, firxa rakkomandata ta’ qisien tal-ġisem jew taħlita ta’ gwida u kejl tal-prodott. Dawn huma referenzi differenti. Kejl tas-sider tal-ilbies jinkludi l-ispazju mfassal fih; kejl tal-ġisem jiddeskrivi lill-persuna.",
+            "Issejvja t-tabella mal-prodott eżatt u l-verżjoni magħżula. Jekk paġna fiha qatgħat jew stili differenti, tassumix li tabella waħda tapplika għal kulħadd. Meta t-tip ta’ kejl ma jkunx ċar, itlob spjegazzjoni qabel tipprova tagħmel rakkomandazzjoni ta’ daqs mill-valuri."
+          ]
+        },
+        {
+          "id": "choose-reference",
+          "heading": "2. Agħżel ilbies ta’ referenza utli",
+          "paragraphs": [
+            "Agħżel oġġett li joqgħod kif tixtieq li joqgħod ix-xiri l-ġdid. Qabbel hoodie laxk ma’ hoodie laxk minflok tuża T-shirt issikkat bħala l-unika referenza. Ikkunsidra d-drapp, il-kostruzzjoni tal-ispallejn u jekk se tilbes saffi taħtu.",
+            "Poġġi l-ilbies ta’ referenza ċatt mingħajr ma tiġbdu. Irreġistra l-kejl int stess u żomm ritratt li juri l-punti tat-truf. Qed tibni paragun li jista’ jiġi ripetut, għalhekk nota bir-reqqa tiswa aktar milli tiftakar li marka normalment toqgħodlok. Erġa’ uża r-rekord biss meta l-prodott li jmiss ikun tassew komparabbli."
+          ]
+        },
+        {
+          "id": "match-endpoints",
+          "heading": "3. Qabbel il-punti tal-kejl",
+          "paragraphs": [
+            "Għal biċċa ta’ fuq, qisien utli jistgħu jinkludu wisa’ tas-sider ċatt, tul tal-ġisem, wisa’ tal-ispallejn u tul tal-kmiem. Għall-qalziet jistgħu jimportaw il-qadd, il-fond minn qadd sal-koxxa, il-ġenbejn, il-koxxa u t-tul ta’ ġewwa tas-sieq. L-għażla t-tajba tiddependi fuq il-problema ta’ qagħda li trid tevita.",
+            "Iċċekkja kif tiġi ddefinita kull dimensjoni. Tul ta’ kmiem mill-ħjata tal-ispalla mhuwiex l-istess bħal wieħed li jibda mill-għonq. Qadd mgħawweġ jew elastiku jeħtieġ ukoll metodu mifhum. Jekk il-bejjiegħ juża punt differenti, erġa’ kejjel l-ilbies tiegħek b’dak il-punt minflok tqabbel numri inkompatibbli."
+          ]
+        },
+        {
+          "id": "handle-units",
+          "heading": "4. Issepara wisa’, ċirkonferenza u unitajiet",
+          "paragraphs": [
+            "Wisa’ ċatt jgħaddi minn naħa waħda tal-ilbies. Ċirkonferenza tiddeskrivi distanza madwaru. Tħallat it-tnejn jista’ joħloq differenza apparenti kbira. Bħala eżempju sempliċi tal-aritmetika, darbtejn wisa’ ta’ 58 cm jagħti 116 cm; jekk dak il-paragun huwiex xieraq xorta jiddependi fuq l-ilbies u l-metodu tat-tabella.",
+            "Żomm il-folja tax-xogħol f’unità waħda u żomm in-numri oriġinali ħdejn kull konverżjoni. Tassumix tolleranza mhux dikjarata. Tolleranza tal-kejl mogħtija mill-bejjiegħ hija kuntest ieħor; ma tispjegax awtomatikament kull differenza bejn tabella u ritratt tal-maħżen."
+          ]
+        },
+        {
+          "id": "worked-comparison",
+          "heading": "5. Qabbel żewġ daqsijiet ipotetiċi ta’ hoodie",
+          "paragraphs": [
+            "Ejja ngħidu li l-hoodie ta’ referenza tiegħek ikejjel 58 cm fis-sider u 68 cm fit-tul tal-ġisem. Din it-tabella vvintata turi għaliex ittra waħda ma ssolvix id-deċiżjoni. Iż-żewġ dimensjonijiet huma importanti u r-riżultat mixtieq jiddependi fuq liema bidla tista’ taċċetta."
+          ],
+          "table": {
+            "headers": [
+              "Kejl",
+              "Ilbies ta’ referenza",
+              "Daqs M tal-eżempju",
+              "Daqs L tal-eżempju"
+            ],
+            "rows": [
+              [
+                "Wisa’ tas-sider ċatt",
+                "58 cm",
+                "57 cm",
+                "60 cm"
+              ],
+              [
+                "Tul tal-ġisem",
+                "68 cm",
+                "66 cm",
+                "69 cm"
+              ],
+              [
+                "X’għandek tinvestiga",
+                "Qagħda mixtieqa magħrufa",
+                "Idjaq u iqsar",
+                "Usa’ u ftit itwal"
+              ]
+            ]
+          },
+          "list": [
+            "Iċċekkja l-qisien tal-kmiem qabel tagħżel kwalunkwe varjant.",
+            "Ikkonferma li t-tulijiet kollha tal-ġisem jużaw l-istess punti.",
+            "Qis it-tabella bħala eżerċizzju ta’ paragun, mhux rakkomandazzjoni ta’ daqs."
+          ]
+        },
+        {
+          "id": "allow-for-use",
+          "heading": "6. Ikkunsidra kif se tilbsu",
+          "paragraphs": [
+            "Qisien li jaqblu jgħinu, iżda ma jirriproduċux is-sensazzjoni tal-ilbies. It-tiġbid, l-ebusija, l-inforra u l-qatgħa jistgħu jbiddlu kif jaġixxu l-istess dimensjonijiet. Aħseb fil-moviment u s-saffi li beħsiebek tilbes, imbagħad identifika l-qisien li jikkontrollaw dawk il-ħtiġijiet.",
+            "Evita li żżid marġni fiss ma’ kull dimensjoni awtomatikament. Aktar wisa’ jista’ jgħin għas-saffi filwaqt li kmiem itwal isiru inkonvenjenti. Jekk dimensjoni kritika mhijiex ċara, itlob dak il-kejl minflok tiddependi fuq regola ġenerali li tagħżel daqs akbar. L-għan hu li tnaqqas inċertezza speċifika, mhux toħloq preċiżjoni falza."
+          ]
+        },
+        {
+          "id": "confirm-selected-size",
+          "heading": "7. Żomm id-deċiżjoni u vverifika l-varjant",
+          "paragraphs": [
+            "Qabel tħallas, issejvja t-tikketta eżatta tal-varjant u t-tabella li użajt. Żid spjegazzjoni qasira tad-deċiżjoni, bħall-qbil mal-wisa’ tas-sider ta’ referenza filwaqt li taċċetta tul iqsar. Dik in-nota tagħtik bażi ċara għall-ispezzjoni aktar tard.",
+            "Jekk titlob kejl mill-maħżen, speċifika d-dimensjoni, il-punti u l-unità. Riga li tinqara għandha tibda fil-punt maħsub u tibqa’ tidher tul il-kejl. Jekk l-evidenza tikkontradixxi t-tabella, waqqaf u ċċara d-differenza waqt li għad tista’ tikkunsidra proċess ta’ ritorn. Ritratt jista’ jappoġġa kontroll tal-qisien; ma jiggarantix kumdità."
+          ]
+        }
+      ],
+      "sourceIds": [
+        "official-guide",
+        "official-returns"
+      ],
+      "related": [
+        "spreadsheet",
+        "articles/pikobuy-qc-measurements",
+        "articles/pikobuy-shoe-sizing"
+      ]
+    },
+    {
+      "slug": "pikobuy-product-links",
+      "title": "Links tal-prodotti Pikobuy: iċċekkja s-sorsi u solvi differenzi fil-paġni",
+      "description": "Iċċekkja links Pikobuy mal-paġni oriġinali, qabbel il-varjanti wara l-importazzjoni u uża proċess ċar ta’ dijanjosi meta prodott ma jinfetaħx.",
+      "intro": "Link ta’ prodott irid jidentifika aktar minn stampa attraenti. Għandu jwassal għall-paġna intenzjonata u l-varjant li trid tordna. Waqt il-qsim, it-tqassir jew il-konverżjoni, dak il-kuntest jista’ jsir aktar diffiċli biex tara. Din il-gwida tagħtik mod prattiku biex iżżomm ir-rekord oriġinali, tqabbel riżultat importat u tiddeċiedi x’tagħmel meta link Pikobuy ma jiftaħx kif mistenni.",
+      "sections": [
+        {
+          "id": "save-source-record",
+          "heading": "1. Żomm rekord tal-paġna oriġinali",
+          "paragraphs": [
+            "Qabel tuża link ta’ aġent maqsum minn xi ħadd, issejvja l-URL oriġinali tal-prodott meta jkun disponibbli. Irreġistra l-identifikatur, ir-referenza tal-bejjiegħ jew tal-ħanut, l-istil, il-kulur, id-daqs u l-kwantità magħżula. Żid id-data tal-kontroll u screenshot tal-għażla li kont beħsiebek tagħmel.",
+            "Screenshot waħdu mhuwiex komplut għax jista’ jħalli barra l-indirizz jew il-varjant magħżul. URL waħdu jista’ ma jżommx liema għażla kont tfisser. Flimkien, il-link u rekord qasir tal-varjant jagħmluha aktar faċli biex tidentifika differenza aktar tard. Tiktibx fuq ir-rekord oriġinali meta ssib kandidat differenti."
+          ]
+        },
+        {
+          "id": "recognize-page-type",
+          "heading": "2. Identifika t-tip ta’ paġna li għandek",
+          "paragraphs": [
+            "Paġna ta’ prodott, paġna ewlenija ta’ ħanut u album tar-ritratti għandhom skopijiet differenti. Paġna ta’ ħanut tista’ tgħinek issib il-katalgu iżda ma tispeċifikax l-oġġett. Album jista’ juri diversi kuluri mingħajr varjant li tista’ tixtri. Paġna waħda ta’ prodott tista’ tinkludi ħafna varjanti taħt l-istess titlu.",
+            "Iċċekkja x’informazzjoni hija nieqsa qabel tipprova timporta l-link ripetutament. Jista’ jkollok bżonn link għal prodott individwali, deskrizzjoni tal-varjant jew kjarifika mill-bejjiegħ jew mill-pjattaforma. Isem ta’ suq magħruf huwa kuntest, mhux evidenza li l-paġna tagħti dak kollu meħtieġ għal ordni preċiża."
+          ]
+        },
+        {
+          "id": "compare-result",
+          "heading": "3. Qabbel ir-riżultat importat mas-sors",
+          "paragraphs": [
+            "Il-gwida ppubblikata ta’ Pikobuy tappoġġa tfittxija b’link ta’ prodott jew kliem ewlieni. Meta jidher riżultat, qabbel l-identità tiegħu mar-rekord oriġinali minflok tassumi li tagħbija b’suċċess tlesti l-kontroll.",
+            "Ħares lejn l-identifikatur fejn jidher, il-kuntest tal-bejjiegħ, il-varjanti disponibbli u d-deskrizzjoni tal-għażla. Iċċekkja jekk il-prezz huwiex għall-oġġett mixtieq, varjant ieħor, aċċessorju jew kundizzjoni ta’ kwantità. Stampa żgħira simili tista’ taħbi verżjoni differenti. Jekk is-sors u l-importazzjoni ma jaqblux, solvi d-differenza qabel tqis ir-riżultat lest għall-ordni."
+          ]
+        },
+        {
+          "id": "separate-conversion",
+          "heading": "4. Ifhem x’ma tistabbilixxix il-konverżjoni",
+          "paragraphs": [
+            "Konvertitur tal-links jista’ jesprimi referenza ta’ prodott f’forma li servizz ieħor jista’ jaqra. Dak il-pass tekniku huwa separat mill-kontroll tal-bejjiegħ, il-kundizzjoni, l-istokk jew l-adegwatezza. Lanqas ma jistabbilixxi li paġna attwali għadha tiddeskrivi l-istess oġġett bħal ringiela ssejvjata qabel.",
+            "Żomm l-URL oriġinali ħdejn kull URL ikkonvertit. Wara l-konverżjoni, erġa’ ċċekkja l-identità u l-varjant. Jekk għodda tbiddel id-destinazzjoni bla mistenni, waqqaf u spezzjona r-riżultat. Iddaħħalx kredenzjali tal-kont f’paġna mhux familjari sempliċement għax wasalt hemm minn spreadsheet jew għodda ta’ konverżjoni."
+          ]
+        },
+        {
+          "id": "troubleshooting-table",
+          "heading": "5. Iddijanjostika l-problema li tista’ tosserva",
+          "paragraphs": [
+            "It-tabella li ġejja hija għajnuna għad-dijanjosi, mhux lista ta’ messaġġi uffiċjali ta’ żball Pikobuy. Uża l-imġiba li tara. Li terġa’ tipprova jgħin biss meta jittestja kawża plawżibbli; ma jirkuprax informazzjoni li qatt ma kienet fil-link."
+          ],
+          "table": {
+            "headers": [
+              "Problema osservata",
+              "Kontroll utli",
+              "L-azzjoni li jmiss"
+            ],
+            "rows": [
+              [
+                "Jinfetaħ prodott differenti",
+                "Qabbel l-ID oriġinali u l-varjant",
+                "Żomm iż-żewġ rekords u itlob kjarifika"
+              ],
+              [
+                "Is-sors jeħtieġ login",
+                "Iċċekkja l-URL u l-informazzjoni viżibbli",
+                "Uża s-sors leġittimu jew l-appoġġ uffiċjali"
+              ],
+              [
+                "Jinfetaħ biss ħanut jew album",
+                "Fittex referenza għal oġġett individwali",
+                "Ipprovdi l-oġġett u l-varjant eżatti"
+              ],
+              [
+                "L-oġġett mhux disponibbli",
+                "Erġa’ ċċekkja s-sors attwali",
+                "Qis l-alternattivi bħala kandidati ġodda"
+              ],
+              [
+                "Link imqassar ma jaħdimx",
+                "Irkupra l-URL oriġinali jekk tista’",
+                "Erġa’ pprova darba b’dak ir-rekord"
+              ]
+            ]
+          }
+        },
+        {
+          "id": "support-request",
+          "heading": "6. Ibgħat mistoqsija li tista’ titwieġeb",
+          "paragraphs": [
+            "Meta l-oġġett mixtieq jibqa’ mhux ċar, ibgħat il-link oriġinali, l-identifikatur jekk hemm, il-varjant meħtieġ u spjegazzjoni qasira tad-differenza. Żid screenshots li juru l-għażla rilevanti. Evita li tibgħat l-istorja kollha tal-browsing jew prodotti mhux relatati fl-istess talba.",
+            "Mistoqsija utli hija speċifika: dan is-sors juri l-verżjoni blu f’daqs M, iżda l-għażla importata turi biss iswed; nista’ nordna l-blu M? Dan huwa aktar faċli minn li tgħid li l-link ma jaħdimx. Il-paġna uffiċjali ta’ Kuntatt ta’ Pikobuy tipprovdi l-kanal adattat għal mistoqsijiet dwar kont jew sorsi."
+          ]
+        },
+        {
+          "id": "update-shortlist",
+          "heading": "7. Aġġorna l-għażla mingħajr ma titlef il-kuntest",
+          "paragraphs": [
+            "Immarka l-kandidat bħala mqabbel, qed jistenna kjarifika jew mhux disponibbli. Żomm it-tweġiba mar-rekord oriġinali. Jekk l-alternattiva proposta għandha identifikatur jew speċifikazzjoni differenti, ibda ringiela separata minflok tissostitwixxi l-oġġett oriġinali fis-skiet.",
+            "Qabel tkompli, erġa’ ċċekkja l-varjant li fil-fatt se tissottometti. L-għan huwa deċiżjoni traċċabbli: għandek tkun tista’ tispjega liema paġna użajt, liema varjant għażilt u liema evidenza solviet id-differenza. Dan ir-rekord jibqa’ utli meta tqabbel l-oġġett li jasal ma’ dak li kont biħsiebek tixtri."
+          ]
+        }
+      ],
+      "sourceIds": [
+        "official-guide",
+        "official-contact"
+      ],
+      "related": [
+        "guide",
+        "articles/pikobuy-spreadsheet-checklist",
+        "faq"
+      ]
+    },
+    {
+      "slug": "pikobuy-qc-measurements",
+      "title": "Kejl QC ta’ Pikobuy: itlob ritratti li jwieġbu l-mistoqsija tiegħek",
+      "description": "Agħmel it-talbiet għall-kejl QC ta’ Pikobuy aktar utli b’punti ċari, skali li jinqraw u mistoqsijiet speċifiċi qabel tiddeċiedi dwar l-oġġett.",
+      "intro": "Aktar ritratti mhux bilfors jagħtu aktar evidenza utli. Jekk trid tkun taf jekk kmiem huwiex twil biżżejjed jew ftuħ ta’ borża huwiex wiesa’ biżżejjed, it-talba trid tispjega kif għandu jitkejjel dak id-dettall. Talba tajba QC ta’ Pikobuy torbot mistoqsija waħda mhux solvuta ma’ riżultat osservabbli wieħed. Din il-gwida turi kif tagħmel dan mingħajr ma tqis ritratt bħala prova ta’ kull ħaġa dwar il-prodott.",
+      "sections": [
+        {
+          "id": "define-the-question",
+          "heading": "1. Ikteb id-deċiżjoni qabel it-talba",
+          "paragraphs": [
+            "Għid liema tweġiba tbiddel l-azzjoni tiegħek li jmiss. Forsi hemm bżonn ftuħ minimu, tikketta tad-daqs ma tinqrax jew marka tista’ tkun dell minflok ħmieġ. Kull problema teħtieġ evidenza differenti. Li titlob ritratti ta’ kwalità aħjar iħalli lill-persuna li tiġbidhom taqta’ x’inhu importanti.",
+            "Uża sentenza b’dettall osservabbli: irrid nara jekk iż-żewġ żraben għandhomx it-tikketta tad-daqs magħżul. Tgħaqqadhiex ma’ talbiet mhux relatati dwar ħjata, materjali u pakkjar."
+          ]
+        },
+        {
+          "id": "identify-item",
+          "heading": "2. Identifika l-oġġett u l-varjant it-tajjeb",
+          "paragraphs": [
+            "Inkludi r-referenza tal-ordni, id-deskrizzjoni tal-oġġett u l-varjant magħżul. Jekk fl-ordni hemm żewġ kuluri jew daqsijiet simili, agħmel id-distinzjoni espliċita. Irreferi għal ritratt eżistenti jekk jgħin biex tidentifika ż-żona, iżda tassumix li stampa ta’ xerrej preċedenti turi l-oġġett li qed jiġi spezzjonat issa.",
+            "Żomm it-tabella oriġinali u l-varjant intenzjonat mat-talba. Jispjegaw għaliex il-kejl huwa importanti u jgħinuk tinterpreta r-riżultat. Kejl preċiż tal-oġġett ħażin jibqa’ inutili. Qabel tikkonkludi, iċċekkja jekk l-istampa mibgħuta tistax raġonevolment tintrabat mal-oġġett u l-varjant li tlabt dwarhom."
+          ]
+        },
+        {
+          "id": "specify-method",
+          "heading": "3. Iddeskrivi l-metodu tal-kejl",
+          "paragraphs": [
+            "Semmi l-punti tat-truf, l-unità u l-pożizzjoni. Għal wisa’ ċatt ta’ ħwejjeġ, speċifika fejn għandha tibda u tispiċċa t-tejp u jekk l-ilbies għandux ikun ċatt mingħajr tiġbid. Għal ftuħ ta’ borża, itlob il-medda użabbli fil-ftuħ minflok l-aktar parti wiesgħa minn barra.",
+            "Itlob li l-bidu u t-tmiem tal-iskala jibqgħu viżibbli. Ritratt bin-numru żero barra mill-qafas joħloq inċertezza anki jekk in-naħa l-oħra tinqara. Kejl fuq kurva u kejl f’linja dritta jwieġbu mistoqsijiet differenti, għalhekk spjega liema għandek bżonn minflok tuża biss il-kelma tul."
+          ]
+        },
+        {
+          "id": "request-examples",
+          "heading": "4. Uża talba li taqbel mal-mistoqsija",
+          "paragraphs": [
+            "Dawn huma mudelli oriġinali ta’ kliem, mhux għażliet ta’ menu jew wegħdiet ta’ servizz partikolari. Ikkonferma jekk l-immaniġġjar mitlub huwiex disponibbli u kemm jiswa qabel tiddependi fuqu. Ibdel id-dettalji tal-oġġett u l-kejl b’dawk rilevanti għall-ordni tiegħek."
+          ],
+          "table": {
+            "headers": [
+              "Mistoqsija mhux solvuta",
+              "Talba speċifika"
+            ],
+            "rows": [
+              [
+                "Il-biċċa ta’ fuq hija wiesgħa biżżejjed?",
+                "Poġġi l-biċċa magħżula ċatta mingħajr tiġbid u uri l-wisa’ tas-sider bejn il-punti msemmija, biż-żewġt itruf tal-iskala f’ċentimetri viżibbli."
+              ],
+              [
+                "It-tikketta taż-żarbun hija korretta?",
+                "Uri tikketta tad-daqs li tinqara minn kull żarbuna fil-par, b’biżżejjed dettalji madwarha biex jiġu identifikati."
+              ],
+              [
+                "Oġġett jgħaddi mill-ftuħ tal-borża?",
+                "Uri l-wisa’ użabbli tal-ftuħ bl-għeluq miftuħ kompletament u l-punti tal-kejl viżibbli."
+              ],
+              [
+                "Il-marka hija fuq il-wiċċ?",
+                "Uri ż-żona mmarkata mill-qrib u minn angolu ieħor, bil-materjal ta’ madwarha viżibbli."
+              ]
+            ]
+          }
+        },
+        {
+          "id": "evaluate-evidence",
+          "heading": "5. Iċċekkja jekk it-tweġiba tistax tiġi interpretata",
+          "paragraphs": [
+            "Aqra l-istampa qabel il-konklużjoni numerika. L-oġġett rilevanti jidher? Ir-riga ssegwi l-metodu mitlub? Tista’ tara l-iskala u ż-żewġ punti? Jekk il-ħwejjeġ huma mitwija, miġbuda jew fotografati minn angolu qawwi, innota kif dan jista’ jaffettwa l-paragun.",
+            "Toħloqx preċiżjoni minn stampa mċajpra. Jekk tista’ tiddistingwi biss madwar 57 sa 59 cm, irreġistra dik l-inċertezza minflok tiddikjara 58.0 cm. Meta l-inċertezza tista’ tbiddel id-deċiżjoni, itlob kjarifika. Meta ma tistax taffettwaha, aktar ritratti jistgħu jagħtu ftit valur prattiku."
+          ]
+        },
+        {
+          "id": "recognize-limits",
+          "heading": "6. Żomm l-evidenza viżiva fil-limiti tagħha",
+          "paragraphs": [
+            "Ritratt jista’ jappoġġa konklużjoni dwar tikketta viżibbli, dimensjoni mkejla jew problema apparenti fuq il-wiċċ. Ma jistax jistabbilixxi durabilità fit-tul, kostruzzjoni moħbija, prestazzjoni elettrika jew kumdità fl-użu. Il-kompożizzjoni tal-materjal u l-awtentiċità jeħtieġu wkoll evidenza lil hinn mid-dehra.",
+            "Issepara dak li osservajt minn dak li ddeduċejt. L-istampa turi ħjata magħluqa hija dikjarazzjoni aktar limitata minn il-borża tiflaħ tagħbijiet tqal. Il-materjali ppubblikati ta’ Pikobuy jiddeskrivu limiti fl-ispezzjoni, għalhekk tqishiex ittestjar speċjalizzat. Jekk ix-xiri jiddependi fuq proprjetà li r-ritratti ma jistgħux jistabbilixxu, fittex dokumentazzjoni adattata jew erġa’ kkunsidra x-xiri."
+          ]
+        },
+        {
+          "id": "choose-next-action",
+          "heading": "7. Ibdel it-tweġiba f’azzjoni",
+          "paragraphs": [
+            "Erġa’ lura għall-mistoqsija oriġinali u agħżel pass li jmiss. L-evidenza tista’ tappoġġa li tkompli, tħalli problema speċifika mhux solvuta jew tiġġustifika diskussjoni dwar ritorn. Issejvja t-tweġiba mar-rekord tal-ordni u nnota liema kejl jew dettall viżibbli influwenza d-deċiżjoni.",
+            "Jekk għad hemm problema, iċċekkja minnufih l-istatus tal-ordni u l-kundizzjonijiet applikabbli tar-ritorn. Tqattax ħin tiġbor angoli dekorattivi waqt li differenza li teħtieġ azzjoni tibqa’ mhux irrappurtata. Ir-rekord għandu jispjega faċilment x’kien intenzjonat, x’juri r-ritratt u liema soluzzjoni qed titlob. Immarka osservazzjonijiet inċerti bħala inċerti."
+          ]
+        }
+      ],
+      "sourceIds": [
+        "official-user-agreement",
+        "official-shipping",
+        "official-returns"
+      ],
+      "related": [
+        "qc",
+        "articles/pikobuy-clothing-size-chart",
+        "articles/pikobuy-warehouse-returns"
+      ]
+    },
+    {
+      "slug": "pikobuy-haul-budget",
+      "title": "Baġit għal xiri Pikobuy: għodd l-ispejjeż qabel tixtri",
+      "description": "Ibni baġit realistiku għal Pikobuy billi tissepara prezzijiet, trasport, ħlasijiet possibbli u spejjeż mhux magħrufa, b’eżempju ċar għall-ippjanar.",
+      "intro": "Is-somma tal-prezzijiet fl-ispreadsheet hija biss il-bidu tal-baġit tax-xiri tiegħek minn Pikobuy. Stima utli turi liema spejjeż huma magħrufa, liema jiddependu fuq il-pakkett lest u liema għad iridu jiġu ċċekkjati. Turi wkoll jekk hemmx spazju biżżejjed għall-inċertezza. Il-metodu li ġej huwa folja għall-ippjanar, mhux kwotazzjoni jew dikjarazzjoni dwar il-ħlasijiet attwali ta’ Pikobuy.",
+      "sections": [
+        {
+          "id": "separate-stages",
+          "heading": "1. Issepara x-xiri mill-pakkett",
+          "paragraphs": [
+            "Il-proċess ippubblikat ta’ Pikobuy jissepara l-ħlas għax-xiri mill-ħlas għat-trasport internazzjonali. Irrifletti dik id-distinzjoni fil-baġit. Parti waħda tirreġistra x’għandek bżonn biex takkwista l-prodotti magħżula; oħra tirreġistra x’jista’ jiswa biex il-pakkett jasal għandek.",
+            "Ibda bil-kwantitajiet u l-varjanti eżatti. Prezz baxx muri jista’ jkun għal varjant differenti minn dak li trid tordna. Irreġistra data tal-kwotazzjoni u munita ma’ kull ammont. Dan jgħinek tidentifika għaliex il-baġit jinbidel meta jinbidel prodott, varjant jew konverżjoni tal-munita."
+          ]
+        },
+        {
+          "id": "capture-item-costs",
+          "heading": "2. Elenka l-ħlasijiet marbuta max-xiri",
+          "paragraphs": [
+            "Oħloq linji separati għall-prodotti, kwalunkwe ħlas tat-twassil domestiku muri, u kwalunkwe ħlas ta’ servizz jew pagament li jidher fit-tranżazzjoni tiegħek. Iddaħħalx ħlas għax xerrej ieħor ħallsu, u tassumix li ħlas mhux elenkat huwa żero.",
+            "Jekk diversi oġġetti jaqsmu ħlas wieħed ta’ twassil, tgħoddux għal kull ringiela. Min-naħa l-oħra, xiri minn bejjiegħa differenti jista’ ma jaqsamx l-istess ħlas. Żomm biżżejjed dettall biex tirrikonċilja l-folja mal-ammont mitlub. Total pulit huwa inqas utli minn tabella ftit itwal li tista’ tispjega."
+          ]
+        },
+        {
+          "id": "estimate-freight",
+          "heading": "3. Irreġistra l-assunzjonijiet tat-trasport",
+          "paragraphs": [
+            "Qis stima bikrija tat-trasport bħala xenarju. Irreġistra d-destinazzjoni, it-tip ta’ prodott, il-piż ippakkjat u d-dimensjonijiet assunti, imbagħad żomm id-data u l-kundizzjonijiet tar-rotta ħdejn l-ammont. Jekk jinbidlu dawn l-inputs, in-numru ta’ qabel jista’ ma jibqax paragun utli.",
+            "Tqassamx stima ta’ pakkett bejn l-oġġetti u mbagħad tqis dak it-tqassim bħala tariffa tat-trasportatur. Tista’ taqsam figura għall-ippjanar biex tqabbel il-valur personali, iżda l-kwotazzjoni tal-pakkett tikkontrolla l-ħlas. Oġġett goff bi prezz baxx jista’ jeħtieġ ħarsa oħra anki meta s-sehem tiegħu fis-subtotal tal-prodotti jkun żgħir."
+          ]
+        },
+        {
+          "id": "keep-unknowns-visible",
+          "heading": "4. Żomm l-ispejjeż possibbli fid-destinazzjoni viżibbli",
+          "paragraphs": [
+            "Dazji, taxxi, ħlasijiet ta’ mmaniġġjar jew senserija possibbli jistħoqqilhom linja separata. Iċċekkja r-rekwiżiti tad-destinazzjoni u t-termini tal-għażla tat-trasport. Din il-gwida ma tagħtix rata għal ġurisdizzjoni partikolari u ma tassumix li isem ta’ rotta jsolvi kull ħlas.",
+            "Uża mhux magħruf meta ma tkunx stabbilejt l-ammont. Ċellola vojta faċilment tinqara bħala żero. Bl-istess mod, kupun li ma ċċekkjajtx għall-pakkett tiegħek għandu jibqa’ aġġustament possibbli, mhux tfaddil garantit. Ikkonferma l-eliġibbiltà, il-limiti u t-total dovut qabel tuża skont biex tiġġustifika x-xiri."
+          ]
+        },
+        {
+          "id": "worked-budget",
+          "heading": "5. Ibni total ipotetiku għall-ippjanar",
+          "paragraphs": [
+            "Kull valur hawn taħt huwa vvintat u espress f’munita waħda tal-eżempju. It-tabella turi l-kalkolu; mhijiex prezz attwali, rata ta’ trasport jew skeda ta’ ħlasijiet. Innota li s-subtotal aritmetiku għadu mhux komplut għax il-ħlasijiet fid-destinazzjoni ma ġewx stabbiliti.",
+            "F’dan l-eżempju, 120 ikopri l-assunzjonijiet elenkati u r-riżerva magħżula. Ma jistabbilixxix spiża finali li tinkludi kollox. Jekk il-limitu huwa 120, il-linja mhux magħrufa tad-destinazzjoni tfisser li għadu ma ntweriex li x-xiri jidħol f’dak il-limitu."
+          ],
+          "table": {
+            "headers": [
+              "Linja tal-baġit",
+              "Ammont illustrattiv",
+              "Status"
+            ],
+            "rows": [
+              [
+                "Oġġetti magħżula",
+                "60",
+                "Assunzjoni tal-eżempju"
+              ],
+              [
+                "Twassil domestiku",
+                "5",
+                "Assunzjoni tal-eżempju"
+              ],
+              [
+                "Ħlas ta’ servizz muri",
+                "3",
+                "Assunzjoni tal-eżempju"
+              ],
+              [
+                "Stima tal-pakkett internazzjonali",
+                "35",
+                "Assunzjoni tal-eżempju"
+              ],
+              [
+                "Aġġustament tal-munita jew pagament",
+                "2",
+                "Assunzjoni tal-eżempju"
+              ],
+              [
+                "Subtotal ta’ dawn l-assunzjonijiet",
+                "105",
+                "Total aritmetiku biss"
+              ],
+              [
+                "Riżerva personali għall-kontinġenzi",
+                "15",
+                "Marġni magħżul għall-ippjanar"
+              ],
+              [
+                "Ħlasijiet fid-destinazzjoni",
+                "Mhux magħrufa",
+                "Jeħtieġu riċerka separata"
+              ]
+            ]
+          }
+        },
+        {
+          "id": "compare-scenarios",
+          "heading": "6. Qabbel xenarji utli",
+          "paragraphs": [
+            "Uża xenarji biex tittestja l-assunzjonijiet li x’aktarx ibiddlu d-deċiżjoni. Qabbel pakkett b’oġġett goff mhux essenzjali u mingħajru, jew żewġ arranġamenti ta’ pakkjar bl-istess destinazzjoni u tip ta’ prodott. Ibdel fattur wieħed kull darba biex tifhem x’wassal għad-differenza.",
+            "Riżerva personali hija għażla ta’ ppjanar, mhux tbassir li l-ħlasijiet se jogħlew b’dak l-ammont. Stabbilixxiha skont l-inċertezza li fadal u dak li tiflaħ. Jekk żieda żgħira tagħmel ix-xiri mhux affordabbli, naqqas l-għażla qabel timpenja ruħek għall-istadju tal-prodotti."
+          ]
+        },
+        {
+          "id": "reconcile-budget",
+          "heading": "7. Aġġorna l-folja ma’ kull impenn",
+          "paragraphs": [
+            "Ibdel l-istimi b’ammonti kkonfermati hekk kif isiru disponibbli. Żomm l-istima oriġinali ħdejn is-sostituzzjoni jekk trid tifhem liema assunzjonijiet kienu żbaljati. Qabel tibgħat, iċċekkja li l-baġit jinkludi l-oġġetti attwali u l-pakkjar li tlabt.",
+            "Jekk it-total jaqbeż il-limitu, identifika l-inqas xiri fakultattiv utli minflok tiffoka biss fuq l-irħas linja. Ikkunsidra spejjeż biex tbiddel l-ordni qabel tassumi li tista’ tneħħi oġġett b’xejn. Il-folja lesta għandha twieġeb: x’għad irid jitħallas, x’għadu inċert u tista’ tkopri t-tnejn komdu?"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "official-guide",
+        "official-estimate",
+        "official-terms"
+      ],
+      "related": [
+        "shipping",
+        "articles/pikobuy-parcel-weight-dimensions",
+        "articles/pikobuy-spreadsheet-checklist"
+      ]
+    },
+    {
+      "slug": "pikobuy-parcel-weight-dimensions",
+      "title": "Piż u dimensjonijiet tal-pakkett Pikobuy: qabbel l-għażliet tal-ippakkjar",
+      "description": "Qabbel il-piż, id-dimensjonijiet u l-ippakkjar Pikobuy b’eżempju trasparenti, imbagħad iċċekkja r-regoli tar-rotta u l-kwotazzjoni finali qabel tibgħat.",
+      "intro": "Żewġ pakketti bl-istess piż fuq il-miżien jistgħu jokkupaw spazju differenti ħafna. Għalhekk paragun utli tat-trasport jeħtieġ kemm piż kif ukoll dimensjonijiet, flimkien mar-regoli tal-kontijiet tar-rotta disponibbli. L-għan mhuwiex biss li ċċekken il-kaxxa. Huwa li tqabbel pakkjar li jipproteġi l-kontenut, jaqbel mal-ħtiġijiet tiegħek u jipproduċi kwotazzjoni li tifhem.",
+      "sections": [
+        {
+          "id": "define-measurements",
+          "heading": "1. Iddistingwi l-qisien",
+          "paragraphs": [
+            "Il-piż tal-oġġett jiddeskrivi l-prodott waħdu. Il-piż ippakkjat jinkludi l-kontenut u l-materjali tat-tbaħħir. Id-dimensjonijiet tal-pakkett jiddeskrivu l-parti ta’ barra tal-pakkett lest. Rotta tista’ tuża kalkolu volumetriku, piż attwali jew regoli oħra biex tiddetermina l-ħlas.",
+            "Żomm dawn il-valuri separati fin-noti. Li tgħodd il-piżijiet stmati tal-oġġetti ma jistabbilixxix il-piż lest, u li tkejjel kaxxa tal-prodott ma jistabbilixxix id-dimensjonijiet tal-pakkett estern. Staqsi liema figura qed tħares lejha qabel iddaħħalha f’paragun. Inkella, aritmetika preċiża xorta tista’ tagħti riżultat qarrieqi."
+          ]
+        },
+        {
+          "id": "collect-inputs",
+          "heading": "2. Uża inputs konsistenti fil-kalkulatur",
+          "paragraphs": [
+            "Il-kalkulatur pubbliku ta’ Pikobuy jinkludi destinazzjoni, tip ta’ prodott, piż u tliet dimensjonijiet. Żomm dawn l-inputs konsistenti meta tqabbel għażliet. Ikkonverti l-qisien bir-reqqa u żomm l-unitajiet; valur imdaħħal f’ċentimetri meta jirrappreżenta millimetri jbiddel il-kalkolu drastikament.",
+            "Issejvja kull sett ta’ assunzjonijiet mar-riżultat u d-data. Jekk tbiddel id-destinazzjoni, il-klassifikazzjoni tal-prodott jew ir-rotta flimkien mal-pakkjar, m’għadekx tiżola l-effett tal-kaxxa. Dak il-paragun usa’ jista’ jkun utli, iżda semmih b’mod preċiż minflok tattribwixxi kull differenza għall-ippakkjar mill-ġdid."
+          ]
+        },
+        {
+          "id": "illustrative-calculation",
+          "heading": "3. Ifhem kalkolu volumetriku illustrattiv",
+          "paragraphs": [
+            "Il-kalkolu li ġej juża diviżur ivvintat ta’ 5,000 ċentimetru kubu għal kull kilogramma biex juri l-aritmetika. Mhuwiex dikjarazzjoni tar-regola universali ta’ Pikobuy. F’dan l-eżempju, immultiplika t-tliet dimensjonijiet esterni u aqsam ir-riżultat b’5,000.",
+            "Għal kaxxa tal-eżempju ta’ 40 × 30 × 20 cm, il-volum huwa 24,000 ċentimetru kubu u l-piż volumetriku illustrattiv huwa 4.8 kg. Ir-rotta attwali tista’ tispeċifika diviżur, metodu ta’ kejl, minimu jew regola ta’ tqarrib differenti. Aqra dawk it-termini qabel tqis il-kalkolu bħala assunzjoni tal-piż li jitħallas."
+          ]
+        },
+        {
+          "id": "packing-example",
+          "heading": "4. Qabbel żewġ arranġamenti ipotetiċi",
+          "paragraphs": [
+            "Iż-żewġ arranġamenti hawn taħt għandhom piż assunt ta’ 3.2 kg, miżmum kostanti apposta biex jiżola l-effett tal-volum. Id-dimensjonijiet iżgħar huma illustrattivi, mhux dikjarazzjoni li maħżen jista’ jiksebhom għall-oġġetti tiegħek.",
+            "Jekk rotta ipotetika tiċċarġja l-akbar bejn il-piż fuq il-miżien u dak volumetriku qabel it-tqarrib tagħha, dawn l-eżempji jibdew minn 4.8 kg u 3.2 kg rispettivament. Dak il-paragun xorta ma jgħidlekx il-prezz jew jekk it-tieni arranġament huwiex adattat."
+          ],
+          "table": {
+            "headers": [
+              "Arranġament tal-eżempju",
+              "Dimensjonijiet esterni",
+              "Piż volumetriku illustrattiv",
+              "X’għad irid jiġi ċċekkjat"
+            ],
+            "rows": [
+              [
+                "Kaxxi oriġinali f’kartuna esterna",
+                "40 × 30 × 20 cm",
+                "4.8 kg bid-diviżur tal-eżempju",
+                "Kontijiet tar-rotta u protezzjoni"
+              ],
+              [
+                "Arranġament protettiv differenti",
+                "35 × 28 × 16 cm",
+                "Madwar 3.14 kg bid-diviżur tal-eżempju",
+                "Fattibbiltà, immaniġġjar u protezzjoni"
+              ]
+            ]
+          }
+        },
+        {
+          "id": "protect-contents",
+          "heading": "5. Iddeċiedi x’għandu jżomm il-pakkjar",
+          "paragraphs": [
+            "Elenka l-funzjonijiet tal-pakkjar. Oġġett riġidu jista’ jeħtieġ protezzjoni kontra t-tgħaffiġ; borża strutturata tista’ teħtieġ appoġġ biex iżżomm il-forma. Partijiet żgħar iridu jinżammu flimkien biex ma jinfirdux mill-oġġett prinċipali. Il-pakkjar oriġinali jista’ jkun importanti wkoll għall-ħażna jew bħala rigal.",
+            "Iċċekkja kull mistoqsija mhux solvuta dwar ritorn qabel titlob li jitneħħew tikketti, siġilli jew pakkjar. Tibdilx rekwiżit magħruf għal tfaddil tat-trasport assunt. Struzzjoni utli ssemmi l-pakkjar li jista’ jinbidel u l-protezzjoni li trid tibqa’, imbagħad titlob konferma tal-arranġament."
+          ]
+        },
+        {
+          "id": "compare-consolidation",
+          "heading": "6. Qabbel għaqda u diviżjoni bir-reqqa",
+          "paragraphs": [
+            "Li tgħaqqad oġġetti jista’ jissimplifika ġarr, iżda d-dimensjonijiet magħquda u t-taħlita ta’ prodotti jistgħu jbiddlu l-għażliet disponibbli. Li taqsamhom jista’ joħloq ħlasijiet addizzjonali jew jeħtieġ pakkjar differenti. L-ebda approċċ mhu awtomatikament irħas.",
+            "Qabbel kwotazzjonijiet kompluti għall-alternattivi attwali u inkludi kull ħlas ta’ mmaniġġjar rilevanti. Żomm id-destinazzjoni u l-aspettattivi tas-servizz komparabbli. Iċċekkja r-restrizzjonijiet u l-kompatibbiltà tal-oġġetti minflok tassumi li kollha jistgħu jivvjaġġaw flimkien. Tqisx il-qsim bħala mod biex tikseb riżultat doganali partikolari; dik hija kwistjoni separata taħt ir-regoli applikabbli u l-ġarr attwali."
+          ]
+        },
+        {
+          "id": "confirm-final-quote",
+          "heading": "7. Ikkonferma l-pakkett lest",
+          "paragraphs": [
+            "Qabel tħallas, qabbel il-lista finali tal-oġġetti, il-qisien ippakkjati u l-istruzzjonijiet ta’ mmaniġġjar mal-verżjoni li evalwajt. Iċċekkja l-kalkolu tar-rotta u kull tqarrib jew ħlas addizzjonali li jaffettwa t-total. Issejvja l-kwotazzjoni u l-għażliet li aċċettajt.",
+            "Jekk ir-riżultat ivarja ħafna mill-istima, identifika x’inbidel qabel tapprovah. Il-kawża tista’ tkun pakkett estern akbar, kontenut differenti jew kundizzjoni tar-rotta. Li taġġorna l-baġit kollu f’dan il-punt iżomm għażla teknikament tajba marbuta mal-mistoqsija prattika jekk il-ġarr għadux jaqbel mal-ħtiġijiet tiegħek."
+          ]
+        }
+      ],
+      "sourceIds": [
+        "official-estimate",
+        "official-guide",
+        "official-contact"
+      ],
+      "related": [
+        "shipping",
+        "articles/pikobuy-haul-budget",
+        "articles/pikobuy-warehouse-returns"
+      ]
+    },
+    {
+      "slug": "pikobuy-shoe-sizing",
+      "title": "Daqsijiet taż-żraben Pikobuy: qabbel tul tas-sieq, tikketti u suletti",
+      "description": "Iċċekkja d-daqsijiet taż-żraben Pikobuy billi tissepara tul tas-sieq, kejl tas-suletta u tikketti, imbagħad uża evidenza ċara biex issolvi dubju dwar il-qagħda.",
+      "intro": "Biex tagħżel daqs ta’ żarbun minn sejba Pikobuy, ma biżżejjedx tqabbel in-numru li normalment tixtri. It-tikketta hija parti waħda mir-rekord; il-metodu tal-kejl tal-bejjiegħ, il-forma tal-mudell u l-evidenza għall-par magħżul huma rilevanti wkoll. Din il-gwida tgħinek tqabbel dawk ir-referenzi mingħajr ma tqis tul tas-sieq, tul tas-suletta u tul tal-qiegħ estern bħala qisien interkambjabbli.",
+      "sections": [
+        {
+          "id": "identify-option",
+          "heading": "1. Identifika l-varjant eżatt taż-żarbun",
+          "paragraphs": [
+            "Issejvja r-referenza tal-mudell jew tal-prodott, il-varjant magħżul u s-sistema tad-daqs fil-paġna. Numru bit-tikketta EU, UK jew US jeħtieġ il-kuntest tiegħu. Jekk hemm tabelli differenti għal stili differenti, ehmeż it-tabella t-tajba mal-varjant tiegħek.",
+            "Iċċekkja l-għażla importata mas-sors qabel tħallas. Numru familjari xorta jista’ jkun għal sistema jew verżjoni ħażina. Tużax id-daqs normali ta’ xerrej ieħor biex issolvi differenza mhux ċara. L-ewwel stabbilixxi x’jgħid il-bejjiegħ li tfisser l-għażla, imbagħad iddeċiedi jekk l-evidenza tappoġġjax il-qagħda mixtieqa."
+          ]
+        },
+        {
+          "id": "measure-feet",
+          "heading": "2. Ibni kejl konsistenti tas-saqajn",
+          "paragraphs": [
+            "Kejjel iż-żewġ saqajn b’metodu wieħed li tista’ tirrepeti, bl-istess pożizzjoni u kundizzjonijiet. Irreġistra r-riżultat akbar minflok tassumi li huma identiċi. Żomm l-unità u l-metodu biex tqabbilhom mal-istruzzjonijiet tal-bejjiegħ, minflok tiftakar biss numru mqarreb.",
+            "It-tul tas-sieq huwa punt tat-tluq għal mistoqsija dwar daqs, mhux tweġiba sħiħa. Wisa’, forma tas-swaba’ u kalzetti ppjanati jistgħu jaffettwaw l-ispazju meħtieġ. Jekk il-bejjiegħ jipprovdi metodu, aqrah bir-reqqa qabel tqabbel. Tissostitwixxihx fis-skiet b’metodu ieħor għax jagħti daqs aktar konvenjenti."
+          ]
+        },
+        {
+          "id": "separate-lengths",
+          "heading": "3. Iddistingwi t-tulijiet differenti",
+          "paragraphs": [
+            "Kejl tas-sieq jiddeskrivi lill-persuna. Kejl tas-suletta jiddeskrivi komponent li jista’ jkollu kurvi, truf għoljin jew forma li ma tikkorrispondix direttament għall-ispazju użabbli. Kejl intern jipprova jiddeskrivi l-ispazju ġewwa ż-żarbun. Kejl tal-qiegħ estern jinkludi l-istruttura ta’ barra.",
+            "Ikteb it-tip ta’ kejl ħdejn kull numru. Żewġ figuri f’ċentimetri mhux bilfors huma komparabbli. Qiegħ estern itwal ma jistabbilixxix li sieqek tidħol, u ritratt ta’ suletta jeħtieġ metodu ċar qabel iwieġeb mistoqsija dwar daqs. Staqsi x’tkejjel, minn fejn sa fejn, qabel tinterpreta r-riżultat."
+          ]
+        },
+        {
+          "id": "consider-shape",
+          "heading": "4. Ikkunsidra l-forma u l-użu intenzjonat",
+          "paragraphs": [
+            "Ikkunsidra l-forma ta’ żraben li diġà ssib komdi, filwaqt li tagħraf li mudell differenti jista’ jaġixxi differenti. Żona dejqa tas-swaba’ tista’ tkun importanti anki meta t-tul jidher adattat. Kalzetta ħoxna tista’ wkoll tibdel kemm fadal spazju.",
+            "Evita li ssolvi kull tħassib billi tagħżel daqs itwal. Tul żejjed jista’ ma jsolvix problema ta’ wisa’ u jista’ joħloq problema oħra. Identifika l-inċertezza reali, bħall-wisa’ ta’ quddiem jew id-definizzjoni tat-tul mill-bejjiegħ, u staqsi dwarha. Jekk ix-xiri jiddependi fuq prestazzjoni jew appoġġ li ma jistgħux jiġu stabbiliti mill-bogħod, ritratt waħdu ma jsolvix dan."
+          ]
+        },
+        {
+          "id": "mismatch-example",
+          "heading": "5. Solvi differenza ipotetika fit-tikketti",
+          "paragraphs": [
+            "Immaġina li tabella oriġinali ssejvjata torbot varjant ma’ firxa ta’ tul tas-sieq, iżda l-għażla importata turi tikketta differenti. Dan l-eżempju apposta ma jagħtix konverżjoni numerika: l-ewwel kompitu huwa li tistabbilixxi l-identità, mhux tagħżel l-aktar numru familjari."
+          ],
+          "table": {
+            "headers": [
+              "Rekord",
+              "X’juri",
+              "Kontroll utli li jmiss"
+            ],
+            "rows": [
+              [
+                "Paġna oriġinali",
+                "Varjant A b’firxa ta’ tul tas-sieq",
+                "Issejvja t-tabella u t-test eżatt tal-varjant"
+              ],
+              [
+                "Għażla importata",
+                "Tikketta tad-daqs differenti",
+                "Staqsi jekk tikkorrispondix għall-varjant A"
+              ],
+              [
+                "Stampa tal-maħżen",
+                "Tikketta li tinqara fuq żarbuna waħda",
+                "Iċċekkja t-tieni żarbuna u l-varjant ikkonfermat"
+              ],
+              [
+                "Ritratt tal-kejl",
+                "Tul mingħajr punti ċari",
+                "Iċċara jekk hux tul tas-suletta, intern jew tal-qiegħ estern"
+              ]
+            ]
+          },
+          "list": [
+            "Tiddeduċix ekwivalenza minn tikketti simili biss.",
+            "Żomm it-tweġiba li tispjega l-korrispondenza.",
+            "Waqqaf jekk il-varjant jibqa’ ambigwu."
+          ]
+        },
+        {
+          "id": "request-pair-evidence",
+          "heading": "6. Iċċekkja l-evidenza għall-par attwali",
+          "paragraphs": [
+            "Meta tirrevedi l-istampi tal-maħżen, għaqqad it-tikketti viżibbli mal-ordni magħżula. Iċċekkja ż-żewġ żraben meta dan ikun importanti. Jekk hemm bżonn kejl, speċifika d-dimensjoni u żgura li l-istampa turi l-punti rilevanti u skala li tinqara.",
+            "Staqsi dwar il-kejl mingħajr ma tassumi li l-oġġett jista’ jiġi mmaniġġjat b’kull mod. It-tneħħija ta’ komponent tista’ ma tkunx xierqa jew disponibbli, u komponent mgħawweġ jista’ jkun diffiċli biex jitkejjel b’mod konsistenti. L-ewwel għid il-mistoqsija u kkonferma l-metodu disponibbli. L-għan huwa evidenza interpretabbli, mhux numru apparentement preċiż minn proċedura mhux ċara."
+          ]
+        },
+        {
+          "id": "decide-next-step",
+          "heading": "7. Iddeċiedi dwar il-qagħda b’limiti ċari",
+          "paragraphs": [
+            "Irreġistra jekk l-evidenza hijiex konsistenti, mhux kompluta jew kontradittorja. Evidenza konsistenti tista’ tiġġustifika li tkompli, iżda ma tiggarantix kumdità. Mistoqsija bla tweġiba għandha twassal għal talba speċifika ta’ kjarifika, mhux assunzjoni ottimista.",
+            "Jekk il-varjant li wasal jidher ħażin jew l-evidenza tad-daqs tikkontradixxi l-ordni, iddiskuti minnufih u iċċekkja l-kundizzjonijiet tar-ritorn. Żomm tikketti, siġilli u pakkjar intatti waqt li tiċċara l-pass li jmiss. Meta d-deċiżjoni tad-daqs tkun solvuta, evalwa l-kaxxa taż-żraben u l-pakkjar separatament biex preferenza tat-trasport ma tiddeċidix il-qagħda."
+          ]
+        }
+      ],
+      "sourceIds": [
+        "official-guide",
+        "official-returns"
+      ],
+      "related": [
+        "spreadsheet",
+        "articles/pikobuy-qc-measurements",
+        "articles/pikobuy-parcel-weight-dimensions"
+      ]
+    },
+    {
+      "slug": "pikobuy-bag-dimensions",
+      "title": "Basktijiet Pikobuy: iċċekkja kapaċità, ċineg u kostruzzjoni",
+      "description": "Qabbel basktijiet Pikobuy skont ftuħ użabbli, qisien interni, ċineg u kostruzzjoni viżibbli, b’eżempju prattiku biex tiċċekkja x’tista’ ġġorr borża.",
+      "intro": "Borża tista’ tidher kbira f’ritratt tal-prodott u xorta ma ġġorrx l-oġġett li għandek bżonn. Wisa’ esterna, ftuħ użabbli u forma interna jwieġbu mistoqsijiet differenti. Qabel tagħżel bejn basktijiet Pikobuy, iddefinixxi x’trid iġġorr u kif se tilbisha. Dan jagħmel id-dimensjonijiet u r-ritratti tal-ispezzjoni utli mingħajr ma tippretendi li jippruvaw durabilità fit-tul jew kompożizzjoni tal-materjal.",
+      "sections": [
+        {
+          "id": "define-contents",
+          "heading": "1. Ibda b’dak li jrid jidħol",
+          "paragraphs": [
+            "Elenka l-oġġetti li tistenna li ġġorr flimkien. Kejjel l-akbar oġġett riġidu, inkluż il-kaxxa jew il-kisi li normalment tuża. Laptop f’kisi ikkuttunat jeħtieġ aktar spazju minn apparat mikxuf, u flixkun jista’ jeħtieġ għoli intern differenti minn notebook ċatt.",
+            "Iddeċiedi liema oġġetti huma essenzjali u liema fakultattivi. Jekk il-borża ma tieħux oġġett essenzjali, dettalji tal-metall sbieħ ma jsolvux il-problema. Ikkunsidra wkoll l-aċċess: li ddaħħal oġġett bi sforz huwa differenti milli toħorġu b’mod konvenjenti kuljum."
+          ]
+        },
+        {
+          "id": "separate-dimensions",
+          "heading": "2. Issepara d-daqs estern mill-ispazju użabbli",
+          "paragraphs": [
+            "Id-dimensjonijiet esterni jiddeskrivu l-kontorn kollu tal-borża. L-ispazju intern jista’ jitnaqqas b’ikkuttunar, ħjatat, kompartimenti u kantunieri mgħawġa. Il-ftuħ jista’ jkun idjaq minħabba l-għeluq jew il-kostruzzjoni.",
+            "Irreġistra liema kejl tipprovdi kull paġna. Tiktibx wisa’ esterna bħala kapaċità użabbli fin-noti. Għal oġġett riġidu, qabbel il-ftuħ u d-dimensjonijiet interni rilevanti, inkluż il-fond meta meħtieġ. Jekk hemm biss stampa dekorattiva għall-iskala, itlob kejl taż-żona li tillimita d-dħul minflok tistma ċentimetri minn id jew ġisem ta’ persuna mhux magħrufa."
+          ]
+        },
+        {
+          "id": "check-carrying",
+          "heading": "3. Iċċekkja ċ-ċineg u l-pożizzjoni tal-ġarr",
+          "paragraphs": [
+            "It-tul totali ta’ ċinga u d-distanza li l-borża tinżel taħt spallek huma qisien differenti. Aqra l-metodu u iċċekkja jekk il-firxa ta’ aġġustament tinkludix il-mod kif trid iġġorrha. L-ispazju taħt il-manku jista’ jkun importanti jekk trid tilbes il-borża fuq kowt.",
+            "Ara kif tinqabad iċ-ċinga u jekk tistax titneħħa jew hijiex fissa, jekk dan jaffettwa l-użu. Tiddeduċix firxa ta’ aġġustament minn ritratt ta’ pożizzjoni waħda. Żomm il-mistoqsija prattika: iċ-ċinga tista’ tiġi aġġustata għat-tul meħtieġ u r-rekord jiddeskrivi dak it-tul b’mod ċar?"
+          ]
+        },
+        {
+          "id": "inspect-details",
+          "heading": "4. Irrevedi l-kostruzzjoni viżibbli u l-kontenut",
+          "paragraphs": [
+            "Uża ritratti biex tiċċekkja żoni rilevanti għall-funzjoni: ħjatat, punti tat-twaħħil, inforra, allinjament tal-għeluq u ftuħ. Iċċekkja jekk ċineg li jitneħħew jew aċċessorji reklamati humiex inklużi fil-varjant magħżul. Stampa tagħhom xi mkien ieħor fil-paġna ma tistabbilixxix x’jinkludi l-varjant tiegħek.",
+            "Issepara osservazzjoni viżibbli minn dikjarazzjoni ta’ prestazzjoni. Ritratt jista’ juri ħjata jew bokkla; ma jistabbilixxix tagħbija sigura jew durabilità b’użu ripetut. Id-dehra waħedha lanqas ma tidentifika l-kompożizzjoni. Jekk materjal speċifiku huwa essenzjali, fittex informazzjoni xierqa dwar il-prodott u rreġistra s-sors tagħha."
+          ]
+        },
+        {
+          "id": "capacity-example",
+          "heading": "5. Qabbel żewġ basktijiet ipotetiċi",
+          "paragraphs": [
+            "Ejja ngħidu li l-oġġett riġidu essenzjali tiegħek huwa wiesa’ 30 cm u għoli 22 cm. Dawn id-dimensjonijiet ivvintati juru għaliex l-akbar kejl estern mhuwiex biżżejjed. L-ebda kandidat mhu rakkomandazzjoni ta’ prodott, u l-eżempju jħalli l-fond u l-kumdità tal-ġarr biex jiġu ċċekkjati separatament.",
+            "Borża B jistħoqqilha aktar riċerka minkejja wisa’ esterna iżgħar. Tinterpretax id-differenza ta’ 1 cm fil-ftuħ bħala garanzija ta’ dħul komdu: truf tondi, ikkuttunar u l-angolu tad-dħul xorta jistgħu jaffettwaw. Qagħda stretta teħtieġ evidenza aħjar minn paragun ġenerali."
+          ],
+          "table": {
+            "headers": [
+              "Dimensjoni",
+              "Borża A tal-eżempju",
+              "Borża B tal-eżempju"
+            ],
+            "rows": [
+              [
+                "Wisa’ esterna",
+                "35 cm",
+                "33 cm"
+              ],
+              [
+                "Wisa’ użabbli tal-ftuħ",
+                "28 cm",
+                "31 cm"
+              ],
+              [
+                "Għoli intern",
+                "25 cm",
+                "23 cm"
+              ],
+              [
+                "Konklużjoni inizjali",
+                "Il-ftuħ huwa idjaq mill-oġġett",
+                "Ta’ min tiċċekkja l-fond, il-forma tal-ftuħ u l-aċċess"
+              ]
+            ]
+          }
+        },
+        {
+          "id": "plan-packing",
+          "heading": "6. Ikkunsidra l-forma u l-protezzjoni tal-pakkett",
+          "paragraphs": [
+            "Borża strutturata tista’ teħtieġ appoġġ biex ma titgħaffiġx, filwaqt li ċineg laxki u aċċessorji żgħar iridu jinżammu flimkien. Identifika l-partijiet vulnerabbli u l-forma li tistenna li żżomm. Spjega dawk il-ħtiġijiet meta tiddiskuti l-pakkjar minflok titlob l-iżgħar pakkett possibbli mingħajr kwalifika.",
+            "Żomm id-deċiżjoni tal-prodott separata minn dik tat-trasport. Prezz baxx tal-oġġett ma jurix il-kost ta’ pakkett protett, u pakkett iżgħar mhuwiex awtomatikament adattat. Qabbel il-qisien u l-kwotazzjoni tal-pakkjar lest meta jkunu disponibbli. Jekk hemm mistoqsija dwar ritorn mhux solvuta, ċċaraha qabel titlob tibdil fil-pakkjar."
+          ]
+        },
+        {
+          "id": "record-bag-decision",
+          "heading": "7. Agħmel il-mistoqsija nieqsa espliċita",
+          "paragraphs": [
+            "Lesti l-paragun b’nota qasira: adattat skont il-qisien disponibbli, pendenti għal kejl speċifiku, jew neħħi għax rekwiżit ifalli. Talba utli tista’ tkun għall-ftuħ użabbli bl-għeluq kompletament miftuħ jew għall-firxa aġġustabbli taċ-ċinga b’punti speċifikati.",
+            "Żomm is-sors, il-varjant u t-tweġiba mal-kandidat. Meta jiġi spezzjonat l-oġġett tiegħek, qabbel l-evidenza ma’ dak ir-rekord. Dan iżomm id-deċiżjoni ffukata fuq x’għandha tagħmel il-borża u jħalli proprjetajiet mhux ivverifikati, bħal xedd fit-tul, kapaċità ta’ tagħbija u awtentiċità tal-materjal, barra mill-konklużjoni."
+          ]
+        }
+      ],
+      "sourceIds": [
+        "official-user-agreement",
+        "official-estimate"
+      ],
+      "related": [
+        "spreadsheet",
+        "articles/pikobuy-qc-measurements",
+        "articles/pikobuy-parcel-weight-dimensions"
+      ]
+    },
+    {
+      "slug": "pikobuy-warehouse-returns",
+      "title": "Ritorni mill-maħżen ta’ Pikobuy: żmien, evidenza u spejjeż",
+      "description": "Ipprepara talba għal ritorn mill-maħżen ta’ Pikobuy bl-istatus tal-ordni, evidenza rilevanti u mistoqsijiet ċari dwar eliġibbiltà, żmien u ħlasijiet.",
+      "intro": "Mistoqsija dwar ritorn mill-maħżen tkun aktar faċli meta tidentifika l-istadju tal-ordni, iżżomm l-oġġett fil-kundizzjoni tiegħu u tispjega l-problema b’mod ċar. Ibda minnufih minflok tistenna ġabra perfetta ta’ ritratti. Din il-gwida indipendenti tgħinek torganizza talba; ma tiddeċidix l-eliġibbiltà, ma twiegħedx approvazzjoni u ma tissostitwixxix il-politika attwali jew it-tweġiba għall-ordni speċifika tiegħek.",
+      "sections": [
+        {
+          "id": "identify-return-stage",
+          "heading": "1. Stabbilixxi fejn jinsab l-oġġett",
+          "paragraphs": [
+            "Iċċekkja jekk il-bejjiegħ bagħatx l-oġġett, jekk jinsabx fil-maħżen jew jekk diġà telaqx f’pakkett internazzjonali. Irreġistra t-test eżatt tal-istatus u l-ħin muri. Stadji differenti jinvolvu mistoqsijiet prattiċi differenti, għalhekk tiddeskrivix kull talba sempliċement bħala rimborż.",
+            "Issejvja r-referenza tal-ordni, il-varjant magħżul u r-rekord tal-ħlas. Jekk hemm diversi oġġetti fl-ordni, identifika dak affettwat preċiżament. Talba dwar biċċa ta’ fuq b’daqs ħażin m’għandhiex tħalli lill-appoġġ jaqta’ jekk tfissirx biċċa oħra fl-istess xiri. Illimita l-informazzjoni għal dak meħtieġ għall-problema."
+          ]
+        },
+        {
+          "id": "check-clock",
+          "heading": "2. Iċċekkja ż-żmien attwali għat-talba",
+          "paragraphs": [
+            "Il-paġna tar-ritorni ta’ Pikobuy tispeċifika perjodu ta’ 120 siegħa għall-applikazzjoni fil-maħżen u eliġibbiltà kundizzjonali. Ikkonferma l-iskadenza preċiża tal-ordni tiegħek fil-proċess attwali jew mal-appoġġ. Screenshot b’data biss mhuwiex biżżejjed biex tikkalkula skadenza eżatta.",
+            "Irreġistra l-ħin u ż-żona tal-ħin murija fl-ordni u żomm il-konferma tat-talba. Jekk m’intix ċert jekk l-oġġett jikkwalifikax, staqsi malajr minflok tassumi li mistoqsija aktar tard ittawwal iż-żmien. Konversazzjoni mal-appoġġ mhijiex evidenza ta’ estensjoni sakemm il-proċess ma jikkonfermahiex espliċitament. Żomm din id-distinzjoni fin-noti."
+          ]
+        },
+        {
+          "id": "preserve-condition",
+          "heading": "3. Ippreserva l-evidenza u l-kundizzjoni",
+          "paragraphs": [
+            "Żomm tikketti, siġilli, pakkjar u aċċessorji intatti waqt li tiġi evalwata l-problema. Titlobx tibdil biss biex ritratt jidher aktar ċar. Jekk spezzjoni teħtieġ ftuħ jew tneħħija ta’ xi ħaġa, staqsi dwar l-effett qabel tkompli.",
+            "Issejvja l-paġna oriġinali, il-varjant, it-tabella rilevanti tad-daqs u r-ritratti li juru t-tħassib. Irreġistra liema stampi huma tal-oġġett tiegħek. Ritratt ta’ xerrej preċedenti jista’ juri l-aspettattiva, iżda t-talba l-aktar ċara tqabbel l-ordni tiegħek mal-evidenza ta’ dak li wasal. Żomm il-fajls oriġinali flimkien ma’ kull annotazzjoni."
+          ]
+        },
+        {
+          "id": "classify-issue",
+          "heading": "4. Iddeskrivi l-problema mingħajr eżaġerazzjoni",
+          "paragraphs": [
+            "Issepara varjant żbaljat, difett viżibbli, kejl inċert u bidla fil-ħsieb. Dawn id-deskrizzjonijiet jispjegaw x’qed titlob lil xi ħadd jevalwa. Uża osservazzjonijiet li tista’ tappoġġa, bħal tikketta li tvarja mid-daqs magħżul, minflok dikjarazzjoni ġenerali li kollox huwa ħażin.",
+            "Il-matriċi li ġejja hija għodda editorjali għall-preparazzjoni, mhux tabella uffiċjali ta’ eliġibbiltà. Turi kif l-evidenza u l-mistoqsija jinbidlu skont il-problema."
+          ],
+          "table": {
+            "headers": [
+              "Problema",
+              "Evidenza biex torganizza",
+              "Mistoqsija biex tistaqsi"
+            ],
+            "rows": [
+              [
+                "Varjant ħażin",
+                "Għażla tal-ordni u tikketta li waslet",
+                "Tista’ tiġi evalwata din id-differenza għal ritorn?"
+              ],
+              [
+                "Ħsara viżibbli",
+                "Post ċar u ritratti taż-żona madwaru",
+                "Liema evidenza hija meħtieġa biex tiġi evalwata l-ħsara?"
+              ],
+              [
+                "Qagħda inċerta",
+                "Tabella oriġinali u kejl li jinqara",
+                "Tista’ tiġi ċċarata d-differenza fil-kejl?"
+              ],
+              [
+                "Bidla fil-ħsieb",
+                "Status u kundizzjoni ppreservata",
+                "Ritorn huwa disponibbli u kemm jiswa?"
+              ]
+            ]
+          }
+        },
+        {
+          "id": "write-request",
+          "heading": "5. Agħmel talba qasira li tista’ tittieħed azzjoni fuqha",
+          "paragraphs": [
+            "Ibda bir-referenza tal-ordni u l-oġġett affettwat. Iddeskrivi l-problema f’sentenza jew tnejn, imbagħad identifika l-istampi ta’ appoġġ. Għid ir-riżultat mixtieq filwaqt li tħalli lok għall-proċedura u d-deċiżjoni reali tal-eliġibbiltà.",
+            "Pereżempju: l-ordni tiegħi għażlet il-verżjoni blu, iżda t-tikketta u r-ritratti tal-maħżen jidhru li juru iswed. Ehmeżt l-għażla u l-istampi tal-oġġett li wasal. Jekk jogħġbok ikkonferma jekk il-varjant huwiex żbaljat u jekk nistax nitlob ritorn mill-maħżen. Dan huwa eżempju oriġinali ta’ kliem, mhux wegħda ta’ approvazzjoni."
+          ]
+        },
+        {
+          "id": "confirm-costs",
+          "heading": "6. Itlob l-ispiża kompluta qabel tkompli",
+          "paragraphs": [
+            "Ħlasijiet tar-ritorn jistgħu jaffettwaw jekk talba għal bidla fil-ħsieb tagħmilx sens prattiku. Itlob il-komponenti u t-total li japplikaw għall-oġġett tiegħek, inklużi ħlasijiet ta’ trasport jew servizz. Tikkalkulax ir-riżultat mill-esperjenza ta’ klijent ieħor.",
+            "Il-paġna uffiċjali għandha kliem inkonsistenti dwar il-ħlas tat-trasport oriġinali, għalhekk itlob kjarifika għall-ordni tiegħek. Irreġistra l-ispiża kkwotata, min taha u kull kundizzjoni. Jekk jiġi diskuss rimborż mistenni, iddistingwi l-ammont tal-prodott minn ħlasijiet li jistgħu jibqgħu dovuti. Tassumix li l-ammont kollu mħallas oriġinarjament se jingħata lura."
+          ]
+        },
+        {
+          "id": "follow-case",
+          "heading": "7. Segwi l-każ b’rekord ċar",
+          "paragraphs": [
+            "Żomm kronoloġija qasira tat-talba, il-konfermi, l-evidenza addizzjonali u d-deċiżjonijiet. Wieġeb fil-każ eżistenti fejn xieraq biex il-kuntest jibqa’ flimkien. Jekk l-appoġġ jitlob dettall nieqes, wieġeb direttament minflok terġa’ tibda d-deskrizzjoni tax-xiri kollu.",
+            "Qabel tawtorizza pass, iċċekkja li jirreferi għall-oġġett korrett u s-soluzzjoni li tifhem. Żomm konferma ta’ dak aċċettat u dak li għadu pendenti. Talba sottomessa, tweġiba tal-bejjiegħ u rimborż komplut huma avvenimenti differenti. Irreġistrahom separatament biex issegwi r-riżultat mingħajr ma tħawwad progress ma’ tlestija."
+          ]
+        }
+      ],
+      "sourceIds": [
+        "official-returns",
+        "official-contact"
+      ],
+      "related": [
+        "qc",
+        "articles/pikobuy-qc-measurements",
+        "articles/pikobuy-haul-budget"
+      ]
+    },
+    {
+      "slug": "pikobuy-tracking-not-updating",
+      "title": "It-traċċar ta’ Pikobuy mhux qed jaġġorna? Iċċekkja l-istadju u l-pass li jmiss",
+      "description": "Sib għaliex it-traċċar ta’ Pikobuy ma jaġġornax billi tidentifika l-istadju tal-ġarr, taqra l-evidenza disponibbli u tipprepara talba utli għall-appoġġ.",
+      "intro": "Meta t-traċċar ta’ Pikobuy jidher wieqaf, l-ewwel stabbilixxi liema moviment qed tipprova ssegwi. It-twassil mill-bejjiegħ sal-maħżen u l-pakkett internazzjonali ta’ wara huma stadji separati. Rekord ta’ ordni, referenza ta’ pakkett u numru ta’ traċċar tat-trasportatur jistgħu wkoll iwieġbu mistoqsijiet differenti. Pass utli jiddependi fuq l-aħħar avveniment li tista’ tikkonferma, mhux fuq kemm għaddew jiem mill-ewwel ħlas tal-prodott.",
+      "sections": [
+        {
+          "id": "identify-shipment",
+          "heading": "1. Identifika l-moviment li qed issegwi",
+          "paragraphs": [
+            "Ikteb jekk qed tistenna lill-bejjiegħ jibgħat oġġett, l-ipproċessar fil-maħżen jew pakkett internazzjonali. Żomm ir-referenza rilevanti ħdejn dak l-istadju. Tassumix li numru marbut ma’ moviment wieħed isegwi l-ieħor.",
+            "Jekk għandek diversi prodotti, issepara l-progress ta’ oġġett individwali minn dak ta’ pakkett b’ħafna oġġetti. It-tluq ta’ prodott minn bejjiegħ wieħed ma jfissirx li l-kontenut kollu tal-pakkett tiegħek huwa lest. Uża r-rekords attwali biex tifhem x’ġie sottomess minflok tirrikostruwixxi l-proċess mill-memorja."
+          ]
+        },
+        {
+          "id": "locate-dispatch",
+          "heading": "2. Sib l-avveniment tat-tluq internazzjonali",
+          "paragraphs": [
+            "Il-gwida ta’ Pikobuy torbot id-dikjarazzjoni tagħha ta’ tlett ijiem għat-traċċar mat-tluq tal-pakkett. Dak il-punt tat-tluq huwa importanti. Ħlas tal-prodott, wasla fil-maħżen u sottomissjoni tal-pakkett mhumiex awtomatikament l-istess avveniment bħat-tluq internazzjonali.",
+            "Iċċekkja d-data tat-tluq irreġistrata qabel tqabbel is-sitwazzjoni mal-gwida. Jekk ir-rekord ma jurix ċar li telaq, itlob kjarifika minflok tqis scan nieqes bħala dewmien tat-trasportatur. Żomm it-tweġiba mar-rekord tal-pakkett. Id-dikjarazzjoni hija dwar disponibbiltà tat-traċċar; ma tagħtix data ta’ wasla garantita jew dijanjosi tal-kawża ta’ waqfa partikolari."
+          ]
+        },
+        {
+          "id": "read-event-type",
+          "heading": "3. Aqra x’jgħid verament l-aħħar avveniment",
+          "paragraphs": [
+            "Rekord li jeżistu tikketta jew informazzjoni dwar il-ġarr huwa differenti minn evidenza li trasportatur aċċetta l-pakkett fiżikament. Avvenimenti ta’ wara jistgħu jiddeskrivu pproċessar, trasferiment, tentattiv ta’ twassil jew azzjoni oħra. Aqra t-test sħiħ u l-ħin tiegħu minflok tiddependi biss fuq bar ikkulurit.",
+            "Tinterpretax kliem mhux familjari fi status bħala dikjarazzjoni aktar b’saħħitha milli tappoġġa. Jekk l-avveniment isemmi sieħeb jew trasportatur ieħor, innota dan u ara jekk hemmx referenza rilevanti. Tassumix li glossarju ġeneriku fuq l-internet jiddefinixxi t-tifsira eżatta ta’ kull messaġġ fil-ġarr tiegħek."
+          ]
+        },
+        {
+          "id": "build-timeline",
+          "heading": "4. Ibni kronoloġija qasira tal-evidenza",
+          "paragraphs": [
+            "Reġistru sempliċi jgħinek tiddistingwi avveniment mhux mibdul minn wieħed ġdid bi kliem simili. Ikkopja l-kliem preċiżament, żomm il-ħin muri u nnota minn fejn ġibtu. Dan li ġej huwa format ipotetiku, mhux storja ta’ pakkett reali jew dizzjunarju uffiċjali tal-istatus."
+          ],
+          "table": {
+            "headers": [
+              "Avveniment f’rekord tal-eżempju",
+              "X’tista’ tikkonkludi",
+              "X’għadu mhux magħruf"
+            ],
+            "rows": [
+              [
+                "Sottomissjoni tal-pakkett irreġistrata",
+                "Azzjoni ta’ sottomissjoni tidher",
+                "Jekk sarx it-tluq"
+              ],
+              [
+                "Tluq irreġistrat",
+                "Il-pjattaforma tirrapporta t-tluq",
+                "Jekk hemmx scan tat-trasportatur"
+              ],
+              [
+                "Informazzjoni tal-ġarr irċevuta",
+                "Informazzjoni elettronika hija rreġistrata",
+                "Jekk aċċettazzjoni fiżika hijiex ikkonfermata"
+              ],
+              [
+                "Aċċettazzjoni tat-trasportatur irreġistrata",
+                "Jidher avveniment ta’ aċċettazzjoni",
+                "Id-data finali tat-twassil"
+              ],
+              [
+                "Eċċezzjoni tat-twassil irreġistrata",
+                "Problema teħtieġ interpretazzjoni",
+                "Il-kawża u l-azzjoni meħtieġa sakemm tiġi ċċarata"
+              ]
+            ]
+          }
+        },
+        {
+          "id": "choose-next-action",
+          "heading": "5. Agħżel l-azzjoni skont l-evidenza nieqsa",
+          "paragraphs": [
+            "Jekk m’hemmx referenza ta’ pakkett internazzjonali, ibda mir-rekord tal-pjattaforma. Jekk it-tluq huwa rreġistrat iżda t-traċċar ma deherx fiż-żmien tal-gwida ppubblikata, staqsi lil Pikobuy dwar dak il-pakkett. Jekk hemm avveniment tat-trasportatur iżda ma jinbidilx, żomm l-aħħar avveniment ikkonfermat u iċċekkja l-informazzjoni tas-servizz.",
+            "Għal problema ta’ indirizz jew twassil, aqra bir-reqqa kull azzjoni mitluba u vverifikaha permezz tal-kanal leġittimu tat-trasportatur jew tal-pjattaforma. Perjodu bla aġġornamenti ma jipprovax telf waħdu, u stima rassiguranti ma tipprovax progress. Iffoka l-mistoqsija fuq liema evidenza jew azzjoni hija nieqsa."
+          ]
+        },
+        {
+          "id": "prepare-ticket",
+          "heading": "6. Ibgħat id-dettalji utli lill-appoġġ",
+          "paragraphs": [
+            "Inkludi r-referenza tal-pakkett, id-data tat-tluq jekk tidher, it-trasportatur u n-numru tat-traċċar, l-aħħar avveniment u l-ħin tiegħu. Żid screenshot jekk jgħin biex iżomm kliem li jista’ jinbidel. Għid il-mistoqsija li trid titwieġeb, bħal jekk il-konsenja lit-trasportatur hijiex ikkonfermata.",
+            "Eżempju qasir: dan il-pakkett juri tluq fid-data rreġistrata, iżda ma nsibx avveniment ta’ aċċettazzjoni tat-trasportatur. It-test attwali tat-traċċar huwa mehmuż. Jekk jogħġbok ikkonferma l-aħħar moviment ivverifikat u jekk għandi nieħu xi azzjoni. Uża l-paġna uffiċjali ta’ Kuntatt ta’ Pikobuy; dan is-sit indipendenti ma jistax jispezzjona l-ġarr privat tiegħek."
+          ]
+        },
+        {
+          "id": "close-record",
+          "heading": "7. Żomm ir-rekord sat-twassil",
+          "paragraphs": [
+            "Aġġorna r-reġistru meta jasal avveniment sinifikanti u tqisx kontrolli ripetuti tal-istess paġna bħala evidenza ġdida. Żomm kull struzzjoni jew tweġiba li tbiddel l-azzjoni mistennija. Jekk tingħata skadenza jew pass ta’ eskalazzjoni għall-każ tiegħek, irreġistrah espliċitament.",
+            "Meta jasal il-pakkett, qabbel il-kontenut mal-lista tal-oġġetti u r-rekord tal-ispezzjoni. Żomm il-pakkjar u t-tikketti rilevanti waqt li tkun qed tiġi ċċarata kwalunkwe differenza. Tlestija tat-traċċar u kontroll sodisfaċenti tal-kontenut huma osservazzjonijiet separati. Rekord ċar jgħinek tispjega problema ta’ twassil jew ta’ oġġett mingħajr ma tħallathom."
+          ]
+        }
+      ],
+      "sourceIds": [
+        "official-guide",
+        "official-contact"
+      ],
+      "related": [
+        "shipping",
+        "guide",
+        "faq"
+      ]
+    }
+  ]
+}

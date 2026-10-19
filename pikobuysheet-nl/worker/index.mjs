@@ -8,6 +8,10 @@ export default {async fetch(request){
   if(!path.endsWith('/')&&assets[path+'/index.html']){url.pathname+='/';return Response.redirect(url,308);}
   const headers={'Content-Type':file.type,'Cache-Control':path.startsWith('/_astro/')?'public,max-age=31536000,immutable':'public,max-age=60','X-Content-Type-Options':'nosniff','Referrer-Policy':'strict-origin-when-cross-origin'};
   if(url.hostname!=='pikobuysheet.nl'||url.search)headers['X-Robots-Tag']='noindex, follow';
+  if(request.method==='HEAD')return new Response(null,{headers});
   const bytes=file.binary?Uint8Array.from(atob(file.data),c=>c.charCodeAt(0)):file.data;
-  return new Response(request.method==='HEAD'?null:bytes,{headers});
+  // Compress at build time to keep hundreds of localized HTML pages economical.
+  // Decode before responding; the hosting layer negotiates wire compression.
+  const body=file.gzip?new Blob([bytes]).stream().pipeThrough(new DecompressionStream('gzip')):bytes;
+  return new Response(body,{headers});
 }};

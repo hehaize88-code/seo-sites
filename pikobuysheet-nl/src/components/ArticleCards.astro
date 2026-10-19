@@ -1,0 +1,8 @@
+---
+import {editorial} from '../lib/editorial.mjs';
+import {pathFor} from '../lib/i18n.mjs';
+const {lang,limit=10,heading='h2'}=Astro.props;
+const {articles,ui}=editorial(lang);
+const Heading=heading;
+---
+<div class="article-cards">{articles.slice(0,limit).map((article,index)=><article class="article-card"><div class="article-card-top"><span>{String(index+1).padStart(2,'0')}</span><span aria-hidden="true">↗</span></div><Heading><a href={pathFor(lang,'articles/'+article.slug)}>{article.title}</a></Heading><p>{article.description}</p><a class="article-read" href={pathFor(lang,'articles/'+article.slug)}>{ui.readArticle}<span aria-hidden="true"> →</span></a></article>)}</div>

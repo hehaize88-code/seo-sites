@@ -1,0 +1,6 @@
+---
+import {editorial,sourceById} from '../lib/editorial.mjs';
+const {lang}=Astro.props;
+const {faq,ui}=editorial(lang);
+---
+<div class="faq-list">{faq.map((item,index)=><details id={item.id}><summary><span class="faq-number">{String(index+1).padStart(2,'0')}</span><span>{item.question}</span><span class="faq-toggle" aria-hidden="true">+</span></summary><div class="faq-answer"><p>{item.answer}</p><div class="faq-sources">{item.sourceIds.map(id=><a href={sourceById[id].url} target="_blank" rel="noopener noreferrer">{ui.sourceLink} ↗</a>)}</div></div></details>)}</div>

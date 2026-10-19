@@ -1,0 +1,1254 @@
+{
+  "ui": {
+    "articles": "Cikkek",
+    "faq": "Gyakori kérdések",
+    "articlesTitle": "Gyakorlati Pikobuy-útmutatók",
+    "articlesIntro": "Gyakorlati útmutatók termékválasztáshoz, adatok ellenőrzéséhez, költségtervezéshez és a szállítás megszervezéséhez.",
+    "faqTitle": "Válaszok a Pikobuyjal kapcsolatos kérdéseidre",
+    "faqIntro": "24 kérdés megválaszolva a Pikobuy hivatalos oldalai alapján.",
+    "toc": "Ezen az oldalon",
+    "sources": "Források",
+    "checked": "Ellenőrizve",
+    "byline": "PikobuySheet",
+    "readArticle": "Cikk olvasása",
+    "related": "Kapcsolódó cikkek",
+    "allArticles": "Összes cikk",
+    "latestArticles": "Legújabb cikkek",
+    "articleCount": "10 gyakorlati útmutató",
+    "sourceLink": "Hivatalos forrás"
+  },
+  "faq": [
+    {
+      "id": "what-is-pikobuy",
+      "question": "Mivel foglalkozik a Pikobuy?",
+      "answer": "A Pikobuy segít kínai termékeket keresni, azokat eladóktól megvásárolni, saját raktárában átvenni és nemzetközi szállításukat megszervezni. A kezdőlap ezeket a szolgáltatás különálló lépéseiként mutatja be.",
+      "sourceIds": [
+        "official-home"
+      ]
+    },
+    {
+      "id": "supported-marketplaces",
+      "question": "Mely piactereket említi az útmutató?",
+      "answer": "A hivatalos útmutató a Taobao, Tmall, 1688, Weidian és Yupoo oldalakat említi. A vásárlási megbízás leadása előtt ellenőrizd a pontos terméket, méretet és színt.",
+      "sourceIds": [
+        "official-guide"
+      ]
+    },
+    {
+      "id": "finding-products",
+      "question": "Hogyan kérhetem meg a Pikobuyt egy termék megkeresésére?",
+      "answer": "A Pikobuy kezdőlapja közvetlen termékkeresést, valamint terméklinkek, képek és beszerzési kérések beküldését ismerteti. Ezek a Pikobuy saját szolgáltatásai; nem igazolják, hogy ez a független katalógus képalapú keresést kínál.",
+      "sourceIds": [
+        "official-home"
+      ]
+    },
+    {
+      "id": "two-payments",
+      "question": "Miért külön fizetem a vásárlást és a szállítást?",
+      "answer": "Az útmutató szerint a vásárlás kifizetése megelőzi a raktári ellenőrzést. Később kiválasztod a szállítási útvonalat, feladásra benyújtod a csomagot, és kifizeted a nemzetközi szállítást.",
+      "sourceIds": [
+        "official-guide"
+      ]
+    },
+    {
+      "id": "payment-options",
+      "question": "Milyen fizetési módokat használhatok?",
+      "answer": "A Pikobuy több pénznemet hirdet, és kártyák, illetve digitális pénztárcák logóit jeleníti meg, például Visa, Mastercard, Klarna, Google Pay és Apple Pay. Fizetés előtt ellenőrizd a pénztárban ténylegesen elérhető módokat, pénznemeket és végösszeget.",
+      "sourceIds": [
+        "official-about"
+      ]
+    },
+    {
+      "id": "failed-payment",
+      "question": "Feldolgozzák a rendelésemet, ha a fizetés sikertelen?",
+      "answer": "A Pikobuy feltételei szerint sikertelen fizetés esetén a rendelést nem dolgozzák fel. Ellenőrizd a fizetés eredményét a fiókodban, és keresd a hivatalos ügyfélszolgálatot, ha a tranzakció állapota továbbra sem egyértelmű.",
+      "sourceIds": [
+        "official-terms"
+      ]
+    },
+    {
+      "id": "warehouse-inspection",
+      "question": "Mi történik, amikor a termék a raktárba ér?",
+      "answer": "Az útmutató az átvétel rögzítését, fényképes visszaigazolást és hibaellenőrzést ír le. Nézd át saját rendelésed adatait, mielőtt eldöntöd, mely termékeket küldöd tovább.",
+      "sourceIds": [
+        "official-guide"
+      ]
+    },
+    {
+      "id": "qc-limits",
+      "question": "Az ellenőrzési fotók garantálják az eredetiséget vagy működést?",
+      "answer": "Nem. A felhasználói megállapodás szerint egyes termékek minősége vagy eredetisége nem ellenőrizhető szakszerűen. A vizsgálat a külső állapotra és a tartozékokra korlátozódhat. A fotók hasznos támpontok, de nem jelentenek általános termékgaranciát.",
+      "sourceIds": [
+        "official-user-agreement"
+      ]
+    },
+    {
+      "id": "detailed-photos",
+      "question": "Kérhetek részletesebb ellenőrzési fotókat?",
+      "answer": "A továbbküldési feltételek szerint az ügyfelek megtekinthetik a Pikobuy ellenőrzési fotóit, vagy további részletfotókat vásárolhatnak. A Pikobuy felületén erősítsd meg az elérhető fotószolgáltatást és annak díját az adott terméknél.",
+      "sourceIds": [
+        "official-shipping"
+      ]
+    },
+    {
+      "id": "packaging",
+      "question": "Kérhetek más csomagolást?",
+      "answer": "A vásárlási útmutató minimális vagy megerősített csomagolás kérését említi. Írd le az igényeidet, és ellenőrizd az elérhető előkészítési lehetőségeket, mielőtt benyújtod a csomagot feladásra.",
+      "sourceIds": [
+        "official-guide"
+      ]
+    },
+    {
+      "id": "consolidation",
+      "question": "Különböző eladók termékei kerülhetnek egy csomagba?",
+      "answer": "A Pikobuy kapcsolati oldala szerint különböző eladók termékei egy csomagban egyesíthetők, egy szállítási díjjal. Hasonlítsd össze az így kapott csomagárat; ez nem garantál megtakarítást minden rendelésnél.",
+      "sourceIds": [
+        "official-contact"
+      ]
+    },
+    {
+      "id": "storage",
+      "question": "Meddig maradhatnak a termékeim a raktárban?",
+      "answer": "A továbbküldési feltételek megerősítik az átvétel utáni tárolást, de nem adnak általános ingyenes időszakot vagy határidőt. Mielőtt várnál, ellenőrizd termékeid aktuális feltételeit a Pikobuy felületén, vagy kérdezd a hivatalos ügyfélszolgálatot.",
+      "sourceIds": [
+        "official-shipping"
+      ]
+    },
+    {
+      "id": "shipping-estimate",
+      "question": "Mi szükséges a szállítási költség becsléséhez?",
+      "answer": "A Pikobuy kalkulátora a célállomást, terméktípust, tömeget, hosszúságot, szélességet és magasságot kéri. Használd a legpontosabb elérhető adatokat, és fizetés előtt ellenőrizd a csomag végső árajánlatát; a termék ára nem szállítási árajánlat.",
+      "sourceIds": [
+        "official-estimate"
+      ]
+    },
+    {
+      "id": "delivery-choice",
+      "question": "Melyik szállítási útvonalat válasszam?",
+      "answer": "A Pikobuy több szállítási csatornát és útvonalkombinációt hirdet. Hasonlítsd össze a célállomásodhoz és csomagodhoz jelenleg elérhető lehetőségeket. A nyilvános bemutatkozó oldal nem határoz meg mindig legolcsóbb útvonalat vagy garantált érkezési dátumot.",
+      "sourceIds": [
+        "official-about"
+      ]
+    },
+    {
+      "id": "tracking",
+      "question": "Mikor jelenjenek meg a nyomkövetési adatok?",
+      "answer": "A vásárlási útmutató szerint a nyomkövetés a feladást követő három napon belül válik elérhetővé. Ezt közzétett iránymutatásként kezeld, és keresd a Pikobuyt, ha késik a frissítés.",
+      "sourceIds": [
+        "official-guide"
+      ]
+    },
+    {
+      "id": "taxes",
+      "question": "Lehetnek további költségek a rendelésen és szállításon felül?",
+      "answer": "Igen. A Pikobuy feltételei szerint a nemzetközi rendelések vámot, adót, vámkezelési díjat vagy más, az ügyfelet terhelő költséget eredményezhetnek. Vásárlás előtt ellenőrizd a célállomás előírásait és a választott szállítás feltételeit.",
+      "sourceIds": [
+        "official-terms"
+      ]
+    },
+    {
+      "id": "forwarding",
+      "question": "Továbbküldhetek önállóan vásárolt termékeket?",
+      "answer": "A feltételek ismertetik a raktárcím lekérését az ügyfélszolgálattól vagy a továbbküldési űrlapról, a szükséges adatok beküldését, majd az átvétel és fotók megvárását. Ezután benyújtod a csomagot, és a Pikobuyon fizeted a szállítást.",
+      "sourceIds": [
+        "official-shipping"
+      ]
+    },
+    {
+      "id": "forwarded-after-sales",
+      "question": "Ki kezeli a továbbküldött termékek vásárlás utáni ügyeit?",
+      "answer": "Továbbküldött termékeknél a Pikobuy a feladóhoz vagy eladóhoz irányítja a vásárlás utáni kérdéseket. Feltételei szerint segíthet visszaküldeni az árut, de a termék vásárlás utáni ügyfélszolgálatát nem biztosítja.",
+      "sourceIds": [
+        "official-shipping"
+      ]
+    },
+    {
+      "id": "return-deadline",
+      "question": "Mikor kell kérnem a raktári visszaküldést?",
+      "answer": "A visszaküldési szabályzat 120 órát ad, az In Warehouse (raktárban) állapotra váltást követő órától számítva. Kérd mielőbb; az elfogadás továbbra is a jogosultsági feltételektől függ.",
+      "sourceIds": [
+        "official-returns"
+      ]
+    },
+    {
+      "id": "return-eligibility",
+      "question": "Minden termék visszaküldhető?",
+      "answer": "Nem. Számít az eladó részvétele, az újraértékesíthető állapot és a határidő. Egyedi termékekre, módosított csomagolásokra és bizonyos kategóriákra korlátozások vonatkoznak. Rendelés vagy címkeeltávolítás előtt ellenőrizd a jogosultságot.",
+      "sourceIds": [
+        "official-returns"
+      ]
+    },
+    {
+      "id": "return-costs",
+      "question": "Mindig ingyenes a visszaküldés?",
+      "answer": "Nem. A szabályzat szállítási és szolgáltatási díjakat sorol fel a vásárló döntése miatti visszaküldésnél. Kérd az ügyfélszolgálattól rendelésed pontos végösszegét, mert a közzétett szállításidíj-információk ellentmondásosak.",
+      "sourceIds": [
+        "official-returns"
+      ]
+    },
+    {
+      "id": "wrong-or-damaged-item",
+      "question": "Mi történik, ha az eladó rossz terméket küld?",
+      "answer": "Jelezd az eltérést mielőbb a Pikobuyon keresztül. A szabályzat megkülönbözteti az eladó hibáját és a minőségi problémákat a vásárló döntése miatti visszaküldéstől, de az eladó beleegyezése és az eset körülményei befolyásolják az eredményt.",
+      "sourceIds": [
+        "official-returns"
+      ]
+    },
+    {
+      "id": "not-shipped-cancellation",
+      "question": "Van díja a visszaküldési kérésnek Not Shipped állapotnál?",
+      "answer": "A visszaküldési kérdések szerint nincs visszaküldési díj, ha a rendelést még nem adták fel. A kérés benyújtása előtt ellenőrizd az aktuális állapotot.",
+      "sourceIds": [
+        "official-returns"
+      ]
+    },
+    {
+      "id": "official-support",
+      "question": "Hol kérdezhetek rendelésről, fizetésről vagy csomagról?",
+      "answer": "Használd a Pikobuy hivatalos kapcsolati oldalát, amely ügyfélszolgálati jegy nyitását javasolja és felsorolja az elérhetőségeket. Ez a független katalógus nem fér hozzá Pikobuy-fiókodhoz, nem módosíthat rendelést, és nem rendezhet fizetést a nevedben.",
+      "sourceIds": [
+        "official-contact"
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "slug": "pikobuy-spreadsheet-checklist",
+      "title": "Pikobuy spreadsheet ellenőrzőlista: hasonlítsd össze a termékeket rendelés előtt",
+      "description": "Gyakorlati Pikobuy spreadsheet ellenőrzőlistával hasonlítsd össze az eredeti linkeket, változatokat, fotókat és költségeket, majd válaszd ki, mit érdemes tovább vizsgálni.",
+      "intro": "A Pikobuy spreadsheet akkor hasznos, ha segít dönteni. A mentett termékek hosszú listájában könnyen elbújnak a hiányzó méretek, elavult linkek és figyelmen kívül hagyott költségek. Az ellenőrzőlista célja, hogy több érdekes találatból rövid, megindokolható válogatás szülessen. Az aktuális termékoldalt kezeld külön a saját jegyzeteidtől, és minden jelölthöz határozz meg egy következő lépést, mielőtt pénzt költesz.",
+      "sections": [
+        {
+          "id": "define-the-job",
+          "heading": "1. Határozd meg, mire kell a termék",
+          "paragraphs": [
+            "Indulj ki abból a helyzetből, amelyben használni fogod. Egy laptoptáskának más követelményeket kell teljesítenie, mint egy kis esti táskának. A réteges öltözködéshez szánt kapucnis pulóvernek másképp kell állnia, mint annak, amelyet szűkebb kabát alatt viselsz. Egy mondatban írd le a feladatát, majd nevezz meg két-három olyan követelményt, amelyből nem engedhetsz.",
+            "Még a termékárak nézegetése előtt állíts be teljes költségkeretet. Hagyj helyet a később megbecsülendő tételeknek. Az a termék, amely tetszik, de a gyakorlati követelménynek nem felel meg, ne maradjon a listán pusztán a vonzó bélyegkép miatt."
+          ]
+        },
+        {
+          "id": "build-a-record",
+          "heading": "2. Mentsd el minden jelölt azonosító adatait",
+          "paragraphs": [
+            "Jegyezd fel az eredeti URL-t, az eladót vagy üzletet, a pontos változatot, a megjelenített árat és az ellenőrzés dátumát. Mellékeld a mérettáblázatot vagy a fontos műszaki adatot. A táblázatban szereplő cím gyakran rövidebb a teljes termékoldalnál, és kihagyhatja az árat meghatározó változatot.",
+            "Röviden írd le, miért mentetted el a terméket. Lehet például, hogy megfelelő a nyílás szélessége vagy az ujj hossza. Ha nem tudod elmagyarázni, mitől alkalmas, térj vissza a követelményhez ahelyett, hogy újabb, szinte azonos sorokat adnál hozzá."
+          ]
+        },
+        {
+          "id": "separate-evidence",
+          "heading": "3. Tisztázd, mit mutatnak valójában a képek",
+          "paragraphs": [
+            "Az eladó képe a termék bemutatását szolgálja. Egy korábbi vásárló fotója egy előző rendelést mutathat. A saját raktári fotóid a te rendelésedhez beérkezett darabra vonatkoznak. Ezeket a bizonyítéktípusokat különítsd el: hasznosságuk attól függ, milyen kérdésre keresel választ.",
+            "Egy korábbi fotó segíthet eldönteni, melyik részletet vizsgáld meg, de egy jövőbeli vásárlás állapotát nem igazolja. Ugyanígy egy szép termékkép nem old fel egy bizonytalan méretadatot. Írd a kép mellé a megválaszolatlan kérdést, és ne tekintsd a kép puszta meglétét befejezett ellenőrzésnek."
+          ]
+        },
+        {
+          "id": "apply-hard-stops",
+          "heading": "4. A lényeges hiányokat a személyes preferenciák előtt rendezd",
+          "paragraphs": [
+            "Ellenőrizd azokat a feltételeket, amelyek alkalmatlanná tehetik a vásárlást: a termék azonosságát, az elérhető változatot, a fontos méreteket és a vállalható teljes költséget. Ha az eredeti link más terméket nyit meg, vagy a választott mérethez nincs értelmezhető táblázat, tedd félre az adott sort.",
+            "Csak ezek után mérlegeld a személyes preferenciákat. A szín, felület és stílus segíthet választani az alkalmas jelöltek közül, de nem ellensúlyozza a laptop számára túl szűk nyílást. Kerüld az olyan pontozást, amelyben több vonzó tulajdonság kiolthat egy alapvető hibát. Az egyszerű függőben tartás gyakran világosabb, mint egy megtévesztően pontos pontszám."
+          ]
+        },
+        {
+          "id": "compare-example",
+          "heading": "5. Hasonlíts össze három feltételezett találatot",
+          "paragraphs": [
+            "A példa olyan táskáról szól, amelynek egy 30 cm széles merev tárgyat kell befogadnia. Az értékek kitaláltak, a módszert szemléltetik, nem aktuális termékekből származnak. Figyeld meg, hogy nem a legalacsonyabb feltüntetett ár dönti el, melyik sor érdemel figyelmet."
+          ],
+          "table": {
+            "headers": [
+              "Jelölt",
+              "Elérhető adatok",
+              "Döntés és következő lépés"
+            ],
+            "rows": [
+              [
+                "A",
+                "A dokumentált nyílásszélesség 28 cm",
+                "Törlés: az alapkövetelmény nem teljesül"
+              ],
+              [
+                "B",
+                "Külső szélesség 34 cm; a nyílás ismeretlen",
+                "Függőben: kérd el a használható nyílásszélességet"
+              ],
+              [
+                "C",
+                "A dokumentált nyílásszélesség 32 cm; a költségvetés hiányos",
+                "További vizsgálat: egészítsd ki a teljes költségbecslést"
+              ]
+            ]
+          }
+        },
+        {
+          "id": "make-next-action",
+          "heading": "6. Minden mentett sorhoz rendelj egy következő lépést",
+          "paragraphs": [
+            "Használd a megtartás, függőben és törlés jelöléseket a vizsgálat során. A megtartás azt jelenti, hogy az adatok indokolják a következő lépést, nem azt, hogy a termék igazolt vagy jóváhagyott. A függőben jelölésnél egy válasz megváltoztathatja a döntést. A törlés egy feltétel elmaradását vagy a hiányzó adatok további keresésének értelmetlenségét jelzi.",
+            "Legyen a feladat annyira konkrét, hogy végrehajtható legyen. A használható nyílásszélesség elkérése hasznosabb, mint általában a minőség ellenőrzése. A kiválasztott változat árának összevetése többet ér, mint a termékoldal újbóli nézegetése. A függőben lévő jelöltekhez írj felülvizsgálati dátumot, hogy a nyitott ügyek ne gyűljenek korlátlanul."
+          ]
+        },
+        {
+          "id": "recheck-before-payment",
+          "heading": "7. Fizetés előtt ismét ellenőrizd a válogatást",
+          "paragraphs": [
+            "Amikor továbblépnél, nyisd meg újra az aktuális termékoldalt. Erősítsd meg, hogy a változat, mennyiség és ár alapja továbbra is egyezik a mentett adatokkal. Vizsgáld felül a közvetetten kapott méret- és elérhetőségi állításokat, és őrizd meg a ténylegesen felhasznált bizonyítékokat.",
+            "Ezután összefüggéstelen képernyőképek mappája helyett tömör adatlap alapján rendelj. Amint elérhetővé válnak a raktári felvételek, vesd össze őket ezzel. Ugyanez a válogatás most annak ellenőrzésére használható, mit akartál rendelni, mely részletek maradtak nyitva, és mit kell legközelebb megkérdezned."
+          ]
+        }
+      ],
+      "sourceIds": [
+        "official-guide"
+      ],
+      "related": [
+        "spreadsheet",
+        "articles/pikobuy-product-links",
+        "articles/pikobuy-haul-budget"
+      ]
+    },
+    {
+      "slug": "pikobuy-clothing-size-chart",
+      "title": "Pikobuy ruhamérettáblázatok: mérj, mielőtt méretet választasz",
+      "description": "Értelmezd a Pikobuy ruhamérettáblázatait egy referencia-ruhadarab, azonos mérési pontok és egyértelmű mértékegységek segítségével, gyakorlati példán keresztül.",
+      "intro": "Egy megszokott méretbetű nem elég a Pikobuy kínálatában talált ruha kiválasztásához. Olyan méreteket érdemes összehasonlítani, amelyek ugyanazt írják le: a ruha azonos részét, azonos egységben, hasonló módszerrel. Ez az útmutató egy már meglévő ruhadarab alapján segít elkészíteni az összevetést. Nem feltételezi, hogy minden eladó ugyanazt a méretezést használja, vagy hogy a nagyobb betű megold egy homályos táblázatot.",
+      "sections": [
+        {
+          "id": "identify-chart-type",
+          "heading": "1. Tisztázd, mit mér a táblázat",
+          "paragraphs": [
+            "A számok értelmezése előtt olvasd el a feliratokat. A táblázat mutathatja a kész ruhadarab méreteit, ajánlott testmérettartományt, vagy útmutatás és termékméretek keverékét. Ezek eltérő viszonyítási alapok. A ruha mellmérete tartalmazza a tervezett bőséget; a testméret a viselőre vonatkozik.",
+            "A táblázatot a pontos termékkel és kiválasztott verzióval együtt mentsd el. Ha több szabás vagy stílus szerepel egy oldalon, ne feltételezd, hogy ugyanaz a táblázat mindegyikre érvényes. Ha a méret típusa nem világos, előbb kérj magyarázatot, és csak utána próbálj méretajánlást levezetni a számokból."
+          ]
+        },
+        {
+          "id": "choose-reference",
+          "heading": "2. Válassz megfelelő referencia-ruhadarabot",
+          "paragraphs": [
+            "Olyan darabot keress, amely úgy áll, ahogyan az új vásárlást szeretnéd viselni. Laza kapucnis pulóvert laza pulóverrel hasonlíts össze, ne kizárólag egy szűk pólóval. Vedd figyelembe az anyagot, a váll kialakítását és az alá tervezett rétegeket.",
+            "Fektesd le a referencia-ruhadarabot nyújtás nélkül. Mérd meg, jegyezd fel az adatokat, és készíts képet a mérési pontokról. Megismételhető összehasonlítást építesz, ezért a pontos feljegyzés értékesebb annál az emléknél, hogy egy márka általában jól áll. Csak akkor használd újra az adatlapot, ha a következő termék valóban összehasonlítható."
+          ]
+        },
+        {
+          "id": "match-endpoints",
+          "heading": "3. Egyeztesd a mérési pontokat",
+          "paragraphs": [
+            "Felsőknél fontos lehet a síkban mért mellszélesség, a törzshossz, a vállszélesség és az ujjhossz. Nadrágoknál a derék, az ülepmagasság, a csípő, a comb és a belső szárhossz számíthat. A megfelelő adatok attól függnek, milyen illeszkedési problémát akarsz elkerülni.",
+            "Ellenőrizd az egyes méretek meghatározását. A vállvarrástól mért ujjhossz nem cserélhető fel a nyaktól induló méréssel. Az ívelt és a rugalmas derékpánt is tisztázott módszert igényel. Ha az eladó más pontot használ, mint a referenciaadatod, mérd meg újra a ruhádat az ő módszerével ahelyett, hogy össze nem illő számokat vetnél össze."
+          ]
+        },
+        {
+          "id": "handle-units",
+          "heading": "4. Különítsd el a szélességet, körméretet és egységeket",
+          "paragraphs": [
+            "A síkban mért szélesség a ruhadarab egyik oldalán halad át. A körméret a körülötte mért távolságot jelenti. Felcserélésük nagy látszólagos eltérést okozhat. Egyszerű számtani példa: az 58 cm-es szélesség kétszerese 116 cm; hogy ez megfelelő összevetés-e, továbbra is a ruhától és a táblázat módszerétől függ.",
+            "A munkalapon használj egyetlen egységet, és az átváltások mellett őrizd meg az eredeti számokat. Ne feltételezz meg nem adott tűrést. Az eladó által közölt mérési tűrés kiegészítő információ, nem magyaráz meg automatikusan minden eltérést a táblázat és a raktári fotó között."
+          ]
+        },
+        {
+          "id": "worked-comparison",
+          "heading": "5. Hasonlíts össze két feltételezett pulóverméretet",
+          "paragraphs": [
+            "Tegyük fel, hogy a referencia-pulóver mellrésze 58 cm széles, törzshossza pedig 68 cm. Az alábbi kitalált táblázat megmutatja, miért nem dönt önmagában egy méretbetű. Mindkét adat fontos, és az előnyösebb választás attól függ, melyik változást fogadod el."
+          ],
+          "table": {
+            "headers": [
+              "Méretadat",
+              "Referencia-ruhadarab",
+              "Példa M méret",
+              "Példa L méret"
+            ],
+            "rows": [
+              [
+                "Síkban mért mellszélesség",
+                "58 cm",
+                "57 cm",
+                "60 cm"
+              ],
+              [
+                "Törzshossz",
+                "68 cm",
+                "66 cm",
+                "69 cm"
+              ],
+              [
+                "Mit vizsgálj",
+                "Ismert, kedvelt illeszkedés",
+                "Keskenyebb és rövidebb",
+                "Szélesebb és kissé hosszabb"
+              ]
+            ]
+          },
+          "list": [
+            "Bármelyik változat kiválasztása előtt ellenőrizd az ujjhosszt.",
+            "Erősítsd meg, hogy minden törzshossz azonos pontok között készült.",
+            "A táblázat összehasonlítási gyakorlat, nem méretajánlás."
+          ]
+        },
+        {
+          "id": "allow-for-use",
+          "heading": "6. Gondold át, hogyan fogod viselni",
+          "paragraphs": [
+            "A méretek egyezése segít, de nem adja vissza a ruha viselési érzetét. Az anyag rugalmassága, merevsége, a bélés és a szabás befolyásolja ugyanazon méretek működését. Gondolj a mozgásra és a tervezett rétegekre, majd határozd meg, mely adatok szabályozzák ezeket az igényeket.",
+            "Ne adj automatikusan azonos ráhagyást minden mérethez. A nagyobb szélesség segítheti a rétegezést, miközben a hosszabb ujj zavaróvá válhat. Ha a táblázat egy lényeges adatot nem ad meg, azt kérd el az általános méretnövelési szabály alkalmazása helyett. A cél egy konkrét bizonytalanság csökkentése, nem hamis pontosság teremtése."
+          ]
+        },
+        {
+          "id": "confirm-selected-size",
+          "heading": "7. Őrizd meg a döntést és ellenőrizd a változatot",
+          "paragraphs": [
+            "Fizetés előtt mentsd el a pontos változatmegnevezést és a felhasznált táblázatot. Röviden indokold a döntést, például a referenciaszélesség egyezésével és a rövidebb törzs elfogadásával. Ez a feljegyzés világos alapot ad a későbbi ellenőrzéshez.",
+            "Ha raktári mérést kérsz, add meg a méretet, a végpontokat és az egységet. A jól olvasható mérőszalag a megfelelő helyen induljon, és a teljes mérés mentén látszódjon. Ha a bizonyíték ellentmond a táblázatnak, állj meg és tisztázd az eltérést, amíg még mérlegelhető az elérhető visszaküldési folyamat. A fotó segíthet a méret ellenőrzésében, de kényelmet nem garantál."
+          ]
+        }
+      ],
+      "sourceIds": [
+        "official-guide",
+        "official-returns"
+      ],
+      "related": [
+        "spreadsheet",
+        "articles/pikobuy-qc-measurements",
+        "articles/pikobuy-shoe-sizing"
+      ]
+    },
+    {
+      "slug": "pikobuy-product-links",
+      "title": "Pikobuy terméklinkek: forrásellenőrzés és eltérő ajánlatok tisztázása",
+      "description": "Vesd össze a Pikobuy terméklinkeket az eredeti ajánlatokkal, ellenőrizd az importált változatokat, és kövess világos hibakeresési folyamatot, ha valami nem töltődik be.",
+      "intro": "A terméklinknek többet kell azonosítania egy vonzó képnél. A kívánt termékoldalhoz és a megrendelni szándékozott változathoz kell vezetnie. Megosztás, rövidítés vagy átalakítás közben ez az összefüggés kevésbé láthatóvá válhat. Ez az útmutató gyakorlati módszert ad az eredeti adatok megőrzésére, az importált eredmény összevetésére és a következő lépés kiválasztására, ha a Pikobuy link nem a várt módon működik.",
+      "sections": [
+        {
+          "id": "save-source-record",
+          "heading": "1. Őrizd meg az eredeti termékoldal adatait",
+          "paragraphs": [
+            "Mielőtt megosztott közvetítői linket használnál, mentsd el az eredeti termék-URL-t, ha elérhető. Jegyezd fel a termékazonosítót, eladót vagy üzletet, a választott stílust, színt, méretet és mennyiséget. Add hozzá az ellenőrzés dátumát és a kiválasztani kívánt változat képernyőképét.",
+            "A képernyőkép önmagában hiányos, mert lemaradhat róla a cím vagy a választott változat. Az URL önmagában nem feltétlenül őrzi meg a szándékolt opciót. A link és egy rövid változatleírás együtt segít később felismerni az eltérést. Ne írd felül az eredeti adatlapot, amikor másik jelöltet találsz."
+          ]
+        },
+        {
+          "id": "recognize-page-type",
+          "heading": "2. Ismerd fel az oldal típusát",
+          "paragraphs": [
+            "A termékoldal, az üzlet főoldala és a fotóalbum más célt szolgál. Az üzletoldal segíthet megtalálni az eladó kínálatát, de nem feltétlenül jelöli ki a konkrét tárgyat. Az album több színt mutathat választható vásárlási opció nélkül. Egy termékoldal pedig sok változatot tartalmazhat egyetlen cím alatt.",
+            "Ismételt importálás előtt tisztázd, milyen adat hiányzik. Szükséged lehet egyedi terméklinkre, változatleírásra vagy az eladó, illetve a platform magyarázatára. Az ismerős piactérnév háttérinformáció, nem bizonyíték arra, hogy az oldal mindent tartalmaz a pontos rendeléshez."
+          ]
+        },
+        {
+          "id": "compare-result",
+          "heading": "3. Hasonlítsd az importált eredményt a forráshoz",
+          "paragraphs": [
+            "A Pikobuy közzétett útmutatója terméklinkkel vagy kulcsszavakkal történő keresést ismertet. Ha megjelenik egy eredmény, vesd össze az azonosságát a mentett forrással; a sikeres betöltést ne tekintsd befejezett ellenőrzésnek.",
+            "Nézd meg a látható termékazonosítót, az eladó adatait, az elérhető változatokat és a kiválasztott opció leírását. Ellenőrizd, hogy a megjelenített ár a kívánt tárgyra, másik változatra, tartozékra vagy mennyiségi feltételre vonatkozik-e. A hasonló bélyegkép más verziót rejthet. Ha a forrás és az importált adatok eltérnek, tisztázd az ellentmondást, mielőtt rendelésre késznek tekinted az eredményt."
+          ]
+        },
+        {
+          "id": "separate-conversion",
+          "heading": "4. Tudd, mit nem igazol a link átalakítása",
+          "paragraphs": [
+            "Egy linkátalakító olyan formában adhatja meg a termékhivatkozást, amelyet egy másik szolgáltatás olvasni tud. Ez a technikai művelet nem az eladó, az állapot, a készlet vagy az alkalmasság ellenőrzése. Azt sem bizonyítja, hogy az aktuális oldal még mindig ugyanazt a terméket írja le, mint egy régebben mentett sor.",
+            "Az átalakított URL mellett őrizd meg az eredetit. Átalakítás után ismét ellenőrizd a termék és a változat azonosságát. Ha egy eszköz váratlanul megváltoztatja a céloldalt, állj meg és vizsgáld meg az eredményt. Ne írj be belépési adatokat ismeretlen oldalra pusztán azért, mert egy táblázatból vagy linkátalakítóból jutottál oda."
+          ]
+        },
+        {
+          "id": "troubleshooting-table",
+          "heading": "5. A megfigyelhető hibát azonosítsd",
+          "paragraphs": [
+            "Az alábbi táblázat hibakeresési segédlet, nem a Pikobuy hivatalos hibaüzeneteinek listája. A ténylegesen látott működésből indulj ki. Az újrapróbálás akkor hasznos, ha egy valószínű okot tesztel; olyan információt nem állít helyre, amely sosem volt a linkben."
+          ],
+          "table": {
+            "headers": [
+              "Megfigyelt probléma",
+              "Hasznos ellenőrzés",
+              "Következő lépés"
+            ],
+            "rows": [
+              [
+                "Másik termék nyílik meg",
+                "Hasonlítsd össze az eredeti azonosítót és a választott változatot",
+                "Őrizd meg mindkét adatlapot és kérj magyarázatot"
+              ],
+              [
+                "A forrás bejelentkezést kér",
+                "Ellenőrizd az URL-t és a látható termékadatokat",
+                "Használd a valódi forrást vagy a hivatalos támogatást"
+              ],
+              [
+                "Csak üzlet vagy album nyílik meg",
+                "Keress egyedi termékhivatkozást",
+                "Add meg a pontos terméket és a változat adatait"
+              ],
+              [
+                "A termék nem elérhető",
+                "Ellenőrizd újra az aktuális forrásoldalt",
+                "Az alternatívákat új jelöltként kezeld"
+              ],
+              [
+                "A rövidített link hibás",
+                "Ha lehet, keresd vissza az eredeti termék-URL-t",
+                "Próbáld meg egyszer újra ezzel a forrásadattal"
+              ]
+            ]
+          }
+        },
+        {
+          "id": "support-request",
+          "heading": "6. Megválaszolható kérdést küldj",
+          "paragraphs": [
+            "Ha a kívánt termék továbbra sem egyértelmű, küldd el a forráslinket, az elérhető termékazonosítót, a szükséges változatot és az eltérés rövid leírását. Csatolj olyan képernyőképeket, amelyek mutatják a lényeges választást. Ne küldd egy kérésben a teljes böngészési előzményt vagy oda nem tartozó termékeket.",
+            "A hasznos kérdés konkrét: a forrás a kék változatot mutatja M méretben, de az importált választó csak feketét kínál; rendelhető kék M? Ezt könnyebb tisztázni, mint azt, hogy a link rossz. A Pikobuy hivatalos Kapcsolat oldala megadja a fiókkal vagy termékkereséssel kapcsolatos kérdések megfelelő csatornáját."
+          ]
+        },
+        {
+          "id": "update-shortlist",
+          "heading": "7. Az eredményt az összefüggésekkel együtt rögzítsd",
+          "paragraphs": [
+            "Jelöld a terméket egyezőként, tisztázásra váróként vagy nem elérhetőként. A választ őrizd a forrásadatok mellett. Ha a javasolt alternatíva azonosítója vagy specifikációja eltér, új sort kezdj, ne csendben cseréld le az eredeti terméket.",
+            "Továbblépés előtt ismét nézd meg a ténylegesen beküldendő változatot. A cél visszakövethető döntés: el kell tudnod mondani, melyik ajánlatot használtad, milyen változatot választottál, és mi oldotta fel az eltéréseket. Ez a feljegyzés később is hasznos, amikor a beérkezett tárgyat összeveted a tervezett vásárlással."
+          ]
+        }
+      ],
+      "sourceIds": [
+        "official-guide",
+        "official-contact"
+      ],
+      "related": [
+        "guide",
+        "articles/pikobuy-spreadsheet-checklist",
+        "faq"
+      ]
+    },
+    {
+      "slug": "pikobuy-qc-measurements",
+      "title": "Pikobuy QC-mérések: kérj olyan fotókat, amelyek választ adnak",
+      "description": "Tedd hasznosabbá a Pikobuy QC-mérési kéréseket világos végpontokkal, olvasható skálával és célzott kérdésekkel, mielőtt a termék alkalmasságáról döntesz.",
+      "intro": "A több fotó nem feltétlenül jelent több hasznos bizonyítékot. Ha azt szeretnéd tudni, elég hosszú-e egy ujj vagy elég széles-e egy táskanyílás, a kérésben meg kell adnod a mérés módját. Egy jó Pikobuy QC-kérés egyetlen nyitott kérdést köt össze egy megfigyelhető eredménnyel. Ez az útmutató megmutatja, hogyan teheted ezt anélkül, hogy a fényképet a termék minden tulajdonságának bizonyítékaként kezelnéd.",
+      "sections": [
+        {
+          "id": "define-the-question",
+          "heading": "1. A kérés előtt fogalmazd meg a döntést",
+          "paragraphs": [
+            "Írd le, milyen válasz változtatná meg a következő lépésedet. Lehet, hogy minimális használható nyílásszélességre van szükség, olvashatatlan a méretcímke, vagy egy folt szennyeződés és árnyék is lehet. Minden problémához más bizonyíték kell. A jobb minőségű képek általános kérése a fotósra hagyja annak kitalálását, mi számít.",
+            "Megfigyelhető részletet tartalmazó mondatot használj: látnom kell, hogy mindkét cipőn a választott méret címkéje szerepel-e. Ne kapcsolj ehhez független kéréseket a varrásokról, anyagokról és csomagolásról."
+          ]
+        },
+        {
+          "id": "identify-item",
+          "heading": "2. Azonosítsd a megfelelő darabot és változatot",
+          "paragraphs": [
+            "Add meg az érintett rendelési azonosítót, a termékleírást és a kiválasztott változatot. Ha a rendelésben két hasonló szín vagy méret van, különböztesd meg őket egyértelműen. Hivatkozz meglévő fotóra, ha az segít kijelölni a területet, de ne feltételezd, hogy egy korábbi vásárló képe a most ellenőrzött darabot mutatja.",
+            "A forrás mérettáblázatát és a kívánt változatot tartsd a kérés mellett. Megmagyarázzák, miért fontos a mérés, és segítik az eredmény értelmezését. A rossz termék pontos mérése is használhatatlan. Következtetés előtt ellenőrizd, hogy a kapott kép ésszerűen összekapcsolható-e azzal a darabbal és változattal, amelyről kérdeztél."
+          ]
+        },
+        {
+          "id": "specify-method",
+          "heading": "3. Írd le a mérés módszerét",
+          "paragraphs": [
+            "Nevezd meg a végpontokat, a mértékegységet és a helyzetet. Síkban mért ruhaszélességnél add meg a mérőszalag kezdetét és végét, valamint hogy az anyag nyújtás nélkül feküdjön-e. Táskanyílásnál a bejárat használható szélességét kérd, ne a táska legszélesebb külső részét.",
+            "Kérd, hogy a skála kezdete és vége is látható legyen. A képen kívüli nullpont bizonytalanságot okoz akkor is, ha a távoli vég leolvasható. Az ív mentén és az egyenes vonalban végzett mérés más kérdésre válaszol, ezért a puszta hossz szó helyett tisztázd, melyikre van szükséged."
+          ]
+        },
+        {
+          "id": "request-examples",
+          "heading": "4. A kérdéshez illő kérést használj",
+          "paragraphs": [
+            "Ezek eredeti megfogalmazási minták, nem menüpontok vagy egy adott szolgáltatás ígéretei. Mielőtt rájuk támaszkodsz, erősítsd meg a kért művelet elérhetőségét és díját. A termék- és mérési adatokat cseréld a saját rendelésedre vonatkozó részletekre."
+          ],
+          "table": {
+            "headers": [
+              "Nyitott kérdés",
+              "Célzott kérés"
+            ],
+            "rows": [
+              [
+                "Elég széles a felső?",
+                "Kérlek, fektesd le a kiválasztott felsőt nyújtás nélkül, és mutasd meg a mellszélességet a megadott pontok között, a centiméterskála mindkét végével együtt."
+              ],
+              [
+                "Megfelelő a cipő méretcímkéje?",
+                "Kérlek, mutasd meg a pár mindkét cipőjének olvasható méretcímkéjét, elegendő környező részlettel a darabok azonosításához."
+              ],
+              [
+                "Átfér a tárgy a táska nyílásán?",
+                "Kérlek, mutasd meg a használható nyílásszélességet teljesen nyitott záródás mellett, látható mérési végpontokkal."
+              ],
+              [
+                "A nyom a felületen van?",
+                "Kérlek, mutasd meg a jelölt részt közelről és másik szögből is úgy, hogy a környező anyag látható maradjon."
+              ]
+            ]
+          }
+        },
+        {
+          "id": "evaluate-evidence",
+          "heading": "5. Ellenőrizd, értelmezhető-e a válasz",
+          "paragraphs": [
+            "Előbb nézd meg a képet, és csak utána olvasd el a számszerű következtetést. Látszik a megfelelő darab? A vonalzó követi a kért módszert? Látható a skála és mindkét végpont? Ha a ruha össze van hajtva, megnyújtották vagy erős szögből fényképezték, jegyezd fel ennek lehetséges hatását az összevetésre.",
+            "Elmosódott képből ne gyárts pontosságot. Ha csak hozzávetőleg 57–59 cm különíthető el, ezt a bizonytalanságot rögzítsd 58,0 cm kijelentése helyett. Ha a bizonytalanság megváltoztathatja a döntést, kérj tisztázást. Ha nem befolyásolja a döntést, a további fotók gyakorlati értéke csekély lehet."
+          ]
+        },
+        {
+          "id": "recognize-limits",
+          "heading": "6. Tartsd tiszteletben a képi bizonyíték korlátait",
+          "paragraphs": [
+            "A fénykép alátámaszthat egy látható címkére, mért méretre vagy feltűnő felületi hibára vonatkozó következtetést. Nem igazolja a hosszú távú tartósságot, a rejtett szerkezetet, az elektromos működést vagy a használati kényelmet. Az anyagösszetételhez és az eredetiséghez is több kell a puszta megjelenésnél.",
+            "Különítsd el a megfigyelést a következtetéstől. Az, hogy a képen zárt varrás látszik, szűkebb állítás annál, hogy a táska nagy terhet bír. A Pikobuy közzétett anyagai ismertetik az ellenőrzés korlátait, ezért ne kezeld szakszerű bevizsgálásként. Ha a vásárlás fényképpel nem igazolható tulajdonságtól függ, kérj megfelelő dokumentációt vagy gondold újra a vásárlást."
+          ]
+        },
+        {
+          "id": "choose-next-action",
+          "heading": "7. A válaszból vezess le egy lépést",
+          "paragraphs": [
+            "Térj vissza az eredeti kérdéshez, és válassz további lépést. A bizonyíték indokolhatja a folytatást, nyitva hagyhat egy konkrét kérdést vagy alapot adhat a visszaküldés megbeszélésére. A választ mentsd a rendelési adatokhoz, és jegyezd fel, melyik méret vagy látható részlet befolyásolta a döntést.",
+            "Ha probléma marad, gyorsan ellenőrizd az aktuális rendelési állapotot és a vonatkozó visszaküldési feltételeket. Ne gyűjts díszítő jellegű nézeteket, miközben egy intézkedést igénylő eltérés bejelentetlen. A feljegyzésből legyen könnyen elmondható, mit szerettél volna, mit mutat a fotó és milyen megoldást kérsz. A bizonytalan megfigyeléseket továbbra is jelöld bizonytalannak."
+          ]
+        }
+      ],
+      "sourceIds": [
+        "official-user-agreement",
+        "official-shipping",
+        "official-returns"
+      ],
+      "related": [
+        "qc",
+        "articles/pikobuy-clothing-size-chart",
+        "articles/pikobuy-warehouse-returns"
+      ]
+    },
+    {
+      "slug": "pikobuy-haul-budget",
+      "title": "Pikobuy vásárlási költségvetés: számold össze a kiadásokat rendelés előtt",
+      "description": "Készíts reális Pikobuy költségvetést a termékárak, szállítás, lehetséges díjak és ismeretlen költségek elkülönítésével, egy világosan jelölt tervezési példán át.",
+      "intro": "A táblázatban szereplő árak összege csak a Pikobuy vásárlási költségvetésének kezdete. A hasznos becslés megmutatja az ismert költségeket, a kész csomagtól függő tételeket és a még tisztázandó részeket. Azt is jelzi, marad-e elég mozgástér a bizonytalanságra. Az alábbi módszer tervezési munkalap, nem árajánlat és nem állítás a Pikobuy aktuális díjairól.",
+      "sections": [
+        {
+          "id": "separate-stages",
+          "heading": "1. Válaszd külön a vásárlást és a csomagot",
+          "paragraphs": [
+            "A Pikobuy közzétett folyamata elkülöníti a vásárlási fizetést a nemzetközi szállítás díjától. A költségvetésed is tükrözze ezt. Az egyik rész a kiválasztott termékek megszerzéséhez szükséges összeget rögzíti, a másik a létrejövő csomag hozzád juttatásának lehetséges költségét.",
+            "A pontos mennyiségekből és változatokból indulj ki. Egy alacsony megjelenített ár más opcióhoz tartozhat, mint amelyet rendelnél. Minden összeg mellé írj dátumot és pénznemet. Így könnyebben azonosítható, miért változik a költségvetés egy termék, változat vagy devizaátváltás frissítésekor."
+          ]
+        },
+        {
+          "id": "capture-item-costs",
+          "heading": "2. Sorold fel a vásárláshoz kapcsolódó díjakat",
+          "paragraphs": [
+            "Külön sorban szerepeljenek a termékek, a feltüntetett belföldi szállítás és a tranzakciódnál ténylegesen megjelenő szolgáltatási vagy fizetési díjak. Ne írj be díjat pusztán azért, mert más vásárló fizetett ilyet, és ne feltételezd, hogy a nem jelzett költség nulla.",
+            "Ha több termékhez egy közös szállítási díj tartozik, ne számold minden sorhoz újra. Különböző eladóknál viszont nem biztos, hogy közös a költség. Tarts meg annyi részletet, hogy a munkalap összevethető legyen a kért fizetéssel. A rendezett végösszeg kevésbé hasznos, mint egy kissé hosszabb, de megmagyarázható táblázat."
+          ]
+        },
+        {
+          "id": "estimate-freight",
+          "heading": "3. Rögzítsd a szállítási becslés feltételezéseit",
+          "paragraphs": [
+            "A korai szállítási becslést forgatókönyvként kezeld. Írd le a feltételezett célországot, terméktípust, csomagolt tömeget és méreteket, az összeg mellé pedig a dátumot és az útvonal feltételeit. Ha ezek az adatok változnak, a korábbi szám már nem biztos, hogy használható összehasonlításra.",
+            "Ne oszd szét a csomagbecslést a termékek között úgy, hogy utána ezt a felosztást fuvarozói tarifának tekinted. A személyes érték összevetéséhez feloszthatod a tervezési összeget, de a fizetést a tényleges csomagajánlat határozza meg. Egy olcsó, nagy térfogatú tárgy újragondolást érdemelhet akkor is, ha a termékárak kis részét adja."
+          ]
+        },
+        {
+          "id": "keep-unknowns-visible",
+          "heading": "4. Tartsd láthatóan a célország lehetséges költségeit",
+          "paragraphs": [
+            "A lehetséges vám, adó, kezelési vagy vámügyintézési díj kapjon saját sort. Ellenőrizd a célország követelményeit és a választott szállítás feltételeit. Ez az útmutató nem közöl helyi adómértéket, és nem feltételezi, hogy az útvonal neve minden díjat eldönt.",
+            "Ha az összeg nincs megállapítva, írd azt, hogy ismeretlen. Az üres mezőt túl könnyű nullának olvasni. Ugyanígy a csomagra még nem ellenőrzött kupon lehetséges módosítás, nem biztos megtakarítás. Mielőtt a kedvezménnyel indoklod a vásárlást, erősítsd meg a jogosultságot, korlátokat és fizetendő végösszeget."
+          ]
+        },
+        {
+          "id": "worked-budget",
+          "heading": "5. Készíts feltételezett tervezési végösszeget",
+          "paragraphs": [
+            "Az alábbi értékek mind kitaláltak, és egyetlen példapénznemben szerepelnek. A táblázat a számítást mutatja, nem aktuális termékár, szállítási tarifa vagy díjtáblázat. Figyeld meg, hogy a számtani részösszeg még hiányos, mert a célország költségeit nem határoztuk meg.",
+            "Ebben a példában 120 fedezi a felsorolt feltételezéseket és a választott tartalékot. Nem jelent minden költséget tartalmazó végösszeget. Ha a keret 120, az ismeretlen célországi sor miatt még nincs igazolva, hogy a vásárlás belefér ebbe a limitbe."
+          ],
+          "table": {
+            "headers": [
+              "Költségvetési sor",
+              "Szemléltető összeg",
+              "Állapot"
+            ],
+            "rows": [
+              [
+                "Kiválasztott termékek",
+                "60",
+                "Példabeli feltételezés"
+              ],
+              [
+                "Belföldi szállítás",
+                "5",
+                "Példabeli feltételezés"
+              ],
+              [
+                "Megjelenített szolgáltatási díj",
+                "3",
+                "Példabeli feltételezés"
+              ],
+              [
+                "Nemzetközi csomag becslése",
+                "35",
+                "Példabeli feltételezés"
+              ],
+              [
+                "Deviza- vagy fizetési korrekció",
+                "2",
+                "Példabeli feltételezés"
+              ],
+              [
+                "E feltételezések részösszege",
+                "105",
+                "Csak számtani összeg"
+              ],
+              [
+                "Személyes biztonsági tartalék",
+                "15",
+                "Választott tervezési puffer"
+              ],
+              [
+                "Célországi díjak",
+                "Ismeretlen",
+                "Külön megvizsgálandó"
+              ]
+            ]
+          }
+        },
+        {
+          "id": "compare-scenarios",
+          "heading": "6. Hasonlíts össze hasznos forgatókönyveket",
+          "paragraphs": [
+            "Forgatókönyvekkel vizsgáld azokat a feltételezéseket, amelyek leginkább változtathatnak a döntésen. Hasonlítsd össze a csomagot egy nagy, opcionális tárggyal és anélkül, vagy két csomagolási módot azonos célországgal és terméktípussal. Egyszerre egy tényezőt változtass, hogy értsd a különbség okát.",
+            "A személyes tartalék tervezési döntés, nem előrejelzés arra, hogy pontosan ennyivel nőnek a díjak. A megmaradó bizonytalanság és az anyagi lehetőségeid alapján állítsd be. Ha egy mérsékelt emelkedés is megfizethetetlenné tenné a vásárlást, még a termékbeszerzés vállalása előtt szűkítsd a listát."
+          ]
+        },
+        {
+          "id": "reconcile-budget",
+          "heading": "7. Minden vállalásnál frissítsd a munkalapot",
+          "paragraphs": [
+            "Amint elérhetők, cseréld a becsléseket megerősített összegekre. Az eredeti becslést tartsd az új mellett, ha meg szeretnéd érteni a pontatlan feltételezéseket. Szállítás előtt ellenőrizd, hogy a költségvetés a tényleges termékkört és a kért csomagolást tartalmazza.",
+            "Ha a teljes összeg túllépi a keretet, a legkevésbé hasznos opcionális vásárlást keresd, ne csak a legolcsóbb sorra figyelj. Mielőtt egy tárgy ingyenes elhagyását feltételeznéd, vedd számba a rendelésmódosítás költségeit. A kész munkalap egyszerű kérdésre válaszoljon: mi fizetendő még, mi bizonytalan, és kényelmesen tudod-e fedezni mindkettőt?"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "official-guide",
+        "official-estimate",
+        "official-terms"
+      ],
+      "related": [
+        "shipping",
+        "articles/pikobuy-parcel-weight-dimensions",
+        "articles/pikobuy-spreadsheet-checklist"
+      ]
+    },
+    {
+      "slug": "pikobuy-parcel-weight-dimensions",
+      "title": "Pikobuy csomagtömeg és méretek: hasonlítsd össze a csomagolásokat",
+      "description": "Átlátható példán hasonlítsd össze a Pikobuy csomagtömeget, méreteket és csomagolást, majd küldés előtt ellenőrizd az útvonal szabályait és a végső árat.",
+      "intro": "Két azonos tömegű csomag nagyon különböző helyet foglalhat el. Ezért egy hasznos szállítási összevetéshez a tömeg és a méretek mellett az elérhető útvonal díjszabási szabályai is kellenek. Nem egyszerűen a doboz kisebbé tétele a cél. Olyan csomagolásokat kell összehasonlítani, amelyek védik a tartalmat, megfelelnek az igényeidnek, és érthető ajánlatot eredményeznek.",
+      "sections": [
+        {
+          "id": "define-measurements",
+          "heading": "1. Különböztesd meg a mérési adatokat",
+          "paragraphs": [
+            "A terméktömeg magát a tárgyat írja le. A csomagolt tömeg a tartalmat és a feladáshoz használt anyagokat is tartalmazza. A csomagméretek a kész küldemény külső méreteire vonatkoznak. Az útvonal térfogatsúlyt, tényleges tömeget vagy más szabályt alkalmazhat az ár meghatározásához.",
+            "Ezeket külön jegyezd fel. A becsült terméktömegek összeadása nem állapítja meg a kész csomag tömegét, a termékdoboz mérése pedig nem határozza meg a külső szállítócsomag méretét. Beírás előtt tisztázd, melyik adatot nézed. Máskülönben a helyes számolás is félrevezető eredményhez vezethet."
+          ]
+        },
+        {
+          "id": "collect-inputs",
+          "heading": "2. Következetes adatokat használj a kalkulátorban",
+          "paragraphs": [
+            "A Pikobuy nyilvános kalkulátora célországot, terméktípust, tömeget és három méretet kér. Ezeket tartsd összevethetően azonos alapokon. Gondosan válts mértékegységet, és őrizd meg a jelöléseket: egy millimétert jelentő érték centiméterként beírva gyökeresen megváltoztatja a számítást.",
+            "Minden feltételezéscsomagot ments el az eredménnyel és dátummal együtt. Ha a csomagolás mellett a célországot, termékbesorolást vagy útvonalat is megváltoztatod, már nem csak a doboz hatását különíted el. Ez a szélesebb összevetés lehet hasznos, de nevezd meg pontosan, ne tulajdoníts minden eltérést az újracsomagolásnak."
+          ]
+        },
+        {
+          "id": "illustrative-calculation",
+          "heading": "3. Értsd meg a térfogatsúly számítását",
+          "paragraphs": [
+            "Az alábbi számítás kitalált, kilogrammonként 5 000 köbcentiméteres osztót használ a számtan bemutatására. Ez nem a Pikobuy általános díjszabási szabályának állítása. A példában szorozd össze a három külső méretet, majd oszd az eredményt 5 000-rel.",
+            "Egy 40 × 30 × 20 cm-es példadoboz térfogata 24 000 köbcentiméter, szemléltető térfogatsúlya 4,8 kg. A tényleges útvonal más osztót, mérési módszert, minimumot vagy kerekítést írhat elő. Olvasd el ezeket a feltételeket, mielőtt a számítást fizetendő súlyalapként értelmezed."
+          ]
+        },
+        {
+          "id": "packing-example",
+          "heading": "4. Hasonlíts össze két feltételezett csomagolást",
+          "paragraphs": [
+            "Mindkét alábbi elrendezésnél 3,2 kg mérlegtömeget feltételezünk, szándékosan azonosat, hogy csak a térfogat hatását vizsgáljuk. A kisebb méretek szemléltetők, nem állítják, hogy a raktár a te tárgyaiddal is elérheti őket.",
+            "Ha egy feltételezett útvonal saját kerekítése előtt a mérlegtömeg és térfogatsúly közül a nagyobbat számlázná, a két kiinduló érték 4,8 kg és 3,2 kg lenne. Ez az összevetés még nem mondja meg az árat, sem azt, hogy a második csomagolás megfelelő-e."
+          ],
+          "table": {
+            "headers": [
+              "Példabeli csomagolás",
+              "Külső méretek",
+              "Szemléltető térfogatsúly",
+              "Mi ellenőrizendő még"
+            ],
+            "rows": [
+              [
+                "Eredeti dobozok külső kartonban",
+                "40 × 30 × 20 cm",
+                "4,8 kg a példa osztójával",
+                "Útvonali díjszámítás és védelem"
+              ],
+              [
+                "Más védőcsomagolás",
+                "35 × 28 × 16 cm",
+                "Körülbelül 3,14 kg a példa osztójával",
+                "Megvalósíthatóság, kezelés és védelem"
+              ]
+            ]
+          }
+        },
+        {
+          "id": "protect-contents",
+          "heading": "5. Döntsd el, mit kell megőriznie a csomagolásnak",
+          "paragraphs": [
+            "Sorold fel a csomagolás feladatait. Egy merev tárgyat védeni kellhet az összenyomástól, egy formázott táskának pedig támaszra lehet szüksége az alakjához. Az apró alkatrészeket együtt kell tartani, nehogy leváljanak a fő termékről. Az eredeti doboz tároláshoz vagy ajándékozáshoz is fontos lehet.",
+            "A címkék, záróelemek vagy csomagolás eltávolításának kérése előtt tisztázz minden nyitott visszaküldési kérdést. Ne cserélj fel egy ismert követelményt feltételezett szállítási megtakarításra. A hasznos utasítás megnevezi, mely csomagolás változhat és milyen védelem maradjon, majd megerősítést kér a javaslatról."
+          ]
+        },
+        {
+          "id": "compare-consolidation",
+          "heading": "6. Gondosan vesd össze az összevonást és a szétosztást",
+          "paragraphs": [
+            "A tárgyak összevonása egyszerűsítheti a küldeményt, de az együttes méretek és termékkör módosíthatják a választékot. A szétosztás újabb díjakat vagy eltérő csomagolást hozhat. Egyik megoldás sem automatikusan olcsóbb.",
+            "A tényleges alternatívák teljes ajánlatait hasonlítsd össze a vonatkozó kezelési díjakkal együtt. A célország és a szolgáltatási elvárások maradjanak összevethetők. Ellenőrizd a termékkorlátozásokat és az összeegyeztethetőséget, ne feltételezd, hogy minden együtt utazhat. A szétosztást ne kezeld egy meghatározott vámeljárási eredmény eszközeként; ez külön kérdés, amelyet az alkalmazandó szabályok és a tényleges küldemény határoznak meg."
+          ]
+        },
+        {
+          "id": "confirm-final-quote",
+          "heading": "7. Erősítsd meg a kész csomagot",
+          "paragraphs": [
+            "Fizetés előtt vesd össze a végső terméklistát, csomagolt méreteket és kezelési utasításokat a vizsgált változattal. Ellenőrizd az útvonal díjszámítását, kerekítését és a fizetendő összeget befolyásoló pótdíjakat. Mentsd el az ajánlatot és az elfogadott választásokat.",
+            "Ha az eredmény lényegesen eltér a becsléstől, jóváhagyás előtt azonosítsd a változást. Lehet nagyobb külső csomag, eltérő tartalom vagy útvonali feltétel. A teljes vásárlási költségvetés frissítése ezen a ponton összeköti a technikailag előnyös csomagolást azzal a gyakorlati kérdéssel, hogy a küldemény még megfelel-e az igényeidnek."
+          ]
+        }
+      ],
+      "sourceIds": [
+        "official-estimate",
+        "official-guide",
+        "official-contact"
+      ],
+      "related": [
+        "shipping",
+        "articles/pikobuy-haul-budget",
+        "articles/pikobuy-warehouse-returns"
+      ]
+    },
+    {
+      "slug": "pikobuy-shoe-sizing",
+      "title": "Pikobuy cipőméretek: lábhossz, címkék és talpbetétek összevetése",
+      "description": "A Pikobuy cipőméretezésénél különítsd el a lábhosszt, talpbetétméreteket és méretcímkéket, majd célzott bizonyítékokkal tisztázd a bizonytalan illeszkedést.",
+      "intro": "Egy Pikobuy találat cipőméretének kiválasztásához nem elég a megszokott számot keresni. A címke csak egy adat; az eladó mérési módszere, a modell formája és a kiválasztott párra vonatkozó bizonyítékok is számítanak. Ez az útmutató úgy segít összevetni ezeket, hogy a lábhosszt, talpbetéthosszt és külső talphosszt nem kezeli felcserélhető mérésként.",
+      "sections": [
+        {
+          "id": "identify-option",
+          "heading": "1. Azonosítsd a pontos cipőváltozatot",
+          "paragraphs": [
+            "Mentsd el a modellt vagy termékhivatkozást, a választott változatot és a termékoldalon szereplő méretrendszert. Az EU, UK vagy US jelölésű számhoz a hozzá tartozó összefüggés is kell. Ha a különböző stílusokhoz eltérő táblázatok vannak, a megfelelő táblát rendeld a kiválasztott változathoz.",
+            "Fizetés előtt hasonlítsd össze az importált választót a forrással. Az ismerősnek tűnő szám is tartozhat rossz rendszerhez vagy termékverzióhoz. Más vásárló szokásos méretével ne dönts el egy nyitott eltérést. Előbb tisztázd, mit jelent az eladó szerint a kiválasztott opció, majd mérlegeld, alátámasztják-e az adatok a kívánt illeszkedést."
+          ]
+        },
+        {
+          "id": "measure-feet",
+          "heading": "2. Következetesen mérd meg a lábad",
+          "paragraphs": [
+            "Mindkét lábadat ugyanazzal a megismételhető módszerrel, azonos testhelyzetben és körülmények között mérd. A nagyobb eredményt jegyezd fel ahelyett, hogy azonosságot feltételeznél. Őrizd meg az egységet és a módszert, hogy az eladó utasításaival összevethesd, és ne csak egy kerekített számra emlékezz.",
+            "A lábhossz egy méretkérdés kiindulópontja, nem teljes válasz. A szélesség, a lábujjak formája és a tervezett zokni is befolyásolhatja a szükséges helyet. Ha az eladó módszert ad meg, alaposan olvasd el az összevetés előtt. Ne cseréld le észrevétlenül másikra csak azért, mert az kényelmesebb méreteredményt ad."
+          ]
+        },
+        {
+          "id": "separate-lengths",
+          "heading": "3. Különítsd el a különböző hosszakat",
+          "paragraphs": [
+            "A lábmérés a viselőt írja le. A talpbetét mérése olyan alkatrészre vonatkozik, amelynek ívei, megemelt szélei vagy a használható térrel nem közvetlenül egyező alakja lehet. A belső mérés a cipőn belüli helyet próbálja megadni. A külső talpmérés a külső szerkezetet is tartalmazza.",
+            "Minden szám mellé írd oda a mérés típusát. Két centiméterben megadott érték nem feltétlenül összevethető. A hosszabb külső talp nem bizonyítja, hogy a lábad elfér, a talpbetét fotójához pedig világos módszer kell, mielőtt méretkérdésre válaszolhat. Értelmezés előtt kérdezd meg, mit és mely pontok között mértek."
+          ]
+        },
+        {
+          "id": "consider-shape",
+          "heading": "4. Vedd figyelembe a formát és a használatot",
+          "paragraphs": [
+            "Gondold át a már kényelmesnek ismert cipőid formáját, miközben tudod, hogy egy másik modell eltérően viselkedhet. A szűk lábujjrész akkor is számíthat, ha a hossz megfelelőnek látszik. A vastag zokni is módosíthatja a rendelkezésre álló teret.",
+            "Ne próbálj minden problémát hosszabb mérettel javítani. A többlethossz nem feltétlenül oldja meg a szélességet, viszont új illeszkedési gondot okozhat. Nevezd meg a tényleges bizonytalanságot, például az előláb szélességét vagy az eladó hosszmeghatározását, és arról kérdezz. Ha a vásárlás távolról nem megállapítható teljesítménytől vagy tartástól függ, egy fotó önmagában nem oldja meg."
+          ]
+        },
+        {
+          "id": "mismatch-example",
+          "heading": "5. Tisztázz egy feltételezett címkeeltérést",
+          "paragraphs": [
+            "Képzeld el, hogy a mentett forrástáblázat egy opcióhoz meghatározott lábhossztartományt rendel, az importált választó viszont más címkét mutat. A példa szándékosan nem ad számszerű átváltást: először az azonosságot kell tisztázni, nem a legismerősebb számot kiválasztani."
+          ],
+          "table": {
+            "headers": [
+              "Adatforrás",
+              "Mit mutat",
+              "Hasznos következő ellenőrzés"
+            ],
+            "rows": [
+              [
+                "Eredeti termékoldal",
+                "Az A változat lábhossztartománnyal",
+                "Mentsd el a pontos táblázatot és változatszöveget"
+              ],
+              [
+                "Importált választó",
+                "Eltérő méretcímke",
+                "Kérdezd meg, megfelel-e az eredeti A változatnak"
+              ],
+              [
+                "Raktári kép",
+                "Olvasható címke az egyik cipőn",
+                "Ellenőrizd a másik cipőt és a megerősített változatot"
+              ],
+              [
+                "Mérési fotó",
+                "Hossz egyértelmű végpontok nélkül",
+                "Tisztázd, talpbetét-, belső vagy külső talphossz-e"
+              ]
+            ]
+          },
+          "list": [
+            "Ne következtess egyenértékűségre kizárólag hasonló címkékből.",
+            "Őrizd meg a megfeleltetést magyarázó választ.",
+            "Állj meg, ha a kiválasztott opció továbbra is kétértelmű."
+          ]
+        },
+        {
+          "id": "request-pair-evidence",
+          "heading": "6. A tényleges pár bizonyítékait ellenőrizd",
+          "paragraphs": [
+            "A raktári képek áttekintésekor kösd a látható címkéket a kiválasztott rendeléshez. Ellenőrizd mindkét cipőt, ha a különbség számít. Ha mérés kell, nevezd meg a kívánt méretet, és bizonyosodj meg arról, hogy a képen a megfelelő végpontok és egy olvasható skála látszik.",
+            "A mérésről úgy kérdezz, hogy nem feltételezed a tárgy tetszőleges kezelésének lehetőségét. Egy alkatrész eltávolítása nem biztos, hogy megfelelő vagy elérhető, egy ívelt darabot pedig nehéz következetesen mérni. Előbb a kérdést fogalmazd meg, majd erősítsd meg az elérhető módszert. A cél értelmezhető bizonyíték, nem homályos eljárással előállított, látszólag pontos szám."
+          ]
+        },
+        {
+          "id": "decide-next-step",
+          "heading": "7. Világos korlátokkal dönts az illeszkedésről",
+          "paragraphs": [
+            "Rögzítsd, hogy az adatok összhangban vannak, hiányosak vagy ellentmondásosak. Az összhang indokolhatja a folytatást, de nem garantál kényelmet. A megválaszolatlan kérdés konkrét tisztázási kéréshez vezessen, ne optimista feltételezéshez.",
+            "Ha a beérkezett változat hibásnak tűnik, vagy a méretadatok ellentmondanak a rendelésnek, gyorsan jelezd a problémát és ellenőrizd a vonatkozó visszaküldési feltételeket. A következő lépés tisztázásáig tartsd épen a címkéket, záróelemeket és csomagolást. A méretdöntés után külön értékeld a cipődoboz és a csomag kialakítását, hogy egy szállítási preferencia ne döntse el az illeszkedés kérdését."
+          ]
+        }
+      ],
+      "sourceIds": [
+        "official-guide",
+        "official-returns"
+      ],
+      "related": [
+        "spreadsheet",
+        "articles/pikobuy-qc-measurements",
+        "articles/pikobuy-parcel-weight-dimensions"
+      ]
+    },
+    {
+      "slug": "pikobuy-bag-dimensions",
+      "title": "Pikobuy táskák: kapacitás, pántok és szerkezet ellenőrzése",
+      "description": "Hasonlítsd össze a Pikobuy táskákat használható nyílásuk, belső méreteik, pántjaik és látható szerkezetük alapján, gyakorlati kapacitáspéldával.",
+      "intro": "Egy táska nagynak tűnhet a termékfotón, mégsem biztos, hogy elfér benne a szükséges tárgy. A külső szélesség, a használható nyílás és a belső forma más kérdésre válaszol. Mielőtt Pikobuy táskatalálatok közül választasz, határozd meg a tartalmát és a viselési módját. Így a méretek és ellenőrzési fotók hasznossá válnak anélkül, hogy a hosszú távú tartósságot vagy anyagösszetételt bizonyítanák.",
+      "sections": [
+        {
+          "id": "define-contents",
+          "heading": "1. A kötelező tartalomból indulj ki",
+          "paragraphs": [
+            "Sorold fel az együtt hordani kívánt tárgyakat. Mérd meg a legnagyobb merev tárgyat a rendszerint használt tokkal vagy borítással együtt. A párnázott tokban lévő laptopnak több hely kell, mint a csupasz készüléknek, egy palack pedig más belmagasságot kívánhat, mint egy lapos jegyzetfüzet.",
+            "Döntsd el, mely tárgyak nélkülözhetetlenek és melyek opcionálisak. Ha egy szükséges tárgy nem fér el, a szép fémkellékek nem oldják meg a gondot. A hozzáférést is mérlegeld: erőfeszítéssel betenni valamit nem ugyanaz, mint naponta kényelmesen kivenni."
+          ]
+        },
+        {
+          "id": "separate-dimensions",
+          "heading": "2. Válaszd külön a külső méretet és a használható teret",
+          "paragraphs": [
+            "A külső méretek a táska teljes körvonalát írják le. A belső helyet csökkentheti a párnázás, a varrás, a rekeszek és az ívelt sarkok. A nyílás a záródás vagy szerkezet miatt még keskenyebb lehet.",
+            "Rögzítsd, melyik méretet közli az ajánlat. A külső szélességet ne nevezd a jegyzeteidben használható kapacitásnak. Merev tárgynál a nyílást és a megfelelő belső méreteket hasonlítsd össze, szükség esetén a mélységet is. Ha csak szemléltető méretarányos fotó van, a korlátozó rész mérését kérd egy ismeretlen kéz vagy test alapján becsült centiméterek helyett."
+          ]
+        },
+        {
+          "id": "check-carrying",
+          "heading": "3. Ellenőrizd a pántokat és a viselési helyzetet",
+          "paragraphs": [
+            "A pánt teljes hossza és az, hogy a táska mennyivel lóg a váll alatt, különböző méretek. Olvasd el a megadott módszert, és nézd meg, az állítási tartomány megfelel-e a tervezett viselésnek. A fogantyúk alatti szabad hely fontos lehet, ha kabát fölött hordanád.",
+            "Vizsgáld meg a pánt rögzítését és levehetőségét, ha ez befolyásolja a használatot. Egyetlen beállítás fotójából ne következtess az állítási tartományra. A kérdés legyen gyakorlati: a mellékelt pánt beállítható-e a szükséges hosszra, és az adatlap világosan írja-e le ezt a méretet?"
+          ]
+        },
+        {
+          "id": "inspect-details",
+          "heading": "4. Nézd át a látható szerkezetet és tartozékokat",
+          "paragraphs": [
+            "A funkció szempontjából lényeges részeket vizsgáld a fotókon: varrások, rögzítési pontok, bélés, záródás illeszkedése és nyílás. Ellenőrizd, a hirdetett levehető pántok vagy más tartozékok benne vannak-e a választott változatban. Az, hogy máshol a termékoldalon látszanak, nem feltétlenül igazolja a te opciód tartalmát.",
+            "Válaszd külön a látható megfigyelést a teljesítményállítástól. A kép mutathat varrást vagy csatot, de biztonságos teherbírást vagy ismételt használati tartósságot nem igazol. A megjelenés önmagában az anyagösszetételt sem azonosítja. Ha konkrét anyag szükséges, keress megfelelő termékinformációt, és jegyezd fel a forrását."
+          ]
+        },
+        {
+          "id": "capacity-example",
+          "heading": "5. Hasonlíts össze két feltételezett táskát",
+          "paragraphs": [
+            "Tegyük fel, hogy a nélkülözhetetlen merev tárgy 30 cm széles és 22 cm magas. A kitalált adatok megmutatják, miért nem elég a legnagyobb külső méret. Egyik jelölt sem termékajánlás, és a példa a mélységet és viselési kényelmet külön ellenőrzendőnek hagyja.",
+            "A B táska a kisebb külső szélesség ellenére további vizsgálatot érdemel. Az 1 cm-es nyíláskülönbséget ne tekintsd garantáltan kényelmes illeszkedésnek: a lekerekítések, párnázás és behelyezési szög továbbra is számíthat. A szoros illeszkedéshez alaposabb bizonyíték kell egy általános összevetésnél."
+          ],
+          "table": {
+            "headers": [
+              "Méret",
+              "Példa A táska",
+              "Példa B táska"
+            ],
+            "rows": [
+              [
+                "Külső szélesség",
+                "35 cm",
+                "33 cm"
+              ],
+              [
+                "Használható nyílásszélesség",
+                "28 cm",
+                "31 cm"
+              ],
+              [
+                "Belső magasság",
+                "25 cm",
+                "23 cm"
+              ],
+              [
+                "Kezdeti következtetés",
+                "A nyílás keskenyebb a tárgynál",
+                "Érdemes ellenőrizni a mélységet, nyílásformát és könnyű hozzáférést"
+              ]
+            ]
+          }
+        },
+        {
+          "id": "plan-packing",
+          "heading": "6. Gondolj a formára és a szállítási védelemre",
+          "paragraphs": [
+            "Egy tartással rendelkező táskának alátámasztás kellhet az összenyomódás ellen, a laza pántokat és apró tartozékokat pedig együtt kell tartani. Határozd meg a sérülékeny részeket és a megőrizni kívánt formát. Ezeket mondd el a csomagolás egyeztetésekor, ne feltétel nélkül a lehető legkisebb csomagot kérd.",
+            "A termékdöntést tartsd külön a szállítási döntéstől. Az alacsony termékár nem árulja el a védőcsomag árát, és a kisebb csomag nem automatikusan alkalmas. Amikor elérhető, hasonlítsd össze a kész csomagméreteket és ajánlatot. A nyitott visszaküldési kérdést tisztázd, mielőtt csomagolásmódosítást kérsz."
+          ]
+        },
+        {
+          "id": "record-bag-decision",
+          "heading": "7. Nevezd meg pontosan a hiányzó kérdést",
+          "paragraphs": [
+            "Zárd az összevetést rövid döntési megjegyzéssel: a megadott méretek alapján alkalmas, konkrét mérésig függőben, vagy követelményhiány miatt törlendő. Hasznos kérés lehet a teljesen nyitott záródás melletti használható nyílás vagy a pánt állítható tartományának mérése világosan megadott végpontokkal.",
+            "A forrást, választott változatot és választ őrizd a jelöltnél. Amikor a saját darabodat ellenőrzik, vesd össze a releváns bizonyítékot ezzel az adatlappal. Így a döntés a táska feladatára összpontosít, miközben az igazolatlan hosszú távú kopás, teherbírás és anyageredetiség kívül marad a következtetésen."
+          ]
+        }
+      ],
+      "sourceIds": [
+        "official-user-agreement",
+        "official-estimate"
+      ],
+      "related": [
+        "spreadsheet",
+        "articles/pikobuy-qc-measurements",
+        "articles/pikobuy-parcel-weight-dimensions"
+      ]
+    },
+    {
+      "slug": "pikobuy-warehouse-returns",
+      "title": "Pikobuy raktári visszaküldés: határidő, bizonyítékok és költségek",
+      "description": "Készíts Pikobuy raktári visszaküldési kérést a rendelés állapotával, releváns bizonyítékokkal és egyértelmű kérdésekkel a feltételekről, határidőről és díjakról.",
+      "intro": "A raktári visszaküldés kérdését könnyebb kezelni, ha azonosítod a rendelési szakaszt, megőrzöd a termék állapotát és világosan leírod a problémát. Kezdj hozzá gyorsan ahelyett, hogy tökéletes fotógyűjteményre várnál. Ez a független útmutató segít rendszerezni a kérést; nem dönt a jogosultságról, nem ígér jóváhagyást, és nem helyettesíti az aktuális szabályzatot vagy az adott rendelésre kapott választ.",
+      "sections": [
+        {
+          "id": "identify-return-stage",
+          "heading": "1. Állapítsd meg, hol van a termék",
+          "paragraphs": [
+            "Ellenőrizd, az eladó feladta-e, a raktárban van-e, vagy már nemzetközi csomagban elindult. Jegyezd fel az állapot pontos szövegét és a megjelenített időt. A különböző szakaszok más gyakorlati kérdéseket vetnek fel, ezért ne nevezz minden kérést egyszerűen pénzvisszatérítésnek.",
+            "Mentsd el a rendelési hivatkozást, a kiválasztott változatot és a fizetési adatlapot. Ha több tárgy tartozik egy rendeléshez, pontosan azonosítsd az érintettet. Rossz méretű felső esetén a támogatásnak ne kelljen kitalálnia, nem egy másik felsőről beszélsz-e ugyanabban a vásárlásban. Csak az adott problémához szükséges információt add meg."
+          ]
+        },
+        {
+          "id": "check-clock",
+          "heading": "2. Ellenőrizd az aktuális kérelmezési időablakot",
+          "paragraphs": [
+            "A Pikobuy visszaküldési oldala 120 órás raktári kérelmezési időablakot és feltételekhez kötött elfogadást ír le. A rendelésed pontos határidejét az élő folyamatban vagy a támogatással erősítsd meg. Egy csak dátumot mutató képernyőképet ne tekints elegendőnek a pontos határidő kiszámításához.",
+            "Rögzítsd a rendelésnél látható időt és időzónát, és őrizd meg a kérés visszaigazolását. Ha bizonytalan a jogosultság, kérdezz gyorsan ahelyett, hogy a későbbi érdeklődéstől határidő-hosszabbítást várnál. A támogatással folytatott beszélgetés nem bizonyít hosszabbítást, kivéve ha azt a vonatkozó eljárás kifejezetten megerősíti. Ezt a különbséget tartsd láthatóan a jegyzeteidben."
+          ]
+        },
+        {
+          "id": "preserve-condition",
+          "heading": "3. Őrizd meg a bizonyítékokat és a termék állapotát",
+          "paragraphs": [
+            "Az ügy vizsgálata alatt hagyd érintetlenül a címkéket, záróelemeket, csomagolást és tartozékokat. Ne kérj módosítást csak azért, hogy a fotó világosabbnak tűnjön. Ha az ellenőrzéshez valamit fel kell nyitni vagy eltávolítani, előbb kérdezz rá a következményére.",
+            "Mentsd el a forrásoldalt, a kiválasztott változatot, a megfelelő mérettáblázatot és a problémát mutató fotókat. Jelöld, mely képek tartoznak a saját darabodhoz. Egy korábbi vásárló fotója szemléltetheti az elvárást, de a legvilágosabb kérés a rögzített rendelést veti össze a beérkezett termék bizonyítékaival. A magyarázó jelölések mellett az eredeti fájlokat is őrizd meg."
+          ]
+        },
+        {
+          "id": "classify-issue",
+          "heading": "4. Túlzás nélkül írd le a problémát",
+          "paragraphs": [
+            "Különítsd el a változateltérést, látható hibát, bizonytalan méretet és meggondolást. Ezek a leírások segítenek megérteni, mit kérsz vizsgálni. Alátámasztható megfigyelést használj, például hogy a látható címke eltér a választott mérettől, ne általánosan azt állítsd, hogy minden rossz.",
+            "Az alábbi táblázat szerkesztői előkészítő eszköz, nem hivatalos jogosultsági lista. Azt mutatja meg, hogyan változik a bizonyíték és a kérdés a probléma szerint."
+          ],
+          "table": {
+            "headers": [
+              "Probléma",
+              "Rendszerezendő bizonyíték",
+              "Felteendő kérdés"
+            ],
+            "rows": [
+              [
+                "Rossz kiválasztott változat",
+                "Rendelési választás és beérkezett címke",
+                "Megvizsgálható ez az eltérés visszaküldés céljából?"
+              ],
+              [
+                "Látható sérülés",
+                "Egyértelmű hely és környező nézetek",
+                "Milyen bizonyíték kell a sérülés értékeléséhez?"
+              ],
+              [
+                "Bizonytalan illeszkedés",
+                "Forrástáblázat és olvasható mérések",
+                "Tisztázható a méreteltérés?"
+              ],
+              [
+                "Meggondoltad magad",
+                "Termékállapot és megőrzött állapot",
+                "Elérhető a visszaküldés, és mennyibe kerülne?"
+              ]
+            ]
+          }
+        },
+        {
+          "id": "write-request",
+          "heading": "5. Írj tömör, intézhető kérést",
+          "paragraphs": [
+            "Kezdd a rendelési hivatkozással és az érintett tárggyal. Egy-két mondatban írd le a problémát, majd azonosítsd az alátámasztó képeket. Mondd el a kívánt eredményt, miközben teret hagysz a tényleges eljárásnak és a jogosultsági döntésnek.",
+            "Például: a rendelésemben a kék változatot választottam, de a raktári címke és képek feketének mutatják. Csatoltam a kiválasztott opciót és a beérkezett termék fotóit. Kérlek, erősítsétek meg, hibás-e a változat, és kérhető-e raktári visszaküldés. Ez eredeti megfogalmazási példa, nem állítás arról, hogy az eredményt biztosan jóváhagyják."
+          ]
+        },
+        {
+          "id": "confirm-costs",
+          "heading": "6. Folytatás előtt kérd el a teljes költséget",
+          "paragraphs": [
+            "A visszaküldési díjak befolyásolhatják, van-e gyakorlati értelme annak a kérésnek, amelyet azért nyújtasz be, mert meggondoltad magad. Kérdezz rá a konkrét termékre vonatkozó összetevőkre és végösszegre, beleértve a szállítási és szolgáltatási díjat. Ne más vásárló tapasztalatából számold ki az eredményt.",
+            "A hivatalos oldal az eredeti szállítási díjakról nem következetesen fogalmaz, ezért kérj rendelésre szabott tisztázást. Jegyezd fel az ajánlott költséget, a közlőjét és feltételeit. Ha várható visszatérítésről van szó, válaszd külön a termék összegét az esetleg továbbra is fizetendő díjaktól. Ne feltételezd, hogy az eredetileg kifizetett teljes összeg szükségképpen visszajár."
+          ]
+        },
+        {
+          "id": "follow-case",
+          "heading": "7. Tiszta nyilvántartással kövesd az ügyet",
+          "paragraphs": [
+            "Vezess rövid időrendet a kérésről, visszaigazolásokról, új bizonyítékokról és döntésekről. Ahol megfelelő, a meglévő ügyben válaszolj, hogy az összefüggések együtt maradjanak. Ha a támogatás egy hiányzó részletet kér, közvetlenül arra felelj a teljes vásárlás újramesélése helyett.",
+            "Mielőtt jóváhagysz egy lépést, ellenőrizd, hogy a megfelelő termékre és az általad megértett megoldásra vonatkozik. Őrizd meg az elfogadott és a még függőben lévő elemek megerősítését. A benyújtott kérés, az eladó válasza és a lezárt visszatérítés külön események. Külön rögzítésük segít követni az eredményt anélkül, hogy az előrelépést befejezésnek tekintenéd."
+          ]
+        }
+      ],
+      "sourceIds": [
+        "official-returns",
+        "official-contact"
+      ],
+      "related": [
+        "qc",
+        "articles/pikobuy-qc-measurements",
+        "articles/pikobuy-haul-budget"
+      ]
+    },
+    {
+      "slug": "pikobuy-tracking-not-updating",
+      "title": "Nem frissül a Pikobuy nyomkövetés? Ellenőrizd a szakaszt és a következő lépést",
+      "description": "A Pikobuy nyomkövetés elakadásánál azonosítsd a szállítási szakaszt, olvasd el a rendelkezésre álló bizonyítékokat, és készíts hasznos támogatási kérést.",
+      "intro": "Ha a Pikobuy nyomkövetés csendesnek tűnik, először tisztázd, melyik mozgást követed. Az eladó raktárba küldött szállítmánya és a későbbi nemzetközi csomag külön szakasz. A rendelési adatlap, a csomaghivatkozás és a fuvarozói nyomkövetési szám is más kérdésre válaszolhat. A következő hasznos lépés az utolsó megerősített eseménytől függ, nem a termék első kifizetése óta eltelt napoktól.",
+      "sections": [
+        {
+          "id": "identify-shipment",
+          "heading": "1. Azonosítsd a követett mozgást",
+          "paragraphs": [
+            "Írd le, hogy az eladó feladására, raktári feldolgozásra vagy nemzetközi csomagra vársz-e. A megfelelő hivatkozást tartsd az adott szakasz mellett. Ne feltételezd, hogy az egyik mozgáshoz tartozó szám a következőt is követi.",
+            "Több terméknél válaszd külön az egyes tárgyak és a több tételt tartalmazó csomag előrehaladását. Egy eladó feladása nem igazolja, hogy a tervezett csomag teljes tartalma készen áll. A tényleges rendelési és csomagadatokból állapítsd meg, mit küldtek be, ne emlékezetből rakd össze a folyamatot."
+          ]
+        },
+        {
+          "id": "locate-dispatch",
+          "heading": "2. Keresd meg a nemzetközi feladás eseményét",
+          "paragraphs": [
+            "A Pikobuy útmutatója a háromnapos nyomkövetési információról szóló állítást a csomag feladása utáni időre helyezi. Ez a kezdőpont fontos. A termékfizetés, raktári beérkezés és csomagbeküldés nem automatikusan ugyanaz, mint a nemzetközi feladás.",
+            "A közzétett iránymutatással való összevetés előtt nézd meg a feljegyzett feladási dátumot. Ha a nyilvántartás nem igazolja világosan a feladást, kérj magyarázatot ahelyett, hogy a hiányzó szkennelést fuvarozói késésnek tekintenéd. A választ tartsd a csomagadatoknál. Az állítás a nyomkövetés elérhetőségére vonatkozik; nem ad garantált érkezési dátumot, és nem diagnosztizálja egy konkrét szünet okát."
+          ]
+        },
+        {
+          "id": "read-event-type",
+          "heading": "3. A legutóbbi esemény tényleges szövegét olvasd",
+          "paragraphs": [
+            "A címke vagy szállítási adatok létezésének bejegyzése nem ugyanaz, mint a csomag fizikai fuvarozói átvételének bizonyítéka. A későbbi események feldolgozást, átadást, kézbesítési kísérletet vagy más műveletet írhatnak le. A teljes szöveget és időbélyeget olvasd, ne csak a színes folyamatjelzőre támaszkodj.",
+            "Az ismeretlen állapotszöveget ne fordítsd erősebb állítássá, mint amit alátámaszt. Ha az esemény partnert vagy másik fuvarozót nevez meg, jegyezd fel, és ellenőrizd a hozzá adott hivatkozást. Ne feltételezd, hogy egy általános internetes státuszszótár pontosan meghatározza a küldeményed minden üzenetét."
+          ]
+        },
+        {
+          "id": "build-timeline",
+          "heading": "4. Készíts rövid bizonyíték-időrendet",
+          "paragraphs": [
+            "Egy egyszerű napló segít megkülönböztetni a változatlan eseményt az új, hasonló szövegű bejegyzéstől. Pontosan másold a megfogalmazást, őrizd meg a kijelzett időt, és jegyezd fel a forrást. Az alábbi egy feltételezett naplóforma, nem valós csomagtörténet vagy hivatalos állapotszótár."
+          ],
+          "table": {
+            "headers": [
+              "Esemény a példanaplóban",
+              "Mi következtethető",
+              "Mi marad ismeretlen"
+            ],
+            "rows": [
+              [
+                "Csomagbeküldés rögzítve",
+                "Látható egy beküldési művelet",
+                "Megtörtént-e a feladás"
+              ],
+              [
+                "Feladás rögzítve",
+                "A platform feladást jelez",
+                "Látható-e fuvarozói szkennelés"
+              ],
+              [
+                "Szállítási adatok beérkeztek",
+                "Elektronikus információt rögzítettek",
+                "Megerősítették-e a fizikai átvételt"
+              ],
+              [
+                "Fuvarozói átvétel rögzítve",
+                "Látható egy átvételi esemény",
+                "A végső kézbesítés dátuma"
+              ],
+              [
+                "Kézbesítési kivétel rögzítve",
+                "Egy probléma értelmezést igényel",
+                "A tisztázásig az ok és szükséges teendő"
+              ]
+            ]
+          }
+        },
+        {
+          "id": "choose-next-action",
+          "heading": "5. A hiányzó bizonyítékhoz válassz lépést",
+          "paragraphs": [
+            "Ha nincs nemzetközi csomaghivatkozás, a platform adatlapjával kezdj. Ha a feladás rögzített, de a nyomkövetés nem jelent meg a közzétett iránymutatás szerint, kérdezd a Pikobuyt az adott csomagról. Ha van fuvarozói esemény, de nem változik, őrizd meg az utolsó megerősített bejegyzést, és ellenőrizd a szolgáltatásra vonatkozó tájékoztatást.",
+            "Cím- vagy kézbesítési kivételnél gondosan olvasd el a kért lépést, és ellenőrizd a valódi fuvarozói vagy platformcsatornán. A csendes nyomkövetési időszak önmagában nem bizonyít elveszést, és egy megnyugtató becslés sem bizonyítja a csomag haladását. A kérdés a hiányzó bizonyítékra vagy intézkedésre összpontosítson."
+          ]
+        },
+        {
+          "id": "prepare-ticket",
+          "heading": "6. Küldd el a hasznos részleteket a támogatásnak",
+          "paragraphs": [
+            "Add meg a csomaghivatkozást, a látható feladási dátumot, a fuvarozót és nyomkövetési számot, valamint a legutóbbi eseményt az időbélyeggel. Csatolj képernyőképet, ha az megőrzi a később változó szöveget. Fogalmazd meg a megválaszolandó kérdést, például hogy megerősítették-e a fuvarozónak történő átadást.",
+            "Tömör példa: ez a csomag a rögzített napon feladást mutat, de nem találok fuvarozói átvételi eseményt. Csatoltam az aktuális követési szöveget. Kérlek, erősítsétek meg az utolsó igazolt mozgást és azt, kell-e tennem valamit. A megfelelő támogatási csatornát a Pikobuy hivatalos Kapcsolat oldalán keresd; ez a független oldal nem láthat bele a privát küldeményedbe."
+          ]
+        },
+        {
+          "id": "close-record",
+          "heading": "7. A kézbesítésig őrizd meg a naplót",
+          "paragraphs": [
+            "Lényeges esemény érkezésekor frissítsd a naplót, és ugyanannak az oldalnak az ismételt ellenőrzését ne értelmezd új bizonyítékként. Őrizd meg a következő lépést módosító utasításokat és válaszokat. Ha az ügyedhez határidőt vagy továbblépési szintet adnak, azt külön rögzítsd.",
+            "Érkezéskor vesd össze a tartalmat a terméklistával és a megőrzött ellenőrzési feljegyzéssel. Az eltérések tisztázása alatt tartsd meg a szükséges csomagolást és címkéket. A befejezett nyomkövetés és a megfelelő tartalomellenőrzés külön megfigyelések. A tiszta napló segít elmagyarázni a kézbesítési vagy termékproblémát anélkül, hogy összekevernéd őket."
+          ]
+        }
+      ],
+      "sourceIds": [
+        "official-guide",
+        "official-contact"
+      ],
+      "related": [
+        "shipping",
+        "guide",
+        "faq"
+      ]
+    }
+  ]
+}

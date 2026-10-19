@@ -23,3 +23,7 @@ if(catalog){const grid=document.getElementById('catalog-grid'),status=document.g
     }catch(e){if(e.name==='AbortError')return;grid.hidden=true;status.textContent=e.message==='search_too_broad'?t.refine:t.error;const retry=el('button','',t.retry);retry.addEventListener('click',()=>loadCatalog());status.append(retry);}}
   form.addEventListener('submit',e=>{e.preventDefault();update({q:form.elements.q.value.trim(),category:'all',page:1});});sort.addEventListener('change',()=>update({sort:sort.value,page:1}));document.querySelectorAll('[data-category]').forEach(a=>a.addEventListener('click',e=>{e.preventDefault();update({category:a.dataset.category,q:'',page:1});}));prev.addEventListener('click',()=>update({page:currentPage-1},true));next.addEventListener('click',()=>update({page:currentPage+1},true));window.addEventListener('popstate',()=>loadCatalog());loadCatalog();}
 const product=new URLSearchParams(location.search).get('product');if(product&&/^\d+$/.test(product))openProduct(product);
+
+// Keep the complete table of contents available without pushing mobile readers down.
+const articleContents = document.querySelector('.article-toc details');
+if (articleContents && window.matchMedia('(max-width: 800px)').matches) articleContents.open = false;

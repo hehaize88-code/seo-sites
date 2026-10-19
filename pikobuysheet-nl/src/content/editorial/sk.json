@@ -1,0 +1,1254 @@
+{
+  "ui": {
+    "articles": "Články",
+    "faq": "Časté otázky",
+    "articlesTitle": "Praktickí sprievodcovia Pikobuy",
+    "articlesIntro": "Praktickí sprievodcovia výberom produktov, kontrolou údajov, plánovaním nákladov a zabezpečením dopravy.",
+    "faqTitle": "Odpovede na vaše otázky o Pikobuy",
+    "faqIntro": "Odpovede na 24 otázok na základe oficiálnych stránok Pikobuy.",
+    "toc": "Na tejto stránke",
+    "sources": "Zdroje",
+    "checked": "Overené",
+    "byline": "PikobuySheet",
+    "readArticle": "Prečítať článok",
+    "related": "Súvisiace články",
+    "allArticles": "Všetky články",
+    "latestArticles": "Najnovšie články",
+    "articleCount": "10 praktických sprievodcov",
+    "sourceLink": "Oficiálny zdroj"
+  },
+  "faq": [
+    {
+      "id": "what-is-pikobuy",
+      "question": "Čo robí Pikobuy?",
+      "answer": "Pikobuy pomáha používateľom hľadať produkty z Číny, kupovať ich od predajcov, prijímať ich vo svojom sklade a zabezpečiť medzinárodnú prepravu. Úvodná stránka tieto činnosti opisuje ako samostatné fázy služby.",
+      "sourceIds": [
+        "official-home"
+      ]
+    },
+    {
+      "id": "supported-marketplaces",
+      "question": "Ktoré trhoviská uvádza sprievodca?",
+      "answer": "Oficiálny sprievodca uvádza Taobao, Tmall, 1688, Weidian a Yupoo. Pred zadaním nákupnej požiadavky skontrolujte presný produkt, veľkosť a farbu.",
+      "sourceIds": [
+        "official-guide"
+      ]
+    },
+    {
+      "id": "finding-products",
+      "question": "Ako môžem požiadať Pikobuy o nájdenie produktu?",
+      "answer": "Úvodná stránka Pikobuy opisuje priame vyhľadávanie a posielanie odkazov, obrázkov alebo požiadaviek na nájdenie produktov. Sú to služby samotného Pikobuy; nepotvrdzujú vyhľadávanie podľa obrázka v tomto nezávislom katalógu.",
+      "sourceIds": [
+        "official-home"
+      ]
+    },
+    {
+      "id": "two-payments",
+      "question": "Prečo sa nákup a doprava platia osobitne?",
+      "answer": "Podľa sprievodcu sa nákup platí pred kontrolou v sklade. Neskôr vyberiete prepravnú trasu, zadáte balík na odoslanie a zaplatíte medzinárodnú dopravu.",
+      "sourceIds": [
+        "official-guide"
+      ]
+    },
+    {
+      "id": "payment-options",
+      "question": "Aké spôsoby platby môžem použiť?",
+      "answer": "Pikobuy uvádza podporu viacerých mien a zobrazuje logá kariet a digitálnych peňaženiek, napríklad Visa, Mastercard, Klarna, Google Pay a Apple Pay. Pred platbou skontrolujte skutočne dostupné metódy, meny a celkovú sumu v pokladni.",
+      "sourceIds": [
+        "official-about"
+      ]
+    },
+    {
+      "id": "failed-payment",
+      "question": "Spracuje sa objednávka, ak platba zlyhá?",
+      "answer": "Podmienky Pikobuy uvádzajú, že pri neúspešnej platbe sa objednávka nespracuje. Skontrolujte výsledok platby vo svojom účte a kontaktujte oficiálnu podporu, ak stav transakcie zostáva nejasný.",
+      "sourceIds": [
+        "official-terms"
+      ]
+    },
+    {
+      "id": "warehouse-inspection",
+      "question": "Čo sa deje po príchode tovaru do skladu?",
+      "answer": "Sprievodca opisuje evidenciu príjmu, potvrdenie fotografiami a kontrolu chýb. Prezrite si údaje vlastnej objednávky, skôr než rozhodnete, čo odoslať.",
+      "sourceIds": [
+        "official-guide"
+      ]
+    },
+    {
+      "id": "qc-limits",
+      "question": "Zaručujú kontrolné fotografie pravosť alebo funkčnosť?",
+      "answer": "Nie. Používateľská zmluva vysvetľuje, že pri niektorých produktoch nemožno profesionálne overiť kvalitu alebo pravosť. Kontrola sa môže obmedziť na vonkajší stav a príslušenstvo. Fotografie sú užitočným podkladom, ale nie všeobecnou zárukou produktu.",
+      "sourceIds": [
+        "official-user-agreement"
+      ]
+    },
+    {
+      "id": "detailed-photos",
+      "question": "Môžem požiadať o podrobnejšie kontrolné fotografie?",
+      "answer": "Podmienky preposielania uvádzajú, že zákazníci si môžu pozrieť kontrolné fotografie Pikobuy alebo zakúpiť ďalšie detailné zábery. Overte v Pikobuy dostupnosť služby a cenu pre konkrétny výrobok.",
+      "sourceIds": [
+        "official-shipping"
+      ]
+    },
+    {
+      "id": "packaging",
+      "question": "Môžem požiadať o iné balenie?",
+      "answer": "Nákupný sprievodca spomína požiadavky na minimálne alebo spevnené balenie. Uveďte svoje potreby a overte dostupné možnosti prípravy, skôr než zadáte balík na odoslanie.",
+      "sourceIds": [
+        "official-guide"
+      ]
+    },
+    {
+      "id": "consolidation",
+      "question": "Môžu byť výrobky rôznych predajcov v jednom balíku?",
+      "answer": "Kontaktná stránka Pikobuy uvádza, že tovar rôznych predajcov možno spojiť do jedného balíka s jedným poplatkom za dopravu. Porovnajte výslednú ponuku; úspora nie je zaručená pri každej objednávke.",
+      "sourceIds": [
+        "official-contact"
+      ]
+    },
+    {
+      "id": "storage",
+      "question": "Ako dlho môžu moje výrobky zostať v sklade?",
+      "answer": "Podmienky preposielania potvrdzujú uskladnenie po prijatí, ale nestanovujú všeobecnú bezplatnú dobu ani lehotu. Pred čakaním overte aktuálne podmienky svojich výrobkov v Pikobuy alebo sa obráťte na oficiálnu podporu.",
+      "sourceIds": [
+        "official-shipping"
+      ]
+    },
+    {
+      "id": "shipping-estimate",
+      "question": "Čo potrebujem na odhad ceny dopravy?",
+      "answer": "Kalkulátor Pikobuy požaduje miesto určenia, druh produktu, hmotnosť, dĺžku, šírku a výšku. Použite čo najpresnejšie údaje a pred platbou skontrolujte konečnú cenu balíka; cena produktu nie je ponukou dopravy.",
+      "sourceIds": [
+        "official-estimate"
+      ]
+    },
+    {
+      "id": "delivery-choice",
+      "question": "Ktorú prepravnú trasu si mám vybrať?",
+      "answer": "Pikobuy ponúka viac prepravných kanálov a kombinácií trás. Porovnajte možnosti aktuálne dostupné pre váš cieľ a balík. Verejná informačná stránka neurčuje vždy najlacnejšiu trasu ani nezaručuje dátum doručenia.",
+      "sourceIds": [
+        "official-about"
+      ]
+    },
+    {
+      "id": "tracking",
+      "question": "Kedy by sa mali objaviť údaje o sledovaní?",
+      "answer": "Nákupný sprievodca uvádza dostupnosť sledovania do troch dní od odoslania. Berte to ako zverejnené usmernenie a kontaktujte Pikobuy, ak sa aktualizácia oneskorí.",
+      "sourceIds": [
+        "official-guide"
+      ]
+    },
+    {
+      "id": "taxes",
+      "question": "Môžu vzniknúť ďalšie náklady okrem objednávky a dopravy?",
+      "answer": "Áno. Podmienky Pikobuy uvádzajú, že medzinárodné objednávky môžu zahŕňať clá, dane, poplatky za colné vybavenie alebo iné náklady hradené zákazníkom. Pred nákupom overte požiadavky cieľa a podmienky vybranej dopravy.",
+      "sourceIds": [
+        "official-terms"
+      ]
+    },
+    {
+      "id": "forwarding",
+      "question": "Môžem preposlať výrobky, ktoré som kúpil samostatne?",
+      "answer": "Podmienky opisujú získanie adresy skladu od podpory alebo z formulára preposielania, zaslanie potrebných údajov a čakanie na prijatie a fotografie. Potom zadáte balík a zaplatíte dopravu cez Pikobuy.",
+      "sourceIds": [
+        "official-shipping"
+      ]
+    },
+    {
+      "id": "forwarded-after-sales",
+      "question": "Kto rieši popredajné požiadavky pri preposielanom tovare?",
+      "answer": "Pri preposielanom tovare Pikobuy odkazuje popredajné otázky na odosielateľa alebo predajcu. Podľa podmienok môže pomôcť poslať tovar späť, ale neposkytuje popredajný servis samotného výrobku.",
+      "sourceIds": [
+        "official-shipping"
+      ]
+    },
+    {
+      "id": "return-deadline",
+      "question": "Kedy musím požiadať o vrátenie zo skladu?",
+      "answer": "Pravidlá vrátenia stanovujú 120 hodín počítaných od hodiny nasledujúcej po zmene stavu na In Warehouse (v sklade). Požiadajte čo najskôr; prijatie stále závisí od splnenia podmienok.",
+      "sourceIds": [
+        "official-returns"
+      ]
+    },
+    {
+      "id": "return-eligibility",
+      "question": "Dá sa vrátiť každý produkt?",
+      "answer": "Nie. Rozhoduje účasť predajcu, stav umožňujúci ďalší predaj a lehota. Zákazkové výrobky, upravené obaly a určité kategórie majú obmedzenia. Overte oprávnenosť pred objednaním alebo odstránením visačiek.",
+      "sourceIds": [
+        "official-returns"
+      ]
+    },
+    {
+      "id": "return-costs",
+      "question": "Je vrátenie vždy bezplatné?",
+      "answer": "Nie. Pravidlá uvádzajú náklady na dopravu a služby pri vrátení z rozhodnutia zákazníka. Opýtajte sa podpory na presnú celkovú sumu pre svoju objednávku, pretože zverejnené údaje o dopravných poplatkoch si odporujú.",
+      "sourceIds": [
+        "official-returns"
+      ]
+    },
+    {
+      "id": "wrong-or-damaged-item",
+      "question": "Čo ak predajca pošle nesprávny výrobok?",
+      "answer": "Nesúlad bezodkladne nahláste cez Pikobuy. Pravidlá rozlišujú chyby predajcu a problémy s kvalitou od vrátenia z rozhodnutia zákazníka, ale súhlas predajcu a okolnosti konkrétneho prípadu ovplyvňujú výsledok.",
+      "sourceIds": [
+        "official-returns"
+      ]
+    },
+    {
+      "id": "not-shipped-cancellation",
+      "question": "Platí sa za žiadosť o vrátenie pri stave Not Shipped?",
+      "answer": "Časté otázky o vrátení uvádzajú, že poplatok za vrátenie sa neúčtuje, ak objednávka ešte nebola odoslaná. Pred podaním žiadosti skontrolujte aktuálny stav.",
+      "sourceIds": [
+        "official-returns"
+      ]
+    },
+    {
+      "id": "official-support",
+      "question": "Kam sa obrátiť s otázkou o objednávke, platbe alebo balíku?",
+      "answer": "Použite oficiálnu kontaktnú stránku Pikobuy, ktorá odporúča vytvoriť požiadavku podpory a uvádza kontaktné kanály. Tento nezávislý katalóg nemá prístup k vášmu účtu Pikobuy a nemôže meniť objednávky ani riešiť platby vo vašom mene.",
+      "sourceIds": [
+        "official-contact"
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "slug": "pikobuy-spreadsheet-checklist",
+      "title": "Kontrolný zoznam Pikobuy spreadsheet: porovnajte produkty pred objednaním",
+      "description": "Pomocou praktického kontrolného zoznamu Pikobuy spreadsheet porovnajte pôvodné odkazy, varianty, fotografie a rozpočet a vyberte produkty na bližšie preverenie.",
+      "intro": "Pikobuy spreadsheet je užitočný vtedy, keď vám pomáha rozhodnúť sa. Dlhý zoznam uložených produktov môže skrývať chýbajúce veľkosti, neaktuálne odkazy a prehliadnuté náklady. Cieľom tohto kontrolného zoznamu je premeniť niekoľko zaujímavých nálezov na krátky, odôvodnený výber. Aktuálnu ponuku produktu oddeľte od vlastných poznámok a každému kandidátovi určte jasný ďalší krok skôr, než miniete peniaze.",
+      "sections": [
+        {
+          "id": "define-the-job",
+          "heading": "1. Určte, na čo má nákup slúžiť",
+          "paragraphs": [
+            "Začnite situáciou, v ktorej budete výrobok používať. Taška na notebook musí spĺňať iné požiadavky než malá večerná kabelka. Mikina určená na vrstvenie má sedieť inak než mikina pod priliehavú bundu. Jednou vetou opíšte jej účel a určte dve až tri požiadavky, z ktorých nemôžete ustúpiť.",
+            "Celkový limit výdavkov si stanovte pred prezeraním cien. Nechajte si priestor na náklady, ktoré ešte potrebujete odhadnúť. Výrobok, ktorý sa vám páči, ale nespĺňa praktické požiadavky, by nemal zostať vo výbere len pre príťažlivý náhľad."
+          ]
+        },
+        {
+          "id": "build-a-record",
+          "heading": "2. Uložte údaje o každom kandidátovi",
+          "paragraphs": [
+            "Zaznamenajte pôvodnú URL adresu, predajcu alebo obchod, presný variant, zobrazenú cenu a dátum kontroly. Priložte tabuľku veľkostí alebo dôležitú špecifikáciu. Názov v prehľade býva kratší než úplná ponuka a môže vynechať variant, ktorý určuje cenu.",
+            "Krátko si poznačte dôvod uloženia produktu. Môže napríklad zodpovedať požadovanej šírke otvoru alebo mať správnu dĺžku rukáva. Ak nedokážete vysvetliť, prečo je vhodný, vráťte sa k požiadavkám namiesto pridávania ďalších takmer rovnakých riadkov."
+          ]
+        },
+        {
+          "id": "separate-evidence",
+          "heading": "3. Určte, čo jednotlivé fotografie skutočne ukazujú",
+          "paragraphs": [
+            "Fotografia predajcu ukazuje spôsob prezentácie výrobku. Snímka skoršieho kupujúceho môže zachytávať predchádzajúcu objednávku. Vaše vlastné skladové fotografie sa týkajú kusu prijatého pre vašu objednávku. Tieto druhy podkladov rozlišujte; ich užitočnosť závisí od otázky, ktorú riešite.",
+            "Staršia fotografia môže napovedať, ktorý detail skontrolovať, ale nepotvrdzuje stav budúceho nákupu. Ani pekná produktová snímka nevyrieši nejasný rozmer. Vedľa obrázka napíšte nezodpovedanú otázku a nepovažujte samotnú prítomnosť fotografie za dokončenú kontrolu."
+          ]
+        },
+        {
+          "id": "apply-hard-stops",
+          "heading": "4. Najprv vyriešte zásadné nedostatky",
+          "paragraphs": [
+            "Preverte požiadavky, ktorých nesplnenie by nákup znemožnilo: totožnosť výrobku, dostupný variant, dôležité rozmery a zvládnuteľný celkový rozpočet. Ak pôvodný odkaz otvorí iný produkt alebo vybraná veľkosť nemá zrozumiteľnú tabuľku, daný riadok pozastavte.",
+            "Až potom porovnávajte osobné preferencie. Farba, povrch a štýl pomôžu pri výbere medzi vhodnými kandidátmi, ale nenahradia otvor priúzky na notebook. Vyhnite sa bodovaniu, pri ktorom niekoľko príťažlivých vlastností vyváži jednu zásadnú chybu. Jednoduché pozastavenie býva zrozumiteľnejšie než zavádzajúco presné číselné hodnotenie."
+          ]
+        },
+        {
+          "id": "compare-example",
+          "heading": "5. Porovnajte tri hypotetické produkty",
+          "paragraphs": [
+            "Príklad sa týka tašky, do ktorej sa musí zmestiť pevný predmet široký 30 cm. Hodnoty sú vymyslené na vysvetlenie metódy a nepochádzajú z aktuálnych ponúk. Všimnite si, že najnižšia uvedená cena neurčuje, ktorému riadku sa oplatí venovať pozornosť."
+          ],
+          "table": {
+            "headers": [
+              "Kandidát",
+              "Dostupné podklady",
+              "Rozhodnutie a ďalší krok"
+            ],
+            "rows": [
+              [
+                "A",
+                "Doložená šírka otvoru je 28 cm",
+                "Vyradiť: zásadná požiadavka nie je splnená"
+              ],
+              [
+                "B",
+                "Vonkajšia šírka je 34 cm; otvor nie je známy",
+                "Pozastaviť: vyžiadať využiteľnú šírku otvoru"
+              ],
+              [
+                "C",
+                "Doložená šírka otvoru je 32 cm; rozpočet je neúplný",
+                "Ponechať na preverenie: dokončiť odhad celkových nákladov"
+              ]
+            ]
+          }
+        },
+        {
+          "id": "make-next-action",
+          "heading": "6. Každému uloženému riadku určte ďalší krok",
+          "paragraphs": [
+            "Používajte pracovné označenia ponechať, pozastaviť a vyradiť. Ponechať znamená, že dostupné podklady odôvodňujú ďalší krok, nie že je výrobok overený alebo schválený. Pozastaviť znamená, že jediná odpoveď môže zmeniť rozhodnutie. Vyradiť znamená nesplnenú požiadavku alebo to, že ďalšie hľadanie chýbajúcich informácií už nemá zmysel.",
+            "Zvoľte dostatočne konkrétnu úlohu. Požiadať o využiteľnú šírku otvoru je užitočnejšie než všeobecne skontrolovať kvalitu. Porovnať cenu vybraného variantu je užitočnejšie než znovu si pozrieť ponuku. K pozastaveným kandidátom pridajte dátum ďalšej kontroly, aby sa nevyriešené položky nehromadili donekonečna."
+          ]
+        },
+        {
+          "id": "recheck-before-payment",
+          "heading": "7. Pred platbou výber znovu skontrolujte",
+          "paragraphs": [
+            "Keď budete pripravení pokračovať, znovu otvorte aktuálnu ponuku. Overte, že zvolený variant, množstvo a základ ceny zodpovedajú uloženému záznamu. Opätovne preverte nepriamo získané údaje o rozmeroch či dostupnosti a uchovajte podklady, z ktorých ste skutočne vychádzali.",
+            "Do objednávky potom vstupujte so stručným záznamom namiesto priečinka nesúvisiacich snímok obrazovky. Keď získate skladové podklady, porovnajte ich so záznamom. Ten istý výber teraz poslúži na kontrolu toho, čo ste zamýšľali objednať, čo zostáva nejasné a na čo sa máte opýtať ďalej."
+          ]
+        }
+      ],
+      "sourceIds": [
+        "official-guide"
+      ],
+      "related": [
+        "spreadsheet",
+        "articles/pikobuy-product-links",
+        "articles/pikobuy-haul-budget"
+      ]
+    },
+    {
+      "slug": "pikobuy-clothing-size-chart",
+      "title": "Tabuľky veľkostí oblečenia v Pikobuy: pred výberom merajte",
+      "description": "Čítajte tabuľky veľkostí oblečenia z Pikobuy podľa referenčného odevu, zhodných bodov merania a jasných jednotiek. Pozrite si praktický príklad.",
+      "intro": "Známe písmeno veľkosti na výber oblečenia z Pikobuy nestačí. Zmysluplné je porovnávať rozmery, ktoré opisujú tú istú vec: rovnakú časť odevu, v rovnakých jednotkách a podobnou metódou. Tento návod vám pomôže pripraviť porovnanie s oblečením, ktoré už vlastníte. Nepredpokladá, že všetci predajcovia používajú jednotné veľkosti ani že väčšie písmeno vyrieši nejasnú tabuľku.",
+      "sections": [
+        {
+          "id": "identify-chart-type",
+          "heading": "1. Zistite, čo tabuľka meria",
+          "paragraphs": [
+            "Najprv prečítajte popisy a až potom vykladajte čísla. Tabuľka môže opisovať hotový odev, odporúčaný rozsah telesných rozmerov alebo kombináciu odporúčaní a rozmerov výrobku. Ide o rôzne údaje. Rozmer odevu cez hrudník zahŕňa navrhnutú voľnosť; telesný rozmer opisuje nositeľa.",
+            "Tabuľku uložte s presným výrobkom a vybranou verziou. Ak ponuka zahŕňa rôzne strihy alebo štýly, nepredpokladajte, že jedna tabuľka platí pre všetky. Keď nie je jasný typ rozmerov, požiadajte o vysvetlenie skôr, než z hodnôt odvodíte odporúčanú veľkosť."
+          ]
+        },
+        {
+          "id": "choose-reference",
+          "heading": "2. Vyberte vhodný referenčný odev",
+          "paragraphs": [
+            "Zvoľte kus, ktorý sedí tak, ako má sedieť nový nákup. Voľnú mikinu porovnávajte s voľnou mikinou, nie iba s priliehavým tričkom. Zohľadnite látku, konštrukciu ramien a plánované vrstvy pod odevom.",
+            "Referenčný kus položte naplocho bez naťahovania. Sami zaznamenajte rozmery a uchovajte fotografiu s bodmi merania. Vytvárate opakovateľné porovnanie, takže dôkladná poznámka je hodnotnejšia než spomienka, že vám určitá značka zvyčajne sedí. Záznam použite znovu iba vtedy, keď je ďalší výrobok skutočne porovnateľný."
+          ]
+        },
+        {
+          "id": "match-endpoints",
+          "heading": "3. Zjednoťte body merania",
+          "paragraphs": [
+            "Pri vrchnom diele môžu byť dôležité šírka cez hrudník naplocho, dĺžka tela odevu, šírka ramien a dĺžka rukáva. Pri nohaviciach pás, výška sedu, boky, stehno a vnútorná dĺžka nohavice. Výber rozmerov závisí od problému s padnutím, ktorému chcete predísť.",
+            "Overte, ako je každý rozmer definovaný. Dĺžka rukáva od ramenného šva nie je zameniteľná s dĺžkou od krku. Aj tvarovaný a pružný pás potrebujú jasne danú metódu. Ak predajca meria od iného bodu než váš záznam, premerajte referenčný odev podľa neho namiesto porovnávania nezlučiteľných čísel."
+          ]
+        },
+        {
+          "id": "handle-units",
+          "heading": "4. Rozlišujte šírku, obvod a jednotky",
+          "paragraphs": [
+            "Šírka naplocho vedie cez jednu stranu odevu. Obvod vyjadruje vzdialenosť okolo neho. Ich zámena môže vytvoriť veľký zdanlivý nesúlad. Jednoduchý početný príklad: dvojnásobok šírky 58 cm je 116 cm; vhodnosť takéhoto porovnania však závisí od odevu a metódy tabuľky.",
+            "V pracovnom zázname používajte jednu jednotku a vedľa prevodov uchovávajte pôvodné hodnoty. Nedomýšľajte si neuvedenú toleranciu. Tolerancia merania uvedená predajcom je doplňujúca informácia, nie automatické vysvetlenie každého rozdielu medzi tabuľkou a skladovou fotografiou."
+          ]
+        },
+        {
+          "id": "worked-comparison",
+          "heading": "5. Porovnajte dve hypotetické veľkosti mikiny",
+          "paragraphs": [
+            "Predpokladajme, že referenčná mikina má cez hrudník 58 cm a dĺžku tela 68 cm. Nasledujúca vymyslená tabuľka ukazuje, prečo samotné písmeno nerozhoduje. Oba rozmery sú dôležité a vhodnejší výsledok závisí od zmeny, ktorú prijmete."
+          ],
+          "table": {
+            "headers": [
+              "Rozmer",
+              "Referenčný odev",
+              "Príklad veľkosti M",
+              "Príklad veľkosti L"
+            ],
+            "rows": [
+              [
+                "Šírka cez hrudník naplocho",
+                "58 cm",
+                "57 cm",
+                "60 cm"
+              ],
+              [
+                "Dĺžka tela odevu",
+                "68 cm",
+                "66 cm",
+                "69 cm"
+              ],
+              [
+                "Čo preveriť",
+                "Známe vyhovujúce padnutie",
+                "Užšia a kratšia",
+                "Širšia a o niečo dlhšia"
+              ]
+            ]
+          },
+          "list": [
+            "Pred výberom ktoréhokoľvek variantu overte dĺžku rukávov.",
+            "Potvrďte, že všetky dĺžky tela odevu boli merané medzi rovnakými bodmi.",
+            "Tabuľku berte ako cvičenie v porovnávaní, nie odporúčanie veľkosti."
+          ]
+        },
+        {
+          "id": "allow-for-use",
+          "heading": "6. Zvážte spôsob nosenia",
+          "paragraphs": [
+            "Zhoda rozmerov pomáha, ale nezaručuje rovnaký pocit pri nosení. Pružnosť a tuhosť látky, podšívka či strih menia správanie rovnakých rozmerov. Zamyslite sa nad pohybom a plánovanými vrstvami a určte rozmery, ktoré tieto potreby ovplyvňujú.",
+            "Nepridávajte automaticky rovnakú rezervu ku všetkým rozmerom. Väčšia šírka môže pomôcť pri vrstvení, ale dlhší rukáv môže prekážať. Ak v tabuľke chýba zásadný rozmer, vyžiadajte si ho namiesto všeobecného pravidla zvoliť väčšiu veľkosť. Cieľom je obmedziť konkrétnu neistotu, nie vytvárať falošnú presnosť."
+          ]
+        },
+        {
+          "id": "confirm-selected-size",
+          "heading": "7. Uchovajte rozhodnutie a overte variant",
+          "paragraphs": [
+            "Pred platbou uložte presné označenie variantu a použitú tabuľku. Pridajte krátke odôvodnenie, napríklad zhodu šírky cez hrudník s referenčným kusom pri prijatí kratšieho tela. Takáto poznámka poskytne jasný základ na neskoršiu kontrolu.",
+            "Pri žiadosti o skladové meranie uveďte rozmer, oba krajné body a jednotku. Čitateľný meter má začínať na zamýšľanom mieste a zostať viditeľný po celej meranej dĺžke. Ak podklady odporujú tabuľke, rozhodnutie pozastavte a rozpor objasnite, kým možno ešte uvažovať o dostupnom vrátení. Fotografia podporí kontrolu rozmeru, ale nezaručí pohodlie."
+          ]
+        }
+      ],
+      "sourceIds": [
+        "official-guide",
+        "official-returns"
+      ],
+      "related": [
+        "spreadsheet",
+        "articles/pikobuy-qc-measurements",
+        "articles/pikobuy-shoe-sizing"
+      ]
+    },
+    {
+      "slug": "pikobuy-product-links",
+      "title": "Produktové odkazy Pikobuy: overenie zdrojov a rozdielov v ponukách",
+      "description": "Porovnajte odkazy Pikobuy s pôvodnými ponukami, overte varianty po importe a využite jasný postup, keď sa produkt nenačíta správne.",
+      "intro": "Odkaz na produkt má identifikovať viac než pekný obrázok. Má viesť k zamýšľanej ponuke a variantu, ktorý chcete objednať. Pri zdieľaní, skracovaní alebo prevode odkazu sa tento kontext môže strácať. Návod ponúka praktický spôsob, ako uchovať zdrojový záznam, porovnať importovaný výsledok a rozhodnúť sa, čo robiť, keď odkaz Pikobuy nevedie tam, kam očakávate.",
+      "sections": [
+        {
+          "id": "save-source-record",
+          "heading": "1. Uchovajte pôvodnú ponuku",
+          "paragraphs": [
+            "Skôr než použijete zdieľaný odkaz nákupného sprostredkovateľa, uložte pôvodnú URL adresu produktu, ak je dostupná. Zaznamenajte identifikátor produktu, predajcu či obchod, vybraný štýl, farbu, veľkosť a množstvo. Pridajte dátum kontroly a snímku obrazovky so zamýšľaným variantom.",
+            "Samotná snímka je neúplná, pretože môže vynechať adresu alebo zvolený variant. Samotná URL adresa zase nemusí uchovať zamýšľanú voľbu. Odkaz spolu so stručným záznamom variantu uľahčuje neskoršie nájdenie nesúladu. Pôvodný záznam neprepisujte, keď objavíte iného kandidáta."
+          ]
+        },
+        {
+          "id": "recognize-page-type",
+          "heading": "2. Rozpoznajte typ stránky",
+          "paragraphs": [
+            "Produktová stránka, úvodná stránka obchodu a fotoalbum majú rôzne účely. Obchod pomôže nájsť katalóg predajcu, ale nemusí určiť konkrétny výrobok. Album môže ukazovať niekoľko farieb bez možnosti zvoliť nákupný variant. Produktová ponuka zase môže obsahovať mnoho variantov pod jedným názvom.",
+            "Pred opakovanými pokusmi o import zistite, ktoré informácie chýbajú. Možno potrebujete odkaz na jednotlivý produkt, opis variantu alebo vysvetlenie od predajcu či platformy. Známy názov trhoviska poskytuje kontext, nie dôkaz, že stránka obsahuje všetky údaje pre presnú objednávku."
+          ]
+        },
+        {
+          "id": "compare-result",
+          "heading": "3. Porovnajte importovaný výsledok so zdrojom",
+          "paragraphs": [
+            "Oficiálny návod Pikobuy uvádza vyhľadávanie pomocou produktového odkazu alebo kľúčových slov. Keď sa zobrazí výsledok, porovnajte jeho totožnosť so zdrojovým záznamom. Úspešné načítanie samo osebe kontrolu nedokončuje.",
+            "Sledujte viditeľný identifikátor výrobku, údaje o predajcovi, dostupné varianty a opis vybranej možnosti. Overte, či uvedená cena patrí požadovanému predmetu, inému variantu, príslušenstvu alebo množstevnej podmienke. Podobný náhľad môže skrývať inú verziu. Ak si zdroj a import odporujú, rozpor vyriešte skôr, než výsledok považujete za pripravený na objednanie."
+          ]
+        },
+        {
+          "id": "separate-conversion",
+          "heading": "4. Uvedomte si, čo prevod odkazu nepotvrdzuje",
+          "paragraphs": [
+            "Prevodník môže produktový odkaz zapísať vo formáte, ktorý prečíta iná služba. Táto technická operácia nie je kontrolou predajcu, stavu tovaru, zásob ani vhodnosti. Takisto nepotvrdzuje, že aktuálna ponuka stále opisuje rovnaký predmet ako starší uložený riadok.",
+            "Vedľa prevedenej URL adresy ponechajte aj pôvodnú. Po prevode zopakujte kontrolu výrobku a variantu. Ak nástroj nečakane zmení cieľ, zastavte sa a výsledok prezrite. Nezadávajte prihlasovacie údaje na neznámej stránke len preto, že ste na ňu prišli z prehľadu alebo prevodníka."
+          ]
+        },
+        {
+          "id": "troubleshooting-table",
+          "heading": "5. Určte skutočne pozorovaný problém",
+          "paragraphs": [
+            "Nasledujúca tabuľka pomáha pri riešení ťažkostí, nie je zoznamom oficiálnych chybových hlásení Pikobuy. Vychádzajte zo skutočne pozorovaného správania. Opakovanie má zmysel iba vtedy, keď overuje vierohodnú príčinu; neobnoví informácie, ktoré odkaz nikdy neobsahoval."
+          ],
+          "table": {
+            "headers": [
+              "Pozorovaný problém",
+              "Užitočná kontrola",
+              "Ďalší krok"
+            ],
+            "rows": [
+              [
+                "Otvorí sa iný výrobok",
+                "Porovnajte zdrojové ID a vybraný variant",
+                "Uchovajte oba záznamy a požiadajte o vysvetlenie"
+              ],
+              [
+                "Zdroj vyžaduje prihlásenie",
+                "Overte URL adresu a viditeľné údaje o produkte",
+                "Použite skutočný zdroj alebo oficiálnu podporu"
+              ],
+              [
+                "Otvorí sa iba obchod či album",
+                "Hľadajte odkaz na jednotlivý predmet",
+                "Dodajte presný výrobok a údaje o variante"
+              ],
+              [
+                "Výrobok nie je dostupný",
+                "Znovu overte aktuálnu zdrojovú stránku",
+                "Alternatívy posudzujte ako nových kandidátov"
+              ],
+              [
+                "Skrátený odkaz nefunguje",
+                "Ak je to možné, obnovte pôvodnú URL adresu výrobku",
+                "Raz zopakujte pokus s pôvodným záznamom"
+              ]
+            ]
+          }
+        },
+        {
+          "id": "support-request",
+          "heading": "6. Položte otázku, na ktorú sa dá odpovedať",
+          "paragraphs": [
+            "Ak zamýšľaný výrobok zostáva nejasný, pošlite zdrojový odkaz, dostupný identifikátor, požadovaný variant a stručný opis rozdielu. Priložte snímky obrazovky s príslušnou voľbou. Neposielajte v jednej otázke celú históriu prehliadania ani nesúvisiace produkty.",
+            "Užitočná otázka je konkrétna: zdroj ukazuje modrú verziu vo veľkosti M, ale importovaný výber ponúka iba čiernu; možno objednať modrú M? To sa rieši ľahšie než všeobecné oznámenie, že odkaz nefunguje. Oficiálna kontaktná stránka Pikobuy uvádza vhodný kanál pre otázky k účtu alebo hľadaniu produktov."
+          ]
+        },
+        {
+          "id": "update-shortlist",
+          "heading": "7. Zaznamenajte výsledok bez straty kontextu",
+          "paragraphs": [
+            "Označte kandidáta ako zodpovedajúceho, čakajúceho na vysvetlenie alebo nedostupného. Odpoveď ponechajte vedľa zdrojového záznamu. Ak navrhnutá alternatíva má iný identifikátor či špecifikáciu, vytvorte samostatný riadok namiesto tichého nahradenia pôvodného výrobku.",
+            "Skôr než budete pokračovať, znovu overte skutočný variant odosielaný do objednávky. Cieľom je dohľadateľné rozhodnutie: mali by ste vedieť vysvetliť použitú ponuku, vybraný variant a podklady, ktoré vyriešili rozdiely. Záznam sa hodí aj neskôr pri porovnávaní doručeného kusu so zamýšľaným nákupom."
+          ]
+        }
+      ],
+      "sourceIds": [
+        "official-guide",
+        "official-contact"
+      ],
+      "related": [
+        "guide",
+        "articles/pikobuy-spreadsheet-checklist",
+        "faq"
+      ]
+    },
+    {
+      "slug": "pikobuy-qc-measurements",
+      "title": "Merania QC v Pikobuy: vyžiadajte fotografie, ktoré odpovedia na vašu otázku",
+      "description": "Spresnite žiadosti o merania QC v Pikobuy pomocou jasných krajných bodov, čitateľnej stupnice a konkrétnych otázok pred posúdením vhodnosti výrobku.",
+      "intro": "Viac fotografií nemusí znamenať viac užitočných podkladov. Ak potrebujete vedieť, či je rukáv dosť dlhý alebo otvor tašky dosť široký, žiadosť musí vysvetliť spôsob merania. Dobrá žiadosť o QC v Pikobuy spája jednu nezodpovedanú otázku s jedným pozorovateľným výsledkom. Návod ukazuje, ako toto spojenie vytvoriť bez toho, aby ste fotografiu považovali za dôkaz všetkých vlastností výrobku.",
+      "sections": [
+        {
+          "id": "define-the-question",
+          "heading": "1. Pred žiadosťou určte rozhodnutie",
+          "paragraphs": [
+            "Napíšte, aká odpoveď by zmenila váš ďalší krok. Výrobok možno potrebuje minimálny využiteľný otvor, štítok veľkosti nie je čitateľný alebo viditeľná stopa môže byť špina namiesto tieňa. Každý problém vyžaduje iné podklady. Všeobecná žiadosť o kvalitnejšie fotografie núti fotografujúceho hádať, čo je podstatné.",
+            "Použite vetu s pozorovateľným detailom: potrebujem vidieť, či majú obe topánky štítok vybranej veľkosti. Nespájajte ju s nesúvisiacimi požiadavkami na švy, materiály a balenie."
+          ]
+        },
+        {
+          "id": "identify-item",
+          "heading": "2. Určte správny predmet a variant",
+          "paragraphs": [
+            "Uveďte príslušné číslo objednávky, opis predmetu a vybraný variant. Ak objednávka obsahuje dve podobné farby alebo veľkosti, výslovne ich rozlíšte. Odkaz na existujúcu fotografiu môže pomôcť označiť miesto, ale nepredpokladajte, že snímka skoršieho kupujúceho ukazuje práve kontrolovaný kus.",
+            "Vedľa žiadosti ponechajte pôvodnú tabuľku a zamýšľaný variant. Vysvetľujú význam rozmeru a pomáhajú vyložiť výsledok. Presné zmeranie nesprávneho kusu je stále nepoužiteľné. Pred záverom overte, či možno doručenú snímku rozumne spojiť s predmetom a variantom, na ktoré ste sa pýtali."
+          ]
+        },
+        {
+          "id": "specify-method",
+          "heading": "3. Opíšte spôsob merania",
+          "paragraphs": [
+            "Uveďte krajné body, jednotku a polohu. Pri šírke odevu naplocho určte začiatok a koniec pásma a či má odev ležať bez naťahovania. Pri otvore tašky žiadajte využiteľnú šírku vstupu, nie najširšiu vonkajšiu časť tašky.",
+            "Požiadajte o viditeľný začiatok aj koniec stupnice. Snímka s nulou mimo záberu vytvára neistotu, aj keď je vzdialený koniec čitateľný. Meranie po krivke a priame meranie odpovedajú na odlišné otázky, preto vysvetlite potrebný postup namiesto samotného slova dĺžka."
+          ]
+        },
+        {
+          "id": "request-examples",
+          "heading": "4. Prispôsobte žiadosť otázke",
+          "paragraphs": [
+            "Príklady sú pôvodné vzory formulácií, nie položky ponuky alebo prísľub konkrétnej služby. Skôr než sa na takýto postup spoľahnete, potvrďte jeho dostupnosť a cenu. Údaje o predmete a rozmeroch nahraďte informáciami o vlastnej objednávke."
+          ],
+          "table": {
+            "headers": [
+              "Nezodpovedaná otázka",
+              "Zameraná žiadosť"
+            ],
+            "rows": [
+              [
+                "Je vrchný diel dosť široký?",
+                "Položte prosím vybraný vrchný diel naplocho bez naťahovania a ukážte šírku cez hrudník medzi uvedenými bodmi tak, aby bolo vidieť oba konce centimetrovej stupnice."
+              ],
+              [
+                "Je štítok topánky správny?",
+                "Ukážte prosím čitateľný štítok veľkosti každej topánky v páre a dosť okolitých detailov na identifikáciu predmetov."
+              ],
+              [
+                "Prejde predmet otvorom tašky?",
+                "Ukážte prosím využiteľnú šírku otvoru pri úplnom otvorení zapínania a s viditeľnými krajnými bodmi merania."
+              ],
+              [
+                "Je stopa na povrchu?",
+                "Ukážte prosím označené miesto zblízka a z iného uhla, pričom ponechajte viditeľný okolitý materiál."
+              ]
+            ]
+          }
+        },
+        {
+          "id": "evaluate-evidence",
+          "heading": "5. Overte, či možno odpoveď vyložiť",
+          "paragraphs": [
+            "Najprv prezrite snímku, potom číselný záver. Je vidieť príslušný kus? Zodpovedá poloha metra požadovanej metóde? Vidíte stupnicu aj oba krajné body? Ak je odev zložený, natiahnutý alebo fotografovaný pod veľkým uhlom, poznačte možný vplyv na porovnanie.",
+            "Nevytvárajte presnosť z rozmazanej fotografie. Ak rozlíšite iba približne 57 až 59 cm, zapíšte túto neistotu namiesto tvrdenia 58,0 cm. Ak neistota môže zmeniť rozhodnutie, vyžiadajte vysvetlenie. Keď rozhodnutie ovplyvniť nemôže, ďalšie snímky môžu mať malú praktickú hodnotu."
+          ]
+        },
+        {
+          "id": "recognize-limits",
+          "heading": "6. Rešpektujte hranice vizuálnych podkladov",
+          "paragraphs": [
+            "Fotografia môže podporiť záver o viditeľnom štítku, zmeranom rozmere alebo zjavnom povrchovom probléme. Nepotvrdzuje dlhodobú odolnosť, skrytú konštrukciu, elektrickú funkčnosť ani pohodlie pri používaní. Aj zloženie materiálu a pravosť potrebujú iné podklady než samotný vzhľad.",
+            "Oddeľujte pozorovanie od úsudku. Tvrdenie, že snímka ukazuje uzavretý šev, je užšie než tvrdenie, že taška vydrží veľké zaťaženie. Materiály Pikobuy opisujú obmedzenia kontroly, preto ju nepovažujte za odborné testovanie. Ak nákup závisí od vlastnosti, ktorú fotografie nepotvrdia, hľadajte vhodnú dokumentáciu alebo nákup prehodnoťte."
+          ]
+        },
+        {
+          "id": "choose-next-action",
+          "heading": "7. Premeňte odpoveď na ďalší krok",
+          "paragraphs": [
+            "Vráťte sa k pôvodnej otázke a zvoľte ďalší postup. Podklady môžu podporiť pokračovanie, ponechať konkrétnu nejasnosť alebo odôvodniť rozhovor o vrátení. Odpoveď uložte k objednávke a poznačte, ktorý rozmer alebo viditeľný detail ovplyvnil rozhodnutie.",
+            "Ak problém trvá, bezodkladne preverte aktuálny stav objednávky a príslušné podmienky vrátenia. Nestrácajte čas dekoratívnymi uhlami, kým podstatný nesúlad zostáva nenahlásený. Záznam má uľahčiť vysvetlenie, čo ste zamýšľali, čo fotografia ukazuje a aké riešenie žiadate. Neisté pozorovania označujte ako neisté."
+          ]
+        }
+      ],
+      "sourceIds": [
+        "official-user-agreement",
+        "official-shipping",
+        "official-returns"
+      ],
+      "related": [
+        "qc",
+        "articles/pikobuy-clothing-size-chart",
+        "articles/pikobuy-warehouse-returns"
+      ]
+    },
+    {
+      "slug": "pikobuy-haul-budget",
+      "title": "Rozpočet nákupu Pikobuy: spočítajte náklady pred objednaním",
+      "description": "Zostavte realistický rozpočet nákupu Pikobuy oddelením cien tovaru, dopravy, možných poplatkov a neznámych nákladov. Pomôže jasne označený príklad.",
+      "intro": "Súčet cien v prehľade je iba začiatok rozpočtu nákupu Pikobuy. Užitočný odhad ukazuje známe náklady, sumy závislé od hotového balíka aj to, čo zostáva zistiť. Tiež hovorí, či máte dostatok priestoru na neistotu. Nasledujúci postup je plánovacia pomôcka, nie cenová ponuka ani tvrdenie o aktuálnych poplatkoch Pikobuy.",
+      "sections": [
+        {
+          "id": "separate-stages",
+          "heading": "1. Oddeľte nákup tovaru od zásielky",
+          "paragraphs": [
+            "Publikovaný postup Pikobuy oddeľuje platbu za nákup od medzinárodnej dopravy. To isté premietnite do rozpočtu. Jedna časť zachytáva sumy potrebné na získanie výrobkov, druhá možné náklady na doručenie výsledného balíka k vám.",
+            "Začnite presným množstvom a vybranými variantmi. Nízka zobrazená cena môže patriť inej možnosti než tej, ktorú chcete objednať. Ku každej sume pridajte dátum ponuky a menu. Ľahšie potom zistíte príčinu zmeny rozpočtu po aktualizácii výrobku, variantu alebo menového prepočtu."
+          ]
+        },
+        {
+          "id": "capture-item-costs",
+          "heading": "2. Vypíšte poplatky spojené s nákupom",
+          "paragraphs": [
+            "Vytvorte samostatné riadky pre výrobky, zobrazenú vnútroštátnu dopravu a servisné či platobné poplatky skutočne uvedené pri vašej transakcii. Nepridávajte poplatok iba preto, že ho zaplatil iný zákazník, a nepredpokladajte, že neuvedená suma je nulová.",
+            "Ak viac vecí zdieľa jedno poštovné, nezapočítavajte ho znovu pri každom riadku. Nákupy od rôznych predajcov naopak nemusia mať spoločný poplatok. Uchovajte dosť podrobností na porovnanie tabuľky s požadovanou platbou. Úhľadný celkový súčet je menej užitočný než trochu dlhšia tabuľka, ktorú viete vysvetliť."
+          ]
+        },
+        {
+          "id": "estimate-freight",
+          "heading": "3. Zaznamenajte predpoklady ceny dopravy",
+          "paragraphs": [
+            "Predbežný odhad dopravy berte ako scenár. Zapíšte predpokladaný cieľ, typ výrobku, zabalenú hmotnosť a rozmery a pridajte dátum aj podmienky trasy. Keď sa vstupy zmenia, staršie číslo už nemusí byť vhodné na porovnanie.",
+            "Nerozdeľujte odhad balíka medzi produkty s následným predpokladom, že ide o sadzobník dopravcu. Plánovanú sumu si môžete rozdeliť na vlastné hodnotenie úžitku, ale platbu určuje skutočná ponuka za zásielku. Objemný lacný predmet môže stáť za prehodnotenie, aj keď tvorí malý podiel ceny tovaru."
+          ]
+        },
+        {
+          "id": "keep-unknowns-visible",
+          "heading": "4. Nezakrývajte možné náklady v cieli",
+          "paragraphs": [
+            "Možné clo, dane, manipulačné či colné poplatky si zaslúžia vlastný riadok. Overte požiadavky cieľovej krajiny a podmienky dopravnej možnosti. Návod neuvádza sadzbu pre konkrétnu jurisdikciu a nepredpokladá, že názov trasy vyrieši všetky poplatky.",
+            "Ak sumu nepoznáte, napíšte neznáme. Prázdna bunka sa ľahko zamieňa s nulou. Podobne kupón neoverený pre váš balík zostáva možnou úpravou, nie zaručenou úsporou. Skôr než zľavou odôvodníte nákup, overte oprávnenosť, limity a konečnú splatnú sumu."
+          ]
+        },
+        {
+          "id": "worked-budget",
+          "heading": "5. Zostavte hypotetický plánovací súčet",
+          "paragraphs": [
+            "Všetky hodnoty nižšie sú vymyslené a vyjadrené v jednej príkladovej mene. Tabuľka vysvetľuje výpočet, nie je aktuálnou cenou výrobkov, sadzbou dopravy ani prehľadom poplatkov. Všimnite si, že aritmetický súčet je stále neúplný, pretože náklady v cieli neboli zistené.",
+            "V príklade 120 pokrýva uvedené predpoklady a zvolenú rezervu. Nejde o konečnú cenu zahŕňajúcu všetko. Pri limite 120 znamená neznámy riadok cieľových poplatkov, že súlad nákupu s limitom zatiaľ nie je preukázaný."
+          ],
+          "table": {
+            "headers": [
+              "Položka rozpočtu",
+              "Ilustračná suma",
+              "Stav"
+            ],
+            "rows": [
+              [
+                "Vybrané výrobky",
+                "60",
+                "Príkladový predpoklad"
+              ],
+              [
+                "Vnútroštátna doprava",
+                "5",
+                "Príkladový predpoklad"
+              ],
+              [
+                "Zobrazený servisný poplatok",
+                "3",
+                "Príkladový predpoklad"
+              ],
+              [
+                "Odhad medzinárodného balíka",
+                "35",
+                "Príkladový predpoklad"
+              ],
+              [
+                "Menová či platobná úprava",
+                "2",
+                "Príkladový predpoklad"
+              ],
+              [
+                "Súčet týchto predpokladov",
+                "105",
+                "Iba aritmetický súčet"
+              ],
+              [
+                "Vlastná rezerva na neistotu",
+                "15",
+                "Zvolená plánovacia rezerva"
+              ],
+              [
+                "Poplatky v cieli",
+                "Neznáme",
+                "Treba zistiť samostatne"
+              ]
+            ]
+          }
+        },
+        {
+          "id": "compare-scenarios",
+          "heading": "6. Porovnajte užitočné scenáre",
+          "paragraphs": [
+            "Pomocou scenárov otestujte predpoklady, ktoré môžu najpravdepodobnejšie zmeniť rozhodnutie. Porovnajte balík s objemným voliteľným predmetom a bez neho alebo dva spôsoby balenia pri rovnakom cieli a type tovaru. Meňte vždy jeden faktor, aby ste rozumeli príčine rozdielu.",
+            "Vlastná rezerva je plánovacia voľba, nie predpoveď, že poplatky narastú práve o ňu. Nastavte ju podľa zostávajúcej neistoty a svojich možností. Ak by mierne zvýšenie urobilo nákup nedostupným, zúžte výber ešte pred záväzkom kúpiť tovar."
+          ]
+        },
+        {
+          "id": "reconcile-budget",
+          "heading": "7. Aktualizujte tabuľku pred každým záväzkom",
+          "paragraphs": [
+            "Keď sú k dispozícii potvrdené sumy, nahraďte nimi odhady. Pôvodný odhad ponechajte vedľa novej hodnoty, ak chcete pochopiť nepresné predpoklady. Pred odoslaním overte, že rozpočet obsahuje skutočnú sadu výrobkov a požadované balenie.",
+            "Ak súčet prekročí limit, určte najmenej užitočný voliteľný nákup namiesto sústredenia iba na najlacnejší riadok. Skôr než predpokladáte bezplatné odstránenie položky, zohľadnite náklady zmeny objednávky. Hotová tabuľka má odpovedať: čo ešte zostáva zaplatiť, čo je neisté a zvládnete bez problémov oboje?"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "official-guide",
+        "official-estimate",
+        "official-terms"
+      ],
+      "related": [
+        "shipping",
+        "articles/pikobuy-parcel-weight-dimensions",
+        "articles/pikobuy-spreadsheet-checklist"
+      ]
+    },
+    {
+      "slug": "pikobuy-parcel-weight-dimensions",
+      "title": "Hmotnosť a rozmery balíka Pikobuy: porovnajte možnosti balenia",
+      "description": "Porovnajte hmotnosť, rozmery a balenie zásielky Pikobuy na transparentnom príklade a pred odoslaním overte podmienky trasy aj konečnú cenu.",
+      "intro": "Dva balíky s rovnakou hmotnosťou na váhe môžu zaberať veľmi rozdielny priestor. Užitočné porovnanie dopravy preto potrebuje hmotnosť aj rozmery a pravidlá účtovania dostupnej trasy. Cieľom nie je iba zmenšiť škatuľu. Ide o porovnanie balenia, ktoré chráni obsah, vyhovuje vašim potrebám a vedie k zrozumiteľnej cenovej ponuke.",
+      "sections": [
+        {
+          "id": "define-measurements",
+          "heading": "1. Rozlišujte jednotlivé údaje",
+          "paragraphs": [
+            "Hmotnosť predmetu opisuje samotný výrobok. Zabalená hmotnosť zahŕňa obsah a materiály použité na odoslanie. Rozmery balíka opisujú vonkajšiu veľkosť hotovej zásielky. Trasa môže cenu určovať podľa objemovej hmotnosti, skutočnej hmotnosti alebo iných pravidiel.",
+            "Hodnoty si zapisujte oddelene. Súčet odhadovaných hmotností výrobkov neurčuje hmotnosť hotového balíka a zmeranie produktovej škatule neurčuje rozmery vonkajšieho prepravného obalu. Pred zadaním do porovnania zistite, na aký údaj sa pozeráte. Inak môže aj správna aritmetika viesť k zavádzajúcemu výsledku."
+          ]
+        },
+        {
+          "id": "collect-inputs",
+          "heading": "2. Používajte konzistentné vstupy kalkulátora",
+          "paragraphs": [
+            "Verejný kalkulátor Pikobuy obsahuje cieľ, typ výrobku, hmotnosť a tri rozmery. Pri porovnávaní zachovajte konzistentnosť týchto údajov. Jednotky prevádzajte dôkladne a ponechajte ich označenie; hodnota zadaná v centimetroch, ktorá v skutočnosti predstavuje milimetre, zásadne zmení výpočet.",
+            "Každú sadu predpokladov uložte s výsledkom a dátumom. Ak okrem balenia zmeníte cieľ, zaradenie produktu alebo trasu, už neoddeľujete samotný vplyv škatule. Širšie porovnanie môže byť užitočné, ale správne ho označte a nepripisujte každý rozdiel prebaleniu."
+          ]
+        },
+        {
+          "id": "illustrative-calculation",
+          "heading": "3. Pochopte výpočet objemovej hmotnosti",
+          "paragraphs": [
+            "Nasledujúci výpočet používa vymyslený deliteľ 5 000 kubických centimetrov na kilogram na vysvetlenie aritmetiky. Nejde o univerzálne pravidlo účtovania Pikobuy. V príklade vynásobte tri vonkajšie rozmery a výsledok vydeľte 5 000.",
+            "Pri príkladovej škatuli 40 × 30 × 20 cm je objem 24 000 kubických centimetrov a ilustračná objemová hmotnosť 4,8 kg. Skutočná trasa môže určiť iný deliteľ, metódu merania, minimum alebo zaokrúhľovanie. Skôr než výsledok považujete za účtovanú hmotnosť, prečítajte podmienky."
+          ]
+        },
+        {
+          "id": "packing-example",
+          "heading": "4. Porovnajte dve hypotetické balenia",
+          "paragraphs": [
+            "Obe balenia nižšie majú predpokladanú hmotnosť na váhe 3,2 kg, zámerne ponechanú rovnakú na oddelenie vplyvu objemu. Menšie rozmery sú ilustráciou, nie tvrdením, že ich sklad pri vašich veciach dosiahne.",
+            "Ak by hypotetická trasa účtovala vyššiu zo skutočnej a objemovej hmotnosti ešte pred vlastným zaokrúhlením, príklady by vychádzali zo 4,8 kg a 3,2 kg. Toto porovnanie stále nehovorí cenu ani to, či druhé balenie vyhovuje."
+          ],
+          "table": {
+            "headers": [
+              "Príklad balenia",
+              "Vonkajšie rozmery",
+              "Ilustračná objemová hmotnosť",
+              "Čo ešte overiť"
+            ],
+            "rows": [
+              [
+                "Pôvodné škatule vo vonkajšom kartóne",
+                "40 × 30 × 20 cm",
+                "4,8 kg s príkladovým deliteľom",
+                "Účtovanie trasy a ochranu"
+              ],
+              [
+                "Iné ochranné balenie",
+                "35 × 28 × 16 cm",
+                "Približne 3,14 kg s príkladovým deliteľom",
+                "Uskutočniteľnosť, manipuláciu a ochranu"
+              ]
+            ]
+          }
+        },
+        {
+          "id": "protect-contents",
+          "heading": "5. Určte, čo musí obal zachovať",
+          "paragraphs": [
+            "Spíšte funkcie obalu. Pevný predmet môže potrebovať ochranu pred rozdrvením, tvarovaná taška oporu na zachovanie tvaru. Malé diely treba udržať spolu, aby sa neoddelili od hlavného výrobku. Pôvodný obal môže byť pre vás dôležitý aj pri skladovaní alebo darovaní.",
+            "Pred požiadavkou na odstránenie štítkov, plomb či balenia vyriešte otvorené otázky vrátenia. Nevymieňajte známu požiadavku za predpokladanú úsporu poštovného. Užitočný pokyn pomenuje obaly, ktoré sa môžu zmeniť, a ochranu, ktorá musí zostať, a požiada o potvrdenie návrhu."
+          ]
+        },
+        {
+          "id": "compare-consolidation",
+          "heading": "6. Dôkladne porovnajte spojenie a rozdelenie",
+          "paragraphs": [
+            "Spojenie predmetov môže zjednodušiť zásielku, ale výsledné rozmery a zmes tovaru môžu zmeniť dostupné možnosti. Rozdelenie môže priniesť ďalšie poplatky alebo vyžadovať iné balenie. Ani jeden postup nie je automaticky lacnejší.",
+            "Porovnajte úplné ponuky skutočných alternatív vrátane príslušných manipulačných poplatkov. Zachovajte porovnateľný cieľ a očakávania od služby. Overte obmedzenia a zlučiteľnosť výrobkov namiesto predpokladu, že všetko môže cestovať spolu. Rozdelenie neberte ako spôsob dosiahnutia konkrétneho colného výsledku; ide o samostatnú otázku riadenú príslušnými pravidlami a skutočnou zásielkou."
+          ]
+        },
+        {
+          "id": "confirm-final-quote",
+          "heading": "7. Potvrďte hotový balík",
+          "paragraphs": [
+            "Pred platbou porovnajte konečný obsah, zabalené rozmery a pokyny s posudzovanou možnosťou. Overte výpočet ceny trasy aj zaokrúhlenia a príplatky ovplyvňujúce výslednú sumu. Uložte ponuku a prijaté voľby.",
+            "Ak sa výsledok podstatne líši od odhadu, pred schválením zistite, čo sa zmenilo. Príčinou môže byť väčší vonkajší obal, iný obsah či podmienka trasy. Aktualizácia celého rozpočtu v tejto chvíli prepojí technicky zaujímavé balenie s praktickou otázkou, či zásielka stále spĺňa vaše potreby."
+          ]
+        }
+      ],
+      "sourceIds": [
+        "official-estimate",
+        "official-guide",
+        "official-contact"
+      ],
+      "related": [
+        "shipping",
+        "articles/pikobuy-haul-budget",
+        "articles/pikobuy-warehouse-returns"
+      ]
+    },
+    {
+      "slug": "pikobuy-shoe-sizing",
+      "title": "Veľkosti topánok v Pikobuy: porovnajte dĺžku chodidla, štítky a vložky",
+      "description": "Overte veľkosť topánok z Pikobuy rozlíšením dĺžky chodidla, rozmerov vložky a označenia veľkosti. Konkrétne podklady pomôžu vyriešiť neisté padnutie.",
+      "intro": "Vybrať veľkosť topánok z Pikobuy znamená viac než nájsť číslo, ktoré zvyčajne kupujete. Štítok je iba časť záznamu; dôležité sú aj metóda merania predajcu, tvar modelu a podklady k vybranému páru. Návod pomáha porovnať tieto údaje bez zamieňania dĺžky chodidla, vložky a vonkajšej podrážky.",
+      "sections": [
+        {
+          "id": "identify-option",
+          "heading": "1. Určte presný variant topánok",
+          "paragraphs": [
+            "Uložte model alebo označenie produktu, zvolený variant a veľkostný systém ponuky. Číslo označené EU, UK či US potrebuje zodpovedajúci kontext. Ak stránka obsahuje rôzne tabuľky pre rôzne štýly, pripojte správnu tabuľku k svojmu variantu.",
+            "Pred platbou porovnajte importovaný výber so zdrojom. Známo vyzerajúce číslo môže stále patriť inému systému alebo verzii výrobku. Nevyriešený nesúlad neposudzujte podľa zvyčajnej veľkosti iného zákazníka. Najprv zistite význam vybranej možnosti podľa predajcu a potom rozhodnite, či podklady podporujú zamýšľané padnutie."
+          ]
+        },
+        {
+          "id": "measure-feet",
+          "heading": "2. Zmerajte chodidlá konzistentne",
+          "paragraphs": [
+            "Obe chodidlá zmerajte opakovateľnou metódou pri rovnakom postoji a podmienkach. Zapíšte väčší výsledok namiesto predpokladu, že sú oba totožné. Uchovajte jednotku aj metódu, aby ste mohli výsledok porovnať s pokynmi predajcu a nepamätali si iba zaokrúhlené číslo.",
+            "Dĺžka chodidla je východiskovým bodom otázky na veľkosť, nie úplnou odpoveďou. Šírka, tvar prstov a zamýšľané ponožky môžu ovplyvniť potrebný priestor. Ak predajca uvádza metódu, dôkladne ju prečítajte pred porovnaním. Nenahrádzajte ju potichu inou iba preto, že vedie k pohodlnejšiemu výsledku veľkosti."
+          ]
+        },
+        {
+          "id": "separate-lengths",
+          "heading": "3. Rozlišujte rôzne dĺžky",
+          "paragraphs": [
+            "Meranie chodidla opisuje nositeľa. Rozmer vložky opisuje súčasť, ktorá môže mať zakrivenie, zvýšené okraje alebo tvar nezodpovedajúci priamo využiteľnému priestoru. Vnútorný rozmer sa snaží opísať priestor v topánke. Dĺžka podrážky zahŕňa vonkajšiu konštrukciu.",
+            "Ku každému číslu napíšte typ merania. Dve hodnoty v centimetroch nemusia byť porovnateľné. Dlhšia podrážka nepotvrdzuje, že sa chodidlo zmestí, a fotografia vložky potrebuje jasnú metódu, aby odpovedala na otázku veľkosti. Pred výkladom zistite, čo bolo zmerané a medzi ktorými bodmi."
+          ]
+        },
+        {
+          "id": "consider-shape",
+          "heading": "4. Zohľadnite tvar a zamýšľané použitie",
+          "paragraphs": [
+            "Zvážte tvar topánok, ktoré už považujete za pohodlné, ale pamätajte, že iný model môže fungovať inak. Úzka špička môže byť dôležitá aj pri zdanlivo vhodnej dĺžke. Hrubá ponožka takisto mení dostupný priestor.",
+            "Neriešte každú obavu dlhšou veľkosťou. Pridaná dĺžka nemusí odstrániť problém šírky a môže vytvoriť ďalšiu ťažkosť. Určte skutočnú neistotu, napríklad šírku prednej časti alebo predajcovu definíciu dĺžky, a pýtajte sa na ňu. Ak nákup závisí od výkonu či opory, ktoré nemožno posúdiť na diaľku, samotná fotografia problém nevyrieši."
+          ]
+        },
+        {
+          "id": "mismatch-example",
+          "heading": "5. Vyriešte hypotetický nesúlad štítkov",
+          "paragraphs": [
+            "Predstavte si, že uložená pôvodná tabuľka priraďuje variantu určitý rozsah dĺžky chodidla, zatiaľ čo importovaný výber ukazuje iné označenie. Príklad zámerne neuvádza číselný prevod: prvou úlohou je určiť totožnosť variantu, nie zvoliť najznámejšie číslo."
+          ],
+          "table": {
+            "headers": [
+              "Záznam",
+              "Čo ukazuje",
+              "Užitočná ďalšia kontrola"
+            ],
+            "rows": [
+              [
+                "Pôvodná ponuka",
+                "Variant A s rozsahom dĺžky chodidla",
+                "Uložte presnú tabuľku a text variantu"
+              ],
+              [
+                "Importovaný výber",
+                "Iné označenie veľkosti",
+                "Opýtajte sa, či zodpovedá zdrojovému variantu A"
+              ],
+              [
+                "Skladová fotografia",
+                "Čitateľný štítok jednej topánky",
+                "Overte druhú topánku a potvrdený variant"
+              ],
+              [
+                "Fotografia merania",
+                "Dĺžku bez jasných krajných bodov",
+                "Zistite, či ide o vložku, vnútro alebo podrážku"
+              ]
+            ]
+          },
+          "list": [
+            "Neodvodzujte zhodu iba z podobných štítkov.",
+            "Uchovajte odpoveď vysvetľujúcu priradenie.",
+            "Ak vybraný variant zostáva nejasný, rozhodnutie pozastavte."
+          ]
+        },
+        {
+          "id": "request-pair-evidence",
+          "heading": "6. Preverte podklady ku skutočnému páru",
+          "paragraphs": [
+            "Pri prezeraní skladových snímok prepojte viditeľné štítky s vybranou objednávkou. Ak na rozdiele záleží, overte obe topánky. Ak treba meranie, určte rozmer a zabezpečte, aby snímka ukazovala zodpovedajúce krajné body a čitateľnú stupnicu.",
+            "Na meranie sa pýtajte bez predpokladu, že s predmetom možno akokoľvek manipulovať. Vybratie súčasti môže byť nevhodné alebo nedostupné a zakrivená časť sa meria ťažko opakovateľne. Najprv uveďte otázku a potvrďte dostupnú metódu. Cieľom je vyložiteľný podklad, nie zdanlivo presné číslo získané nejasným postupom."
+          ]
+        },
+        {
+          "id": "decide-next-step",
+          "heading": "7. Rozhodnite o padnutí s jasnými obmedzeniami",
+          "paragraphs": [
+            "Zaznamenajte, či sú podklady zhodné, neúplné alebo rozporné. Zhodné údaje môžu odôvodniť pokračovanie, ale nezaručujú pohodlie. Nezodpovedaná otázka má viesť ku konkrétnej žiadosti o vysvetlenie namiesto optimistického predpokladu.",
+            "Ak sa prijatý variant zdá nesprávny alebo údaje o veľkosti odporujú objednávke, problém rýchlo prerokujte a overte podmienky vrátenia. Pri objasňovaní ďalšieho postupu ponechajte štítky, plomby a obaly nedotknuté. Po vyriešení veľkosti posudzujte škatuľu a prepravné balenie samostatne, aby dopravná preferencia neurčovala záver o padnutí."
+          ]
+        }
+      ],
+      "sourceIds": [
+        "official-guide",
+        "official-returns"
+      ],
+      "related": [
+        "spreadsheet",
+        "articles/pikobuy-qc-measurements",
+        "articles/pikobuy-parcel-weight-dimensions"
+      ]
+    },
+    {
+      "slug": "pikobuy-bag-dimensions",
+      "title": "Tašky v Pikobuy: overte priestor, popruhy a konštrukciu",
+      "description": "Porovnajte tašky Pikobuy podľa využiteľných otvorov, vnútorných rozmerov, popruhov a viditeľnej konštrukcie. Praktický príklad ukáže, čo taška pojme.",
+      "intro": "Taška môže na produktovej fotografii vyzerať veľká, a predsa sa do nej nezmestí potrebná vec. Vonkajšia šírka, využiteľný otvor a vnútorný tvar odpovedajú na rôzne otázky. Pred výberom tašky z Pikobuy určte, čo má niesť a ako ju chcete nosiť. Rozmery a kontrolné snímky potom budú užitočné bez predstierania dôkazu dlhodobej odolnosti alebo zloženia materiálu.",
+      "sections": [
+        {
+          "id": "define-contents",
+          "heading": "1. Začnite tým, čo sa musí zmestiť",
+          "paragraphs": [
+            "Spíšte predmety, ktoré chcete nosiť spolu. Zmerajte najväčší pevný predmet vrátane bežne používaného puzdra či krytu. Notebook v čalúnenom obale potrebuje viac priestoru než samotné zariadenie a fľaša môže vyžadovať inú vnútornú výšku než plochý zápisník.",
+            "Určte nevyhnutné a voliteľné veci. Ak taška nepojme nepostrádateľný predmet, pekné kovanie problém nevyrieši. Myslite aj na prístup: dostať vec dovnútra s námahou nie je to isté ako ju pohodlne vyberať pri každodennom používaní."
+          ]
+        },
+        {
+          "id": "separate-dimensions",
+          "heading": "2. Oddeľte vonkajšiu veľkosť od využiteľného priestoru",
+          "paragraphs": [
+            "Vonkajšie rozmery opisujú celkový obrys tašky. Vnútorný priestor môžu zmenšovať výplne, švy, priehradky a zaoblené rohy. Otvor môže byť vďaka zapínaniu alebo konštrukcii ešte užší.",
+            "Zaznamenajte, ktorý rozmer ponuka uvádza. Vo vlastných poznámkach neoznačujte vonkajšiu šírku ako využiteľnú kapacitu. Pri pevnom predmete porovnajte otvor a dôležité vnútorné rozmery, prípadne aj hĺbku. Ak ponuka poskytuje iba ilustračnú fotografiu mierky, požiadajte o zmeranie obmedzujúceho miesta namiesto odhadovania centimetrov podľa neznámej ruky alebo postavy."
+          ]
+        },
+        {
+          "id": "check-carrying",
+          "heading": "3. Overte popruhy a polohu pri nosení",
+          "paragraphs": [
+            "Celková dĺžka popruhu a vzdialenosť zavesenia tašky pod ramenom sú rôzne rozmery. Prečítajte uvedenú metódu a overte, či rozsah nastavenia pokrýva zamýšľaný spôsob nosenia. Priestor pod uchami môže byť dôležitý pri nosení cez kabát.",
+            "Skontrolujte spôsob pripevnenia popruhu a jeho odnímateľnosť, ak ovplyvňujú použitie. Rozsah nastavenia neodvodzujte z fotografie jedinej polohy. Otázku formulujte prakticky: možno dodaný popruh upraviť na potrebnú dĺžku a opisuje záznam túto dĺžku jasne?"
+          ]
+        },
+        {
+          "id": "inspect-details",
+          "heading": "4. Prezrite viditeľnú konštrukciu a príslušenstvo",
+          "paragraphs": [
+            "Na fotografiách kontrolujte miesta dôležité pre funkciu tašky: švy, úchyty, podšívku, vyrovnanie zapínania a otvor. Overte, či vybraný variant zahŕňa inzerované odnímateľné popruhy či ďalšie doplnky. Snímka zobrazujúca ich inde v ponuke nemusí potvrdzovať obsah vášho variantu.",
+            "Oddeľujte viditeľné pozorovanie od tvrdenia o výkone. Fotografia ukáže šev alebo pracku, ale nepotvrdí bezpečnú nosnosť ani odolnosť pri opakovanom používaní. Samotný vzhľad takisto neurčuje zloženie materiálu. Ak je konkrétny materiál nevyhnutný, vyhľadajte zodpovedajúce produktové informácie a zaznamenajte zdroj."
+          ]
+        },
+        {
+          "id": "capacity-example",
+          "heading": "5. Porovnajte dve hypotetické tašky",
+          "paragraphs": [
+            "Predpokladajme, že nevyhnutný pevný predmet meria 30 cm na šírku a 22 cm na výšku. Vymyslené rozmery ukazujú, prečo najväčší vonkajší rozmer nestačí. Ani jeden variant nie je odporúčaním výrobku a príklad necháva hĺbku aj pohodlie pri nosení na samostatné overenie.",
+            "Taška B si zaslúži ďalšie preverenie napriek menšej vonkajšej šírke. Rozdiel otvoru 1 cm nepovažujte za záruku pohodlného vloženia: stále môžu rozhodovať zaoblenia, výplň a uhol zasúvania. Tesné padnutie potrebuje lepšie podklady než orientačné porovnanie."
+          ],
+          "table": {
+            "headers": [
+              "Rozmer",
+              "Príklad tašky A",
+              "Príklad tašky B"
+            ],
+            "rows": [
+              [
+                "Vonkajšia šírka",
+                "35 cm",
+                "33 cm"
+              ],
+              [
+                "Využiteľná šírka otvoru",
+                "28 cm",
+                "31 cm"
+              ],
+              [
+                "Vnútorná výška",
+                "25 cm",
+                "23 cm"
+              ],
+              [
+                "Prvý záver",
+                "Otvor je užší než predmet",
+                "Oplatí sa overiť hĺbku, tvar otvoru a pohodlný prístup"
+              ]
+            ]
+          }
+        },
+        {
+          "id": "plan-packing",
+          "heading": "6. Zvážte tvar a ochranu pri preprave",
+          "paragraphs": [
+            "Tvarovaná taška môže potrebovať oporu proti stlačeniu, voľné popruhy a drobné doplnky zase zaistenie proti oddeleniu. Určte zraniteľné časti a tvar, ktorý má zostať zachovaný. Pri dohadovaní balenia vysvetlite tieto potreby namiesto bezvýhradnej požiadavky na najmenší možný obal.",
+            "Rozhodnutie o výrobku oddeľte od rozhodnutia o doprave. Nízka cena predmetu neodhaľuje cenu ochranného balíka a menší obal nie je automaticky vhodný. Keď sú k dispozícii, porovnajte hotové rozmery a ponuku. Nevyriešenú otázku vrátenia objasnite pred žiadosťou o zmenu balenia."
+          ]
+        },
+        {
+          "id": "record-bag-decision",
+          "heading": "7. Výslovne pomenujte chýbajúci údaj",
+          "paragraphs": [
+            "Porovnanie zakončite krátkou poznámkou: vhodná podľa dostupných rozmerov, pozastavená do konkrétneho merania alebo vyradená pre nesplnenú požiadavku. Užitočná žiadosť môže chcieť využiteľný otvor pri úplne otvorenom zapínaní alebo rozsah nastavenia popruhu medzi jasne určenými bodmi.",
+            "Ku kandidátovi uchovajte zdroj, zvolený variant a odpoveď. Pri kontrole vlastného kusu porovnajte príslušné podklady so záznamom. Rozhodnutie sa tak drží funkcie tašky, zatiaľ čo neoverené vlastnosti, ako dlhodobé opotrebovanie, nosnosť a pravosť materiálu, zostávajú mimo záveru."
+          ]
+        }
+      ],
+      "sourceIds": [
+        "official-user-agreement",
+        "official-estimate"
+      ],
+      "related": [
+        "spreadsheet",
+        "articles/pikobuy-qc-measurements",
+        "articles/pikobuy-parcel-weight-dimensions"
+      ]
+    },
+    {
+      "slug": "pikobuy-warehouse-returns",
+      "title": "Vrátenie zo skladu Pikobuy: termíny, podklady a náklady",
+      "description": "Pripravte žiadosť o vrátenie zo skladu Pikobuy s aktuálnym stavom objednávky, relevantnými podkladmi a jasnými otázkami k podmienkam, termínu a poplatkom.",
+      "intro": "Otázka vrátenia zo skladu sa rieši jednoduchšie, keď určíte fázu objednávky, zachováte predmet a jasne vysvetlíte problém. Začnite včas namiesto čakania na dokonalú zbierku fotografií. Tento nezávislý návod pomáha usporiadať žiadosť; nerozhoduje o nároku, nesľubuje schválenie a nenahrádza aktuálne pravidlá ani odpoveď pre vašu konkrétnu objednávku.",
+      "sections": [
+        {
+          "id": "identify-return-stage",
+          "heading": "1. Zistite, kde predmet je",
+          "paragraphs": [
+            "Overte, či predajca tovar odoslal, či je v sklade alebo už odišiel v medzinárodnom balíku. Zapíšte presné znenie stavu a uvedený čas. Rôzne fázy vyvolávajú rôzne praktické otázky, preto každú požiadavku nenazývajte jednoducho refundáciou.",
+            "Uložte číslo objednávky, vybraný variant a záznam platby. Ak objednávka obsahuje viac vecí, presne určte dotknutú položku. Pri nesprávne veľkom vrchnom diele by podpora nemala hádať, či myslíte iný kus z rovnakého nákupu. Údaje obmedzte na to, čo je pre tento problém nutné."
+          ]
+        },
+        {
+          "id": "check-clock",
+          "heading": "2. Overte aktuálnu lehotu žiadosti",
+          "paragraphs": [
+            "Stránka vrátenia Pikobuy uvádza 120-hodinovú skladovú lehotu na žiadosť a podmienenú oprávnenosť. Presný koniec lehoty pre svoju objednávku potvrďte v aktuálnom procese alebo s podporou. Snímka obsahujúca iba dátum nestačí na výpočet presného termínu.",
+            "Zaznamenajte čas a časové pásmo uvedené pri objednávke a uchovajte potvrdenie žiadosti. Ak neviete, či predmet spĺňa podmienky, pýtajte sa včas namiesto predpokladu, že neskoršia otázka lehotu predĺži. Rozhovor s podporou nie je dôkazom predĺženia, ak ho príslušný proces výslovne nepotvrdí. Toto rozlíšenie zachovajte v poznámkach."
+          ]
+        },
+        {
+          "id": "preserve-condition",
+          "heading": "3. Zachovajte podklady a stav výrobku",
+          "paragraphs": [
+            "Počas posudzovania ponechajte visačky, plomby, balenie a príslušenstvo neporušené. Nežiadajte úpravy iba preto, aby fotografia pôsobila jasnejšie. Ak kontrola vyžaduje niečo otvoriť či odstrániť, najprv sa opýtajte na dôsledok.",
+            "Uložte pôvodnú ponuku, vybraný variant, príslušnú tabuľku veľkostí a fotografie zachytávajúce problém. Označte snímky vlastného kusu. Fotografia skoršieho kupujúceho môže ilustrovať očakávania, ale najjasnejšia žiadosť porovnáva zaznamenanú objednávku s dôkazmi o prijatom predmete. Vedľa vysvetľujúcich poznámok uchovajte aj pôvodné súbory."
+          ]
+        },
+        {
+          "id": "classify-issue",
+          "heading": "4. Opíšte problém bez preháňania",
+          "paragraphs": [
+            "Rozlišujte nesúlad variantu, viditeľnú chybu, neistý rozmer a zmenu názoru. Tieto opisy vysvetľujú, čo má niekto posúdiť. Používajte doložiteľné pozorovania, napríklad rozdiel viditeľného štítku od vybranej veľkosti, namiesto všeobecného tvrdenia, že je všetko zlé.",
+            "Nasledujúci prehľad je redakčná prípravná pomôcka, nie oficiálna tabuľka nárokov. Ukazuje, ako sa s problémom menia potrebné podklady aj otázka."
+          ],
+          "table": {
+            "headers": [
+              "Problém",
+              "Podklady na usporiadanie",
+              "Otázka"
+            ],
+            "rows": [
+              [
+                "Nesprávny vybraný variant",
+                "Voľba v objednávke a prijatý štítok",
+                "Možno tento nesúlad posúdiť na vrátenie?"
+              ],
+              [
+                "Viditeľné poškodenie",
+                "Jasné miesto a okolité pohľady",
+                "Aké podklady sú potrebné na posúdenie poškodenia?"
+              ],
+              [
+                "Neisté padnutie",
+                "Pôvodná tabuľka a čitateľné merania",
+                "Možno objasniť rozdiel v rozmeroch?"
+              ],
+              [
+                "Zmena názoru",
+                "Stav objednávky a zachovaný stav výrobku",
+                "Je vrátenie možné a koľko by stálo?"
+              ]
+            ]
+          }
+        },
+        {
+          "id": "write-request",
+          "heading": "5. Napíšte stručnú, riešiteľnú žiadosť",
+          "paragraphs": [
+            "Začnite číslom objednávky a dotknutým predmetom. Jednou či dvoma vetami opíšte problém a označte podporné snímky. Uveďte požadovaný výsledok a ponechajte priestor na skutočný postup a rozhodnutie o podmienkach.",
+            "Napríklad: objednal som modrý variant, ale skladový štítok a fotografie zrejme ukazujú čierny. Prikladám zvolenú možnosť a snímky prijatého kusu. Prosím potvrďte, či je variant nesprávny a či možno požiadať o vrátenie zo skladu. Ide o pôvodný vzor formulácie, nie tvrdenie, že bude konkrétny výsledok schválený."
+          ]
+        },
+        {
+          "id": "confirm-costs",
+          "heading": "6. Pred pokračovaním zistite úplnú cenu",
+          "paragraphs": [
+            "Poplatky za vrátenie môžu ovplyvniť praktický zmysel požiadavky pri zmene názoru. Opýtajte sa na zložky aj celkovú sumu pre konkrétny kus vrátane dopravy a servisu. Výsledok nepočítajte podľa skúsenosti iného zákazníka.",
+            "Oficiálna stránka obsahuje nejednotné formulácie pôvodného poštovného, preto vyžiadajte vysvetlenie pre danú objednávku. Zaznamenajte cenu, jej poskytovateľa a pripojené podmienky. Pri riešení očakávanej refundácie oddeľte cenu výrobku od poplatkov, ktoré môžu zostať splatné. Nepredpokladajte automatické vrátenie celej pôvodne zaplatenej sumy."
+          ]
+        },
+        {
+          "id": "follow-case",
+          "heading": "7. Sledujte prípad s prehľadným záznamom",
+          "paragraphs": [
+            "Udržiavajte krátku časovú os žiadosti, potvrdení, ďalších podkladov a rozhodnutí. Kde je to vhodné, odpovedajte v existujúcom prípade, aby kontext zostal spolu. Ak podpora požiada o chýbajúci detail, odpovedzte priamo namiesto nového opisu celého nákupu.",
+            "Pred schválením kroku overte, že sa týka správneho predmetu a riešenia, ktorému rozumiete. Uchovajte potvrdenie prijatého výsledku aj toho, čo čaká. Odoslaná žiadosť, reakcia predajcu a dokončená refundácia sú rôzne udalosti. Samostatný záznam každej z nich pomáha sledovať výsledok bez zámeny postupu za dokončenie."
+          ]
+        }
+      ],
+      "sourceIds": [
+        "official-returns",
+        "official-contact"
+      ],
+      "related": [
+        "qc",
+        "articles/pikobuy-qc-measurements",
+        "articles/pikobuy-haul-budget"
+      ]
+    },
+    {
+      "slug": "pikobuy-tracking-not-updating",
+      "title": "Sledovanie Pikobuy sa neaktualizuje? Overte fázu a ďalší krok",
+      "description": "Zistite, prečo sa sledovanie Pikobuy nemení: určte fázu zásielky, prečítajte dostupné podklady a pripravte užitočnú otázku pre podporu.",
+      "intro": "Keď sledovanie Pikobuy zdanlivo mlčí, najprv určte, ktorý pohyb sledujete. Doprava od predajcu do skladu a neskorší medzinárodný balík sú samostatné fázy. Záznam objednávky, referencia balíka a sledovacie číslo dopravcu môžu odpovedať na rôzne otázky. Užitočný ďalší krok závisí od poslednej potvrdenej udalosti, nie od počtu dní od prvej platby za výrobok.",
+      "sections": [
+        {
+          "id": "identify-shipment",
+          "heading": "1. Určte sledovaný pohyb",
+          "paragraphs": [
+            "Napíšte si, či čakáte na odoslanie predajcom, skladové spracovanie alebo medzinárodný balík. Vedľa fázy ponechajte príslušnú referenciu. Nepredpokladajte, že číslo spojené s jedným pohybom sleduje aj ďalší.",
+            "Pri viacerých produktoch rozlišujte postup jednotlivého predmetu a balíka s niekoľkými položkami. Odoslanie od jedného predajcu nepotvrdzuje pripravenosť celého obsahu plánovaného balíka. Podľa skutočných objednávkových a balíkových záznamov zistite, čo bolo zadané, namiesto rekonštrukcie procesu spamäti."
+          ]
+        },
+        {
+          "id": "locate-dispatch",
+          "heading": "2. Nájdite udalosť medzinárodného odoslania",
+          "paragraphs": [
+            "Návod Pikobuy vzťahuje svoje trojdňové vyjadrenie o dostupnosti sledovania na odoslanie balíka. Na tomto východiskovom bode záleží. Platba za výrobok, príchod do skladu a zadanie balíka nie sú automaticky rovnakou udalosťou ako medzinárodné odoslanie.",
+            "Pred porovnaním so zverejneným pokynom overte zaznamenaný dátum odoslania. Ak záznam odoslanie jasne nepotvrdzuje, požiadajte o objasnenie namiesto hodnotenia chýbajúceho skenu ako meškania dopravcu. Odpoveď uchovajte pri balíku. Vyjadrenie sa týka dostupnosti sledovania; nezaručuje dátum doručenia ani neurčuje príčinu konkrétnej medzery."
+          ]
+        },
+        {
+          "id": "read-event-type",
+          "heading": "3. Prečítajte skutočný význam poslednej udalosti",
+          "paragraphs": [
+            "Záznam o existencii štítku alebo prepravných údajov sa líši od dôkazu fyzického prijatia balíka dopravcom. Neskoršie udalosti môžu opisovať spracovanie, odovzdanie, pokus o doručenie či inú činnosť. Čítajte úplné znenie s časom namiesto spoliehania iba na farebný ukazovateľ postupu.",
+            "Neznáme znenie stavu neprevádzajte na silnejšie tvrdenie, než aké podporuje. Ak udalosť uvádza partnera alebo iného dopravcu, poznačte si ho a overte dostupnú referenciu. Nepredpokladajte, že všeobecný internetový slovník presne vykladá každú správu pri vašej zásielke."
+          ]
+        },
+        {
+          "id": "build-timeline",
+          "heading": "4. Vytvorte stručnú časovú os podkladov",
+          "paragraphs": [
+            "Jednoduchý záznam pomáha rozlíšiť nezmenenú udalosť od novej s podobným textom. Presne skopírujte znenie, ponechajte zobrazený čas a zaznamenajte zdroj. Nasleduje hypotetický formát, nie skutočná história balíka alebo oficiálny slovník stavov."
+          ],
+          "table": {
+            "headers": [
+              "Udalosť v príkladovom zázname",
+              "Čo možno vyvodiť",
+              "Čo zostáva neznáme"
+            ],
+            "rows": [
+              [
+                "Zaznamenané zadanie balíka",
+                "Je viditeľná akcia zadania",
+                "Či došlo k odoslaniu"
+              ],
+              [
+                "Zaznamenané odoslanie",
+                "Platforma hlási odoslanie",
+                "Či je viditeľný sken dopravcu"
+              ],
+              [
+                "Prijaté informácie o zásielke",
+                "Sú zaznamenané elektronické údaje",
+                "Či je potvrdené fyzické prevzatie"
+              ],
+              [
+                "Zaznamenané prevzatie dopravcom",
+                "Je vidieť udalosť prevzatia",
+                "Konečný dátum doručenia"
+              ],
+              [
+                "Zaznamenaná výnimka pri doručení",
+                "Problém vyžaduje vysvetlenie",
+                "Príčina a požadovaný krok do objasnenia"
+              ]
+            ]
+          }
+        },
+        {
+          "id": "choose-next-action",
+          "heading": "5. Zvoľte krok podľa chýbajúceho podkladu",
+          "paragraphs": [
+            "Ak chýba referencia medzinárodného balíka, začnite pri zázname platformy. Ak je odoslanie uvedené, ale sledovanie sa neobjavilo podľa publikovaného pokynu, opýtajte sa Pikobuy na tento balík. Ak existuje udalosť dopravcu, ale prestala sa meniť, uchovajte poslednú potvrdenú udalosť a overte príslušné informácie o službe.",
+            "Pri probléme s adresou či doručením dôkladne prečítajte požadovanú akciu a overte ju skutočným kanálom dopravcu alebo platformy. Pokojné obdobie sledovania samo osebe nedokazuje stratu a upokojujúci odhad nedokazuje pohyb balíka. Otázku zamerajte na chýbajúce informácie alebo úkon."
+          ]
+        },
+        {
+          "id": "prepare-ticket",
+          "heading": "6. Pošlite podpore užitočné údaje",
+          "paragraphs": [
+            "Uveďte referenciu balíka, zobrazený dátum odoslania, dopravcu, sledovacie číslo a poslednú udalosť s časom. Pridajte snímku obrazovky, ak uchová znenie, ktoré sa môže zmeniť. Napíšte otázku, ktorú chcete zodpovedať, napríklad či bolo potvrdené odovzdanie dopravcovi.",
+            "Stručný príklad: pri balíku je uvedené odoslanie k zaznamenanému dátumu, ale nenachádzam udalosť prevzatia dopravcom. Prikladám aktuálny text sledovania. Prosím potvrďte posledný overený pohyb a či mám niečo urobiť. Správny kanál podpory nájdete na oficiálnej kontaktnej stránke Pikobuy; tento nezávislý web nemôže prezerať vašu súkromnú zásielku."
+          ]
+        },
+        {
+          "id": "close-record",
+          "heading": "7. Uchovajte záznam až do doručenia",
+          "paragraphs": [
+            "Pri významnej udalosti záznam aktualizujte a opakované kontroly tej istej stránky nepovažujte za nové podklady. Uchovajte pokyny a odpovede, ktoré menia očakávaný ďalší postup. Ak pre váš prípad dostanete termín alebo krok eskalácie, výslovne ho zapíšte.",
+            "Po doručení porovnajte obsah so zoznamom položiek a uchovanou skladovou kontrolou. Počas objasňovania rozdielov ponechajte príslušné obaly a štítky. Dokončené sledovanie a vyhovujúca kontrola obsahu sú samostatné pozorovania. Prehľadný záznam pomôže vysvetliť problém s doručením či predmetom bez miešania oboch."
+          ]
+        }
+      ],
+      "sourceIds": [
+        "official-guide",
+        "official-contact"
+      ],
+      "related": [
+        "shipping",
+        "guide",
+        "faq"
+      ]
+    }
+  ]
+}

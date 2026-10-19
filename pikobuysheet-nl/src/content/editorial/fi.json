@@ -1,0 +1,1254 @@
+{
+  "ui": {
+    "articles": "Artikkelit",
+    "faq": "Usein kysytyt kysymykset",
+    "articlesTitle": "Käytännön Pikobuy-oppaat",
+    "articlesIntro": "Käytännön oppaita tuotteiden valintaan, tietojen tarkistamiseen, kustannusten suunnitteluun ja toimituksen järjestämiseen.",
+    "faqTitle": "Vastauksia Pikobuy-kysymyksiisi",
+    "faqIntro": "Vastaukset 24 kysymykseen Pikobuyn virallisten sivujen pohjalta.",
+    "toc": "Tällä sivulla",
+    "sources": "Lähteet",
+    "checked": "Tarkistettu",
+    "byline": "PikobuySheet",
+    "readArticle": "Lue artikkeli",
+    "related": "Aiheeseen liittyvät artikkelit",
+    "allArticles": "Kaikki artikkelit",
+    "latestArticles": "Uusimmat artikkelit",
+    "articleCount": "10 käytännön opasta",
+    "sourceLink": "Virallinen lähde"
+  },
+  "faq": [
+    {
+      "id": "what-is-pikobuy",
+      "question": "Mitä Pikobuy tekee?",
+      "answer": "Pikobuy auttaa käyttäjiä löytämään tuotteita Kiinasta, ostamaan niitä myyjiltä, vastaanottamaan ne varastoonsa ja järjestämään kansainvälisen toimituksen. Etusivu kuvaa nämä palvelun erillisiksi vaiheiksi.",
+      "sourceIds": [
+        "official-home"
+      ]
+    },
+    {
+      "id": "supported-marketplaces",
+      "question": "Mitä kauppapaikkoja opas mainitsee?",
+      "answer": "Virallinen opas mainitsee Taobao-, Tmall-, 1688-, Weidian- ja Yupoo-palvelut. Tarkista täsmällinen tuote, koko ja väri ennen ostotoimeksiannon lähettämistä.",
+      "sourceIds": [
+        "official-guide"
+      ]
+    },
+    {
+      "id": "finding-products",
+      "question": "Miten voin pyytää Pikobuyta etsimään tuotteen?",
+      "answer": "Pikobuyn etusivu kertoo suorasta tuotehausta sekä tuotelinkkien, kuvien ja hankintapyyntöjen lähettämisestä. Nämä ovat Pikobuyn omia palveluita eivätkä osoita, että tässä riippumattomassa luettelossa olisi kuvahakutoiminto.",
+      "sourceIds": [
+        "official-home"
+      ]
+    },
+    {
+      "id": "two-payments",
+      "question": "Miksi ostos ja toimitus maksetaan erikseen?",
+      "answer": "Oppaan mukaan ostos maksetaan ennen varastotarkastusta. Myöhemmin valitset toimitusreitin, lähetät paketin toimituspyynnön ja maksat kansainvälisen kuljetuksen.",
+      "sourceIds": [
+        "official-guide"
+      ]
+    },
+    {
+      "id": "payment-options",
+      "question": "Mitä maksutapoja voin käyttää?",
+      "answer": "Pikobuy kertoo useiden valuuttojen tuesta ja näyttää korttien sekä digitaalisten lompakoiden logoja, kuten Visa, Mastercard, Klarna, Google Pay ja Apple Pay. Tarkista kassalla tosiasiallisesti tarjotut maksutavat, valuutat ja kokonaissumma ennen maksamista.",
+      "sourceIds": [
+        "official-about"
+      ]
+    },
+    {
+      "id": "failed-payment",
+      "question": "Käsitelläänkö tilaukseni, jos maksu epäonnistuu?",
+      "answer": "Pikobuyn ehtojen mukaan tilausta ei käsitellä, jos maksu epäonnistuu. Tarkista maksun tulos tililtäsi ja ota yhteyttä viralliseen tukeen, jos tapahtuman tila jää epäselväksi.",
+      "sourceIds": [
+        "official-terms"
+      ]
+    },
+    {
+      "id": "warehouse-inspection",
+      "question": "Mitä tapahtuu tuotteen saavuttua varastoon?",
+      "answer": "Opas kuvaa vastaanoton kirjaamisen, valokuvavahvistuksen ja vikojen tarkastuksen. Tarkista oman tilauksesi tiedot ennen kuin päätät, mitkä tuotteet lähetetään.",
+      "sourceIds": [
+        "official-guide"
+      ]
+    },
+    {
+      "id": "qc-limits",
+      "question": "Takaavatko tarkastuskuvat aitouden tai toimivuuden?",
+      "answer": "Eivät. Käyttäjäsopimus kertoo, ettei joidenkin tuotteiden laatua tai aitoutta voida tarkastaa ammattimaisesti. Tarkastus voi rajoittua ulkoiseen kuntoon ja tarvikkeisiin. Kuvat antavat hyödyllistä tietoa mutta eivät yleistä tuotetakuuta.",
+      "sourceIds": [
+        "official-user-agreement"
+      ]
+    },
+    {
+      "id": "detailed-photos",
+      "question": "Voinko pyytää tarkempia tarkastuskuvia?",
+      "answer": "Edelleenlähetysehtojen mukaan asiakkaat voivat katsella Pikobuyn tarkastuskuvia tai ostaa lisää yksityiskohtaisia kuvia. Varmista Pikobuysta, mikä kuvapalvelu on saatavilla ja mitä se maksaa tarkastettavalle tuotteelle.",
+      "sourceIds": [
+        "official-shipping"
+      ]
+    },
+    {
+      "id": "packaging",
+      "question": "Voinko pyytää erilaista pakkausta?",
+      "answer": "Osto-opas mainitsee toiveet kevyestä tai vahvistetusta pakkauksesta. Kerro tarpeesi ja varmista käytettävissä olevat käsittelyvaihtoehdot ennen paketin toimituspyynnön lähettämistä.",
+      "sourceIds": [
+        "official-guide"
+      ]
+    },
+    {
+      "id": "consolidation",
+      "question": "Voiko eri myyjien tuotteet lähettää samassa paketissa?",
+      "answer": "Pikobuyn yhteystietosivun mukaan eri myyjien tuotteet voidaan yhdistää yhdeksi paketiksi, jolla on yksi toimitusmaksu. Vertaa muodostuvaa pakettihintaa; tämä ei takaa säästöä jokaiselle tilaukselle.",
+      "sourceIds": [
+        "official-contact"
+      ]
+    },
+    {
+      "id": "storage",
+      "question": "Kuinka kauan tuotteitani voidaan säilyttää?",
+      "answer": "Edelleenlähetysehdot vahvistavat säilytyksen vastaanoton jälkeen mutta eivät määritä yleistä maksutonta aikaa tai määräaikaa. Tarkista tuotteidesi ajantasaiset ehdot Pikobuysta tai kysy viralliselta tuelta ennen odottamista.",
+      "sourceIds": [
+        "official-shipping"
+      ]
+    },
+    {
+      "id": "shipping-estimate",
+      "question": "Mitä tietoja toimituskulujen arviointi vaatii?",
+      "answer": "Pikobuyn laskuri kysyy määränpäätä, tuotetyyppiä, painoa, pituutta, leveyttä ja korkeutta. Käytä mahdollisimman tarkkoja tietoja ja tarkista lopullinen pakettihinta ennen maksamista; tuotteen listahinta ei ole toimitustarjous.",
+      "sourceIds": [
+        "official-estimate"
+      ]
+    },
+    {
+      "id": "delivery-choice",
+      "question": "Minkä toimitusreitin valitsen?",
+      "answer": "Pikobuy mainostaa useita toimituskanavia ja reittiyhdistelmiä. Vertaa määränpäälle ja paketille tällä hetkellä saatavilla olevia vaihtoehtoja. Julkinen esittelysivu ei määritä aina halvinta reittiä eikä takaa saapumispäivää.",
+      "sourceIds": [
+        "official-about"
+      ]
+    },
+    {
+      "id": "tracking",
+      "question": "Milloin seurantatietojen pitäisi näkyä?",
+      "answer": "Osto-oppaan mukaan seurantatiedot tulevat saataville kolmen päivän kuluessa lähettämisestä. Pidä tätä julkaistuna ohjeena ja ota yhteyttä Pikobuyhin, jos päivitys viivästyy.",
+      "sourceIds": [
+        "official-guide"
+      ]
+    },
+    {
+      "id": "taxes",
+      "question": "Voiko tilauksen ja toimituksen lisäksi tulla muita kuluja?",
+      "answer": "Kyllä. Pikobuyn ehtojen mukaan kansainvälisistä tilauksista voi aiheutua tullimaksuja, veroja, tullauspalkkioita tai muita asiakkaan maksettavia kuluja. Tarkista määränpään vaatimukset ja valitsemasi toimituksen ehdot ennen ostamista.",
+      "sourceIds": [
+        "official-terms"
+      ]
+    },
+    {
+      "id": "forwarding",
+      "question": "Voinko lähettää edelleen itse ostamiani tuotteita?",
+      "answer": "Ehdoissa kuvataan varasto-osoitteen hakeminen tuesta tai edelleenlähetyslomakkeesta, tarvittavien tietojen toimittaminen sekä vastaanoton ja kuvien odottaminen. Sen jälkeen lähetät paketin toimituspyynnön ja maksat kuljetuksen Pikobuyn kautta.",
+      "sourceIds": [
+        "official-shipping"
+      ]
+    },
+    {
+      "id": "forwarded-after-sales",
+      "question": "Kuka hoitaa edelleenlähetettyjen tuotteiden jälkipalvelun?",
+      "answer": "Edelleenlähetettyjen tuotteiden jälkipalvelukysymykset Pikobuy ohjaa lähettäjälle tai myyjälle. Ehtojen mukaan se voi auttaa lähettämään tavarat takaisin mutta ei tarjoa itse tuotteen jälkipalvelua.",
+      "sourceIds": [
+        "official-shipping"
+      ]
+    },
+    {
+      "id": "return-deadline",
+      "question": "Milloin palautusta varastosta on pyydettävä?",
+      "answer": "Palautusehdoissa määräaika on 120 tuntia alkaen tilan In Warehouse (varastossa) muutosta seuraavasta tunnista. Lähetä pyyntö nopeasti; hyväksyminen riippuu edelleen palautusehtojen täyttymisestä.",
+      "sourceIds": [
+        "official-returns"
+      ]
+    },
+    {
+      "id": "return-eligibility",
+      "question": "Voiko jokaisen tuotteen palauttaa?",
+      "answer": "Ei. Myyjän osallistuminen, jälleenmyyntikelpoinen kunto ja määräaika vaikuttavat. Räätälöityihin tuotteisiin, muutettuihin pakkauksiin ja tiettyihin tuoteryhmiin liittyy rajoituksia. Tarkista palautuskelpoisuus ennen tilaamista tai etikettien poistamista.",
+      "sourceIds": [
+        "official-returns"
+      ]
+    },
+    {
+      "id": "return-costs",
+      "question": "Ovatko palautukset aina ilmaisia?",
+      "answer": "Eivät. Ehdoissa mainitaan toimitus- ja palvelumaksuja asiakkaan omasta päätöksestä tehtäville palautuksille. Pyydä tuelta tilauksesi tarkka kokonaissumma, sillä julkaistut toimitusmaksuja koskevat tiedot ovat ristiriitaisia.",
+      "sourceIds": [
+        "official-returns"
+      ]
+    },
+    {
+      "id": "wrong-or-damaged-item",
+      "question": "Entä jos myyjä lähettää väärän tuotteen?",
+      "answer": "Ilmoita poikkeamasta viipymättä Pikobuyn kautta. Ehdot erottavat myyjän virheet ja laatuongelmat asiakkaan päätöksestä tehtävistä palautuksista, mutta myyjän suostumus ja tapauksen olosuhteet vaikuttavat lopputulokseen.",
+      "sourceIds": [
+        "official-returns"
+      ]
+    },
+    {
+      "id": "not-shipped-cancellation",
+      "question": "Maksaako palautuspyyntö, kun tila on Not Shipped?",
+      "answer": "Palautuksia koskevien kysymysten mukaan palautusmaksua ei peritä, jos tilausta ei ole vielä lähetetty. Tarkista ajantasainen tila ennen pyynnön tekemistä.",
+      "sourceIds": [
+        "official-returns"
+      ]
+    },
+    {
+      "id": "official-support",
+      "question": "Mistä kysyn tilauksesta, maksusta tai paketista?",
+      "answer": "Käytä Pikobuyn virallista yhteystietosivua, joka suosittelee tukipyynnön avaamista ja näyttää yhteydenottokanavat. Tämä riippumaton luettelo ei voi käyttää Pikobuy-tiliäsi, muuttaa tilausta tai ratkaista maksua puolestasi.",
+      "sourceIds": [
+        "official-contact"
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "slug": "pikobuy-spreadsheet-checklist",
+      "title": "Pikobuy-tuotetaulukon tarkistuslista: vertaa löytöjä ennen tilaamista",
+      "description": "Vertaa lähdelinkkejä, tuotevaihtoehtoja, kuvia ja budjettia käytännön tarkistuslistalla ja päätä, mitkä Pikobuy-löydöt ansaitsevat tarkemman tutustumisen.",
+      "intro": "Pikobuy-tuotetaulukosta on hyötyä silloin, kun se auttaa tekemään päätöksen. Pitkä tallennettu lista voi peittää puuttuvat kokotiedot, vanhentuneet linkit ja kulut, joita et ole huomioinut. Tämän tarkistuslistan tavoitteena on rajata kiinnostavat löydöt pieneksi, perustelluksi ehdokaslistaksi. Pidä nykyinen tuoteilmoitus erillään omista muistiinpanoistasi ja määritä jokaiselle ehdokkaalle selkeä seuraava toimi ennen rahankäyttöä.",
+      "sections": [
+        {
+          "id": "define-the-job",
+          "heading": "1. Määritä, mihin ostoksen pitää soveltua",
+          "paragraphs": [
+            "Aloita tilanteesta, jossa käytät tuotetta. Kannettavalle tietokoneelle tarkoitetun laukun vaatimukset eroavat pienestä iltalaukusta. Kerrospukeutumiseen tarkoitettu huppari tarvitsee erilaisen istuvuuden kuin vartalonmyötäisen takin alla käytettävä huppari. Kirjoita käyttötarkoitus yhteen lauseeseen ja valitse kaksi tai kolme vaatimusta, joista et voi tinkiä.",
+            "Aseta kokonaisbudjetti ennen tuotehintojen tarkastelua. Jätä tilaa kuluille, jotka on vielä arvioitava. Makuusi sopivaa mutta käyttötarkoitukseensa sopimatonta tuotetta ei kannata pitää mukana vain houkuttelevan pikkukuvan vuoksi."
+          ]
+        },
+        {
+          "id": "build-a-record",
+          "heading": "2. Tallenna jokaisen ehdokkaan tunnistetiedot",
+          "paragraphs": [
+            "Kirjaa lähdeosoite, myyjän tai kaupan tunniste, tarkka vaihtoehto, näytetty hinta ja tarkistuspäivä. Tallenna kokotaulukko tai tärkeä ominaisuustieto samaan yhteyteen. Tuotetaulukon nimi on usein varsinaista ilmoitusta lyhyempi ja voi jättää pois hintaan vaikuttavan vaihtoehdon.",
+            "Kirjoita lyhyt perustelu sille, miksi tallensit tuotteen. Ehdokkaan suuaukko voi esimerkiksi olla riittävän leveä tai hihat sopivan pituiset. Jos et osaa kertoa, mikä tekee tuotteesta sopivan, palaa vaatimuksiin sen sijaan, että lisäisit lähes samanlaisia rivejä."
+          ]
+        },
+        {
+          "id": "separate-evidence",
+          "heading": "3. Selvitä, mitä kukin kuva todella näyttää",
+          "paragraphs": [
+            "Myyjän kuva kertoo tuotteen esittelystä. Aiemman ostajan valokuva voi näyttää aikaisemman tilauksen. Omat varastokuvasi koskevat omaan tilaukseesi vastaanotettua tuotetta. Pidä nämä tietolähteet erillään: niiden hyödyllisyys riippuu kysymyksestä, johon haet vastausta.",
+            "Aiempi valokuva voi auttaa tunnistamaan tarkistettavan yksityiskohdan, mutta se ei osoita tulevan ostoksen kuntoa. Vastaavasti houkutteleva tuotekuva ei ratkaise epäselvää mittakysymystä. Kirjoita avoin kysymys kuvan viereen sen sijaan, että pitäisit pelkkää kuvan olemassaoloa tehtynä tarkistuksena."
+          ]
+        },
+        {
+          "id": "apply-hard-stops",
+          "heading": "4. Ratkaise olennaiset puutteet ennen mieltymysten vertailua",
+          "paragraphs": [
+            "Tarkista vaatimukset, joiden vuoksi ostos voi olla sopimaton: tuotteen tunnistetiedot, saatavilla oleva vaihtoehto, tärkeät mitat ja toteuttamiskelpoinen kokonaisbudjetti. Jos lähdelinkki avaa eri tuotteen tai valitun koon taulukkoa ei voi tulkita, jätä rivi odottamaan.",
+            "Vertaa mieltymyksiä vasta näiden tarkistusten jälkeen. Väri, viimeistely ja tyyli voivat auttaa valitsemaan sopivien ehdokkaiden välillä, mutta ne eivät korvaa tietokoneelle liian kapeaa suuaukkoa. Vältä pisteytystä, jossa useat houkuttelevat ominaisuudet kumoavat yhden ratkaisevan puutteen. Pelkkä odottamaan jättäminen on usein selvempää kuin näennäisen tarkka pistemäärä."
+          ]
+        },
+        {
+          "id": "compare-example",
+          "heading": "5. Vertaa kolmea kuvitteellista löytöä",
+          "paragraphs": [
+            "Tässä esimerkissä laukun pitää sisältää jäykkä, 30 cm leveä esine. Luvut on keksitty menetelmän havainnollistamiseksi, eikä niitä ole otettu nykyisistä tuotteista. Huomaa, ettei alin ilmoitettu hinta ratkaise, mikä rivi ansaitsee huomiota."
+          ],
+          "table": {
+            "headers": [
+              "Ehdokas",
+              "Saatavilla oleva tieto",
+              "Päätös ja seuraava toimi"
+            ],
+            "rows": [
+              [
+                "A",
+                "Suuaukon leveydeksi on dokumentoitu 28 cm",
+                "Poista: olennainen vaatimus ei täyty"
+              ],
+              [
+                "B",
+                "Ulkomitta on 34 cm; suuaukon leveys ei ole tiedossa",
+                "Odota: pyydä suuaukon käyttökelpoinen leveys"
+              ],
+              [
+                "C",
+                "Suuaukon leveydeksi on dokumentoitu 32 cm; budjetti on kesken",
+                "Säilytä tutkittavana: viimeistele kokonaiskulujen arvio"
+              ]
+            ]
+          }
+        },
+        {
+          "id": "make-next-action",
+          "heading": "6. Anna jokaiselle tallennetulle riville seuraava toimi",
+          "paragraphs": [
+            "Käytä tutkimuksen merkintöinä säilytä, odota ja poista. Säilytä tarkoittaa, että tiedot perustelevat seuraavan askeleen; se ei tarkoita tuotteen olevan varmennettu tai hyväksytty. Odota tarkoittaa, että yksi vastaus voi muuttaa päätöstäsi. Poista tarkoittaa, ettei vaatimus täyty tai puuttuvan tiedon selvittäminen ole enää vaivan arvoista.",
+            "Muotoile toimi niin täsmällisesti, että sen voi suorittaa. Käyttökelpoisen suuaukon leveyden pyytäminen auttaa enemmän kuin kehotus tarkistaa laatu. Valitun vaihtoehdon hinnan vertailu on hyödyllisempää kuin ilmoituksen katsominen uudelleen. Lisää odottaville ehdokkaille tarkistuspäivä, jotta samat avoimet asiat eivät kerry loputtomasti."
+          ]
+        },
+        {
+          "id": "recheck-before-payment",
+          "heading": "7. Tarkista ehdokaslista uudelleen ennen maksamista",
+          "paragraphs": [
+            "Avaa nykyinen ilmoitus uudelleen, kun olet valmis etenemään. Varmista, että valittu vaihtoehto, määrä ja hinnan peruste vastaavat tallennettuja tietoja. Tarkista uudelleen epäsuorasti saadut mitta- tai saatavuustiedot ja säilytä tiedot, joihin todella tukeuduit.",
+            "Siirry sitten tilaamiseen selkeän yhteenvedon avulla irrallisten kuvakaappausten sijaan. Kun varastotiedot ovat saatavilla, vertaa niitä tähän yhteenvetoon. Sama ehdokaslista auttaa nyt tarkistamaan, mitä aioit tilata, mitkä yksityiskohdat ovat avoinna ja mitä pitäisi kysyä seuraavaksi."
+          ]
+        }
+      ],
+      "sourceIds": [
+        "official-guide"
+      ],
+      "related": [
+        "spreadsheet",
+        "articles/pikobuy-product-links",
+        "articles/pikobuy-haul-budget"
+      ]
+    },
+    {
+      "slug": "pikobuy-clothing-size-chart",
+      "title": "Pikobuy-vaatteiden kokotaulukot: mittaa ennen koon valintaa",
+      "description": "Tulkitse Pikobuy-vaatteiden kokotaulukoita vertailuvaatteen, yhtenäisten mittauskohtien ja selkeiden yksiköiden avulla. Tutustu esimerkkiin ennen koon valitsemista.",
+      "intro": "Tuttu kokokirjain ei riitä vaatteen valintaan Pikobuy-löydöistä. Hyödyllinen vertailu perustuu samaa asiaa kuvaaviin mittoihin: samaan vaatteen kohtaan, samoihin yksiköihin ja samankaltaiseen mittaustapaan. Tämä opas auttaa rakentamaan vertailun jo omistamiesi vaatteiden avulla. Se ei oleta kaikkien myyjien käyttävän samaa kokojärjestelmää tai suuremman kokokirjaimen ratkaisevan epäselvää taulukkoa.",
+      "sections": [
+        {
+          "id": "identify-chart-type",
+          "heading": "1. Selvitä, mitä taulukko mittaa",
+          "paragraphs": [
+            "Lue nimikkeet ennen lukujen tulkintaa. Taulukko voi kuvata valmista vaatetta, suositeltuja vartalonmittoja tai ohjeiden ja tuotemittojen yhdistelmää. Nämä ovat eri vertailukohtia. Vaatteen rinnanympärys sisältää siihen suunnitellun väljyyden, kun taas vartalonmitta kuvaa käyttäjää.",
+            "Tallenna taulukko täsmällisen tuotteen ja valitun version yhteyteen. Jos ilmoituksessa on eri leikkauksia tai malleja, älä oleta yhden taulukon koskevan niitä kaikkia. Jos mittaustyyppi on epäselvä, pyydä selvennystä ennen lukujen muuttamista kokosuositukseksi."
+          ]
+        },
+        {
+          "id": "choose-reference",
+          "heading": "2. Valitse hyödyllinen vertailuvaate",
+          "paragraphs": [
+            "Valitse vaate, joka istuu siten kuin haluat uuden ostoksen istuvan. Vertaa väljää hupparia väljään huppariin sen sijaan, että käyttäisit ainoana vertailuna istuvaa T-paitaa. Huomioi kangas, hartiarakenne ja mahdolliset alle puettavat kerrokset.",
+            "Levitä vertailuvaate tasaiselle alustalle venyttämättä sitä. Kirjaa mitat itse ja säilytä kuva mittauksen päätepisteistä. Tavoitteena on toistettava vertailu, joten huolellinen muistiinpano on arvokkaampi kuin muisto siitä, että tietty merkki yleensä sopii. Käytä merkintää uudelleen vain aidosti vertailukelpoiseen tuotteeseen."
+          ]
+        },
+        {
+          "id": "match-endpoints",
+          "heading": "3. Yhdenmukaista mittauskohdat",
+          "paragraphs": [
+            "Yläosassa hyödyllisiä mittoja voivat olla rinnan leveys tasolla, vartalo-osan pituus, hartialeveys ja hihan pituus. Housuissa voivat merkitä vyötärö, haarakorkeus, lantio, reisi ja sisäsauma. Oikeat mitat riippuvat istuvuusongelmasta, jonka haluat välttää.",
+            "Tarkista jokaisen mitan määritelmä. Olkasaumasta mitattu hiha ei vastaa kauluksesta alkavaa mittaa. Myös kaareva ja joustava vyötärönauha edellyttävät ymmärrettyä mittaustapaa. Jos myyjän päätepiste eroaa vertailustasi, mittaa oma vaatteesi uudelleen samalla tavalla sen sijaan, että vertaisit yhteensopimattomia lukuja."
+          ]
+        },
+        {
+          "id": "handle-units",
+          "heading": "4. Erota leveys, ympärysmitta ja yksiköt",
+          "paragraphs": [
+            "Tasolla mitattu leveys kulkee vaatteen yhden puolen poikki. Ympärysmitta kuvaa matkaa sen ympäri. Niiden sekoittaminen voi synnyttää suuren näennäisen eron. Yksinkertaisena laskuesimerkkinä 58 cm:n leveyden kaksinkertaistaminen antaa 116 cm; vertailun sopivuus riippuu silti vaatteesta ja taulukon mittaustavasta.",
+            "Käytä taulukossasi yhtä yksikköä ja säilytä alkuperäiset luvut muunnosten rinnalla. Älä päättele ilmoittamatonta mittapoikkeamaa. Myyjän ilmoittama toleranssi antaa lisätietoa, mutta ei automaattisesti selitä kaikkia kokotaulukon ja varastokuvan eroja."
+          ]
+        },
+        {
+          "id": "worked-comparison",
+          "heading": "5. Vertaa kahta kuvitteellista hupparikokoa",
+          "paragraphs": [
+            "Oletetaan, että vertailuhupparisi rinnankohdan leveys on 58 cm ja vartalo-osan pituus 68 cm. Seuraava keksitty taulukko näyttää, miksei yksi kokokirjain ratkaise valintaa. Molemmat mitat merkitsevät, ja paras vaihtoehto riippuu siitä, minkä muutoksen voit hyväksyä."
+          ],
+          "table": {
+            "headers": [
+              "Mitta",
+              "Vertailuvaate",
+              "Esimerkkikoko M",
+              "Esimerkkikoko L"
+            ],
+            "rows": [
+              [
+                "Rinnan leveys tasolla",
+                "58 cm",
+                "57 cm",
+                "60 cm"
+              ],
+              [
+                "Vartalo-osan pituus",
+                "68 cm",
+                "66 cm",
+                "69 cm"
+              ],
+              [
+                "Selvitettävä asia",
+                "Tuttu haluttu istuvuus",
+                "Kapeampi ja lyhyempi",
+                "Leveämpi ja hieman pidempi"
+              ]
+            ]
+          },
+          "list": [
+            "Tarkista hihojen mitat ennen kummankaan vaihtoehdon valintaa.",
+            "Varmista, että kaikki vartalo-osan pituudet on mitattu samoista päätepisteistä.",
+            "Käsittele taulukkoa vertailuharjoituksena, älä kokosuosituksena."
+          ]
+        },
+        {
+          "id": "allow-for-use",
+          "heading": "6. Huomioi, miten käytät vaatetta",
+          "paragraphs": [
+            "Mittojen vastaavuus auttaa, mutta ei jäljennä vaatteen tuntumaa. Kankaan joustavuus, jäykkyys, vuori ja leikkaus voivat muuttaa samojen mittojen vaikutusta. Mieti liikkumista ja alle puettavia kerroksia ja tunnista sitten niitä ohjaavat mitat.",
+            "Älä lisää automaattisesti samaa väljyyttä jokaiseen mittaan. Lisäleveys voi auttaa kerrospukeutumisessa, kun taas ylimääräinen hihan pituus haittaa käyttöä. Jos taulukosta puuttuu ratkaiseva mitta, pyydä se yleisen suuremman koon säännön sijaan. Tarkoitus on vähentää tiettyä epävarmuutta, ei luoda näennäistä tarkkuutta."
+          ]
+        },
+        {
+          "id": "confirm-selected-size",
+          "heading": "7. Tallenna päätös ja varmista valittu vaihtoehto",
+          "paragraphs": [
+            "Tallenna ennen maksamista täsmällinen vaihtoehdon nimi ja käyttämäsi taulukko. Lisää lyhyt perustelu, kuten vertailuvaatteen rinnankohdan leveyden vastaavuus ja lyhyemmän vartalo-osan hyväksyminen. Se antaa selkeän pohjan myöhemmälle tarkastukselle.",
+            "Jos pyydät varastomittausta, ilmoita mitattava ulottuvuus, päätepisteet ja yksikkö. Luettavan mittaviivaimen pitää alkaa tarkoitetusta kohdasta ja näkyä koko mittauksen matkalta. Jos tiedot ovat ristiriidassa taulukon kanssa, pysähdy selvittämään ero, kun mahdollista palautusmenettelyä voi vielä harkita. Kuva voi tukea mittatarkistusta, mutta ei taata käyttömukavuutta."
+          ]
+        }
+      ],
+      "sourceIds": [
+        "official-guide",
+        "official-returns"
+      ],
+      "related": [
+        "spreadsheet",
+        "articles/pikobuy-qc-measurements",
+        "articles/pikobuy-shoe-sizing"
+      ]
+    },
+    {
+      "slug": "pikobuy-product-links",
+      "title": "Pikobuy-tuotelinkit: tarkista lähteet ja selvitä ilmoitusten ristiriidat",
+      "description": "Tarkista Pikobuy-tuotelinkit alkuperäisistä ilmoituksista, vertaa vaihtoehtoja tuonnin jälkeen ja käytä selkeää vianetsintää, kun tuote ei lataudu.",
+      "intro": "Tuotelinkin pitää yksilöidä muutakin kuin houkutteleva kuva. Sen pitäisi johtaa tarkoitettuun ilmoitukseen ja vaihtoehtoon, jonka aiot tilata. Jakaminen, lyhentäminen tai muuntaminen voi tehdä tästä yhteydestä epäselvän. Tässä oppaassa saat käytännön keinon säilyttää lähdetiedot, verrata tuotua tulosta ja päättää seuraavasta toimesta, kun Pikobuy-tuotelinkki ei avaudu odotetusti.",
+      "sections": [
+        {
+          "id": "save-source-record",
+          "heading": "1. Säilytä alkuperäisen ilmoituksen tiedot",
+          "paragraphs": [
+            "Tallenna alkuperäinen tuoteosoite, jos se on saatavilla, ennen jaetun ostoagenttilinkin käyttöä. Kirjaa tuotetunniste, myyjän tai kaupan tunniste, valittu malli, väri, koko ja määrä. Lisää ilmoituksen tarkistuspäivä ja kuvakaappaus vaihtoehdosta, jonka aioit valita.",
+            "Pelkkä kuvakaappaus on puutteellinen, koska osoite tai valittu vaihtoehto voi jäädä pois. Pelkkä osoite ei välttämättä säilytä tarkoittamaasi vaihtoehtoa. Linkki ja tiiviit vaihtoehtotiedot yhdessä helpottavat myöhemmän ristiriidan tunnistamista. Älä korvaa alkuperäistä merkintää, kun löydät toisen ehdokkaan."
+          ]
+        },
+        {
+          "id": "recognize-page-type",
+          "heading": "2. Tunnista sivun tyyppi",
+          "paragraphs": [
+            "Tuotesivu, kaupan etusivu ja kuva-albumi palvelevat eri tarkoituksia. Kaupan sivu voi auttaa löytämään myyjän valikoiman, mutta ei välttämättä yksilöi tuotetta. Albumi voi näyttää monta väriä ilman valittavaa ostovaihtoehtoa. Tuoteilmoituksessa voi olla saman otsikon alla useita versioita.",
+            "Tarkista puuttuvat tiedot ennen kuin yrität tuoda linkkiä toistuvasti. Saatat tarvita yksittäisen tuotelinkin, vaihtoehdon kuvauksen tai selvennyksen myyjältä tai alustalta. Tunnistettava kauppapaikan nimi antaa taustaa, mutta ei todista sivun sisältävän kaikkia oikean tilauksen edellyttämiä tietoja."
+          ]
+        },
+        {
+          "id": "compare-result",
+          "heading": "3. Vertaa tuotua tulosta lähteeseen",
+          "paragraphs": [
+            "Pikobuyn julkaistu opas tukee hakemista tuotelinkillä tai avainsanoilla. Kun tulos ilmestyy, vertaa sen tunnistetietoja lähdemerkintääsi sen sijaan, että pitäisit onnistunutta latautumista valmiina tarkistuksena.",
+            "Katso näkyvää tuotetunnistetta, myyjätietoja, saatavilla olevia vaihtoehtoja ja valitun vaihtoehdon kuvausta. Tarkista, koskeeko näytetty hinta haluamaasi tuotetta, eri versiota, lisävarustetta tai tiettyä määrää. Samankaltainen pikkukuva voi peittää erilaisen version. Jos lähteen ja tuodun tuotteen tiedot eroavat, selvitä ristiriita ennen kuin pidät tuotetta tilausvalmiina."
+          ]
+        },
+        {
+          "id": "separate-conversion",
+          "heading": "4. Ymmärrä, mitä linkin muuntaminen ei varmista",
+          "paragraphs": [
+            "Linkkimuunnin voi muuttaa tuoteviitteen muotoon, jota toinen palvelu osaa lukea. Tämä tekninen toimi on erillinen asia kuin myyjän, tuotteen kunnon, saatavuuden tai sopivuuden tarkistaminen. Se ei myöskään osoita, että nykyinen ilmoitus kuvaa yhä samaa tuotetta kuin vanha tallennettu rivi.",
+            "Säilytä alkuperäinen osoite muunnetun osoitteen rinnalla. Toista tunniste- ja vaihtoehtotarkistus muuntamisen jälkeen. Jos työkalu muuttaa kohdetta odottamatta, pysähdy tutkimaan tulosta. Älä syötä tunnuksiasi tuntemattomalle sivulle vain siksi, että saavuit sinne tuotetaulukosta tai muuntimesta."
+          ]
+        },
+        {
+          "id": "troubleshooting-table",
+          "heading": "5. Selvitä havaitsemasi ongelma",
+          "paragraphs": [
+            "Seuraava taulukko auttaa vianetsinnässä; se ei ole luettelo Pikobuyn virallisista virheilmoituksista. Lähde siitä, mitä todella näet. Uudelleen yrittäminen auttaa vain, jos se testaa uskottavaa syytä. Se ei palauta tietoa, jota linkissä ei koskaan ollut."
+          ],
+          "table": {
+            "headers": [
+              "Havaittu ongelma",
+              "Hyödyllinen tarkistus",
+              "Seuraava toimi"
+            ],
+            "rows": [
+              [
+                "Eri tuote avautuu",
+                "Vertaa lähteen tunnistetta ja valittua vaihtoehtoa",
+                "Säilytä molemmat tiedot ja pyydä selvennystä"
+              ],
+              [
+                "Lähde vaatii kirjautumisen",
+                "Tarkista osoite ja näkyvät tuotetiedot",
+                "Käytä aitoa lähdesivua tai virallista tukea"
+              ],
+              [
+                "Vain kauppa tai albumi avautuu",
+                "Etsi yksittäisen tuotteen viite",
+                "Anna täsmällisen tuotteen ja vaihtoehdon tiedot"
+              ],
+              [
+                "Tuotetta ei ole saatavilla",
+                "Tarkista nykyinen lähdesivu uudelleen",
+                "Käsittele korvaavat tuotteet uusina ehdokkaina"
+              ],
+              [
+                "Lyhennetty linkki ei toimi",
+                "Hae alkuperäinen tuoteosoite, jos mahdollista",
+                "Yritä kerran uudelleen sen lähdetiedoilla"
+              ]
+            ]
+          }
+        },
+        {
+          "id": "support-request",
+          "heading": "6. Lähetä kysymys, johon voi vastata",
+          "paragraphs": [
+            "Jos tarkoitettu tuote jää epäselväksi, lähetä lähdelinkki, tuotetunniste mahdollisuuksien mukaan, tarvittava vaihtoehto ja lyhyt selitys ristiriidasta. Liitä kuvakaappaukset, joissa näkyy olennainen valinta. Älä lähetä koko selaushistoriaa tai asiaan liittymättömiä tuotteita samassa pyynnössä.",
+            "Hyödyllinen kysymys on täsmällinen: lähteessä näkyy sininen M-koko, mutta tuodun tuotteen valitsin näyttää vain mustan; voiko sinisen M-koon tilata? Se on helpompi ratkaista kuin ilmoitus rikkinäisestä linkistä. Pikobuyn virallinen yhteystietosivu tarjoaa sopivan kanavan tiliä tai hankintaa koskeville kysymyksille."
+          ]
+        },
+        {
+          "id": "update-shortlist",
+          "heading": "7. Kirjaa tulos säilyttäen asiayhteys",
+          "paragraphs": [
+            "Merkitse ehdokas vastaavaksi, selvennystä odottavaksi tai sellaiseksi, jota ei ole saatavilla. Säilytä vastaus lähdetietojen yhteydessä. Jos ehdotetun vaihtoehdon tuotetunniste tai ominaisuudet eroavat, aloita erillinen rivi äläkä korvaa alkuperäistä tuotetta huomaamatta.",
+            "Tarkista ennen etenemistä todellinen vaihtoehto, jonka aiot lähettää tilattavaksi. Tavoitteena on jäljitettävä päätös: sinun pitäisi osata kertoa käyttämäsi ilmoitus, valitsemasi versio ja ristiriidan ratkaissut tieto. Merkintä auttaa myöhemmin vertaamaan vastaanotettua tuotetta siihen, mitä aioit ostaa."
+          ]
+        }
+      ],
+      "sourceIds": [
+        "official-guide",
+        "official-contact"
+      ],
+      "related": [
+        "guide",
+        "articles/pikobuy-spreadsheet-checklist",
+        "faq"
+      ]
+    },
+    {
+      "slug": "pikobuy-qc-measurements",
+      "title": "Pikobuy-laatutarkastuksen mittaukset: pyydä kuvia, jotka vastaavat kysymykseesi",
+      "description": "Tee Pikobuy-mittauspyynnöistä hyödyllisempiä täsmällisillä päätepisteillä, luettavilla asteikoilla ja rajatuilla kysymyksillä ennen tuotteen sopivuudesta päättämistä.",
+      "intro": "Useammat kuvat eivät välttämättä anna hyödyllisempää tietoa. Jos haluat tietää, onko hiha riittävän pitkä tai laukun suuaukko riittävän leveä, pyynnössä pitää kertoa, miten kohta mitataan. Hyvä Pikobuy-laatutarkastuspyyntö yhdistää yhden avoimen kysymyksen yhteen havaittavaan tulokseen. Tämä opas näyttää, miten yhteys muodostetaan ilman oletusta, että valokuva todistaa kaiken tuotteesta.",
+      "sections": [
+        {
+          "id": "define-the-question",
+          "heading": "1. Kirjoita päätöskysymys ennen pyyntöä",
+          "paragraphs": [
+            "Kerro, mikä vastaus muuttaisi seuraavaa toimeasi. Tuotteessa voi olla vaadittu vähimmäisaukko, kokomerkintä voi olla lukukelvoton tai jälki saattaa olla likaa varjon sijaan. Jokainen asia vaatii erilaista näyttöä. Parempien laatukuvien pyytäminen jättää kuvaajan arvaamaan, mikä merkitsee.",
+            "Muotoile lause havaittavan yksityiskohdan ympärille: haluan nähdä, onko molemmissa kengissä valittu kokomerkintä. Älä yhdistä siihen asiaan liittymättömiä pyyntöjä ompeleista, materiaaleista ja pakkaamisesta."
+          ]
+        },
+        {
+          "id": "identify-item",
+          "heading": "2. Yksilöi oikea tuote ja vaihtoehto",
+          "paragraphs": [
+            "Liitä olennainen tilausviite, tuotteen kuvaus ja valittu vaihtoehto. Jos tilauksessa on kaksi samankaltaista väriä tai kokoa, ilmaise ero selvästi. Viittaa olemassa olevaan kuvaan, jos se auttaa löytämään kohdan, mutta älä oleta aiemman ostajan kuvan esittävän nyt tarkastettavaa tuotetta.",
+            "Pidä lähdetaulukko ja haluttu vaihtoehto pyynnön rinnalla. Ne kertovat, miksi mitta on tärkeä, ja auttavat tulkitsemaan tulosta. Väärän tuotteen tarkka mitta on silti käyttökelvoton. Varmista ennen johtopäätöstä, että vastauksena saatu kuva voidaan järkevästi yhdistää pyytämääsi tuotteeseen ja vaihtoehtoon."
+          ]
+        },
+        {
+          "id": "specify-method",
+          "heading": "3. Kuvaa mittaustapa",
+          "paragraphs": [
+            "Nimeä päätepisteet, yksikkö ja asento. Kun pyydät vaatteen leveyttä tasolla, määritä mittanauhan alku ja loppu sekä se, pitääkö vaatteen olla tasaisesti venyttämättä. Laukun suuaukosta kannattaa pyytää käytettävää leveyttä aukon kohdalla, ei laukun leveintä ulkomittaa.",
+            "Pyydä asteikon alku ja loppu näkyviin. Kuvan ulkopuolelle jäävä nollakohta luo epävarmuutta, vaikka toinen pää näkyisi selvästi. Kaarta seuraava mitta ja suora mitta vastaavat eri kysymyksiin, joten kerro tarvitsemasi tapa pelkän pituus-sanan sijaan."
+          ]
+        },
+        {
+          "id": "request-examples",
+          "heading": "4. Sovita pyyntö kysymykseen",
+          "paragraphs": [
+            "Nämä ovat alkuperäisiä pyyntöpohjia, eivät valikkovaihtoehtoja tai lupauksia tietystä palvelusta. Varmista pyydetyn käsittelyn saatavuus ja hinta ennen siihen luottamista. Korvaa tuote- ja mittatiedot omaa tilaustasi vastaaviksi."
+          ],
+          "table": {
+            "headers": [
+              "Avoin kysymys",
+              "Rajattu pyyntö"
+            ],
+            "rows": [
+              [
+                "Onko yläosa riittävän leveä?",
+                "Levittäkää valittu yläosa tasolle venyttämättä ja näyttäkää rinnankohdan leveys ilmoitettujen pisteiden välillä siten, että senttimetriasteikon molemmat päät näkyvät."
+              ],
+              [
+                "Onko kengän kokomerkintä oikea?",
+                "Näyttäkää tämän parin kummankin kengän luettava kokomerkintä sekä riittävästi ympäristöä kenkien tunnistamiseen."
+              ],
+              [
+                "Mahtuuko esine laukun suuaukosta?",
+                "Näyttäkää käyttökelpoinen aukon leveys suljin täysin avattuna ja mittauksen päätepisteet näkyvissä."
+              ],
+              [
+                "Onko jälki pinnassa?",
+                "Näyttäkää merkitty kohta lähempää ja toisesta kulmasta niin, että ympäröivä materiaali näkyy."
+              ]
+            ]
+          }
+        },
+        {
+          "id": "evaluate-evidence",
+          "heading": "5. Tarkista, voiko vastauksen tulkita",
+          "paragraphs": [
+            "Lue kuva ennen numeerista johtopäätöstä. Näkyykö oikea tuote? Noudattaako viivain pyytämääsi menetelmää? Näkyvätkö asteikko ja molemmat päätepisteet? Jos vaate on taitettu, venytetty tai kuvattu jyrkästä kulmasta, kirjaa, miten se voi vaikuttaa vertailuun.",
+            "Älä luo tarkkuutta epätarkasta kuvasta. Jos erotat vain noin 57–59 cm, kirjaa epävarmuus sen sijaan, että ilmoittaisit 58,0 cm. Jos epävarmuus voi muuttaa päätöstä, pyydä selvennystä. Jos se ei voi vaikuttaa päätökseen, lisäkuvista voi olla vähän käytännön hyötyä."
+          ]
+        },
+        {
+          "id": "recognize-limits",
+          "heading": "6. Tunnista kuvatiedon rajat",
+          "paragraphs": [
+            "Valokuva voi tukea päätelmää näkyvästä merkinnästä, mitatusta ulottuvuudesta tai ilmeisestä pintaviasta. Se ei osoita pitkäaikaista kestävyyttä, piilorakenteita, sähköistä suorituskykyä tai käyttömukavuutta. Myös materiaalikoostumus ja aitous edellyttävät muutakin näyttöä kuin ulkonäköä.",
+            "Erota havainto päätelmästä. Kuvassa näkyy suljettu sauma on rajatumpi väite kuin laukku kestää raskaita kuormia. Pikobuyn julkaisut kuvaavat tarkastuksen rajoituksia, joten älä pidä tarkastusta erikoistestauksena. Jos ostos riippuu ominaisuudesta, jota kuvat eivät osoita, etsi sopivaa dokumentaatiota tai harkitse ostosta uudelleen."
+          ]
+        },
+        {
+          "id": "choose-next-action",
+          "heading": "7. Muuta vastaus toimeksi",
+          "paragraphs": [
+            "Palaa alkuperäiseen kysymykseen ja valitse seuraava askel. Tiedot voivat puoltaa etenemistä, jättää tietyn asian avoimeksi tai perustella palautuksesta keskustelemista. Tallenna vastaus tilaustietojen yhteyteen ja kirjaa, mikä mitta tai näkyvä yksityiskohta vaikutti päätökseen.",
+            "Jos ongelma jatkuu, tarkista nykyinen tilaustila ja soveltuvat palautusehdot viipymättä. Älä käytä aikaa koristeellisten kuvakulmien keräämiseen, kun olennainen poikkeama on ilmoittamatta. Merkinnän pitäisi tehdä ongelma helpoksi selittää: mitä tarkoitettiin, mitä kuva näyttää ja mitä ratkaisua pyydät. Merkitse epävarmat havainnot epävarmoiksi."
+          ]
+        }
+      ],
+      "sourceIds": [
+        "official-user-agreement",
+        "official-shipping",
+        "official-returns"
+      ],
+      "related": [
+        "qc",
+        "articles/pikobuy-clothing-size-chart",
+        "articles/pikobuy-warehouse-returns"
+      ]
+    },
+    {
+      "slug": "pikobuy-haul-budget",
+      "title": "Pikobuy-ostoskokonaisuuden budjetti: laske kulut ennen ostamista",
+      "description": "Laadi realistinen Pikobuy-budjetti erottamalla tuotehinnat, toimitus, mahdolliset maksut ja tuntemattomat kulut. Apuna on selvästi merkitty suunnitteluesimerkki.",
+      "intro": "Tuotetaulukon hintojen summa on vasta Pikobuy-ostoskokonaisuuden budjetin alku. Hyödyllinen arvio näyttää tunnetut kulut, valmiista paketista riippuvat kulut ja vielä tarkistettavat asiat. Se kertoo myös, jääkö budjettiin tilaa epävarmuudelle. Alla oleva menetelmä on suunnittelutaulukko, ei hintatarjous tai väite Pikobuyn nykyisistä maksuista.",
+      "sections": [
+        {
+          "id": "separate-stages",
+          "heading": "1. Erota ostos paketista",
+          "paragraphs": [
+            "Pikobuyn julkaistu prosessi erottaa ostoksen maksamisen kansainvälisen toimituksen maksamisesta. Tee sama ero budjetissasi. Yksi osa kirjaa valittujen tuotteiden hankintakulut, toinen sen, mitä syntyvän paketin saaminen sinulle voi maksaa.",
+            "Aloita tarkoista määristä ja valituista vaihtoehdoista. Alhainen näytetty hinta voi kuulua eri versioon kuin siihen, jonka aiot tilata. Merkitse jokaisen summan viereen hintapäivä ja valuutta. Näin on helpompi ymmärtää budjetin muutos, kun tuote, vaihtoehto tai valuuttamuunnos päivittyy."
+          ]
+        },
+        {
+          "id": "capture-item-costs",
+          "heading": "2. Listaa ostamiseen liittyvät maksut",
+          "paragraphs": [
+            "Tee erilliset rivit tuotteille, mahdolliselle näytetylle Kiinan sisäisen toimituksen maksulle ja tapahtumassasi todella näytettäville palvelu- tai maksukuluille. Älä lisää maksua vain siksi, että toinen ostaja maksoi sen, äläkä oleta ilmoittamattoman maksun olevan nolla.",
+            "Jos useilla tuotteilla on yhteinen toimitusmaksu, älä laske sitä uudelleen jokaiselle riville. Eri myyjiltä ostettujen tuotteiden toimitusmaksut eivät puolestaan välttämättä ole yhteisiä. Säilytä riittävästi yksityiskohtia, jotta voit täsmäyttää taulukon pyydettyyn maksuun. Siisti loppusumma auttaa vähemmän kuin hieman pidempi taulukko, jonka voit selittää."
+          ]
+        },
+        {
+          "id": "estimate-freight",
+          "heading": "3. Kirjaa toimitusarvion oletukset",
+          "paragraphs": [
+            "Käsittele varhaista toimitusarviota yhtenä skenaariona. Kirjaa oletettu määränpää, tuotetyyppi, pakattu paino ja mitat sekä summan viereen arviointipäivä ja mahdolliset reittiehdot. Jos lähtötiedot muuttuvat, aiempi luku ei välttämättä enää sovi vertailuun.",
+            "Älä jaa pakettiarviota tuotteille ja erehdy pitämään jakoa kuljetusyhtiön hinnastona. Voit jakaa suunnittelulukua arvioidaksesi tuotteiden arvoa itsellesi, mutta todellinen pakettitarjous määrää maksun. Tilaa vievää halpaa tuotetta voi olla syytä harkita uudelleen, vaikka sen osuus tuotteiden välisummasta olisi pieni."
+          ]
+        },
+        {
+          "id": "keep-unknowns-visible",
+          "heading": "4. Pidä mahdolliset määränpään kulut näkyvissä",
+          "paragraphs": [
+            "Mahdolliset tullit, verot, käsittely- tai tullausmaksut ansaitsevat oman rivinsä. Tarkista määränpääsi vaatimukset ja toimitusvaihtoehdon ehdot. Tämä opas ei anna maakohtaista maksuprosenttia eikä oleta reitin nimen ratkaisevan kaikkia kuluja.",
+            "Merkitse tuntematon, jos et ole selvittänyt summaa. Tyhjä solu tulkitaan liian helposti nollaksi. Myös kuponki, jonka sopivuutta pakettiisi et ole tarkistanut, on mahdollinen muutos eikä taattu säästö. Varmista kelpoisuus, rajoitukset ja maksettava kokonaissumma ennen kuin perustelet ostoksen alennuksella."
+          ]
+        },
+        {
+          "id": "worked-budget",
+          "heading": "5. Laske kuvitteellinen suunnittelusumma",
+          "paragraphs": [
+            "Jokainen alla oleva luku on keksitty ja esitetty yhdessä esimerkkivaluutassa. Taulukko havainnollistaa laskutapaa; se ei ole nykyinen tuotehinta, toimitushinta tai maksuluettelo. Huomaa, että laskennallinen välisumma on yhä puutteellinen, koska määränpään kuluja ei ole selvitetty.",
+            "Tässä esimerkissä 120 kattaa luetellut oletukset ja valitun varauksen. Se ei tarkoita kaiken sisältävää lopullista kustannusta. Jos enimmäisbudjetti on 120, tuntemattomat määränpään kulut tarkoittavat, ettei ostoksen ole vielä osoitettu mahtuvan budjettiin."
+          ],
+          "table": {
+            "headers": [
+              "Budjettirivi",
+              "Havainnollistava summa",
+              "Tila"
+            ],
+            "rows": [
+              [
+                "Valitut tuotteet",
+                "60",
+                "Esimerkkioletus"
+              ],
+              [
+                "Kiinan sisäinen toimitus",
+                "5",
+                "Esimerkkioletus"
+              ],
+              [
+                "Näytetty palvelumaksu",
+                "3",
+                "Esimerkkioletus"
+              ],
+              [
+                "Kansainvälisen paketin arvio",
+                "35",
+                "Esimerkkioletus"
+              ],
+              [
+                "Valuutta- tai maksumuutos",
+                "2",
+                "Esimerkkioletus"
+              ],
+              [
+                "Näiden oletusten välisumma",
+                "105",
+                "Vain laskennallinen summa"
+              ],
+              [
+                "Oma varaus yllätyksiin",
+                "15",
+                "Valittu suunnittelupuskuri"
+              ],
+              [
+                "Määränpään maksut",
+                "Tuntematon",
+                "Selvitettävä erikseen"
+              ]
+            ]
+          }
+        },
+        {
+          "id": "compare-scenarios",
+          "heading": "6. Vertaa hyödyllisiä skenaarioita",
+          "paragraphs": [
+            "Testaa skenaarioilla oletuksia, jotka todennäköisimmin muuttavat päätöstäsi. Vertaa pakettia tilaa vievän valinnaisen tuotteen kanssa ja ilman sitä, tai kahta pakkaustapaa samalla määränpäällä ja tuotetyypillä. Muuta yhtä tekijää kerrallaan, jotta ymmärrät eron syyn.",
+            "Oma varaus on suunnittelupäätös, ei ennuste kulujen noususta juuri sen verran. Määritä se jäljellä olevan epävarmuuden ja maksukykysi perusteella. Jos pienikin lisäkulu tekisi ostoksesta liian kalliin, karsi ehdokaslistaa ennen sitoutumista tuotteiden ostoon."
+          ]
+        },
+        {
+          "id": "reconcile-budget",
+          "heading": "7. Päivitä taulukko aina sitoutuessasi maksuun",
+          "paragraphs": [
+            "Korvaa arviot vahvistetuilla summilla sitä mukaa kuin ne selviävät. Säilytä alkuperäinen arvio uuden vieressä, jos haluat ymmärtää, mitkä oletukset olivat epätarkkoja. Tarkista ennen lähettämistä, että budjetissa ovat todelliset tuotteet ja pyytämäsi pakkaus.",
+            "Jos loppusumma ylittää rajasi, tunnista vähiten hyödyllinen valinnainen ostos sen sijaan, että katsoisit vain halvinta riviä. Huomioi tilauksen muuttamisen mahdolliset kulut ennen oletusta, että tuotteen voi poistaa ilmaiseksi. Valmiin taulukon pitäisi vastata yksinkertaiseen kysymykseen: mitä on vielä maksettava, mikä on epävarmaa ja pystytkö kattamaan molemmat vaivatta?"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "official-guide",
+        "official-estimate",
+        "official-terms"
+      ],
+      "related": [
+        "shipping",
+        "articles/pikobuy-parcel-weight-dimensions",
+        "articles/pikobuy-spreadsheet-checklist"
+      ]
+    },
+    {
+      "slug": "pikobuy-parcel-weight-dimensions",
+      "title": "Pikobuy-paketin paino ja mitat: vertaa pakkausvaihtoehtoja",
+      "description": "Vertaa Pikobuy-paketin painoa, mittoja ja pakkausvaihtoehtoja selkeän esimerkin avulla. Tarkista sitten reittiehdot ja lopullinen tarjous ennen lähettämistä.",
+      "intro": "Kaksi samanpainoista pakettia voi viedä hyvin eri määrän tilaa. Siksi hyödyllinen toimitusvertailu tarvitsee sekä painon että mitat ja saatavilla olevan reitin laskutussäännöt. Tavoite ei ole vain pienentää laatikkoa. Tarkoitus on vertailla pakkauksia, jotka suojaavat sisältöä, vastaavat tarpeitasi ja tuottavat ymmärrettävän hintatarjouksen.",
+      "sections": [
+        {
+          "id": "define-measurements",
+          "heading": "1. Erota eri mittaustiedot",
+          "paragraphs": [
+            "Tuotepaino tarkoittaa itse tuotteen painoa. Pakattu paino sisältää tuotteet ja lähettämiseen käytetyt materiaalit. Paketin mitat kuvaavat valmiin lähetyksen ulkopintoja. Reitti voi käyttää hinnan määrityksessä tilavuuspainoa, todellista painoa tai muita sääntöjä.",
+            "Pidä nämä arvot erillään muistiinpanoissasi. Arvioitujen tuotepainojen summa ei vahvista valmiin paketin painoa, eikä tuotelaatikon mittaaminen määritä ulomman kuljetuspakkauksen mittoja. Selvitä, mitä lukua katsot, ennen kuin syötät sen vertailuun. Muuten oikeakin laskenta voi antaa harhaanjohtavan tuloksen."
+          ]
+        },
+        {
+          "id": "collect-inputs",
+          "heading": "2. Käytä yhtenäisiä laskurin lähtötietoja",
+          "paragraphs": [
+            "Pikobuyn julkisessa laskurissa on määränpää, tuotetyyppi, paino ja kolme mittaa. Pidä lähtötiedot yhtenäisinä vaihtoehtoja vertaillessasi. Muunna mitat huolellisesti ja säilytä yksikkömerkinnät: millimetrejä tarkoittavan luvun syöttäminen senttimetreinä muuttaisi laskelman rajusti.",
+            "Tallenna jokainen oletusjoukko tuloksen ja päivämäärän kanssa. Jos muutat pakkauksen lisäksi määränpäätä, tuoteluokitusta tai reittiä, et enää erottele laatikon vaikutusta. Laajempi vertailu voi olla hyödyllinen, mutta nimeä se oikein äläkä selitä jokaista eroa uudelleenpakkaamisella."
+          ]
+        },
+        {
+          "id": "illustrative-calculation",
+          "heading": "3. Ymmärrä tilavuuspainon laskenta",
+          "paragraphs": [
+            "Seuraava laskelma käyttää keksittyä jakajaa 5 000 kuutiosenttimetriä kilogrammaa kohti laskutavan näyttämiseksi. Se ei kuvaa Pikobuyn yleistä laskutussääntöä. Tässä esimerkissä kolme ulkomittaa kerrotaan keskenään ja tulos jaetaan 5 000:lla.",
+            "Esimerkkilaatikon mitat ovat 40 × 30 × 20 cm, joten tilavuus on 24 000 kuutiosenttimetriä ja esimerkin tilavuuspaino 4,8 kg. Todellinen reitti voi määrittää muun jakajan, mittaustavan, vähimmäispainon tai pyöristyssäännön. Lue ehdot ennen kuin oletat laskelman perusteella laskutettavan painon."
+          ]
+        },
+        {
+          "id": "packing-example",
+          "heading": "4. Vertaa kahta kuvitteellista pakkaustapaa",
+          "paragraphs": [
+            "Molempien alla olevien pakkausten vaa'alla mitatuksi painoksi oletetaan 3,2 kg. Se pidetään tarkoituksella samana tilavuuden vaikutuksen erottamiseksi. Pienemmät mitat ovat havainnollistavia, eivät lupaus siitä, että varasto voi toteuttaa ne tuotteillesi.",
+            "Jos kuvitteellinen reitti laskuttaisi todellisen painon ja tilavuuspainon suuremman arvon mukaan ennen omaa pyöristystään, esimerkkien lähtöpainot olisivat 4,8 kg ja 3,2 kg. Vertailu ei silti kerro hintaa tai toisen pakkaustavan sopivuutta."
+          ],
+          "table": {
+            "headers": [
+              "Esimerkkipakkaus",
+              "Ulkomitat",
+              "Esimerkin tilavuuspaino",
+              "Vielä tarkistettava"
+            ],
+            "rows": [
+              [
+                "Alkuperäislaatikot ulomman pahvilaatikon sisällä",
+                "40 × 30 × 20 cm",
+                "4,8 kg esimerkkijakajalla",
+                "Reitin laskutus ja suojaus"
+              ],
+              [
+                "Toisenlainen suojaava pakkaus",
+                "35 × 28 × 16 cm",
+                "Noin 3,14 kg esimerkkijakajalla",
+                "Toteutettavuus, käsittely ja suojaus"
+              ]
+            ]
+          }
+        },
+        {
+          "id": "protect-contents",
+          "heading": "5. Päätä, mitä pakkauksen pitää suojata",
+          "paragraphs": [
+            "Listaa pakkauksen tehtävät. Jäykkä tuote voi tarvita suojaa puristumiselta; muotoiltu laukku voi tarvita tukea muotonsa säilyttämiseksi. Pienet osat on pidettävä yhdessä, etteivät ne irtoa päätuotteesta. Alkuperäispakkaus voi olla sinulle tärkeä myös säilytystä tai lahjan antamista varten.",
+            "Selvitä avoimet palautuskysymykset ennen pyyntöä poistaa etikettejä, sinettejä tai pakkauksia. Älä vaihda tunnettua vaatimusta oletettuun toimitussäästöön. Hyvä ohje nimeää pakkauksen, jota saa muuttaa, ja suojauksen, jonka pitää säilyä, ja pyytää sitten vahvistuksen ehdotetulle toteutukselle."
+          ]
+        },
+        {
+          "id": "compare-consolidation",
+          "heading": "6. Vertaa yhdistämistä ja jakamista huolellisesti",
+          "paragraphs": [
+            "Tuotteiden yhdistäminen voi yksinkertaistaa lähetystä, mutta yhteiset mitat ja tuotevalikoima voivat muuttaa saatavilla olevia vaihtoehtoja. Jakaminen voi aiheuttaa lisämaksuja tai vaatia erilaista pakkausta. Kumpikaan tapa ei ole automaattisesti halvempi.",
+            "Vertaa todellisten vaihtoehtojen kokonaisia tarjouksia ja sisällytä olennaiset käsittelymaksut. Pidä määränpää ja palveluodotukset vertailukelpoisina. Tarkista tuoterajoitukset ja yhteensopivuus sen sijaan, että olettaisit kaiken voivan matkustaa yhdessä. Älä käsittele jakamista keinona saada tiettyä tullikohtelua; se on eri kysymys, jota ohjaavat soveltuvat säännöt ja todellinen lähetys."
+          ]
+        },
+        {
+          "id": "confirm-final-quote",
+          "heading": "7. Varmista valmis paketti",
+          "paragraphs": [
+            "Vertaa ennen maksamista lopullista tuotelistaa, pakattuja mittoja ja käsittelyohjeita arvioimaasi versioon. Tarkista reitin hinnanlaskenta sekä maksettavaan summaan vaikuttavat pyöristykset ja lisämaksut. Tallenna tarjous ja hyväksymäsi valinnat.",
+            "Jos tulos eroaa olennaisesti arviosta, selvitä muutos ennen hyväksymistä. Syynä voi olla suurempi ulkopakkaus, eri sisältö tai reittiehto. Koko ostosbudjetin päivittäminen tässä vaiheessa yhdistää teknisesti houkuttelevan pakkausvaihtoehdon käytännön kysymykseen siitä, vastaako lähetys edelleen tarpeitasi."
+          ]
+        }
+      ],
+      "sourceIds": [
+        "official-estimate",
+        "official-guide",
+        "official-contact"
+      ],
+      "related": [
+        "shipping",
+        "articles/pikobuy-haul-budget",
+        "articles/pikobuy-warehouse-returns"
+      ]
+    },
+    {
+      "slug": "pikobuy-shoe-sizing",
+      "title": "Pikobuy-kenkien koko: vertaa jalan pituutta, merkintöjä ja pohjallisia",
+      "description": "Tarkista Pikobuy-kenkien koko erottamalla jalan pituus, pohjallisen mitat ja kokomerkinnät. Ratkaise epävarma istuvuusvalinta täsmällisen tiedon avulla.",
+      "intro": "Pikobuy-kenkälöydön koon valintaan tarvitaan muutakin kuin tavallisesti ostamasi numeron löytäminen. Kokomerkintä on yksi osa tietoja; myös myyjän mittaustapa, mallin muoto ja valittua paria koskeva näyttö merkitsevät. Tämä opas auttaa vertaamaan näitä tietoja sekoittamatta jalan, pohjallisen ja ulkopohjan pituuksia keskenään.",
+      "sections": [
+        {
+          "id": "identify-option",
+          "heading": "1. Yksilöi täsmällinen kenkävaihtoehto",
+          "paragraphs": [
+            "Tallenna malli- tai tuoteviite, valittu versio ja ilmoituksen kokojärjestelmä. EU-, UK- tai US-merkinnällä varustettu numero tarvitsee asiayhteytensä. Jos sivu antaa eri taulukoita eri malleille, yhdistä oikea taulukko valitsemaasi versioon.",
+            "Tarkista tuotu valitsin lähteestä ennen maksamista. Tutulta näyttävä numero voi silti kuulua väärään järjestelmään tai tuoteversioon. Älä ratkaise avointa ristiriitaa toisen ostajan tavallisella koolla. Selvitä ensin myyjän määritelmä valitulle vaihtoehdolle ja arvioi sitten, tukevatko tiedot haluamaasi istuvuutta."
+          ]
+        },
+        {
+          "id": "measure-feet",
+          "heading": "2. Mittaa jalat johdonmukaisesti",
+          "paragraphs": [
+            "Mittaa molemmat jalat yhdellä toistettavalla menetelmällä samassa asennossa ja samoissa olosuhteissa. Kirjaa suurempi tulos äläkä oleta mittojen olevan samat. Säilytä yksikkö ja menetelmä, jotta voit verrata tulosta myyjän ohjeisiin pelkän pyöristetyn luvun muistamisen sijaan.",
+            "Jalan pituus on kokokysymyksen lähtökohta, ei koko vastaus. Leveys, varpaiden muoto ja käytettävät sukat voivat vaikuttaa tarvitsemaasi tilaan. Jos myyjä antaa mittaustavan, lue se huolellisesti ennen vertailua. Älä korvaa sitä huomaamatta toisella menetelmällä vain siksi, että se antaa mieluisamman koon."
+          ]
+        },
+        {
+          "id": "separate-lengths",
+          "heading": "3. Erota eri pituudet",
+          "paragraphs": [
+            "Jalan mitta kuvaa käyttäjää. Pohjallisen mitta kuvaa osaa, jossa voi olla kaaria, korotettuja reunoja tai muoto, joka ei suoraan vastaa käytettävää tilaa. Sisämitta pyrkii kuvaamaan kengän sisätilaa. Ulkopohjan mittaan kuuluu kengän ulkoinen rakenne.",
+            "Kirjoita mittaustyyppi jokaisen luvun viereen. Kaksi senttimetreinä ilmoitettua lukua eivät välttämättä ole vertailukelpoisia. Pidempi ulkopohja ei osoita jalan mahtuvan kenkään, ja pohjalliskuva tarvitsee selvän mittaustavan vastatakseen kokokysymykseen. Kysy ennen tulkintaa, mitä mitattiin ja mistä mihin."
+          ]
+        },
+        {
+          "id": "consider-shape",
+          "heading": "4. Huomioi muoto ja käyttötarkoitus",
+          "paragraphs": [
+            "Mieti jo mukaviksi kokemiesi kenkien muotoa ja muista, että eri malli voi käyttäytyä eri tavalla. Kapea varvasosa voi merkitä, vaikka pituus näyttäisi sopivalta. Paksu sukka voi myös muuttaa vapaata tilaa.",
+            "Älä korjaa kaikkia huolia pidemmällä koolla. Lisäpituus ei välttämättä ratkaise leveysongelmaa ja voi aiheuttaa uuden istuvuusongelman. Tunnista todellinen epävarmuus, kuten etuosan leveys tai myyjän pituusmääritelmä, ja kysy siitä. Jos ostos riippuu suorituskyvystä tai tuesta, jota ei voi todeta etänä, pelkkä valokuva ei ratkaise asiaa."
+          ]
+        },
+        {
+          "id": "mismatch-example",
+          "heading": "5. Selvitä kuvitteellinen kokomerkintöjen ristiriita",
+          "paragraphs": [
+            "Kuvittele, että tallennettu lähdetaulukko yhdistää yhden vaihtoehdon tiettyyn jalanpituusalueeseen, mutta tuotu valitsin näyttää eri merkinnän. Alla olevassa esimerkissä vältetään tarkoituksella numeromuunnosta: ensimmäinen tehtävä on varmistaa vastaavuus, ei valita tutuinta numeroa."
+          ],
+          "table": {
+            "headers": [
+              "Tietolähde",
+              "Mitä se näyttää",
+              "Hyödyllinen seuraava tarkistus"
+            ],
+            "rows": [
+              [
+                "Lähdeilmoitus",
+                "Vaihtoehto A ja jalanpituusalue",
+                "Tallenna täsmällinen taulukko ja vaihtoehdon teksti"
+              ],
+              [
+                "Tuotu valitsin",
+                "Eri kokomerkintä",
+                "Kysy, vastaako se lähteen vaihtoehtoa A"
+              ],
+              [
+                "Varastokuva",
+                "Luettava merkintä yhdessä kengässä",
+                "Tarkista toinen kenkä ja vahvistettu vaihtoehto"
+              ],
+              [
+                "Mittauskuva",
+                "Pituus ilman selviä päätepisteitä",
+                "Selvitä, onko kyse pohjallisen, sisätilan vai ulkopohjan pituudesta"
+              ]
+            ]
+          },
+          "list": [
+            "Älä päättele vastaavuutta vain samankaltaisista merkinnöistä.",
+            "Säilytä vastaus, joka selittää vaihtoehtojen yhteyden.",
+            "Pysähdy, jos valittu vaihtoehto jää epäselväksi."
+          ]
+        },
+        {
+          "id": "request-pair-evidence",
+          "heading": "6. Tarkista juuri kyseistä paria koskevat tiedot",
+          "paragraphs": [
+            "Yhdistä varastokuvien näkyvät merkinnät valittuun tilaukseesi. Tarkista molemmat kengät, kun erolla on merkitystä. Jos tarvitset mittauksen, määritä pyydetty ulottuvuus ja varmista, että kuvassa näkyvät olennaiset päätepisteet ja luettava asteikko.",
+            "Kysy mittauksesta olettamatta, että tuotetta voi käsitellä tietyllä tavalla. Osan irrottaminen voi olla sopimatonta tai mahdotonta, ja kaarevan osan johdonmukainen mittaaminen voi olla hankalaa. Kerro kysymys ensin ja varmista käytettävissä oleva menetelmä. Tavoite on tulkittava tieto, ei epäselvällä menettelyllä tuotettu näennäisen tarkka luku."
+          ]
+        },
+        {
+          "id": "decide-next-step",
+          "heading": "7. Tee istuvuuspäätös tiedon rajat huomioiden",
+          "paragraphs": [
+            "Kirjaa, ovatko tiedot johdonmukaisia, puutteellisia vai ristiriitaisia. Johdonmukaiset tiedot voivat perustella etenemisen mutta eivät takaa mukavuutta. Avoimen kysymyksen pitäisi johtaa täsmälliseen selvennyspyyntöön, ei optimistiseen oletukseen.",
+            "Jos vastaanotettu vaihtoehto näyttää väärältä tai kokotiedot ovat ristiriidassa tilauksesi kanssa, keskustele asiasta viipymättä ja tarkista soveltuvat palautusehdot. Säilytä etiketit, sinetit ja pakkaukset ehjinä selvittäessäsi seuraavaa askelta. Kun kokopäätös on ratkaistu, arvioi kenkälaatikko ja kuljetuspakkaus erikseen, jotta toimitusmieltymys ei määrää istuvuuspäätelmää."
+          ]
+        }
+      ],
+      "sourceIds": [
+        "official-guide",
+        "official-returns"
+      ],
+      "related": [
+        "spreadsheet",
+        "articles/pikobuy-qc-measurements",
+        "articles/pikobuy-parcel-weight-dimensions"
+      ]
+    },
+    {
+      "slug": "pikobuy-bag-dimensions",
+      "title": "Pikobuy-laukut: tarkista tilavuus, hihnat ja rakenne",
+      "description": "Vertaa Pikobuy-laukkujen käyttökelpoisia aukkoja, sisämittoja, hihnoja ja näkyvää rakennetta. Käytännön esimerkki auttaa arvioimaan, mitä laukkuun mahtuu.",
+      "intro": "Laukku voi näyttää tuotekuvassa suurelta ja silti olla liian pieni tarvitsemallesi esineelle. Ulkoleveys, käyttökelpoinen aukko ja sisätilan muoto vastaavat eri kysymyksiin. Määritä ennen Pikobuy-laukkulöytöjen vertailua, mitä laukun pitää sisältää ja miten aiot kantaa sitä. Näin mitat ja tarkastuskuvat auttavat ilman oletusta, että ne todistaisivat pitkäaikaisen kestävyyden tai materiaalikoostumuksen.",
+      "sections": [
+        {
+          "id": "define-contents",
+          "heading": "1. Aloita siitä, minkä pitää mahtua",
+          "paragraphs": [
+            "Listaa esineet, joita aiot kantaa yhtä aikaa. Mittaa suurin jäykkä esine tavallisesti käyttämäsi kotelon tai suojan kanssa. Pehmustetussa suojassa oleva tietokone vaatii enemmän tilaa kuin paljas laite, ja pullo voi tarvita erilaista sisäkorkeutta kuin litteä muistikirja.",
+            "Päätä, mitkä esineet ovat välttämättömiä ja mitkä valinnaisia. Jos laukkuun ei mahdu välttämätön esine, houkuttelevat metalliosat eivät ratkaise ongelmaa. Huomioi myös käsiksi pääsy: esineen vaivalloinen sijoittaminen sisään on eri asia kuin sen helppo poistaminen arkikäytössä."
+          ]
+        },
+        {
+          "id": "separate-dimensions",
+          "heading": "2. Erota ulkokoko käyttökelpoisesta tilasta",
+          "paragraphs": [
+            "Ulkomitat kuvaavat laukun kokonaisulottuvuuksia. Pehmusteet, saumat, väliseinät ja pyöristetyt kulmat voivat pienentää sisämittoja. Aukko voi olla vielä kapeampi sulkimen tai rakenteen vuoksi.",
+            "Kirjaa, minkä mitan kukin ilmoitus antaa. Älä nimeä ulkoleveyttä muistiinpanoissa käyttökelpoiseksi tilaksi. Vertaa jäykän esineen kohdalla aukkoa ja olennaisia sisämittoja, tarvittaessa myös syvyyttä. Jos ilmoitus tarjoaa vain koristeellisen mittakaavakuvan, pyydä rajoittavan kohdan mitta sen sijaan, että arvioisit senttejä tuntemattoman henkilön kädestä tai vartalosta."
+          ]
+        },
+        {
+          "id": "check-carrying",
+          "heading": "3. Tarkista hihnat ja kantoasento",
+          "paragraphs": [
+            "Hihnan kokonaispituus ja laukun etäisyys olkapään alapuolella ovat eri mittoja. Lue ilmoitettu menetelmä ja tarkista, kattaako säätöalue tarkoittamasi kantotavan. Kahvan vapaa tila voi olla tärkeä, jos haluat kantaa laukkua takin päällä.",
+            "Katso hihnan kiinnitys ja se, onko hihna irrotettava vai kiinteä, jos tämä vaikuttaa käyttöön. Älä päättele säätöaluetta yhden asennon kuvasta. Pidä kysymys käytännöllisenä: voiko mukana tulevan hihnan säätää tarvittuun pituuteen ja kuvaavatko tiedot tämän pituuden selvästi?"
+          ]
+        },
+        {
+          "id": "inspect-details",
+          "heading": "4. Tutki näkyvä rakenne ja mukana tulevat osat",
+          "paragraphs": [
+            "Tarkista kuvista laukun toiminnalle olennaiset kohdat: saumat, kiinnityspisteet, vuori, sulkimen kohdistus ja aukko. Selvitä, sisältyvätkö mainostetut irrotettavat hihnat tai muut tarvikkeet valittuun vaihtoehtoon. Niiden näkyminen muualla ilmoituksessa ei välttämättä osoita, mitä oma vaihtoehtosi sisältää.",
+            "Erota näkyvä havainto suorituskykyväitteestä. Kuva voi näyttää sauman tai soljen, mutta ei turvallista kantokuormaa tai toistuvan käytön kestävyyttä. Ulkonäkö ei myöskään yksin tunnista materiaalikoostumusta. Jos tietty materiaali on välttämätön, etsi sopivaa tuotetietoa ja kirjaa sen lähde."
+          ]
+        },
+        {
+          "id": "capacity-example",
+          "heading": "5. Vertaa kahta kuvitteellista laukkua",
+          "paragraphs": [
+            "Oletetaan, että välttämätön jäykkä esineesi on 30 cm leveä ja 22 cm korkea. Nämä keksityt mitat näyttävät, miksei suurin ulkomitta riitä. Kumpikaan ehdokas ei ole tuotesuositus, ja esimerkissä syvyys sekä kantomukavuus jäävät erikseen tarkistettaviksi.",
+            "Laukku B ansaitsee lisätutkimusta pienemmästä ulkoleveydestään huolimatta. Älä tulkitse aukon 1 cm:n eroa taatuksi vaivattomaksi sopivuudeksi: pyöristetyt reunat, pehmusteet ja sisäänvientikulma voivat yhä vaikuttaa. Niukka sovitus tarvitsee tarkempaa näyttöä kuin yleisvertailu."
+          ],
+          "table": {
+            "headers": [
+              "Mitta",
+              "Esimerkkilaukku A",
+              "Esimerkkilaukku B"
+            ],
+            "rows": [
+              [
+                "Ulkoleveys",
+                "35 cm",
+                "33 cm"
+              ],
+              [
+                "Käyttökelpoisen aukon leveys",
+                "28 cm",
+                "31 cm"
+              ],
+              [
+                "Sisäkorkeus",
+                "25 cm",
+                "23 cm"
+              ],
+              [
+                "Alustava päätelmä",
+                "Aukko on esinettä kapeampi",
+                "Syvyys, aukon muoto ja käytön helppous kannattaa tarkistaa"
+              ]
+            ]
+          }
+        },
+        {
+          "id": "plan-packing",
+          "heading": "6. Huomioi muoto ja kuljetussuojaus",
+          "paragraphs": [
+            "Muotoiltu laukku voi tarvita tukea puristumisen estämiseksi, ja irralliset hihnat sekä pienet tarvikkeet on pidettävä yhdessä. Tunnista herkät osat ja muoto, jonka haluat säilyvän. Selitä vaatimukset pakkaamisesta keskustellessasi sen sijaan, että pyytäisit pienintä mahdollista pakettia ilman ehtoja.",
+            "Pidä tuotepäätös erillään toimituspäätöksestä. Halpa tuotehinta ei kerro suojaavan paketin hintaa, eikä pienempi pakkaus ole automaattisesti sopiva. Vertaa valmiita pakkausmittoja ja hintatarjousta, kun ne ovat saatavilla. Jos palautuskysymys on avoinna, selvitä se ennen pakkausmuutosten pyytämistä."
+          ]
+        },
+        {
+          "id": "record-bag-decision",
+          "heading": "7. Ilmaise puuttuva tieto selvästi",
+          "paragraphs": [
+            "Päätä vertailu lyhyeen päätösmerkintään: sopiva saatavilla olevien mittojen perusteella, odottaa tiettyä mittaa tai poistettu täyttymättömän vaatimuksen vuoksi. Hyödyllinen pyyntö voi koskea käyttökelpoista aukkoa suljin täysin avattuna tai hihnan säätöaluetta täsmällisten päätepisteiden välillä.",
+            "Säilytä lähde, valittu vaihtoehto ja vastaus ehdokkaan yhteydessä. Kun oma tuotteesi tarkastetaan, vertaa olennaisia tietoja tähän merkintään. Näin päätös pysyy laukun käyttötarkoituksessa ja vahvistamattomat ominaisuudet, kuten pitkäaikainen kuluminen, kantokyky ja materiaalin aitous, jäävät päätelmän ulkopuolelle."
+          ]
+        }
+      ],
+      "sourceIds": [
+        "official-user-agreement",
+        "official-estimate"
+      ],
+      "related": [
+        "spreadsheet",
+        "articles/pikobuy-qc-measurements",
+        "articles/pikobuy-parcel-weight-dimensions"
+      ]
+    },
+    {
+      "slug": "pikobuy-warehouse-returns",
+      "title": "Pikobuy-palautukset varastosta: ajoitus, näyttö ja kulut",
+      "description": "Valmistele Pikobuy-palautuspyyntö tilaustilan, olennaisten tietojen ja täsmällisten kysymysten avulla. Selvitä kelpoisuus, määräajat ja mahdolliset maksut.",
+      "intro": "Palautus varastosta on helpompi selvittää, kun tunnistat tilauksen vaiheen, säilytät tuotteen ennallaan ja kuvaat ongelman selvästi. Aloita ripeästi äläkä odota täydellistä valokuvakokoelmaa. Tämä riippumaton opas auttaa jäsentämään pyynnön; se ei ratkaise palautuskelpoisuutta, lupaa hyväksyntää eikä korvaa nykyisiä ehtoja ja juuri tilaustasi koskevaa vastausta.",
+      "sections": [
+        {
+          "id": "identify-return-stage",
+          "heading": "1. Selvitä tuotteen sijainti",
+          "paragraphs": [
+            "Tarkista, onko myyjä lähettänyt tuotteen, onko se varastossa vai onko se jo lähtenyt kansainvälisessä paketissa. Kirjaa täsmällinen tilateksti ja näytetty aika. Eri vaiheisiin liittyy erilaisia käytännön kysymyksiä, joten älä kuvaa jokaista pyyntöä pelkäksi hyvitykseksi.",
+            "Tallenna tilausviite, valittu vaihtoehto ja maksutiedot. Jos samaan tilaukseen kuuluu useita tuotteita, yksilöi ongelmallinen tuote tarkasti. Vääränkokoista yläosaa koskeva pyyntö ei saa jättää tukea arvaamaan, tarkoitatko toista saman ostoksen yläosaa. Rajaa tiedot kyseiseen asiaan tarvittaviin."
+          ]
+        },
+        {
+          "id": "check-clock",
+          "heading": "2. Tarkista voimassa oleva hakuaika",
+          "paragraphs": [
+            "Pikobuyn palautussivu määrittää varastopalautuksen hakemiselle 120 tunnin määräajan ja ehdollisen kelpoisuuden. Varmista oman tilauksesi tarkka päättymisaika ajantasaisesta prosessista tai tuelta. Pelkän päivämäärän sisältävä kuvakaappaus ei riitä tarkan määräajan laskemiseen.",
+            "Kirjaa tilaustiedoissa näkyvä aika ja aikavyöhyke sekä säilytä pyyntösi vastaanottovahvistus. Jos et tiedä tuotteen kelpoisuutta, kysy heti äläkä oleta myöhemmän kysymyksen pidentävän määräaikaa. Tukikeskustelu ei osoita jatkoaikaa, ellei soveltuva menettely nimenomaisesti vahvista sitä. Pidä ero näkyvissä muistiinpanoissasi."
+          ]
+        },
+        {
+          "id": "preserve-condition",
+          "heading": "3. Säilytä tiedot ja tuotteen kunto",
+          "paragraphs": [
+            "Pidä etiketit, sinetit, pakkaukset ja tarvikkeet ehjinä asian arvioinnin ajan. Älä pyydä muutoksia vain selkeämmän valokuvan vuoksi. Jos tarkastus vaatisi avaamista tai poistamista, kysy vaikutuksesta ennen etenemistä.",
+            "Tallenna lähdeilmoitus, valittu vaihtoehto, olennainen kokotaulukko ja huolen näyttävät kuvat. Kirjaa, mitkä kuvat koskevat omaa tuotettasi. Aiemman ostajan kuva voi havainnollistaa odotustasi, mutta selkein pyyntö vertaa tallennettua tilausta vastaanotetun tuotteen tietoihin. Säilytä alkuperäiset tiedostot selittävien merkintöjen rinnalla."
+          ]
+        },
+        {
+          "id": "classify-issue",
+          "heading": "4. Kuvaa ongelma liioittelematta",
+          "paragraphs": [
+            "Erota väärä vaihtoehto, näkyvä vika, epävarma mitta ja mielenmuutos toisistaan. Näin kerrot selvästi, mitä pyydät arvioimaan. Käytä perusteltavia havaintoja, kuten näkyvä kokomerkintä eroaa valitusta koosta, sen sijaan että väittäisit kaiken olevan väärin.",
+            "Seuraava taulukko on toimituksellinen valmistelutyökalu, ei virallinen palautuskelpoisuustaulukko. Se näyttää, miten tarvittava tieto ja kysymys muuttuvat ongelman mukaan."
+          ],
+          "table": {
+            "headers": [
+              "Ongelma",
+              "Koottavat tiedot",
+              "Esitettävä kysymys"
+            ],
+            "rows": [
+              [
+                "Väärä valittu vaihtoehto",
+                "Tilauksen valinta ja vastaanotettu merkintä",
+                "Voidaanko tämän poikkeaman perusteella arvioida palautusta?"
+              ],
+              [
+                "Näkyvä vaurio",
+                "Selvä kuva kohdasta ja ympäristöstä",
+                "Mitä näyttöä tämän vaurion arviointiin tarvitaan?"
+              ],
+              [
+                "Epävarma istuvuus",
+                "Lähdetaulukko ja luettavat mitat",
+                "Voidaanko mittaero selvittää?"
+              ],
+              [
+                "Mielenmuutos",
+                "Tuotteen tila ja säilynyt kunto",
+                "Onko palautus mahdollinen ja mitä se maksaisi?"
+              ]
+            ]
+          }
+        },
+        {
+          "id": "write-request",
+          "heading": "5. Tee tiivis pyyntö, johon voi tarttua",
+          "paragraphs": [
+            "Aloita tilausviitteellä ja kyseisellä tuotteella. Kuvaa ongelma yhdellä tai kahdella lauseella ja nimeä sitä tukevat kuvat. Kerro tavoittelemasi lopputulos jättäen tilaa todelliselle menettelylle ja kelpoisuuspäätökselle.",
+            "Esimerkiksi: tilasin sinisen version, mutta varastomerkintä ja kuvat näyttävät mustalta. Liitteenä ovat valittu vaihtoehto ja kuvat vastaanotetusta tuotteesta. Vahvistakaa, onko versio väärä ja voiko palautusta varastosta pyytää. Tämä on alkuperäinen sanamuotoesimerkki, ei väite tietyn lopputuloksen hyväksymisestä."
+          ]
+        },
+        {
+          "id": "confirm-costs",
+          "heading": "6. Kysy kokonaiskulut ennen etenemistä",
+          "paragraphs": [
+            "Palautuskulut voivat vaikuttaa siihen, onko mielenmuutokseen perustuva pyyntö käytännössä järkevä. Pyydä juuri tuotteeseesi soveltuvat kuluerät ja kokonaismäärä, mukaan lukien mahdolliset toimitus- tai palvelumaksut. Älä laske lopputulosta toisen asiakkaan kokemuksesta.",
+            "Virallisella sivulla on ristiriitaisia sanamuotoja alkuperäisistä toimituskuluista, joten hanki tilauskohtainen selvennys. Kirjaa ilmoitettu hinta, sen antaja ja siihen liittyvät ehdot. Jos odotetusta hyvityksestä keskustellaan, erota tuotesumma maksuista, jotka voivat jäädä maksettaviksi. Älä oleta koko alkuperäisen maksun palautuvan välttämättä."
+          ]
+        },
+        {
+          "id": "follow-case",
+          "heading": "7. Seuraa asiaa selkeällä kirjauksella",
+          "paragraphs": [
+            "Pidä lyhyt aikajana pyynnöstä, vastaanottokuittauksista, lisätiedoista ja päätöksistä. Vastaa tarvittaessa samaan tukipyyntöön, jotta asiayhteys säilyy yhdessä. Jos tuki pyytää puuttuvaa tietoa, vastaa suoraan siihen sen sijaan, että aloittaisit koko ostoksen kuvauksen uudelleen.",
+            "Tarkista ennen toimen hyväksymistä, että se koskee oikeaa tuotetta ja ymmärtämääsi ratkaisua. Säilytä vahvistus siitä, mitä hyväksyttiin ja mikä on vielä kesken. Lähetetty pyyntö, myyjän vastaus ja valmistunut hyvitys ovat eri tapahtumia. Erillinen kirjaaminen auttaa seuraamaan lopputulosta sekoittamatta edistymistä valmistumiseen."
+          ]
+        }
+      ],
+      "sourceIds": [
+        "official-returns",
+        "official-contact"
+      ],
+      "related": [
+        "qc",
+        "articles/pikobuy-qc-measurements",
+        "articles/pikobuy-haul-budget"
+      ]
+    },
+    {
+      "slug": "pikobuy-tracking-not-updating",
+      "title": "Eikö Pikobuy-seuranta päivity? Tarkista vaihe ja seuraava toimi",
+      "description": "Selvitä Pikobuy-seurannan päivitystaukoa tunnistamalla lähetyksen vaihe, lukemalla saatavilla olevat tiedot ja valmistelemalla hyödyllinen tukipyyntö.",
+      "intro": "Kun Pikobuy-seurannassa ei näy tapahtumia, selvitä ensin, mitä kuljetusvaihetta seuraat. Myyjän toimitus varastoon ja myöhempi kansainvälinen paketti ovat erillisiä vaiheita. Tilaustieto, pakettiviite ja kuljetusyhtiön seurantatunnus voivat myös vastata eri kysymyksiin. Hyödyllinen seuraava askel riippuu viimeisestä vahvistettavasta tapahtumasta, ei tuotteen ensimmäisestä maksusta kuluneiden päivien määrästä.",
+      "sections": [
+        {
+          "id": "identify-shipment",
+          "heading": "1. Tunnista seuraamasi kuljetusvaihe",
+          "paragraphs": [
+            "Kirjoita, odotatko myyjän lähettävän tuotteen, varaston käsittelyä vai kansainvälistä pakettia. Pidä oikea viite vaiheen vieressä. Älä oleta yhteen kuljetukseen liittyvän numeron seuraavan myös seuraavaa.",
+            "Jos tuotteita on useita, erota yksittäisen tuotteen eteneminen useita tuotteita sisältävän paketin etenemisestä. Yhden myyjän lähetys ei osoita suunnitellun pakettisi koko sisällön olevan valmis. Käytä todellisia tilaus- ja pakettitietoja selvittääksesi, mitä on lähetetty käsiteltäväksi, älä rekonstruoi prosessia muistista."
+          ]
+        },
+        {
+          "id": "locate-dispatch",
+          "heading": "2. Etsi kansainvälisen lähetyksen lähtötapahtuma",
+          "paragraphs": [
+            "Pikobuyn oppaan kolmen päivän seurantatietoa koskeva lausuma sijoittuu paketin lähettämisen jälkeiseen aikaan. Lähtöpiste on tärkeä. Tuotteen maksu, varastoon saapuminen ja paketin lähetyspyyntö eivät automaattisesti ole sama tapahtuma kuin kansainvälinen lähettäminen.",
+            "Tarkista kirjattu lähetyspäivä ennen tilanteesi vertaamista julkaistuun ohjeeseen. Jos tiedot eivät selvästi vahvista lähettämistä, pyydä selvennystä sen sijaan, että pitäisit puuttuvaa skannausta kuljettajan viiveenä. Säilytä vastaus pakettitietojen yhteydessä. Lausuma koskee seurannan saatavuutta, ei takaa saapumispäivää eikä diagnosoi tietyn tauon syytä."
+          ]
+        },
+        {
+          "id": "read-event-type",
+          "heading": "3. Lue, mitä viimeisin tapahtuma todella sanoo",
+          "paragraphs": [
+            "Merkintä osoitekortin tai lähetystietojen olemassaolosta eroaa näytöstä, että kuljettaja on vastaanottanut paketin fyysisesti. Myöhemmät tapahtumat voivat kuvata käsittelyä, siirtoa, toimitusyritystä tai muuta tointa. Lue koko tapahtumateksti ja aikaleima äläkä luota vain värilliseen etenemispalkkiin.",
+            "Älä tulkitse vierasta tilatekstiä vahvemmaksi väitteeksi kuin se tukee. Jos tapahtuma nimeää kumppanin tai toisen kuljettajan, kirjaa tieto ja tarkista mahdollinen uusi viite. Älä oleta yleisen verkkosanaston määrittävän jokaisen lähetysviestisi täsmällistä merkitystä."
+          ]
+        },
+        {
+          "id": "build-timeline",
+          "heading": "4. Laadi lyhyt tietoaikajana",
+          "paragraphs": [
+            "Yksinkertainen loki auttaa erottamaan muuttumattoman tapahtuman uudesta, samankaltaisesti sanotusta tapahtumasta. Kopioi sanamuoto tarkasti, säilytä näytetty aika ja kirjaa lähde. Seuraava on kuvitteellinen kirjauspohja, ei todellinen pakettihistoria tai virallinen tilasanasto."
+          ],
+          "table": {
+            "headers": [
+              "Esimerkkimerkinnän tapahtuma",
+              "Mitä voit päätellä",
+              "Mikä jää tuntemattomaksi"
+            ],
+            "rows": [
+              [
+                "Paketin lähetyspyyntö kirjattu",
+                "Pyynnön lähettäminen näkyy",
+                "Onko paketti lähtenyt"
+              ],
+              [
+                "Lähettäminen kirjattu",
+                "Alusta ilmoittaa lähettämisestä",
+                "Näkyykö kuljettajan skannaus"
+              ],
+              [
+                "Lähetystiedot vastaanotettu",
+                "Sähköiset tiedot on kirjattu",
+                "Onko fyysinen vastaanotto vahvistettu"
+              ],
+              [
+                "Kuljettajan vastaanotto kirjattu",
+                "Vastaanottotapahtuma näkyy",
+                "Lopullinen toimituspäivä"
+              ],
+              [
+                "Toimituspoikkeama kirjattu",
+                "Ongelma vaatii tulkintaa",
+                "Syy ja tarvittava toimi ennen selvennystä"
+              ]
+            ]
+          }
+        },
+        {
+          "id": "choose-next-action",
+          "heading": "5. Valitse puuttuvaan tietoon sopiva toimi",
+          "paragraphs": [
+            "Jos kansainvälisen paketin viitettä ei ole, aloita alustan tiedoista. Jos lähettäminen on kirjattu mutta seurantaa ei näy julkaistun ohjeen aikarajassa, kysy Pikobuylta kyseisestä paketista. Jos kuljettajan tapahtuma on olemassa mutta ei enää muutu, säilytä viimeinen vahvistettu tapahtuma ja tarkista soveltuvat palvelutiedot.",
+            "Osoite- tai toimituspoikkeamassa lue pyydetty toimi tarkasti ja varmista se aidosta kuljettajan tai alustan kanavasta. Seurannan hiljainen jakso ei yksin todista katoamista, eikä rauhoittava arvio todista paketin etenemistä. Keskity kysymyksessä siihen, mikä tieto tai toimi puuttuu."
+          ]
+        },
+        {
+          "id": "prepare-ticket",
+          "heading": "6. Lähetä tuelle hyödylliset tiedot",
+          "paragraphs": [
+            "Liitä pakettiviite, näytetty lähetyspäivä, kuljetusyhtiö ja seurantatunnus sekä viimeisin tapahtuma aikaleimoineen. Lisää kuvakaappaus, jos se säilyttää mahdollisesti muuttuvan sanamuodon. Kerro kysymys, johon haluat vastauksen, esimerkiksi onko luovutus kuljettajalle vahvistettu.",
+            "Tiivis esimerkki: paketin tiedoissa näkyy lähettäminen kirjattuna päivänä, mutta en löydä kuljettajan vastaanottotapahtumaa. Nykyinen seurantateksti on liitteenä. Vahvistakaa viimeinen todennettu siirto ja se, pitääkö minun tehdä jotakin. Käytä Pikobuyn virallista yhteystietosivua oikean tukikanavan löytämiseen; tämä riippumaton sivusto ei voi tarkastella yksityistä lähetystäsi."
+          ]
+        },
+        {
+          "id": "close-record",
+          "heading": "7. Säilytä kirjaukset toimitukseen asti",
+          "paragraphs": [
+            "Päivitä loki merkittävän tapahtuman saapuessa äläkä tulkitse saman sivun toistuvaa tarkistamista uudeksi näytöksi. Säilytä ohjeet tai vastaukset, jotka muuttavat odotettua seuraavaa toimea. Jos tapauksellesi annetaan määräaika tai jatkokäsittelyn vaihe, kirjaa se selvästi.",
+            "Kun paketti saapuu, vertaa sisältöä tuotelistaasi ja säilyttämiisi tarkastustietoihin. Pidä olennaiset pakkaukset ja merkinnät tallella poikkeamien selvittämisen ajan. Seurannan valmistuminen ja sisällön tyydyttävä tarkistus ovat eri havaintoja. Selkeä kirjaus auttaa selittämään toimitusongelman tai tuoteongelman sekoittamatta niitä."
+          ]
+        }
+      ],
+      "sourceIds": [
+        "official-guide",
+        "official-contact"
+      ],
+      "related": [
+        "shipping",
+        "guide",
+        "faq"
+      ]
+    }
+  ]
+}

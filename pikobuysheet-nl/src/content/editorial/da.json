@@ -1,0 +1,1254 @@
+{
+  "ui": {
+    "articles": "Artikler",
+    "faq": "Ofte stillede spørgsmål",
+    "articlesTitle": "Praktiske Pikobuy-vejledninger",
+    "articlesIntro": "Praktiske vejledninger til at vælge produkter, kontrollere detaljer, planlægge omkostninger og arrangere fragt.",
+    "faqTitle": "Svar på dine spørgsmål om Pikobuy",
+    "faqIntro": "24 spørgsmål besvaret ud fra Pikobuys officielle sider.",
+    "toc": "På denne side",
+    "sources": "Kilder",
+    "checked": "Kontrolleret",
+    "byline": "PikobuySheet",
+    "readArticle": "Læs artiklen",
+    "related": "Relaterede artikler",
+    "allArticles": "Alle artikler",
+    "latestArticles": "Seneste artikler",
+    "articleCount": "10 praktiske vejledninger",
+    "sourceLink": "Officiel kilde"
+  },
+  "faq": [
+    {
+      "id": "what-is-pikobuy",
+      "question": "Hvad gør Pikobuy?",
+      "answer": "Pikobuy hjælper brugere med at finde produkter fra Kina, købe dem hos sælgere, modtage dem på sit lager og arrangere international levering. Forsiden beskriver dette som separate trin i tjenesten.",
+      "sourceIds": [
+        "official-home"
+      ]
+    },
+    {
+      "id": "supported-marketplaces",
+      "question": "Hvilke markedspladser nævner vejledningen?",
+      "answer": "Den officielle vejledning nævner Taobao, Tmall, 1688, Weidian og Yupoo. Kontrollér det præcise produkt, størrelsen og farven, inden du indsender din købsordre.",
+      "sourceIds": [
+        "official-guide"
+      ]
+    },
+    {
+      "id": "finding-products",
+      "question": "Hvordan kan jeg bede Pikobuy finde et produkt?",
+      "answer": "Pikobuys forside beskriver direkte produktsøgning og indsendelse af produktlinks, billeder eller forespørgsler om at finde varer. Det er tjenester hos Pikobuy selv; de dokumenterer ikke billedsøgning i dette uafhængige katalog.",
+      "sourceIds": [
+        "official-home"
+      ]
+    },
+    {
+      "id": "two-payments",
+      "question": "Hvorfor betales køb og fragt hver for sig?",
+      "answer": "Vejledningen placerer betalingen for købet før lagerkontrollen. Senere vælger du en fragtrute, indsender pakken til afsendelse og betaler den internationale fragt.",
+      "sourceIds": [
+        "official-guide"
+      ]
+    },
+    {
+      "id": "payment-options",
+      "question": "Hvilke betalingsmetoder kan jeg bruge?",
+      "answer": "Pikobuy annoncerer flere valutaer og viser kort- og tegnebogslogoer, herunder Visa, Mastercard, Klarna, Google Pay og Apple Pay. Kontrollér de faktisk tilgængelige metoder, valutaer og det samlede beløb ved kassen, før du betaler.",
+      "sourceIds": [
+        "official-about"
+      ]
+    },
+    {
+      "id": "failed-payment",
+      "question": "Bliver min ordre behandlet, hvis betalingen mislykkes?",
+      "answer": "Pikobuys vilkår siger, at en ordre ikke behandles, hvis betalingen mislykkes. Kontrollér betalingsresultatet på din konto, og kontakt den officielle support, hvis transaktionens status fortsat er uklar.",
+      "sourceIds": [
+        "official-terms"
+      ]
+    },
+    {
+      "id": "warehouse-inspection",
+      "question": "Hvad sker der, når en vare ankommer til lageret?",
+      "answer": "Vejledningen beskriver registrering af modtagelsen, bekræftelse med billeder og kontrol for fejl. Gennemgå oplysningerne om din egen ordre, før du beslutter, hvilke varer der skal sendes.",
+      "sourceIds": [
+        "official-guide"
+      ]
+    },
+    {
+      "id": "qc-limits",
+      "question": "Garanterer kontrolbilleder ægthed eller funktion?",
+      "answer": "Nej. Brugeraftalen forklarer, at nogle produkter ikke kan kontrolleres professionelt for kvalitet eller ægthed. Kontrollen kan være begrænset til den udvendige stand og tilbehøret. Billeder er nyttig dokumentation, men ikke en generel produktgaranti.",
+      "sourceIds": [
+        "official-user-agreement"
+      ]
+    },
+    {
+      "id": "detailed-photos",
+      "question": "Kan jeg bestille mere detaljerede kontrolbilleder?",
+      "answer": "Vilkårene for videresendelse siger, at kunder kan se Pikobuys kontrolbilleder eller købe ekstra detaljebilleder. Bekræft i Pikobuy, hvilken billedtjeneste der er tilgængelig, og hvad den koster for den relevante vare.",
+      "sourceIds": [
+        "official-shipping"
+      ]
+    },
+    {
+      "id": "packaging",
+      "question": "Kan jeg bede om en anden emballage?",
+      "answer": "Købsvejledningen nævner ønsker om minimal eller forstærket emballage. Angiv dine behov, og bekræft de tilgængelige håndteringsmuligheder, før du indsender pakken til afsendelse.",
+      "sourceIds": [
+        "official-guide"
+      ]
+    },
+    {
+      "id": "consolidation",
+      "question": "Kan varer fra forskellige sælgere samles i én pakke?",
+      "answer": "Pikobuys kontaktside siger, at varer fra forskellige sælgere kan samles i én pakke med én fragtbetaling. Sammenlign den samlede pakkepris; det garanterer ikke en besparelse på alle ordrer.",
+      "sourceIds": [
+        "official-contact"
+      ]
+    },
+    {
+      "id": "storage",
+      "question": "Hvor længe kan mine varer opbevares?",
+      "answer": "Vilkårene for videresendelse bekræfter opbevaring efter modtagelsen, men angiver ingen generel gratis periode eller frist. Kontrollér de aktuelle vilkår for dine varer i Pikobuy, eller spørg den officielle support, før du venter.",
+      "sourceIds": [
+        "official-shipping"
+      ]
+    },
+    {
+      "id": "shipping-estimate",
+      "question": "Hvad skal jeg bruge til et fragtoverslag?",
+      "answer": "Pikobuys beregner spørger efter destination, produkttype, vægt, længde, bredde og højde. Brug de mest præcise tilgængelige oplysninger, og kontrollér pakkens endelige pris før betaling; en produktpris er ikke et fragttilbud.",
+      "sourceIds": [
+        "official-estimate"
+      ]
+    },
+    {
+      "id": "delivery-choice",
+      "question": "Hvilken fragtrute bør jeg vælge?",
+      "answer": "Pikobuy annoncerer flere fragtkanaler og rutekombinationer. Sammenlign de muligheder, der aktuelt findes for din destination og pakke. Den offentlige præsentationsside angiver hverken en rute, der altid er billigst, eller en garanteret ankomstdato.",
+      "sourceIds": [
+        "official-about"
+      ]
+    },
+    {
+      "id": "tracking",
+      "question": "Hvornår bør sporingsoplysningerne være tilgængelige?",
+      "answer": "Købsvejledningen siger, at sporingsoplysninger bliver tilgængelige inden for tre dage efter afsendelsen. Betragt det som offentliggjort vejledning, og kontakt Pikobuy, hvis en opdatering er forsinket.",
+      "sourceIds": [
+        "official-guide"
+      ]
+    },
+    {
+      "id": "taxes",
+      "question": "Kan der komme omkostninger ud over ordre og fragt?",
+      "answer": "Ja. Pikobuys vilkår siger, at internationale ordrer kan medføre told, skatter, fortoldningsgebyrer eller andre omkostninger, som kunden betaler. Kontrollér destinationens krav og vilkårene for den valgte fragt før købet.",
+      "sourceIds": [
+        "official-terms"
+      ]
+    },
+    {
+      "id": "forwarding",
+      "question": "Kan jeg videresende varer, jeg selv har købt?",
+      "answer": "Vilkårene beskriver, hvordan du får lageradressen gennem supporten eller videresendelsesformularen, indsender de nødvendige oplysninger og venter på modtagelse og billeder. Derefter indsender du pakken og betaler fragten gennem Pikobuy.",
+      "sourceIds": [
+        "official-shipping"
+      ]
+    },
+    {
+      "id": "forwarded-after-sales",
+      "question": "Hvem håndterer eftersalgsservice for videresendte varer?",
+      "answer": "For videresendte varer henviser Pikobuy spørgsmål efter købet til afsenderen eller sælgeren. Vilkårene siger, at Pikobuy kan hjælpe med at sende varerne retur, men ikke leverer produktets eftersalgsservice.",
+      "sourceIds": [
+        "official-shipping"
+      ]
+    },
+    {
+      "id": "return-deadline",
+      "question": "Hvornår skal jeg anmode om returnering fra lageret?",
+      "answer": "Returpolitikken angiver 120 timer regnet fra timen efter, at status ændres til In Warehouse (på lager). Indsend anmodningen hurtigt; godkendelse afhænger stadig af, om varen opfylder returkravene.",
+      "sourceIds": [
+        "official-returns"
+      ]
+    },
+    {
+      "id": "return-eligibility",
+      "question": "Kan alle produkter returneres?",
+      "answer": "Nej. Sælgerens deltagelse, varens stand til videresalg og fristen har betydning. Specialfremstillede varer, ændret emballage og visse produktkategorier er begrænsede. Kontrollér returmuligheden før bestilling eller fjernelse af mærker.",
+      "sourceIds": [
+        "official-returns"
+      ]
+    },
+    {
+      "id": "return-costs",
+      "question": "Er returnering altid gratis?",
+      "answer": "Nej. Politikken angiver fragt- og servicegebyrer ved returnering efter kundens ønske. Bed supporten om det præcise samlede beløb for din ordre, da de offentliggjorte oplysninger om fragtgebyrer er modstridende.",
+      "sourceIds": [
+        "official-returns"
+      ]
+    },
+    {
+      "id": "wrong-or-damaged-item",
+      "question": "Hvad hvis sælgeren sender den forkerte vare?",
+      "answer": "Meld afvigelsen hurtigt gennem Pikobuy. Politikken skelner mellem sælgerfejl, kvalitetsproblemer og returnering efter kundens ønske, men sælgerens accept og den konkrete situation påvirker udfaldet.",
+      "sourceIds": [
+        "official-returns"
+      ]
+    },
+    {
+      "id": "not-shipped-cancellation",
+      "question": "Koster en returanmodning med status Not Shipped noget?",
+      "answer": "Spørgsmålene om returnering siger, at der ikke opkræves returgebyr, hvis ordren endnu ikke er afsendt. Kontrollér den aktuelle status, inden du indsender anmodningen.",
+      "sourceIds": [
+        "official-returns"
+      ]
+    },
+    {
+      "id": "official-support",
+      "question": "Hvor kan jeg spørge om en ordre, betaling eller pakke?",
+      "answer": "Brug Pikobuys officielle kontaktside, som anbefaler at oprette en supportsag og viser kontaktkanalerne. Dette uafhængige katalog kan ikke tilgå din Pikobuy-konto, ændre en ordre eller løse en betaling på dine vegne.",
+      "sourceIds": [
+        "official-contact"
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "slug": "pikobuy-spreadsheet-checklist",
+      "title": "Tjekliste til Pikobuy-produktark: Sammenlign fund, før du bestiller",
+      "description": "Brug en praktisk tjekliste til at sammenligne Pikobuy-produktlinks, varianter, billeder og budget, og vælg de fund, der fortjener et nærmere kig.",
+      "intro": "Et Pikobuy-produktark bliver nyttigt, når det hjælper dig med at træffe en beslutning. En lang gemt liste kan skjule manglende størrelser, forældede links og omkostninger, du ikke har overvejet. Denne tjekliste skal gøre flere interessante fund til en kort, velbegrundet kandidatliste. Hold den aktuelle produktannonce adskilt fra dine egne noter, og giv hver kandidat en klar næste handling, før du bruger penge.",
+      "sections": [
+        {
+          "id": "define-the-job",
+          "heading": "1. Definér, hvad købet skal kunne",
+          "paragraphs": [
+            "Begynd med den situation, hvor du vil bruge varen. En taske til en bærbar computer har andre krav end en lille taske til aftener. En hættetrøje til lag på lag skal sidde anderledes end en, der bæres under en tætsiddende jakke. Beskriv formålet i én sætning, og udpeg derefter to eller tre krav, du ikke kan gå på kompromis med.",
+            "Sæt en samlet beløbsgrænse, før du ser på varepriser. Giv plads til de omkostninger, du stadig skal anslå. Et produkt, der passer til din smag, men ikke opfylder sit praktiske formål, bør ikke blive på listen alene på grund af et flot miniaturebillede."
+          ]
+        },
+        {
+          "id": "build-a-record",
+          "heading": "2. Gem hver kandidats identitet",
+          "paragraphs": [
+            "Notér kilde-URL, sælger- eller butiksreference, præcis variant, vist pris og datoen for kontrollen. Gem størrelsestabellen eller en vigtig specifikation sammen med oplysningerne. En titel i produktarket er ofte kortere end hele annoncen og kan udelade den variant, der bestemmer prisen.",
+            "Skriv en kort begrundelse for, at du gemte varen. En kandidat kan for eksempel opfylde et krav til åbningsbredde eller have den rette ærmelængde. Hvis du ikke kan forklare, hvorfor den passer, så vend tilbage til kravet i stedet for at tilføje flere næsten ens rækker."
+          ]
+        },
+        {
+          "id": "separate-evidence",
+          "heading": "3. Find ud af, hvad hvert billede faktisk viser",
+          "paragraphs": [
+            "Et sælgerbillede viser, hvordan produktet præsenteres. En tidligere købers foto kan vise en tidligere ordre. Dine egne lagerbilleder vedrører den vare, der er modtaget til din ordre. Hold disse typer dokumentation adskilt; deres nytte afhænger af spørgsmålet, du stiller.",
+            "Et ældre foto kan hjælpe dig med at finde den detalje, du skal kontrollere, men det fastslår ikke standen af et fremtidigt køb. Et flot produktbillede besvarer heller ikke et uklart spørgsmål om mål. Skriv det ubesvarede spørgsmål ved billedet i stedet for at betragte selve billedets tilstedeværelse som en afsluttet kontrol."
+          ]
+        },
+        {
+          "id": "apply-hard-stops",
+          "heading": "4. Afklar afgørende mangler før personlige præferencer",
+          "paragraphs": [
+            "Kontrollér de krav, der kan gøre købet uegnet: varens identitet, tilgængelig variant, vigtige mål og et realistisk samlet budget. Hvis et kildelink åbner et andet produkt, eller den valgte størrelse ikke har en forståelig tabel, så sæt rækken på pause.",
+            "Sammenlign først præferencer efter disse kontroller. Farve, finish og stil kan hjælpe dig med at vælge mellem egnede kandidater, men de opvejer ikke en åbning, der er for smal til din computer. Undgå et pointsystem, hvor flere flotte egenskaber udligner ét afgørende problem. En enkel pausebeslutning er ofte klarere end et misvisende præcist pointtal."
+          ]
+        },
+        {
+          "id": "compare-example",
+          "heading": "5. Sammenlign tre hypotetiske fund",
+          "paragraphs": [
+            "Eksemplet handler om en taske, der skal rumme en stiv genstand på 30 cm i bredden. Tallene er opdigtede for at vise metoden og stammer ikke fra aktuelle produkter. Bemærk, at den laveste viste pris ikke afgør, hvilken række der fortjener opmærksomhed."
+          ],
+          "table": {
+            "headers": [
+              "Kandidat",
+              "Tilgængelig dokumentation",
+              "Beslutning og næste handling"
+            ],
+            "rows": [
+              [
+                "A",
+                "Åbningen er dokumenteret til 28 cm",
+                "Fjern: det afgørende krav er ikke opfyldt"
+              ],
+              [
+                "B",
+                "Udvendig bredde er 34 cm; åbning ukendt",
+                "Afvent: bed om den brugbare åbningsbredde"
+              ],
+              [
+                "C",
+                "Åbningen er dokumenteret til 32 cm; budgettet er ufuldstændigt",
+                "Behold til undersøgelse: færdiggør overslaget over samlede omkostninger"
+              ]
+            ]
+          }
+        },
+        {
+          "id": "make-next-action",
+          "heading": "6. Giv hver gemt række én næste handling",
+          "paragraphs": [
+            "Brug behold, afvent og fjern som undersøgelsesmarkeringer. Behold betyder, at de tilgængelige oplysninger begrunder næste skridt; det betyder ikke, at varen er verificeret eller godkendt. Afvent betyder, at ét svar kan ændre beslutningen. Fjern betyder, at et krav ikke er opfyldt, eller at den manglende dokumentation ikke længere er værd at opsøge.",
+            "Gør handlingen konkret nok til at udføre. At bede om den brugbare åbningsbredde er mere nyttigt end at kontrollere kvalitet. At sammenligne prisen for den valgte variant er mere nyttigt end at se annoncen igen. Sæt en dato for genbesøg på afventende kandidater, så de samme uafklarede varer ikke samler sig uendeligt."
+          ]
+        },
+        {
+          "id": "recheck-before-payment",
+          "heading": "7. Kontrollér kandidatlisten igen før betaling",
+          "paragraphs": [
+            "Åbn den aktuelle annonce igen, når du er klar til at gå videre. Bekræft, at variant, antal og prisgrundlag stadig stemmer med dine noter. Genbesøg mål- eller tilgængelighedsoplysninger, du kun har fået indirekte, og behold den dokumentation, du faktisk brugte.",
+            "Gå derefter ind i bestillingsforløbet med en kort samlet registrering frem for en mappe med løsrevne skærmbilleder. Når lagerdokumentation bliver tilgængelig, sammenligner du den med registreringen. Den samme kandidatliste kan nu vise, hvad du ville bestille, hvilke detaljer der stadig er uafklarede, og hvad du bør spørge om næste gang."
+          ]
+        }
+      ],
+      "sourceIds": [
+        "official-guide"
+      ],
+      "related": [
+        "spreadsheet",
+        "articles/pikobuy-product-links",
+        "articles/pikobuy-haul-budget"
+      ]
+    },
+    {
+      "slug": "pikobuy-clothing-size-chart",
+      "title": "Pikobuy-størrelsestabeller til tøj: Mål før du vælger størrelse",
+      "description": "Læs Pikobuy-størrelsestabeller ved hjælp af et referenceplag, ens målepunkter og tydelige enheder, og gennemgå et eksempel, før du vælger størrelse.",
+      "intro": "Et velkendt størrelsesbogstav er ikke nok til at vælge tøj fra et Pikobuy-fund. Den nyttige sammenligning er mellem mål, der beskriver det samme: samme del af tøjet, samme enheder og en lignende metode. Denne vejledning hjælper dig med at opbygge sammenligningen med tøj, du allerede ejer. Den antager ikke, at alle sælgere bruger ét størrelsessystem, eller at et større bogstav løser en uklar tabel.",
+      "sections": [
+        {
+          "id": "identify-chart-type",
+          "heading": "1. Fastslå, hvad tabellen måler",
+          "paragraphs": [
+            "Læs betegnelserne, før du fortolker tallene. En tabel kan beskrive et færdigt stykke tøj, et anbefalet interval for kropsmål eller en blanding af vejledning og produktmål. Det er forskellige referencer. Et brystmål på tøjet omfatter den indbyggede bevægelsesvidde; et kropsmål beskriver personen.",
+            "Gem tabellen sammen med det præcise produkt og den valgte version. Hvis annoncen indeholder forskellige snit eller modeller, skal du ikke antage, at én tabel gælder dem alle. Er måltypen uklar, så bed om en forklaring, før du forsøger at omsætte tallene til en størrelsesanbefaling."
+          ]
+        },
+        {
+          "id": "choose-reference",
+          "heading": "2. Vælg et nyttigt referenceplag",
+          "paragraphs": [
+            "Vælg noget tøj, der sidder, som du ønsker, at det nye køb skal sidde. Sammenlign en løs hættetrøje med en løs hættetrøje frem for kun at bruge en tætsiddende T-shirt som reference. Overvej stoffet, skulderkonstruktionen og eventuelle lag, du vil have under.",
+            "Læg referenceplagget fladt uden at strække det. Registrér målene selv, og gem et foto, der viser endepunkterne. Du opbygger en sammenligning, der kan gentages, så en omhyggelig note er mere værd end hukommelsen om, at et bestemt mærke normalt passer. Genbrug kun noten, når det næste produkt reelt er sammenligneligt."
+          ]
+        },
+        {
+          "id": "match-endpoints",
+          "heading": "3. Brug de samme målepunkter",
+          "paragraphs": [
+            "For en overdel kan relevante mål være brystbredde målt fladt, kropslængde, skulderbredde og ærmelængde. For bukser kan talje, skridthøjde, hofte, lår og indvendig benlængde være vigtige. Valget afhænger af det pasformsproblem, du forsøger at undgå.",
+            "Kontrollér definitionen af hvert mål. Ærmelængde fra en skuldersøm er ikke det samme som et mål fra halsen. En buet eller elastisk linning kræver også en forstået målemetode. Hvis sælgeren bruger et andet endepunkt end din reference, så mål dit tøj igen med det endepunkt frem for at sammenligne uforenelige tal."
+          ]
+        },
+        {
+          "id": "handle-units",
+          "heading": "4. Skeln mellem bredde, omkreds og enheder",
+          "paragraphs": [
+            "En flad bredde går tværs over den ene side af tøjet. En omkreds beskriver afstanden hele vejen rundt. Forveksling kan skabe en stor tilsyneladende forskel. Som simpelt regneeksempel giver det dobbelte af 58 cm i flad bredde 116 cm; om sammenligningen er relevant, afhænger stadig af tøjet og tabellens metode.",
+            "Brug én enhed i dit arbejdsark, og behold de oprindelige tal ved eventuelle omregninger. Udled ikke en tolerance, som ikke er angivet. En måletolerance fra sælgeren giver ekstra kontekst, men forklarer ikke automatisk enhver forskel mellem tabellen og et lagerfoto."
+          ]
+        },
+        {
+          "id": "worked-comparison",
+          "heading": "5. Sammenlign to hypotetiske hættetrøjestørrelser",
+          "paragraphs": [
+            "Antag, at din referencehættetrøje måler 58 cm over brystet og 68 cm i kropslængde. Den opdigtede tabel viser, hvorfor ét størrelsesbogstav ikke afgør valget. Begge mål er vigtige, og det foretrukne resultat afhænger af, hvilken ændring du kan acceptere."
+          ],
+          "table": {
+            "headers": [
+              "Mål",
+              "Referenceplag",
+              "Eksempelstørrelse M",
+              "Eksempelstørrelse L"
+            ],
+            "rows": [
+              [
+                "Brystbredde målt fladt",
+                "58 cm",
+                "57 cm",
+                "60 cm"
+              ],
+              [
+                "Kropslængde",
+                "68 cm",
+                "66 cm",
+                "69 cm"
+              ],
+              [
+                "Hvad der skal undersøges",
+                "Kendt ønsket pasform",
+                "Smallere og kortere",
+                "Bredere og lidt længere"
+              ]
+            ]
+          },
+          "list": [
+            "Kontrollér ærmemålene, før du vælger en af mulighederne.",
+            "Bekræft, at alle kropslængder er målt mellem de samme endepunkter.",
+            "Brug tabellen som en sammenligningsøvelse, ikke en størrelsesanbefaling."
+          ]
+        },
+        {
+          "id": "allow-for-use",
+          "heading": "6. Overvej, hvordan du vil bruge tøjet",
+          "paragraphs": [
+            "Overensstemmende mål er nyttige, men gengiver ikke følelsen af tøjet. Stoffets stræk, stivhed, for og snit kan ændre, hvordan de samme mål opleves. Tænk på bevægelse og de lag, du vil have på, og find derefter de mål, der styrer disse behov.",
+            "Undgå automatisk at lægge et fast tillæg til alle mål. Ekstra bredde kan hjælpe med lag på lag, mens ekstra ærmelængde bliver upraktisk. Hvis tabellen mangler et afgørende mål, så bed om det frem for at følge en generel regel om at gå en størrelse op. Formålet er at mindske en bestemt usikkerhed, ikke skabe falsk præcision."
+          ]
+        },
+        {
+          "id": "confirm-selected-size",
+          "heading": "7. Gem beslutningen, og bekræft varianten",
+          "paragraphs": [
+            "Gem før betaling den præcise variantbetegnelse og den tabel, du brugte. Tilføj en kort begrundelse, for eksempel at brystbredden matcher referenceplagget, mens du accepterer en kortere krop. Noten giver et klart grundlag for senere kontrol.",
+            "Hvis du beder om en lagermåling, så angiv dimension, endepunkter og enhed. En læsbar lineal skal begynde ved det ønskede punkt og være synlig gennem hele målingen. Hvis dokumentationen modsiger tabellen, så stop og afklar forskellen, mens en eventuel returproces stadig kan overvejes. Et foto kan understøtte en målekontrol, men ikke garantere komfort."
+          ]
+        }
+      ],
+      "sourceIds": [
+        "official-guide",
+        "official-returns"
+      ],
+      "related": [
+        "spreadsheet",
+        "articles/pikobuy-qc-measurements",
+        "articles/pikobuy-shoe-sizing"
+      ]
+    },
+    {
+      "slug": "pikobuy-product-links",
+      "title": "Pikobuy-produktlinks: Kontrollér kilder og afklar uoverensstemmelser",
+      "description": "Kontrollér Pikobuy-produktlinks mod de oprindelige annoncer, sammenlign varianter efter import, og brug en klar fejlsøgningsproces, når en vare ikke indlæses.",
+      "intro": "Et produktlink skal identificere mere end et tiltalende billede. Det skal føre til den ønskede annonce og den variant, du vil bestille. Ved deling, forkortelse eller konvertering kan den sammenhæng blive sværere at se. Denne vejledning giver en praktisk metode til at bevare kildeoplysningerne, sammenligne et importeret resultat og vælge næste skridt, når et Pikobuy-produktlink ikke åbner som forventet.",
+      "sections": [
+        {
+          "id": "save-source-record",
+          "heading": "1. Behold oplysningerne fra den oprindelige annonce",
+          "paragraphs": [
+            "Gem den oprindelige produkt-URL, hvis den findes, før du bruger et delt agentlink. Notér produktidentifikation, sælger- eller butiksreference, valgt model, farve, størrelse og antal. Tilføj kontroldatoen og et skærmbillede af den variant, du ville vælge.",
+            "Et skærmbillede alene er ufuldstændigt, fordi adressen eller den valgte variant kan mangle. En URL alene bevarer måske ikke den ønskede variant. Sammen gør linket og en kort variantregistrering det lettere at opdage en senere uoverensstemmelse. Overskriv ikke den oprindelige registrering, når du finder en anden kandidat."
+          ]
+        },
+        {
+          "id": "recognize-page-type",
+          "heading": "2. Identificér sidetypen",
+          "paragraphs": [
+            "En produktside, en butiksforside og et fotoalbum har forskellige formål. En butiksside kan hjælpe med at finde sælgerens katalog, men angiver måske ikke varen. Et album kan vise flere farver uden en valgmulighed til køb. En produktannonce kan indeholde mange varianter under samme titel.",
+            "Find ud af, hvilke oplysninger der mangler, før du prøver at importere linket igen og igen. Du kan have brug for et link til den enkelte vare, en variantbeskrivelse eller en forklaring fra sælgeren eller platformen. Et genkendeligt markedspladsnavn giver kontekst, men beviser ikke, at siden indeholder alt til en korrekt ordre."
+          ]
+        },
+        {
+          "id": "compare-result",
+          "heading": "3. Sammenlign det importerede resultat med kilden",
+          "paragraphs": [
+            "Pikobuys offentliggjorte vejledning beskriver søgning med produktlink eller søgeord. Når et resultat vises, skal du sammenligne dets identitet med kildeoplysningerne frem for at antage, at en vellykket indlæsning afslutter kontrollen.",
+            "Se på produktidentifikationen, hvor den er synlig, sælgeroplysninger, tilgængelige varianter og beskrivelsen af det valgte alternativ. Kontrollér, om den viste pris gælder din ønskede vare, en anden variant, et tilbehør eller en bestemt mængde. Et lignende miniaturebillede kan skjule en anden version. Afklar forskelle mellem kilde og importerede oplysninger, før du betragter resultatet som klar til bestilling."
+          ]
+        },
+        {
+          "id": "separate-conversion",
+          "heading": "4. Forstå, hvad konvertering ikke fastslår",
+          "paragraphs": [
+            "En linkkonverter kan omsætte en produktreference til en form, en anden tjeneste kan læse. Det tekniske trin er adskilt fra kontrol af sælger, produktstand, lagerstatus og egnethed. Det fastslår heller ikke, at en aktuel annonce stadig beskriver samme vare som en ældre gemt række.",
+            "Behold den oprindelige URL sammen med den konverterede. Gentag identitets- og variantkontrollen efter konvertering. Hvis et værktøj ændrer destinationen uventet, så stop og undersøg resultatet. Indtast ikke kontooplysninger på en ukendt side alene fordi du kom dertil via et produktark eller en konverter."
+          ]
+        },
+        {
+          "id": "troubleshooting-table",
+          "heading": "5. Undersøg den fejl, du faktisk kan se",
+          "paragraphs": [
+            "Tabellen nedenfor er en hjælp til fejlsøgning, ikke en liste over officielle Pikobuy-fejlmeddelelser. Brug den adfærd, du faktisk kan observere. Et nyt forsøg er kun nyttigt, hvis det tester en sandsynlig årsag; det kan ikke genskabe oplysninger, der aldrig var i linket."
+          ],
+          "table": {
+            "headers": [
+              "Observeret problem",
+              "Nyttig kontrol",
+              "Næste handling"
+            ],
+            "rows": [
+              [
+                "Et andet produkt åbnes",
+                "Sammenlign kilde-ID og valgt variant",
+                "Behold begge registreringer, og bed om en forklaring"
+              ],
+              [
+                "Kilden kræver login",
+                "Kontrollér URL og synlige produktoplysninger",
+                "Brug den legitime kilde eller officiel support"
+              ],
+              [
+                "Kun en butik eller et album åbnes",
+                "Find en reference til den enkelte vare",
+                "Angiv præcis vare og variant"
+              ],
+              [
+                "Varen er ikke tilgængelig",
+                "Kontrollér den aktuelle kildeside igen",
+                "Behandl alternativer som nye kandidater"
+              ],
+              [
+                "Et forkortet link fejler",
+                "Find den oprindelige produkt-URL, hvis muligt",
+                "Prøv én gang igen med den kilde"
+              ]
+            ]
+          }
+        },
+        {
+          "id": "support-request",
+          "heading": "6. Send et spørgsmål, der kan besvares",
+          "paragraphs": [
+            "Hvis den ønskede vare stadig er uklar, så send kildelinket, produktidentifikation hvis tilgængelig, den nødvendige variant og en kort forklaring af forskellen. Vedlæg skærmbilleder med den relevante valgmulighed. Undgå at sende hele browserhistorikken eller uvedkommende produkter i samme henvendelse.",
+            "Et nyttigt spørgsmål er præcist: Kilden viser den blå udgave i størrelse M, men den importerede vælger viser kun sort; kan blå størrelse M bestilles? Det er lettere at afklare end blot at sige, at linket er i stykker. Pikobuys officielle kontaktside viser den passende kanal til konto- eller indkøbsspørgsmål."
+          ]
+        },
+        {
+          "id": "update-shortlist",
+          "heading": "7. Registrér resultatet uden at miste sammenhængen",
+          "paragraphs": [
+            "Markér kandidaten som matchende, afventende afklaring eller utilgængelig. Gem svaret sammen med kildeoplysningerne. Hvis det foreslåede alternativ har en anden produktidentifikation eller specifikation, så opret en ny række i stedet for ubemærket at erstatte den oprindelige vare.",
+            "Kontrollér før næste skridt den variant, du faktisk vil indsende. Målet er en sporbar beslutning: Du skal kunne forklare, hvilken annonce du brugte, hvilken variant du valgte, og hvilken dokumentation der afklarede eventuelle forskelle. Registreringen er stadig nyttig, når du senere sammenligner den modtagne vare med det, du ville købe."
+          ]
+        }
+      ],
+      "sourceIds": [
+        "official-guide",
+        "official-contact"
+      ],
+      "related": [
+        "guide",
+        "articles/pikobuy-spreadsheet-checklist",
+        "faq"
+      ]
+    },
+    {
+      "slug": "pikobuy-qc-measurements",
+      "title": "Pikobuy-kontrolmål: Bed om billeder, der besvarer dit spørgsmål",
+      "description": "Gør Pikobuy-måleanmodninger mere nyttige med klare endepunkter, læsbare skalaer og præcise spørgsmål, før du afgør, om varen opfylder dine behov.",
+      "intro": "Flere billeder giver ikke nødvendigvis mere brugbar dokumentation. Hvis du skal vide, om et ærme er langt nok, eller en taskeåbning er bred nok, skal anmodningen forklare, hvordan detaljen måles. En god Pikobuy-kontrolanmodning forbinder ét ubesvaret spørgsmål med ét observerbart resultat. Denne vejledning viser hvordan, uden at behandle et foto som bevis for alt ved produktet.",
+      "sections": [
+        {
+          "id": "define-the-question",
+          "heading": "1. Beskriv beslutningen før anmodningen",
+          "paragraphs": [
+            "Angiv, hvilket svar der ville ændre din næste handling. Måske kræver varen en bestemt brugbar åbning, størrelsesmærket er ulæseligt, eller en plet kan være snavs frem for skygge. Hvert problem kræver forskellig dokumentation. En anmodning om bedre kvalitetsbilleder overlader det til fotografen at gætte, hvad der betyder noget.",
+            "Brug en sætning med en synlig detalje: Jeg skal se, om begge sko har det valgte størrelsesmærke. Bland ikke dette sammen med uvedkommende ønsker om syninger, materialer og pakning."
+          ]
+        },
+        {
+          "id": "identify-item",
+          "heading": "2. Identificér den rigtige vare og variant",
+          "paragraphs": [
+            "Angiv den relevante ordrereference, varebeskrivelse og valgte variant. Hvis ordren indeholder to lignende farver eller størrelser, så gør forskellen tydelig. Henvis til et eksisterende foto, når det hjælper med at finde området, men antag ikke, at en tidligere købers billede viser den vare, der kontrolleres nu.",
+            "Gem kildetabellen og den ønskede variant ved anmodningen. De forklarer, hvorfor målet er vigtigt, og hjælper dig med at fortolke resultatet. Et nøjagtigt mål af den forkerte vare er stadig ubrugeligt. Før du konkluderer noget, skal du kontrollere, at det modtagne billede med rimelighed kan knyttes til den vare og variant, du spurgte om."
+          ]
+        },
+        {
+          "id": "specify-method",
+          "heading": "3. Beskriv målemetoden",
+          "paragraphs": [
+            "Angiv endepunkter, enhed og placering. Ved flad tøjbredde skal du beskrive, hvor målebåndet starter og slutter, og om tøjet skal ligge fladt uden stræk. For en taskeåbning skal du bede om den brugbare bredde ved åbningen frem for taskens bredeste udvendige del.",
+            "Bed om, at både starten og slutningen af skalaen er synlige. Et nulpunkt uden for billedet skaber usikkerhed, selv når den anden ende kan læses. Mål langs en kurve og mål i en lige linje besvarer forskellige spørgsmål, så forklar, hvilket du har brug for, frem for blot at skrive længde."
+          ]
+        },
+        {
+          "id": "request-examples",
+          "heading": "4. Tilpas anmodningen til spørgsmålet",
+          "paragraphs": [
+            "Eksemplerne er originale formuleringer, ikke menupunkter eller løfter om en bestemt tjeneste. Bekræft, om håndteringen er mulig, og hvad den koster, før du regner med den. Udskift vare- og måleoplysningerne med dem, der gælder din ordre."
+          ],
+          "table": {
+            "headers": [
+              "Ubesvaret spørgsmål",
+              "Præcis anmodning"
+            ],
+            "rows": [
+              [
+                "Er overdelen bred nok?",
+                "Læg den valgte overdel fladt uden at strække den, og vis brystbredden mellem de angivne punkter med begge ender af centimeterskalaen synlige."
+              ],
+              [
+                "Er skomærket korrekt?",
+                "Vis et læsbart størrelsesmærke fra hver sko i dette par med nok af omgivelserne til at identificere skoene."
+              ],
+              [
+                "Kan genstanden passere taskens åbning?",
+                "Vis den brugbare åbningsbredde med lukningen helt åben og målingens endepunkter synlige."
+              ],
+              [
+                "Sidder mærket på overfladen?",
+                "Vis det markerede område tættere på og fra en anden vinkel med det omgivende materiale synligt."
+              ]
+            ]
+          }
+        },
+        {
+          "id": "evaluate-evidence",
+          "heading": "5. Kontrollér, om svaret kan fortolkes",
+          "paragraphs": [
+            "Læs billedet før den numeriske konklusion. Er den relevante vare synlig? Følger linealen den ønskede metode? Kan du se skalaen og begge endepunkter? Hvis tøjet er foldet, strakt eller fotograferet i en skarp vinkel, så notér, hvordan det kan påvirke sammenligningen.",
+            "Skab ikke præcision ud af et sløret billede. Hvis du kun kan aflæse cirka 57 til 59 cm, så registrér usikkerheden frem for at erklære 58,0 cm. Bed om afklaring, hvis usikkerheden kan ændre beslutningen. Kan den ikke påvirke beslutningen, giver flere billeder måske kun ringe praktisk værdi."
+          ]
+        },
+        {
+          "id": "recognize-limits",
+          "heading": "6. Respektér grænserne for billeddokumentation",
+          "paragraphs": [
+            "Et foto kan understøtte en konklusion om et synligt mærke, et målt mål eller et tilsyneladende overfladeproblem. Det kan ikke fastslå langtidsholdbarhed, skjult konstruktion, elektrisk funktion eller komfort under brug. Materialesammensætning og ægthed kræver også mere dokumentation end udseendet alene.",
+            "Skeln mellem det, du observerede, og det, du udledte. Billedet viser en lukket søm er en mere begrænset påstand end tasken kan holde til tunge belastninger. Pikobuys offentliggjorte materiale beskriver kontrollens begrænsninger, så behandl ikke kontrollen som specialiseret testning. Hvis købet afhænger af en egenskab, billeder ikke kan fastslå, så søg passende dokumentation eller genovervej købet."
+          ]
+        },
+        {
+          "id": "choose-next-action",
+          "heading": "7. Omsæt svaret til en handling",
+          "paragraphs": [
+            "Vend tilbage til det oprindelige spørgsmål, og vælg næste skridt. Dokumentationen kan støtte, at du går videre, efterlade et konkret problem uafklaret eller begrunde en samtale om returnering. Gem svaret med ordreoplysningerne, og notér det mål eller den synlige detalje, der lå bag beslutningen.",
+            "Hvis problemet består, så kontrollér hurtigt den aktuelle ordrestatus og relevante returvilkår. Brug ikke tiden på dekorative vinkler, mens en væsentlig uoverensstemmelse ikke er anmeldt. Registreringen skal gøre problemet let at forklare: hvad du ønskede, hvad fotoet viser, og hvilken løsning du beder om. Markér usikre observationer som usikre."
+          ]
+        }
+      ],
+      "sourceIds": [
+        "official-user-agreement",
+        "official-shipping",
+        "official-returns"
+      ],
+      "related": [
+        "qc",
+        "articles/pikobuy-clothing-size-chart",
+        "articles/pikobuy-warehouse-returns"
+      ]
+    },
+    {
+      "slug": "pikobuy-haul-budget",
+      "title": "Budget til din Pikobuy-indkøbsrunde: Læg omkostningerne sammen før køb",
+      "description": "Lav et realistisk Pikobuy-budget ved at skelne mellem varepriser, fragt, mulige gebyrer og ukendte omkostninger med et tydeligt markeret planlægningseksempel.",
+      "intro": "Summen af priserne i dit produktark er kun begyndelsen på et Pikobuy-budget. Et nyttigt overslag viser, hvilke omkostninger der er kendte, hvilke der afhænger af den færdige pakke, og hvilke der stadig skal undersøges. Det viser også, om budgettet har plads til usikkerhed. Metoden nedenfor er et planlægningsark, ikke et tilbud eller en påstand om Pikobuys aktuelle gebyrer.",
+      "sections": [
+        {
+          "id": "separate-stages",
+          "heading": "1. Adskil købet fra pakken",
+          "paragraphs": [
+            "Pikobuys offentliggjorte proces adskiller købsbetalingen fra betalingen for international fragt. Lad budgettet afspejle det. Én del registrerer, hvad det kræver at købe de valgte produkter; en anden viser, hvad det kan koste at få den færdige pakke frem til dig.",
+            "Begynd med præcise antal og valgte varianter. En lav vist pris kan gælde en anden variant end den, du vil bestille. Notér prisdato og valuta ved hvert beløb. Så bliver det lettere at forstå budgetændringer, når et produkt, en variant eller en valutakonvertering ændres."
+          ]
+        },
+        {
+          "id": "capture-item-costs",
+          "heading": "2. Oplist omkostningerne ved købet",
+          "paragraphs": [
+            "Lav særskilte linjer til produkter, eventuel vist indenrigsfragt og de service- eller betalingsgebyrer, der faktisk fremgår af din transaktion. Indsæt ikke et gebyr alene fordi en anden kunde betalte det, og antag ikke, at et gebyr, der ikke er oplyst, er nul.",
+            "Hvis flere varer deler én fragtbetaling, så undgå at tælle den igen på hver række. Køb fra forskellige sælgere deler omvendt ikke nødvendigvis samme betaling. Behold nok detaljer til at afstemme arket med det beløb, du bliver bedt om at betale. Et pænt sluttal er mindre nyttigt end en lidt længere tabel, du kan forklare."
+          ]
+        },
+        {
+          "id": "estimate-freight",
+          "heading": "3. Registrér forudsætningerne for fragtoverslaget",
+          "paragraphs": [
+            "Behandl et tidligt fragtoverslag som et scenarie. Notér antaget destination, produkttype, pakket vægt og mål, og gem beregningsdatoen samt eventuelle rutevilkår ved beløbet. Hvis input ændres, er det tidligere tal måske ikke længere en nyttig sammenligning.",
+            "Fordel ikke et pakkeoverslag på varerne for bagefter at forveksle fordelingen med transportørens tarif. Du kan fordele et planlægningstal for at sammenligne personlig værdi, men det faktiske pakketilbud bestemmer betalingen. En billig vare, der fylder meget, kan fortjene et ekstra kig, selv om den udgør en lille del af varesummen."
+          ]
+        },
+        {
+          "id": "keep-unknowns-visible",
+          "heading": "4. Hold mulige omkostninger på destinationen synlige",
+          "paragraphs": [
+            "Mulig told, skat, håndterings- eller fortoldningsgebyrer bør have deres egen linje. Kontrollér kravene for destinationen og vilkårene for fragtmuligheden. Denne vejledning giver ingen sats for en bestemt jurisdiktion og antager ikke, at rutens navn afgør alle gebyrer.",
+            "Skriv ukendt, når beløbet ikke er fastslået. En tom celle bliver let læst som nul. En kupon, du ikke har kontrolleret for din pakke, bør også stå som en mulig justering frem for en garanteret besparelse. Bekræft berettigelse, begrænsninger og det beløb, der skal betales, før du bruger rabatten til at retfærdiggøre købet."
+          ]
+        },
+        {
+          "id": "worked-budget",
+          "heading": "5. Beregn et hypotetisk planlægningsbeløb",
+          "paragraphs": [
+            "Alle tal nedenfor er opdigtede og angivet i én eksempelvaluta. Tabellen viser beregningen; den er ikke en aktuel produktpris, fragtsats eller gebyrliste. Bemærk, at den beregnede delsum stadig er ufuldstændig, fordi omkostningerne på destinationen ikke er fastslået.",
+            "I eksemplet dækker 120 de angivne antagelser og den valgte reserve. Det fastslår ikke en endelig pris inklusive alt. Hvis budgetgrænsen er 120, betyder den ukendte destinationslinje, at købet endnu ikke er dokumenteret til at holde sig inden for grænsen."
+          ],
+          "table": {
+            "headers": [
+              "Budgetlinje",
+              "Illustrativt beløb",
+              "Status"
+            ],
+            "rows": [
+              [
+                "Valgte varer",
+                "60",
+                "Eksempelantagelse"
+              ],
+              [
+                "Indenrigsfragt",
+                "5",
+                "Eksempelantagelse"
+              ],
+              [
+                "Vist servicegebyr",
+                "3",
+                "Eksempelantagelse"
+              ],
+              [
+                "Overslag for international pakke",
+                "35",
+                "Eksempelantagelse"
+              ],
+              [
+                "Valuta- eller betalingsjustering",
+                "2",
+                "Eksempelantagelse"
+              ],
+              [
+                "Delsum af antagelserne",
+                "105",
+                "Kun beregnet sum"
+              ],
+              [
+                "Personlig reserve til uforudsete udgifter",
+                "15",
+                "Valgt planlægningsbuffer"
+              ],
+              [
+                "Omkostninger på destinationen",
+                "Ukendt",
+                "Skal undersøges særskilt"
+              ]
+            ]
+          }
+        },
+        {
+          "id": "compare-scenarios",
+          "heading": "6. Sammenlign nyttige scenarier",
+          "paragraphs": [
+            "Brug scenarier til at teste de antagelser, der mest sandsynligt ændrer beslutningen. Sammenlign pakken med og uden en valgfri, pladskrævende vare, eller sammenlign to pakninger med samme destination og produkttype. Ændr én faktor ad gangen, så du forstår årsagen til forskellen.",
+            "En personlig reserve er et planlægningsvalg, ikke en forudsigelse om en tilsvarende stigning i gebyrer. Fastlæg den efter den resterende usikkerhed og din økonomi. Hvis en beskeden stigning ville gøre købet ubetaleligt, så forkort kandidatlisten, før du forpligter dig til varekøbet."
+          ]
+        },
+        {
+          "id": "reconcile-budget",
+          "heading": "7. Opdatér arket, hver gang du forpligter dig",
+          "paragraphs": [
+            "Erstat overslag med bekræftede beløb, efterhånden som de bliver kendte. Behold det oprindelige overslag ved det nye tal, hvis du vil forstå, hvilke antagelser der var unøjagtige. Kontrollér før afsendelse, at budgettet omfatter de faktiske varer og den ønskede emballage.",
+            "Hvis summen overstiger din grænse, så find det mindst nyttige valgfrie køb frem for kun at se på den billigste linje. Overvej omkostninger ved at ændre ordren, før du antager, at en vare frit kan fjernes. Det færdige ark skal besvare et enkelt spørgsmål: Hvad mangler du at betale, hvad er stadig usikkert, og kan du uden problemer dække begge dele?"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "official-guide",
+        "official-estimate",
+        "official-terms"
+      ],
+      "related": [
+        "shipping",
+        "articles/pikobuy-parcel-weight-dimensions",
+        "articles/pikobuy-spreadsheet-checklist"
+      ]
+    },
+    {
+      "slug": "pikobuy-parcel-weight-dimensions",
+      "title": "Pikobuy-pakkens vægt og mål: Sammenlign pakningsvalg",
+      "description": "Sammenlign Pikobuy-pakkers vægt, mål og pakningsvalg med et gennemskueligt eksempel, og kontrollér rutevilkår og endeligt tilbud før afsendelse.",
+      "intro": "To pakker med samme vægt på vægten kan fylde meget forskelligt. Derfor kræver en nyttig fragtsammenligning både vægt og mål samt den tilgængelige rutes beregningsregler. Målet er ikke blot at gøre kassen mindre. Det er at sammenligne pakninger, der beskytter indholdet, passer til dine behov og giver et tilbud, du forstår.",
+      "sections": [
+        {
+          "id": "define-measurements",
+          "heading": "1. Skeln mellem målingerne",
+          "paragraphs": [
+            "Varevægt beskriver selve produktet. Pakket vægt omfatter indholdet og materialerne til afsendelse. Pakkens mål beskriver ydersiden af den færdige forsendelse. En rute kan bruge en volumenberegning, faktisk vægt eller andre regler til at fastsætte prisen.",
+            "Hold værdierne adskilt i dine noter. Summen af anslåede varevægte fastslår ikke den færdige pakkevægt, og mål på en produktæske fastslår ikke målene på den ydre fragtemballage. Spørg, hvilket tal du ser på, før du bruger det i en sammenligning. Ellers kan korrekt regning stadig give et misvisende resultat."
+          ]
+        },
+        {
+          "id": "collect-inputs",
+          "heading": "2. Brug ensartede input i beregneren",
+          "paragraphs": [
+            "Pikobuys offentlige beregner omfatter destination, produkttype, vægt og tre mål. Hold disse input ens, når du sammenligner muligheder. Omregn mål omhyggeligt, og behold enhederne; et tal indtastet som centimeter, når det er millimeter, ændrer beregningen voldsomt.",
+            "Gem hvert sæt antagelser sammen med resultat og dato. Ændrer du destination, produktklassifikation eller rute sammen med emballagen, isolerer du ikke længere kassens effekt. Den bredere sammenligning kan være nyttig, men mærk den korrekt frem for at tilskrive alle forskelle ompakning."
+          ]
+        },
+        {
+          "id": "illustrative-calculation",
+          "heading": "3. Forstå en beregning af volumenvægt",
+          "paragraphs": [
+            "Beregningen nedenfor bruger en opdigtet divisor på 5.000 kubikcentimeter pr. kilogram for at vise regnemetoden. Det er ikke en angivelse af en universel afregningsregel hos Pikobuy. I eksemplet ganges de tre ydre mål, og resultatet divideres med 5.000.",
+            "For en eksempelkasse på 40 × 30 × 20 cm er rumfanget 24.000 kubikcentimeter, og den illustrative volumenvægt er 4,8 kg. Den faktiske rute kan have en anden divisor, målemetode, minimumsgrænse eller afrunding. Læs vilkårene, før du omsætter beregningen til en antagelse om fakturerbar vægt."
+          ]
+        },
+        {
+          "id": "packing-example",
+          "heading": "4. Sammenlign to hypotetiske pakninger",
+          "paragraphs": [
+            "Begge pakninger nedenfor antages at veje 3,2 kg på vægten. Vægten holdes bevidst ens for at isolere rumfangets betydning. De mindre mål er illustrative og ikke en påstand om, at lageret kan opnå dem for dine varer.",
+            "Hvis en hypotetisk rute beregnede prisen efter den højeste af faktisk vægt og volumenvægt før sin egen afrunding, ville eksemplerne tage udgangspunkt i henholdsvis 4,8 kg og 3,2 kg. Sammenligningen fortæller stadig ikke prisen eller, om den anden pakning er egnet."
+          ],
+          "table": {
+            "headers": [
+              "Eksempelpakning",
+              "Ydre mål",
+              "Illustrativ volumenvægt",
+              "Hvad der stadig skal kontrolleres"
+            ],
+            "rows": [
+              [
+                "Originale æsker i en ydre papkasse",
+                "40 × 30 × 20 cm",
+                "4,8 kg med eksempeldivisoren",
+                "Rutens beregning og beskyttelsen"
+              ],
+              [
+                "En anden beskyttende pakning",
+                "35 × 28 × 16 cm",
+                "Cirka 3,14 kg med eksempeldivisoren",
+                "Mulighed, håndtering og beskyttelse"
+              ]
+            ]
+          }
+        },
+        {
+          "id": "protect-contents",
+          "heading": "5. Afgør, hvad emballagen skal bevare",
+          "paragraphs": [
+            "Oplist emballagens funktioner. En stiv genstand kan kræve beskyttelse mod knusning; en formfast taske kan kræve støtte for at bevare faconen. Smådele skal holdes samlet, så de ikke skilles fra hovedvaren. Originalemballage kan også være vigtig til opbevaring eller som gave.",
+            "Afklar et eventuelt returspørgsmål, før du beder om at få fjernet mærker, forseglinger eller emballage. Byt ikke et kendt krav for en antaget fragtbesparelse. En nyttig instruktion beskriver, hvilken emballage der må ændres, og hvilken beskyttelse der skal bevares, og beder derefter om bekræftelse på den foreslåede løsning."
+          ]
+        },
+        {
+          "id": "compare-consolidation",
+          "heading": "6. Sammenlign samling og opdeling omhyggeligt",
+          "paragraphs": [
+            "Samling af varer kan forenkle en forsendelse, men de samlede mål og blandingen af produkter kan ændre valgmulighederne. Opdeling kan skabe ekstra gebyrer eller kræve anden pakning. Ingen af delene er automatisk billigere.",
+            "Sammenlign komplette tilbud for de faktiske alternativer, inklusive relevante håndteringsgebyrer. Hold destination og serviceforventninger sammenlignelige. Kontrollér produktbegrænsninger og forenelighed frem for at antage, at alle produkter kan sendes sammen. Betragt ikke opdeling som en vej til et bestemt toldresultat; det er et særskilt spørgsmål, der afhænger af gældende regler og den konkrete forsendelse."
+          ]
+        },
+        {
+          "id": "confirm-final-quote",
+          "heading": "7. Bekræft den færdige pakke",
+          "paragraphs": [
+            "Sammenlign før betaling den endelige vareliste, pakkede mål og håndteringsinstruktioner med den version, du vurderede. Kontrollér rutens prisberegning og eventuelle afrundinger eller ekstra gebyrer, der påvirker det betalbare beløb. Gem tilbuddet og de valg, du accepterede.",
+            "Hvis resultatet afviger væsentligt fra overslaget, så find årsagen før godkendelse. Det kan være en større ydre pakke, ændret indhold eller et rutevilkår. Når du opdaterer hele indkøbsbudgettet nu, forbinder du et teknisk attraktivt pakningsvalg med det praktiske spørgsmål om, hvorvidt forsendelsen stadig opfylder dine behov."
+          ]
+        }
+      ],
+      "sourceIds": [
+        "official-estimate",
+        "official-guide",
+        "official-contact"
+      ],
+      "related": [
+        "shipping",
+        "articles/pikobuy-haul-budget",
+        "articles/pikobuy-warehouse-returns"
+      ]
+    },
+    {
+      "slug": "pikobuy-shoe-sizing",
+      "title": "Pikobuy-skostørrelser: Sammenlign fodlængde, mærker og indlægssåler",
+      "description": "Kontrollér Pikobuy-skostørrelser ved at skelne mellem fodlængde, mål på indlægssåler og størrelsesmærker, og brug målrettet dokumentation til at afklare pasformen.",
+      "intro": "Valg af skostørrelse fra et Pikobuy-fund kræver mere end det nummer, du normalt køber. Mærket er én del af oplysningerne; sælgerens målemetode, modellens form og dokumentationen for det valgte par er også relevante. Denne vejledning hjælper dig med at sammenligne referencerne uden at behandle fodlængde, indlægssålens længde og ydersålens længde som det samme mål.",
+      "sections": [
+        {
+          "id": "identify-option",
+          "heading": "1. Identificér den præcise skovariant",
+          "paragraphs": [
+            "Gem model- eller produktreference, valgt variant og det størrelsessystem, annoncen viser. Et nummer mærket EU, UK eller US kræver sin sammenhæng. Hvis siden har forskellige tabeller til forskellige modeller, så knyt den korrekte tabel til din valgte variant.",
+            "Kontrollér den importerede vælger mod kilden før betaling. Et velkendt nummer kan stadig tilhøre det forkerte system eller en anden produktversion. Brug ikke en anden købers normale størrelse til at afklare en uoverensstemmelse. Fastslå først, hvad sælgeren mener med den valgte variant, og afgør så, om dokumentationen støtter den ønskede pasform."
+          ]
+        },
+        {
+          "id": "measure-feet",
+          "heading": "2. Mål fødderne på en ensartet måde",
+          "paragraphs": [
+            "Mål begge fødder med én metode, der kan gentages, samme stilling og samme forhold. Registrér det største resultat frem for at antage, at målene er ens. Gem enhed og metode, så du kan sammenligne med sælgerens instruktioner i stedet for kun at huske et afrundet tal.",
+            "Fodlængde er udgangspunkt for et størrelsesspørgsmål, ikke hele svaret. Bredde, tåform og de ønskede sokker kan påvirke behovet for plads. Hvis sælgeren angiver en metode, så læs den grundigt før sammenligningen. Udskift den ikke ubemærket med en anden metode, fordi den giver et mere bekvemt størrelsesresultat."
+          ]
+        },
+        {
+          "id": "separate-lengths",
+          "heading": "3. Skeln mellem forskellige længder",
+          "paragraphs": [
+            "Et fodmål beskriver brugeren. Et indlægssålsmål beskriver en komponent, der kan have kurver, hævede kanter eller en form, som ikke direkte svarer til brugbar plads. Et indvendigt mål forsøger at beskrive rummet i skoen. Et ydersålsmål omfatter den udvendige konstruktion.",
+            "Skriv måltypen ved hvert tal. To tal i centimeter er ikke nødvendigvis sammenlignelige. En længere ydersål fastslår ikke, at din fod passer, og et foto af en indlægssål kræver en klar metode for at besvare et størrelsesspørgsmål. Spørg, hvad der blev målt, og fra hvor til hvor, før du fortolker resultatet."
+          ]
+        },
+        {
+          "id": "consider-shape",
+          "heading": "4. Tag højde for form og brug",
+          "paragraphs": [
+            "Overvej formen på sko, du allerede synes er behagelige, men husk, at en anden model kan opføre sig anderledes. En smal tåboks kan have betydning, selv om længden ser passende ud. En tyk sok kan også ændre den tilgængelige plads.",
+            "Undgå at løse enhver bekymring ved at vælge en længere størrelse. Ekstra længde løser måske ikke et breddeproblem og kan skabe et andet pasformsproblem. Find den faktiske usikkerhed, for eksempel forfodens bredde eller sælgerens definition af længde, og spørg om netop det. Hvis købet afhænger af funktion eller støtte, der ikke kan fastslås på afstand, kan et foto alene ikke afklare det."
+          ]
+        },
+        {
+          "id": "mismatch-example",
+          "heading": "5. Afklar en hypotetisk forskel mellem størrelsesmærker",
+          "paragraphs": [
+            "Forestil dig, at en gemt kildetabel knytter én variant til et bestemt interval for fodlængde, mens den importerede vælger viser et andet mærke. Eksemplet undgår bevidst en numerisk omregning: Første opgave er at fastslå identiteten, ikke at vælge det mest velkendte nummer."
+          ],
+          "table": {
+            "headers": [
+              "Registrering",
+              "Hvad den viser",
+              "Næste nyttige kontrol"
+            ],
+            "rows": [
+              [
+                "Kildeannonce",
+                "Variant A med et interval for fodlængde",
+                "Gem den præcise tabel og varianttekst"
+              ],
+              [
+                "Importeret vælger",
+                "Et andet størrelsesmærke",
+                "Spørg, om det svarer til kildens variant A"
+              ],
+              [
+                "Lagerbillede",
+                "Et læsbart mærke på én sko",
+                "Kontrollér den anden sko og den bekræftede variant"
+              ],
+              [
+                "Målefoto",
+                "En længde uden tydelige endepunkter",
+                "Afklar, om det er indlægssålens, indersidens eller ydersålens længde"
+              ]
+            ]
+          },
+          "list": [
+            "Udled ikke lighed alene af lignende mærker.",
+            "Gem det svar, der forklarer sammenhængen.",
+            "Stop, hvis den valgte variant stadig er tvetydig."
+          ]
+        },
+        {
+          "id": "request-pair-evidence",
+          "heading": "6. Kontrollér dokumentation for det konkrete par",
+          "paragraphs": [
+            "Når du gennemgår lagerbilleder, så forbind de synlige mærker med din valgte ordre. Kontrollér begge sko, når forskellen er relevant. Hvis et mål er nødvendigt, så angiv den ønskede dimension og sørg for, at billedet viser de relevante endepunkter og en læsbar skala.",
+            "Spørg om målingen uden at antage, at varen kan håndteres på en bestemt måde. Det kan være uhensigtsmæssigt eller umuligt at fjerne en komponent, og en buet del kan være svær at måle ensartet. Beskriv spørgsmålet først, og bekræft den tilgængelige metode. Målet er forståelig dokumentation, ikke et tilsyneladende præcist tal fra en uklar fremgangsmåde."
+          ]
+        },
+        {
+          "id": "decide-next-step",
+          "heading": "7. Træf en pasformsbeslutning med klare begrænsninger",
+          "paragraphs": [
+            "Registrér, om dokumentationen er sammenhængende, ufuldstændig eller modstridende. Sammenhængende oplysninger kan begrunde, at du går videre, men garanterer ikke komfort. Et ubesvaret spørgsmål bør føre til en konkret anmodning om afklaring frem for en optimistisk antagelse.",
+            "Hvis den modtagne variant ser forkert ud, eller størrelsesoplysningerne strider mod bestillingen, så tag problemet op hurtigt og kontrollér de relevante returvilkår. Bevar mærker, forseglinger og emballage, mens næste skridt afklares. Når størrelsen er afgjort, så vurder skoæske og pakkepakning særskilt, så et fragtønske ikke bestemmer konklusionen om pasform."
+          ]
+        }
+      ],
+      "sourceIds": [
+        "official-guide",
+        "official-returns"
+      ],
+      "related": [
+        "spreadsheet",
+        "articles/pikobuy-qc-measurements",
+        "articles/pikobuy-parcel-weight-dimensions"
+      ]
+    },
+    {
+      "slug": "pikobuy-bag-dimensions",
+      "title": "Pikobuy-tasker: Kontrollér plads, stropper og konstruktion",
+      "description": "Sammenlign Pikobuy-tasker efter brugbare åbninger, indvendige mål, stropper og synlig konstruktion med et praktisk eksempel på, hvad en taske kan rumme.",
+      "intro": "En taske kan se stor ud på et produktfoto og alligevel ikke rumme den genstand, du har brug for. Udvendig bredde, brugbar åbning og indvendig form besvarer forskellige spørgsmål. Definér, hvad tasken skal indeholde, og hvordan du vil bære den, før du vælger mellem Pikobuy-fund. Så bliver mål og kontrolbilleder nyttige uden at foregive, at de kan bevise langtidsholdbarhed eller materialesammensætning.",
+      "sections": [
+        {
+          "id": "define-contents",
+          "heading": "1. Begynd med det, der skal være plads til",
+          "paragraphs": [
+            "Oplist de genstande, du forventer at bære samtidig. Mål den største stive genstand inklusive det etui eller overtræk, du normalt bruger. En computer i et polstret sleeve kræver mere plads end den bare enhed, og en flaske kan kræve en anden indvendig højde end en flad notesbog.",
+            "Afgør, hvilke ting der er nødvendige, og hvilke der er valgfrie. Hvis tasken ikke rummer en nødvendig genstand, løser flot beslagarbejde ikke problemet. Overvej også adgang: At kunne mase noget ind er ikke det samme som at kunne tage det nemt ud i hverdagen."
+          ]
+        },
+        {
+          "id": "separate-dimensions",
+          "heading": "2. Skeln mellem ydre størrelse og brugbar plads",
+          "paragraphs": [
+            "De udvendige mål beskriver taskens samlede omfang. Polstring, sømme, ruminddelinger og afrundede hjørner kan mindske de indvendige mål. Åbningen kan være endnu smallere på grund af lukningen eller konstruktionen.",
+            "Notér, hvilken måling hver annonce giver. Kald ikke udvendig bredde for brugbar kapacitet i dine noter. For en stiv genstand skal du sammenligne åbningen og de relevante indvendige mål, også dybden når nødvendigt. Hvis annoncen kun har et dekorativt størrelsesfoto, så bed om et mål af det begrænsende område frem for at anslå centimeter fra en ukendt persons hånd eller krop."
+          ]
+        },
+        {
+          "id": "check-carrying",
+          "heading": "3. Kontrollér stropper og bæreposition",
+          "paragraphs": [
+            "En rems samlede længde og afstanden, tasken hænger under skulderen, er forskellige mål. Læs den angivne metode, og kontrollér, om justeringsintervallet dækker din ønskede bæremåde. Pladsen under hankene kan være vigtig, hvis du vil bære tasken over en frakke.",
+            "Se på remmens fastgørelse og på, om den er aftagelig eller fast, hvis det påvirker din brug. Udled ikke et justeringsinterval fra et foto af én indstilling. Hold spørgsmålet praktisk: Kan den medfølgende rem indstilles til den nødvendige længde, og beskriver oplysningerne den længde tydeligt?"
+          ]
+        },
+        {
+          "id": "inspect-details",
+          "heading": "4. Se på synlig konstruktion og medfølgende dele",
+          "paragraphs": [
+            "Brug billeder til at undersøge områder, der betyder noget for taskens funktion: sømme, fastgørelsespunkter, for, lukningens placering og åbningen. Kontrollér, om annoncerede aftagelige remme eller andet tilbehør følger med den valgte variant. Et billede et andet sted i annoncen fastslår ikke nødvendigvis indholdet af din variant.",
+            "Skeln mellem en synlig observation og en funktionspåstand. Et foto kan vise en søm eller et spænde, men ikke fastslå en sikker bærevægt eller holdbarhed ved gentagen brug. Udseendet alene identificerer heller ikke materialets sammensætning. Hvis et bestemt materiale er afgørende, så søg passende produktoplysninger og registrér kilden."
+          ]
+        },
+        {
+          "id": "capacity-example",
+          "heading": "5. Sammenlign to hypotetiske tasker",
+          "paragraphs": [
+            "Antag, at din nødvendige stive genstand er 30 cm bred og 22 cm høj. Disse opdigtede mål viser, hvorfor den største udvendige dimension ikke er nok. Ingen kandidat er en produktanbefaling, og dybde samt bærekomfort skal stadig kontrolleres særskilt.",
+            "Taske B fortjener mere undersøgelse trods sin mindre udvendige bredde. Fortolk ikke forskellen på 1 cm ved åbningen som en garanti for nem pasform: Afrundede kanter, polstring og indføringsvinklen kan stadig have betydning. En snæver pasform kræver bedre dokumentation end en grov sammenligning."
+          ],
+          "table": {
+            "headers": [
+              "Mål",
+              "Eksempeltaske A",
+              "Eksempeltaske B"
+            ],
+            "rows": [
+              [
+                "Udvendig bredde",
+                "35 cm",
+                "33 cm"
+              ],
+              [
+                "Brugbar åbningsbredde",
+                "28 cm",
+                "31 cm"
+              ],
+              [
+                "Indvendig højde",
+                "25 cm",
+                "23 cm"
+              ],
+              [
+                "Foreløbig konklusion",
+                "Åbningen er smallere end genstanden",
+                "Dybde, åbningsform og adgang bør undersøges"
+              ]
+            ]
+          }
+        },
+        {
+          "id": "plan-packing",
+          "heading": "6. Overvej facon og beskyttelse under fragt",
+          "paragraphs": [
+            "En formfast taske kan have brug for støtte mod sammenpresning, mens løse remme og små tilbehørsdele skal holdes samlet. Find de sårbare dele, og hvilken facon du forventer bevaret. Forklar kravene, når du drøfter pakning, frem for blot at bede om den mindst mulige pakke.",
+            "Hold produktbeslutningen adskilt fra fragtbeslutningen. En lav varepris afslører ikke prisen for en beskyttende pakke, og en mindre pakke er ikke automatisk egnet. Sammenlign de færdige pakkemål og tilbuddet, når de findes. Afklar et uafgjort returspørgsmål, før du beder om emballageændringer."
+          ]
+        },
+        {
+          "id": "record-bag-decision",
+          "heading": "7. Gør det ubesvarede spørgsmål tydeligt",
+          "paragraphs": [
+            "Afslut sammenligningen med en kort beslutningsnote: Egnet ud fra de tilgængelige mål, afvent et bestemt mål, eller fjern, fordi et krav ikke opfyldes. En nyttig anmodning kan spørge om den brugbare åbning med lukningen helt åben eller remmens justeringsinterval med tydeligt angivne endepunkter.",
+            "Gem kilde, valgt variant og svar sammen med kandidaten. Når din egen vare kontrolleres, så sammenlign den relevante dokumentation med registreringen. Det holder beslutningen fokuseret på, hvad tasken skal kunne, og lader ubekræftede egenskaber som langvarigt slid, bæreevne og materialets ægthed stå uden for konklusionen."
+          ]
+        }
+      ],
+      "sourceIds": [
+        "official-user-agreement",
+        "official-estimate"
+      ],
+      "related": [
+        "spreadsheet",
+        "articles/pikobuy-qc-measurements",
+        "articles/pikobuy-parcel-weight-dimensions"
+      ]
+    },
+    {
+      "slug": "pikobuy-warehouse-returns",
+      "title": "Pikobuy-retur fra lageret: Frister, dokumentation og omkostninger",
+      "description": "Forbered en Pikobuy-returanmodning med ordrestatus, relevant dokumentation og klare spørgsmål om berettigelse, frister og eventuelle gebyrer.",
+      "intro": "Et spørgsmål om returnering fra lageret er lettere at håndtere, når du identificerer ordrestadiet, bevarer varen og forklarer problemet tydeligt. Begynd hurtigt frem for at vente på en perfekt fotosamling. Denne uafhængige vejledning hjælper dig med at organisere en anmodning; den afgør ikke berettigelse, lover ikke godkendelse og erstatter ikke den aktuelle politik eller svaret for din konkrete ordre.",
+      "sections": [
+        {
+          "id": "identify-return-stage",
+          "heading": "1. Fastslå, hvor varen er",
+          "paragraphs": [
+            "Kontrollér, om sælgeren har afsendt varen, om den er på lageret, eller om den allerede er sendt i en international pakke. Notér den præcise statustekst og det viste tidspunkt. Forskellige stadier giver forskellige praktiske spørgsmål, så undgå blot at kalde enhver anmodning en tilbagebetaling.",
+            "Gem ordrereference, valgt variant og betalingsoplysninger. Hvis flere varer deler én ordre, så identificér den berørte vare præcist. En anmodning om en overdel i forkert størrelse bør ikke få supporten til at gætte på, om du mener en anden overdel i samme køb. Begræns oplysningerne til det, problemet kræver."
+          ]
+        },
+        {
+          "id": "check-clock",
+          "heading": "2. Kontrollér den aktuelle ansøgningsfrist",
+          "paragraphs": [
+            "Pikobuys returside angiver en lagerfrist på 120 timer og betinget berettigelse. Bekræft den præcise frist for din ordre i det aktuelle forløb eller hos supporten. Et skærmbillede med kun en dato er ikke nok til at beregne en nøjagtig frist.",
+            "Notér tidspunkt og tidszone fra ordreoplysningerne, og gem kvitteringen for din anmodning. Er du usikker på, om varen opfylder kravene, så spørg hurtigt frem for at antage, at et senere spørgsmål forlænger fristen. En supportsamtale dokumenterer ikke en forlængelse, medmindre den relevante proces udtrykkeligt bekræfter den. Bevar denne forskel i dine noter."
+          ]
+        },
+        {
+          "id": "preserve-condition",
+          "heading": "3. Bevar dokumentation og varens stand",
+          "paragraphs": [
+            "Hold mærker, forseglinger, emballage og tilbehør intakte, mens sagen vurderes. Bed ikke om ændringer blot for at gøre et foto tydeligere. Hvis en kontrol kræver åbning eller fjernelse af noget, så spørg om virkningen før næste skridt.",
+            "Gem kildeannoncen, den valgte variant, den relevante størrelsestabel og de billeder, der viser problemet. Notér, hvilke billeder der vedrører din egen vare. En tidligere købers foto kan illustrere din forventning, men den tydeligste anmodning sammenligner din registrerede ordre med dokumentation for det modtagne. Gem originalfilerne sammen med eventuelle forklarende markeringer."
+          ]
+        },
+        {
+          "id": "classify-issue",
+          "heading": "4. Beskriv problemet uden at overdrive",
+          "paragraphs": [
+            "Skeln mellem en forkert variant, en synlig fejl, et usikkert mål og en fortrydelse. Beskrivelserne gør det klart, hvad du beder andre vurdere. Brug observationer, du kan dokumentere, såsom at det synlige mærke afviger fra den valgte størrelse, frem for en bred påstand om, at alt er forkert.",
+            "Matricen nedenfor er et redaktionelt forberedelsesværktøj, ikke en officiel tabel over returberettigelse. Den viser, hvordan dokumentation og spørgsmål ændres med problemet."
+          ],
+          "table": {
+            "headers": [
+              "Problem",
+              "Dokumentation at samle",
+              "Spørgsmål at stille"
+            ],
+            "rows": [
+              [
+                "Forkert valgt variant",
+                "Ordrevalg og modtaget mærke",
+                "Kan denne forskel vurderes med henblik på retur?"
+              ],
+              [
+                "Synlig skade",
+                "Tydelig placering og billeder af området omkring",
+                "Hvilken dokumentation kræves for at vurdere skaden?"
+              ],
+              [
+                "Usikker pasform",
+                "Kildetabel og læsbare mål",
+                "Kan forskellen mellem målingerne afklares?"
+              ],
+              [
+                "Fortrydelse",
+                "Varestatus og bevaret stand",
+                "Er retur muligt, og hvad vil det koste?"
+              ]
+            ]
+          }
+        },
+        {
+          "id": "write-request",
+          "heading": "5. Lav en kort anmodning, der kan handles på",
+          "paragraphs": [
+            "Begynd med ordrereferencen og den berørte vare. Beskriv problemet i én eller to sætninger, og henvis derefter til de understøttende billeder. Angiv det ønskede resultat, men giv plads til den faktiske procedure og beslutningen om berettigelse.",
+            "For eksempel: Min ordre valgte den blå version, men lagermærket og billederne ser ud til at vise sort. Jeg har vedlagt den valgte variant og billeder af den modtagne vare. Bekræft venligst, om varianten er forkert, og om jeg kan anmode om retur fra lageret. Dette er et originalt formuleringseksempel, ikke et løfte om, at et bestemt resultat godkendes."
+          ]
+        },
+        {
+          "id": "confirm-costs",
+          "heading": "6. Spørg om alle omkostninger før næste skridt",
+          "paragraphs": [
+            "Returomkostninger kan påvirke, om en fortrydelsesanmodning giver praktisk mening. Bed om de enkelte poster og den samlede pris for netop din vare, inklusive eventuel fragt og servicegebyrer. Beregn ikke resultatet ud fra en anden kundes oplevelse.",
+            "Den officielle side har modstridende formuleringer om den oprindelige fragt, så få en afklaring for din ordre. Notér det oplyste beløb, hvem der gav det, og eventuelle betingelser. Hvis en forventet tilbagebetaling drøftes, så skeln mellem varebeløbet og gebyrer, der stadig kan skulle betales. Antag ikke, at hele det oprindeligt betalte beløb nødvendigvis returneres."
+          ]
+        },
+        {
+          "id": "follow-case",
+          "heading": "7. Følg sagen med en overskuelig registrering",
+          "paragraphs": [
+            "Behold en kort tidslinje over anmodning, kvitteringer, yderligere dokumentation og beslutninger. Svar i den eksisterende sag, når det er relevant, så sammenhængen bevares. Hvis supporten beder om en manglende detalje, så besvar netop spørgsmålet frem for at begynde en ny beskrivelse af hele købet.",
+            "Kontrollér før godkendelse af et trin, at det gælder den rigtige vare og den løsning, du har forstået. Gem bekræftelse på, hvad der er accepteret, og hvad der stadig afventer. En indsendt anmodning, et sælgersvar og en gennemført tilbagebetaling er forskellige begivenheder. Registrér dem hver for sig, så fremskridt ikke forveksles med afslutning."
+          ]
+        }
+      ],
+      "sourceIds": [
+        "official-returns",
+        "official-contact"
+      ],
+      "related": [
+        "qc",
+        "articles/pikobuy-qc-measurements",
+        "articles/pikobuy-haul-budget"
+      ]
+    },
+    {
+      "slug": "pikobuy-tracking-not-updating",
+      "title": "Pikobuy-sporing opdateres ikke? Kontrollér stadiet og næste skridt",
+      "description": "Undersøg manglende Pikobuy-sporingsopdateringer ved at identificere transportstadiet, læse dokumentationen og forberede en nyttig supportanmodning.",
+      "intro": "Når Pikobuy-sporing virker stille, skal du først fastslå, hvilken transport du følger. Sælgerens levering til lageret og den senere internationale pakke er separate stadier. Ordreoplysninger, pakkereference og transportørens sporingsnummer kan også besvare forskellige spørgsmål. Et nyttigt næste skridt afhænger af den seneste bekræftede begivenhed, ikke af antallet af dage siden den første betaling for en vare.",
+      "sections": [
+        {
+          "id": "identify-shipment",
+          "heading": "1. Identificér den transport, du følger",
+          "paragraphs": [
+            "Skriv ned, om du venter på sælgerens afsendelse, lagerbehandling eller en international pakke. Gem den relevante reference ved stadiet. Antag ikke, at et nummer knyttet til én transport følger den næste.",
+            "Hvis du har flere produkter, så skeln mellem en enkelt vares fremdrift og en pakke med flere varer. Én sælgers afsendelse fastslår ikke, at hele indholdet i din planlagte pakke er klar. Brug de faktiske ordre- og pakkeoplysninger til at forstå, hvad der er indsendt, frem for at genskabe processen fra hukommelsen."
+          ]
+        },
+        {
+          "id": "locate-dispatch",
+          "heading": "2. Find den internationale afsendelse",
+          "paragraphs": [
+            "Pikobuys vejledning placerer udsagnet om tre dage til sporingsoplysninger efter pakkens afsendelse. Udgangspunktet betyder noget. Varebetaling, lagerankomst og indsendelse af pakken er ikke automatisk den samme begivenhed som international afsendelse.",
+            "Kontrollér den registrerede afsendelsesdato, før du sammenligner din situation med vejledningen. Hvis registreringen ikke tydeligt fastslår, at afsendelse er sket, så bed om afklaring frem for at tolke en manglende scanning som en transportørforsinkelse. Gem svaret ved pakken. Udsagnet handler om tilgængelig sporing; det garanterer ikke en ankomstdato og diagnosticerer ikke årsagen til en konkret pause."
+          ]
+        },
+        {
+          "id": "read-event-type",
+          "heading": "3. Læs, hvad den seneste begivenhed faktisk siger",
+          "paragraphs": [
+            "En registrering af, at en etiket eller forsendelsesoplysninger findes, er forskellig fra dokumentation for, at en transportør fysisk har modtaget pakken. Senere hændelser kan beskrive behandling, overdragelse, leveringsforsøg eller andet. Læs hele hændelsesteksten og tidsstemplet frem for kun at følge en farvet statusbjælke.",
+            "Fortolk ikke ukendt statustekst som en stærkere påstand, end den støtter. Nævner hændelsen en partner eller en anden transportør, så notér det og kontrollér, om en relevant reference er angivet. Antag ikke, at en generel internetordliste definerer den præcise betydning af hver meddelelse om din forsendelse."
+          ]
+        },
+        {
+          "id": "build-timeline",
+          "heading": "4. Lav en kort tidslinje over dokumentationen",
+          "paragraphs": [
+            "En enkel log hjælper dig med at skelne en uændret hændelse fra en ny med lignende ordlyd. Kopiér teksten nøjagtigt, behold det viste tidspunkt, og notér kilden. Følgende er et hypotetisk registreringsformat, ikke en virkelig pakkehistorik eller en officiel statusordbog."
+          ],
+          "table": {
+            "headers": [
+              "Hændelse i et eksempel",
+              "Hvad du kan konkludere",
+              "Hvad der stadig er ukendt"
+            ],
+            "rows": [
+              [
+                "Pakkeindsendelse registreret",
+                "En indsendelseshandling er synlig",
+                "Om afsendelse har fundet sted"
+              ],
+              [
+                "Afsendelse registreret",
+                "Platformen oplyser afsendelse",
+                "Om en transportørscanning er synlig"
+              ],
+              [
+                "Forsendelsesoplysninger modtaget",
+                "Elektroniske oplysninger er registreret",
+                "Om fysisk modtagelse er bekræftet"
+              ],
+              [
+                "Transportørens modtagelse registreret",
+                "En modtagelseshændelse er synlig",
+                "Den endelige leveringsdato"
+              ],
+              [
+                "Leveringsafvigelse registreret",
+                "Et problem kræver fortolkning",
+                "Årsagen og den nødvendige handling, indtil det er afklaret"
+              ]
+            ]
+          }
+        },
+        {
+          "id": "choose-next-action",
+          "heading": "5. Vælg en handling efter den manglende dokumentation",
+          "paragraphs": [
+            "Hvis der ikke er en international pakkereference, så begynd i platformens registrering. Er afsendelse registreret, men sporingen ikke dukket op inden for den offentliggjorte vejledning, så spørg Pikobuy om pakken. Findes en transportørhændelse, som ikke længere ændrer sig, så gem den sidste bekræftede hændelse og kontrollér de relevante serviceoplysninger.",
+            "Ved en adresse- eller leveringsafvigelse skal du læse en eventuel handlingsanmodning grundigt og bekræfte den gennem den legitime transportør- eller platformskanal. En stille sporingsperiode beviser ikke i sig selv tab, og et beroligende overslag beviser ikke fremdrift. Hold spørgsmålet fokuseret på, hvilken dokumentation eller handling der mangler."
+          ]
+        },
+        {
+          "id": "prepare-ticket",
+          "heading": "6. Send supporten de nyttige oplysninger",
+          "paragraphs": [
+            "Medtag pakkereference, afsendelsesdato hvis vist, transportør og sporingsnummer samt den seneste hændelse med tidsstempel. Tilføj et skærmbillede, hvis det bevarer ordlyd, der kan ændre sig. Angiv det spørgsmål, du ønsker besvaret, for eksempel om overdragelse til transportøren er bekræftet.",
+            "Et kort eksempel: Pakken viser afsendelse på den registrerede dato, men jeg kan ikke finde en modtagelseshændelse hos transportøren. Den aktuelle sporingstekst er vedlagt. Bekræft venligst den sidste verificerede bevægelse, og om jeg skal gøre noget. Brug Pikobuys officielle kontaktside til den rette supportkanal; dette uafhængige websted kan ikke se din private forsendelse."
+          ]
+        },
+        {
+          "id": "close-record",
+          "heading": "7. Behold registreringen frem til levering",
+          "paragraphs": [
+            "Opdatér loggen, når en væsentlig hændelse kommer, og undgå at opfatte gentagne besøg på samme side som ny dokumentation. Gem instruktioner eller svar, der ændrer den forventede næste handling. Hvis din sag får en frist eller et eskalationstrin, så registrér det udtrykkeligt.",
+            "Når pakken ankommer, så sammenlign indholdet med varelisten og den gemte kontrolregistrering. Behold relevant emballage og mærker, mens eventuelle forskelle afklares. Afsluttet sporing og en tilfredsstillende indholdskontrol er separate observationer. En klar registrering hjælper dig med at forklare enten et leveringsproblem eller et vareproblem uden at blande dem sammen."
+          ]
+        }
+      ],
+      "sourceIds": [
+        "official-guide",
+        "official-contact"
+      ],
+      "related": [
+        "shipping",
+        "guide",
+        "faq"
+      ]
+    }
+  ]
+}

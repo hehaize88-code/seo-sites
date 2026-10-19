@@ -1,0 +1,1254 @@
+{
+  "ui": {
+    "articles": "Raksti",
+    "faq": "Biežākie jautājumi",
+    "articlesTitle": "Praktiski Pikobuy ceļveži",
+    "articlesIntro": "Praktiski ceļveži preču izvēlei, detaļu pārbaudei, izmaksu plānošanai un piegādes organizēšanai.",
+    "faqTitle": "Atbildes uz jūsu jautājumiem par Pikobuy",
+    "faqIntro": "Atbildes uz 24 jautājumiem, balstoties uz Pikobuy oficiālajām lapām.",
+    "toc": "Šajā lapā",
+    "sources": "Avoti",
+    "checked": "Pārbaudīts",
+    "byline": "PikobuySheet",
+    "readArticle": "Lasīt rakstu",
+    "related": "Saistītie raksti",
+    "allArticles": "Visi raksti",
+    "latestArticles": "Jaunākie raksti",
+    "articleCount": "10 praktiski ceļveži",
+    "sourceLink": "Oficiālais avots"
+  },
+  "faq": [
+    {
+      "id": "what-is-pikobuy",
+      "question": "Ko dara Pikobuy?",
+      "answer": "Pikobuy palīdz lietotājiem atrast preces Ķīnā, iegādāties tās no pārdevējiem, saņemt savā noliktavā un organizēt starptautisku piegādi. Sākumlapa šīs darbības apraksta kā atsevišķus pakalpojuma posmus.",
+      "sourceIds": [
+        "official-home"
+      ]
+    },
+    {
+      "id": "supported-marketplaces",
+      "question": "Kuras tirdzniecības platformas minētas ceļvedī?",
+      "answer": "Oficiālajā ceļvedī minētas Taobao, Tmall, 1688, Weidian un Yupoo. Pirms pirkuma pieprasījuma iesniegšanas pārbaudiet precīzo preci, izmēru un krāsu.",
+      "sourceIds": [
+        "official-guide"
+      ]
+    },
+    {
+      "id": "finding-products",
+      "question": "Kā lūgt Pikobuy atrast preci?",
+      "answer": "Pikobuy sākumlapa apraksta tiešu meklēšanu un preču saišu, attēlu vai preču atrašanas pieprasījumu iesniegšanu. Tie ir paša Pikobuy pakalpojumi; tie neapstiprina meklēšanu pēc attēla šajā neatkarīgajā katalogā.",
+      "sourceIds": [
+        "official-home"
+      ]
+    },
+    {
+      "id": "two-payments",
+      "question": "Kāpēc pirkums un piegāde jāmaksā atsevišķi?",
+      "answer": "Ceļvedī pirkuma apmaksa paredzēta pirms pārbaudes noliktavā. Vēlāk izvēlaties piegādes maršrutu, iesniedzat sūtījumu nosūtīšanai un samaksājat par starptautisko piegādi.",
+      "sourceIds": [
+        "official-guide"
+      ]
+    },
+    {
+      "id": "payment-options",
+      "question": "Kādus maksāšanas veidus varu izmantot?",
+      "answer": "Pikobuy reklamē vairākas valūtas un rāda karšu un digitālo maku logotipus, tostarp Visa, Mastercard, Klarna, Google Pay un Apple Pay. Pirms maksāšanas pārbaudiet faktiski pieejamos veidus, valūtas un kopējo summu norēķinu lapā.",
+      "sourceIds": [
+        "official-about"
+      ]
+    },
+    {
+      "id": "failed-payment",
+      "question": "Vai pasūtījumu apstrādās, ja maksājums neizdosies?",
+      "answer": "Pikobuy noteikumi paredz, ka neveiksmīga maksājuma gadījumā pasūtījums netiek apstrādāts. Pārbaudiet maksājuma rezultātu savā kontā un sazinieties ar oficiālo atbalstu, ja darījuma statuss joprojām nav skaidrs.",
+      "sourceIds": [
+        "official-terms"
+      ]
+    },
+    {
+      "id": "warehouse-inspection",
+      "question": "Kas notiek, kad prece nonāk noliktavā?",
+      "answer": "Ceļvedis apraksta saņemšanas reģistrēšanu, apstiprinājumu ar fotoattēliem un defektu pārbaudi. Pirms lēmuma, kuras preces nosūtīt, pārskatiet sava pasūtījuma datus.",
+      "sourceIds": [
+        "official-guide"
+      ]
+    },
+    {
+      "id": "qc-limits",
+      "question": "Vai pārbaudes fotoattēli garantē autentiskumu vai darbību?",
+      "answer": "Nē. Lietotāja līgums skaidro, ka dažiem izstrādājumiem nav iespējama profesionāla kvalitātes vai autentiskuma pārbaude. Tā var aprobežoties ar ārējo stāvokli un piederumiem. Fotoattēli ir noderīgi, bet nav vispārēja preces garantija.",
+      "sourceIds": [
+        "official-user-agreement"
+      ]
+    },
+    {
+      "id": "detailed-photos",
+      "question": "Vai varu pieprasīt detalizētākus pārbaudes fotoattēlus?",
+      "answer": "Pārsūtīšanas noteikumi paredz, ka klienti var apskatīt Pikobuy pārbaudes fotoattēlus vai iegādāties papildu detalizētus attēlus. Pikobuy pārbaudiet pieejamo fotografēšanas pakalpojumu un cenu konkrētajai precei.",
+      "sourceIds": [
+        "official-shipping"
+      ]
+    },
+    {
+      "id": "packaging",
+      "question": "Vai varu pieprasīt citādu iepakojumu?",
+      "answer": "Iepirkšanās ceļvedis min pieprasījumus minimālam vai pastiprinātam iepakojumam. Norādiet savas vajadzības un apstipriniet pieejamos sagatavošanas variantus, pirms piesakāt sūtījuma nosūtīšanu.",
+      "sourceIds": [
+        "official-guide"
+      ]
+    },
+    {
+      "id": "consolidation",
+      "question": "Vai dažādu pārdevēju preces var ievietot vienā sūtījumā?",
+      "answer": "Pikobuy kontaktu lapa norāda, ka dažādu pārdevēju preces var apvienot vienā sūtījumā ar vienu piegādes maksu. Salīdziniet iegūto piedāvājumu; tas negarantē ietaupījumu katram pasūtījumam.",
+      "sourceIds": [
+        "official-contact"
+      ]
+    },
+    {
+      "id": "storage",
+      "question": "Cik ilgi manas preces var glabāties noliktavā?",
+      "answer": "Pārsūtīšanas noteikumi apstiprina glabāšanu pēc saņemšanas, bet nenosaka vispārēju bezmaksas periodu vai termiņu. Pirms gaidāt, pārbaudiet aktuālos nosacījumus savām precēm Pikobuy vai jautājiet oficiālajam atbalstam.",
+      "sourceIds": [
+        "official-shipping"
+      ]
+    },
+    {
+      "id": "shipping-estimate",
+      "question": "Kas vajadzīgs piegādes izmaksu aprēķinam?",
+      "answer": "Pikobuy kalkulators pieprasa galamērķi, preces veidu, svaru, garumu, platumu un augstumu. Izmantojiet iespējami precīzus datus un pirms maksāšanas pārbaudiet galīgo sūtījuma piedāvājumu; preces cena nav piegādes piedāvājums.",
+      "sourceIds": [
+        "official-estimate"
+      ]
+    },
+    {
+      "id": "delivery-choice",
+      "question": "Kuru piegādes maršrutu izvēlēties?",
+      "answer": "Pikobuy reklamē vairākus piegādes kanālus un maršrutu kombinācijas. Salīdziniet pašlaik pieejamos variantus savam galamērķim un sūtījumam. Publiskā informācijas lapa nenosaka vienmēr lētāko maršrutu un negarantē saņemšanas datumu.",
+      "sourceIds": [
+        "official-about"
+      ]
+    },
+    {
+      "id": "tracking",
+      "question": "Kad vajadzētu parādīties izsekošanas informācijai?",
+      "answer": "Iepirkšanās ceļvedis norāda, ka izsekošana kļūst pieejama trīs dienu laikā pēc nosūtīšanas. Uztveriet to kā publicētu norādi un sazinieties ar Pikobuy, ja atjauninājums kavējas.",
+      "sourceIds": [
+        "official-guide"
+      ]
+    },
+    {
+      "id": "taxes",
+      "question": "Vai papildus pasūtījumam un piegādei var būt citas izmaksas?",
+      "answer": "Jā. Pikobuy noteikumi norāda, ka starptautiskiem pasūtījumiem var piemērot muitas nodokļus, citus nodokļus, muitošanas maksas vai citas klienta sedzamas izmaksas. Pirms pirkuma pārbaudiet galamērķa prasības un izvēlētās piegādes noteikumus.",
+      "sourceIds": [
+        "official-terms"
+      ]
+    },
+    {
+      "id": "forwarding",
+      "question": "Vai varu pārsūtīt patstāvīgi iegādātas preces?",
+      "answer": "Noteikumi apraksta noliktavas adreses saņemšanu no atbalsta vai pārsūtīšanas veidlapas, nepieciešamo datu iesniegšanu un saņemšanas un fotoattēlu gaidīšanu. Pēc tam piesakāt sūtījumu un apmaksājat piegādi Pikobuy.",
+      "sourceIds": [
+        "official-shipping"
+      ]
+    },
+    {
+      "id": "forwarded-after-sales",
+      "question": "Kas nodrošina pēcpārdošanas atbalstu pārsūtītām precēm?",
+      "answer": "Par pārsūtītu preču pēcpārdošanas jautājumiem Pikobuy iesaka vērsties pie nosūtītāja vai pārdevēja. Noteikumi paredz palīdzību preču nosūtīšanā atpakaļ, bet ne pašas preces pēcpārdošanas apkalpošanu.",
+      "sourceIds": [
+        "official-shipping"
+      ]
+    },
+    {
+      "id": "return-deadline",
+      "question": "Kad jāpieprasa atgriešana no noliktavas?",
+      "answer": "Atgriešanas politika nosaka 120 stundas, skaitot no stundas pēc statusa maiņas uz In Warehouse (noliktavā). Iesniedziet pieprasījumu savlaicīgi; apstiprināšana joprojām atkarīga no atbilstības nosacījumiem.",
+      "sourceIds": [
+        "official-returns"
+      ]
+    },
+    {
+      "id": "return-eligibility",
+      "question": "Vai var atgriezt jebkuru preci?",
+      "answer": "Nē. Nozīme ir pārdevēja dalībai, tālākpārdošanai piemērotam stāvoklim un termiņam. Personalizētām precēm, mainītam iepakojumam un noteiktām kategorijām ir ierobežojumi. Pārbaudiet atbilstību pirms pasūtīšanas vai etiķešu noņemšanas.",
+      "sourceIds": [
+        "official-returns"
+      ]
+    },
+    {
+      "id": "return-costs",
+      "question": "Vai atgriešana vienmēr ir bez maksas?",
+      "answer": "Nē. Politika paredz piegādes un pakalpojuma maksas atgriešanai pēc klienta izvēles. Jautājiet atbalstam sava pasūtījuma precīzo kopējo summu, jo publicētā informācija par piegādes maksām ir pretrunīga.",
+      "sourceIds": [
+        "official-returns"
+      ]
+    },
+    {
+      "id": "wrong-or-damaged-item",
+      "question": "Ko darīt, ja pārdevējs nosūta nepareizo preci?",
+      "answer": "Nekavējoties ziņojiet par neatbilstību Pikobuy. Politika nošķir pārdevēja kļūdas un kvalitātes problēmas no atgriešanas pēc klienta izvēles, taču iznākumu ietekmē pārdevēja piekrišana un konkrētie apstākļi.",
+      "sourceIds": [
+        "official-returns"
+      ]
+    },
+    {
+      "id": "not-shipped-cancellation",
+      "question": "Vai par atgriešanas pieprasījumu statusā Not Shipped ir jāmaksā?",
+      "answer": "Atgriešanas jautājumu sadaļa norāda, ka atgriešanas maksu neiekasē, ja pasūtījums vēl nav nosūtīts. Pirms pieprasījuma pārbaudiet pašreizējo statusu.",
+      "sourceIds": [
+        "official-returns"
+      ]
+    },
+    {
+      "id": "official-support",
+      "question": "Kur jautāt par pasūtījumu, maksājumu vai sūtījumu?",
+      "answer": "Izmantojiet Pikobuy oficiālo kontaktu lapu, kas iesaka iesniegt atbalsta pieprasījumu un norāda saziņas kanālus. Šis neatkarīgais katalogs nevar piekļūt jūsu Pikobuy kontam, mainīt pasūtījumu vai atrisināt maksājumu jūsu vārdā.",
+      "sourceIds": [
+        "official-contact"
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "slug": "pikobuy-spreadsheet-checklist",
+      "title": "Pikobuy Spreadsheet kontrolsaraksts: salīdzini atradumus pirms pasūtīšanas",
+      "description": "Izmanto praktisku Pikobuy Spreadsheet kontrolsarakstu, lai salīdzinātu avota saites, variantus, fotoattēlus un budžetu un izlemtu, kuras preces pētīt tālāk.",
+      "intro": "Pikobuy spreadsheet kļūst noderīga tad, kad tā palīdz pieņemt lēmumu. Garš saglabāto preču saraksts var slēpt nenoskaidrotus izmērus, novecojušas saites un vēl neapsvērtas izmaksas. Šī kontrolsaraksta mērķis ir pārvērst vairākus interesantus atradumus nelielā, pamatotā izlasē. Glabā aktuālo preces piedāvājumu atsevišķi no savām piezīmēm un pirms naudas tērēšanas katram kandidātam nosaki skaidru nākamo darbību.",
+      "sections": [
+        {
+          "id": "define-the-job",
+          "heading": "1. Nosaki, kādam nolūkam pirkums vajadzīgs",
+          "paragraphs": [
+            "Sāc ar situāciju, kurā preci lietosi. Somai klēpjdatoram ir citas prasības nekā mazai vakara somai. Hūdijam, ko vilksi virs citām drēbēm, vajadzīgs citāds piegriezums nekā tādam, ko valkāsi zem piegulošas jakas. Vienā teikumā apraksti preces uzdevumu un nosaki divas vai trīs prasības, no kurām nevari atteikties.",
+            "Pirms preču cenu apskates nosaki kopējo tēriņu robežu. Atstāj vietu izmaksām, kuras vēl jāaprēķina. Precei, kas patīk, bet neatbilst praktiskajai vajadzībai, nevajadzētu palikt izlasē tikai tāpēc, ka tās sīktēls ir pievilcīgs."
+          ]
+        },
+        {
+          "id": "build-a-record",
+          "heading": "2. Saglabā katra kandidāta identifikācijas datus",
+          "paragraphs": [
+            "Pieraksti sākotnējo URL, pārdevēja vai veikala atsauci, precīzo variantu, norādīto cenu un pārbaudes datumu. Kopā ar šiem datiem saglabā izmēru tabulu vai svarīgo specifikāciju. Spreadsheet rindas nosaukums bieži ir īsāks par pilno piedāvājumu un var neietvert variantu, no kura atkarīga cena.",
+            "Pievieno īsu piezīmi, kāpēc preci saglabāji. Piemēram, kandidātam var būt vajadzīgais atveres platums vai pareizais piedurknes garums. Ja nevari izskaidrot, kas preci padara piemērotu, atgriezies pie sākotnējās prasības, nevis pievieno vēl gandrīz vienādas rindas."
+          ]
+        },
+        {
+          "id": "separate-evidence",
+          "heading": "3. Noskaidro, ko katrs attēls patiesībā parāda",
+          "paragraphs": [
+            "Pārdevēja attēls rāda, kā prece tiek prezentēta. Iepriekšēja pircēja fotoattēls var attiekties uz agrāku pasūtījumu. Tavi noliktavas fotoattēli attiecas uz preci, kas saņemta tavam pasūtījumam. Nošķir šos pierādījumu veidus: to lietderība ir atkarīga no jautājuma, uz kuru meklē atbildi.",
+            "Agrāks fotoattēls var palīdzēt noteikt, kuru detaļu pārbaudīt, bet tas nepierāda nākamā pirkuma stāvokli. Tāpat pievilcīgs preces attēls neatbild uz neskaidru jautājumu par izmēriem. Pieraksti neatbildēto jautājumu blakus attēlam, nevis uzskati, ka pats fotoattēla esamības fakts nozīmē pabeigtu pārbaudi."
+          ]
+        },
+        {
+          "id": "apply-hard-stops",
+          "heading": "4. Noskaidro būtisko pirms vēlmju salīdzināšanas",
+          "paragraphs": [
+            "Pārbaudi prasības, kuru dēļ pirkums varētu būt nepiemērots: preces identitāti, pieejamo variantu, svarīgos izmērus un izpildāmu kopējo budžetu. Ja avota saite atver citu preci vai izvēlētajam izmēram nav saprotamas tabulas, atliec šo rindu.",
+            "Tikai pēc šīm pārbaudēm salīdzini vēlmes. Krāsa, apdare un stils var palīdzēt izvēlēties starp piemērotiem kandidātiem, taču tie nekompensē klēpjdatoram pārāk šauru atveri. Izvairies no punktu sistēmas, kurā vairākas pievilcīgas īpašības atsver vienas būtiskas prasības neizpildi. Vienkāršs lēmums atlikt bieži ir skaidrāks par maldinoši precīzu skaitlisku vērtējumu."
+          ]
+        },
+        {
+          "id": "compare-example",
+          "heading": "5. Salīdzini trīs izdomātus atradumus",
+          "paragraphs": [
+            "Šajā piemērā aplūkota soma, kurā jāievieto 30 cm plats, stingrs priekšmets. Vērtības ir izdomātas, lai parādītu metodi, un nav ņemtas no aktuālām precēm. Ievēro, ka zemākā norādītā cena nenosaka, kura rinda pelna uzmanību."
+          ],
+          "table": {
+            "headers": [
+              "Kandidāts",
+              "Pieejamā informācija",
+              "Lēmums un nākamā darbība"
+            ],
+            "rows": [
+              [
+                "A",
+                "Dokumentētais atveres platums ir 28 cm",
+                "Izslēgt: būtiskā prasība nav izpildīta"
+              ],
+              [
+                "B",
+                "Ārējais platums ir 34 cm; atveres platums nav zināms",
+                "Atlikt: pieprasīt atveres lietderīgo platumu"
+              ],
+              [
+                "C",
+                "Dokumentētais atveres platums ir 32 cm; budžets nav pabeigts",
+                "Paturēt izpētei: pabeigt kopējo izmaksu aprēķinu"
+              ]
+            ]
+          }
+        },
+        {
+          "id": "make-next-action",
+          "heading": "6. Katrai saglabātajai rindai nosaki vienu nākamo darbību",
+          "paragraphs": [
+            "Izmanto paturēt, atlikt un izslēgt kā izpētes atzīmes. Paturēt nozīmē, ka pieejamā informācija pamato nākamo soli; tas nenozīmē, ka prece ir pārbaudīta vai apstiprināta. Atlikt nozīmē, ka viena atbilde var mainīt lēmumu. Izslēgt nozīmē, ka prasība nav izpildīta vai trūkstošo informāciju vairs nav vērts meklēt.",
+            "Formulē darbību pietiekami konkrēti, lai to varētu pabeigt. Pieprasīt atveres lietderīgo platumu ir noderīgāk nekā pārbaudīt kvalitāti. Salīdzināt izvēlētā varianta cenu ir noderīgāk nekā vēlreiz apskatīt piedāvājumu. Atliktajiem kandidātiem norādi pārskatīšanas datumu, lai vieni un tie paši neatrisinātie jautājumi nekrātos bezgalīgi."
+          ]
+        },
+        {
+          "id": "recheck-before-payment",
+          "heading": "7. Pārbaudi izlasi vēlreiz pirms maksāšanas",
+          "paragraphs": [
+            "Kad esi gatavs turpināt, vēlreiz atver aktuālo piedāvājumu. Pārliecinies, ka izvēlētais variants, daudzums un cenas pamats joprojām atbilst saglabātajiem datiem. Pārskati netieši saņemtās ziņas par izmēriem vai pieejamību un saglabā pierādījumus, kurus patiešām izmantoji.",
+            "Pēc tam sāc pasūtīšanas procesu ar īsu, sakārtotu ierakstu, nevis savstarpēji nesaistītu ekrānattēlu mapi. Kad kļūst pieejami noliktavas attēli, salīdzini tos ar šo ierakstu. Tā pati izlase tagad palīdz pārbaudīt, ko biji iecerējis pasūtīt, kuras detaļas vēl nav noskaidrotas un ko jautāt tālāk."
+          ]
+        }
+      ],
+      "sourceIds": [
+        "official-guide"
+      ],
+      "related": [
+        "spreadsheet",
+        "articles/pikobuy-product-links",
+        "articles/pikobuy-haul-budget"
+      ]
+    },
+    {
+      "slug": "pikobuy-clothing-size-chart",
+      "title": "Pikobuy apģērbu izmēru tabulas: izmēri pirms izvēles",
+      "description": "Izproti Pikobuy apģērbu izmēru tabulas, izmantojot salīdzināmu apģērbu, vienādus mērīšanas punktus un skaidras mērvienības, kā arī praktisku piemēru.",
+      "intro": "Pazīstams izmēra burts nav pietiekams, lai izvēlētos apģērbu starp Pikobuy atradumiem. Noderīgs salīdzinājums ir starp mērījumiem, kas apraksta vienu un to pašu: to pašu apģērba daļu, tās pašas mērvienības un līdzīgu metodi. Šī rokasgrāmata palīdz izveidot šādu salīdzinājumu, izmantojot jau esošas drēbes. Tā nepieņem, ka visi pārdevēji lieto vienu izmēru sistēmu vai ka lielāka burta izvēle atrisina neskaidru tabulu.",
+      "sections": [
+        {
+          "id": "identify-chart-type",
+          "heading": "1. Noskaidro, ko tabula mēra",
+          "paragraphs": [
+            "Pirms skaitļu interpretēšanas izlasi apzīmējumus. Tabula var aprakstīt gatavu apģērbu, ieteicamo ķermeņa izmēru diapazonu vai norāžu un preces mērījumu apvienojumu. Tie ir atšķirīgi atskaites punkti. Apģērba krūšu mērījumā ietilpst piegriezumā paredzētā brīvā vieta; ķermeņa mērījums raksturo valkātāju.",
+            "Saglabā tabulu kopā ar precīzo preci un izvēlēto versiju. Ja piedāvājumā ir dažādi piegriezumi vai stili, nepieņem, ka viena tabula attiecas uz visiem. Ja mērījuma veids nav skaidrs, prasi precizējumu, pirms mēģini no vērtībām izsecināt piemērotu izmēru."
+          ]
+        },
+        {
+          "id": "choose-reference",
+          "heading": "2. Izvēlies noderīgu apģērbu salīdzināšanai",
+          "paragraphs": [
+            "Izvēlies apģērbu, kas pieguļ tā, kā vēlies, lai piegulētu jaunais pirkums. Salīdzini brīvu hūdiju ar brīvu hūdiju, nevis izmanto piegulošu T kreklu kā vienīgo atskaites punktu. Ņem vērā audumu, plecu konstrukciju un to, vai zem tā vilksi citus slāņus.",
+            "Izklāj salīdzināmo apģērbu līdzeni, to nestiepjot. Pats pieraksti mērījumus un saglabā fotoattēlu, kur redzami abi mērījuma galapunkti. Tu veido atkārtojamu salīdzinājumu, tādēļ rūpīga piezīme ir vērtīgāka par atmiņu, ka kāda zīmola drēbes parasti der. Izmanto ierakstu atkārtoti tikai tad, ja nākamā prece tiešām ir salīdzināma."
+          ]
+        },
+        {
+          "id": "match-endpoints",
+          "heading": "3. Saskaņo mērīšanas punktus",
+          "paragraphs": [
+            "Augšdaļas apģērbam noderīgi var būt krūšu platums līdzeni izklātā veidā, pamatdaļas garums, plecu platums un piedurknes garums. Biksēm var būt svarīgs viduklis, stakles augstums, gurni, augšstilbs un iekšstaras garums. Piemērotā izvēle atkarīga no pieguluma problēmas, kuru centies novērst.",
+            "Pārbaudi, kā definēta katra dimensija. Piedurknes garums no pleca vīles nav savstarpēji aizvietojams ar mērījumu no kakla. Arī izliekta jostasvieta un elastīga jostasvieta prasa saprotamu mērīšanas metodi. Ja pārdevējs izmanto citu galapunktu nekā tavā salīdzinājumā, izmēri apģērbu vēlreiz ar šo galapunktu, nevis salīdzini nesaderīgus skaitļus."
+          ]
+        },
+        {
+          "id": "handle-units",
+          "heading": "4. Nošķir platumu, apkārtmēru un mērvienības",
+          "paragraphs": [
+            "Platums līdzeni izklātā veidā tiek mērīts pāri vienai apģērba pusei. Apkārtmērs raksturo attālumu tam visapkārt. Sajaucot abus, var rasties liela šķietama neatbilstība. Vienkāršā aritmētiskā piemērā 58 cm plata mērījuma dubultošana dod 116 cm; vai šāds salīdzinājums ir piemērots, joprojām atkarīgs no apģērba un tabulas metodes.",
+            "Izmanto vienu mērvienību savā mērījumu lapā un blakus pārrēķiniem saglabā sākotnējos skaitļus. Neizsecini nenorādītu pielaidi. Pārdevēja norādītā mērījumu pielaide, ja tāda ir, sniedz papildu kontekstu; tā automātiski neizskaidro katru atšķirību starp tabulu un noliktavas fotoattēlu."
+          ]
+        },
+        {
+          "id": "worked-comparison",
+          "heading": "5. Salīdzini divus izdomātus hūdija izmērus",
+          "paragraphs": [
+            "Pieņemsim, ka tavs salīdzināmais hūdijs ir 58 cm plats krūšu daļā un tā pamatdaļas garums ir 68 cm. Tālāk redzamā izdomātā tabula parāda, kāpēc viens izmēra burts nevar izšķirt lēmumu. Abas dimensijas ir svarīgas, un vēlamais rezultāts ir atkarīgs no tā, kuru izmaiņu vari pieņemt."
+          ],
+          "table": {
+            "headers": [
+              "Mērījums",
+              "Salīdzināmais apģērbs",
+              "Piemēra M izmērs",
+              "Piemēra L izmērs"
+            ],
+            "rows": [
+              [
+                "Krūšu platums līdzeni izklātā veidā",
+                "58 cm",
+                "57 cm",
+                "60 cm"
+              ],
+              [
+                "Pamatdaļas garums",
+                "68 cm",
+                "66 cm",
+                "69 cm"
+              ],
+              [
+                "Kas jāizpēta",
+                "Zināms vēlamais piegulums",
+                "Šaurāks un īsāks",
+                "Platāks un nedaudz garāks"
+              ]
+            ]
+          },
+          "list": [
+            "Pirms izvēlies kādu no variantiem, pārbaudi piedurkņu mērījumus.",
+            "Pārliecinies, ka visi pamatdaļas garuma mērījumi izmanto vienus un tos pašus punktus.",
+            "Uztver tabulu kā salīdzināšanas uzdevumu, nevis izmēra ieteikumu."
+          ]
+        },
+        {
+          "id": "allow-for-use",
+          "heading": "6. Ņem vērā, kā apģērbu valkāsi",
+          "paragraphs": [
+            "Mērījumu sakritība ir noderīga, bet tā neatveido apģērba sajūtu. Auduma elastība, stingrība, odere un piegriezums var mainīt to, kā uzvedas vienādas dimensijas. Padomā par kustībām un slāņiem, ko vēlies valkāt, un nosaki, kuri mērījumi šīs vajadzības ietekmē.",
+            "Izvairies automātiski pievienot vienādu rezervi katrai dimensijai. Lielāks platums var palīdzēt valkāt vairākus slāņus, bet garāka piedurkne var kļūt neērta. Ja tabulā nav atbildes par būtisku dimensiju, pieprasi šo mērījumu, nevis paļaujies uz vispārīgu ieteikumu izvēlēties vienu izmēru lielāku. Mērķis ir samazināt konkrētu nenoteiktību, nevis radīt šķietamu precizitāti."
+          ]
+        },
+        {
+          "id": "confirm-selected-size",
+          "heading": "7. Saglabā lēmuma pamatojumu un pārbaudi variantu",
+          "paragraphs": [
+            "Pirms maksāšanas saglabā precīzo varianta apzīmējumu un izmantoto tabulu. Pievieno īsu lēmuma skaidrojumu, piemēram, atbilstību salīdzināmā apģērba krūšu platumam, pieņemot īsāku pamatdaļu. Šī piezīme dod skaidru pamatu vēlākai pārbaudei.",
+            "Ja pieprasi mērījumu noliktavā, norādi dimensiju, galapunktus un mērvienību. Salasāmam lineālam jāsākas paredzētajā punktā un jābūt redzamam visā mērījuma garumā. Ja attēli ir pretrunā tabulai, apstājies un noskaidro atšķirību, kamēr vēl var apsvērt pieejamu atgriešanas procedūru. Fotoattēls var palīdzēt pārbaudīt izmēru, bet tas negarantē komfortu."
+          ]
+        }
+      ],
+      "sourceIds": [
+        "official-guide",
+        "official-returns"
+      ],
+      "related": [
+        "spreadsheet",
+        "articles/pikobuy-qc-measurements",
+        "articles/pikobuy-shoe-sizing"
+      ]
+    },
+    {
+      "slug": "pikobuy-product-links",
+      "title": "Pikobuy preču saites: pārbaudi avotus un novērs neatbilstības",
+      "description": "Salīdzini Pikobuy preču saites ar sākotnējiem piedāvājumiem, pārbaudi variantus pēc importēšanas un izmanto skaidru rīcības secību, ja prece neielādējas.",
+      "intro": "Preces saitei jāidentificē vairāk nekā pievilcīgs attēls. Tai jāved uz paredzēto piedāvājumu un variantu, ko vēlies pasūtīt. Kopīgojot, saīsinot vai pārveidojot saiti, šis konteksts var kļūt grūtāk saskatāms. Šī rokasgrāmata piedāvā praktisku veidu, kā saglabāt sākotnējos datus, salīdzināt importēto rezultātu un izlemt, kā rīkoties, ja Pikobuy preces saite neatver gaidīto rezultātu.",
+      "sections": [
+        {
+          "id": "save-source-record",
+          "heading": "1. Saglabā sākotnējā piedāvājuma datus",
+          "paragraphs": [
+            "Pirms izmanto kopīgotu starpnieka saiti, saglabā preces sākotnējo URL, ja tas ir pieejams. Pieraksti preces identifikatoru, pārdevēja vai veikala atsauci, izvēlēto stilu, krāsu, izmēru un daudzumu. Pievieno piedāvājuma pārbaudes datumu un ekrānattēlu ar variantu, kuru gribēji izvēlēties.",
+            "Ar vienu ekrānattēlu nepietiek, jo tajā var nebūt adreses vai izvēlētā varianta. Viens URL savukārt var nesaglabāt, kuru variantu biji domājis. Saite kopā ar īsu varianta aprakstu palīdz vēlāk atpazīt neatbilstību. Nepārraksti sākotnējos datus, kad atrodi citu kandidātu."
+          ]
+        },
+        {
+          "id": "recognize-page-type",
+          "heading": "2. Nosaki, kāda veida lapa tev ir",
+          "paragraphs": [
+            "Preces lapai, veikala sākumlapai un fotoalbumam ir atšķirīgi mērķi. Veikala lapa var palīdzēt atrast pārdevēja katalogu, bet var nenorādīt konkrēto preci. Albums var parādīt vairākas krāsas, nepiedāvājot izvēlamu pirkuma variantu. Viena preces piedāvājuma nosaukumā var būt apvienoti daudzi varianti.",
+            "Pirms atkārtoti mēģini importēt saiti, pārbaudi, kādas informācijas trūkst. Var būt vajadzīga atsevišķas preces saite, varianta apraksts vai pārdevēja vai platformas precizējums. Atpazīstams tirdzniecības vietnes nosaukums ir konteksts, nevis pierādījums, ka lapā ir viss precīzam pasūtījumam nepieciešamais."
+          ]
+        },
+        {
+          "id": "compare-result",
+          "heading": "3. Salīdzini importēto rezultātu ar avotu",
+          "paragraphs": [
+            "Pikobuy publicētā rokasgrāmata paredz meklēšanu ar preces saiti vai atslēgvārdiem. Kad parādās rezultāts, salīdzini tā identitāti ar saglabātajiem avota datiem, nevis pieņem, ka veiksmīga ielāde pabeidz pārbaudi.",
+            "Apskati preces identifikatoru, ja tas ir redzams, pārdevēja kontekstu, pieejamos variantus un izvēlētā varianta aprakstu. Pārbaudi, vai norādītā cena attiecas uz vēlamo preci, citu variantu, piederumu vai nosacījumu par daudzumu. Līdzīgs sīktēls var slēpt atšķirīgu versiju. Ja avota un importētā informācija nesakrīt, noskaidro atšķirību pirms rezultātu uzskati par gatavu pasūtīšanai."
+          ]
+        },
+        {
+          "id": "separate-conversion",
+          "heading": "4. Saproti, ko saites pārveidošana nepierāda",
+          "paragraphs": [
+            "Saišu pārveidotājs var palīdzēt izteikt preces atsauci formā, ko cits pakalpojums spēj nolasīt. Šī tehniskā darbība ir nošķirta no pārdevēja, preces stāvokļa, krājumu vai piemērotības pārbaudes. Tā arī nepierāda, ka pašreizējais piedāvājums joprojām apraksta to pašu preci, kas bija agrāk saglabātā rindā.",
+            "Saglabā sākotnējo URL līdzās katrai pārveidotajai saitei. Pēc pārveidošanas atkārto identitātes un varianta pārbaudi. Ja rīks negaidīti maina galamērķi, apstājies un izpēti rezultātu. Neievadi konta pieteikšanās datus nepazīstamā lapā tikai tāpēc, ka nonāci tajā no spreadsheet vai saišu pārveidošanas rīka."
+          ]
+        },
+        {
+          "id": "troubleshooting-table",
+          "heading": "5. Nosaki problēmu, kuru vari novērot",
+          "paragraphs": [
+            "Tālāk redzamā tabula palīdz problēmu izpētē; tā nav oficiālu Pikobuy kļūdu paziņojumu saraksts. Balsties uz faktiski redzamo uzvedību. Atkārtots mēģinājums ir noderīgs tikai tad, ja pārbauda ticamu cēloni; tas neatgūst informāciju, kas saitē nekad nav bijusi."
+          ],
+          "table": {
+            "headers": [
+              "Novērotā problēma",
+              "Noderīga pārbaude",
+              "Nākamā darbība"
+            ],
+            "rows": [
+              [
+                "Atveras cita prece",
+                "Salīdzināt avota identifikatoru un izvēlēto variantu",
+                "Saglabāt abus ierakstus un lūgt precizējumu"
+              ],
+              [
+                "Avota lapā jāielogojas",
+                "Pārbaudīt URL un redzamo informāciju par preci",
+                "Izmantot īsto avota vietni vai oficiālo atbalstu"
+              ],
+              [
+                "Atveras tikai veikals vai albums",
+                "Meklēt atsevišķas preces atsauci",
+                "Norādīt precīzus preces un varianta datus"
+              ],
+              [
+                "Prece nav pieejama",
+                "Vēlreiz pārbaudīt pašreizējo avota lapu",
+                "Alternatīvas vērtēt kā jaunus kandidātus"
+              ],
+              [
+                "Saīsinātā saite nedarbojas",
+                "Ja iespējams, atgūt preces sākotnējo URL",
+                "Mēģināt vēlreiz vienu reizi ar šiem avota datiem"
+              ]
+            ]
+          }
+        },
+        {
+          "id": "support-request",
+          "heading": "6. Nosūti jautājumu, uz kuru var atbildēt",
+          "paragraphs": [
+            "Ja paredzētā prece joprojām nav skaidra, nosūti avota saiti, preces identifikatoru, ja tas pieejams, vajadzīgo variantu un īsu neatbilstības skaidrojumu. Pievieno ekrānattēlus, kuros redzama attiecīgā izvēle. Vienā pieprasījumā nesūti visu pārlūkošanas vēsturi vai nesaistītas preces.",
+            "Noderīgs jautājums ir konkrēts: avotā redzama zilā versija M izmērā, bet importētajā izvēlnē ir tikai melnā; vai var pasūtīt zilo M izmēru? To ir vieglāk atrisināt nekā apgalvojumu, ka saite ir bojāta. Pikobuy oficiālā kontaktu lapa piedāvā atbilstošu saziņas ceļu jautājumiem par kontu vai preču atrašanu."
+          ]
+        },
+        {
+          "id": "update-shortlist",
+          "heading": "7. Pieraksti rezultātu, nezaudējot kontekstu",
+          "paragraphs": [
+            "Atzīmē kandidātu kā atbilstošu, tādu, kas gaida precizējumu, vai nepieejamu. Saglabā atbildi līdzās avota datiem. Ja piedāvātajai alternatīvai ir cits preces identifikators vai specifikācija, sāc atsevišķu rindu, nevis klusi aizstāj sākotnējo preci.",
+            "Pirms turpini, vēlreiz pārbaudi faktisko variantu, kuru iesniegsi. Mērķis ir izsekojams lēmums: tev jāspēj izskaidrot, kuru piedāvājumu izmantoji, kuru variantu izvēlējies un kāda informācija atrisināja neatbilstības. Šis ieraksts noderēs arī vēlāk, salīdzinot saņemto preci ar to, ko biji iecerējis iegādāties."
+          ]
+        }
+      ],
+      "sourceIds": [
+        "official-guide",
+        "official-contact"
+      ],
+      "related": [
+        "guide",
+        "articles/pikobuy-spreadsheet-checklist",
+        "faq"
+      ]
+    },
+    {
+      "slug": "pikobuy-qc-measurements",
+      "title": "Pikobuy QC mērījumi: pieprasi fotoattēlus, kas atbild uz tavu jautājumu",
+      "description": "Padari Pikobuy QC mērījumu pieprasījumus noderīgākus ar skaidriem galapunktiem, salasāmu skalu un konkrētiem jautājumiem, pirms vērtē preces piemērotību.",
+      "intro": "Vairāk fotoattēlu ne vienmēr nozīmē vairāk noderīgu pierādījumu. Ja jāzina, vai piedurkne ir pietiekami gara vai somas atvere pietiekami plata, pieprasījumā jāizskaidro, kā šo detaļu mērīt. Labs Pikobuy QC pieprasījums sasaista vienu neatbildētu jautājumu ar vienu novērojamu rezultātu. Šī rokasgrāmata rāda, kā izveidot šādu saikni, neuzskatot fotoattēlu par pierādījumu visām preces īpašībām.",
+      "sections": [
+        {
+          "id": "define-the-question",
+          "heading": "1. Formulē lēmumu pirms pieprasījuma",
+          "paragraphs": [
+            "Norādi, kāda atbilde mainītu tavu nākamo darbību. Varbūt precei vajadzīgs noteikts minimālais atveres platums, izmēra etiķete nav salasāma vai plankums varētu būt netīrums, nevis ēna. Katram jautājumam vajadzīgi citi pierādījumi. Lūgums uzņemt kvalitatīvākas fotogrāfijas liek fotografētājam minēt, kas ir svarīgi.",
+            "Izmanto teikumu ar novērojamu detaļu: man jāredz, vai abiem apaviem ir izvēlētā izmēra etiķete. Neapvieno to ar nesaistītiem lūgumiem par šuvēm, materiāliem un iepakošanu."
+          ]
+        },
+        {
+          "id": "identify-item",
+          "heading": "2. Identificē pareizo preci un variantu",
+          "paragraphs": [
+            "Iekļauj attiecīgo pasūtījuma atsauci, preces aprakstu un izvēlēto variantu. Ja pasūtījumā ir divas līdzīgas krāsas vai izmēri, skaidri norādi atšķirību. Atsaucies uz esošu fotoattēlu, ja tas palīdz noteikt vajadzīgo vietu, bet nepieņem, ka agrāka pircēja attēls rāda pašlaik pārbaudāmo preci.",
+            "Glabā avota tabulu un iecerēto variantu līdzās pieprasījumam. Tie izskaidro, kāpēc mērījums ir svarīgs, un palīdz interpretēt rezultātu. Precīzs nepareizās preces mērījums joprojām nav izmantojams. Pirms izdari secinājumu, pārbaudi, vai saņemto attēlu var pamatoti saistīt ar preci un variantu, par kuru jautāji."
+          ]
+        },
+        {
+          "id": "specify-method",
+          "heading": "3. Apraksti mērīšanas metodi",
+          "paragraphs": [
+            "Nosauc galapunktus, mērvienību un novietojumu. Apģērba platumam līdzeni izklātā veidā norādi, kur mērlentei jāsākas un jābeidzas un vai apģērbam jābūt izklātam bez stiepšanas. Somas atverei prasi lietderīgo platumu pašā atverē, nevis somas platākajā ārējā daļā.",
+            "Lūdz, lai būtu redzams skalas sākums un beigas. Attēls ar nulles punktu ārpus kadra rada nenoteiktību pat tad, ja tālākais gals šķiet salasāms. Mērījums pa līkni un mērījums taisnā līnijā atbild uz dažādiem jautājumiem, tāpēc izskaidro, kurš vajadzīgs, nevis izmanto tikai vārdu garums."
+          ]
+        },
+        {
+          "id": "request-examples",
+          "heading": "4. Pielāgo pieprasījumu jautājumam",
+          "paragraphs": [
+            "Šie piemēri ir oriģināli formulējumu paraugi, nevis izvēlnes iespējas vai konkrēta pakalpojuma solījumi. Pirms paļaujies uz pieprasīto darbību, apstiprini tās pieejamību un cenu. Aizstāj preces un mērījuma detaļas ar savam pasūtījumam atbilstošajām."
+          ],
+          "table": {
+            "headers": [
+              "Neatbildētais jautājums",
+              "Konkrēts pieprasījums"
+            ],
+            "rows": [
+              [
+                "Vai augšdaļas apģērbs ir pietiekami plats?",
+                "Izklājiet izvēlēto apģērbu līdzeni, to nestiepjot, un parādiet krūšu platumu starp norādītajiem punktiem tā, lai abi centimetru skalas gali būtu redzami."
+              ],
+              [
+                "Vai apavu etiķete ir pareiza?",
+                "Parādiet salasāmu izmēra etiķeti uz katra šī pāra apava, ietverot pietiekami daudz apkārtējo detaļu preču identificēšanai."
+              ],
+              [
+                "Vai priekšmets izies caur somas atveri?",
+                "Parādiet atveres lietderīgo platumu ar pilnībā atvērtu aizdari un redzamiem mērīšanas galapunktiem."
+              ],
+              [
+                "Vai atzīme atrodas uz virsmas?",
+                "Parādiet iezīmēto vietu tuvplānā un no cita leņķa, atstājot redzamu apkārtējo materiālu."
+              ]
+            ]
+          }
+        },
+        {
+          "id": "evaluate-evidence",
+          "heading": "5. Pārbaudi, vai atbildi var interpretēt",
+          "paragraphs": [
+            "Izpēti attēlu pirms skaitliskā secinājuma lasīšanas. Vai redzama attiecīgā prece? Vai lineāls novietots atbilstoši prasītajai metodei? Vai redzi skalu un abus galapunktus? Ja apģērbs ir salocīts, nostiepts vai fotografēts izteiktā leņķī, pieraksti, kā tas var ietekmēt salīdzinājumu.",
+            "Neizveido šķietamu precizitāti no izplūduša attēla. Ja vari saskatīt tikai aptuveni 57–59 cm, pieraksti šo nenoteiktību, nevis paziņo 58,0 cm. Ja nenoteiktība ir pietiekama, lai mainītu lēmumu, prasi precizējumu. Ja tā lēmumu nevar ietekmēt, papildu fotoattēliem var būt maza praktiska vērtība."
+          ]
+        },
+        {
+          "id": "recognize-limits",
+          "heading": "6. Ievēro vizuālo pierādījumu robežas",
+          "paragraphs": [
+            "Fotoattēls var pamatot secinājumu par redzamu etiķeti, izmērītu dimensiju vai šķietamu virsmas problēmu. Tas nevar noteikt ilgtermiņa izturību, slēpto konstrukciju, elektrisko darbību vai komfortu lietošanas laikā. Arī materiāla sastāvam un autentiskumam vajadzīgi pierādījumi, kas pārsniedz izskatu vien.",
+            "Nošķir novēroto no secinātā. Apgalvojums, ka attēlā redzama aizvērta šuve, ir šaurāks nekā apgalvojums, ka soma izturēs smagu slodzi. Pikobuy publicētajos materiālos ir aprakstīti pārbaudes ierobežojumi, tādēļ neuzskati parastu apskati par specializētu testēšanu. Ja pirkums atkarīgs no īpašības, ko fotogrāfijas nevar pierādīt, meklē atbilstošu dokumentāciju vai pārdomā pirkumu."
+          ]
+        },
+        {
+          "id": "choose-next-action",
+          "heading": "7. Pārvērt atbildi darbībā",
+          "paragraphs": [
+            "Atgriezies pie sākotnējā jautājuma un izvēlies nākamo soli. Pierādījumi var atbalstīt turpināšanu, atstāt konkrētu problēmu neatrisinātu vai pamatot sarunu par atgriešanu. Saglabā atbildi kopā ar pasūtījuma datiem un norādi, kurš mērījums vai redzamā detaļa ietekmēja lēmumu.",
+            "Ja problēma saglabājas, nekavējoties pārbaudi pasūtījuma pašreizējo statusu un piemērojamos atgriešanas nosacījumus. Netērē laiku dekoratīvu skatu vākšanai, kamēr nav ziņots par konkrētu neatbilstību. Ierakstam jāpalīdz viegli izskaidrot problēmu: kas bija paredzēts, ko rāda fotoattēls un kādu risinājumu lūdz. Nenoteiktus novērojumus arī turpmāk atzīmē kā nenoteiktus."
+          ]
+        }
+      ],
+      "sourceIds": [
+        "official-user-agreement",
+        "official-shipping",
+        "official-returns"
+      ],
+      "related": [
+        "qc",
+        "articles/pikobuy-clothing-size-chart",
+        "articles/pikobuy-warehouse-returns"
+      ]
+    },
+    {
+      "slug": "pikobuy-haul-budget",
+      "title": "Pikobuy haul budžets: saskaiti izmaksas pirms pirkuma",
+      "description": "Veido reālistisku Pikobuy haul budžetu, nošķirot preču cenas, piegādi, iespējamos maksājumus un nezināmās izmaksas, izmantojot skaidri norādītu plānošanas piemēru.",
+      "intro": "Tavas spreadsheet cenu summa ir tikai Pikobuy haul budžeta sākums. Noderīgs aprēķins rāda, kuras izmaksas ir zināmas, kuras atkarīgas no gatavā sūtījuma un kuras vēl jāpārbauda. Tas arī parāda, vai budžetā pietiek vietas nenoteiktībai. Tālāk aprakstītā metode ir plānošanas darba lapa, nevis cenas piedāvājums vai apgalvojums par Pikobuy pašreizējām maksām.",
+      "sections": [
+        {
+          "id": "separate-stages",
+          "heading": "1. Nošķir preču pirkumu no sūtījuma",
+          "paragraphs": [
+            "Pikobuy publicētajā procesā pirkuma apmaksa ir nodalīta no starptautiskās piegādes apmaksas. Atspoguļo šo atšķirību savā budžetā. Viena daļa uzskaita izvēlēto preču iegādei vajadzīgo summu; otra — iespējamos izdevumus, lai saņemtu no tām izveidoto sūtījumu.",
+            "Sāc ar precīziem daudzumiem un izvēlētajiem variantiem. Zema norādītā cena var attiekties uz citu variantu, nevis to, kuru vēlies pasūtīt. Pie katras summas norādi cenas piedāvājuma datumu un valūtu. Tas palīdz saprast, kāpēc budžets mainās, kad atjauninās prece, variants vai valūtas pārrēķins."
+          ]
+        },
+        {
+          "id": "capture-item-costs",
+          "heading": "2. Uzskaiti ar pirkšanu saistītās maksas",
+          "paragraphs": [
+            "Izveido atsevišķas rindas precēm, norādītajai iekšzemes piegādes maksai un pakalpojuma vai maksājuma komisijām, kas faktiski redzamas tavā darījumā. Nepievieno maksu tikai tāpēc, ka to samaksāja cits pircējs, un nepieņem, ka nenorādīta maksa ir nulle.",
+            "Ja vairākām precēm ir viena kopīga piegādes maksa, nepieskaiti to vēlreiz katrai rindai. Savukārt pirkumiem no atsevišķiem pārdevējiem var nebūt kopīgas maksas. Saglabā pietiekami detalizētu informāciju, lai salīdzinātu darba lapu ar pieprasīto maksājumu. Glīts kopējais skaitlis ir mazāk noderīgs nekā nedaudz garāka tabula, kuru vari izskaidrot."
+          ]
+        },
+        {
+          "id": "estimate-freight",
+          "heading": "3. Pieraksti piegādes aprēķina pieņēmumus",
+          "paragraphs": [
+            "Agrīnu piegādes izmaksu aprēķinu uztver kā scenāriju. Pieraksti pieņemto galamērķi, preces veidu, iepakoto svaru un izmērus, tad saglabā aprēķina datumu un piegādes līnijas nosacījumus blakus summai. Ja ievaddati mainās, iepriekšējais skaitlis vairs var nebūt noderīgs salīdzinājumam.",
+            "Nesadali sūtījuma aplēsi starp precēm un pēc tam nesajauc šo sadalījumu ar pārvadātāja tarifu. Plānošanas summu vari sadalīt, lai salīdzinātu preču personisko lietderību, bet faktiskais sūtījuma cenas piedāvājums nosaka maksājamo summu. Apjomīga, lēta prece var būt vēlreiz jāizvērtē, pat ja tās daļa preču starpsummā ir maza."
+          ]
+        },
+        {
+          "id": "keep-unknowns-visible",
+          "heading": "4. Saglabā redzamas iespējamās izmaksas galamērķī",
+          "paragraphs": [
+            "Iespējamajiem muitas nodokļiem, citiem nodokļiem, apstrādes vai starpniecības maksām vajadzīga atsevišķa rinda. Pārbaudi sava galamērķa prasības un izvēlētās piegādes nosacījumus. Šī rokasgrāmata nesniedz konkrētas jurisdikcijas likmi un nepieņem, ka piegādes līnijas nosaukums atrisina visus maksājumu jautājumus.",
+            "Ja summa nav noskaidrota, raksti nav zināms. Tukšu šūnu pārāk viegli uztvert kā nulli. Tāpat kupons, kura piemērotību savam sūtījumam neesi pārbaudījis, paliek iespējams labojums, nevis garantēts ietaupījums. Pirms izmanto atlaidi pirkuma pamatošanai, apstiprini atbilstību, ierobežojumus un maksājamo kopsummu."
+          ]
+        },
+        {
+          "id": "worked-budget",
+          "heading": "5. Izveido izdomātu plānošanas kopsummu",
+          "paragraphs": [
+            "Visas tālāk norādītās vērtības ir izdomātas un izteiktas vienā piemēra valūtā. Tabula parāda aprēķinu; tā nav aktuāla preces cena, piegādes tarifs vai maksas saraksts. Ievēro, ka aritmētiskā starpsumma joprojām nav pilnīga, jo maksājumi galamērķī nav noskaidroti.",
+            "Šajā piemērā 120 sedz uzskaitītos pieņēmumus un izvēlēto rezervi. Tas nenosaka galīgās izmaksas ar visu iekļautu. Ja tēriņu robeža ir 120, nezināmā galamērķa izmaksu rinda nozīmē, ka vēl nav pierādīts, ka pirkums šajā robežā iekļaujas."
+          ],
+          "table": {
+            "headers": [
+              "Budžeta pozīcija",
+              "Ilustratīvā summa",
+              "Statuss"
+            ],
+            "rows": [
+              [
+                "Izvēlētās preces",
+                "60",
+                "Piemēra pieņēmums"
+              ],
+              [
+                "Iekšzemes piegāde",
+                "5",
+                "Piemēra pieņēmums"
+              ],
+              [
+                "Norādītā pakalpojuma maksa",
+                "3",
+                "Piemēra pieņēmums"
+              ],
+              [
+                "Starptautiskā sūtījuma aplēse",
+                "35",
+                "Piemēra pieņēmums"
+              ],
+              [
+                "Valūtas vai maksājuma korekcija",
+                "2",
+                "Piemēra pieņēmums"
+              ],
+              [
+                "Šo pieņēmumu starpsumma",
+                "105",
+                "Tikai aritmētiska summa"
+              ],
+              [
+                "Personiskā rezerve neparedzētiem izdevumiem",
+                "15",
+                "Izvēlēta plānošanas rezerve"
+              ],
+              [
+                "Maksājumi galamērķī",
+                "Nav zināms",
+                "Jāizpēta atsevišķi"
+              ]
+            ]
+          }
+        },
+        {
+          "id": "compare-scenarios",
+          "heading": "6. Salīdzini noderīgus scenārijus",
+          "paragraphs": [
+            "Izmanto scenārijus, lai pārbaudītu pieņēmumus, kuri visdrīzāk var mainīt lēmumu. Salīdzini sūtījumu ar apjomīgu neobligātu preci un bez tās vai divus iepakojuma variantus ar to pašu galamērķi un preces veidu. Maini vienu faktoru reizē, lai saprastu atšķirības cēloni.",
+            "Personiskā rezerve ir plānošanas izvēle, nevis prognoze, ka izmaksas pieaugs tieši par šo summu. Nosaki to atbilstoši atlikušajai nenoteiktībai un savām iespējām. Ja pat neliels pieaugums padarītu pirkumu nepieejamu, samazini izlasi pirms apņemies iegādāties preces."
+          ]
+        },
+        {
+          "id": "reconcile-budget",
+          "heading": "7. Atjaunini darba lapu katrā saistību uzņemšanās brīdī",
+          "paragraphs": [
+            "Aizstāj aplēses ar apstiprinātām summām, kad tās kļūst pieejamas. Saglabā sākotnējo aplēsi blakus jaunajai summai, ja vēlies saprast, kuri pieņēmumi bijuši neprecīzi. Pirms nosūtīšanas pārbaudi, vai budžetā iekļautas faktiskās preces un pieprasītais iepakojums.",
+            "Ja kopsumma pārsniedz robežu, nosaki vismazāk noderīgo neobligāto pirkumu, nevis koncentrējies tikai uz lētāko rindu. Pirms pieņem, ka preci var vienkārši izņemt, apsver izmaksas, kas saistītas ar pasūtījuma maiņu. Pabeigtajai darba lapai jāatbild uz vienkāršu jautājumu: kas vēl jāmaksā, kas vēl nav zināms un vai vari droši segt abus?"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "official-guide",
+        "official-estimate",
+        "official-terms"
+      ],
+      "related": [
+        "shipping",
+        "articles/pikobuy-parcel-weight-dimensions",
+        "articles/pikobuy-spreadsheet-checklist"
+      ]
+    },
+    {
+      "slug": "pikobuy-parcel-weight-dimensions",
+      "title": "Pikobuy sūtījumu svars un izmēri: salīdzini iepakojuma variantus",
+      "description": "Salīdzini Pikobuy sūtījumu svaru, izmērus un iepakojumu ar skaidru piemēru, pēc tam pārbaudi piegādes nosacījumus un galīgo cenu pirms nosūtīšanas.",
+      "intro": "Divi sūtījumi ar vienādu svaru uz svariem var aizņemt ļoti atšķirīgu vietu. Tāpēc noderīgam piegādes salīdzinājumam vajadzīgs gan svars, gan izmēri, kā arī pieejamās piegādes līnijas aprēķina noteikumi. Mērķis nav vienkārši padarīt kasti mazāku. Mērķis ir salīdzināt iepakojumus, kuri aizsargā saturu, atbilst tavām vajadzībām un rada saprotamu cenas piedāvājumu.",
+      "sections": [
+        {
+          "id": "define-measurements",
+          "heading": "1. Nošķir mērījumu veidus",
+          "paragraphs": [
+            "Preces svars raksturo pašu produktu. Iepakotais svars ietver saturu un nosūtīšanai izmantotos materiālus. Sūtījuma izmēri raksturo gatavā iepakojuma ārpusi. Nosakot maksu, piegādes līnija var izmantot tilpuma aprēķinu, faktisko svaru vai citus noteikumus.",
+            "Glabā šīs vērtības piezīmēs atsevišķi. Preču aptuveno svaru saskaitīšana nenosaka gatavā sūtījuma svaru, un preces kastes izmērīšana nenosaka ārējā transportēšanas iepakojuma izmērus. Pirms ievadi skaitli salīdzinājumā, pajautā, ko tas raksturo. Pretējā gadījumā pat precīza aritmētika var radīt maldinošu rezultātu."
+          ]
+        },
+        {
+          "id": "collect-inputs",
+          "heading": "2. Izmanto vienādus ievaddatus aprēķinātājā",
+          "paragraphs": [
+            "Pikobuy publiskajā aprēķinātājā ir galamērķis, preces veids, svars un trīs izmēri. Salīdzinot variantus, saglabā šos ievaddatus saskaņotus. Uzmanīgi pārrēķini mērvienības un saglabā to apzīmējumus: vērtība, kas ievadīta centimetros, lai gan patiesībā ir milimetri, būtiski mainītu aprēķinu.",
+            "Saglabā katru pieņēmumu kopumu kopā ar rezultātu un datumu. Ja papildus iepakojumam maini galamērķi, preces klasifikāciju vai piegādes līniju, tu vairs nenodali tieši kastes ietekmi. Šāds plašāks salīdzinājums var noderēt, taču to skaidri apzīmē, nevis visas atšķirības piedēvē pārpakošanai."
+          ]
+        },
+        {
+          "id": "illustrative-calculation",
+          "heading": "3. Izproti tilpuma svara aprēķinu",
+          "paragraphs": [
+            "Tālākajā aprēķinā izmantots izdomāts dalītājs — 5000 kubikcentimetru uz kilogramu —, lai parādītu aritmētiku. Tas nav apgalvojums par Pikobuy universālu maksas aprēķina noteikumu. Šajā piemērā sareizini trīs ārējos izmērus un izdali rezultātu ar 5000.",
+            "Piemēra kastei ar izmēriem 40 × 30 × 20 cm tilpums ir 24 000 kubikcentimetru, bet ilustratīvais tilpuma svars ir 4,8 kg. Faktiskā piegādes līnija var noteikt citu dalītāju, mērīšanas metodi, minimumu vai noapaļošanas kārtību. Pirms pārvērt aprēķinu pieņēmumā par apmaksājamo svaru, izlasi šos nosacījumus."
+          ]
+        },
+        {
+          "id": "packing-example",
+          "heading": "4. Salīdzini divus izdomātus iepakojumus",
+          "paragraphs": [
+            "Abiem tālāk norādītajiem variantiem pieņemts 3,2 kg faktiskais svars, kas apzināti saglabāts vienāds, lai nodalītu tilpuma ietekmi. Mazākie izmēri ir ilustratīvi, nevis apgalvojums, ka noliktava tos var sasniegt ar tavām precēm.",
+            "Ja izdomāta piegādes līnija pirms sava noapaļojuma izmantotu lielāko no faktiskā un tilpuma svara, šie piemēri sāktos attiecīgi ar 4,8 kg un 3,2 kg. Šis salīdzinājums vēl nepasaka cenu vai to, vai otrais iepakojums ir piemērots."
+          ],
+          "table": {
+            "headers": [
+              "Piemēra iepakojums",
+              "Ārējie izmēri",
+              "Ilustratīvais tilpuma svars",
+              "Kas vēl jāpārbauda"
+            ],
+            "rows": [
+              [
+                "Sākotnējās kastes ārējā kartona kastē",
+                "40 × 30 × 20 cm",
+                "4,8 kg ar piemēra dalītāju",
+                "Piegādes maksas aprēķins un aizsardzība"
+              ],
+              [
+                "Citāds aizsargājošs iepakojums",
+                "35 × 28 × 16 cm",
+                "Aptuveni 3,14 kg ar piemēra dalītāju",
+                "Iespējamība, apstrāde un aizsardzība"
+              ]
+            ]
+          }
+        },
+        {
+          "id": "protect-contents",
+          "heading": "5. Nosaki, kas iepakojumam jāsaglabā",
+          "paragraphs": [
+            "Uzskaiti iepakojuma funkcijas. Stingrai precei var būt vajadzīga aizsardzība pret saspiešanu; strukturētai somai — atbalsts formas saglabāšanai. Mazām detaļām jābūt nostiprinātām vai iepakotām vienkopus, lai tās neatdalītos no galvenās preces. Sākotnējais iepakojums tev var būt svarīgs arī glabāšanai vai dāvināšanai.",
+            "Noskaidro neatrisinātos atgriešanas jautājumus, pirms lūdz noņemt etiķetes, plombas vai iepakojumu. Nemaini zināmu prasību pret pieņemtu ietaupījumu piegādē. Noderīgā norādījumā nosaukts, kurš iepakojums var mainīties un kādai aizsardzībai jāpaliek, pēc tam lūdzot apstiprināt piedāvāto risinājumu."
+          ]
+        },
+        {
+          "id": "compare-consolidation",
+          "heading": "6. Rūpīgi salīdzini apvienošanu un sadalīšanu",
+          "paragraphs": [
+            "Preču apvienošana var vienkāršot sūtījumu, taču kopējie izmēri un preču kombinācija var mainīt pieejamās izvēles. Sadalīšana var radīt papildu izmaksas vai prasīt citu iepakojumu. Neviena pieeja nav automātiski lētāka.",
+            "Salīdzini pilnus cenas piedāvājumus faktiskajām alternatīvām un iekļauj attiecīgās apstrādes maksas. Saglabā salīdzināmu galamērķi un prasības pakalpojumam. Pārbaudi preču ierobežojumus un saderību, nevis pieņem, ka visas var pārvadāt kopā. Neuzskati sadalīšanu par veidu, kā panākt noteiktu muitas rezultātu; tas ir atsevišķs jautājums, ko regulē piemērojamie noteikumi un faktiskais sūtījums."
+          ]
+        },
+        {
+          "id": "confirm-final-quote",
+          "heading": "7. Apstiprini gatavo sūtījumu",
+          "paragraphs": [
+            "Pirms maksāšanas salīdzini galīgo preču sarakstu, iepakotos izmērus un apstrādes norādījumus ar izvērtēto variantu. Pārbaudi piegādes maksas aprēķinu un noapaļošanu vai papildu maksas, kas ietekmē kopsummu. Saglabā cenas piedāvājumu un pieņemtās izvēles.",
+            "Ja rezultāts būtiski atšķiras no aplēses, pirms apstiprināšanas noskaidro izmaiņas. Iemesls var būt lielāks ārējais iepakojums, citāds saturs vai piegādes līnijas nosacījums. Pilnā haul budžeta atjaunināšana šajā brīdī sasaista tehniski pievilcīgu iepakojumu ar praktisko jautājumu, vai sūtījums joprojām atbilst tavām vajadzībām."
+          ]
+        }
+      ],
+      "sourceIds": [
+        "official-estimate",
+        "official-guide",
+        "official-contact"
+      ],
+      "related": [
+        "shipping",
+        "articles/pikobuy-haul-budget",
+        "articles/pikobuy-warehouse-returns"
+      ]
+    },
+    {
+      "slug": "pikobuy-shoe-sizing",
+      "title": "Pikobuy apavu izmēri: salīdzini pēdas garumu, etiķetes un zolītes",
+      "description": "Pārbaudi Pikobuy apavu izmērus, nošķirot pēdas garumu, zolītes mērījumus un izmēru etiķetes, un ar konkrētiem pierādījumiem noskaidro apavu piemērotību.",
+      "intro": "Apavu izmēra izvēlei starp Pikobuy atradumiem nepietiek ar numuru, kuru parasti pērc. Etiķete ir tikai viena datu daļa; svarīga ir arī pārdevēja mērīšanas metode, modeļa forma un pierādījumi par izvēlēto pāri. Šī rokasgrāmata palīdz salīdzināt šos atskaites punktus, neuzskatot pēdas, zolītes un ārējās zoles garumu par savstarpēji aizvietojamiem mērījumiem.",
+      "sections": [
+        {
+          "id": "identify-option",
+          "heading": "1. Identificē precīzo apavu variantu",
+          "paragraphs": [
+            "Saglabā modeli vai preces atsauci, izvēlēto variantu un piedāvājumā norādīto izmēru sistēmu. Numuram ar apzīmējumu EU, UK vai US vajadzīgs tam atbilstošais konteksts. Ja lapā dažādiem stiliem ir atšķirīgas tabulas, pievieno izvēlētajam variantam pareizo tabulu.",
+            "Pirms maksāšanas salīdzini importēto izvēlni ar avotu. Pazīstams numurs var attiekties uz nepareizo sistēmu vai preces versiju. Neizmanto cita pircēja ierasto izmēru, lai atrisinātu nenoskaidrotu neatbilstību. Vispirms nosaki, ko pārdevējs saprot ar izvēlēto variantu, un tad vērtē, vai pierādījumi pamato vēlamo piegulumu."
+          ]
+        },
+        {
+          "id": "measure-feet",
+          "heading": "2. Izveido konsekventu pēdas mērījumu",
+          "paragraphs": [
+            "Izmēri abas pēdas ar vienu atkārtojamu metodi, vienādā stājā un apstākļos. Pieraksti lielāko rezultātu, nevis pieņem, ka mērījumi sakrīt. Saglabā mērvienību un metodi, lai rezultātu varētu salīdzināt ar pārdevēja norādēm, nevis atcerēties tikai noapaļotu skaitli.",
+            "Pēdas garums ir sākumpunkts jautājumam par izmēru, nevis pilnīga atbilde. Platums, pirkstu forma un paredzētās zeķes var ietekmēt vajadzīgo brīvo vietu. Ja pārdevējs sniedz metodi, pirms sava mērījuma salīdzināšanas rūpīgi izlasi to. Klusi neaizstāj šo metodi ar citu tikai tāpēc, ka tā dod ērtāku izmēra rezultātu."
+          ]
+        },
+        {
+          "id": "separate-lengths",
+          "heading": "3. Nošķir dažādos garumus",
+          "paragraphs": [
+            "Pēdas mērījums raksturo valkātāju. Zolītes mērījums raksturo detaļu, kurai var būt izliekumi, paceltas malas vai forma, kas tieši neatbilst lietderīgajai vietai. Iekšējais mērījums cenšas aprakstīt vietu apava iekšpusē. Ārējās zoles mērījums ietver ārējo konstrukciju.",
+            "Pie katra skaitļa norādi mērījuma veidu. Divi skaitļi centimetros ne vienmēr ir salīdzināmi. Garāka ārējā zole nepierāda, ka pēda iederēsies, un zolītes fotoattēlam vajadzīga skaidra metode, pirms tas var atbildēt uz jautājumu par izmēru. Pirms interpretē rezultātu, jautā, kas tika mērīts un no kura līdz kuram punktam."
+          ]
+        },
+        {
+          "id": "consider-shape",
+          "heading": "4. Ņem vērā formu un paredzēto lietojumu",
+          "paragraphs": [
+            "Apsver to apavu formu, kurus jau uzskati par ērtiem, vienlaikus apzinoties, ka cits modelis var uzvesties atšķirīgi. Šaura purngala daļa var būt svarīga arī tad, ja garums šķiet piemērots. Bieza zeķe arī var mainīt pieejamās vietas daudzumu.",
+            "Nemēģini atrisināt katru šaubu, izvēloties garāku izmēru. Papildu garums var neatrisināt platuma problēmu un radīt citu pieguluma trūkumu. Nosaki īsto nenoteiktību, piemēram, pēdas priekšdaļas platumu vai pārdevēja garuma definīciju, un jautā par to. Ja pirkums atkarīgs no funkcionālām īpašībām vai atbalsta, ko nevar noteikt attālināti, fotoattēls viens pats to neatrisina."
+          ]
+        },
+        {
+          "id": "mismatch-example",
+          "heading": "5. Atrisini izdomātu izmēru etiķešu neatbilstību",
+          "paragraphs": [
+            "Iedomājies, ka saglabātā avota tabula saista vienu variantu ar norādītu pēdas garuma diapazonu, bet importētā izvēlne rāda citu etiķeti. Tālākajā piemērā apzināti nav skaitliskas pārrēķina tabulas: pirmais uzdevums ir noteikt identitāti, nevis izvēlēties pazīstamāko numuru."
+          ],
+          "table": {
+            "headers": [
+              "Ieraksts",
+              "Ko tas rāda",
+              "Nākamā noderīgā pārbaude"
+            ],
+            "rows": [
+              [
+                "Avota piedāvājums",
+                "A variants ar pēdas garuma diapazonu",
+                "Saglabāt precīzo tabulu un varianta tekstu"
+              ],
+              [
+                "Importētā izvēlne",
+                "Cits izmēra apzīmējums",
+                "Jautāt, vai tas atbilst avota A variantam"
+              ],
+              [
+                "Noliktavas attēls",
+                "Salasāma etiķete uz viena apava",
+                "Pārbaudīt otru apavu un apstiprināto variantu"
+              ],
+              [
+                "Mērījuma fotoattēls",
+                "Garums bez skaidriem galapunktiem",
+                "Precizēt, vai tas ir zolītes, iekšējais vai ārējās zoles garums"
+              ]
+            ]
+          },
+          "list": [
+            "Neizsecini vienādību tikai no līdzīgiem apzīmējumiem.",
+            "Saglabā atbildi, kas izskaidro atbilstību.",
+            "Apstājies, ja izvēlētais variants joprojām ir neskaidrs."
+          ]
+        },
+        {
+          "id": "request-pair-evidence",
+          "heading": "6. Pārbaudi pierādījumus par faktisko pāri",
+          "paragraphs": [
+            "Apskatot noliktavas attēlus, sasaisti redzamās etiķetes ar savu izvēlēto pasūtījumu. Pārbaudi abus apavus, ja atšķirībai ir nozīme. Ja vajadzīgs mērījums, norādi pieprasīto dimensiju un pārliecinies, ka attēlā redzami attiecīgie galapunkti un salasāma skala.",
+            "Jautā par mērījumu, nepieņemot, ka ar preci drīkst rīkoties jebkurā noteiktā veidā. Detaļas izņemšana var būt nepiemērota vai nepieejama, un izliektu detaļu var būt grūti konsekventi izmērīt. Vispirms izsaki jautājumu un apstiprini pieejamo metodi. Mērķis ir interpretējami pierādījumi, nevis šķietami precīzs skaitlis, kas iegūts ar neskaidru procedūru."
+          ]
+        },
+        {
+          "id": "decide-next-step",
+          "heading": "7. Pieņem lēmumu par piegulumu ar skaidrām robežām",
+          "paragraphs": [
+            "Pieraksti, vai pierādījumi ir saskaņoti, nepilnīgi vai pretrunīgi. Saskaņoti pierādījumi var pamatot turpināšanu, bet tie negarantē komfortu. Neatbildētam jautājumam vajadzētu novest pie konkrēta precizējuma pieprasījuma, nevis optimistiska pieņēmuma.",
+            "Ja saņemtais variants šķiet nepareizs vai izmēru pierādījumi ir pretrunā pasūtītajam, nekavējoties apspried problēmu un pārbaudi piemērojamos atgriešanas nosacījumus. Saglabā etiķetes, plombas un iepakojumu neskartus, kamēr precizē nākamo soli. Kad lēmums par izmēru ir pieņemts, apavu kasti un sūtījuma iepakojumu vērtē atsevišķi, lai piegādes vēlme nenoteiktu secinājumu par piegulumu."
+          ]
+        }
+      ],
+      "sourceIds": [
+        "official-guide",
+        "official-returns"
+      ],
+      "related": [
+        "spreadsheet",
+        "articles/pikobuy-qc-measurements",
+        "articles/pikobuy-parcel-weight-dimensions"
+      ]
+    },
+    {
+      "slug": "pikobuy-bag-dimensions",
+      "title": "Pikobuy somas: pārbaudi ietilpību, siksnas un konstrukciju",
+      "description": "Salīdzini Pikobuy somas pēc lietderīgās atveres, iekšējiem izmēriem, siksnām un redzamās konstrukcijas, izmantojot praktisku ietilpības pārbaudes piemēru.",
+      "intro": "Soma preces fotoattēlā var izskatīties liela, bet tajā joprojām var neietilpt vajadzīgais priekšmets. Ārējais platums, lietderīgā atvere un iekšējā forma atbild uz dažādiem jautājumiem. Pirms izvēlies starp Pikobuy somu atradumiem, nosaki, kas somai jānes un kā to plāno valkāt. Šī pieeja padara izmērus un pārbaudes attēlus noderīgus, neizliekoties, ka tie pierāda ilgtermiņa izturību vai materiāla sastāvu.",
+      "sections": [
+        {
+          "id": "define-contents",
+          "heading": "1. Sāc ar to, kam jāietilpst",
+          "paragraphs": [
+            "Uzskaiti priekšmetus, kurus paredzi nēsāt kopā. Izmēri lielāko stingro priekšmetu, ieskaitot parasti lietoto apvalku vai futrāli. Klēpjdators polsterētā apvalkā prasa vairāk vietas nekā ierīce viena pati, un pudelei var būt vajadzīgs citāds iekšējais augstums nekā plakanai piezīmju grāmatai.",
+            "Izlem, kuri priekšmeti ir obligāti un kuri nav. Ja somā nevar ievietot obligātu priekšmetu, pievilcīga furnitūra problēmu neatrisina. Ņem vērā arī piekļuvi: ar pūlēm ievietot priekšmetu ir kas cits nekā ikdienā to ērti izņemt."
+          ]
+        },
+        {
+          "id": "separate-dimensions",
+          "heading": "2. Nošķir ārējo izmēru no lietderīgās vietas",
+          "paragraphs": [
+            "Ārējie izmēri apraksta somas kopējo apjomu. Iekšējos izmērus var samazināt polsterējums, šuves, nodalījumi un izliekti stūri. Atvere aizdares vai konstrukcijas dēļ var būt vēl šaurāka.",
+            "Pieraksti, kuru mērījumu sniedz katrs piedāvājums. Savās piezīmēs neapzīmē ārējo platumu kā lietderīgo ietilpību. Stingram priekšmetam salīdzini atveri un vajadzīgos iekšējos izmērus, tostarp dziļumu, ja nepieciešams. Ja piedāvājumā ir tikai ilustratīvs mēroga attēls, pieprasi ierobežojošās vietas mērījumu, nevis min centimetru skaitu pēc nepazīstama cilvēka rokas vai ķermeņa."
+          ]
+        },
+        {
+          "id": "check-carrying",
+          "heading": "3. Pārbaudi siksnas un nēsāšanas augstumu",
+          "paragraphs": [
+            "Siksnas kopējais garums un attālums, kādā soma karājas zem pleca, ir dažādi mērījumi. Izlasi norādīto metodi un pārbaudi, vai regulēšanas diapazons atbilst iecerētajam nēsāšanas veidam. Brīvā vieta zem roktura var būt svarīga, ja vēlies nest somu pāri mētelim.",
+            "Apskati, kā siksna piestiprināta un vai tā ir noņemama vai pastāvīgi fiksēta, ja tas ietekmē lietošanu. Neizsecini regulēšanas diapazonu no vienas pozīcijas fotoattēla. Saglabā praktisku jautājumu: vai komplektā esošo siksnu var noregulēt vajadzīgajā garumā un vai ieraksts šo garumu skaidri apraksta?"
+          ]
+        },
+        {
+          "id": "inspect-details",
+          "heading": "4. Izpēti redzamo konstrukciju un komplektāciju",
+          "paragraphs": [
+            "Izmanto fotoattēlus, lai pārbaudītu somas funkcijai svarīgās vietas: šuves, stiprinājumus, oderi, aizdares novietojumu un atveri. Pārbaudi, vai reklamētās noņemamās siksnas vai citi piederumi ietilpst izvēlētajā variantā. Attēls, kas rāda tos citā piedāvājuma vietā, ne vienmēr nosaka tava varianta komplektāciju.",
+            "Nošķir redzamu novērojumu no apgalvojuma par darbību. Fotogrāfija var parādīt šuvi vai sprādzi; tā nevar noteikt droši nesamo svaru vai izturību atkārtotā lietošanā. Tāpat izskats viens pats nenosaka materiāla sastāvu. Ja konkrēts materiāls ir obligāts, meklē atbilstošu preces informāciju un pieraksti tās avotu."
+          ]
+        },
+        {
+          "id": "capacity-example",
+          "heading": "5. Salīdzini divas izdomātas somas",
+          "paragraphs": [
+            "Pieņemsim, ka obligāti nesamais stingrais priekšmets ir 30 cm plats un 22 cm augsts. Šie izdomātie izmēri rāda, kāpēc ar lielāko ārējo mērījumu nepietiek. Neviens kandidāts nav preces ieteikums, un šajā piemērā dziļums un nēsāšanas komforts jāpārbauda atsevišķi.",
+            "Soma B ir tālākas izpētes vērta, lai gan tās ārējais platums ir mazāks. Neuztver 1 cm atveres rezervi kā garantiju ērtai ievietošanai: noapaļotas malas, polsterējums un ievietošanas leņķis joprojām var būt svarīgi. Ciešai atbilstībai vajadzīgi labāki pierādījumi nekā vispārīgs salīdzinājums."
+          ],
+          "table": {
+            "headers": [
+              "Dimensija",
+              "Piemēra soma A",
+              "Piemēra soma B"
+            ],
+            "rows": [
+              [
+                "Ārējais platums",
+                "35 cm",
+                "33 cm"
+              ],
+              [
+                "Atveres lietderīgais platums",
+                "28 cm",
+                "31 cm"
+              ],
+              [
+                "Iekšējais augstums",
+                "25 cm",
+                "23 cm"
+              ],
+              [
+                "Sākotnējais secinājums",
+                "Atvere ir šaurāka par priekšmetu",
+                "Vērts pārbaudīt dziļumu, atveres formu un piekļuves ērtumu"
+              ]
+            ]
+          }
+        },
+        {
+          "id": "plan-packing",
+          "heading": "6. Apsver formu un aizsardzību sūtījumā",
+          "paragraphs": [
+            "Strukturētai somai var būt vajadzīgs atbalsts pret saspiešanu, bet vaļīgām siksnām un sīkiem piederumiem jāpaliek droši iepakotiem kopā. Nosaki ievainojamās daļas un formu, kuru sagaidi saglabāt. Apspriežot iepakošanu, izskaidro šīs prasības, nevis bez precizējumiem pieprasi iespējami mazāko sūtījumu.",
+            "Nošķir lēmumu par preci no lēmuma par piegādi. Zema preces cena neatklāj aizsargājoša sūtījuma izmaksas, un mazāks iepakojums nav automātiski piemērots. Kad pieejams gatavais variants, salīdzini tā iepakojuma izmērus un cenu. Ja atgriešanas jautājums nav atrisināts, noskaidro to pirms pieprasi iepakojuma maiņu."
+          ]
+        },
+        {
+          "id": "record-bag-decision",
+          "heading": "7. Skaidri formulē trūkstošo jautājumu",
+          "paragraphs": [
+            "Pabeidz salīdzinājumu ar īsu lēmuma piezīmi: piemērota pēc pieejamajiem izmēriem, atlikta līdz konkrētam mērījumam vai izslēgta neatbilstošas prasības dēļ. Noderīgs pieprasījums var jautāt atveres lietderīgo platumu ar pilnībā atvērtu aizdari vai siksnas regulēšanas diapazonu, skaidri norādot galapunktus.",
+            "Saglabā avotu, izvēlēto variantu un atbildi kopā ar kandidātu. Kad tiek pārbaudīta tava prece, salīdzini attiecīgos pierādījumus ar šo ierakstu. Tādējādi lēmums paliek saistīts ar somas uzdevumu, bet secinājumā netiek iekļautas nepārbaudītas īpašības, piemēram, ilgtermiņa nodilums, nestspēja un materiāla autentiskums."
+          ]
+        }
+      ],
+      "sourceIds": [
+        "official-user-agreement",
+        "official-estimate"
+      ],
+      "related": [
+        "spreadsheet",
+        "articles/pikobuy-qc-measurements",
+        "articles/pikobuy-parcel-weight-dimensions"
+      ]
+    },
+    {
+      "slug": "pikobuy-warehouse-returns",
+      "title": "Pikobuy atgriešana no noliktavas: termiņi, pierādījumi un izmaksas",
+      "description": "Sagatavo Pikobuy atgriešanas pieprasījumu ar pasūtījuma statusu, attiecīgajiem pierādījumiem un skaidriem jautājumiem par atbilstību, termiņiem un piemērojamām maksām.",
+      "intro": "Jautājumu par atgriešanu no noliktavas ir vieglāk risināt, ja nosaki pasūtījuma posmu, saglabā preci un skaidri izstāsti problēmu. Sāc to darīt laikus, nevis gaidi, līdz savākta ideāla fotogrāfiju kolekcija. Šī neatkarīgā rokasgrāmata palīdz sakārtot pieprasījumu; tā nenosaka atbilstību, nesola apstiprinājumu un neaizstāj pašreizējo politiku vai atbildi par tavu konkrēto pasūtījumu.",
+      "sections": [
+        {
+          "id": "identify-return-stage",
+          "heading": "1. Nosaki, kur atrodas prece",
+          "paragraphs": [
+            "Pārbaudi, vai pārdevējs preci nosūtījis, vai tā atrodas noliktavā vai jau aizceļojusi starptautiskā sūtījumā. Pieraksti precīzo statusa tekstu un norādīto laiku. Dažādos posmos rodas dažādi praktiski jautājumi, tādēļ neapzīmē katru pieprasījumu vienkārši kā naudas atmaksu.",
+            "Saglabā pasūtījuma atsauci, izvēlēto variantu un maksājuma ierakstu. Ja vienā pasūtījumā ir vairākas preces, precīzi identificē skarto preci. Pieprasījumam par nepareiza izmēra apģērbu nevajadzētu likt atbalstam minēt, vai runa ir par citu apģērbu tajā pašā pirkumā. Iekļauj tikai konkrētajai problēmai nepieciešamo informāciju."
+          ]
+        },
+        {
+          "id": "check-clock",
+          "heading": "2. Pārbaudi pašreizējo pieprasījuma termiņu",
+          "paragraphs": [
+            "Pikobuy atgriešanas lapā norādīts 120 stundu termiņš pieprasījumam noliktavā un nosacīta atbilstība. Apstiprini sava pasūtījuma precīzo beigu laiku pašreizējā procesā vai ar atbalstu. Neuzskati ekrānattēlu, kurā redzams tikai datums, par pietiekamu precīza termiņa aprēķinam.",
+            "Pieraksti pasūtījuma datos redzamo laiku un laika joslu un saglabā sava pieprasījuma saņemšanas apstiprinājumu. Ja nezini, vai prece atbilst prasībām, jautā nekavējoties, nevis pieņem, ka vēlāka jautāšana pagarinās termiņu. Saruna ar atbalstu nepierāda pagarinājumu, ja vien piemērojamā procedūra to skaidri neapstiprina. Šo atšķirību atstāj redzamu piezīmēs."
+          ]
+        },
+        {
+          "id": "preserve-condition",
+          "heading": "3. Saglabā pierādījumus un preces stāvokli",
+          "paragraphs": [
+            "Kamēr problēma tiek izvērtēta, saglabā etiķetes, plombas, iepakojumu un piederumus neskartus. Nepieprasi pārveidojumus tikai tāpēc, lai fotoattēls būtu skaidrāks. Ja pārbaudei kaut kas jāatver vai jānoņem, pirms turpināšanas jautā par sekām.",
+            "Saglabā avota piedāvājumu, izvēlēto variantu, attiecīgo izmēru tabulu un problēmu rādošos fotoattēlus. Atzīmē, kuri attēli attiecas uz tavu preci. Iepriekšēja pircēja foto var parādīt, ko gaidīji, bet skaidrākais pieprasījums salīdzina tavus pasūtījuma datus ar pierādījumiem par saņemto. Glabā sākotnējos failus kopā ar skaidrojošajām piezīmēm."
+          ]
+        },
+        {
+          "id": "classify-issue",
+          "heading": "4. Apraksti problēmu, to nepārspīlējot",
+          "paragraphs": [
+            "Nošķir nepareizu variantu, redzamu defektu, neskaidru mērījumu un vēlmi atteikties no pirkuma. Šādi apraksti palīdz izskaidrot, ko lūdz izvērtēt. Izmanto pamatotus novērojumus, piemēram, redzamā etiķete atšķiras no izvēlētā izmēra, nevis vispārīgu apgalvojumu, ka viss ir nepareizi.",
+            "Tālākā matrica ir redakcionāls sagatavošanās rīks, nevis oficiāla atbilstības tabula. Tā rāda, kā atkarībā no problēmas mainās pierādījumi un jautājums."
+          ],
+          "table": {
+            "headers": [
+              "Problēma",
+              "Sakārtojamie pierādījumi",
+              "Uzdodamais jautājums"
+            ],
+            "rows": [
+              [
+                "Saņemts nepareizs variants",
+                "Pasūtījuma izvēle un saņemtā etiķete",
+                "Vai šo neatbilstību var izvērtēt atgriešanai?"
+              ],
+              [
+                "Redzams bojājums",
+                "Skaidra bojājuma vieta un apkārtējie skati",
+                "Kādi pierādījumi vajadzīgi šī bojājuma izvērtēšanai?"
+              ],
+              [
+                "Neskaidrs piegulums",
+                "Avota tabula un salasāmi mērījumi",
+                "Vai var precizēt mērījumu neatbilstību?"
+              ],
+              [
+                "Pircējs pārdomājis",
+                "Preces statuss un saglabātais stāvoklis",
+                "Vai atgriešana ir iespējama un cik tā maksātu?"
+              ]
+            ]
+          }
+        },
+        {
+          "id": "write-request",
+          "heading": "5. Izveido īsu, izpildāmu pieprasījumu",
+          "paragraphs": [
+            "Sāc ar pasūtījuma atsauci un attiecīgo preci. Apraksti problēmu vienā vai divos teikumos un pēc tam norādi pamatojošos attēlus. Pasaki, kādu iznākumu vēlies, vienlaikus atstājot vietu faktiskajai procedūrai un lēmumam par atbilstību.",
+            "Piemēram: manā pasūtījumā bija izvēlēta zilā versija, bet noliktavas etiķete un attēli šķietami rāda melno. Pievienoju izvēlēto variantu un saņemtās preces attēlus. Lūdzu, apstipriniet, vai variants ir nepareizs un vai var pieprasīt atgriešanu no noliktavas. Tas ir oriģināls formulējuma piemērs, nevis apgalvojums, ka konkrēts iznākums tiks apstiprināts."
+          ]
+        },
+        {
+          "id": "confirm-costs",
+          "heading": "6. Pirms turpināšanas noskaidro pilnās izmaksas",
+          "paragraphs": [
+            "Atgriešanas izmaksas var ietekmēt, vai atgriešana tādēļ, ka esi pārdomājis, ir praktiski lietderīga. Prasi izmaksu sastāvdaļas un kopsummu tieši savai precei, tostarp piegādes vai pakalpojuma maksu. Neaprēķini iznākumu pēc cita klienta pieredzes.",
+            "Oficiālajā lapā formulējumi par sākotnējās piegādes izmaksām ir pretrunīgi, tādēļ saņem pasūtījumam konkrētu skaidrojumu. Pieraksti norādīto cenu, tās sniedzēju un saistītos nosacījumus. Ja tiek apspriesta gaidāma naudas atmaksa, nošķir preces summu no maksām, kas var palikt maksājamas. Nepieņem, ka visa sākotnēji samaksātā summa noteikti tiks atdota."
+          ]
+        },
+        {
+          "id": "follow-case",
+          "heading": "7. Seko lietai ar sakārtotu ierakstu",
+          "paragraphs": [
+            "Glabā īsu pieprasījuma, saņemšanas apstiprinājumu, papildu pierādījumu un lēmumu hronoloģiju. Ja piemēroti, atbildi esošajā pieteikumā, lai konteksts paliktu vienuviet. Ja atbalsts jautā trūkstošu detaļu, atbildi tieši uz šo jautājumu, nevis sāc no jauna aprakstīt visu pirkumu.",
+            "Pirms atļauj nākamo darbību, pārbaudi, vai tā attiecas uz pareizo preci un tev saprotamo risinājumu. Saglabā apstiprinājumu par pieņemto un to, kas vēl gaida. Iesniegts pieprasījums, pārdevēja atbilde un pabeigta naudas atmaksa ir dažādi notikumi. To atsevišķa pierakstīšana palīdz sekot iznākumam, nesajaucot progresu ar pabeigšanu."
+          ]
+        }
+      ],
+      "sourceIds": [
+        "official-returns",
+        "official-contact"
+      ],
+      "related": [
+        "qc",
+        "articles/pikobuy-qc-measurements",
+        "articles/pikobuy-haul-budget"
+      ]
+    },
+    {
+      "slug": "pikobuy-tracking-not-updating",
+      "title": "Pikobuy izsekošana neatjaunojas? Pārbaudi posmu un nākamo soli",
+      "description": "Noskaidro, kāpēc Pikobuy izsekošana neatjaunojas, identificējot sūtījuma posmu, izvērtējot pieejamos pierādījumus un sagatavojot noderīgu jautājumu atbalstam.",
+      "intro": "Ja Pikobuy izsekošanā nav jaunumu, vispirms nosaki, kurai kustībai mēģini sekot. Pārdevēja piegāde uz noliktavu un vēlākais starptautiskais sūtījums ir atsevišķi posmi. Arī pasūtījuma ieraksts, sūtījuma atsauce un pārvadātāja izsekošanas numurs var atbildēt uz dažādiem jautājumiem. Noderīgs nākamais solis ir atkarīgs no pēdējā apstiprināmā notikuma, nevis dienu skaita kopš pirmās samaksas par preci.",
+      "sections": [
+        {
+          "id": "identify-shipment",
+          "heading": "1. Identificē kustību, kurai seko",
+          "paragraphs": [
+            "Pieraksti, vai gaidi, kad pārdevējs nosūtīs preci, noliktavas apstrādi vai starptautisku sūtījumu. Saglabā attiecīgo atsauci blakus šim posmam. Nepieņem, ka vienai kustībai pievienots numurs izseko arī nākamo.",
+            "Ja tev ir vairākas preces, nošķir atsevišķas preces progresu no sūtījuma, kurā ir vairākas preces. Viena pārdevēja nosūtīšana nepierāda, ka viss iecerētā sūtījuma saturs ir gatavs. Izmanto faktiskos pasūtījuma un sūtījuma ierakstus, lai saprastu, kas iesniegts, nevis mēģini procesu atjaunot no atmiņas."
+          ]
+        },
+        {
+          "id": "locate-dispatch",
+          "heading": "2. Atrodi starptautiskās nosūtīšanas notikumu",
+          "paragraphs": [
+            "Pikobuy rokasgrāmatas norāde par izsekošanas informācijas pieejamību trīs dienās attiecas uz laiku pēc sūtījuma nosūtīšanas. Šis sākumpunkts ir svarīgs. Preces apmaksa, saņemšana noliktavā un sūtījuma pieteikšana nav automātiski tas pats notikums, kas starptautiskā nosūtīšana.",
+            "Pirms salīdzini savu situāciju ar publicēto norādi, pārbaudi reģistrēto nosūtīšanas datumu. Ja ieraksts skaidri neapstiprina, ka nosūtīšana notikusi, prasi precizējumu, nevis iztrūkstošu skenējumu uzskati par pārvadātāja kavējumu. Glabā atbildi kopā ar sūtījuma datiem. Norāde attiecas uz izsekošanas pieejamību; tā negarantē ierašanās datumu un nenosaka konkrēta pārtraukuma cēloni."
+          ]
+        },
+        {
+          "id": "read-event-type",
+          "heading": "3. Izlasi, ko pēdējais notikums patiesībā saka",
+          "paragraphs": [
+            "Ieraksts par etiķetes vai nosūtīšanas informācijas esamību atšķiras no pierādījuma, ka pārvadātājs fiziski pieņēmis paku. Vēlākie notikumi var aprakstīt apstrādi, nodošanu, piegādes mēģinājumu vai citu darbību. Izlasi pilno tekstu un laika atzīmi, nevis paļaujies tikai uz krāsainu progresa joslu.",
+            "Nepārvērt nepazīstamu statusa formulējumu stiprākā apgalvojumā, nekā tas pamato. Ja notikumā minēts partneris vai cits pārvadātājs, pieraksti šo informāciju un pārbaudi, vai norādīta attiecīga atsauce. Nepieņem, ka vispārīgs interneta statusu skaidrojums precīzi definē katru paziņojumu par tavu sūtījumu."
+          ]
+        },
+        {
+          "id": "build-timeline",
+          "heading": "4. Izveido īsu pierādījumu hronoloģiju",
+          "paragraphs": [
+            "Vienkāršs žurnāls palīdz atšķirt nemainīgu notikumu no jauna notikuma ar līdzīgu tekstu. Precīzi pārkopē formulējumu, saglabā norādīto laiku un atzīmē, kur to ieguvi. Tālāk redzams izdomāts ieraksta formāts, nevis reāla sūtījuma vēsture vai oficiāla statusu vārdnīca."
+          ],
+          "table": {
+            "headers": [
+              "Notikums piemēra ierakstā",
+              "Ko vari secināt",
+              "Kas vēl nav zināms"
+            ],
+            "rows": [
+              [
+                "Reģistrēta sūtījuma pieteikšana",
+                "Redzama pieteikšanas darbība",
+                "Vai nosūtīšana jau notikusi"
+              ],
+              [
+                "Reģistrēta nosūtīšana",
+                "Platforma ziņo par nosūtīšanu",
+                "Vai redzams pārvadātāja skenējums"
+              ],
+              [
+                "Saņemta informācija par sūtījumu",
+                "Reģistrēta elektroniska informācija",
+                "Vai apstiprināta fiziska pieņemšana"
+              ],
+              [
+                "Reģistrēta pārvadātāja pieņemšana",
+                "Redzams pieņemšanas notikums",
+                "Galīgais piegādes datums"
+              ],
+              [
+                "Reģistrēta piegādes problēma",
+                "Jāizprot problēmas nozīme",
+                "Cēlonis un vajadzīgā darbība līdz to precizēšanai"
+              ]
+            ]
+          }
+        },
+        {
+          "id": "choose-next-action",
+          "heading": "5. Izvēlies darbību atbilstoši trūkstošajam pierādījumam",
+          "paragraphs": [
+            "Ja nav starptautiskā sūtījuma atsauces, sāc ar platformas ierakstu. Ja nosūtīšana reģistrēta, bet izsekošana nav parādījusies publicētajā norādē minētajā laikā, jautā Pikobuy par šo sūtījumu. Ja pārvadātāja notikums pastāv, bet vairs nemainās, saglabā pēdējo apstiprināto notikumu un pārbaudi attiecīgā pakalpojuma informāciju.",
+            "Adreses vai piegādes problēmas gadījumā rūpīgi izlasi prasīto rīcību un pārbaudi to oficiālā pārvadātāja vai platformas kanālā. Kluss izsekošanas periods pats par sevi nepierāda nozaudēšanu, un mierinoša aplēse nepierāda, ka paka virzās uz priekšu. Koncentrē jautājumu uz to, kāds pierādījums vai darbība trūkst."
+          ]
+        },
+        {
+          "id": "prepare-ticket",
+          "heading": "6. Nosūti atbalstam noderīgo informāciju",
+          "paragraphs": [
+            "Iekļauj sūtījuma atsauci, nosūtīšanas datumu, ja norādīts, pārvadātāju un izsekošanas numuru, pēdējo notikumu un tā laika atzīmi. Pievieno ekrānattēlu, ja tas palīdz saglabāt formulējumu, kas var mainīties. Norādi jautājumu, uz kuru vēlies atbildi, piemēram, vai nodošana pārvadātājam ir apstiprināta.",
+            "Īss piemērs: šim sūtījumam reģistrētajā datumā norādīta nosūtīšana, bet nevaru atrast pārvadātāja pieņemšanas notikumu. Pievienots pašreizējais izsekošanas teksts. Lūdzu, apstipriniet pēdējo pārbaudīto kustību un to, vai man jārīkojas. Izmanto Pikobuy oficiālo kontaktu lapu atbilstošajam atbalsta kanālam; šī neatkarīgā vietne nevar apskatīt tavu privāto sūtījumu."
+          ]
+        },
+        {
+          "id": "close-record",
+          "heading": "7. Saglabā ierakstu līdz piegādei",
+          "paragraphs": [
+            "Atjaunini žurnālu, kad pienāk nozīmīgs notikums, un neuztver atkārtotu tās pašas lapas pārbaudi kā jaunu pierādījumu. Saglabā norādījumus vai atbildes, kas maina paredzēto nākamo darbību. Ja tavai lietai norādīts termiņš vai jautājuma tālākas izskatīšanas solis, skaidri pieraksti to.",
+            "Kad sūtījums pienāk, salīdzini saturu ar savu preču sarakstu un saglabāto pārbaudes ierakstu. Saglabā attiecīgo iepakojumu un etiķetes, kamēr tiek noskaidrota jebkāda neatbilstība. Pabeigta izsekošana un apmierinoša satura pārbaude ir atsevišķi novērojumi. Sakārtots ieraksts palīdz izskaidrot piegādes vai preces problēmu, nesajaucot tās."
+          ]
+        }
+      ],
+      "sourceIds": [
+        "official-guide",
+        "official-contact"
+      ],
+      "related": [
+        "shipping",
+        "guide",
+        "faq"
+      ]
+    }
+  ]
+}

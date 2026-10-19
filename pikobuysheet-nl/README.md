@@ -16,15 +16,16 @@ npm ci
 npm run dev
 npm run build
 npm run check:source
+npm run check:editorial
 ```
 
 构建输出 `dist/server/index.js` 为标准 Worker ESM 默认导出。静态资源一并封装，避免部署端遗漏资源。`worker/index.mjs` 负责正式请求；Astro 的 `src/pages/api/` 只用于开发预览。不可把 `.astro-out/` 单独部署作为完整功能站。
 
 ## 页面与多语言
 
-荷兰语默认 `/`，其他语言采用 `/en/`、`/de/` 等前缀。共 24 种语言，每种都有首页、商品清单、购买指南、QC 指南、运输说明五类页面；切换语言保留页面及查询条件。商品原始名称保持主站文本。
+荷兰语默认 `/`，其他语言采用 `/en/`、`/de/` 等前缀。共 24 种语言，每种包含首页、商品清单、购买指南、QC 指南、运输说明、FAQ、文章目录及 10 篇独立文章，共 17 条路由、408 个页面；切换语言保留页面及查询条件。商品原始名称保持主站文本。
 
-包含自引用 canonical、24 语 hreflang 与 x-default、sitemap、WebSite 结构化数据。筛选、搜索和详情弹窗不生成重复 SEO 页面。正式域名以外及带查询参数的响应添加 noindex。
+包含自引用 canonical、24 语 hreflang 与 x-default、sitemap、WebSite / Article / BreadcrumbList / FAQPage 结构化数据。筛选、搜索和详情弹窗不生成重复 SEO 页面。正式域名以外及带查询参数的响应添加 noindex。
 
 ## 数据契约
 
@@ -51,3 +52,13 @@ npm run check:source
 购买：将 `https://weidian.com/item.html?itemID={productId}` 编码为 `https://www.pikobuy.com/product/detail` 的 `productUrl` 参数。没有自行添加邀请码。
 
 Logo / favicon 来源见 `BRAND_ASSETS.md`。页面标明独立商品指南身份。
+
+## 文章、FAQ 与维护
+
+- `/articles/` 为独立文章目录；10 篇文章分别覆盖选品、服装尺码、链接、QC 测量、预算、包裹体积、鞋码、包袋尺寸、仓库退货和物流停更。英文基稿每篇约 780–850 词。
+- 首页呈现 4 篇文章及 24 条可展开 FAQ；`/faq/` 为完整独立页面。每个答案都有官方来源，文章列出核对日期与官方资料。
+- 文稿在 `src/content/editorial/<locale>.json`，稳定英文 slug 跨语言保持一致。每语保留全部正文、段落、示例和表格；构建检查拒绝整篇英文回退或内容遗漏。
+- 官方及竞争关键词研究在 `docs/research/`；这是搜索意图和内容差异研究，没有搜索量或难度数值。
+- 手机端共享紧凑导航，首页装饰图片区收起；文章目录默认折叠，表格改纵向卡片。所有商品页依旧两列、每页20件。
+- 预生成 HTML 在构建时 gzip 压缩后封入 Worker，请求时流式解压，避免多语言内容造成脚本过大；不增建数据库。
+- 新内容发布前执行两项检查：源数据契约回归与全部页面/本地化/结构化数据检查。政策更新须重新核对官方链接及核对日期。
