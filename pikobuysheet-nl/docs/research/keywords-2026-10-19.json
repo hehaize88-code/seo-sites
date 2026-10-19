@@ -1,0 +1,651 @@
+{
+  "date": "2026-10-19",
+  "site": "https://pikobuysheet.nl",
+  "research_scope": "Current public search results and selected competitor pages; editorial research only. No search volume, keyword difficulty, rank guarantees or traffic forecasts were available or invented.",
+  "sources": [
+    {
+      "url": "https://pikobuy-spreadsheets.com/",
+      "title": "Pikobuy Spreadsheet 2026 | Taobao, Weidian & 1688 Finds",
+      "type": "competitor",
+      "observations": [
+        "Positions the head term as searchable product discovery with category, price and keyword filters.",
+        "Claims 7,000+ finds and variants; this is the competitor's claim, not independently audited inventory.",
+        "Uses category cards, dated product entries, QC notes, a full spreadsheet, guides, FAQ and news.",
+        "Opportunity: provide original comparison examples and decision tools instead of repeating short category checklists. Do not claim every entry has QC; competitor itself says some entries have QC references or product images."
+      ]
+    },
+    {
+      "url": "https://pikobuy.org/",
+      "title": "pikobuy Spreadsheet Guide | QC Links & Findsindex Categories",
+      "type": "competitor",
+      "observations": [
+        "Independent informational hub sending product searches to Findsindex.",
+        "Organizes searches into spreadsheet/finds, source links, QC, sizing, shipping and categories.",
+        "States it does not sell, process orders, verify sellers or represent Pikobuy.",
+        "Checklist, safety and general guide pages cover similar evidence checks; this is a reason to avoid a set of near-duplicate articles."
+      ]
+    },
+    {
+      "url": "https://pikobuyspreadsheets.com/",
+      "title": "Pikobuy Spreadsheet Guide 2026 | pikobuyspreadsheets",
+      "type": "competitor",
+      "observations": [
+        "Independent guide with guide/category/search/checklist/shipping/safety/FAQ navigation.",
+        "Similar positioning and repeated shortlist language to pikobuy.org; do not imitate the wording or treat these sites as independent corroboration of platform policy.",
+        "Category, source, QC, sizing and shipping clusters are observable in results, but no demand magnitude can be inferred from this presence."
+      ]
+    },
+    {
+      "url": "https://pikobuy.to/",
+      "title": "Pikobuy Spreadsheet 2026 — 9,300+ Finds with QC Photos",
+      "type": "competitor",
+      "observations": [
+        "Competes with a large searchable product database plus sizing, QC, shipping and link-conversion navigation.",
+        "Its current inventory and coupon numbers are marketing claims, not Pikobuy policy verification.",
+        "The page calls itself independent and acknowledges its displayed prices are not a live feed.",
+        "Do not copy coupon percentages, delivery ranges, product counts, 'live price' claims or assertions that all links work."
+      ]
+    },
+    {
+      "url": "https://pikobuy.com.pl/pikobuy-sizing-guide.html",
+      "title": "Pikobuy Sizing Guide | Read Size Charts With Measurements",
+      "type": "competitor",
+      "observations": [
+        "Confirms informational size-chart intent in current results.",
+        "Already covers reference garments, different measuring endpoints and photo ambiguity. A new article needs its own useful measurement example rather than a generic 'size up' recommendation."
+      ]
+    },
+    {
+      "url": "https://pikobuychina.com/guides/pikobuy-shoe-size-guide-qc-measurements-2026",
+      "title": "PikoBuy Shoe Size Guide: Measurements & QC Checks",
+      "type": "competitor",
+      "observations": [
+        "Shoe-fit intent appears separately from generic clothing-size searches.",
+        "Distinguishes foot, insole, internal and outsole measurements. Opportunity is a clear evidence-request table and worked size-label mismatch example, without inventing a universal conversion."
+      ]
+    },
+    {
+      "url": "https://pikobuy-sheet.net/articles/pikobuy-taobao-weidian-1688-yupoo-links/",
+      "title": "PikoBuy Links Guide: Taobao, Weidian, 1688 & Yupoo",
+      "type": "competitor",
+      "observations": [
+        "Original-source and imported-link identity is an existing informational topic.",
+        "Differentiate by an explicit mismatch triage table and a reusable source/variant record, not by claiming to offer a converter when no working tool exists."
+      ]
+    },
+    {
+      "url": "https://pikobuyy.com/articles/pikobuy-tracking-guide/",
+      "title": "Pikobuy Tracking Guide: Order & Parcel Status",
+      "type": "competitor",
+      "observations": [
+        "Tracking has post-purchase troubleshooting intent, separate from shipping-price research.",
+        "A useful new page should help readers identify the stage, evidence needed and next action without fabricating Pikobuy dashboard status labels."
+      ]
+    },
+    {
+      "url": "https://www.pikobuy.com/guide",
+      "title": "Shopping guide | PIKOBUY",
+      "type": "official_platform",
+      "observations": [
+        "Official six-stage process: select, search, purchase/payment, warehouse inspection, international shipping payment, delivery wait.",
+        "Names Taobao, Tmall, 1688, Weidian and Yupoo; supports saving product/store information and asking support when an item cannot be found.",
+        "Describes warehouse photo confirmation and defect checks; packaging requests may be added.",
+        "Says routes differ in billing methods and time. Tracking statement starts after parcel shipment, not product payment: information available within three days.",
+        "These are published platform statements, not independently measured performance guarantees."
+      ]
+    },
+    {
+      "url": "https://www.pikobuy.com/shipping-cost",
+      "title": "Shipping estimate | PIKOBUY",
+      "type": "official_platform",
+      "observations": [
+        "Estimator inputs shown publicly: destination country/region, product type, weight in kg, length, width and height in cm.",
+        "No live route quote was generated during this research. Do not invent shipping rates, a universal dimensional divisor, route availability or delivery promises."
+      ]
+    },
+    {
+      "url": "https://www.pikobuy.com/protocol/returns",
+      "title": "Returns & exchanges",
+      "type": "official_platform",
+      "observations": [
+        "Published application instructions define five days as 120 hours, counted from the next hour after In Warehouse status.",
+        "Return eligibility depends on seller terms, resalable condition and timing; seller consent remains relevant.",
+        "The fee section lists return shipping, original seller shipping and RMB 5 for an unconditional return.",
+        "There is inconsistent wording about original shipping on free-shipping orders between the eligibility table and fee section; do not silently resolve the inconsistency. Ask readers to obtain the order-specific quote from support.",
+        "This concerns warehouse returns; do not promise a universal five-day refund after international delivery or guarantee approval."
+      ]
+    },
+    {
+      "url": "https://www.pikobuy.com/protocol/shipping",
+      "title": "Shipping terms",
+      "type": "official_platform",
+      "observations": [
+        "This page's service description is specifically about forwarded goods sent by the customer/sender to the warehouse.",
+        "It describes inspection photographs and purchasable detailed photos for that forwarding context, and says specialized product inspection cannot be provided.",
+        "Do not generalize its no-after-sales-for-forwarded-products statement to all purchasing orders.",
+        "It describes third-party logistics risks; no evidence here supports guaranteed arrival, insurance coverage or customs outcomes."
+      ]
+    },
+    {
+      "url": "https://www.pikobuy.com/contact",
+      "title": "Contact us | PIKOBUY",
+      "type": "official_platform",
+      "observations": [
+        "Provides an official contact route and recommends submitting a ticket.",
+        "Describes combining items from multiple sellers into one parcel. This does not prove consolidation is always the lowest-cost choice.",
+        "Link readers to the current contact page; do not invent an email address, support response time or private dashboard workflow."
+      ]
+    },
+    {
+      "url": "https://www.pikobuy.com/protocol/terms",
+      "title": "Terms of service",
+      "type": "official_platform",
+      "observations": [
+        "Identifies purchasing assistance, inspection, shipping/tracking and after-sales as services while stating Pikobuy is normally not the manufacturer or seller of record.",
+        "States cross-border transactions may incur duties, taxes, brokerage or other charges.",
+        "Prohibits infringing products and states an anti-counterfeit policy. Do not describe the official platform as endorsing counterfeit purchases merely because competitor sites use 'reps' language.",
+        "Its jurisdiction paragraphs are internally inconsistent; avoid deriving legal conclusions. No jurisdiction-specific customs advice is needed for the proposed articles."
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "slug": "pikobuy-spreadsheet-checklist",
+      "path": "/articles/pikobuy-spreadsheet-checklist",
+      "title": "Pikobuy Spreadsheet Checklist: Compare Finds Before You Order",
+      "keyword": "pikobuy spreadsheet checklist",
+      "secondary": [
+        "pikobuy finds",
+        "compare pikobuy links",
+        "pikobuy spreadsheet rows",
+        "pikobuy shortlist"
+      ],
+      "decision": "Which of several saved rows deserves further research, and which must be held or removed?",
+      "outline": [
+        "Define the purchase requirement before browsing: purpose, maximum total budget and non-negotiable fit",
+        "Create a compact candidate record: source, selected variant, evidence date and missing information",
+        "Separate seller images, earlier buyers' QC and evidence for your own order",
+        "Apply hard stops before scoring preferences: wrong source, unclear variant, missing key measurements",
+        "Worked example comparing three explicitly fictional rows with different evidence gaps",
+        "Use keep/hold/remove outcomes with one concrete next action per row",
+        "Recheck a shortlist before paying and hand off to the main ordering guide"
+      ],
+      "distinctive_asset": "Original three-candidate decision table; label all illustrative values and products hypothetical.",
+      "internal_links": [
+        {
+          "path": "/spreadsheet",
+          "anchor": "browse the Pikobuy spreadsheet"
+        },
+        {
+          "path": "/guide",
+          "anchor": "follow the complete order process"
+        },
+        {
+          "path": "/articles/pikobuy-product-links",
+          "anchor": "check the original product link"
+        },
+        {
+          "path": "/articles/pikobuy-haul-budget",
+          "anchor": "estimate the full haul budget"
+        }
+      ],
+      "avoid": "Do not create another general what-is-a-spreadsheet page or target every spelling variant in separate headings. Keep the head term owned by the spreadsheet hub."
+    },
+    {
+      "slug": "pikobuy-clothing-size-chart",
+      "path": "/articles/pikobuy-clothing-size-chart",
+      "title": "Pikobuy Clothing Size Charts: Measure Before Choosing a Size",
+      "keyword": "pikobuy size chart",
+      "secondary": [
+        "pikobuy clothing sizing",
+        "pikobuy measurements",
+        "pikobuy hoodie size chart",
+        "Chinese clothing size chart"
+      ],
+      "decision": "Which clothing variant matches a known reference garment, or is the chart too unclear to order?",
+      "outline": [
+        "Determine whether the chart contains body ranges or finished-garment measurements",
+        "Choose a reference garment with comparable cut, fabric and intended use",
+        "Record the measuring endpoints for chest, shoulder, sleeve, waist, rise and inseam",
+        "Distinguish flat width from circumference and keep all units consistent",
+        "Worked example: compare two hypothetical hoodie size columns against one measured garment",
+        "Handle stretch, layering and seller-stated tolerance without universal size-up rules",
+        "Request the missing measurement and record the exact variant before checkout"
+      ],
+      "distinctive_asset": "Measurement worksheet plus a labeled flat-width versus circumference example; no fabricated universal Chinese-to-EU conversion table.",
+      "internal_links": [
+        {
+          "path": "/spreadsheet",
+          "anchor": "compare clothing finds"
+        },
+        {
+          "path": "/articles/pikobuy-qc-measurements",
+          "anchor": "request a useful warehouse measurement photo"
+        },
+        {
+          "path": "/articles/pikobuy-shoe-sizing",
+          "anchor": "use the separate shoe-fit method"
+        },
+        {
+          "path": "/articles/pikobuy-warehouse-returns",
+          "anchor": "check warehouse return conditions"
+        }
+      ],
+      "avoid": "Limit this article to clothing. Do not repeat the detailed footwear process or guarantee fit from a chart."
+    },
+    {
+      "slug": "pikobuy-product-links",
+      "path": "/articles/pikobuy-product-links",
+      "title": "Pikobuy Product Links: Check Sources and Fix Listing Mismatches",
+      "keyword": "pikobuy product links",
+      "secondary": [
+        "pikobuy Taobao links",
+        "pikobuy Weidian links",
+        "pikobuy 1688",
+        "pikobuy Yupoo",
+        "pikobuy link not working",
+        "pikobuy link converter"
+      ],
+      "decision": "Does an imported or converted link still identify the intended product and option, and what should happen if it does not?",
+      "outline": [
+        "Save the source product, store, option and review date before using an agent link",
+        "Understand the difference between a marketplace product listing, a shop page and a photo album",
+        "Use the official search workflow without guessing current dashboard labels",
+        "Match source and imported result using product identity, seller context, variant and price basis",
+        "Troubleshoot unavailable listings, shortened links, login walls and wrong-product results",
+        "Explain what link conversion can preserve and what it cannot verify",
+        "Prepare a concise support request when the correct item cannot be found"
+      ],
+      "distinctive_asset": "Failure-state table with symptom, check, evidence to retain and next action; source/variant record template.",
+      "internal_links": [
+        {
+          "path": "/guide",
+          "anchor": "see how a product link becomes an order"
+        },
+        {
+          "path": "/articles/pikobuy-spreadsheet-checklist",
+          "anchor": "return to the shortlist checklist"
+        },
+        {
+          "path": "/faq",
+          "anchor": "read common spreadsheet questions"
+        }
+      ],
+      "avoid": "Do not advertise a working converter unless the site implements and verifies it. Do not claim that a successful import proves stock, seller reliability or authenticity."
+    },
+    {
+      "slug": "pikobuy-qc-measurements",
+      "path": "/articles/pikobuy-qc-measurements",
+      "title": "Pikobuy QC Measurements: Ask for Photos That Answer Your Question",
+      "keyword": "pikobuy qc measurements",
+      "secondary": [
+        "pikobuy measurement photos",
+        "pikobuy extra qc photos",
+        "pikobuy detailed photos",
+        "pikobuy qc photo request"
+      ],
+      "decision": "What exact missing evidence should be requested before accepting a fit, variant or visible-condition conclusion?",
+      "outline": [
+        "Start with one unresolved decision rather than asking for more photos generally",
+        "Identify the order and exact item so earlier buyer images are not confused with current evidence",
+        "Specify endpoints, ruler position, unit, selected variant and a readable view",
+        "Write practical requests for garment width, shoe labels, bag openings and visible defects",
+        "Reject ambiguous measurements: curved tape, hidden zero, angled view or unmatched option",
+        "Explain the limits of visual inspection for function, durability, material composition and authenticity",
+        "Choose an action after the evidence arrives and check return timing if a problem remains"
+      ],
+      "distinctive_asset": "Four short original photo-request templates and an answerable-versus-unanswerable question table.",
+      "internal_links": [
+        {
+          "path": "/qc",
+          "anchor": "review the main QC photo guide"
+        },
+        {
+          "path": "/articles/pikobuy-clothing-size-chart",
+          "anchor": "compare garment measurements correctly"
+        },
+        {
+          "path": "/articles/pikobuy-bag-dimensions",
+          "anchor": "check bag capacity and openings"
+        },
+        {
+          "path": "/articles/pikobuy-warehouse-returns",
+          "anchor": "review a warehouse return request"
+        }
+      ],
+      "avoid": "The broad QC guide remains on /qc. Do not promise free extra photos, fixed photo counts or a specific purchase-order service from forwarding terms alone. Tell readers to confirm availability and cost in their own order."
+    },
+    {
+      "slug": "pikobuy-haul-budget",
+      "path": "/articles/pikobuy-haul-budget",
+      "title": "Pikobuy Haul Budget: Add Up the Cost Before Buying",
+      "keyword": "pikobuy haul cost",
+      "secondary": [
+        "pikobuy total cost",
+        "pikobuy fees",
+        "pikobuy budget",
+        "pikobuy two payments",
+        "pikobuy shipping estimate"
+      ],
+      "decision": "Does the planned purchase remain affordable after all known and uncertain cost components are included?",
+      "outline": [
+        "Separate the product purchase stage from international parcel payment",
+        "Build cost rows for items, domestic delivery, shown service/payment charges and currency conversion",
+        "Add international shipping with its quote date and parcel assumptions",
+        "Keep possible destination taxes, duties and handling charges visible without inventing a local rate",
+        "Worked example using clearly hypothetical values with confirmed, estimated and unknown columns",
+        "Compare a minimum, likely and reserve budget without treating the result as a quote",
+        "Recalculate when items, packaging, options or coupons change and remove the least useful item first"
+      ],
+      "distinctive_asset": "Original itemized budget table and a simple transparent calculation; illustrative numbers explicitly not current Pikobuy prices.",
+      "internal_links": [
+        {
+          "path": "/shipping",
+          "anchor": "understand shipping choices"
+        },
+        {
+          "path": "/articles/pikobuy-parcel-weight-dimensions",
+          "anchor": "check parcel weight and dimensions"
+        },
+        {
+          "path": "/articles/pikobuy-spreadsheet-checklist",
+          "anchor": "trim the shortlist"
+        },
+        {
+          "path": "/guide",
+          "anchor": "review the two payment stages"
+        }
+      ],
+      "avoid": "Do not duplicate /shipping with route rankings or rates. Do not claim fixed payment fees or current coupon discounts without primary verification. Destination tax calculations would require separate current government sourcing."
+    },
+    {
+      "slug": "pikobuy-parcel-weight-dimensions",
+      "path": "/articles/pikobuy-parcel-weight-dimensions",
+      "title": "Pikobuy Parcel Weight and Dimensions: Compare Packing Choices",
+      "keyword": "pikobuy volumetric weight",
+      "secondary": [
+        "pikobuy parcel dimensions",
+        "pikobuy shipping weight",
+        "pikobuy packing",
+        "pikobuy shoe box shipping",
+        "pikobuy shipping calculator"
+      ],
+      "decision": "Which packaging option gives an acceptable balance of protection, usable dimensions and quoted shipping cost?",
+      "outline": [
+        "Distinguish item weight, packed scale weight, parcel dimensions and a route's billing rules",
+        "Collect the official estimator's required inputs in consistent units",
+        "Compare packed options with the same destination and product type",
+        "Explain dimensional-weight arithmetic only as a labeled illustration with a hypothetical divisor",
+        "Worked comparison: boxed shoes versus protective repacking, including uncertainty and protection tradeoffs",
+        "Evaluate whether combining or splitting items changes quoted cost or restrictions",
+        "Record the final packing instruction and recheck the route quote before payment"
+      ],
+      "distinctive_asset": "Two-option packing comparison table; optional formula example must say the actual route controls the divisor and rounding.",
+      "internal_links": [
+        {
+          "path": "/shipping",
+          "anchor": "use the shipping overview"
+        },
+        {
+          "path": "/articles/pikobuy-haul-budget",
+          "anchor": "update the full haul budget"
+        },
+        {
+          "path": "/articles/pikobuy-bag-dimensions",
+          "anchor": "plan protection for structured bags"
+        },
+        {
+          "path": "/articles/pikobuy-warehouse-returns",
+          "anchor": "check return conditions before removing packaging"
+        }
+      ],
+      "avoid": "Do not state every route uses dimensional weight, one universal divisor, or that discarding boxes always saves money. Do not claim customs advantages from splitting parcels."
+    },
+    {
+      "slug": "pikobuy-shoe-sizing",
+      "path": "/articles/pikobuy-shoe-sizing",
+      "title": "Pikobuy Shoe Sizing: Compare Foot Length, Labels and Insoles",
+      "keyword": "pikobuy shoe sizing",
+      "secondary": [
+        "pikobuy shoe size chart",
+        "pikobuy shoes measurements",
+        "pikobuy sneaker sizing",
+        "pikobuy insole measurement"
+      ],
+      "decision": "Does the exact shoe option have enough compatible size evidence to justify ordering or shipping it?",
+      "outline": [
+        "Identify the model, option label and the seller's sizing system",
+        "Measure feet consistently and record the larger measurement without turning it into a universal size rule",
+        "Distinguish foot length, internal space, removable insole length and outsole length",
+        "Account for width, toe shape, socks and the intended use of the shoe",
+        "Worked example resolving a hypothetical imported selector versus source-chart mismatch",
+        "Match warehouse size labels and requested measurements to the selected pair",
+        "Use proceed, request evidence or return-review outcomes when fit remains unresolved"
+      ],
+      "distinctive_asset": "Measurement-definition table and a size-label mismatch case with no universal conversion claim.",
+      "internal_links": [
+        {
+          "path": "/spreadsheet",
+          "anchor": "browse shoe finds"
+        },
+        {
+          "path": "/articles/pikobuy-qc-measurements",
+          "anchor": "request a readable measurement photo"
+        },
+        {
+          "path": "/articles/pikobuy-parcel-weight-dimensions",
+          "anchor": "compare shoe-box packing options"
+        },
+        {
+          "path": "/articles/pikobuy-warehouse-returns",
+          "anchor": "check return eligibility before changing packaging"
+        }
+      ],
+      "avoid": "Do not repeat clothing sizing or imply photos prove comfort, performance or brand authenticity. Category terms belong naturally in the article, not a list of brands with no product evidence."
+    },
+    {
+      "slug": "pikobuy-bag-dimensions",
+      "path": "/articles/pikobuy-bag-dimensions",
+      "title": "Pikobuy Bags: Check Capacity, Straps and Construction",
+      "keyword": "pikobuy bags",
+      "secondary": [
+        "pikobuy bag dimensions",
+        "pikobuy backpack sizing",
+        "pikobuy bag qc",
+        "pikobuy bag spreadsheet"
+      ],
+      "decision": "Will the bag carry the intended items and suit its use, with enough visible construction evidence to continue?",
+      "outline": [
+        "Define the items it must carry and measure the largest rigid object",
+        "Separate external dimensions, internal capacity and the usable opening",
+        "Check strap range, handle drop and carrying configuration against intended use",
+        "Inspect lining, seams, attachment points, closures and included accessories",
+        "Worked comparison: two hypothetical bags with similar external size but different openings",
+        "Evaluate shape protection and packaging volume before choosing the lower item price",
+        "Turn missing evidence into a photo or measurement request and record the keep/hold decision"
+      ],
+      "distinctive_asset": "Capacity-fit comparison and bag-specific inspection table; if no verified current finds are embedded, present the page clearly as a research guide rather than a ranked best-products list.",
+      "internal_links": [
+        {
+          "path": "/spreadsheet",
+          "anchor": "browse current bag finds"
+        },
+        {
+          "path": "/qc",
+          "anchor": "understand QC photo limits"
+        },
+        {
+          "path": "/articles/pikobuy-qc-measurements",
+          "anchor": "request an opening or strap measurement"
+        },
+        {
+          "path": "/articles/pikobuy-parcel-weight-dimensions",
+          "anchor": "compare protective packing choices"
+        }
+      ],
+      "avoid": "Do not use the same generic category checklist as shoes. Photos cannot prove leather composition, load rating or durability. No invented recommended products or testing claims."
+    },
+    {
+      "slug": "pikobuy-warehouse-returns",
+      "path": "/articles/pikobuy-warehouse-returns",
+      "title": "Pikobuy Warehouse Returns: Timing, Evidence and Costs",
+      "keyword": "pikobuy return policy",
+      "secondary": [
+        "pikobuy warehouse return",
+        "pikobuy refund",
+        "pikobuy 120 hours",
+        "pikobuy cancel order",
+        "pikobuy return fees"
+      ],
+      "decision": "Is an order eligible for a warehouse return request now, and what evidence and cost confirmation are needed?",
+      "outline": [
+        "Identify whether the item is unshipped, at the warehouse or already sent internationally",
+        "Read the official warehouse application window and confirm the order's exact cutoff",
+        "Check seller eligibility, resalable condition, tags, packaging and excluded categories",
+        "Separate wrong-item or visible-defect evidence from a change-of-mind request",
+        "Build a concise support request with order, issue, photos and desired resolution",
+        "Review listed fee components and ask support to resolve the official page's inconsistent free-shipping wording",
+        "Save the decision and follow the live case without promising approval or refund timing"
+      ],
+      "distinctive_asset": "Eligibility/action matrix and one original support-ticket template. Link the live official policy and show the genuine checked date.",
+      "internal_links": [
+        {
+          "path": "/qc",
+          "anchor": "organize the QC evidence"
+        },
+        {
+          "path": "/articles/pikobuy-qc-measurements",
+          "anchor": "request a missing measurement"
+        },
+        {
+          "path": "/articles/pikobuy-haul-budget",
+          "anchor": "account for possible return costs"
+        },
+        {
+          "path": "/faq",
+          "anchor": "review common order questions"
+        }
+      ],
+      "avoid": "Do not promise free or automatic returns, treat the warehouse window as an international-delivery guarantee, or guess an exact UI control. This is a summary of published platform procedure, not legal advice about statutory rights."
+    },
+    {
+      "slug": "pikobuy-tracking-not-updating",
+      "path": "/articles/pikobuy-tracking-not-updating",
+      "title": "Pikobuy Tracking Not Updating? Check the Stage and Next Step",
+      "keyword": "pikobuy tracking not updating",
+      "secondary": [
+        "pikobuy tracking",
+        "pikobuy parcel status",
+        "pikobuy shipping updates",
+        "pikobuy tracking number"
+      ],
+      "decision": "Is the reader waiting for seller delivery, warehouse processing or international tracking, and what evidence should be checked or sent to support?",
+      "outline": [
+        "Separate a product order, seller-to-warehouse shipment and international parcel",
+        "Find the dispatch event before interpreting the official three-day tracking statement",
+        "Compare a label-created event with carrier acceptance without treating either as proof of delivery",
+        "Read a timeline using timestamps, carrier names and the last confirmed physical scan",
+        "Use a stage-based action table for no tracking number, no first scan, transit gaps and delivery exceptions",
+        "Prepare a support request with parcel ID, carrier, last scan, dispatch date and screenshots",
+        "Keep delivery estimates and final outcomes separate; verify the contents when the parcel arrives"
+      ],
+      "distinctive_asset": "Original stage/known evidence/next action table and concise ticket template. Use neutral descriptive stages rather than invented Pikobuy dashboard labels.",
+      "internal_links": [
+        {
+          "path": "/shipping",
+          "anchor": "understand the international shipping stage"
+        },
+        {
+          "path": "/guide",
+          "anchor": "review the complete ordering timeline"
+        },
+        {
+          "path": "/faq",
+          "anchor": "find common delivery questions"
+        }
+      ],
+      "avoid": "Do not diagnose an unviewed private order, guarantee arrival, promise carrier deadlines, or imply tracking starts three days after product payment. Do not call an illustrative status list the official Pikobuy status dictionary."
+    }
+  ],
+  "notes": {
+    "search_method": "Searched pikobuy spreadsheet and named competitors, then size-chart, shipping-cost, returns, link-failure, category and tracking variants. Used both search engines and opened the three requested competitors and official Pikobuy policy pages. This is intent/content-gap research, not a measured keyword database export.",
+    "top_conclusions": [
+      "The head query is primarily discovery intent: a searchable catalog with product information should remain its landing page.",
+      "Current search results contain many independent exact-match-domain guides with highly similar generic copy. Ten more general introductions would not create ten distinct reader benefits.",
+      "Use article-specific decisions, useful original tables and clearly labeled hypothetical worked examples; source platform policy directly.",
+      "No official evidence checked here verifies competitor product counts, coupons, universal shipping prices or assured product quality.",
+      "The .nl domain alone does not justify Netherlands-specific tax or customs claims. Keep this set destination-neutral unless current government sources are researched separately."
+    ],
+    "keyword_ownership": [
+      {
+        "path": "/spreadsheet",
+        "intent": "Live discovery and browsing",
+        "keywords": [
+          "pikobuy spreadsheet",
+          "pikobuy spreadsheets",
+          "pikobuy sheet",
+          "pikobuy finds"
+        ]
+      },
+      {
+        "path": "/",
+        "intent": "Brand/site introduction and navigation",
+        "keywords": [
+          "pikobuysheet.nl",
+          "Pikobuy spreadsheet resource"
+        ]
+      },
+      {
+        "path": "/guide",
+        "intent": "Complete first-order process",
+        "keywords": [
+          "how to use Pikobuy",
+          "Pikobuy buying guide"
+        ]
+      },
+      {
+        "path": "/qc",
+        "intent": "General QC interpretation",
+        "keywords": [
+          "pikobuy qc",
+          "pikobuy qc photos",
+          "pikobuy quality check"
+        ]
+      },
+      {
+        "path": "/shipping",
+        "intent": "Shipping options and quote overview",
+        "keywords": [
+          "pikobuy shipping",
+          "pikobuy shipping cost",
+          "pikobuy shipping estimate"
+        ]
+      },
+      {
+        "path": "/faq",
+        "intent": "Short cross-topic answers and routing",
+        "keywords": [
+          "pikobuy faq"
+        ]
+      },
+      {
+        "path": "/articles",
+        "intent": "Editorial index grouped by task",
+        "keywords": [
+          "pikobuy guides and articles"
+        ]
+      }
+    ],
+    "internal_link_plan": "Link /articles to all ten pages in browse/inspect/budget/after-purchase groups. Add contextual links from each existing hub to its relevant deep dives, and link every article back to one task-appropriate hub. The spreadsheet can link to the checklist, clothing sizing, shoes and bags. /guide can link to product links, budgeting and tracking. /qc can link to measurement requests, category checks and returns. /shipping can link to budgeting, packing and tracking. FAQ answers should be short and link to the owner page rather than reproduce the article. Avoid a sitewide exact-match link list in every article.",
+    "editorial_quality": [
+      "Use an honest byline and actual publication/check date; do not invent firsthand purchase tests or named experts.",
+      "Separate published Pikobuy policy, seller-specific facts and original practical editorial advice.",
+      "Give each article one decision, one original useful table or worked example, and six to eight substantial sections; length should follow usefulness rather than a fixed padding target.",
+      "Use the primary phrase in a natural title and introduction, not every heading. Secondary phrases are coverage cues, not a keyword-stuffing list.",
+      "Avoid publishing separate pages for spelling, plural, current-year and near-identical intent variants.",
+      "For category articles, link to existing live finds where available and honestly label the page a guide. Do not invent product recommendations, inventory, prices or stock.",
+      "Article structured data must match visible content and genuine dates; do not add fabricated review ratings or official affiliations.",
+      "Use canonical paths consistently with the site's existing trailing-slash convention. Slugs above omit year suffixes so useful guides can be updated in place."
+    ]
+  }
+}

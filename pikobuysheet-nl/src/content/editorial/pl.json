@@ -1,0 +1,1254 @@
+{
+  "ui": {
+    "articles": "Artykuły",
+    "faq": "Częste pytania",
+    "articlesTitle": "Praktyczne poradniki Pikobuy",
+    "articlesIntro": "Praktyczne poradniki o wyborze produktów, sprawdzaniu szczegółów, planowaniu kosztów i organizacji wysyłki.",
+    "faqTitle": "Odpowiedzi na pytania o Pikobuy",
+    "faqIntro": "Odpowiedzi na 24 pytania na podstawie oficjalnych stron Pikobuy.",
+    "toc": "Na tej stronie",
+    "sources": "Źródła",
+    "checked": "Sprawdzono",
+    "byline": "PikobuySheet",
+    "readArticle": "Czytaj artykuł",
+    "related": "Powiązane artykuły",
+    "allArticles": "Wszystkie artykuły",
+    "latestArticles": "Najnowsze artykuły",
+    "articleCount": "10 praktycznych poradników",
+    "sourceLink": "Oficjalne źródło"
+  },
+  "faq": [
+    {
+      "id": "what-is-pikobuy",
+      "question": "Czym zajmuje się Pikobuy?",
+      "answer": "Pikobuy pomaga użytkownikom znajdować produkty z Chin, kupować je od sprzedawców, odbierać we własnym magazynie i organizować wysyłkę międzynarodową. Strona główna przedstawia te czynności jako odrębne etapy usługi.",
+      "sourceIds": [
+        "official-home"
+      ]
+    },
+    {
+      "id": "supported-marketplaces",
+      "question": "Jakie platformy wymienia poradnik?",
+      "answer": "Oficjalny poradnik wymienia Taobao, Tmall, 1688, Weidian i Yupoo. Przed złożeniem zlecenia zakupu sprawdź dokładny produkt, rozmiar i kolor.",
+      "sourceIds": [
+        "official-guide"
+      ]
+    },
+    {
+      "id": "finding-products",
+      "question": "Jak poprosić Pikobuy o znalezienie produktu?",
+      "answer": "Strona główna Pikobuy opisuje bezpośrednie wyszukiwanie oraz przesyłanie linków, zdjęć i zapytań o znalezienie produktów. Są to usługi samego Pikobuy; nie potwierdzają dostępności wyszukiwania obrazem w tym niezależnym katalogu.",
+      "sourceIds": [
+        "official-home"
+      ]
+    },
+    {
+      "id": "two-payments",
+      "question": "Dlaczego za zakup i wysyłkę płaci się osobno?",
+      "answer": "Według poradnika płatność za zakup następuje przed kontrolą w magazynie. Później wybierasz trasę wysyłki, zgłaszasz paczkę do nadania i płacisz za transport międzynarodowy.",
+      "sourceIds": [
+        "official-guide"
+      ]
+    },
+    {
+      "id": "payment-options",
+      "question": "Z jakich metod płatności mogę skorzystać?",
+      "answer": "Pikobuy informuje o obsłudze wielu walut i pokazuje logotypy kart oraz portfeli cyfrowych, w tym Visa, Mastercard, Klarna, Google Pay i Apple Pay. Przed zapłatą sprawdź faktycznie dostępne metody, waluty i łączną kwotę.",
+      "sourceIds": [
+        "official-about"
+      ]
+    },
+    {
+      "id": "failed-payment",
+      "question": "Czy zamówienie zostanie zrealizowane, jeśli płatność się nie powiedzie?",
+      "answer": "Warunki Pikobuy mówią, że zamówienie nie jest przetwarzane po nieudanej płatności. Sprawdź wynik płatności na swoim koncie i skontaktuj się z oficjalną obsługą, jeśli status transakcji nadal jest niejasny.",
+      "sourceIds": [
+        "official-terms"
+      ]
+    },
+    {
+      "id": "warehouse-inspection",
+      "question": "Co dzieje się po dotarciu produktu do magazynu?",
+      "answer": "Poradnik opisuje rejestrację przyjęcia, potwierdzenie zdjęciami i kontrolę wad. Przejrzyj informacje dotyczące własnego zamówienia, zanim zdecydujesz, które produkty wysłać.",
+      "sourceIds": [
+        "official-guide"
+      ]
+    },
+    {
+      "id": "qc-limits",
+      "question": "Czy zdjęcia z kontroli gwarantują autentyczność lub sprawność?",
+      "answer": "Nie. Umowa użytkownika wyjaśnia, że niektórych produktów nie można profesjonalnie sprawdzić pod kątem jakości lub autentyczności. Kontrola może ograniczać się do stanu zewnętrznego i akcesoriów. Zdjęcia są przydatne, ale nie stanowią ogólnej gwarancji produktu.",
+      "sourceIds": [
+        "official-user-agreement"
+      ]
+    },
+    {
+      "id": "detailed-photos",
+      "question": "Czy mogę zamówić dokładniejsze zdjęcia z kontroli?",
+      "answer": "Warunki przekazywania przesyłek mówią, że klienci mogą oglądać zdjęcia kontrolne Pikobuy lub kupić dodatkowe zdjęcia szczegółowe. Potwierdź w Pikobuy dostępność usługi i jej koszt dla wybranego produktu.",
+      "sourceIds": [
+        "official-shipping"
+      ]
+    },
+    {
+      "id": "packaging",
+      "question": "Czy mogę poprosić o inne opakowanie?",
+      "answer": "Poradnik zakupowy wspomina o możliwości zamówienia minimalnego lub wzmocnionego opakowania. Określ swoje potrzeby i potwierdź dostępne opcje przygotowania, zanim zgłosisz paczkę do wysyłki.",
+      "sourceIds": [
+        "official-guide"
+      ]
+    },
+    {
+      "id": "consolidation",
+      "question": "Czy produkty od różnych sprzedawców mogą trafić do jednej paczki?",
+      "answer": "Strona kontaktowa Pikobuy informuje, że produkty różnych sprzedawców można połączyć w jedną paczkę z jedną opłatą za wysyłkę. Porównaj końcową wycenę paczki; nie gwarantuje to oszczędności przy każdym zamówieniu.",
+      "sourceIds": [
+        "official-contact"
+      ]
+    },
+    {
+      "id": "storage",
+      "question": "Jak długo moje produkty mogą pozostać w magazynie?",
+      "answer": "Warunki przekazywania przesyłek potwierdzają przechowywanie po odbiorze, ale nie podają uniwersalnego bezpłatnego okresu ani terminu. Zanim zaczekasz, sprawdź aktualne warunki swoich produktów w Pikobuy lub zapytaj oficjalną obsługę.",
+      "sourceIds": [
+        "official-shipping"
+      ]
+    },
+    {
+      "id": "shipping-estimate",
+      "question": "Co jest potrzebne do oszacowania kosztów wysyłki?",
+      "answer": "Kalkulator Pikobuy wymaga miejsca docelowego, rodzaju produktu, wagi, długości, szerokości i wysokości. Podaj możliwie dokładne dane i sprawdź ostateczną wycenę paczki przed zapłatą; cena produktu nie jest wyceną wysyłki.",
+      "sourceIds": [
+        "official-estimate"
+      ]
+    },
+    {
+      "id": "delivery-choice",
+      "question": "Jaką trasę wysyłki wybrać?",
+      "answer": "Pikobuy oferuje wiele kanałów wysyłki i kombinacji tras. Porównaj opcje aktualnie dostępne dla miejsca docelowego i paczki. Publiczna strona informacyjna nie wskazuje trasy zawsze najtańszej ani nie gwarantuje daty dostawy.",
+      "sourceIds": [
+        "official-about"
+      ]
+    },
+    {
+      "id": "tracking",
+      "question": "Kiedy powinny pojawić się informacje o śledzeniu?",
+      "answer": "Poradnik zakupowy podaje, że informacje o śledzeniu są dostępne w ciągu trzech dni od wysyłki. Traktuj to jako opublikowaną wskazówkę i skontaktuj się z Pikobuy, jeśli aktualizacja się opóźnia.",
+      "sourceIds": [
+        "official-guide"
+      ]
+    },
+    {
+      "id": "taxes",
+      "question": "Czy oprócz zamówienia i wysyłki mogą pojawić się inne koszty?",
+      "answer": "Tak. Warunki Pikobuy mówią, że zamówienia międzynarodowe mogą wiązać się z cłem, podatkami, opłatami za odprawę lub innymi kosztami ponoszonymi przez klienta. Przed zakupem sprawdź wymagania miejsca docelowego i warunki wybranej wysyłki.",
+      "sourceIds": [
+        "official-terms"
+      ]
+    },
+    {
+      "id": "forwarding",
+      "question": "Czy mogę wysłać dalej produkty kupione samodzielnie?",
+      "answer": "Warunki opisują uzyskanie adresu magazynu od obsługi lub w formularzu przekazania, podanie wymaganych informacji oraz oczekiwanie na odbiór i zdjęcia. Następnie zgłaszasz paczkę i opłacasz wysyłkę przez Pikobuy.",
+      "sourceIds": [
+        "official-shipping"
+      ]
+    },
+    {
+      "id": "forwarded-after-sales",
+      "question": "Kto obsługuje reklamacje produktów kupionych samodzielnie i przekazanych do wysyłki?",
+      "answer": "W przypadku produktów przekazanych do dalszej wysyłki Pikobuy kieruje pytania posprzedażowe do nadawcy lub sprzedawcy. Warunki mówią, że może pomóc odesłać towar, ale nie zapewnia obsługi posprzedażowej samego produktu.",
+      "sourceIds": [
+        "official-shipping"
+      ]
+    },
+    {
+      "id": "return-deadline",
+      "question": "Kiedy trzeba złożyć wniosek o zwrot z magazynu?",
+      "answer": "Polityka zwrotów określa 120 godzin, liczonych od godziny następującej po zmianie statusu na In Warehouse (w magazynie). Złóż wniosek szybko; jego przyjęcie nadal zależy od spełnienia warunków.",
+      "sourceIds": [
+        "official-returns"
+      ]
+    },
+    {
+      "id": "return-eligibility",
+      "question": "Czy każdy produkt można zwrócić?",
+      "answer": "Nie. Znaczenie mają udział sprzedawcy, stan pozwalający na ponowną sprzedaż i termin. Produkty personalizowane, zmienione opakowania i niektóre kategorie podlegają ograniczeniom. Sprawdź możliwość zwrotu przed zakupem lub usunięciem metek.",
+      "sourceIds": [
+        "official-returns"
+      ]
+    },
+    {
+      "id": "return-costs",
+      "question": "Czy zwroty są zawsze bezpłatne?",
+      "answer": "Nie. Polityka wymienia koszty wysyłki i obsługi przy zwrotach z decyzji klienta. Zapytaj obsługę o dokładną kwotę dla swojego zamówienia, ponieważ opublikowane informacje o kosztach wysyłki są niespójne.",
+      "sourceIds": [
+        "official-returns"
+      ]
+    },
+    {
+      "id": "wrong-or-damaged-item",
+      "question": "Co zrobić, gdy sprzedawca wyśle niewłaściwy produkt?",
+      "answer": "Niezwłocznie zgłoś niezgodność przez Pikobuy. Polityka odróżnia błędy sprzedawcy i wady jakościowe od zwrotów z decyzji klienta, ale zgoda sprzedawcy i okoliczności konkretnego przypadku wpływają na wynik.",
+      "sourceIds": [
+        "official-returns"
+      ]
+    },
+    {
+      "id": "not-shipped-cancellation",
+      "question": "Czy wniosek o zwrot przy statusie Not Shipped kosztuje?",
+      "answer": "Sekcja pytań o zwroty mówi, że opłata za zwrot nie jest pobierana, jeśli zamówienie nie zostało jeszcze wysłane. Sprawdź aktualny status przed złożeniem wniosku.",
+      "sourceIds": [
+        "official-returns"
+      ]
+    },
+    {
+      "id": "official-support",
+      "question": "Gdzie pytać o zamówienie, płatność lub paczkę?",
+      "answer": "Skorzystaj z oficjalnej strony kontaktowej Pikobuy, która zaleca wysłanie zgłoszenia i podaje kanały obsługi. Ten niezależny katalog nie ma dostępu do Twojego konta Pikobuy, nie może zmieniać zamówień ani rozwiązywać spraw płatności w Twoim imieniu.",
+      "sourceIds": [
+        "official-contact"
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "slug": "pikobuy-spreadsheet-checklist",
+      "title": "Lista kontrolna Pikobuy spreadsheet: porównaj produkty przed zamówieniem",
+      "description": "Porównaj linki źródłowe, warianty, zdjęcia i budżet z praktyczną listą kontrolną Pikobuy spreadsheet. Sprawdź, którym produktom warto przyjrzeć się bliżej.",
+      "intro": "Pikobuy spreadsheet przydaje się wtedy, gdy pomaga podjąć decyzję. Długa lista zapisanych produktów może ukrywać brakujące rozmiary, nieaktualne linki i pominięte koszty. Ta lista kontrolna pomoże zamienić wiele interesujących propozycji w krótki, uzasadniony wybór. Oddziel aktualną ofertę produktu od własnych notatek i każdej propozycji przypisz konkretny następny krok, zanim wydasz pieniądze.",
+      "sections": [
+        {
+          "id": "define-the-job",
+          "heading": "1. Określ, do czego ma służyć zakup",
+          "paragraphs": [
+            "Zacznij od sytuacji, w której będziesz używać produktu. Torba na laptop wymaga czegoś innego niż mała torebka na wieczór. Bluza zakładana na kilka warstw powinna leżeć inaczej niż ta noszona pod dopasowaną kurtką. Jednym zdaniem opisz zadanie produktu, a potem wskaż dwa lub trzy wymagania, z których nie możesz zrezygnować.",
+            "Ustal limit całkowitego wydatku, zanim zaczniesz porównywać ceny produktów. Zostaw miejsce na koszty, które dopiero trzeba oszacować. Produkt, który podoba ci się wizualnie, ale nie spełnia praktycznych wymagań, nie powinien pozostać na liście tylko dlatego, że ma atrakcyjną miniaturę."
+          ]
+        },
+        {
+          "id": "build-a-record",
+          "heading": "2. Zapisz dane identyfikujące każdą propozycję",
+          "paragraphs": [
+            "Zapisz źródłowy adres URL, dane sprzedawcy lub sklepu, dokładny wariant, wyświetlaną cenę oraz datę sprawdzenia. Dołącz tabelę rozmiarów lub ważną specyfikację. Tytuł w arkuszu bywa krótszy niż pełny opis oferty i może pomijać wariant, od którego zależy cena.",
+            "Krótko zanotuj, dlaczego zapisujesz produkt. Być może ma odpowiednią szerokość otworu albo właściwą długość rękawa. Jeżeli nie potrafisz wyjaśnić, co przemawia za jego wyborem, wróć do wymagań, zamiast dodawać kolejne niemal identyczne wiersze."
+          ]
+        },
+        {
+          "id": "separate-evidence",
+          "heading": "3. Ustal, co naprawdę przedstawia każde zdjęcie",
+          "paragraphs": [
+            "Zdjęcie sprzedawcy pokazuje sposób prezentacji produktu. Fotografia wcześniejszego kupującego może przedstawiać poprzednie zamówienie. Twoje własne zdjęcia magazynowe dotyczą przedmiotu otrzymanego w ramach twojego zamówienia. Rozróżniaj te rodzaje materiałów: ich przydatność zależy od pytania, na które szukasz odpowiedzi.",
+            "Wcześniejsze zdjęcie może podpowiedzieć, jaki szczegół warto obejrzeć, ale nie potwierdza stanu przyszłego zakupu. Podobnie atrakcyjna fotografia produktu nie wyjaśnia niejednoznacznego pomiaru. Zapisz przy zdjęciu nierozstrzygnięte pytanie, zamiast uznawać samą obecność fotografii za zakończoną kontrolę."
+          ]
+        },
+        {
+          "id": "apply-hard-stops",
+          "heading": "4. Wyjaśnij kluczowe braki przed porównaniem preferencji",
+          "paragraphs": [
+            "Sprawdź wymagania, których niespełnienie dyskwalifikuje zakup: tożsamość produktu, dostępny wariant, ważne wymiary i realny budżet całkowity. Jeżeli link źródłowy otwiera inny produkt albo dla wybranego rozmiaru brakuje zrozumiałej tabeli, wstrzymaj tę propozycję.",
+            "Dopiero potem porównuj preferencje. Kolor, wykończenie i stylistyka pomagają wybrać spośród odpowiednich produktów, ale nie zrekompensują otworu zbyt wąskiego na laptop. Unikaj punktacji, w której kilka atrakcyjnych cech równoważy jedną zasadniczą wadę. Proste wstrzymanie decyzji często mówi więcej niż pozornie precyzyjna ocena liczbowa."
+          ]
+        },
+        {
+          "id": "compare-example",
+          "heading": "5. Porównaj trzy hipotetyczne produkty",
+          "paragraphs": [
+            "Przykład dotyczy torby, która musi mieścić sztywny przedmiot o szerokości 30 cm. Wartości są wymyślone, aby pokazać metodę, i nie pochodzą z aktualnych ofert. Zauważ, że najniższa wyświetlana cena nie przesądza o tym, którą propozycją warto się zająć."
+          ],
+          "table": {
+            "headers": [
+              "Propozycja",
+              "Dostępne informacje",
+              "Decyzja i następny krok"
+            ],
+            "rows": [
+              [
+                "A",
+                "Udokumentowana szerokość otworu: 28 cm",
+                "Usuń: podstawowe wymaganie nie jest spełnione"
+              ],
+              [
+                "B",
+                "Szerokość zewnętrzna: 34 cm; otwór nieznany",
+                "Wstrzymaj: poproś o użytkową szerokość otworu"
+              ],
+              [
+                "C",
+                "Udokumentowana szerokość otworu: 32 cm; budżet niepełny",
+                "Zachowaj do dalszego sprawdzenia: uzupełnij koszt całkowity"
+              ]
+            ]
+          }
+        },
+        {
+          "id": "make-next-action",
+          "heading": "6. Każdemu zapisanemu produktowi przypisz jeden następny krok",
+          "paragraphs": [
+            "Używaj etykiet zachowaj, wstrzymaj i usuń. Zachowaj oznacza, że dostępne informacje uzasadniają dalsze sprawdzanie, a nie że produkt został zweryfikowany lub zatwierdzony. Wstrzymaj oznacza, że jedna odpowiedź może zmienić decyzję. Usuń oznacza niespełnienie wymagania albo brak sensu w dalszym poszukiwaniu informacji.",
+            "Sformułuj działanie na tyle konkretnie, aby dało się je wykonać. Prośba o użytkową szerokość otworu jest przydatniejsza niż ogólne sprawdzenie jakości. Porównanie ceny wybranego wariantu daje więcej niż ponowne oglądanie oferty. Przy wstrzymanych produktach wpisz datę ponownego sprawdzenia, aby nierozstrzygnięte pozycje nie gromadziły się bez końca."
+          ]
+        },
+        {
+          "id": "recheck-before-payment",
+          "heading": "7. Sprawdź wybrane produkty ponownie przed płatnością",
+          "paragraphs": [
+            "Gdy chcesz przejść dalej, jeszcze raz otwórz aktualną ofertę. Potwierdź, że wybrany wariant, liczba sztuk i sposób naliczania ceny nadal zgadzają się z zapisem. Ponownie zweryfikuj informacje o wymiarach lub dostępności uzyskane pośrednio i zachowaj materiały, na których rzeczywiście oparto decyzję.",
+            "Rozpocznij zamawianie ze zwięzłym zestawem danych, zamiast z folderem niepowiązanych zrzutów ekranu. Gdy pojawią się materiały z magazynu, porównaj je z tym zapisem. Ta sama lista może teraz służyć do sprawdzania, co zamierzano kupić, które szczegóły pozostają niejasne i o co należy zapytać w następnej kolejności."
+          ]
+        }
+      ],
+      "sourceIds": [
+        "official-guide"
+      ],
+      "related": [
+        "spreadsheet",
+        "articles/pikobuy-product-links",
+        "articles/pikobuy-haul-budget"
+      ]
+    },
+    {
+      "slug": "pikobuy-clothing-size-chart",
+      "title": "Tabele rozmiarów odzieży w Pikobuy: zmierz, zanim wybierzesz rozmiar",
+      "description": "Czytaj tabele rozmiarów odzieży z Pikobuy, korzystając z ubrania referencyjnego, spójnych punktów pomiaru i jasnych jednostek. Zobacz przykład porównania.",
+      "intro": "Znajoma litera rozmiaru nie wystarcza, aby wybrać odzież znalezioną w Pikobuy. Przydatne jest porównywanie wymiarów, które opisują to samo: ten sam fragment ubrania, w tych samych jednostkach i przy podobnej metodzie pomiaru. Ten poradnik pomoże przygotować takie porównanie na podstawie posiadanych ubrań. Nie zakłada, że wszyscy sprzedawcy stosują jeden system rozmiarów ani że większa litera rozwiązuje problem niejasnej tabeli.",
+      "sections": [
+        {
+          "id": "identify-chart-type",
+          "heading": "1. Ustal, co mierzy tabela",
+          "paragraphs": [
+            "Najpierw przeczytaj opisy, a dopiero później interpretuj liczby. Tabela może przedstawiać wymiary gotowego ubrania, zalecany zakres wymiarów ciała lub połączenie wskazówek i wymiarów produktu. To różne punkty odniesienia. Wymiar ubrania na wysokości klatki piersiowej obejmuje zaprojektowany luz; wymiar ciała opisuje osobę, która je nosi.",
+            "Zachowaj tabelę wraz z dokładnym produktem i wybraną wersją. Jeżeli oferta obejmuje różne fasony, nie zakładaj, że jedna tabela dotyczy wszystkich. Gdy nie wiadomo, czego dotyczą wymiary, poproś o wyjaśnienie, zanim zaczniesz wyciągać z liczb rekomendację rozmiaru."
+          ]
+        },
+        {
+          "id": "choose-reference",
+          "heading": "2. Wybierz odpowiednie ubranie referencyjne",
+          "paragraphs": [
+            "Wybierz rzecz, która leży tak, jak ma leżeć nowy zakup. Luźną bluzę porównuj z luźną bluzą, zamiast opierać się wyłącznie na dopasowanym T-shircie. Uwzględnij materiał, konstrukcję ramion oraz planowane warstwy noszone pod spodem.",
+            "Rozłóż ubranie płasko, bez naciągania. Samodzielnie zapisz wymiary i zachowaj zdjęcie pokazujące punkty pomiaru. Tworzysz powtarzalne porównanie, dlatego dokładna notatka jest cenniejsza niż pamięć, że dana marka zwykle dobrze leży. Używaj zapisu ponownie tylko wtedy, gdy kolejny produkt rzeczywiście nadaje się do porównania."
+          ]
+        },
+        {
+          "id": "match-endpoints",
+          "heading": "3. Dopasuj punkty pomiaru",
+          "paragraphs": [
+            "W górnej części garderoby przydatne mogą być szerokość na wysokości klatki piersiowej na płasko, długość całkowita, szerokość ramion i długość rękawa. W spodniach znaczenie mogą mieć pas, stan, biodra, udo i długość nogawki od kroku. Wybór zależy od problemu z dopasowaniem, którego chcesz uniknąć.",
+            "Sprawdź definicję każdego wymiaru. Długość rękawa od szwu na ramieniu nie jest zamienna z pomiarem zaczynającym się przy szyi. Również wyprofilowany i elastyczny pas wymagają jasno określonej metody. Jeżeli sprzedawca stosuje inne punkty niż w twoim zapisie, zmierz ubranie ponownie według jego metody, zamiast zestawiać nieporównywalne liczby."
+          ]
+        },
+        {
+          "id": "handle-units",
+          "heading": "4. Rozróżniaj szerokość, obwód i jednostki",
+          "paragraphs": [
+            "Szerokość na płasko biegnie przez jedną stronę ubrania. Obwód opisuje odległość dookoła. Pomylenie tych wielkości może stworzyć pozornie ogromną rozbieżność. Prosty przykład rachunkowy: podwojenie szerokości 58 cm daje 116 cm. To, czy takie porównanie jest właściwe, nadal zależy od ubrania i metody stosowanej w tabeli.",
+            "Prowadź notatki w jednej jednostce i zachowuj wartości oryginalne obok przeliczeń. Nie dopisuj niepodanej tolerancji. Tolerancja pomiaru zadeklarowana przez sprzedawcę stanowi dodatkową informację, ale nie wyjaśnia automatycznie każdej różnicy między tabelą a zdjęciem z magazynu."
+          ]
+        },
+        {
+          "id": "worked-comparison",
+          "heading": "5. Porównaj dwa hipotetyczne rozmiary bluzy",
+          "paragraphs": [
+            "Załóżmy, że twoja bluza referencyjna ma 58 cm szerokości na wysokości klatki piersiowej i 68 cm długości. Poniższa wymyślona tabela pokazuje, dlaczego sama litera nie rozstrzyga wyboru. Oba wymiary są ważne, a lepszy wynik zależy od tego, jaką zmianę akceptujesz."
+          ],
+          "table": {
+            "headers": [
+              "Pomiar",
+              "Ubranie referencyjne",
+              "Przykładowy rozmiar M",
+              "Przykładowy rozmiar L"
+            ],
+            "rows": [
+              [
+                "Szerokość klatki piersiowej na płasko",
+                "58 cm",
+                "57 cm",
+                "60 cm"
+              ],
+              [
+                "Długość całkowita",
+                "68 cm",
+                "66 cm",
+                "69 cm"
+              ],
+              [
+                "Co sprawdzić",
+                "Znane, preferowane dopasowanie",
+                "Węższa i krótsza",
+                "Szersza i nieco dłuższa"
+              ]
+            ]
+          },
+          "list": [
+            "Przed wyborem którejkolwiek opcji sprawdź długość rękawów.",
+            "Potwierdź, że wszystkie pomiary długości całkowitej mają te same punkty początkowe i końcowe.",
+            "Traktuj tabelę jako ćwiczenie porównawcze, a nie zalecenie konkretnego rozmiaru."
+          ]
+        },
+        {
+          "id": "allow-for-use",
+          "heading": "6. Uwzględnij sposób noszenia",
+          "paragraphs": [
+            "Zgodność wymiarów jest pomocna, lecz nie odtwarza wrażeń z noszenia ubrania. Rozciągliwość i sztywność materiału, podszewka oraz fason wpływają na to, jak zachowują się te same wymiary. Pomyśl o swobodzie ruchu i planowanych warstwach, a następnie wskaż wymiary, które o nich decydują.",
+            "Nie dodawaj automatycznie stałego zapasu do każdego wymiaru. Większa szerokość może ułatwić ubieranie warstwowe, podczas gdy dłuższy rękaw będzie przeszkadzał. Jeżeli tabela pomija kluczowy wymiar, poproś o niego zamiast stosować ogólną zasadę wybierania większego rozmiaru. Celem jest zmniejszenie konkretnej niepewności, nie stworzenie pozornej precyzji."
+          ]
+        },
+        {
+          "id": "confirm-selected-size",
+          "heading": "7. Zachowaj uzasadnienie i sprawdź wariant",
+          "paragraphs": [
+            "Przed płatnością zapisz dokładną nazwę wariantu i wykorzystaną tabelę. Krótko uzasadnij decyzję, na przykład zgodnością szerokości z ubraniem referencyjnym przy akceptacji mniejszej długości. Taka notatka daje wyraźną podstawę do późniejszej kontroli.",
+            "Jeżeli prosisz o pomiar w magazynie, podaj wymiar, punkty pomiaru i jednostkę. Czytelna miarka powinna zaczynać się we właściwym miejscu i pozostawać widoczna na całej mierzonej długości. Gdy materiał przeczy tabeli, wstrzymaj decyzję i wyjaśnij różnicę, póki można jeszcze rozważać dostępny proces zwrotu. Zdjęcie może pomóc sprawdzić wymiar, ale nie gwarantuje wygody."
+          ]
+        }
+      ],
+      "sourceIds": [
+        "official-guide",
+        "official-returns"
+      ],
+      "related": [
+        "spreadsheet",
+        "articles/pikobuy-qc-measurements",
+        "articles/pikobuy-shoe-sizing"
+      ]
+    },
+    {
+      "slug": "pikobuy-product-links",
+      "title": "Linki do produktów w Pikobuy: sprawdzanie źródeł i rozbieżności ofert",
+      "description": "Porównuj linki Pikobuy z oryginalnymi ofertami, sprawdzaj warianty po imporcie i rozwiązuj konkretne problemy, gdy produkt nie chce się otworzyć.",
+      "intro": "Link do produktu powinien wskazywać coś więcej niż atrakcyjne zdjęcie. Musi prowadzić do zamierzonej oferty i wariantu, który chcesz zamówić. Podczas udostępniania, skracania lub konwersji linku ten kontekst może stać się mniej czytelny. Ten poradnik pokazuje praktyczny sposób zachowania danych źródłowych, porównania zaimportowanego wyniku i wyboru działania, gdy link Pikobuy nie otwiera się zgodnie z oczekiwaniami.",
+      "sections": [
+        {
+          "id": "save-source-record",
+          "heading": "1. Zachowaj dane oryginalnej oferty",
+          "paragraphs": [
+            "Zanim użyjesz udostępnionego linku pośrednika, zapisz oryginalny adres produktu, jeżeli jest dostępny. Zanotuj identyfikator produktu, sprzedawcę lub sklep, wybrany fason, kolor, rozmiar i liczbę sztuk. Dodaj datę sprawdzenia oferty oraz zrzut ekranu wariantu, który zamierzasz wybrać.",
+            "Sam zrzut ekranu jest niepełny, ponieważ może nie zawierać adresu lub wybranego wariantu. Sam URL z kolei nie musi zachowywać informacji o zamierzonej opcji. Link wraz ze zwięzłym opisem wariantu ułatwia późniejsze wykrycie rozbieżności. Nie nadpisuj oryginalnego zapisu, gdy znajdziesz inną propozycję."
+          ]
+        },
+        {
+          "id": "recognize-page-type",
+          "heading": "2. Rozpoznaj rodzaj strony",
+          "paragraphs": [
+            "Strona produktu, strona główna sklepu i album zdjęć służą różnym celom. Strona sklepu pomaga znaleźć katalog sprzedawcy, ale może nie wskazywać konkretnego przedmiotu. Album może pokazywać wiele kolorów bez dostępnej opcji zakupu. Jedna oferta produktu może obejmować wiele wariantów pod wspólnym tytułem.",
+            "Zanim wielokrotnie spróbujesz importować link, ustal, jakich danych brakuje. Potrzebny może być adres pojedynczego produktu, opis wariantu lub wyjaśnienie od sprzedawcy bądź platformy. Rozpoznawalna nazwa platformy handlowej daje kontekst, lecz nie dowodzi, że strona zawiera wszystko, co niezbędne do prawidłowego zamówienia."
+          ]
+        },
+        {
+          "id": "compare-result",
+          "heading": "3. Porównaj zaimportowany wynik ze źródłem",
+          "paragraphs": [
+            "Opublikowany poradnik Pikobuy opisuje wyszukiwanie za pomocą linku do produktu lub słów kluczowych. Gdy pojawi się wynik, porównaj jego tożsamość z zachowanym źródłem, zamiast uznawać samo załadowanie strony za zakończenie kontroli.",
+            "Sprawdź widoczny identyfikator produktu, dane sprzedawcy, dostępne warianty i opis wybranej opcji. Ustal, czy wyświetlana cena dotyczy właściwego przedmiotu, innego wariantu, dodatku czy określonej liczby sztuk. Podobna miniatura może ukrywać inną wersję. Jeżeli dane źródłowe i zaimportowane są sprzeczne, wyjaśnij to, zanim uznasz wynik za gotowy do zamówienia."
+          ]
+        },
+        {
+          "id": "separate-conversion",
+          "heading": "4. Zrozum, czego konwersja nie potwierdza",
+          "paragraphs": [
+            "Konwerter linków może zapisać odnośnik do produktu w postaci czytelnej dla innej usługi. Ta operacja techniczna nie jest sprawdzeniem sprzedawcy, stanu produktu, zapasu ani przydatności. Nie potwierdza też, że aktualna oferta nadal opisuje ten sam przedmiot co wcześniej zapisany wiersz.",
+            "Zachowuj oryginalny URL obok przekształconego. Po konwersji ponownie sprawdź produkt i wariant. Jeżeli narzędzie niespodziewanie zmienia stronę docelową, zatrzymaj się i obejrzyj wynik. Nie wpisuj danych logowania na nieznanej stronie tylko dlatego, że trafiono na nią z arkusza lub narzędzia do konwersji."
+          ]
+        },
+        {
+          "id": "troubleshooting-table",
+          "heading": "5. Rozpoznaj problem, który faktycznie widzisz",
+          "paragraphs": [
+            "Poniższa tabela pomaga w diagnozie; nie jest listą oficjalnych komunikatów błędów Pikobuy. Opieraj się na rzeczywiście obserwowanym zachowaniu. Ponowienie próby ma sens tylko wtedy, gdy sprawdza prawdopodobną przyczynę. Nie odzyska informacji, których nigdy nie było w linku."
+          ],
+          "table": {
+            "headers": [
+              "Zaobserwowany problem",
+              "Przydatne sprawdzenie",
+              "Następny krok"
+            ],
+            "rows": [
+              [
+                "Otwiera się inny produkt",
+                "Porównaj identyfikator źródłowy i wybrany wariant",
+                "Zachowaj oba zapisy i poproś o wyjaśnienie"
+              ],
+              [
+                "Źródło wymaga logowania",
+                "Sprawdź URL i widoczne dane produktu",
+                "Użyj prawdziwego źródła lub oficjalnego wsparcia"
+              ],
+              [
+                "Otwiera się tylko sklep lub album",
+                "Poszukaj odnośnika do pojedynczego produktu",
+                "Podaj dokładny produkt i wariant"
+              ],
+              [
+                "Produkt jest niedostępny",
+                "Sprawdź ponownie aktualną stronę źródłową",
+                "Traktuj zamienniki jako nowe propozycje"
+              ],
+              [
+                "Skrócony link nie działa",
+                "Jeżeli to możliwe, odzyskaj oryginalny URL produktu",
+                "Spróbuj raz ponownie z danymi źródłowymi"
+              ]
+            ]
+          }
+        },
+        {
+          "id": "support-request",
+          "heading": "6. Zadaj pytanie, na które da się odpowiedzieć",
+          "paragraphs": [
+            "Jeżeli zamierzony produkt nadal jest niejasny, wyślij link źródłowy, dostępny identyfikator, potrzebny wariant oraz krótki opis rozbieżności. Dołącz zrzuty ekranu pokazujące istotny wybór. Nie wysyłaj całej historii przeglądania ani niepowiązanych produktów w jednym zgłoszeniu.",
+            "Przydatne pytanie jest konkretne: źródło pokazuje niebieską wersję w rozmiarze M, ale zaimportowany wybór oferuje tylko czarną; czy można zamówić niebieskie M? Taką kwestię łatwiej rozstrzygnąć niż informację, że link jest zepsuty. Oficjalna strona Kontakt Pikobuy wskazuje właściwy kanał pytań dotyczących konta lub wyszukiwania produktów."
+          ]
+        },
+        {
+          "id": "update-shortlist",
+          "heading": "7. Zapisz wynik, zachowując kontekst",
+          "paragraphs": [
+            "Oznacz propozycję jako zgodną, oczekującą na wyjaśnienie lub niedostępną. Zachowaj odpowiedź obok danych źródłowych. Jeżeli zaproponowana alternatywa ma inny identyfikator lub specyfikację, utwórz osobny wiersz zamiast po cichu zastępować oryginalny produkt.",
+            "Przed dalszym działaniem sprawdź rzeczywisty wariant, który trafi do zamówienia. Celem jest decyzja możliwa do odtworzenia: powinno dać się wyjaśnić, z której oferty korzystano, jaki wariant wybrano i co wyjaśniło rozbieżności. Zapis przyda się także później, gdy porównasz otrzymany produkt z zamierzonym zakupem."
+          ]
+        }
+      ],
+      "sourceIds": [
+        "official-guide",
+        "official-contact"
+      ],
+      "related": [
+        "guide",
+        "articles/pikobuy-spreadsheet-checklist",
+        "faq"
+      ]
+    },
+    {
+      "slug": "pikobuy-qc-measurements",
+      "title": "Pomiary QC w Pikobuy: poproś o zdjęcia odpowiadające na twoje pytanie",
+      "description": "Formułuj przydatne prośby o pomiary QC w Pikobuy: określ punkty pomiaru, czytelną skalę i konkretne pytanie, zanim ocenisz przydatność produktu.",
+      "intro": "Więcej zdjęć nie zawsze oznacza więcej przydatnych informacji. Jeżeli chcesz wiedzieć, czy rękaw jest wystarczająco długi albo otwór torby odpowiednio szeroki, prośba musi wyjaśniać sposób pomiaru. Dobre zgłoszenie QC w Pikobuy łączy jedno nierozstrzygnięte pytanie z jednym obserwowalnym wynikiem. Ten poradnik pokazuje, jak to zrobić bez traktowania fotografii jako dowodu na wszystkie właściwości produktu.",
+      "sections": [
+        {
+          "id": "define-the-question",
+          "heading": "1. Określ decyzję przed wysłaniem prośby",
+          "paragraphs": [
+            "Zapisz, jaka odpowiedź zmieni twoje dalsze działanie. Być może produkt potrzebuje określonej minimalnej szerokości otworu, metka rozmiaru jest nieczytelna albo widoczny ślad może być zabrudzeniem lub cieniem. Każdy problem wymaga innych materiałów. Prośba o lepsze zdjęcia pozostawia fotografującej osobie zgadywanie, co jest ważne.",
+            "Użyj zdania wskazującego obserwowalny szczegół: muszę zobaczyć, czy oba buty mają metkę wybranego rozmiaru. Nie łącz tego z niepowiązanymi prośbami o szwy, materiały i pakowanie."
+          ]
+        },
+        {
+          "id": "identify-item",
+          "heading": "2. Wskaż właściwy produkt i wariant",
+          "paragraphs": [
+            "Podaj właściwy numer zamówienia, opis przedmiotu i wybrany wariant. Jeżeli zamówienie zawiera dwa podobne kolory lub rozmiary, wyraźnie je rozróżnij. Odwołaj się do istniejącego zdjęcia, jeśli pomaga wskazać miejsce, ale nie zakładaj, że fotografia wcześniejszego kupującego przedstawia obecnie kontrolowany przedmiot.",
+            "Zachowaj tabelę źródłową i zamierzony wariant obok prośby. Wyjaśniają one, dlaczego wymiar jest ważny, i pomagają odczytać wynik. Nawet dokładny pomiar niewłaściwego produktu jest bezużyteczny. Przed wyciągnięciem wniosków sprawdź, czy otrzymane zdjęcie można wiarygodnie powiązać z produktem i wariantem, o które pytano."
+          ]
+        },
+        {
+          "id": "specify-method",
+          "heading": "3. Opisz metodę pomiaru",
+          "paragraphs": [
+            "Wskaż punkty początkowy i końcowy, jednostkę oraz ułożenie. Przy szerokości ubrania na płasko określ, gdzie ma zaczynać się i kończyć miarka oraz czy ubranie ma leżeć bez naciągania. Przy otworze torby poproś o użytkową szerokość wejścia, zamiast o najszerszy wymiar zewnętrzny.",
+            "Poproś, aby początek i koniec skali były widoczne. Zdjęcie z zerem poza kadrem pozostawia niepewność, nawet gdy drugi koniec da się odczytać. Pomiar po łuku i pomiar w linii prostej odpowiadają na różne pytania, więc wyjaśnij potrzebną metodę zamiast używać tylko słowa długość."
+          ]
+        },
+        {
+          "id": "request-examples",
+          "heading": "4. Dopasuj prośbę do pytania",
+          "paragraphs": [
+            "Poniższe przykłady to autorskie wzory sformułowań, a nie opcje menu ani obietnica konkretnej usługi. Zanim oprzesz na nich decyzję, potwierdź dostępność czynności i jej koszt. Zastąp dane produktu oraz pomiaru informacjami dotyczącymi swojego zamówienia."
+          ],
+          "table": {
+            "headers": [
+              "Nierozstrzygnięte pytanie",
+              "Precyzyjna prośba"
+            ],
+            "rows": [
+              [
+                "Czy góra jest wystarczająco szeroka?",
+                "Proszę rozłożyć wybraną górę płasko bez naciągania i pokazać szerokość klatki piersiowej między wskazanymi punktami, z widocznymi oboma końcami skali centymetrowej."
+              ],
+              [
+                "Czy metka buta jest właściwa?",
+                "Proszę pokazać czytelną metkę rozmiaru każdego buta w tej parze oraz wystarczającą część otoczenia, aby rozpoznać przedmioty."
+              ],
+              [
+                "Czy przedmiot przejdzie przez otwór torby?",
+                "Proszę pokazać użytkową szerokość otworu przy całkowicie otwartym zapięciu i widocznych punktach pomiaru."
+              ],
+              [
+                "Czy ślad znajduje się na powierzchni?",
+                "Proszę pokazać zaznaczony obszar z bliska i pod innym kątem, pozostawiając widoczny materiał wokół niego."
+              ]
+            ]
+          }
+        },
+        {
+          "id": "evaluate-evidence",
+          "heading": "5. Sprawdź, czy odpowiedź daje się zinterpretować",
+          "paragraphs": [
+            "Najpierw obejrzyj zdjęcie, a dopiero potem odczytaj wniosek liczbowy. Czy widać właściwy przedmiot? Czy miarka jest ułożona zgodnie z prośbą? Czy widać skalę i oba punkty pomiaru? Jeżeli ubranie jest złożone, rozciągnięte albo sfotografowane pod dużym kątem, zanotuj możliwy wpływ na porównanie.",
+            "Nie twórz pozornej precyzji z rozmytego zdjęcia. Jeżeli potrafisz odczytać jedynie około 57–59 cm, zapisz tę niepewność zamiast deklarować 58,0 cm. Gdy niepewność może zmienić decyzję, poproś o wyjaśnienie. Jeżeli nie wpływa na wybór, dodatkowe zdjęcia mogą mieć niewielką wartość praktyczną."
+          ]
+        },
+        {
+          "id": "recognize-limits",
+          "heading": "6. Uwzględniaj ograniczenia zdjęć",
+          "paragraphs": [
+            "Fotografia może wspierać wniosek dotyczący widocznej metki, zmierzonego wymiaru lub dostrzegalnego problemu powierzchni. Nie potwierdza długoterminowej trwałości, ukrytej konstrukcji, działania elektrycznego ani wygody użytkowania. Skład materiału i autentyczność także wymagają informacji wykraczających poza sam wygląd.",
+            "Oddzielaj obserwację od przypuszczenia. Stwierdzenie, że na zdjęciu szew jest zamknięty, jest węższe niż twierdzenie, że torba wytrzyma duże obciążenie. Opublikowane materiały Pikobuy opisują ograniczenia kontroli, dlatego nie traktuj jej jako specjalistycznego testu. Jeżeli zakup zależy od cechy, której zdjęcia nie potwierdzą, poszukaj odpowiedniej dokumentacji lub ponownie rozważ zakup."
+          ]
+        },
+        {
+          "id": "choose-next-action",
+          "heading": "7. Zamień odpowiedź w działanie",
+          "paragraphs": [
+            "Wróć do pierwotnego pytania i wybierz następny krok. Materiały mogą uzasadniać kontynuowanie, pozostawiać konkretną niejasność albo przemawiać za rozmową o zwrocie. Zachowaj odpowiedź przy danych zamówienia i zanotuj, jaki wymiar lub widoczny szczegół wpłynął na decyzję.",
+            "Jeżeli problem pozostaje, niezwłocznie sprawdź aktualny status zamówienia i właściwe warunki zwrotu. Nie zbieraj ozdobnych ujęć, gdy istotna rozbieżność pozostaje niezgłoszona. Zapis powinien ułatwiać wyjaśnienie: co miało zostać zamówione, co pokazuje fotografia i jakiego rozwiązania oczekujesz. Niepewne obserwacje nadal oznaczaj jako niepewne."
+          ]
+        }
+      ],
+      "sourceIds": [
+        "official-user-agreement",
+        "official-shipping",
+        "official-returns"
+      ],
+      "related": [
+        "qc",
+        "articles/pikobuy-clothing-size-chart",
+        "articles/pikobuy-warehouse-returns"
+      ]
+    },
+    {
+      "slug": "pikobuy-haul-budget",
+      "title": "Budżet zakupów Pikobuy: policz pełny koszt przed zakupem",
+      "description": "Zaplanuj realny budżet zakupów Pikobuy, rozdzielając ceny produktów, wysyłkę, możliwe opłaty i nieznane koszty. Skorzystaj z wyraźnie oznaczonego przykładu.",
+      "intro": "Suma cen z arkusza to dopiero początek budżetu zakupów Pikobuy. Przydatne oszacowanie pokazuje koszty znane, zależne od gotowej paczki i wymagające dalszego sprawdzenia. Pozwala też ocenić, czy w budżecie jest miejsce na niepewność. Poniższa metoda jest arkuszem planowania, a nie wyceną ani informacją o aktualnych opłatach Pikobuy.",
+      "sections": [
+        {
+          "id": "separate-stages",
+          "heading": "1. Oddziel zakup produktów od przesyłki",
+          "paragraphs": [
+            "Opublikowany proces Pikobuy rozdziela płatność za zakup od płatności za wysyłkę międzynarodową. Odzwierciedl to w budżecie. Jedna część obejmuje środki potrzebne do nabycia wybranych produktów, a druga potencjalny koszt dostarczenia powstałej paczki do ciebie.",
+            "Zacznij od dokładnych ilości i wybranych wariantów. Niska wyświetlana cena może dotyczyć innej opcji niż ta, którą zamierzasz zamówić. Obok każdej kwoty zapisz datę wyceny i walutę. Łatwiej wtedy ustalić, dlaczego budżet zmienił się po aktualizacji produktu, wariantu lub przeliczenia walutowego."
+          ]
+        },
+        {
+          "id": "capture-item-costs",
+          "heading": "2. Wypisz opłaty związane z zakupem",
+          "paragraphs": [
+            "Utwórz osobne pozycje dla produktów, wyświetlanej dostawy krajowej oraz opłat za usługę lub płatność rzeczywiście pokazanych dla twojej transakcji. Nie dopisuj opłaty tylko dlatego, że zapłacił ją inny kupujący, i nie zakładaj, że opłata niewymieniona wynosi zero.",
+            "Jeżeli kilka produktów dzieli jeden koszt dostawy, nie licz go ponownie przy każdym wierszu. Z kolei zakupy u różnych sprzedawców mogą mieć odrębne opłaty. Zachowaj tyle szczegółów, aby porównać arkusz z żądaną kwotą płatności. Zgrabna suma jest mniej przydatna niż nieco dłuższa tabela, którą potrafisz wyjaśnić."
+          ]
+        },
+        {
+          "id": "estimate-freight",
+          "heading": "3. Zapisz założenia kosztu wysyłki",
+          "paragraphs": [
+            "Wczesną wycenę wysyłki traktuj jako scenariusz. Zapisz założony kierunek, rodzaj produktu, masę po zapakowaniu i wymiary, a przy kwocie dodaj datę oraz warunki trasy. Jeżeli te dane się zmienią, wcześniejsza liczba może przestać być przydatna do porównania.",
+            "Nie rozdzielaj szacunku paczki między produkty, aby potem traktować ten podział jako taryfę przewoźnika. Można podzielić planowaną kwotę na potrzeby własnej oceny opłacalności, lecz o płatności decyduje rzeczywista wycena przesyłki. Duży gabarytowo, tani przedmiot może wymagać ponownego namysłu, mimo niewielkiego udziału w cenie samych produktów."
+          ]
+        },
+        {
+          "id": "keep-unknowns-visible",
+          "heading": "4. Uwzględnij możliwe koszty w kraju docelowym",
+          "paragraphs": [
+            "Możliwe cło, podatki, opłaty manipulacyjne i za obsługę celną powinny mieć osobny wiersz. Sprawdź wymogi miejsca docelowego i warunki wybranej wysyłki. Ten poradnik nie podaje stawki dla konkretnej jurysdykcji i nie zakłada, że nazwa trasy rozstrzyga każdą opłatę.",
+            "Wpisuj nieznane, gdy nie ustalono kwoty. Puste pole zbyt łatwo odczytać jako zero. Podobnie kupon niesprawdzony dla twojej paczki powinien pozostać możliwą korektą, a nie gwarantowaną oszczędnością. Zanim zniżka stanie się uzasadnieniem zakupu, potwierdź warunki, limity i ostateczną kwotę płatności."
+          ]
+        },
+        {
+          "id": "worked-budget",
+          "heading": "5. Oblicz hipotetyczny budżet",
+          "paragraphs": [
+            "Wszystkie poniższe wartości są wymyślone i wyrażone w jednej przykładowej walucie. Tabela pokazuje rachunek, a nie aktualne ceny produktów, stawki wysyłki czy cennik opłat. Zauważ, że suma arytmetyczna nadal jest niepełna, ponieważ nie ustalono kosztów w miejscu docelowym.",
+            "W tym przykładzie 120 obejmuje wymienione założenia i wybraną rezerwę. Nie jest to końcowy koszt obejmujący wszystko. Jeżeli limit wydatków wynosi 120, nieznany wiersz opłat docelowych oznacza, że jeszcze nie wykazano zgodności zakupu z tym limitem."
+          ],
+          "table": {
+            "headers": [
+              "Pozycja budżetu",
+              "Przykładowa kwota",
+              "Status"
+            ],
+            "rows": [
+              [
+                "Wybrane produkty",
+                "60",
+                "Przykładowe założenie"
+              ],
+              [
+                "Dostawa krajowa",
+                "5",
+                "Przykładowe założenie"
+              ],
+              [
+                "Wyświetlana opłata za usługę",
+                "3",
+                "Przykładowe założenie"
+              ],
+              [
+                "Szacowana przesyłka międzynarodowa",
+                "35",
+                "Przykładowe założenie"
+              ],
+              [
+                "Korekta walutowa lub płatnicza",
+                "2",
+                "Przykładowe założenie"
+              ],
+              [
+                "Suma tych założeń",
+                "105",
+                "Wyłącznie suma arytmetyczna"
+              ],
+              [
+                "Osobista rezerwa na nieprzewidziane koszty",
+                "15",
+                "Wybrany bufor planowania"
+              ],
+              [
+                "Opłaty w miejscu docelowym",
+                "Nieznane",
+                "Wymagają osobnego sprawdzenia"
+              ]
+            ]
+          }
+        },
+        {
+          "id": "compare-scenarios",
+          "heading": "6. Porównaj użyteczne scenariusze",
+          "paragraphs": [
+            "W scenariuszach sprawdzaj założenia, które najłatwiej mogą zmienić decyzję. Porównaj paczkę z dużym opcjonalnym przedmiotem i bez niego albo dwa sposoby pakowania przy tym samym kierunku i rodzaju produktu. Zmieniaj jeden czynnik naraz, aby wiedzieć, skąd wynika różnica.",
+            "Własna rezerwa jest wyborem planistycznym, a nie prognozą wzrostu opłat o taką kwotę. Ustal ją na podstawie pozostałej niepewności i swoich możliwości finansowych. Jeżeli niewielka podwyżka przekroczyłaby budżet, ogranicz listę, zanim zobowiążesz się do zakupu produktów."
+          ]
+        },
+        {
+          "id": "reconcile-budget",
+          "heading": "7. Aktualizuj arkusz przed każdym zobowiązaniem",
+          "paragraphs": [
+            "Zastępuj szacunki potwierdzonymi kwotami, gdy stają się dostępne. Zachowaj obok pierwotny szacunek, jeżeli chcesz zrozumieć nietrafione założenia. Przed wysyłką upewnij się, że budżet obejmuje faktyczny zestaw produktów i zamówione pakowanie.",
+            "Jeżeli suma przekracza limit, wskaż najmniej przydatny zakup opcjonalny zamiast koncentrować się tylko na najtańszym wierszu. Uwzględnij koszty zmiany zamówienia, zanim założysz, że produkt można usunąć bezpłatnie. Gotowy arkusz powinien odpowiadać na proste pytanie: co pozostaje do zapłaty, co jest niepewne i czy możesz swobodnie pokryć obie części?"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "official-guide",
+        "official-estimate",
+        "official-terms"
+      ],
+      "related": [
+        "shipping",
+        "articles/pikobuy-parcel-weight-dimensions",
+        "articles/pikobuy-spreadsheet-checklist"
+      ]
+    },
+    {
+      "slug": "pikobuy-parcel-weight-dimensions",
+      "title": "Masa i wymiary paczki Pikobuy: porównaj sposoby pakowania",
+      "description": "Porównaj masę, wymiary i pakowanie paczki Pikobuy na przejrzystym przykładzie, a przed wysyłką sprawdź zasady trasy oraz końcową wycenę.",
+      "intro": "Dwie paczki o tej samej masie na wadze mogą zajmować bardzo różną przestrzeń. Dlatego przydatne porównanie wysyłki wymaga zarówno masy, jak i wymiarów oraz zasad naliczania opłat na dostępnej trasie. Celem nie jest wyłącznie zmniejszenie kartonu. Chodzi o porównanie sposobów pakowania, które chronią zawartość, odpowiadają potrzebom i prowadzą do zrozumiałej wyceny.",
+      "sections": [
+        {
+          "id": "define-measurements",
+          "heading": "1. Rozróżniaj rodzaje pomiarów",
+          "paragraphs": [
+            "Masa produktu opisuje sam przedmiot. Masa po zapakowaniu obejmuje zawartość i materiały użyte do wysyłki. Wymiary paczki dotyczą zewnętrznej strony gotowej przesyłki. Przy ustalaniu opłaty trasa może korzystać z masy gabarytowej, rzeczywistej lub innych zasad.",
+            "Zapisuj te wartości osobno. Suma szacowanych mas produktów nie określa masy gotowej paczki, a pomiar opakowania produktu nie określa wymiarów zewnętrznego kartonu wysyłkowego. Przed wpisaniem liczby do porównania ustal, czego dotyczy. W przeciwnym razie nawet poprawny rachunek może dać mylący wynik."
+          ]
+        },
+        {
+          "id": "collect-inputs",
+          "heading": "2. Wprowadzaj spójne dane do kalkulatora",
+          "paragraphs": [
+            "Publiczny kalkulator Pikobuy obejmuje kierunek, rodzaj produktu, masę i trzy wymiary. Utrzymuj te dane na spójnym poziomie przy porównywaniu opcji. Ostrożnie przeliczaj jednostki i zachowuj ich oznaczenia: wpisanie w centymetrach wartości wyrażonej w milimetrach radykalnie zmieni wynik.",
+            "Zachowaj każdy zestaw założeń z wynikiem i datą. Jeżeli oprócz pakowania zmienisz kierunek, klasyfikację produktu lub trasę, nie badasz już wyłącznie wpływu kartonu. Takie szersze porównanie może być przydatne, ale opisz je rzetelnie zamiast przypisywać każdą różnicę przepakowaniu."
+          ]
+        },
+        {
+          "id": "illustrative-calculation",
+          "heading": "3. Zrozum obliczanie masy gabarytowej",
+          "paragraphs": [
+            "Poniższe obliczenie wykorzystuje wymyślony dzielnik 5000 centymetrów sześciennych na kilogram, aby pokazać rachunek. Nie jest to informacja o uniwersalnej zasadzie naliczania opłat Pikobuy. W tym przykładzie pomnóż trzy wymiary zewnętrzne, a wynik podziel przez 5000.",
+            "Dla przykładowego kartonu 40 × 30 × 20 cm objętość wynosi 24 000 centymetrów sześciennych, a ilustracyjna masa gabarytowa 4,8 kg. Rzeczywista trasa może określać inny dzielnik, metodę pomiaru, minimum lub zaokrąglanie. Przeczytaj warunki, zanim uznasz wynik za masę stanowiącą podstawę opłaty."
+          ]
+        },
+        {
+          "id": "packing-example",
+          "heading": "4. Porównaj dwa hipotetyczne sposoby pakowania",
+          "paragraphs": [
+            "W obu poniższych wariantach założono masę na wadze 3,2 kg, celowo utrzymaną na stałym poziomie, aby wyodrębnić wpływ objętości. Mniejsze wymiary są ilustracją, a nie obietnicą, że magazyn uzyska je dla twoich produktów.",
+            "Gdyby hipotetyczna trasa naliczała opłatę od większej z mas rzeczywistej i gabarytowej przed własnym zaokrągleniem, punktem wyjścia byłyby odpowiednio 4,8 kg i 3,2 kg. Samo porównanie nadal nie podaje ceny ani nie potwierdza odpowiedniości drugiego wariantu."
+          ],
+          "table": {
+            "headers": [
+              "Przykładowy wariant",
+              "Wymiary zewnętrzne",
+              "Ilustracyjna masa gabarytowa",
+              "Co jeszcze sprawdzić"
+            ],
+            "rows": [
+              [
+                "Oryginalne pudełka w zewnętrznym kartonie",
+                "40 × 30 × 20 cm",
+                "4,8 kg przy przykładowym dzielniku",
+                "Naliczanie opłat na trasie i ochronę"
+              ],
+              [
+                "Inny sposób zabezpieczenia",
+                "35 × 28 × 16 cm",
+                "Około 3,14 kg przy przykładowym dzielniku",
+                "Wykonalność, czynności dodatkowe i ochronę"
+              ]
+            ]
+          }
+        },
+        {
+          "id": "protect-contents",
+          "heading": "5. Ustal, co musi zapewniać opakowanie",
+          "paragraphs": [
+            "Wypisz funkcje opakowania. Sztywny przedmiot może wymagać ochrony przed zgnieceniem, a usztywniona torba podparcia zachowującego kształt. Małe części trzeba zabezpieczyć przed oddzieleniem od głównego produktu. Oryginalne opakowanie może też być ważne do przechowywania lub wręczenia prezentu.",
+            "Przed prośbą o usunięcie metek, plomb czy opakowania wyjaśnij wszystkie nierozstrzygnięte kwestie zwrotu. Nie rezygnuj ze znanego wymagania w zamian za domniemaną oszczędność wysyłki. Przydatna instrukcja wskazuje, co w opakowaniu można zmienić i jaką ochronę zachować, a następnie prosi o potwierdzenie proponowanego rozwiązania."
+          ]
+        },
+        {
+          "id": "compare-consolidation",
+          "heading": "6. Ostrożnie porównuj łączenie i dzielenie przesyłek",
+          "paragraphs": [
+            "Łączenie produktów może uprościć przesyłkę, ale łączne wymiary i zestaw kategorii mogą zmienić dostępne opcje. Dzielenie może powodować dodatkowe opłaty lub wymagać innego pakowania. Żadne rozwiązanie nie jest automatycznie tańsze.",
+            "Porównaj pełne wyceny rzeczywistych alternatyw i uwzględnij właściwe opłaty za obsługę. Zachowaj porównywalny kierunek oraz oczekiwania dotyczące usługi. Sprawdź ograniczenia produktów i możliwość wspólnej wysyłki zamiast zakładać, że wszystko może podróżować razem. Nie traktuj podziału jako sposobu osiągnięcia konkretnego wyniku odprawy celnej: to odrębna kwestia zależna od właściwych przepisów i rzeczywistej przesyłki."
+          ]
+        },
+        {
+          "id": "confirm-final-quote",
+          "heading": "7. Potwierdź gotową paczkę",
+          "paragraphs": [
+            "Przed płatnością porównaj końcową listę przedmiotów, wymiary po zapakowaniu i instrukcje obsługi z ocenianym wariantem. Sprawdź sposób naliczania opłaty na trasie oraz zaokrąglenia i dopłaty wpływające na należną sumę. Zachowaj wycenę i zaakceptowane opcje.",
+            "Jeżeli wynik istotnie różni się od szacunku, przed zatwierdzeniem ustal, co się zmieniło. Powodem może być większe opakowanie zewnętrzne, inna zawartość lub warunek trasy. Aktualizacja pełnego budżetu w tym momencie łączy technicznie atrakcyjne pakowanie z praktycznym pytaniem, czy przesyłka nadal odpowiada twoim potrzebom."
+          ]
+        }
+      ],
+      "sourceIds": [
+        "official-estimate",
+        "official-guide",
+        "official-contact"
+      ],
+      "related": [
+        "shipping",
+        "articles/pikobuy-haul-budget",
+        "articles/pikobuy-warehouse-returns"
+      ]
+    },
+    {
+      "slug": "pikobuy-shoe-sizing",
+      "title": "Rozmiary butów w Pikobuy: długość stopy, metki i wkładki",
+      "description": "Sprawdź rozmiar butów z Pikobuy, rozróżniając długość stopy, pomiar wkładki i oznaczenia rozmiaru. Wyjaśnij wątpliwości na podstawie konkretnych materiałów.",
+      "intro": "Wybór rozmiaru butów znalezionych w Pikobuy wymaga czegoś więcej niż dopasowania zwykle kupowanego numeru. Oznaczenie jest tylko częścią zapisu; znaczenie mają także metoda pomiaru sprzedawcy, kształt modelu i materiały dotyczące wybranej pary. Ten poradnik pomaga porównywać te punkty odniesienia bez traktowania długości stopy, wkładki i podeszwy zewnętrznej jako wymiennych wielkości.",
+      "sections": [
+        {
+          "id": "identify-option",
+          "heading": "1. Ustal dokładny wariant butów",
+          "paragraphs": [
+            "Zapisz model lub identyfikator produktu, wybrany wariant i system rozmiarów podany w ofercie. Numer oznaczony jako EU, UK lub US wymaga właściwego kontekstu. Jeżeli strona zawiera różne tabele dla poszczególnych modeli, dołącz odpowiednią do wybranej wersji.",
+            "Przed płatnością porównaj zaimportowany wybór ze źródłem. Znajomo wyglądający numer może nadal należeć do niewłaściwego systemu lub wersji produktu. Nie rozstrzygaj rozbieżności zwyczajowym rozmiarem innego kupującego. Najpierw ustal, co według sprzedawcy oznacza wybrana opcja, a potem oceń, czy informacje przemawiają za oczekiwanym dopasowaniem."
+          ]
+        },
+        {
+          "id": "measure-feet",
+          "heading": "2. Przygotuj spójny pomiar stóp",
+          "paragraphs": [
+            "Zmierz obie stopy jedną powtarzalną metodą, w tej samej pozycji i warunkach. Zapisz większy wynik, zamiast zakładać identyczne wartości. Zachowaj jednostkę i metodę, aby porównać wynik z instrukcją sprzedawcy, a nie pamiętać jedynie zaokrągloną liczbę.",
+            "Długość stopy jest punktem wyjścia do pytania o rozmiar, nie pełną odpowiedzią. Szerokość, kształt palców i planowane skarpety mogą wpływać na potrzebną przestrzeń. Jeżeli sprzedawca podaje metodę, dokładnie ją przeczytaj przed porównaniem. Nie zastępuj jej po cichu inną tylko dlatego, że daje wygodniejszy wynik rozmiaru."
+          ]
+        },
+        {
+          "id": "separate-lengths",
+          "heading": "3. Rozróżniaj poszczególne długości",
+          "paragraphs": [
+            "Pomiar stopy opisuje osobę noszącą but. Pomiar wkładki dotyczy elementu, który może mieć krzywizny, podwyższone brzegi lub kształt nieodpowiadający bezpośrednio przestrzeni użytkowej. Pomiar wewnętrzny próbuje określić miejsce w bucie. Pomiar podeszwy zewnętrznej obejmuje jego zewnętrzną konstrukcję.",
+            "Przy każdej liczbie zapisuj rodzaj pomiaru. Dwie wartości w centymetrach nie muszą być porównywalne. Dłuższa podeszwa zewnętrzna nie potwierdza, że stopa się zmieści, a zdjęcie wkładki wymaga jasnej metody, zanim odpowie na pytanie o rozmiar. Przed interpretacją ustal, co zmierzono i między jakimi punktami."
+          ]
+        },
+        {
+          "id": "consider-shape",
+          "heading": "4. Uwzględnij kształt i przeznaczenie",
+          "paragraphs": [
+            "Przeanalizuj kształt butów, które już uważasz za wygodne, pamiętając, że inny model może zachowywać się inaczej. Wąski przód ma znaczenie nawet wtedy, gdy długość wydaje się właściwa. Gruba skarpeta również zmienia dostępną przestrzeń.",
+            "Nie rozwiązuj każdej obawy wyborem dłuższego rozmiaru. Dodatkowa długość może nie usunąć problemu szerokości, za to spowodować kolejny problem z dopasowaniem. Wskaż faktyczną niepewność, na przykład szerokość przodostopia lub definicję długości sprzedawcy, i zapytaj o ten szczegół. Jeżeli zakup zależy od parametrów użytkowych lub podparcia, których nie można ustalić zdalnie, sama fotografia nie rozstrzygnie sprawy."
+          ]
+        },
+        {
+          "id": "mismatch-example",
+          "heading": "5. Wyjaśnij hipotetyczną rozbieżność oznaczeń",
+          "paragraphs": [
+            "Wyobraź sobie, że zachowana tabela źródłowa łączy wariant z określonym zakresem długości stopy, a zaimportowany wybór pokazuje inne oznaczenie. Poniższy przykład celowo nie podaje przeliczenia liczbowego: najpierw trzeba ustalić tożsamość wariantu, a nie wybrać najbardziej znajomy numer."
+          ],
+          "table": {
+            "headers": [
+              "Zapis",
+              "Co pokazuje",
+              "Przydatny następny krok"
+            ],
+            "rows": [
+              [
+                "Oferta źródłowa",
+                "Wariant A z zakresem długości stopy",
+                "Zachowaj dokładną tabelę i opis wariantu"
+              ],
+              [
+                "Zaimportowany wybór",
+                "Inne oznaczenie rozmiaru",
+                "Zapytaj, czy odpowiada wariantowi A ze źródła"
+              ],
+              [
+                "Zdjęcie magazynowe",
+                "Czytelna metka jednego buta",
+                "Sprawdź drugi but i potwierdzony wariant"
+              ],
+              [
+                "Zdjęcie pomiaru",
+                "Długość bez jasnych punktów pomiaru",
+                "Wyjaśnij, czy chodzi o wkładkę, wnętrze czy podeszwę zewnętrzną"
+              ]
+            ]
+          },
+          "list": [
+            "Nie zakładaj zgodności wyłącznie na podstawie podobnych oznaczeń.",
+            "Zachowaj odpowiedź wyjaśniającą przyporządkowanie.",
+            "Wstrzymaj decyzję, jeżeli wybrany wariant pozostaje niejednoznaczny."
+          ]
+        },
+        {
+          "id": "request-pair-evidence",
+          "heading": "6. Sprawdź materiały dotyczące rzeczywistej pary",
+          "paragraphs": [
+            "Przeglądając zdjęcia magazynowe, powiąż widoczne metki z wybranym zamówieniem. Sprawdź oba buty, gdy rozróżnienie ma znaczenie. Jeżeli potrzebny jest pomiar, określ wymiar i upewnij się, że zdjęcie pokazuje odpowiednie punkty oraz czytelną skalę.",
+            "Zapytaj o pomiar, nie zakładając, że z produktem można wykonać dowolną czynność. Wyjęcie elementu może być niewłaściwe lub niedostępne, a zakrzywiony element trudno mierzyć powtarzalnie. Najpierw sformułuj pytanie i potwierdź dostępną metodę. Celem są interpretowalne informacje, a nie pozornie dokładna liczba uzyskana niejasną procedurą."
+          ]
+        },
+        {
+          "id": "decide-next-step",
+          "heading": "7. Oceń dopasowanie ze świadomością ograniczeń",
+          "paragraphs": [
+            "Zapisz, czy informacje są spójne, niepełne czy sprzeczne. Spójność może uzasadniać dalsze działanie, lecz nie gwarantuje wygody. Pytanie bez odpowiedzi powinno prowadzić do konkretnej prośby o wyjaśnienie, a nie optymistycznego założenia.",
+            "Jeżeli otrzymany wariant wygląda na niewłaściwy albo dane o rozmiarze przeczą zamówieniu, niezwłocznie omów problem i sprawdź właściwe warunki zwrotu. Zachowaj metki, plomby i opakowanie w stanie nienaruszonym podczas wyjaśniania następnego kroku. Po rozstrzygnięciu rozmiaru osobno oceń pudełko i pakowanie przesyłki, aby preferencje wysyłkowe nie przesądzały o dopasowaniu."
+          ]
+        }
+      ],
+      "sourceIds": [
+        "official-guide",
+        "official-returns"
+      ],
+      "related": [
+        "spreadsheet",
+        "articles/pikobuy-qc-measurements",
+        "articles/pikobuy-parcel-weight-dimensions"
+      ]
+    },
+    {
+      "slug": "pikobuy-bag-dimensions",
+      "title": "Torby w Pikobuy: sprawdź pojemność, paski i wykonanie",
+      "description": "Porównaj torby Pikobuy według użytkowego otworu, wymiarów wnętrza, pasków i widocznej konstrukcji. Zobacz praktyczny przykład oceny pojemności.",
+      "intro": "Torba może wyglądać na dużą na zdjęciu, a mimo to nie mieścić potrzebnego przedmiotu. Szerokość zewnętrzna, użytkowy otwór i kształt wnętrza odpowiadają na różne pytania. Przed wyborem torby znalezionej w Pikobuy określ, co ma przenosić i jak chcesz ją nosić. Dzięki temu wymiary i zdjęcia kontrolne stają się przydatne bez udawania, że dowodzą wieloletniej trwałości lub składu materiału.",
+      "sections": [
+        {
+          "id": "define-contents",
+          "heading": "1. Zacznij od rzeczy, które muszą się zmieścić",
+          "paragraphs": [
+            "Wypisz przedmioty, które zamierzasz nosić jednocześnie. Zmierz największy sztywny przedmiot wraz z używanym zwykle etui lub pokrowcem. Laptop w wyściełanym pokrowcu potrzebuje więcej miejsca niż samo urządzenie, a butelka może wymagać innej wysokości wnętrza niż płaski zeszyt.",
+            "Ustal, które rzeczy są niezbędne, a które opcjonalne. Jeżeli torba nie mieści koniecznego przedmiotu, atrakcyjne okucia nie rozwiązują problemu. Uwzględnij także dostęp: włożenie rzeczy z wysiłkiem to coś innego niż wygodne wyjmowanie podczas codziennego używania."
+          ]
+        },
+        {
+          "id": "separate-dimensions",
+          "heading": "2. Oddziel wielkość zewnętrzną od użytecznej przestrzeni",
+          "paragraphs": [
+            "Wymiary zewnętrzne opisują ogólny obrys torby. Wnętrze mogą pomniejszać wyściółka, szwy, przegródki i zaokrąglone narożniki. Otwór może być jeszcze węższy z powodu zamknięcia lub konstrukcji.",
+            "Zapisz, jaki pomiar podaje oferta. Nie oznaczaj szerokości zewnętrznej jako pojemności użytkowej. W przypadku sztywnego przedmiotu porównaj otwór i odpowiednie wymiary wnętrza, w razie potrzeby także głębokość. Jeżeli oferta zawiera tylko poglądowe zdjęcie skali, poproś o pomiar ograniczającego miejsca zamiast szacować centymetry na podstawie dłoni lub sylwetki nieznanej osoby."
+          ]
+        },
+        {
+          "id": "check-carrying",
+          "heading": "3. Sprawdź paski i pozycję noszenia",
+          "paragraphs": [
+            "Całkowita długość paska i odległość, na jaką torba zwisa poniżej ramienia, to różne pomiary. Przeczytaj opisaną metodę i sprawdź, czy zakres regulacji obejmuje zamierzony sposób noszenia. Prześwit uchwytów może mieć znaczenie, jeśli chcesz założyć torbę na płaszcz.",
+            "Sprawdź mocowanie paska i to, czy jest odpinany, jeżeli wpływa to na zastosowanie. Nie wyciągaj zakresu regulacji ze zdjęcia jednego ustawienia. Pytanie powinno być praktyczne: czy dołączony pasek można ustawić na potrzebną długość i czy zapis jasno opisuje ten wymiar?"
+          ]
+        },
+        {
+          "id": "inspect-details",
+          "heading": "4. Obejrzyj widoczną konstrukcję i zawartość zestawu",
+          "paragraphs": [
+            "Na zdjęciach sprawdzaj miejsca ważne dla działania torby: szwy, mocowania, podszewkę, ułożenie zamknięcia i otwór. Ustal, czy reklamowane odpinane paski lub dodatki należą do wybranego wariantu. Zdjęcie pokazujące je w innym miejscu oferty nie musi potwierdzać zawartości twojej opcji.",
+            "Oddzielaj widoczną obserwację od deklaracji wytrzymałości. Fotografia pokaże szew lub klamrę, ale nie potwierdzi bezpiecznego obciążenia ani trwałości przy wielokrotnym użyciu. Sam wygląd nie identyfikuje też składu materiału. Jeżeli konkretny materiał jest konieczny, poszukaj odpowiednich informacji o produkcie i zapisz ich źródło."
+          ]
+        },
+        {
+          "id": "capacity-example",
+          "heading": "5. Porównaj dwie hipotetyczne torby",
+          "paragraphs": [
+            "Załóżmy, że konieczny sztywny przedmiot ma 30 cm szerokości i 22 cm wysokości. Wymyślone wymiary pokazują, dlaczego największy wymiar zewnętrzny nie wystarcza. Żadna propozycja nie jest rekomendacją produktu, a przykład pozostawia głębokość i komfort noszenia do osobnego sprawdzenia.",
+            "Torba B zasługuje na dalsze sprawdzenie mimo mniejszej szerokości zewnętrznej. Nie traktuj 1 cm różnicy otworu jako gwarancji wygodnego dopasowania: znaczenie nadal mogą mieć zaokrąglenia, wyściółka i kąt wkładania. Dopasowanie na styk wymaga lepszych informacji niż ogólne porównanie."
+          ],
+          "table": {
+            "headers": [
+              "Wymiar",
+              "Przykładowa torba A",
+              "Przykładowa torba B"
+            ],
+            "rows": [
+              [
+                "Szerokość zewnętrzna",
+                "35 cm",
+                "33 cm"
+              ],
+              [
+                "Użytkowa szerokość otworu",
+                "28 cm",
+                "31 cm"
+              ],
+              [
+                "Wysokość wnętrza",
+                "25 cm",
+                "23 cm"
+              ],
+              [
+                "Wstępny wniosek",
+                "Otwór jest węższy od przedmiotu",
+                "Warto sprawdzić głębokość, kształt otworu i wygodę dostępu"
+              ]
+            ]
+          }
+        },
+        {
+          "id": "plan-packing",
+          "heading": "6. Uwzględnij kształt i ochronę w przesyłce",
+          "paragraphs": [
+            "Torba o usztywnionej konstrukcji może potrzebować podparcia przeciw zgnieceniu, a luźne paski i drobne dodatki zabezpieczenia przed zgubieniem. Wskaż wrażliwe części i kształt, jaki torba ma zachować. Wyjaśnij te wymagania podczas ustalania pakowania zamiast bez zastrzeżeń prosić o najmniejszą możliwą paczkę.",
+            "Oddziel decyzję o produkcie od decyzji o wysyłce. Niska cena przedmiotu nie ujawnia kosztu ochronnej paczki, a mniejsze opakowanie nie jest automatycznie odpowiednie. Porównaj gotowe wymiary i wycenę, gdy będą dostępne. Jeżeli kwestia zwrotu pozostaje otwarta, wyjaśnij ją przed prośbą o zmianę opakowania."
+          ]
+        },
+        {
+          "id": "record-bag-decision",
+          "heading": "7. Nazwij brakującą informację",
+          "paragraphs": [
+            "Zakończ porównanie krótką decyzją: odpowiednia na podstawie dostępnych wymiarów, wstrzymana do konkretnego pomiaru albo usunięta z powodu niespełnienia wymagania. Przydatna prośba może dotyczyć użytkowej szerokości otworu przy całkowicie otwartym zapięciu albo zakresu regulacji paska z jasno wskazanymi punktami pomiaru.",
+            "Zachowaj źródło, wybrany wariant i odpowiedź przy produkcie. Gdy twój egzemplarz przejdzie kontrolę, porównaj właściwe materiały z zapisem. Utrzymuje to uwagę na funkcji torby, pozostawiając poza wnioskiem niepotwierdzone cechy, takie jak długotrwałe zużycie, nośność i autentyczność materiału."
+          ]
+        }
+      ],
+      "sourceIds": [
+        "official-user-agreement",
+        "official-estimate"
+      ],
+      "related": [
+        "spreadsheet",
+        "articles/pikobuy-qc-measurements",
+        "articles/pikobuy-parcel-weight-dimensions"
+      ]
+    },
+    {
+      "slug": "pikobuy-warehouse-returns",
+      "title": "Zwroty z magazynu Pikobuy: termin, materiały i koszty",
+      "description": "Przygotuj wniosek o zwrot z magazynu Pikobuy ze statusem zamówienia, właściwymi materiałami i jasnymi pytaniami o warunki, termin oraz opłaty.",
+      "intro": "Pytanie o zwrot z magazynu łatwiej rozwiązać, gdy ustalisz etap zamówienia, zachowasz stan przedmiotu i jasno opiszesz problem. Zacznij od razu, zamiast czekać na idealny zestaw zdjęć. Ten niezależny poradnik pomaga uporządkować zgłoszenie; nie rozstrzyga uprawnienia do zwrotu, nie obiecuje akceptacji i nie zastępuje aktualnych zasad ani odpowiedzi dotyczącej konkretnego zamówienia.",
+      "sections": [
+        {
+          "id": "identify-return-stage",
+          "heading": "1. Ustal, gdzie znajduje się przedmiot",
+          "paragraphs": [
+            "Sprawdź, czy sprzedawca wysłał produkt, czy dotarł on do magazynu, czy już opuścił go w przesyłce międzynarodowej. Zapisz dokładny tekst statusu i pokazany czas. Różne etapy wymagają innych praktycznych pytań, dlatego nie opisuj każdej sprawy po prostu jako zwrot pieniędzy.",
+            "Zachowaj numer zamówienia, wybrany wariant i potwierdzenie płatności. Jeżeli zamówienie obejmuje kilka rzeczy, dokładnie wskaż tę, której dotyczy problem. Zgłoszenie niewłaściwego rozmiaru góry nie powinno zmuszać wsparcia do zgadywania, czy chodzi o inny podobny element tego samego zakupu. Ogranicz dane do informacji potrzebnych w tej sprawie."
+          ]
+        },
+        {
+          "id": "check-clock",
+          "heading": "2. Sprawdź aktualny termin zgłoszenia",
+          "paragraphs": [
+            "Strona zwrotów Pikobuy podaje 120-godzinne okno zgłoszenia z magazynu i warunkową możliwość przyjęcia. Potwierdź dokładny termin swojego zamówienia w bieżącym procesie lub ze wsparciem. Zrzut z samą datą nie wystarcza do obliczenia dokładnej granicy czasowej.",
+            "Zapisz godzinę i strefę czasową z zamówienia oraz zachowaj potwierdzenie zgłoszenia. Jeżeli nie wiesz, czy produkt spełnia warunki, zapytaj szybko zamiast zakładać, że późniejsze pytanie przedłuży termin. Rozmowa ze wsparciem nie dowodzi przedłużenia, chyba że właściwy proces wyraźnie je potwierdza. Zachowaj to rozróżnienie w notatkach."
+          ]
+        },
+        {
+          "id": "preserve-condition",
+          "heading": "3. Zachowaj materiały i stan produktu",
+          "paragraphs": [
+            "W czasie oceny problemu pozostaw metki, plomby, opakowanie i dodatki nienaruszone. Nie proś o przeróbki tylko po to, aby zdjęcie wyglądało czytelniej. Jeżeli kontrola wymaga otwarcia lub usunięcia elementu, najpierw zapytaj o konsekwencje.",
+            "Zachowaj ofertę źródłową, wybrany wariant, właściwą tabelę rozmiarów i zdjęcia pokazujące problem. Zaznacz, które fotografie dotyczą twojego egzemplarza. Zdjęcie wcześniejszego kupującego może ilustrować oczekiwania, ale najczytelniejsze zgłoszenie porównuje zapisane zamówienie z materiałami przedstawiającymi otrzymany przedmiot. Zachowaj pliki oryginalne obok wersji z objaśnieniami."
+          ]
+        },
+        {
+          "id": "classify-issue",
+          "heading": "4. Opisz problem bez przesady",
+          "paragraphs": [
+            "Rozróżniaj pomyłkę wariantu, widoczną wadę, niepewny pomiar i zmianę zdania. Takie opisy wyjaśniają, co ma zostać ocenione. Używaj obserwacji, które możesz poprzeć, na przykład metka pokazuje inny rozmiar niż wybrany, zamiast ogólnie twierdzić, że wszystko jest nie tak.",
+            "Poniższa tabela jest redakcyjnym narzędziem przygotowania zgłoszenia, a nie oficjalną tabelą uprawnień. Pokazuje, jak materiały i pytanie zmieniają się zależnie od problemu."
+          ],
+          "table": {
+            "headers": [
+              "Problem",
+              "Materiały do uporządkowania",
+              "Pytanie"
+            ],
+            "rows": [
+              [
+                "Niewłaściwy wybrany wariant",
+                "Wybór z zamówienia i otrzymana metka",
+                "Czy tę rozbieżność można ocenić pod kątem zwrotu?"
+              ],
+              [
+                "Widoczne uszkodzenie",
+                "Wyraźne ujęcie miejsca i otoczenia",
+                "Jakie materiały są potrzebne do oceny uszkodzenia?"
+              ],
+              [
+                "Niepewne dopasowanie",
+                "Tabela źródłowa i czytelne pomiary",
+                "Czy można wyjaśnić różnicę w pomiarach?"
+              ],
+              [
+                "Zmiana zdania",
+                "Status i zachowany stan przedmiotu",
+                "Czy zwrot jest dostępny i ile kosztuje?"
+              ]
+            ]
+          }
+        },
+        {
+          "id": "write-request",
+          "heading": "5. Napisz zwięzłe zgłoszenie umożliwiające działanie",
+          "paragraphs": [
+            "Zacznij od numeru zamówienia i właściwego przedmiotu. Opisz problem w jednym lub dwóch zdaniach, a następnie wskaż potwierdzające zdjęcia. Podaj oczekiwany rezultat, pozostawiając miejsce na rzeczywistą procedurę i ocenę warunków.",
+            "Przykład: w zamówieniu wybrano wersję niebieską, ale metka i zdjęcia magazynowe wydają się pokazywać czarną. Załączam wybraną opcję oraz zdjęcia otrzymanego produktu. Proszę potwierdzić, czy wariant jest niewłaściwy i czy można zgłosić zwrot z magazynu. To autorski przykład sformułowania, a nie zapewnienie akceptacji określonego rezultatu."
+          ]
+        },
+        {
+          "id": "confirm-costs",
+          "heading": "6. Przed kontynuowaniem zapytaj o pełny koszt",
+          "paragraphs": [
+            "Opłaty za zwrot mogą wpłynąć na sens ekonomiczny zgłoszenia po zmianie zdania. Zapytaj o składniki i sumę dotyczącą konkretnego przedmiotu, w tym wysyłkę lub obsługę. Nie obliczaj wyniku na podstawie doświadczenia innego klienta.",
+            "Oficjalna strona zawiera niespójne sformułowania dotyczące pierwotnych kosztów wysyłki, dlatego uzyskaj wyjaśnienie dla swojego zamówienia. Zapisz wycenę, jej autora i warunki. Jeżeli mowa o przewidywanym zwrocie pieniędzy, oddziel kwotę produktu od opłat, które mogą nadal pozostać należne. Nie zakładaj automatycznego zwrotu całej pierwotnej płatności."
+          ]
+        },
+        {
+          "id": "follow-case",
+          "heading": "7. Śledź sprawę z uporządkowanym zapisem",
+          "paragraphs": [
+            "Prowadź krótką chronologię zgłoszenia, potwierdzeń, dodatkowych materiałów i decyzji. Gdy to właściwe, odpowiadaj w istniejącej sprawie, aby kontekst pozostał razem. Jeśli wsparcie prosi o brakujący szczegół, odpowiedz bezpośrednio zamiast ponownie opisywać cały zakup.",
+            "Przed zatwierdzeniem kroku sprawdź, czy dotyczy właściwego przedmiotu i zrozumiałego dla ciebie rozwiązania. Zachowaj potwierdzenie tego, co zaakceptowano i co nadal oczekuje. Wysłane zgłoszenie, odpowiedź sprzedawcy i zakończony zwrot środków są różnymi zdarzeniami. Osobny zapis pomaga śledzić wynik bez mylenia postępu z zakończeniem."
+          ]
+        }
+      ],
+      "sourceIds": [
+        "official-returns",
+        "official-contact"
+      ],
+      "related": [
+        "qc",
+        "articles/pikobuy-qc-measurements",
+        "articles/pikobuy-haul-budget"
+      ]
+    },
+    {
+      "slug": "pikobuy-tracking-not-updating",
+      "title": "Śledzenie Pikobuy nie aktualizuje się? Sprawdź etap i następny krok",
+      "description": "Ustal, dlaczego śledzenie Pikobuy nie pokazuje nowych informacji: rozpoznaj etap przesyłki, przeanalizuj dostępne dane i przygotuj przydatne zgłoszenie.",
+      "intro": "Gdy śledzenie Pikobuy milczy, najpierw ustal, który transport próbujesz obserwować. Dostawa sprzedawcy do magazynu i późniejsza paczka międzynarodowa to odrębne etapy. Numer zamówienia, identyfikator paczki i numer śledzenia przewoźnika mogą odpowiadać na różne pytania. Przydatny następny krok zależy od ostatniego potwierdzonego zdarzenia, a nie liczby dni od pierwszej płatności za produkt.",
+      "sections": [
+        {
+          "id": "identify-shipment",
+          "heading": "1. Ustal, który transport śledzisz",
+          "paragraphs": [
+            "Zapisz, czy czekasz na wysyłkę produktu przez sprzedawcę, obsługę w magazynie czy paczkę międzynarodową. Przy etapie umieść właściwy identyfikator. Nie zakładaj, że numer przypisany do jednego transportu śledzi również kolejny.",
+            "Jeżeli masz kilka produktów, odróżnij postęp pojedynczego przedmiotu od paczki zawierającej wiele rzeczy. Wysyłka jednego sprzedawcy nie potwierdza gotowości całej zawartości planowanej paczki. Korzystaj z rzeczywistych zapisów zamówienia i przesyłki, aby ustalić, co zgłoszono, zamiast odtwarzać proces z pamięci."
+          ]
+        },
+        {
+          "id": "locate-dispatch",
+          "heading": "2. Znajdź zdarzenie nadania międzynarodowego",
+          "paragraphs": [
+            "Poradnik Pikobuy odnosi trzydniową informację o dostępności śledzenia do momentu nadania paczki. Ten punkt początkowy jest ważny. Płatność za produkt, przyjęcie do magazynu i zgłoszenie paczki nie są automatycznie tym samym co wysyłka międzynarodowa.",
+            "Sprawdź zapisaną datę nadania przed porównaniem sytuacji z opublikowaną wskazówką. Jeżeli zapis nie potwierdza jednoznacznie nadania, poproś o wyjaśnienie zamiast uznawać brak skanu za opóźnienie przewoźnika. Zachowaj odpowiedź przy paczce. Stwierdzenie dotyczy dostępności śledzenia; nie gwarantuje daty doręczenia i nie diagnozuje przyczyny konkretnej przerwy."
+          ]
+        },
+        {
+          "id": "read-event-type",
+          "heading": "3. Przeczytaj rzeczywistą treść ostatniego zdarzenia",
+          "paragraphs": [
+            "Zapis utworzenia etykiety lub danych przesyłki różni się od dowodu fizycznego przyjęcia paczki przez przewoźnika. Późniejsze zdarzenia mogą opisywać przetwarzanie, przekazanie, próbę doręczenia lub inną czynność. Czytaj pełny tekst i znacznik czasu zamiast polegać wyłącznie na kolorowym pasku postępu.",
+            "Nie przekładaj nieznanego statusu na mocniejszy wniosek, niż uzasadnia. Jeżeli zdarzenie wymienia partnera lub innego przewoźnika, zanotuj to i sprawdź, czy podano właściwy numer. Nie zakładaj, że ogólny internetowy słownik statusów dokładnie wyjaśnia każdy komunikat dotyczący twojej paczki."
+          ]
+        },
+        {
+          "id": "build-timeline",
+          "heading": "4. Ułóż krótką chronologię informacji",
+          "paragraphs": [
+            "Prosty dziennik pomaga odróżnić niezmienione zdarzenie od nowego o podobnym brzmieniu. Dokładnie kopiuj tekst, zachowuj wyświetlany czas i zapisuj źródło. Poniżej znajduje się hipotetyczny format, a nie historia rzeczywistej paczki ani oficjalny słownik statusów."
+          ],
+          "table": {
+            "headers": [
+              "Zdarzenie w przykładowym zapisie",
+              "Co można stwierdzić",
+              "Co pozostaje nieznane"
+            ],
+            "rows": [
+              [
+                "Zapisano zgłoszenie paczki",
+                "Widoczna jest czynność zgłoszenia",
+                "Czy nastąpiło nadanie"
+              ],
+              [
+                "Zapisano nadanie",
+                "Platforma informuje o nadaniu",
+                "Czy widoczny jest skan przewoźnika"
+              ],
+              [
+                "Otrzymano informacje o przesyłce",
+                "Zapisano dane elektroniczne",
+                "Czy potwierdzono fizyczne przyjęcie"
+              ],
+              [
+                "Zapisano przyjęcie przez przewoźnika",
+                "Widoczne jest zdarzenie przyjęcia",
+                "Końcowa data doręczenia"
+              ],
+              [
+                "Zapisano problem z doręczeniem",
+                "Problem wymaga interpretacji",
+                "Przyczyna i potrzebne działanie do czasu wyjaśnienia"
+              ]
+            ]
+          }
+        },
+        {
+          "id": "choose-next-action",
+          "heading": "5. Dobierz działanie do brakującej informacji",
+          "paragraphs": [
+            "Jeżeli nie ma identyfikatora przesyłki międzynarodowej, zacznij od zapisu na platformie. Gdy nadanie jest zapisane, ale śledzenie nie pojawiło się w terminie podanym we wskazówkach, zapytaj Pikobuy o tę paczkę. Jeśli zdarzenie przewoźnika istnieje, lecz przestało się zmieniać, zachowaj ostatnie potwierdzenie i sprawdź informacje właściwe dla usługi.",
+            "Przy problemie z adresem lub doręczeniem uważnie przeczytaj wymagane działanie i zweryfikuj je prawdziwym kanałem przewoźnika lub platformy. Cisza w śledzeniu sama nie dowodzi zagubienia, a uspokajający szacunek nie dowodzi dalszego ruchu paczki. Skup pytanie na brakujących informacjach lub czynnościach."
+          ]
+        },
+        {
+          "id": "prepare-ticket",
+          "heading": "6. Przekaż wsparciu przydatne szczegóły",
+          "paragraphs": [
+            "Podaj identyfikator paczki, widoczną datę nadania, przewoźnika i numer śledzenia oraz ostatnie zdarzenie z czasem. Dołącz zrzut ekranu, jeśli pomaga zachować tekst, który może się zmienić. Określ pytanie, na przykład czy potwierdzono przekazanie przewoźnikowi.",
+            "Zwięzły przykład: paczka pokazuje nadanie we wskazanej dacie, ale nie znajduję zdarzenia przyjęcia przez przewoźnika. Załączam aktualny tekst śledzenia. Proszę potwierdzić ostatni zweryfikowany transport i to, czy muszę podjąć działanie. Właściwy kanał znajdziesz na oficjalnej stronie Kontakt Pikobuy; ten niezależny serwis nie może sprawdzić twojej prywatnej przesyłki."
+          ]
+        },
+        {
+          "id": "close-record",
+          "heading": "7. Prowadź zapis aż do doręczenia",
+          "paragraphs": [
+            "Aktualizuj dziennik po istotnym zdarzeniu i nie traktuj kolejnych odświeżeń tej samej strony jako nowych informacji. Zachowuj instrukcje lub odpowiedzi zmieniające oczekiwany następny krok. Jeżeli w sprawie podano termin lub etap eskalacji, zapisz go wyraźnie.",
+            "Gdy paczka dotrze, porównaj zawartość z listą produktów i zachowanym zapisem kontroli. Zachowaj odpowiednie opakowania i etykiety podczas wyjaśniania różnic. Zakończone śledzenie i zadowalająca kontrola zawartości to odrębne obserwacje. Uporządkowany zapis pozwala wyjaśnić problem z doręczeniem albo produktem bez mieszania tych spraw."
+          ]
+        }
+      ],
+      "sourceIds": [
+        "official-guide",
+        "official-contact"
+      ],
+      "related": [
+        "shipping",
+        "guide",
+        "faq"
+      ]
+    }
+  ]
+}

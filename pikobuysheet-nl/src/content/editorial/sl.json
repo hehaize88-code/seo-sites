@@ -1,0 +1,1254 @@
+{
+  "ui": {
+    "articles": "Članki",
+    "faq": "Pogosta vprašanja",
+    "articlesTitle": "Praktični vodniki za Pikobuy",
+    "articlesIntro": "Praktični vodniki za izbiro izdelkov, preverjanje podrobnosti, načrtovanje stroškov in organizacijo dostave.",
+    "faqTitle": "Odgovori na vaša vprašanja o Pikobuy",
+    "faqIntro": "Odgovori na 24 vprašanj na podlagi uradnih strani Pikobuy.",
+    "toc": "Na tej strani",
+    "sources": "Viri",
+    "checked": "Preverjeno",
+    "byline": "PikobuySheet",
+    "readArticle": "Preberite članek",
+    "related": "Sorodni članki",
+    "allArticles": "Vsi članki",
+    "latestArticles": "Najnovejši članki",
+    "articleCount": "10 praktičnih vodnikov",
+    "sourceLink": "Uradni vir"
+  },
+  "faq": [
+    {
+      "id": "what-is-pikobuy",
+      "question": "Kaj počne Pikobuy?",
+      "answer": "Pikobuy uporabnikom pomaga najti izdelke iz Kitajske, jih kupiti pri prodajalcih, prejeti v svojem skladišču in urediti mednarodno dostavo. Domača stran te dejavnosti predstavlja kot ločene faze storitve.",
+      "sourceIds": [
+        "official-home"
+      ]
+    },
+    {
+      "id": "supported-marketplaces",
+      "question": "Katere platforme omenja vodnik?",
+      "answer": "Uradni vodnik omenja Taobao, Tmall, 1688, Weidian in Yupoo. Pred oddajo naročila za nakup preverite natančen izdelek, velikost in barvo.",
+      "sourceIds": [
+        "official-guide"
+      ]
+    },
+    {
+      "id": "finding-products",
+      "question": "Kako lahko Pikobuy prosim, da poišče izdelek?",
+      "answer": "Domača stran Pikobuy opisuje neposredno iskanje in pošiljanje povezav do izdelkov, slik ali zahtev za iskanje blaga. To so storitve samega Pikobuy; ne potrjujejo, da ta neodvisni katalog omogoča iskanje po sliki.",
+      "sourceIds": [
+        "official-home"
+      ]
+    },
+    {
+      "id": "two-payments",
+      "question": "Zakaj se nakup in dostava plačata ločeno?",
+      "answer": "Po vodniku se nakup plača pred pregledom v skladišču. Pozneje izberete dostavno pot, oddate paket za pošiljanje in plačate mednarodni prevoz.",
+      "sourceIds": [
+        "official-guide"
+      ]
+    },
+    {
+      "id": "payment-options",
+      "question": "Katere načine plačila lahko uporabim?",
+      "answer": "Pikobuy oglašuje več valut in prikazuje logotipe kartic ter digitalnih denarnic, med njimi Visa, Mastercard, Klarna, Google Pay in Apple Pay. Pred plačilom preverite dejansko razpoložljive načine, valute in skupni znesek na blagajni.",
+      "sourceIds": [
+        "official-about"
+      ]
+    },
+    {
+      "id": "failed-payment",
+      "question": "Ali bo naročilo obdelano, če plačilo ne uspe?",
+      "answer": "Pogoji Pikobuy navajajo, da naročilo ob neuspešnem plačilu ne bo obdelano. Preverite rezultat plačila v svojem računu in se obrnite na uradno podporo, če stanje transakcije ostaja nejasno.",
+      "sourceIds": [
+        "official-terms"
+      ]
+    },
+    {
+      "id": "warehouse-inspection",
+      "question": "Kaj se zgodi, ko izdelek prispe v skladišče?",
+      "answer": "Vodnik opisuje evidentiranje prejema, potrditev s fotografijami in pregled napak. Pred odločitvijo, katere izdelke poslati, preglejte podatke svojega naročila.",
+      "sourceIds": [
+        "official-guide"
+      ]
+    },
+    {
+      "id": "qc-limits",
+      "question": "Ali fotografije pregleda zagotavljajo pristnost ali delovanje?",
+      "answer": "Ne. Uporabniški sporazum pojasnjuje, da pri nekaterih izdelkih ni mogoča strokovna presoja kakovosti ali pristnosti. Pregled je lahko omejen na zunanje stanje in dodatke. Fotografije so koristne, vendar niso splošno jamstvo za izdelek.",
+      "sourceIds": [
+        "official-user-agreement"
+      ]
+    },
+    {
+      "id": "detailed-photos",
+      "question": "Ali lahko zahtevam podrobnejše fotografije pregleda?",
+      "answer": "Pogoji posredovanja pošiljk navajajo, da si stranke lahko ogledajo pregledne fotografije Pikobuy ali kupijo dodatne podrobne posnetke. Pri Pikobuy preverite razpoložljivo storitev in ceno za izdelek, ki ga želite pregledati.",
+      "sourceIds": [
+        "official-shipping"
+      ]
+    },
+    {
+      "id": "packaging",
+      "question": "Ali lahko zahtevam drugačno embalažo?",
+      "answer": "Nakupovalni vodnik omenja zahteve za minimalno ali ojačeno embalažo. Navedite svoje potrebe in preverite razpoložljive možnosti priprave, preden oddate paket za pošiljanje.",
+      "sourceIds": [
+        "official-guide"
+      ]
+    },
+    {
+      "id": "consolidation",
+      "question": "Ali so lahko izdelki različnih prodajalcev v enem paketu?",
+      "answer": "Kontaktna stran Pikobuy navaja, da se izdelki različnih prodajalcev lahko združijo v en paket z enim stroškom dostave. Primerjajte dobljeno ponudbo; to ne zagotavlja prihranka pri vsakem naročilu.",
+      "sourceIds": [
+        "official-contact"
+      ]
+    },
+    {
+      "id": "storage",
+      "question": "Kako dolgo lahko izdelki ostanejo v skladišču?",
+      "answer": "Pogoji posredovanja pošiljk potrjujejo shranjevanje po prejemu, vendar ne določajo splošnega brezplačnega obdobja ali roka. Pred čakanjem preverite trenutne pogoje svojih izdelkov v Pikobuy ali vprašajte uradno podporo.",
+      "sourceIds": [
+        "official-shipping"
+      ]
+    },
+    {
+      "id": "shipping-estimate",
+      "question": "Kaj potrebujem za oceno stroškov dostave?",
+      "answer": "Kalkulator Pikobuy zahteva cilj, vrsto izdelka, težo, dolžino, širino in višino. Uporabite najnatančnejše razpoložljive podatke in pred plačilom preverite končno ponudbo za paket; cena izdelka ni ponudba za dostavo.",
+      "sourceIds": [
+        "official-estimate"
+      ]
+    },
+    {
+      "id": "delivery-choice",
+      "question": "Katero dostavno pot naj izberem?",
+      "answer": "Pikobuy oglašuje več dostavnih kanalov in kombinacij poti. Primerjajte možnosti, ki so trenutno na voljo za vaš cilj in paket. Javna predstavitvena stran ne določa vedno najcenejše poti niti ne zagotavlja datuma prihoda.",
+      "sourceIds": [
+        "official-about"
+      ]
+    },
+    {
+      "id": "tracking",
+      "question": "Kdaj naj bi bili na voljo podatki za sledenje?",
+      "answer": "Nakupovalni vodnik navaja, da so podatki za sledenje na voljo v treh dneh po odpremi. To obravnavajte kot objavljeno usmeritev in se obrnite na Pikobuy, če posodobitev zamuja.",
+      "sourceIds": [
+        "official-guide"
+      ]
+    },
+    {
+      "id": "taxes",
+      "question": "Ali so mogoči dodatni stroški poleg naročila in dostave?",
+      "answer": "Da. Pogoji Pikobuy navajajo, da lahko mednarodna naročila vključujejo carine, davke, stroške carinjenja ali druge stroške, ki jih plača kupec. Pred nakupom preverite zahteve cilja in pogoje izbrane dostave.",
+      "sourceIds": [
+        "official-terms"
+      ]
+    },
+    {
+      "id": "forwarding",
+      "question": "Ali lahko posredujem izdelke, ki sem jih kupil sam?",
+      "answer": "Pogoji opisujejo pridobitev naslova skladišča pri podpori ali prek obrazca za posredovanje, oddajo zahtevanih podatkov ter čakanje na prejem in fotografije. Nato oddate paket in plačate dostavo prek Pikobuy.",
+      "sourceIds": [
+        "official-shipping"
+      ]
+    },
+    {
+      "id": "forwarded-after-sales",
+      "question": "Kdo obravnava poprodajne zahteve za posredovane izdelke?",
+      "answer": "Za posredovane izdelke Pikobuy poprodajna vprašanja usmerja k pošiljatelju ali prodajalcu. Pogoji navajajo, da lahko pomaga poslati blago nazaj, vendar ne zagotavlja poprodajne podpore za sam izdelek.",
+      "sourceIds": [
+        "official-shipping"
+      ]
+    },
+    {
+      "id": "return-deadline",
+      "question": "Kdaj moram zahtevati vračilo iz skladišča?",
+      "answer": "Pravila vračil določajo 120 ur od ure, ki sledi spremembi statusa v In Warehouse (v skladišču). Zahtevo oddajte hitro; sprejem je še vedno odvisen od izpolnjevanja pogojev.",
+      "sourceIds": [
+        "official-returns"
+      ]
+    },
+    {
+      "id": "return-eligibility",
+      "question": "Ali je mogoče vrniti vsak izdelek?",
+      "answer": "Ne. Pomembni so sodelovanje prodajalca, stanje za ponovno prodajo in rok. Izdelki po meri, spremenjena embalaža in nekatere kategorije imajo omejitve. Pogoje preverite pred naročilom ali odstranitvijo oznak.",
+      "sourceIds": [
+        "official-returns"
+      ]
+    },
+    {
+      "id": "return-costs",
+      "question": "Ali so vračila vedno brezplačna?",
+      "answer": "Ne. Pravila navajajo stroške dostave in storitve pri vračilih po odločitvi kupca. Podporo vprašajte za točen skupni znesek svojega naročila, saj so objavljene informacije o stroških dostave protislovne.",
+      "sourceIds": [
+        "official-returns"
+      ]
+    },
+    {
+      "id": "wrong-or-damaged-item",
+      "question": "Kaj če prodajalec pošlje napačen izdelek?",
+      "answer": "Neskladje nemudoma prijavite prek Pikobuy. Pravila razlikujejo napake prodajalca in težave s kakovostjo od vračil po odločitvi kupca, vendar soglasje prodajalca in okoliščine primera vplivajo na izid.",
+      "sourceIds": [
+        "official-returns"
+      ]
+    },
+    {
+      "id": "not-shipped-cancellation",
+      "question": "Ali je zahteva za vračilo pri statusu Not Shipped plačljiva?",
+      "answer": "Pogosta vprašanja o vračilih navajajo, da se pristojbina za vračilo ne zaračuna, če naročilo še ni odposlano. Pred oddajo zahteve preverite trenutni status.",
+      "sourceIds": [
+        "official-returns"
+      ]
+    },
+    {
+      "id": "official-support",
+      "question": "Kje vprašam o naročilu, plačilu ali paketu?",
+      "answer": "Uporabite uradno kontaktno stran Pikobuy, ki priporoča oddajo zahtevka in navaja podporne kanale. Ta neodvisni katalog ne more dostopati do vašega računa Pikobuy, spreminjati naročil ali urejati plačil v vašem imenu.",
+      "sourceIds": [
+        "official-contact"
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "slug": "pikobuy-spreadsheet-checklist",
+      "title": "Kontrolni seznam za Pikobuy spreadsheet: primerjajte izdelke pred naročilom",
+      "description": "S praktičnim kontrolnim seznamom za Pikobuy spreadsheet primerjajte izvorne povezave, različice, fotografije in proračun ter izberite izdelke, ki jih je vredno podrobneje preveriti.",
+      "intro": "Preglednica Pikobuy je uporabna takrat, ko vam pomaga pri odločitvi. Dolg seznam shranjenih izdelkov lahko prikrije manjkajoče mere, zastarele povezave in stroške, na katere še niste pomislili. Namen tega kontrolnega seznama je, da več zanimivih najdb spremenite v ožji izbor z jasnimi razlogi. Aktualno stran izdelka ločite od svojih zapiskov in vsakemu kandidatu določite naslednji korak, še preden porabite denar.",
+      "sections": [
+        {
+          "id": "define-the-job",
+          "heading": "1. Določite, čemu mora nakup služiti",
+          "paragraphs": [
+            "Začnite z okoliščinami, v katerih boste izdelek uporabljali. Torba za prenosnik mora izpolnjevati drugačne zahteve kot majhna večerna torbica. Pulover s kapuco za večplastno oblačenje potrebuje drugačen kroj kot tisti, ki ga boste nosili pod oprijeto jakno. Namen zapišite v enem stavku, nato določite dve ali tri zahteve, pri katerih ne boste sklepali kompromisov.",
+            "Pred pregledovanjem cen izdelkov določite zgornjo mejo skupne porabe. Pustite prostor za stroške, ki jih morate še oceniti. Izdelek, ki vam je všeč, vendar ne izpolnjuje praktičnih zahtev, naj ne ostane v izboru samo zaradi privlačne sličice."
+          ]
+        },
+        {
+          "id": "build-a-record",
+          "heading": "2. Shranite podatke za prepoznavo vsakega kandidata",
+          "paragraphs": [
+            "Zapišite izvorni URL, prodajalca ali trgovino, natančno različico, prikazano ceno in datum preverjanja. Temu zapisu priložite tabelo velikosti ali pomembno specifikacijo. Naslov v preglednici je pogosto krajši od celotnega opisa in lahko izpusti različico, od katere je odvisna cena.",
+            "Na kratko zapišite, zakaj ste izdelek shranili. Morda ima zahtevano širino odprtine ali ustrezno dolžino rokavov. Če ne znate pojasniti, zakaj je primeren, se vrnite k zahtevam, namesto da dodajate nove skoraj enake vrstice."
+          ]
+        },
+        {
+          "id": "separate-evidence",
+          "heading": "3. Ugotovite, kaj posamezna slika dejansko prikazuje",
+          "paragraphs": [
+            "Prodajalčeva slika kaže, kako je izdelek predstavljen. Fotografija prejšnjega kupca lahko prikazuje prejšnje naročilo. Vaše skladiščne fotografije pa se nanašajo na izdelek, prejet za vaše naročilo. Te vrste dokazov ločujte; njihova uporabnost je odvisna od vprašanja, na katero iščete odgovor.",
+            "Prejšnja fotografija vam lahko pomaga izbrati podrobnost za pregled, ne more pa potrditi stanja prihodnjega nakupa. Tudi privlačna slika izdelka ne odgovori na nejasno vprašanje o merah. Ob sliki zapišite nerešeno vprašanje, namesto da že sam obstoj fotografije štejete za opravljen pregled."
+          ]
+        },
+        {
+          "id": "apply-hard-stops",
+          "heading": "4. Najprej razjasnite bistvene vrzeli, nato razvrščajte želje",
+          "paragraphs": [
+            "Preverite zahteve, zaradi katerih bi bil nakup lahko neprimeren: identiteto izdelka, razpoložljivo različico, ključne mere in izvedljiv skupni proračun. Če izvorna povezava odpre drug izdelek ali za izbrano velikost ni razumljive tabele, to vrstico začasno zadržite.",
+            "Osebne želje primerjajte šele po teh preverjanjih. Barva, obdelava in slog lahko pomagajo izbirati med primernimi kandidati, ne morejo pa nadomestiti preozke odprtine za prenosnik. Izogibajte se točkovanju, pri katerem več privlačnih lastnosti odtehta eno bistveno pomanjkljivost. Preprosta oznaka »počakaj« je pogosto jasnejša od navidezno natančne številčne ocene."
+          ]
+        },
+        {
+          "id": "compare-example",
+          "heading": "5. Primerjajte tri izmišljene najdbe",
+          "paragraphs": [
+            "V tem primeru iščemo torbo za tog predmet, širok 30 cm. Vrednosti so izmišljene za ponazoritev postopka in niso povzete po aktualnih izdelkih. Opazite, da najnižja prikazana cena ne odloča o tem, kateri vrstici se je vredno posvetiti."
+          ],
+          "table": {
+            "headers": [
+              "Kandidat",
+              "Razpoložljivi podatki",
+              "Odločitev in naslednji korak"
+            ],
+            "rows": [
+              [
+                "A",
+                "Dokumentirana širina odprtine je 28 cm",
+                "Odstrani: ključna zahteva ni izpolnjena"
+              ],
+              [
+                "B",
+                "Zunanja širina je 34 cm; širina odprtine ni znana",
+                "Počakaj: zahtevajte uporabno širino odprtine"
+              ],
+              [
+                "C",
+                "Dokumentirana širina odprtine je 32 cm; proračun še ni dokončan",
+                "Obdrži za nadaljnje preverjanje: dokončajte oceno skupnih stroškov"
+              ]
+            ]
+          }
+        },
+        {
+          "id": "make-next-action",
+          "heading": "6. Vsaki shranjeni vrstici določite naslednji korak",
+          "paragraphs": [
+            "Pri preverjanju uporabljajte oznake »obdrži«, »počakaj« in »odstrani«. »Obdrži« pomeni, da razpoložljivi podatki upravičujejo naslednji korak, ne pa, da je izdelek preverjen ali odobren. »Počakaj« pomeni, da bi en odgovor lahko spremenil odločitev. »Odstrani« pomeni, da izdelek ne izpolnjuje zahteve ali da pridobivanje manjkajočih podatkov ni več smiselno.",
+            "Naslednji korak naj bo dovolj natančen, da ga lahko izvedete. Zahteva za uporabno širino odprtine je koristnejša od splošnega preverjanja kakovosti. Primerjava cene izbrane različice je koristnejša od ponovnega ogleda strani. Kandidatom z oznako »počakaj« dodajte datum ponovnega pregleda, da se isti nerešeni izdelki ne bodo kopičili v nedogled."
+          ]
+        },
+        {
+          "id": "recheck-before-payment",
+          "heading": "7. Pred plačilom znova preverite ožji izbor",
+          "paragraphs": [
+            "Ko ste pripravljeni nadaljevati, ponovno odprite aktualno stran izdelka. Potrdite, da izbrana različica, količina in osnova prikazane cene še vedno ustrezajo shranjenemu zapisu. Ponovno preverite posredno pridobljene podatke o merah ali razpoložljivosti ter shranite dokaze, na katere ste se dejansko oprli.",
+            "V postopek naročanja nato vstopite z jedrnatim zapisom namesto z mapo nepovezanih posnetkov zaslona. Ko so na voljo podatki iz skladišča, jih primerjajte s tem zapisom. Isti ožji izbor vam zdaj pomaga preveriti, kaj ste nameravali naročiti, katere podrobnosti ostajajo nejasne in kaj morate vprašati v naslednjem koraku."
+          ]
+        }
+      ],
+      "sourceIds": [
+        "official-guide"
+      ],
+      "related": [
+        "spreadsheet",
+        "articles/pikobuy-product-links",
+        "articles/pikobuy-haul-budget"
+      ]
+    },
+    {
+      "slug": "pikobuy-clothing-size-chart",
+      "title": "Tabele velikosti oblačil na Pikobuy: pred izbiro velikosti izmerite",
+      "description": "Tabele velikosti oblačil na Pikobuy berite s pomočjo referenčnega oblačila, enakih merilnih točk in jasnih enot. Primer primerjave vam pomaga pred izbiro velikosti.",
+      "intro": "Znana črkovna oznaka velikosti ni dovolj za izbiro oblačila med najdbami Pikobuy. Smiselno je primerjati mere, ki opisujejo isto stvar: isti del oblačila, iste enote in podoben postopek merjenja. Ta vodič vam pomaga takšno primerjavo pripraviti z oblačili, ki jih že imate. Ne predpostavlja, da vsi prodajalci uporabljajo isti sistem velikosti ali da večja črkovna oznaka odpravi nejasno tabelo.",
+      "sections": [
+        {
+          "id": "identify-chart-type",
+          "heading": "1. Ugotovite, kaj tabela meri",
+          "paragraphs": [
+            "Pred razlago številk preberite oznake. Tabela lahko opisuje končno izdelano oblačilo, priporočen razpon telesnih mer ali kombinacijo priporočil in mer izdelka. Gre za različna izhodišča. Prsna mera oblačila vključuje prostor, predviden s krojem; telesna mera pa opisuje osebo, ki bo oblačilo nosila.",
+            "Tabelo shranite skupaj z natančnim izdelkom in izbrano izvedbo. Če stran ponuja različne kroje ali sloge, ne domnevajte, da ista tabela velja za vse. Kadar vrsta mer ni jasna, najprej prosite za pojasnilo, šele nato poskusite iz vrednosti izpeljati izbiro velikosti."
+          ]
+        },
+        {
+          "id": "choose-reference",
+          "heading": "2. Izberite primerno referenčno oblačilo",
+          "paragraphs": [
+            "Izberite kos, ki se prilega tako, kot želite, da se prilega novi nakup. Ohlapen pulover s kapuco primerjajte z ohlapnim puloverjem s kapuco, ne zgolj z oprijeto majico. Upoštevajte material, izvedbo ramen in to, ali nameravate spodaj nositi dodatne plasti.",
+            "Referenčno oblačilo položite plosko, ne da bi ga raztegnili. Mere izmerite sami in shranite fotografijo z vidnimi začetnimi in končnimi točkami. Pripravljate ponovljivo primerjavo, zato je natančen zapis vrednejši od spomina, da vam določena znamka običajno ustreza. Zapis znova uporabite samo, kadar je naslednji izdelek res primerljiv."
+          ]
+        },
+        {
+          "id": "match-endpoints",
+          "heading": "3. Uskladite merilne točke",
+          "paragraphs": [
+            "Pri zgornjem delu oblačila so lahko pomembne širina prsnega dela pri ploskem merjenju, dolžina trupa, širina ramen in dolžina rokavov. Pri hlačah so lahko pomembni pas, višina sedala, boki, stegno in notranja dolžina hlačnice. Ustrezen izbor je odvisen od težave s prileganjem, ki se ji želite izogniti.",
+            "Preverite, kako je posamezna mera opredeljena. Dolžina rokava, izmerjena od ramenskega šiva, ni zamenljiva z mero od vratu. Tudi pri ukrivljenem ali elastičnem pasu mora biti način merjenja jasen. Če prodajalec meri od druge točke kot vi, svoje oblačilo ponovno izmerite od te točke, namesto da primerjate nezdružljive številke."
+          ]
+        },
+        {
+          "id": "handle-units",
+          "heading": "4. Ločite širino, obseg in merske enote",
+          "paragraphs": [
+            "Ploska širina poteka čez eno stran oblačila. Obseg opisuje razdaljo okoli njega. Zamenjava obeh lahko ustvari veliko navidezno odstopanje. Preprost računski primer: dvakratnik ploske širine 58 cm je 116 cm; ali je takšna primerjava smiselna, pa je še vedno odvisno od oblačila in načina merjenja v tabeli.",
+            "V delovnem listu uporabljajte eno mersko enoto in ob morebitnih pretvorbah ohranite izvirne vrednosti. Ne domnevajte tolerance, ki ni navedena. Prodajalčeva toleranca merjenja, če je podana, je dodaten podatek; ne pojasni samodejno vsake razlike med tabelo in skladiščno fotografijo."
+          ]
+        },
+        {
+          "id": "worked-comparison",
+          "heading": "5. Primerjajte dve izmišljeni velikosti puloverja s kapuco",
+          "paragraphs": [
+            "Predpostavimo, da vaš referenčni pulover v prsnem delu meri 58 cm v širino in 68 cm v dolžino trupa. Naslednja izmišljena tabela pokaže, zakaj ena črkovna oznaka ne more odločiti namesto vas. Obe meri sta pomembni, želena izbira pa je odvisna od tega, katero spremembo lahko sprejmete."
+          ],
+          "table": {
+            "headers": [
+              "Mera",
+              "Referenčno oblačilo",
+              "Primer velikosti M",
+              "Primer velikosti L"
+            ],
+            "rows": [
+              [
+                "Širina prsnega dela pri ploskem merjenju",
+                "58 cm",
+                "57 cm",
+                "60 cm"
+              ],
+              [
+                "Dolžina trupa",
+                "68 cm",
+                "66 cm",
+                "69 cm"
+              ],
+              [
+                "Kaj je treba preveriti",
+                "Znano želeno prileganje",
+                "Ožji in krajši",
+                "Širši in nekoliko daljši"
+              ]
+            ]
+          },
+          "list": [
+            "Pred izbiro katere koli različice preverite mere rokavov.",
+            "Potrdite, da so vse dolžine trupa izmerjene med istima točkama.",
+            "Tabelo obravnavajte kot vajo primerjanja, ne kot priporočilo velikosti."
+          ]
+        },
+        {
+          "id": "allow-for-use",
+          "heading": "6. Upoštevajte, kako boste oblačilo nosili",
+          "paragraphs": [
+            "Ujemanje mer je koristno, vendar ne poustvari občutka pri nošenju. Raztegljivost in togost materiala, podloga ter kroj lahko spremenijo, kako se oblačilo z istimi merami obnaša. Pomislite na gibanje in plasti, ki jih nameravate nositi, nato določite mere, od katerih so te potrebe odvisne.",
+            "Ne dodajajte samodejno enake rezerve vsaki meri. Več širine lahko olajša večplastno oblačenje, predolgi rokavi pa postanejo nepraktični. Če v tabeli manjka ključna mera, jo zahtevajte, namesto da se zanesete na splošno pravilo izbire večje velikosti. Namen je zmanjšati določeno negotovost, ne ustvariti lažne natančnosti."
+          ]
+        },
+        {
+          "id": "confirm-selected-size",
+          "heading": "7. Shranite odločitev in preverite izbrano različico",
+          "paragraphs": [
+            "Pred plačilom shranite natančno oznako različice in uporabljeno tabelo. Na kratko pojasnite odločitev, na primer ujemanje s širino referenčnega prsnega dela ob sprejemanju krajšega trupa. Ta zapis vam zagotovi jasno izhodišče za poznejši pregled.",
+            "Če zahtevate merjenje v skladišču, navedite mero, začetno in končno točko ter enoto. Dobro vidno ravnilo naj se začne na predvideni točki in ostane vidno vzdolž celotne meritve. Če se podatki ne ujemajo s tabelo, se ustavite in razjasnite razliko, dokler še lahko razmislite o razpoložljivem postopku vračila. Fotografija lahko podpre preverjanje mer, ne more pa zagotoviti udobja."
+          ]
+        }
+      ],
+      "sourceIds": [
+        "official-guide",
+        "official-returns"
+      ],
+      "related": [
+        "spreadsheet",
+        "articles/pikobuy-qc-measurements",
+        "articles/pikobuy-shoe-sizing"
+      ]
+    },
+    {
+      "slug": "pikobuy-product-links",
+      "title": "Povezave izdelkov Pikobuy: preverite izvore in odpravite neskladja",
+      "description": "Povezave izdelkov Pikobuy primerjajte z izvirnimi stranmi, po uvozu preverite različice in uporabite jasen postopek odpravljanja težav, če se izdelek ne naloži.",
+      "intro": "Povezava izdelka mora prepoznati več kot privlačno sliko. Voditi mora do nameravane ponudbe in različice, ki jo želite naročiti. Pri deljenju, krajšanju ali pretvorbi se lahko ta kontekst izgubi iz pogleda. Ta vodič ponuja praktičen način za ohranitev izvornih podatkov, primerjavo uvoženega rezultata in odločitev, kaj storiti, ko povezava izdelka Pikobuy ne deluje po pričakovanjih.",
+      "sections": [
+        {
+          "id": "save-source-record",
+          "heading": "1. Ohranite zapis izvirne ponudbe",
+          "paragraphs": [
+            "Pred uporabo deljene povezave posrednika shranite izvirni URL izdelka, če je na voljo. Zapišite identifikator izdelka, prodajalca ali trgovino, izbrani slog, barvo, velikost in količino. Dodajte datum preverjanja ponudbe ter posnetek zaslona različice, ki ste jo nameravali izbrati.",
+            "Sam posnetek zaslona ni popoln zapis, saj lahko izpusti naslov ali izbrano različico. Sam URL pa morda ne ohrani podatka, katero možnost ste imeli v mislih. Povezava in jedrnat zapis različice skupaj olajšata poznejše prepoznavanje neskladij. Ko odkrijete drugega kandidata, ne prepišite izvirnega zapisa."
+          ]
+        },
+        {
+          "id": "recognize-page-type",
+          "heading": "2. Prepoznajte vrsto strani",
+          "paragraphs": [
+            "Stran izdelka, domača stran trgovine in fotografski album imajo različne namene. Stran trgovine lahko pomaga najti prodajalčev katalog, vendar morda ne določa posameznega izdelka. Album lahko prikazuje več barv, ne da bi ponujal možnost izbire za nakup. Stran izdelka pa lahko pod enim naslovom vsebuje številne različice.",
+            "Pred večkratnim poskusom uvoza povezave preverite, kateri podatki manjkajo. Morda potrebujete povezavo posameznega izdelka, opis različice ali pojasnilo prodajalca oziroma platforme. Prepoznavno ime spletne tržnice je kontekst, ne dokaz, da stran vsebuje vse podatke za pravilno naročilo."
+          ]
+        },
+        {
+          "id": "compare-result",
+          "heading": "3. Uvoženi rezultat primerjajte z izvorom",
+          "paragraphs": [
+            "Objavljeni vodič Pikobuy omogoča iskanje s povezavo izdelka ali ključnimi besedami. Ko se pojavi rezultat, njegovo identiteto primerjajte z izvornim zapisom, namesto da uspešno nalaganje že štejete za zaključen pregled.",
+            "Preglejte identifikator izdelka, kjer je viden, podatke o prodajalcu, razpoložljive različice in opis izbrane možnosti. Preverite, ali prikazana cena velja za želeni izdelek, drugo različico, dodatek ali določeno količino. Podobna sličica lahko skriva drugo izvedbo. Če se izvorni in uvoženi podatki razlikujejo, neskladje razrešite, preden rezultat obravnavate kot pripravljen za naročilo."
+          ]
+        },
+        {
+          "id": "separate-conversion",
+          "heading": "4. Razumite, česa pretvorba ne potrdi",
+          "paragraphs": [
+            "Pretvornik povezav lahko zapis izdelka preoblikuje tako, da ga druga storitev zna prebrati. Ta tehnični postopek je ločen od preverjanja prodajalca, stanja izdelka, zaloge ali primernosti. Prav tako ne potrjuje, da aktualna ponudba še vedno opisuje isti izdelek kot starejša shranjena vrstica.",
+            "Izvirni URL ohranite ob vsakem pretvorjenem URL-ju. Po pretvorbi ponovite preverjanje identitete izdelka in različice. Če orodje nepričakovano spremeni cilj, se ustavite in preglejte rezultat. Na neznani strani ne vnašajte prijavnih podatkov samo zato, ker ste do nje prišli prek preglednice ali pripomočka za pretvarjanje."
+          ]
+        },
+        {
+          "id": "troubleshooting-table",
+          "heading": "5. Ugotovite težavo, ki jo dejansko opazite",
+          "paragraphs": [
+            "Spodnja tabela je pripomoček za odpravljanje težav, ne seznam uradnih sporočil o napakah Pikobuy. Izhajajte iz vedenja, ki ga lahko opazite. Ponovni poskus je koristen le, če preverja verjeten vzrok; ne more obnoviti podatkov, ki jih povezava nikoli ni vsebovala."
+          ],
+          "table": {
+            "headers": [
+              "Opažena težava",
+              "Koristno preverjanje",
+              "Naslednji korak"
+            ],
+            "rows": [
+              [
+                "Odpre se drug izdelek",
+                "Primerjajte izvorni ID in izbrano različico",
+                "Ohranite oba zapisa in zahtevajte pojasnilo"
+              ],
+              [
+                "Izvorna stran zahteva prijavo",
+                "Preverite URL in vidne podatke o izdelku",
+                "Uporabite zakonito izvorno stran ali uradno podporo"
+              ],
+              [
+                "Odpre se samo trgovina ali album",
+                "Poiščite podatke posameznega izdelka",
+                "Posredujte natančne podatke o izdelku in različici"
+              ],
+              [
+                "Izdelek ni na voljo",
+                "Ponovno preverite aktualno izvorno stran",
+                "Nadomestne možnosti obravnavajte kot nove kandidate"
+              ],
+              [
+                "Skrajšana povezava ne deluje",
+                "Če je mogoče, pridobite izvirni URL izdelka",
+                "S tem izvornim zapisom poskusite še enkrat"
+              ]
+            ]
+          }
+        },
+        {
+          "id": "support-request",
+          "heading": "6. Pošljite vprašanje, na katero je mogoče odgovoriti",
+          "paragraphs": [
+            "Če nameravani izdelek ostaja nejasen, pošljite izvorno povezavo, identifikator izdelka, če je na voljo, zahtevano različico in kratko pojasnilo neskladja. Priložite posnetke zaslona z ustrezno izbiro. V isto zahtevo ne vključujte celotne zgodovine brskanja ali nepovezanih izdelkov.",
+            "Koristno vprašanje je natančno: izvorna stran prikazuje modro izvedbo v velikosti M, uvoženi izbirnik pa samo črno; ali je mogoče naročiti modro velikost M? To je lažje razrešiti kot izjavo, da je povezava pokvarjena. Uradna kontaktna stran Pikobuy ponuja ustrezno pot za vprašanja o računu ali iskanju izdelkov."
+          ]
+        },
+        {
+          "id": "update-shortlist",
+          "heading": "7. Zapišite izid, ne da bi izgubili kontekst",
+          "paragraphs": [
+            "Kandidata označite kot usklajenega, čakajočega na pojasnilo ali nedosegljivega. Odgovor shranite ob izvornem zapisu. Če ima predlagana alternativa drug identifikator izdelka ali specifikacijo, ustvarite ločeno vrstico, namesto da tiho zamenjate izvirni izdelek.",
+            "Pred nadaljevanjem znova preverite dejansko različico, ki jo boste oddali. Cilj je sledljiva odločitev: znati morate pojasniti, katero ponudbo ste uporabili, katero različico izbrali in kateri podatki so razrešili morebitno neskladje. Ta zapis ostane koristen, ko pozneje prejeti izdelek primerjate s tem, kar ste nameravali kupiti."
+          ]
+        }
+      ],
+      "sourceIds": [
+        "official-guide",
+        "official-contact"
+      ],
+      "related": [
+        "guide",
+        "articles/pikobuy-spreadsheet-checklist",
+        "faq"
+      ]
+    },
+    {
+      "slug": "pikobuy-qc-measurements",
+      "title": "Meritve QC na Pikobuy: zahtevajte fotografije, ki odgovorijo na vaše vprašanje",
+      "description": "Zahteve za meritve QC na Pikobuy oblikujte z jasnimi merilnimi točkami, berljivo skalo in usmerjenimi vprašanji, preden odločite, ali izdelek ustreza vašim potrebam.",
+      "intro": "Več fotografij ne pomeni nujno več uporabnih dokazov. Če želite vedeti, ali je rokav dovolj dolg ali odprtina torbe dovolj široka, mora zahteva pojasniti, kako to podrobnost izmeriti. Dobra zahteva QC na Pikobuy poveže eno nerešeno vprašanje z enim opaznim rezultatom. Ta vodič pokaže, kako to storiti, ne da bi fotografijo obravnavali kot dokaz vseh lastnosti izdelka.",
+      "sections": [
+        {
+          "id": "define-the-question",
+          "heading": "1. Pred zahtevo opredelite odločitev",
+          "paragraphs": [
+            "Zapišite, kateri odgovor bi spremenil vaš naslednji korak. Morda potrebujete najmanjšo uporabno širino odprtine, oznaka velikosti ni berljiva ali pa je madež lahko umazanija namesto sence. Vsako vprašanje zahteva drugačne podatke. S splošno zahtevo za kakovostnejše fotografije osebi, ki jih fotografira, prepustite ugibanje o tem, kaj je pomembno.",
+            "Uporabite stavek z opazno podrobnostjo: videti moram, ali imata oba čevlja oznako izbrane velikosti. Tega ne združujte z nepovezanimi zahtevami glede šivov, materialov in pakiranja."
+          ]
+        },
+        {
+          "id": "identify-item",
+          "heading": "2. Določite pravi izdelek in različico",
+          "paragraphs": [
+            "Vključite ustrezno oznako naročila, opis izdelka in izbrano različico. Če naročilo vsebuje dve podobni barvi ali velikosti, razliko izrecno navedite. Kadar pomaga določiti območje, se sklicujte na obstoječo fotografijo, vendar ne domnevajte, da slika prejšnjega kupca prikazuje izdelek, ki ga trenutno pregledujejo.",
+            "Ob zahtevi ohranite izvorno tabelo in nameravano različico. Pojasnjujeta, zakaj je mera pomembna, in pomagata pri razlagi rezultata. Natančna meritev napačnega izdelka je še vedno neuporabna. Pred sklepom preverite, ali je mogoče prejeto sliko razumno povezati z izdelkom in različico, o katerih ste spraševali."
+          ]
+        },
+        {
+          "id": "specify-method",
+          "heading": "3. Opišite način merjenja",
+          "paragraphs": [
+            "Navedite začetno in končno točko, enoto ter položaj. Pri ploski širini oblačila določite, kje naj se merilni trak začne in konča ter ali naj oblačilo leži ravno brez raztezanja. Pri odprtini torbe zahtevajte uporabno širino odprtine, ne najširšega zunanjega dela torbe.",
+            "Prosite, naj bosta vidna začetek in konec merilne skale. Če je ničelna točka zunaj kadra, ostaja meritev negotova, četudi je drugi konec berljiv. Merjenje po krivulji in merjenje po ravni črti odgovarjata na različni vprašanji, zato pojasnite, katero potrebujete, namesto da uporabite samo besedo »dolžina«."
+          ]
+        },
+        {
+          "id": "request-examples",
+          "heading": "4. Zahtevo prilagodite vprašanju",
+          "paragraphs": [
+            "Ti primeri so izvirne besedilne predloge, ne možnosti iz menija ali obljube določene storitve. Preden se na zahtevano ravnanje zanesete, potrdite, ali je na voljo in koliko stane. Podatke o izdelku in merah nadomestite s podatki, ki veljajo za vaše naročilo."
+          ],
+          "table": {
+            "headers": [
+              "Nerešeno vprašanje",
+              "Usmerjena zahteva"
+            ],
+            "rows": [
+              [
+                "Ali je zgornji del dovolj širok?",
+                "Izbrano oblačilo položite plosko brez raztezanja in pokažite širino prsnega dela med navedenima točkama, tako da sta vidna oba konca centimetrske skale."
+              ],
+              [
+                "Ali je oznaka čevlja pravilna?",
+                "Pokažite berljivo oznako velikosti na vsakem čevlju tega para in dovolj okolice, da je mogoče prepoznati izdelka."
+              ],
+              [
+                "Ali bo predmet šel skozi odprtino torbe?",
+                "Pokažite uporabno širino odprtine pri povsem odprtem zapiralu, z vidnima začetno in končno merilno točko."
+              ],
+              [
+                "Ali je sled na površini?",
+                "Območje s sledjo pokažite od blizu in še iz drugega kota, tako da je viden tudi okoliški material."
+              ]
+            ]
+          }
+        },
+        {
+          "id": "evaluate-evidence",
+          "heading": "5. Preverite, ali je odgovor mogoče razložiti",
+          "paragraphs": [
+            "Pred številčnim sklepom preglejte sliko. Ali je ustrezen izdelek viden? Ali ravnilo sledi zahtevanemu postopku? Ali vidite skalo in obe merilni točki? Če je oblačilo prepognjeno, raztegnjeno ali fotografirano pod izrazitim kotom, zapišite, kako bi to lahko vplivalo na primerjavo.",
+            "Iz zamegljene slike ne ustvarjajte navidezne natančnosti. Če lahko razločite le približno 57 do 59 cm, zapišite to negotovost, namesto da razglasite 58,0 cm. Če je negotovost dovolj velika, da lahko spremeni odločitev, prosite za pojasnilo. Če na odločitev ne more vplivati, imajo dodatne fotografije morda majhno praktično vrednost."
+          ]
+        },
+        {
+          "id": "recognize-limits",
+          "heading": "6. Upoštevajte omejitve vizualnih dokazov",
+          "paragraphs": [
+            "Fotografija lahko podpre sklep o vidni oznaki, izmerjeni dimenziji ali navidezni površinski napaki. Ne more pa potrditi dolgoročne vzdržljivosti, skrite konstrukcije, električnega delovanja ali udobja med uporabo. Tudi sestava materiala in pristnost zahtevata več kot samo videz.",
+            "Ločite opažanja od sklepov. Trditev »slika kaže sklenjen šiv« je ožja od trditve »torba bo prenesla velike obremenitve«. Objavljena gradiva Pikobuy opisujejo omejitve pregledov, zato pregleda ne obravnavajte kot strokovno testiranje. Če je nakup odvisen od lastnosti, ki je fotografije ne morejo potrditi, poiščite ustrezno dokumentacijo ali znova premislite o nakupu."
+          ]
+        },
+        {
+          "id": "choose-next-action",
+          "heading": "7. Odgovor spremenite v naslednji korak",
+          "paragraphs": [
+            "Vrnite se k prvotnemu vprašanju in izberite naslednji korak. Podatki lahko podpirajo nadaljevanje, določeno vprašanje pustijo odprto ali upravičijo pogovor o vračilu. Odgovor shranite k zapisu naročila in navedite, katera mera ali vidna podrobnost je vplivala na odločitev.",
+            "Če težava ostaja, nemudoma preverite trenutni status naročila in veljavne pogoje vračila. Ne zbirajte dodatnih okrasnih kotov fotografiranja, medtem ko pomembno neskladje ostaja neprijavljeno. Vaš zapis naj težavo jasno pojasni: kaj ste želeli, kaj fotografija kaže in kakšno rešitev zahtevate. Negotova opažanja naj ostanejo označena kot negotova."
+          ]
+        }
+      ],
+      "sourceIds": [
+        "official-user-agreement",
+        "official-shipping",
+        "official-returns"
+      ],
+      "related": [
+        "qc",
+        "articles/pikobuy-clothing-size-chart",
+        "articles/pikobuy-warehouse-returns"
+      ]
+    },
+    {
+      "slug": "pikobuy-haul-budget",
+      "title": "Proračun za skupni nakup na Pikobuy: seštejte stroške pred nakupom",
+      "description": "Pripravite realen proračun za skupni nakup na Pikobuy: ločite cene izdelkov, dostavo, morebitne dajatve in neznane stroške ter uporabite jasno označen načrtovalni primer.",
+      "intro": "Vsota cen v preglednici je šele začetek proračuna za skupni nakup na Pikobuy. Koristna ocena pokaže, kateri stroški so znani, kateri so odvisni od končnega paketa in katere morate še preveriti. Pove tudi, ali v proračunu ostaja dovolj prostora za negotovost. Spodnji postopek je načrtovalni delovni list, ne ponudba ali trditev o trenutnih pristojbinah Pikobuy.",
+      "sections": [
+        {
+          "id": "separate-stages",
+          "heading": "1. Ločite nakup izdelkov od pošiljanja paketa",
+          "paragraphs": [
+            "Objavljeni postopek Pikobuy ločuje plačilo nakupa od plačila mednarodne dostave. To razliko upoštevajte tudi v proračunu. En del beleži stroške pridobitve izbranih izdelkov, drugi pa možne stroške dostave nastalega paketa do vas.",
+            "Začnite z natančnimi količinami in izbranimi različicami. Nizka prikazana cena lahko velja za drugo možnost od tiste, ki jo nameravate naročiti. Ob vsakem znesku zapišite datum ponudbe in valuto. Tako lažje ugotovite, zakaj se proračun spremeni ob posodobitvi izdelka, različice ali valutne pretvorbe."
+          ]
+        },
+        {
+          "id": "capture-item-costs",
+          "heading": "2. Navedite stroške, povezane z nakupom",
+          "paragraphs": [
+            "Ustvarite ločene vrstice za izdelke, morebitno prikazano domačo dostavo ter storitvene ali plačilne stroške, ki so dejansko prikazani pri vaši transakciji. Stroška ne vključite samo zato, ker ga je plačal drug kupec, in ne domnevajte, da je nenaveden strošek enak nič.",
+            "Če si več izdelkov deli en strošek dostave, ga ne prištevajte znova pri vsaki vrstici. Nasprotno pa nakupi pri različnih prodajalcih morda nimajo skupne dostavnine. Ohranite dovolj podrobnosti, da lahko delovni list uskladite z zahtevanim plačilom. Lepo urejen končni seštevek je manj uporaben kot nekoliko daljša tabela, ki jo znate pojasniti."
+          ]
+        },
+        {
+          "id": "estimate-freight",
+          "heading": "3. Zapišite predpostavke ocene dostave",
+          "paragraphs": [
+            "Zgodnjo oceno dostave obravnavajte kot scenarij. Zapišite predvideni cilj, vrsto izdelkov, maso zapakiranega paketa in mere, ob znesku pa ohranite datum ocene ter morebitne pogoje dostavne poti. Če se vhodni podatki spremenijo, prejšnja številka morda ni več uporabna za primerjavo.",
+            "Ocene za paket ne razdelite med izdelke in nato te razdelitve ne zamenjujte s tarifo prevoznika. Načrtovalni znesek lahko razdelite za osebno primerjavo vrednosti, vendar dejansko plačilo določa ponudba za paket. Prostoren poceni izdelek je lahko vreden ponovnega premisleka, tudi če predstavlja majhen delež skupne cene izdelkov."
+          ]
+        },
+        {
+          "id": "keep-unknowns-visible",
+          "heading": "4. Morebitni stroški v ciljni državi naj ostanejo vidni",
+          "paragraphs": [
+            "Morebitne carine, davki, stroški obdelave ali posredovanja sodijo v svojo vrstico. Preverite zahteve ciljnega kraja in pogoje izbrane dostave. Ta vodič ne podaja stopenj za posamezno pravno območje in ne predpostavlja, da ime dostavne poti pojasni vse dajatve.",
+            "Kadar zneska še niste ugotovili, vpišite »neznano«. Prazno polje se prehitro razume kot nič. Podobno naj kupon, katerega veljavnosti za svoj paket še niste preverili, ostane možna prilagoditev, ne zagotovljen prihranek. Preden s popustom upravičite nakup, potrdite upravičenost, omejitve in končni znesek plačila."
+          ]
+        },
+        {
+          "id": "worked-budget",
+          "heading": "5. Pripravite izmišljen načrtovalni seštevek",
+          "paragraphs": [
+            "Vse spodnje vrednosti so izmišljene in izražene v eni ponazoritveni valuti. Tabela prikazuje izračun; ne predstavlja trenutnih cen izdelkov, dostavnih tarif ali cenika pristojbin. Opazite, da je računski vmesni seštevek še vedno nepopoln, saj stroški v ciljni državi niso določeni.",
+            "V tem primeru 120 pokrije navedene predpostavke in izbrano rezervo. To ni končni strošek z vsemi postavkami. Če je zgornja meja porabe 120, neznani stroški v ciljni državi pomenijo, da skladnost nakupa s to omejitvijo še ni potrjena."
+          ],
+          "table": {
+            "headers": [
+              "Proračunska postavka",
+              "Ponazoritveni znesek",
+              "Status"
+            ],
+            "rows": [
+              [
+                "Izbrani izdelki",
+                "60",
+                "Predpostavka primera"
+              ],
+              [
+                "Domača dostava",
+                "5",
+                "Predpostavka primera"
+              ],
+              [
+                "Prikazani storitveni strošek",
+                "3",
+                "Predpostavka primera"
+              ],
+              [
+                "Ocena mednarodne dostave paketa",
+                "35",
+                "Predpostavka primera"
+              ],
+              [
+                "Valutna oziroma plačilna prilagoditev",
+                "2",
+                "Predpostavka primera"
+              ],
+              [
+                "Vmesni seštevek teh predpostavk",
+                "105",
+                "Samo računski seštevek"
+              ],
+              [
+                "Osebna rezerva za nepredvidene stroške",
+                "15",
+                "Izbrana načrtovalna rezerva"
+              ],
+              [
+                "Stroški v ciljni državi",
+                "Neznano",
+                "Preveriti jih je treba ločeno"
+              ]
+            ]
+          }
+        },
+        {
+          "id": "compare-scenarios",
+          "heading": "6. Primerjajte uporabne scenarije",
+          "paragraphs": [
+            "S scenariji preverite predpostavke, ki najverjetneje lahko spremenijo vašo odločitev. Primerjajte paket z velikim neobveznim izdelkom in brez njega ali dve ureditvi pakiranja pri istem cilju in vrsti izdelkov. Spreminjajte po en dejavnik, da boste razumeli vzrok razlike.",
+            "Osebna rezerva je načrtovalna izbira, ne napoved, da se bodo stroški zvišali za ta znesek. Določite jo glede na preostalo negotovost in svoje finančne zmožnosti. Če bi že zmerno povišanje nakup naredilo nedostopen, ožji izbor zmanjšajte pred plačilom izdelkov."
+          ]
+        },
+        {
+          "id": "reconcile-budget",
+          "heading": "7. Delovni list posodobite ob vsaki zavezujoči odločitvi",
+          "paragraphs": [
+            "Ocene zamenjajte s potrjenimi zneski, ko postanejo na voljo. Če želite razumeti, katere predpostavke so bile napačne, izvirno oceno ohranite ob novi vrednosti. Pred pošiljanjem preverite, ali proračun vključuje dejanski nabor izdelkov in zahtevano pakiranje.",
+            "Če skupni znesek preseže omejitev, poiščite najmanj uporaben neobvezni nakup, namesto da se osredotočite samo na najcenejšo postavko. Preden domnevate, da lahko izdelek brezplačno odstranite, upoštevajte morebitne stroške spremembe naročila. Končni delovni list naj odgovori na preprosto vprašanje: kaj je še treba plačati, kaj ostaja negotovo in ali lahko brez težav pokrijete oboje?"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "official-guide",
+        "official-estimate",
+        "official-terms"
+      ],
+      "related": [
+        "shipping",
+        "articles/pikobuy-parcel-weight-dimensions",
+        "articles/pikobuy-spreadsheet-checklist"
+      ]
+    },
+    {
+      "slug": "pikobuy-parcel-weight-dimensions",
+      "title": "Masa in mere paketa Pikobuy: primerjajte načine pakiranja",
+      "description": "Na preglednem primeru primerjajte maso, mere in načine pakiranja paketa Pikobuy, nato pred pošiljanjem preverite pravila dostavne poti in končno ponudbo.",
+      "intro": "Dva paketa z enako maso na tehtnici lahko zavzameta zelo različno količino prostora. Zato uporabna primerjava dostave potrebuje maso in mere skupaj z obračunskimi pravili razpoložljive dostavne poti. Cilj ni samo zmanjšati škatlo. Primerjati je treba načine pakiranja, ki zaščitijo vsebino, ustrezajo vašim potrebam in omogočijo razumljivo ponudbo.",
+      "sections": [
+        {
+          "id": "define-measurements",
+          "heading": "1. Ločite različne mere",
+          "paragraphs": [
+            "Masa izdelka opisuje sam izdelek. Masa zapakiranega paketa vključuje vsebino in material, uporabljen za odpremo. Mere paketa opisujejo zunanjost končne pošiljke. Dostavna pot lahko pri določanju cene uporablja volumetrični izračun, dejansko maso ali druga pravila.",
+            "Te vrednosti v zapiskih vodite ločeno. Seštevek ocenjenih mas izdelkov ne potrdi mase končnega paketa, merjenje škatle izdelka pa ne potrdi mer zunanje transportne embalaže. Pred vnosom v primerjavo vprašajte, kateri podatek gledate. Sicer lahko tudi pravilen izračun da zavajajoč rezultat."
+          ]
+        },
+        {
+          "id": "collect-inputs",
+          "heading": "2. V kalkulatorju uporabljajte dosledne vhodne podatke",
+          "paragraphs": [
+            "Javni kalkulator Pikobuy vključuje cilj, vrsto izdelkov, maso in tri dimenzije. Pri primerjanju možnosti uporabljajte dosledne vhodne podatke. Mere skrbno pretvarjajte in ohranite oznake enot; vrednost v centimetrih, ki v resnici predstavlja milimetre, bi močno spremenila izračun.",
+            "Vsak nabor predpostavk shranite skupaj z rezultatom in datumom. Če poleg pakiranja spremenite tudi cilj, razvrstitev izdelka ali dostavno pot, ne preverjate več samo vpliva škatle. Takšna širša primerjava je lahko koristna, vendar jo pravilno označite, namesto da vsako razliko pripišete prepakiranju."
+          ]
+        },
+        {
+          "id": "illustrative-calculation",
+          "heading": "3. Razumite volumetrični izračun",
+          "paragraphs": [
+            "Naslednji izračun uporablja izmišljen delitelj 5.000 kubičnih centimetrov na kilogram za prikaz računa. Ne predstavlja splošnega obračunskega pravila Pikobuy. V tem primeru pomnožite tri zunanje dimenzije in rezultat delite s 5.000.",
+            "Pri škatli z merami 40 × 30 × 20 cm je prostornina 24.000 kubičnih centimetrov, ponazoritvena volumetrična masa pa 4,8 kg. Dejanska dostavna pot lahko določa drug delitelj, način merjenja, minimum ali pravilo zaokroževanja. Te pogoje preberite, preden izračun spremenite v predpostavko o obračunski masi."
+          ]
+        },
+        {
+          "id": "packing-example",
+          "heading": "4. Primerjajte dve izmišljeni ureditvi pakiranja",
+          "paragraphs": [
+            "Obe spodnji ureditvi imata predpostavljeno maso na tehtnici 3,2 kg, namenoma enako, da se pokaže samo vpliv prostornine. Manjše mere so zgolj ponazoritev, ne trditev, da jih lahko skladišče doseže pri vaših izdelkih.",
+            "Če bi izmišljena dostavna pot pred lastnim zaokroževanjem obračunala večjo od dejanske in volumetrične mase, bi bila začetni vrednosti teh primerov 4,8 kg in 3,2 kg. Ta primerjava še vedno ne pove cene ali tega, ali je druga ureditev primerna."
+          ],
+          "table": {
+            "headers": [
+              "Primer ureditve",
+              "Zunanje mere",
+              "Ponazoritvena volumetrična masa",
+              "Kaj je še treba preveriti"
+            ],
+            "rows": [
+              [
+                "Izvirne škatle v zunanjem kartonu",
+                "40 × 30 × 20 cm",
+                "4,8 kg z deliteljem iz primera",
+                "Obračun dostavne poti in zaščito"
+              ],
+              [
+                "Drugačna zaščitna ureditev",
+                "35 × 28 × 16 cm",
+                "Približno 3,14 kg z deliteljem iz primera",
+                "Izvedljivost, ravnanje in zaščito"
+              ]
+            ]
+          }
+        },
+        {
+          "id": "protect-contents",
+          "heading": "5. Določite, kaj mora embalaža ohraniti",
+          "paragraphs": [
+            "Naštejte naloge embalaže. Tog izdelek lahko potrebuje zaščito pred stiskanjem; oblikovana torba podporo za ohranitev oblike. Majhni deli morajo biti zavarovani, da se ne ločijo od glavnega izdelka. Izvirna embalaža vam je lahko pomembna tudi za shranjevanje ali darilo.",
+            "Pred zahtevo po odstranitvi etiket, pečatov ali embalaže razjasnite morebitno vprašanje vračila. Znane zahteve ne zamenjajte za domnevni prihranek pri dostavi. Koristno navodilo določa embalažo, ki se sme spremeniti, in zaščito, ki mora ostati, nato pa zahteva potrditev predlagane ureditve."
+          ]
+        },
+        {
+          "id": "compare-consolidation",
+          "heading": "6. Združevanje in delitev primerjajte previdno",
+          "paragraphs": [
+            "Združevanje izdelkov lahko poenostavi pošiljanje, vendar lahko skupne mere in kombinacija izdelkov spremenijo razpoložljive možnosti. Delitev lahko povzroči dodatne stroške ali zahteva drugačno pakiranje. Noben pristop ni samodejno cenejši.",
+            "Primerjajte popolne ponudbe za dejanske alternative in vključite ustrezne stroške ravnanja. Cilj in pričakovano raven storitve ohranite primerljiva. Preverite omejitve izdelkov in njihovo združljivost, namesto da domnevate, da lahko vsi potujejo skupaj. Delitve ne obravnavajte kot načina za dosego določenega carinskega izida; to je ločeno vprašanje, odvisno od veljavnih pravil in dejanske pošiljke."
+          ]
+        },
+        {
+          "id": "confirm-final-quote",
+          "heading": "7. Potrdite končni paket",
+          "paragraphs": [
+            "Pred plačilom primerjajte končni seznam izdelkov, mere zapakiranega paketa in navodila za ravnanje z različico, ki ste jo ocenili. Preverite obračun dostavne poti ter zaokroževanja ali dodatne stroške, ki vplivajo na končno plačilo. Shranite ponudbo in sprejete odločitve.",
+            "Če rezultat bistveno odstopa od ocene, pred potrditvijo ugotovite, kaj se je spremenilo. Vzrok je lahko večja zunanja embalaža, drugačna vsebina ali pogoj dostavne poti. Posodobitev celotnega proračuna v tem trenutku poveže tehnično privlačno izbiro pakiranja s praktičnim vprašanjem, ali pošiljka še vedno ustreza vašim potrebam."
+          ]
+        }
+      ],
+      "sourceIds": [
+        "official-estimate",
+        "official-guide",
+        "official-contact"
+      ],
+      "related": [
+        "shipping",
+        "articles/pikobuy-haul-budget",
+        "articles/pikobuy-warehouse-returns"
+      ]
+    },
+    {
+      "slug": "pikobuy-shoe-sizing",
+      "title": "Velikosti čevljev na Pikobuy: primerjajte dolžino stopala, oznake in vložke",
+      "description": "Velikost čevljev na Pikobuy preverite z ločevanjem dolžine stopala, mer vložka in velikostnih oznak, nato z usmerjenimi podatki razjasnite negotovo odločitev o prileganju.",
+      "intro": "Izbira velikosti čevljev med najdbami Pikobuy zahteva več kot ujemanje s številko, ki jo običajno kupujete. Oznaka je le del zapisa; pomembni so tudi prodajalčev način merjenja, oblika modela in podatki za izbrani par. Ta vodič pomaga primerjati ta izhodišča, ne da bi dolžino stopala, vložka in zunanjega podplata obravnavali kot zamenljive mere.",
+      "sections": [
+        {
+          "id": "identify-option",
+          "heading": "1. Določite natančno različico čevljev",
+          "paragraphs": [
+            "Shranite model ali oznako izdelka, izbrano različico in sistem velikosti, naveden v ponudbi. Številka z oznako EU, UK ali US potrebuje pripadajoči kontekst. Če stran ponuja različne tabele za različne sloge, svoji izbrani različici priložite pravo tabelo.",
+            "Pred plačilom uvoženi izbirnik primerjajte z izvorom. Številka, ki se zdi znana, lahko še vedno pripada napačnemu sistemu ali izvedbi izdelka. Nerešenega neskladja ne razrešujte z običajno velikostjo drugega kupca. Najprej ugotovite, kaj izbrana možnost pomeni po prodajalčevih navedbah, nato presodite, ali podatki podpirajo želeno prileganje."
+          ]
+        },
+        {
+          "id": "measure-feet",
+          "heading": "2. Pripravite dosledno meritev stopala",
+          "paragraphs": [
+            "Obe stopali izmerite po enem ponovljivem postopku, v enakem položaju in pod enakimi pogoji. Zapišite večji rezultat, namesto da domnevate, da sta meri enaki. Ohranite enoto in postopek, da lahko rezultat primerjate s prodajalčevimi navodili, ne pa si zapomnite samo zaokrožene številke.",
+            "Dolžina stopala je izhodišče vprašanja o velikosti, ne popoln odgovor. Širina, oblika prstnega dela in predvidene nogavice lahko vplivajo na potreben prostor. Če prodajalec navaja postopek, ga pred primerjavo svoje meritve natančno preberite. Ne zamenjajte ga tiho z drugačnim postopkom samo zato, ker ta da priročnejši rezultat velikosti."
+          ]
+        },
+        {
+          "id": "separate-lengths",
+          "heading": "3. Ločite različne dolžine",
+          "paragraphs": [
+            "Mera stopala opisuje uporabnika. Mera vložka opisuje sestavni del, ki ima lahko ukrivljenost, dvignjene robove ali obliko, ki se ne ujema neposredno z uporabnim prostorom. Notranja mera poskuša opisati prostor v čevlju. Mera zunanjega podplata vključuje zunanjo konstrukcijo.",
+            "Ob vsaki številki zapišite vrsto meritve. Dve vrednosti v centimetrih nista nujno primerljivi. Daljši zunanji podplat ne potrjuje, da bo stopalo ustrezalo, fotografija vložka pa potrebuje jasen postopek merjenja, preden lahko odgovori na vprašanje o velikosti. Pred razlago rezultata vprašajte, kaj je bilo izmerjeno in med katerima točkama."
+          ]
+        },
+        {
+          "id": "consider-shape",
+          "heading": "4. Upoštevajte obliko in predvideno uporabo",
+          "paragraphs": [
+            "Upoštevajte obliko čevljev, ki se vam že zdijo udobni, vendar se zavedajte, da se lahko drug model obnaša drugače. Ozek prstni del je lahko pomemben tudi, kadar je dolžina videti ustrezna. Debela nogavica lahko prav tako spremeni razpoložljivi prostor.",
+            "Vsakega pomisleka ne odpravljajte z izbiro daljše velikosti. Dodatna dolžina morda ne reši težave s širino, lahko pa ustvari drugo težavo s prileganjem. Določite dejansko negotovost, denimo širino sprednjega dela ali prodajalčevo opredelitev dolžine, in vprašajte o njej. Če je nakup odvisen od zmogljivosti ali podpore, ki je ni mogoče potrditi na daljavo, fotografija sama tega ne razreši."
+          ]
+        },
+        {
+          "id": "mismatch-example",
+          "heading": "5. Razrešite izmišljeno neskladje oznak",
+          "paragraphs": [
+            "Predstavljajte si, da shranjena izvorna tabela neko različico povezuje z navedenim razponom dolžine stopala, uvoženi izbirnik pa prikazuje drugačno oznako. Spodnji primer se namenoma izogiba številčni pretvorbi: prva naloga je potrditi identiteto, ne izbrati najbolj znane številke."
+          ],
+          "table": {
+            "headers": [
+              "Zapis",
+              "Kaj prikazuje",
+              "Koristno naslednje preverjanje"
+            ],
+            "rows": [
+              [
+                "Izvorna ponudba",
+                "Različico A z razponom dolžine stopala",
+                "Shranite natančno tabelo in besedilo različice"
+              ],
+              [
+                "Uvoženi izbirnik",
+                "Drugačno oznako velikosti",
+                "Vprašajte, ali ustreza izvorni različici A"
+              ],
+              [
+                "Skladiščna slika",
+                "Berljivo oznako na enem čevlju",
+                "Preverite drugi čevelj in potrjeno različico"
+              ],
+              [
+                "Fotografija meritve",
+                "Dolžino brez jasnih začetne in končne točke",
+                "Razjasnite, ali gre za dolžino vložka, notranjosti ali zunanjega podplata"
+              ]
+            ]
+          },
+          "list": [
+            "Enakovrednosti ne sklepajte samo iz podobnih oznak.",
+            "Ohranite odgovor, ki pojasnjuje povezavo med oznakami.",
+            "Če izbrana različica ostaja dvoumna, se ustavite."
+          ]
+        },
+        {
+          "id": "request-pair-evidence",
+          "heading": "6. Preverite podatke za dejanski par",
+          "paragraphs": [
+            "Pri pregledu skladiščnih slik vidne oznake povežite z izbranim naročilom. Kadar je razlika pomembna, preverite oba čevlja. Če potrebujete meritev, določite zahtevano mero in poskrbite, da slika prikazuje ustrezni merilni točki ter berljivo skalo.",
+            "O meritvi vprašajte, ne da bi domnevali, da je z izdelkom mogoče ravnati na kakršen koli način. Odstranitev sestavnega dela morda ni primerna ali mogoča, ukrivljen del pa je lahko težko dosledno izmeriti. Najprej povejte vprašanje in potrdite razpoložljivi postopek. Cilj so razumljivi podatki, ne navidezno natančna številka iz nejasnega postopka."
+          ]
+        },
+        {
+          "id": "decide-next-step",
+          "heading": "7. O prileganju odločite z jasnimi omejitvami",
+          "paragraphs": [
+            "Zapišite, ali so podatki skladni, nepopolni ali protislovni. Skladni podatki lahko upravičijo nadaljevanje, vendar ne zagotavljajo udobja. Neodgovorjeno vprašanje naj vodi v natančno zahtevo za pojasnilo, ne v optimistično domnevo.",
+            "Če je prejeta različica videti napačna ali se podatki o velikosti ne ujemajo z naročilom, težavo pravočasno obravnavajte in preverite veljavne pogoje vračila. Med razjasnjevanjem naslednjega koraka ohranite etikete, pečate in embalažo nedotaknjene. Ko je odločitev o velikosti razrešena, ločeno ocenite škatle čevljev in pakiranje pošiljke, da želja glede dostave ne bo določala sklepa o prileganju."
+          ]
+        }
+      ],
+      "sourceIds": [
+        "official-guide",
+        "official-returns"
+      ],
+      "related": [
+        "spreadsheet",
+        "articles/pikobuy-qc-measurements",
+        "articles/pikobuy-parcel-weight-dimensions"
+      ]
+    },
+    {
+      "slug": "pikobuy-bag-dimensions",
+      "title": "Torbe na Pikobuy: preverite prostornost, naramnice in izdelavo",
+      "description": "Torbe na Pikobuy primerjajte po uporabnih odprtinah, notranjih merah, naramnicah in vidni izdelavi, s praktičnim primerom preverjanja, kaj lahko torba nosi.",
+      "intro": "Torba je lahko na fotografiji izdelka videti velika, pa vseeno ne sprejme predmeta, ki ga potrebujete. Zunanja širina, uporabna odprtina in notranja oblika odgovarjajo na različna vprašanja. Pred izbiro med torbami Pikobuy določite, kaj mora torba nositi in kako jo nameravate uporabljati. Tako mere in pregledne fotografije postanejo uporabne, ne da bi se pretvarjali, da lahko potrdijo dolgoročno vzdržljivost ali sestavo materiala.",
+      "sections": [
+        {
+          "id": "define-contents",
+          "heading": "1. Začnite s tem, kar mora iti v torbo",
+          "paragraphs": [
+            "Naštejte predmete, ki jih nameravate nositi skupaj. Izmerite največji tog predmet, vključno z etuijem ali ovitkom, ki ga običajno uporabljate. Prenosnik v podloženem ovitku potrebuje več prostora kot gola naprava, steklenica pa lahko zahteva drugačno notranjo višino kot ploščat zvezek.",
+            "Določite, kateri predmeti so nujni in kateri neobvezni. Če torba ne sprejme nujnega predmeta, privlačni kovinski dodatki težave ne rešijo. Upoštevajte tudi dostop: predmet s trudom spraviti v torbo ni isto kot ga pri vsakdanji uporabi priročno vzeti iz nje."
+          ]
+        },
+        {
+          "id": "separate-dimensions",
+          "heading": "2. Ločite zunanjo velikost od uporabnega prostora",
+          "paragraphs": [
+            "Zunanje mere opisujejo celoten obris torbe. Notranje mere lahko zmanjšajo oblazinjenje, šivi, pregrade in zaobljeni vogali. Zaradi zapirala ali konstrukcije je lahko odprtina še ožja.",
+            "Zapišite, katero mero navaja posamezna ponudba. Zunanje širine v zapiskih ne označujte kot uporabno prostornost. Pri togem predmetu primerjajte odprtino in ustrezne notranje mere, po potrebi tudi globino. Če ponudba vsebuje le ponazoritveno fotografijo za občutek velikosti, zahtevajte meritev omejujočega dela, namesto da centimetre ocenjujete po roki ali telesu neznane osebe."
+          ]
+        },
+        {
+          "id": "check-carrying",
+          "heading": "3. Preverite naramnice in položaj pri nošenju",
+          "paragraphs": [
+            "Skupna dolžina naramnice in razdalja, za katero torba visi pod ramo, sta različni meri. Preberite navedeni postopek ter preverite, ali razpon nastavitev omogoča želeni način nošenja. Prostor pod ročajem je lahko pomemben, če želite torbo nositi čez plašč.",
+            "Če je za uporabo pomembno, preverite način pritrditve naramnice in ali je snemljiva ali stalno pritrjena. Razpona nastavljanja ne sklepajte iz fotografije ene nastavitve. Vprašanje naj bo praktično: ali je priloženo naramnico mogoče nastaviti na zahtevano dolžino in ali zapis to dolžino jasno opisuje?"
+          ]
+        },
+        {
+          "id": "inspect-details",
+          "heading": "4. Preglejte vidno izdelavo in vsebino",
+          "paragraphs": [
+            "Na fotografijah preglejte dele, pomembne za delovanje torbe: šive, pritrdilne točke, podlogo, poravnavo zapirala in odprtino. Preverite, ali izbrana različica vključuje oglaševane snemljive naramnice ali druge dodatke. Slika, ki jih prikazuje drugje v ponudbi, še ne potrjuje nujno, kaj vsebuje vaša različica.",
+            "Vidno opažanje ločite od trditve o zmogljivosti. Fotografija lahko pokaže šiv ali zaponko, ne more pa potrditi varne nosilnosti ali vzdržljivosti pri ponavljajoči se uporabi. Prav tako videz sam ne določa sestave materiala. Če je določen material nujen, poiščite ustrezne podatke o izdelku in zapišite njihov izvor."
+          ]
+        },
+        {
+          "id": "capacity-example",
+          "heading": "5. Primerjajte dve izmišljeni torbi",
+          "paragraphs": [
+            "Predpostavimo, da je vaš nujni tog predmet širok 30 cm in visok 22 cm. Te izmišljene mere pokažejo, zakaj največja zunanja mera ni dovolj. Nobena kandidatka ni priporočilo izdelka, globino in udobje nošenja pa je treba v tem primeru preveriti ločeno.",
+            "Torbo B je kljub manjši zunanji širini vredno nadalje preveriti. Razlike 1 cm pri odprtini ne razumite kot zagotovilo udobnega prileganja: zaobljeni robovi, oblazinjenje in kot vstavljanja so lahko še vedno pomembni. Tesno prileganje zahteva boljše podatke kot okvirna primerjava."
+          ],
+          "table": {
+            "headers": [
+              "Mera",
+              "Primer torbe A",
+              "Primer torbe B"
+            ],
+            "rows": [
+              [
+                "Zunanja širina",
+                "35 cm",
+                "33 cm"
+              ],
+              [
+                "Uporabna širina odprtine",
+                "28 cm",
+                "31 cm"
+              ],
+              [
+                "Notranja višina",
+                "25 cm",
+                "23 cm"
+              ],
+              [
+                "Začetni sklep",
+                "Odprtina je ožja od predmeta",
+                "Vredno je preveriti globino, obliko odprtine in enostavnost dostopa"
+              ]
+            ]
+          }
+        },
+        {
+          "id": "plan-packing",
+          "heading": "6. Upoštevajte obliko in zaščito med dostavo",
+          "paragraphs": [
+            "Oblikovana torba lahko potrebuje oporo proti stiskanju, proste naramnice in majhni dodatki pa morajo biti zavarovani. Določite ranljive dele in obliko, ki jo mora torba ohraniti. Pri pogovoru o pakiranju pojasnite te zahteve, namesto da brez omejitev zahtevate najmanjši možni paket.",
+            "Odločitev o izdelku ločite od odločitve o dostavi. Nizka cena izdelka ne pove stroška zaščitno zapakiranega paketa, manjši paket pa ni samodejno primeren. Ko so na voljo, primerjajte končne mere pakiranja in ponudbo. Če vprašanje vračila še ni razrešeno, ga pojasnite pred zahtevo po spremembi embalaže."
+          ]
+        },
+        {
+          "id": "record-bag-decision",
+          "heading": "7. Jasno opredelite manjkajoče vprašanje",
+          "paragraphs": [
+            "Primerjavo končajte s kratko odločitvijo: primerna glede na razpoložljive mere, počakaj na določeno meritev ali odstrani, ker zahteva ni izpolnjena. Koristna zahteva lahko sprašuje po uporabni odprtini pri povsem odprtem zapiralu ali po nastavljivem razponu naramnice z jasno določenima merilnima točkama.",
+            "Izvor, izbrano različico in odgovor shranite h kandidatki. Ko pregledajo vaš izdelek, ustrezne podatke primerjajte s tem zapisom. Tako odločitev ostane osredotočena na nalogo torbe, nepreverjene lastnosti, kot so dolgoročna obraba, nosilnost in pristnost materiala, pa ostanejo zunaj sklepa."
+          ]
+        }
+      ],
+      "sourceIds": [
+        "official-user-agreement",
+        "official-estimate"
+      ],
+      "related": [
+        "spreadsheet",
+        "articles/pikobuy-qc-measurements",
+        "articles/pikobuy-parcel-weight-dimensions"
+      ]
+    },
+    {
+      "slug": "pikobuy-warehouse-returns",
+      "title": "Skladiščna vračila Pikobuy: roki, dokazila in stroški",
+      "description": "Pripravite zahtevo za skladiščno vračilo Pikobuy s statusom naročila, ustreznimi dokazili in jasnimi vprašanji o upravičenosti, rokih ter morebitnih stroških.",
+      "intro": "Vprašanje skladiščnega vračila je lažje obravnavati, če prepoznate fazo naročila, ohranite stanje izdelka in jasno pojasnite težavo. Začnite pravočasno, namesto da čakate na popolno zbirko fotografij. Ta neodvisni vodič pomaga urediti zahtevo; ne odloča o upravičenosti, ne obljublja odobritve in ne nadomešča aktualnih pravil ali odgovora za vaše konkretno naročilo.",
+      "sections": [
+        {
+          "id": "identify-return-stage",
+          "heading": "1. Ugotovite, kje je izdelek",
+          "paragraphs": [
+            "Preverite, ali je prodajalec izdelek že odposlal, ali je v skladišču ali pa je že odšel v mednarodnem paketu. Zapišite natančno besedilo statusa in prikazani čas. Različne faze prinašajo različna praktična vprašanja, zato vsake zahteve ne opisujte samo kot povračilo denarja.",
+            "Shranite oznako naročila, izbrano različico in zapis plačila. Če eno naročilo vsebuje več izdelkov, natančno določite prizadeti izdelek. Pri zahtevi zaradi napačne velikosti zgornjega dela naj podpori ne bo treba ugibati, ali mislite drugo oblačilo v istem nakupu. Podatke omejite na tisto, kar je potrebno za to težavo."
+          ]
+        },
+        {
+          "id": "check-clock",
+          "heading": "2. Preverite veljavni rok za vložitev zahteve",
+          "paragraphs": [
+            "Stran za vračila Pikobuy navaja 120-urni rok za vložitev skladiščne zahteve in pogojno upravičenost. Natančni iztek roka za svoje naročilo potrdite v aktualnem postopku ali pri podpori. Posnetka zaslona, ki vsebuje samo datum, ne obravnavajte kot dovolj za izračun natančnega roka.",
+            "Zapišite čas in časovni pas iz naročila ter ohranite potrdilo o prejemu zahteve. Če niste prepričani, ali je izdelek upravičen do vračila, vprašajte takoj, namesto da domnevate, da bo poznejše vprašanje podaljšalo rok. Pogovor s podporo ni dokaz podaljšanja, razen če ga veljavni postopek izrecno potrdi. To razliko ohranite jasno v svojih zapiskih."
+          ]
+        },
+        {
+          "id": "preserve-condition",
+          "heading": "3. Ohranite dokazila in stanje izdelka",
+          "paragraphs": [
+            "Med obravnavo težave ohranite etikete, pečate, embalažo in dodatke nedotaknjene. Ne zahtevajte posegov samo zato, da bi bila fotografija jasnejša. Če bi pregled zahteval odpiranje ali odstranjevanje česa, pred nadaljevanjem vprašajte o posledicah.",
+            "Shranite izvorno ponudbo, izbrano različico, ustrezno tabelo velikosti in fotografije, ki prikazujejo težavo. Označite, katere slike pripadajo vašemu izdelku. Fotografija prejšnjega kupca lahko ponazori pričakovanje, vendar najjasnejša zahteva primerja vaše zapisano naročilo z dokazi o prejetem izdelku. Izvirne datoteke ohranite poleg morebitnih pojasnjevalnih pripisov."
+          ]
+        },
+        {
+          "id": "classify-issue",
+          "heading": "4. Težavo opišite brez pretiravanja",
+          "paragraphs": [
+            "Ločite neskladje različice, vidno napako, negotovo meritev in spremembo odločitve. Ti opisi pomagajo pojasniti, kaj želite dati v presojo. Uporabite opažanja, ki jih lahko podprete, na primer da se vidna oznaka razlikuje od izbrane velikosti, namesto splošne trditve, da je vse narobe.",
+            "Naslednja matrika je uredniški pripomoček za pripravo, ne uradna tabela upravičenosti. Pokaže, kako se dokazi in vprašanje spreminjajo glede na težavo."
+          ],
+          "table": {
+            "headers": [
+              "Težava",
+              "Dokazila, ki jih pripravite",
+              "Vprašanje"
+            ],
+            "rows": [
+              [
+                "Napačna izbrana različica",
+                "Izbira v naročilu in oznaka prejetega izdelka",
+                "Ali je mogoče to neskladje obravnavati za vračilo?"
+              ],
+              [
+                "Vidna poškodba",
+                "Jasen prikaz mesta in okolice",
+                "Katera dokazila so potrebna za presojo te poškodbe?"
+              ],
+              [
+                "Negotovo prileganje",
+                "Izvorna tabela in berljive meritve",
+                "Ali je mogoče razjasniti razliko med merami?"
+              ],
+              [
+                "Sprememba odločitve",
+                "Status izdelka in ohranjeno stanje",
+                "Ali je vračilo na voljo in koliko bi stalo?"
+              ]
+            ]
+          }
+        },
+        {
+          "id": "write-request",
+          "heading": "5. Pripravite jedrnato zahtevo, na podlagi katere je mogoče ukrepati",
+          "paragraphs": [
+            "Začnite z oznako naročila in prizadetim izdelkom. Težavo opišite v enem ali dveh stavkih, nato določite podporne slike. Povejte, kakšen izid želite, vendar pustite prostor za dejanski postopek in odločitev o upravičenosti.",
+            "Na primer: v naročilu sem izbral modro različico, skladiščna oznaka in fotografije pa očitno prikazujejo črno. Prilagam izbrano možnost in slike prejetega izdelka. Prosim, potrdite, ali je različica napačna in ali je mogoče zahtevati skladiščno vračilo. To je izviren primer besedila, ne trditev, da bo določen izid odobren."
+          ]
+        },
+        {
+          "id": "confirm-costs",
+          "heading": "6. Pred nadaljevanjem zahtevajte celoten strošek",
+          "paragraphs": [
+            "Stroški vračila lahko vplivajo na to, ali je zahteva zaradi spremembe odločitve praktično smiselna. Vprašajte po posameznih postavkah in skupnem znesku za svoj konkretni izdelek, vključno z morebitnimi stroški pošiljanja ali storitve. Izida ne računajte po izkušnji drugega kupca.",
+            "Uradna stran vsebuje neskladno besedilo o prvotnih stroških dostave, zato zahtevajte pojasnilo za svoje naročilo. Zapišite ponujeni strošek, kdo ga je navedel, in vse povezane pogoje. Če je govora o pričakovanem povračilu, ločite znesek izdelka od stroškov, ki jih bo morda še treba plačati. Ne domnevajte, da bo nujno vrnjen celoten prvotno plačani znesek."
+          ]
+        },
+        {
+          "id": "follow-case",
+          "heading": "7. Primer spremljajte z urejenim zapisom",
+          "paragraphs": [
+            "Vodite kratko časovnico zahteve, potrditev, dodatnih dokazil in odločitev. Kjer je primerno, odgovarjajte v obstoječem primeru, da kontekst ostane skupaj. Če podpora zahteva manjkajočo podrobnost, odgovorite neposredno nanjo, namesto da znova opisujete celoten nakup.",
+            "Pred odobritvijo koraka preverite, ali se nanaša na pravi izdelek in rešitev, ki jo razumete. Ohranite potrditev tega, kar je bilo sprejeto, in tega, kar še čaka. Oddana zahteva, odgovor prodajalca in opravljeno povračilo so različni dogodki. Njihovo ločeno beleženje pomaga slediti izidu, ne da bi napredek zamenjali z zaključkom."
+          ]
+        }
+      ],
+      "sourceIds": [
+        "official-returns",
+        "official-contact"
+      ],
+      "related": [
+        "qc",
+        "articles/pikobuy-qc-measurements",
+        "articles/pikobuy-haul-budget"
+      ]
+    },
+    {
+      "slug": "pikobuy-tracking-not-updating",
+      "title": "Se sledenje Pikobuy ne posodablja? Preverite fazo in naslednji korak",
+      "description": "Ugotovite, zakaj se sledenje Pikobuy ne posodablja: določite fazo pošiljke, preberite razpoložljive podatke in pripravite koristno zahtevo za podporo.",
+      "intro": "Ko je sledenje Pikobuy videti nedejavno, najprej ugotovite, kateri premik spremljate. Prodajalčeva dostava v skladišče in poznejši mednarodni paket sta ločeni fazi. Tudi zapis naročila, oznaka paketa in sledilna številka prevoznika lahko odgovarjajo na različna vprašanja. Uporaben naslednji korak je odvisen od zadnjega dogodka, ki ga lahko potrdite, ne od števila dni od prvega plačila izdelka.",
+      "sections": [
+        {
+          "id": "identify-shipment",
+          "heading": "1. Določite premik, ki mu sledite",
+          "paragraphs": [
+            "Zapišite, ali čakate, da prodajalec izdelek pošlje, na skladiščno obdelavo ali na mednarodni paket. Ob tej fazi ohranite ustrezno oznako. Ne domnevajte, da številka enega premika sledi tudi naslednjemu.",
+            "Če imate več izdelkov, ločite napredek posameznega izdelka od napredka paketa z več izdelki. Odprema enega prodajalca ne potrdi, da je pripravljena vsa vsebina nameravanega paketa. Za razumevanje oddanih zahtev uporabite dejanske zapise naročil in paketov, namesto da postopek sestavljate po spominu."
+          ]
+        },
+        {
+          "id": "locate-dispatch",
+          "heading": "2. Poiščite dogodek mednarodne odpreme",
+          "paragraphs": [
+            "Vodič Pikobuy svojo navedbo o podatkih za sledenje v treh dneh postavlja po odpremi paketa. To izhodišče je pomembno. Plačilo izdelka, prihod v skladišče in oddaja paketa niso samodejno isti dogodek kot mednarodna odprema.",
+            "Pred primerjavo položaja z objavljenimi navodili preverite zabeleženi datum odpreme. Če zapis ne potrjuje jasno, da je do odpreme prišlo, zahtevajte pojasnilo, namesto da manjkajoče skeniranje obravnavate kot zamudo prevoznika. Odgovor ohranite ob zapisu paketa. Navedba govori o razpoložljivosti sledenja; ne zagotavlja datuma prihoda in ne pojasnjuje vzroka določene vrzeli."
+          ]
+        },
+        {
+          "id": "read-event-type",
+          "heading": "3. Preberite, kaj zadnji dogodek dejansko pove",
+          "paragraphs": [
+            "Zapis o obstoju nalepke ali podatkov pošiljke ni isto kot dokaz, da je prevoznik paket fizično prevzel. Poznejši dogodki lahko opisujejo obdelavo, predajo, poskus dostave ali drugo dejanje. Preberite celotno besedilo dogodka in časovno oznako, namesto da se zanesete samo na obarvano vrstico napredka.",
+            "Neznanega besedila statusa ne prevajajte v močnejšo trditev, kot jo podpira. Če dogodek omenja partnerja ali drugega prevoznika, to zapišite in preverite, ali je navedena ustrezna oznaka. Ne domnevajte, da splošen spletni slovar statusov natančno določa pomen vsakega sporočila pri vaši pošiljki."
+          ]
+        },
+        {
+          "id": "build-timeline",
+          "heading": "4. Sestavite kratko časovnico dokazov",
+          "paragraphs": [
+            "Preprost dnevnik pomaga razlikovati med nespremenjenim dogodkom in novim dogodkom s podobnim besedilom. Besedilo natančno prepišite, ohranite prikazani čas in zapišite, kje ste ga pridobili. Spodaj je izmišljen format zapisa, ne resnična zgodovina paketa ali uradni slovar statusov."
+          ],
+          "table": {
+            "headers": [
+              "Dogodek v ponazoritvenem zapisu",
+              "Kaj lahko sklepate",
+              "Kaj ostaja neznano"
+            ],
+            "rows": [
+              [
+                "Zabeležena oddaja paketa",
+                "Vidno je dejanje oddaje",
+                "Ali je do odpreme že prišlo"
+              ],
+              [
+                "Zabeležena odprema",
+                "Platforma poroča o odpremi",
+                "Ali je vidno skeniranje prevoznika"
+              ],
+              [
+                "Prejeti podatki o pošiljki",
+                "Zabeleženi so elektronski podatki",
+                "Ali je fizični prevzem potrjen"
+              ],
+              [
+                "Zabeležen prevzem prevoznika",
+                "Viden je dogodek prevzema",
+                "Končni datum dostave"
+              ],
+              [
+                "Zabeležena težava pri dostavi",
+                "Težavo je treba razložiti",
+                "Vzrok in potrebno dejanje do pojasnila"
+              ]
+            ]
+          }
+        },
+        {
+          "id": "choose-next-action",
+          "heading": "5. Izberite korak za manjkajoče podatke",
+          "paragraphs": [
+            "Če ni oznake mednarodnega paketa, začnite pri zapisu platforme. Če je odprema zabeležena, sledenje pa se ni pojavilo v času iz objavljenih navodil, o tem paketu vprašajte Pikobuy. Če dogodek prevoznika obstaja, vendar se ne spreminja več, ohranite zadnji potrjeni dogodek in preverite ustrezne informacije o storitvi.",
+            "Pri težavi z naslovom ali dostavo skrbno preberite zahtevano dejanje in ga preverite po pravi poti prevoznika ali platforme. Obdobje brez novih zapisov samo po sebi ne dokazuje izgube, pomirjujoča ocena pa ne dokazuje, da paket napreduje. Vprašanje usmerite v to, kateri dokaz ali dejanje manjka."
+          ]
+        },
+        {
+          "id": "prepare-ticket",
+          "heading": "6. Podpori pošljite uporabne podrobnosti",
+          "paragraphs": [
+            "Vključite oznako paketa, datum odpreme, če je prikazan, prevoznika in sledilno številko ter zadnji dogodek s časovno oznako. Dodajte posnetek zaslona, kadar pomaga ohraniti besedilo, ki se lahko spremeni. Navedite vprašanje, na katero želite odgovor, na primer ali je predaja prevozniku potrjena.",
+            "Jedrnat primer: pri tem paketu je odprema prikazana na zabeleženi datum, vendar ne najdem dogodka prevzema prevoznika. Prilagam trenutno besedilo sledenja. Prosim, potrdite zadnji preverjeni premik in ali moram kaj storiti. Ustrezno pot do podpore poiščite na uradni kontaktni strani Pikobuy; ta neodvisna stran ne more pregledati vaše zasebne pošiljke."
+          ]
+        },
+        {
+          "id": "close-record",
+          "heading": "7. Zapis ohranite do dostave",
+          "paragraphs": [
+            "Dnevnik posodobite ob pomembnem novem dogodku in ponovnega preverjanja iste strani ne obravnavajte kot nov dokaz. Shranite vsa navodila ali odgovore, ki spremenijo pričakovani naslednji korak. Če za svoj primer dobite rok ali korak za nadaljnjo obravnavo, ga izrecno zapišite.",
+            "Ko paket prispe, vsebino primerjajte s seznamom izdelkov in ohranjenim zapisom pregleda. Med razjasnjevanjem morebitnih neskladij ohranite ustrezno embalažo in nalepke. Zaključeno sledenje in zadovoljiv pregled vsebine sta ločeni opažanji. Urejen zapis pomaga pojasniti težavo z dostavo ali izdelkom, ne da bi ju pomešali."
+          ]
+        }
+      ],
+      "sourceIds": [
+        "official-guide",
+        "official-contact"
+      ],
+      "related": [
+        "shipping",
+        "guide",
+        "faq"
+      ]
+    }
+  ]
+}
