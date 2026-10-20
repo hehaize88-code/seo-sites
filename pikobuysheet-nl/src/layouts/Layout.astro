@@ -11,6 +11,19 @@ const nav=[['spreadsheet','Spreadsheet'],['guide',text.guide],['qc',text.qcGuide
 <!doctype html>
 <html lang={lang}>
   <head>
+    <!-- GA4: collect only on the production domains. -->
+    <script is:inline>
+      if (location.hostname === 'pikobuysheet.nl' || location.hostname === 'www.pikobuysheet.nl') {
+        window.dataLayer = window.dataLayer || [];
+        window.gtag = function () { window.dataLayer.push(arguments); };
+        window.gtag('js', new Date());
+        window.gtag('config', 'G-ZRM7JW4N54');
+        const analyticsScript = document.createElement('script');
+        analyticsScript.async = true;
+        analyticsScript.src = 'https://www.googletagmanager.com/gtag/js?id=G-ZRM7JW4N54';
+        document.head.appendChild(analyticsScript);
+      }
+    </script>
     <meta charset="UTF-8" /><meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>{title} | PikobuySheet</title><meta name="description" content={description} />
     <link rel="canonical" href={canonical}/><link rel="icon" type="image/png" href="/favicon.png" />
