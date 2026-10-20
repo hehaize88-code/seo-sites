@@ -27,3 +27,6 @@
 
 /* Keep wrapped article titles clickable across their full heading area. */
 .article-card :is(h2,h3) a{display:block}
+
+/* Let responsive widths override the static HTML image height attributes. */
+.product-picture img,.hero-product img{height:auto}
