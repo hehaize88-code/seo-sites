@@ -3,5 +3,15 @@
   "main": "dist/server/index.js",
   "compatibility_date": "2026-10-19",
   "workers_dev": true,
-  "preview_urls": false
+  "preview_urls": false,
+  "routes": [
+    {
+      "pattern": "pikobuysheet.nl",
+      "custom_domain": true
+    },
+    {
+      "pattern": "www.pikobuysheet.nl",
+      "custom_domain": true
+    }
+  ]
 }

@@ -1,5 +1,15 @@
 # Pikobuy 外站项目记忆
 
+## 2026-10-20：正式域名发布
+
+- 用户明确要求将pikobuysheet.nl部署到GitHub并连接Cloudflare；正式上线授权已取得，取代下文仅预览的限制。
+- 已通过当前Chrome把pikobuysheet.nl与www.pikobuysheet.nl绑定到现有Worker pikobuysheet-nl；未创建重复项目。
+- wrangler.jsonc持久记录两个Custom Domains；Worker将www和根域HTTP以301统一到https://pikobuysheet.nl，保留路径与查询参数。
+- 正式域内容页允许索引；临时workers.dev及带查询条件的页面仍为noindex。canonical/hreflang/sitemap继续使用正式根域。
+- 已通过针对性验证：www/HTTP跳转保留语言路径及搜索参数、正式根域可索引、临时预览保持noindex。
+- GitHub PR #9准备合并main，Cloudflare生产分支改为main；仍仅监听pikobuysheet-nl/**。后续更新从main的此独立目录自动部署。
+- 正式域名HTTPS、线上商品交互与最终部署状态在发布后继续验证；用户项目记忆文件保存最终结果。
+
 ## 2026-10-20：公开临时预览部署
 
 - 用户已明确允许通过当前Chrome发布Pikobuy公开临时预览；授权仅针对本项目，正式域名绑定仍待后续。
