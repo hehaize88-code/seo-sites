@@ -1,0 +1,22 @@
+{
+  "name": "pikobuysheet-nl",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22.22.0"
+  },
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build && node scripts/build-worker.mjs",
+    "check:source": "node scripts/check-source.mjs",
+    "check:editorial": "node scripts/check-editorial.mjs"
+  },
+  "dependencies": {
+    "astro": "7.4.0",
+    "cheerio": "1.2.0"
+  },
+  "devDependencies": {
+    "esbuild": "0.28.2"
+  }
+}

@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /*?*
+Sitemap: https://pikobuysheet.nl/sitemap.xml

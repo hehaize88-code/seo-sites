@@ -1,0 +1,28 @@
+import nl from '../content/editorial/nl.json' with {type:'json'};
+import en from '../content/editorial/en.json' with {type:'json'};
+import de from '../content/editorial/de.json' with {type:'json'};
+import es from '../content/editorial/es.json' with {type:'json'};
+import fr from '../content/editorial/fr.json' with {type:'json'};
+import it from '../content/editorial/it.json' with {type:'json'};
+import pl from '../content/editorial/pl.json' with {type:'json'};
+import pt from '../content/editorial/pt.json' with {type:'json'};
+import ro from '../content/editorial/ro.json' with {type:'json'};
+import sv from '../content/editorial/sv.json' with {type:'json'};
+import da from '../content/editorial/da.json' with {type:'json'};
+import fi from '../content/editorial/fi.json' with {type:'json'};
+import el from '../content/editorial/el.json' with {type:'json'};
+import cs from '../content/editorial/cs.json' with {type:'json'};
+import hu from '../content/editorial/hu.json' with {type:'json'};
+import bg from '../content/editorial/bg.json' with {type:'json'};
+import sk from '../content/editorial/sk.json' with {type:'json'};
+import hr from '../content/editorial/hr.json' with {type:'json'};
+import sl from '../content/editorial/sl.json' with {type:'json'};
+import lt from '../content/editorial/lt.json' with {type:'json'};
+import lv from '../content/editorial/lv.json' with {type:'json'};
+import et from '../content/editorial/et.json' with {type:'json'};
+import ga from '../content/editorial/ga.json' with {type:'json'};
+import mt from '../content/editorial/mt.json' with {type:'json'};
+import facts from '../../docs/research/official-facts-2026-10-19.json' with {type:'json'};
+const editions={nl,en,de,es,fr,it,pl,pt,ro,sv,da,fi,el,cs,hu,bg,sk,hr,sl,lt,lv,et,ga,mt};
+export const sourceById=Object.fromEntries(facts.sources.map(source=>[source.id,source]));
+export function editorial(lang){if(!editions[lang])throw Error('Editorial locale not integrated: '+lang);return editions[lang];}

@@ -1,0 +1,35 @@
+---
+import {site} from '../site.config.mjs';
+import {editorial} from '../lib/editorial.mjs';
+import {languages,pathFor,t} from '../lib/i18n.mjs';
+import '../styles/global.css';
+const {lang='nl',route='',title,description,structuredData}=Astro.props;
+const {ui}=editorial(lang);
+const text=t(lang), canonical=site.domain+pathFor(lang,route);
+const nav=[['spreadsheet','Spreadsheet'],['guide',text.guide],['qc',text.qcGuide],['shipping',text.shipping],['articles',ui.articles],['faq',ui.faq]];
+---
+<!doctype html>
+<html lang={lang}>
+  <head>
+    <meta charset="UTF-8" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{title} | PikobuySheet</title><meta name="description" content={description} />
+    <link rel="canonical" href={canonical}/><link rel="icon" type="image/png" href="/favicon.png" />
+    {Object.keys(languages).map(l=><link rel="alternate" hreflang={l} href={site.domain+pathFor(l,route)}/>)}
+    <link rel="alternate" hreflang="x-default" href={site.domain+pathFor('nl',route)} />
+    <meta property="og:type" content={route.startsWith('articles/')?'article':'website'}/><meta property="og:title" content={title}/><meta property="og:description" content={description}/><meta property="og:url" content={canonical}/>
+    <meta name="theme-color" content="#6542e8"/>
+    <script type="application/ld+json" set:html={JSON.stringify({'@context':'https://schema.org','@type':'WebSite',name:'PikobuySheet',url:site.domain,inLanguage:lang,description})}/>
+    {structuredData&&<script type="application/ld+json" set:html={JSON.stringify(structuredData).replace(/</g,'\\u003c')}/>}
+  </head>
+  <body data-lang={lang} data-route={route} data-text={JSON.stringify(text)}>
+    <header class="site-header"><div class="header-inner">
+      <a href={pathFor(lang)} class="brand" aria-label="PikobuySheet"><img src="/logo.png" width="136" height="32" alt="Pikobuy"/><span>sheet<span class="brand-dot">.nl</span></span></a>
+      <nav class="main-nav" aria-label="Menu">{nav.map(([slug,label])=><a href={pathFor(lang,slug)} class:list={{active:route===slug||route.startsWith(slug+'/')}} aria-current={route===slug||route.startsWith(slug+'/')?'page':undefined}>{label}</a>)}</nav>
+      <div class="header-actions"><div class="language-control"><span aria-hidden="true">◎</span><select id="language" aria-label={languages[lang]}>{Object.entries(languages).map(([code,name])=><option value={code} selected={code===lang}>{name}</option>)}</select></div><a class="button button-dark signup" href={site.register} target="_blank" rel="noopener noreferrer">{text.register}<span aria-hidden="true">↗</span></a></div>
+    </div></header>
+    <main id="main"><slot/></main>
+    <footer class="site-footer"><div class="container footer-main"><div><a class="footer-brand" href={pathFor(lang)}>pikobuy<span>sheet.</span></a><p>{text.independent}</p></div><div class="footer-links">{nav.map(([slug,label])=><a href={pathFor(lang,slug)}>{label}</a>)}<a href={site.register} target="_blank" rel="noopener noreferrer">{text.register} ↗</a></div></div><div class="container footer-bottom"><span>© {new Date().getFullYear()} PikobuySheet.nl</span><span>USD · <a href="https://cnfanshp.com" target="_blank" rel="noopener noreferrer">cnfanshp.com</a></span></div></footer>
+    <dialog id="product-dialog" aria-labelledby="detail-title"><div class="dialog-top"><span>Pikobuy spreadsheet</span><button id="close-dialog" class="icon-button" aria-label={text.close}>×</button></div><div id="product-detail" aria-live="polite"></div></dialog>
+    <script src="../scripts/client.js"></script>
+  </body>
+</html>

@@ -1,0 +1,9 @@
+node_modules/
+.astro/
+.astro-out/
+dist/
+.env
+.env.*
+.openai/local/
+.openai/preview.json
+.wrangler/

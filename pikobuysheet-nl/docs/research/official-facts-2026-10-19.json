@@ -1,0 +1,394 @@
+{
+  "sources": [
+    {
+      "id": "official-home",
+      "url": "https://www.pikobuy.com/home",
+      "title": "PIKOBUY — Your one-stop China purchasing and forwarding platform",
+      "verifiedOn": "2026-10-19",
+      "verifiedFacts": [
+        "Pikobuy describes sourcing, purchasing, warehouse inspection and international delivery services."
+      ],
+      "uncertainties": [
+        "Homepage marketing is not evidence of external catalog features or guaranteed product quality."
+      ]
+    },
+    {
+      "id": "official-guide",
+      "url": "https://www.pikobuy.com/guide",
+      "title": "Shopping guide | PIKOBUY",
+      "verifiedOn": "2026-10-19",
+      "verifiedFacts": [
+        "Published workflow separates purchasing, warehouse inspection and international shipping payment."
+      ],
+      "uncertainties": [
+        "Tracking guidance is a published expectation, not a delivery guarantee."
+      ]
+    },
+    {
+      "id": "official-about",
+      "url": "https://www.pikobuy.com/About",
+      "title": "About us · Pikobuy",
+      "verifiedOn": "2026-10-19",
+      "verifiedFacts": [
+        "Multiple payment currencies and shipping channels are advertised."
+      ],
+      "uncertainties": [
+        "Available payment options and routes for a particular account were not tested."
+      ]
+    },
+    {
+      "id": "official-terms",
+      "url": "https://www.pikobuy.com/protocol/terms",
+      "title": "Terms of service",
+      "verifiedOn": "2026-10-19",
+      "verifiedFacts": [
+        "Failed payments prevent order processing; cross-border charges may be additional."
+      ],
+      "uncertainties": [
+        "The page contains inconsistent governing-law clauses. Do not present a legal interpretation."
+      ]
+    },
+    {
+      "id": "official-user-agreement",
+      "url": "https://www.pikobuy.com/protocol/user",
+      "title": "Pikobuy user registration agreement",
+      "verifiedOn": "2026-10-19",
+      "verifiedFacts": [
+        "Specialized inspection has limits; the agreement also discusses shipping fees and conditional parcel insurance."
+      ],
+      "uncertainties": [
+        "Return-fee wording differs from the dedicated return policy. Do not promise universally free returns."
+      ]
+    },
+    {
+      "id": "official-shipping",
+      "url": "https://www.pikobuy.com/protocol/shipping",
+      "title": "Shipping terms",
+      "verifiedOn": "2026-10-19",
+      "verifiedFacts": [
+        "Forwarding has its own inspection and after-sales conditions."
+      ],
+      "uncertainties": [
+        "No universal storage allowance appears on this page."
+      ]
+    },
+    {
+      "id": "official-estimate",
+      "url": "https://www.pikobuy.com/shipping-cost",
+      "title": "Shipping estimate | PIKOBUY",
+      "verifiedOn": "2026-10-19",
+      "verifiedFacts": [
+        "The estimator accepts destination, product type, weight and three parcel dimensions."
+      ],
+      "uncertainties": [
+        "No destination-specific quote was submitted or verified."
+      ]
+    },
+    {
+      "id": "official-returns",
+      "url": "https://www.pikobuy.com/protocol/returns",
+      "title": "Returns & exchanges",
+      "verifiedOn": "2026-10-19",
+      "verifiedFacts": [
+        "Eligibility is conditional."
+      ],
+      "uncertainties": [
+        "Original-shipping charges conflict within the page; confirm costs with support."
+      ]
+    },
+    {
+      "id": "official-contact",
+      "url": "https://www.pikobuy.com/contact",
+      "title": "Contact us | PIKOBUY",
+      "verifiedOn": "2026-10-19",
+      "verifiedFacts": [
+        "Official contact page recommends submitting a ticket and describes parcel consolidation."
+      ],
+      "uncertainties": [
+        "The crawler masks the support email; use the official page rather than inventing an address."
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "id": "what-is-pikobuy",
+      "question": "What does Pikobuy do?",
+      "answer": "Pikobuy helps users source products from China, purchase from sellers, receive items at its warehouse and arrange international delivery. Its homepage describes these as separate stages of the service.",
+      "sourceIds": [
+        "official-home"
+      ]
+    },
+    {
+      "id": "supported-marketplaces",
+      "question": "Which marketplaces does the guide mention?",
+      "answer": "The official guide names Taobao, Tmall, 1688, Weidian and Yupoo. Check the exact product, size and colour before placing your purchasing order.",
+      "sourceIds": [
+        "official-guide"
+      ]
+    },
+    {
+      "id": "finding-products",
+      "question": "How can I ask Pikobuy to find a product?",
+      "answer": "Pikobuy's homepage describes direct product search and submitting product links, images or sourcing requests. These are services on Pikobuy itself; they do not establish image-search functionality on this independent catalog.",
+      "sourceIds": [
+        "official-home"
+      ]
+    },
+    {
+      "id": "two-payments",
+      "question": "Why are purchasing and shipping separate payments?",
+      "answer": "The guide places the purchasing payment before warehouse inspection. You later choose a shipping route, submit the parcel and pay international shipping.",
+      "sourceIds": [
+        "official-guide"
+      ]
+    },
+    {
+      "id": "payment-options",
+      "question": "Which payment methods can I use?",
+      "answer": "Pikobuy advertises multiple currencies and displays card and wallet logos, including Visa, Mastercard, Klarna, Google Pay and Apple Pay. Check your actual checkout for available methods, currencies and the total before paying.",
+      "sourceIds": [
+        "official-about"
+      ]
+    },
+    {
+      "id": "failed-payment",
+      "question": "Will my order proceed if payment fails?",
+      "answer": "Pikobuy's terms say an order will not be processed when payment fails. Review the payment result in your account and use official support if the transaction status remains unclear.",
+      "sourceIds": [
+        "official-terms"
+      ]
+    },
+    {
+      "id": "warehouse-inspection",
+      "question": "What happens when an item reaches the warehouse?",
+      "answer": "The guide describes warehouse check-in, photo confirmation and a defect check. Review the records for your own order before deciding what to ship.",
+      "sourceIds": [
+        "official-guide"
+      ]
+    },
+    {
+      "id": "qc-limits",
+      "question": "Do inspection photos guarantee authenticity or performance?",
+      "answer": "No. The user agreement explains that some products cannot receive professional quality or authenticity checks. Inspection may be limited to external condition and accessories. Photos are useful evidence, but not a universal product guarantee.",
+      "sourceIds": [
+        "official-user-agreement"
+      ]
+    },
+    {
+      "id": "detailed-photos",
+      "question": "Can I request more detailed inspection photos?",
+      "answer": "The forwarding terms say customers can view Pikobuy's inspection photographs or purchase additional detailed photos. Confirm the available photo service and charge within Pikobuy for the item you want checked.",
+      "sourceIds": [
+        "official-shipping"
+      ]
+    },
+    {
+      "id": "packaging",
+      "question": "Can I request different packaging?",
+      "answer": "The shopping guide mentions minimal and reinforced packaging requests. Specify what you need and confirm the available handling options before submitting your parcel.",
+      "sourceIds": [
+        "official-guide"
+      ]
+    },
+    {
+      "id": "consolidation",
+      "question": "Can items from different sellers share a parcel?",
+      "answer": "Pikobuy's contact page says items from different sellers can be combined into one parcel with one shipping charge. Compare the resulting parcel quote; this does not establish a guaranteed saving for every order.",
+      "sourceIds": [
+        "official-contact"
+      ]
+    },
+    {
+      "id": "storage",
+      "question": "How long can my items stay in storage?",
+      "answer": "The forwarding terms confirm warehouse storage after receipt, but do not specify a universal free period or deadline. Check the current conditions for your items in Pikobuy or ask official support before waiting.",
+      "sourceIds": [
+        "official-shipping"
+      ]
+    },
+    {
+      "id": "shipping-estimate",
+      "question": "What do I need for a shipping estimate?",
+      "answer": "Pikobuy's estimator asks for the destination, product type, weight, length, width and height. Use the best information available and check the final parcel quote before payment; a product listing price is not a shipping quote.",
+      "sourceIds": [
+        "official-estimate"
+      ]
+    },
+    {
+      "id": "delivery-choice",
+      "question": "Which shipping route should I choose?",
+      "answer": "Pikobuy advertises several shipping channels and route combinations. Compare the options currently available for your destination and parcel. The public About page does not establish one universally cheapest route or a guaranteed arrival date.",
+      "sourceIds": [
+        "official-about"
+      ]
+    },
+    {
+      "id": "tracking",
+      "question": "When should tracking information appear?",
+      "answer": "The shopping guide says tracking information becomes available within three days after dispatch. Treat that as published guidance and contact Pikobuy about an overdue update.",
+      "sourceIds": [
+        "official-guide"
+      ]
+    },
+    {
+      "id": "taxes",
+      "question": "Can there be costs beyond the order and shipping?",
+      "answer": "Yes. Pikobuy's terms say cross-border orders may incur duties, taxes, brokerage or other charges borne by the customer. Check the applicable destination requirements and your chosen shipping terms before making a purchase.",
+      "sourceIds": [
+        "official-terms"
+      ]
+    },
+    {
+      "id": "forwarding",
+      "question": "Can I forward items I purchased myself?",
+      "answer": "The forwarding terms describe obtaining a warehouse address from support or the forwarding form, submitting the required details, and waiting for receipt and photos. You then submit a parcel and pay shipping through Pikobuy.",
+      "sourceIds": [
+        "official-shipping"
+      ]
+    },
+    {
+      "id": "forwarded-after-sales",
+      "question": "Who handles after-sales requests for forwarded items?",
+      "answer": "For items sent through forwarding, Pikobuy directs after-sales questions to the sender or seller. Its terms say it can help send the goods back, but does not provide the product's after-sales service.",
+      "sourceIds": [
+        "official-shipping"
+      ]
+    },
+    {
+      "id": "return-deadline",
+      "question": "When must I request a warehouse return?",
+      "answer": "The return policy specifies 120 hours, counted from the hour after the status becomes In Warehouse. Apply promptly; acceptance still depends on eligibility.",
+      "sourceIds": [
+        "official-returns"
+      ]
+    },
+    {
+      "id": "return-eligibility",
+      "question": "Is every product returnable?",
+      "answer": "No. Seller participation, resale condition and timing matter. Customized goods, altered packaging and certain product categories have restrictions. Check eligibility before ordering or removing tags.",
+      "sourceIds": [
+        "official-returns"
+      ]
+    },
+    {
+      "id": "return-costs",
+      "question": "Are returns always free?",
+      "answer": "No. The policy lists shipping and service charges for customer-choice returns. Ask support for the order's exact total because the published shipping-fee wording is inconsistent.",
+      "sourceIds": [
+        "official-returns"
+      ]
+    },
+    {
+      "id": "wrong-or-damaged-item",
+      "question": "What if the seller sends the wrong item?",
+      "answer": "Report the mismatch through Pikobuy promptly. Its policy distinguishes seller errors and quality issues from customer-choice returns, but seller agreement and the specific case affect the outcome.",
+      "sourceIds": [
+        "official-returns"
+      ]
+    },
+    {
+      "id": "not-shipped-cancellation",
+      "question": "Does a Not Shipped return request incur a fee?",
+      "answer": "The returns FAQ says it does not charge a return fee when the order has not shipped. Check the live status before making your request.",
+      "sourceIds": [
+        "official-returns"
+      ]
+    },
+    {
+      "id": "official-support",
+      "question": "Where should I ask about an order, payment or parcel?",
+      "answer": "Use Pikobuy's official Contact page, which recommends submitting a ticket and provides its support channels. This independent catalog cannot access your Pikobuy account, change an order or resolve a payment on your behalf.",
+      "sourceIds": [
+        "official-contact"
+      ]
+    }
+  ],
+  "notes": [
+    "Research date: 2026-10-19. These are public official-page observations, not authenticated account tests.",
+    "The www hostname was readable; the bare https://pikobuy.com URL was unavailable in the web tool.",
+    "Do not turn marketing statements into guarantees. Preserve the distinction between Pikobuy services and pikobuysheet.nl catalog capabilities.",
+    "The FAQs are deliberately concise to keep the substantive paraphrases within each retrieved page's 200-word source allowance. Avoid duplicating all facts in ten long articles; add original checklists and fresh authoritative research instead.",
+    "For product discovery, the project constraint is cnfanshp.com only. Product photographs are not authenticated warehouse QC, and no QC or image-search API has been verified for the external site.",
+    "Do not publish unsupported fixed storage periods, shipping costs, delivery windows, coupon values, review scores, order counts, insurance payouts, or payment availability guarantees.",
+    "The return-fee FAQ openly flags an actual source inconsistency. If a simpler user-facing version is preferred, say 'Confirm the exact charges with official support before requesting a return' without a universal price.",
+    "Root must open the official sources itself before citing the web ref IDs in a final chat answer. Artifact hyperlinks may use the verified official URLs."
+  ],
+  "articleAngles": [
+    {
+      "title": "Your first Pikobuy order: a six-stage checklist",
+      "sourceIds": [
+        "official-guide"
+      ],
+      "approach": "Use an original checklist for recording source URL, selected variant, purchase status, inspection decision and parcel status; keep the official-process summary short."
+    },
+    {
+      "title": "Build a complete order budget before you buy",
+      "sourceIds": [
+        "official-guide",
+        "official-estimate",
+        "official-terms"
+      ],
+      "approach": "Provide an original blank cost worksheet separating the product, domestic delivery, international freight and possible destination charges. No invented rates."
+    },
+    {
+      "title": "A product photo is not your warehouse inspection",
+      "sourceIds": [
+        "official-home",
+        "official-user-agreement"
+      ],
+      "approach": "Explain image provenance and give an original comparison checklist for variant, quantity, visible condition and missing evidence. Clearly label cnfanshp.com catalog images as product images."
+    },
+    {
+      "title": "Prepare a useful request for detailed photos",
+      "sourceIds": [
+        "official-shipping"
+      ],
+      "approach": "Offer practical examples of precise requests, such as the relevant label or visible stitching, while directing availability and charges to Pikobuy."
+    },
+    {
+      "title": "Choose packaging before the parcel is finalized",
+      "sourceIds": [
+        "official-guide",
+        "official-contact"
+      ],
+      "approach": "Create an original tradeoff checklist for protection, box volume and keeping packaging required for possible returns. Do not claim a saving."
+    },
+    {
+      "title": "How to use the shipping estimator responsibly",
+      "sourceIds": [
+        "official-estimate"
+      ],
+      "approach": "Explain each visible input, show a clearly hypothetical blank example and help readers record assumptions. Do not present made-up live quotes."
+    },
+    {
+      "title": "Decide about returns while the item is in the warehouse",
+      "sourceIds": [
+        "official-returns"
+      ],
+      "approach": "Provide an original decision checklist: preserve packaging, record the issue, check eligibility and contact support promptly. Link the current policy rather than reproducing its tables."
+    },
+    {
+      "title": "Purchasing service or forwarding: choose the correct workflow",
+      "sourceIds": [
+        "official-home",
+        "official-shipping"
+      ],
+      "approach": "Use an original comparison focused on who buys the item, who supplies order details and who handles seller after-sales questions."
+    },
+    {
+      "title": "Keep a clean record of orders and parcel updates",
+      "sourceIds": [
+        "official-guide",
+        "official-contact"
+      ],
+      "approach": "Provide an original tracking log template with dates, exact status text and next action. Avoid claiming meanings for undocumented account statuses."
+    },
+    {
+      "title": "Send support a clear question with the right evidence",
+      "sourceIds": [
+        "official-contact"
+      ],
+      "approach": "Offer an original support-message template using the relevant reference, event date, concise problem and requested resolution. Send readers to official support; do not collect account secrets."
+    }
+  ]
+}
