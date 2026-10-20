@@ -1,5 +1,12 @@
 # Pikobuy 外站项目记忆
 
+## 2026-10-20：公开临时预览部署
+
+- 用户已明确允许通过当前Chrome发布Pikobuy公开临时预览；授权仅针对本项目，正式域名绑定仍待后续。
+- 已在现有Cloudflare账户创建Worker pikobuysheet-nl，连接 hehaize88-code/seo-sites 的 codex/pikobuysheet-nl 分支，根目录 pikobuysheet-nl，构建 npm run build，部署 npx wrangler deploy，NODE_VERSION=24。
+- 仅监听 pikobuysheet-nl/** 的变更；复用已存在的Workers Builds凭据，没有创建新凭据。
+- 正在首次构建，尚未通过公开访问检查。预览设置采用workers.dev，正式域名仍为pikobuysheet.nl；不混用既有pikobuysheet.cc或pikobuysheet-preview项目。
+
 更新：2026-10-19。本轮内容与移动端更新已通过完整构建及全页面检查。
 
 - 本轮需求：FAQ 20+（已核对24条）、10篇独立SEO文章、顶部文章入口、全站手机布局压缩。研究材料存 docs/research/；每条FAQ均有官方来源，每篇文章均有来源与核对日期。
