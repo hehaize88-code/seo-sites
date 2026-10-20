@@ -7,8 +7,12 @@
 - wrangler.jsonc持久记录两个Custom Domains；Worker将www和根域HTTP以301统一到https://pikobuysheet.nl，保留路径与查询参数。
 - 正式域内容页允许索引；临时workers.dev及带查询条件的页面仍为noindex。canonical/hreflang/sitemap继续使用正式根域。
 - 已通过针对性验证：www/HTTP跳转保留语言路径及搜索参数、正式根域可索引、临时预览保持noindex。
-- GitHub PR #9准备合并main，Cloudflare生产分支改为main；仍仅监听pikobuysheet-nl/**。后续更新从main的此独立目录自动部署。
-- 正式域名HTTPS、线上商品交互与最终部署状态在发布后继续验证；用户项目记忆文件保存最终结果。
+- GitHub PR #9已合并main，正式代码合并提交60e08e4f627bbe7f4ef8fe18eb04c9b81dffe072。Cloudflare生产分支为main，仅监听pikobuysheet-nl/**；后续更新从此独立目录自动部署。
+- Cloudflare正式构建35d1b9a9-cfed-460a-baba-767dd5ed9ac6已Ready，Worker版本75c78d55承接100%流量。
+- 线上验证通过：正式首页、英文独立文章、sitemap.xml和robots.txt返回200；站点地图含408条正式URL；HTTPS www以301跳转根域并保留语言路径和查询参数。
+- 正式域/api/catalog/?q=shoes与/api/product/?id=6045均返回200，产品ID7721490300、USD45.45和cnfanshp图片来源正确。无新数据库或后台。
+- HTTP到HTTPS跳转已通过Worker单元验证；本次终端HTTP外网请求受网络影响未完成，HTTPS正式访问与www跳转已在线验证。
+- 下文为各阶段历史记录，旧的未绑定/未合并状态均由本节取代。
 
 ## 2026-10-20：公开临时预览部署
 
