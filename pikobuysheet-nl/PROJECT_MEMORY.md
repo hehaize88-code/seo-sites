@@ -5,7 +5,11 @@
 - 用户已明确允许通过当前Chrome发布Pikobuy公开临时预览；授权仅针对本项目，正式域名绑定仍待后续。
 - 已在现有Cloudflare账户创建Worker pikobuysheet-nl，连接 hehaize88-code/seo-sites 的 codex/pikobuysheet-nl 分支，根目录 pikobuysheet-nl，构建 npm run build，部署 npx wrangler deploy，NODE_VERSION=24。
 - 仅监听 pikobuysheet-nl/** 的变更；复用已存在的Workers Builds凭据，没有创建新凭据。
-- 正在首次构建，尚未通过公开访问检查。预览设置采用workers.dev，正式域名仍为pikobuysheet.nl；不混用既有pikobuysheet.cc或pikobuysheet-preview项目。
+- 公开预览已发布并在当前Chrome实际打开：https://pikobuysheet-nl.hehaize88.workers.dev 。首次构建030896c6-9a37-4c87-8255-30c65f3955c0成功，代码提交9da8f29f92ea5c1807a05e5fb6922507e7b42776。
+- 已验证：首页与真实商品图片、20件商品列表、shoes搜索、全结果价格升序及第2页、商品详情与真实微店7721490300购买链接、10篇文章目录及独立正文、文章语言切换保留路径。
+- 标题换行时行间空隙可能漏点，文章卡片标题链接改为块级，使整个标题区域可点击；本次提交触发后续构建。
+- workers_dev=true、preview_urls=false；独立预览不混用既有pikobuysheet.cc或pikobuysheet-preview项目。正式域名pikobuysheet.nl仍未绑定，DNS与main未改。
+- 下文2026-10-19访问限制仅作历史记录，以本段已验证的workers.dev公开预览为准。
 
 更新：2026-10-19。本轮内容与移动端更新已通过完整构建及全页面检查。
 
@@ -14,7 +18,7 @@
 - 新页面范围为每语17条路由，共408页；首页4篇文章及24条折叠FAQ。文章与FAQ在顶部导航有独立入口。
 - 10篇文章覆盖选品、服装尺码、原始链接、QC测量、整体预算、包裹体积、鞋码、包袋尺寸、仓库退货及物流停更。英文每篇约780–850词，翻译保留完整134段正文、10张表和数值示例，不声称实际测试或保证运费/时效。
 - 所有语言采用相同英文slug、对应canonical/hreflang与完整站点地图。FAQPage仅在独立FAQ页输出；Google已于2026-05停止FAQ富媒体结果，不承诺搜索特殊展示或排名。
-- 用户截图确认 chatgpt.site 预览被访问拦截；不能再声称用户可正常打开。Cloudflare连接当前需重新授权，替代预览尚未开通。
+- 用户截图确认 chatgpt.site 预览被访问拦截；不能再声称用户可正常打开。原Cloudflare专用连接失效；2026-10-20获授权后已通过Chrome建立替代公开预览。
 - 手机端已修改共享布局和各页面类型；文章表格变纵向卡片，目录默认折叠，首页装饰商品区收起，真实商品列表保留。
 - 源数据契约检查已通过；本地窄屏检查覆盖首页、清单、指南、QC、运输、FAQ、文章目录及文章正文，320px/390px下没有横向溢出。已通过Astro构建及check:editorial：24语完整性、408个页面、全部正文、导航、canonical/hreflang、sitemap、结构化数据、真实商品快照及压缩Worker响应均通过。
 
@@ -32,6 +36,6 @@
 - 本地浏览器预览能加载 UI，但该预览服务读取外站出现网络错误；构建容器直接读取成功。不能把本地浏览器中的接口成功当作已验证。
 - 预览地址：https://pikobuysheet-nl.hehaize88.chatgpt.site（owner-private），但用户无法打开。
 - 标准 Worker 包已检查：首页、英文指南、图标、关键词目录和商品详情均返回 200；真实微店 ID 映射通过。
-- 用户与自动化浏览器访问预览域名均被Cloudflare拦截。线上预览可访问性仍未解决；不得把部署成功写成用户能打开。Cloudflare连接失效；浏览器替代发布须遵循Browser技能的连接失败确认规则。
+- 用户与自动化浏览器访问预览域名均被Cloudflare拦截。此为2026-10-19原预览的历史问题；2026-10-20公开workers.dev预览已实际打开并核验数据，用户授权已取得。
 - GitHub 源码已准备在 codex/pikobuysheet-nl 分支，正式域名和 main 分支不自动变更。
 - 后续继续使用草稿PR https://github.com/hehaize88-code/seo-sites/pull/9；不要新建重复站点或重复PR。发布版本及访问阻塞详情同时记入用户项目记忆文件。

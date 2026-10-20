@@ -24,3 +24,6 @@
 @media(max-width:380px){.brand>span{display:none}.brand img{width:100px;height:24px}.header-actions{max-width:65%}.hero h1{font-size:38px}.editorial-heading h1{font-size:27px}}
 .article-toc ol{list-style:none;padding-left:0}
 @media(max-width:380px){.header-actions{gap:5px}.language-control select{width:55px}.signup{max-width:100px}}
+
+/* Keep wrapped article titles clickable across their full heading area. */
+.article-card :is(h2,h3) a{display:block}
