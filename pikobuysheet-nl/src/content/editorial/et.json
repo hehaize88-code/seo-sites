@@ -14,7 +14,7 @@
     "related": "Seotud artiklid",
     "allArticles": "Kõik artiklid",
     "latestArticles": "Uusimad artiklid",
-    "articleCount": "10 praktilist juhendit",
+    "articleCount": "13 praktilist juhendit",
     "sourceLink": "Ametlik allikas"
   },
   "faq": [
@@ -304,7 +304,8 @@
       "related": [
         "spreadsheet",
         "articles/pikobuy-product-links",
-        "articles/pikobuy-haul-budget"
+        "articles/pikobuy-haul-budget",
+        "articles/pikobuy-parcel-consolidation"
       ]
     },
     {
@@ -409,7 +410,8 @@
       "related": [
         "spreadsheet",
         "articles/pikobuy-qc-measurements",
-        "articles/pikobuy-shoe-sizing"
+        "articles/pikobuy-shoe-sizing",
+        "articles/pikobuy-parcel-consolidation"
       ]
     },
     {
@@ -515,7 +517,8 @@
       "related": [
         "guide",
         "articles/pikobuy-spreadsheet-checklist",
-        "faq"
+        "faq",
+        "articles/pikobuy-parcel-consolidation"
       ]
     },
     {
@@ -602,6 +605,14 @@
             "Pöördu tagasi algse küsimuse juurde ja vali järgmine samm. Tõend võib toetada jätkamist, jätta konkreetse küsimuse lahendamata või anda põhjuse tagastust arutada. Salvesta vastus tellimuse kirje juurde ning märgi, milline mõõt või nähtav detail otsust mõjutas.",
             "Kui probleem jääb, kontrolli kohe tellimuse olekut ja kehtivaid tagastustingimusi. Ära kogu dekoratiivseid vaatenurki ajal, kui tegutsemist vajav erinevus jääb teatamata. Kirje peaks probleemi lihtsalt selgitama: mida kavatsesid saada, mida foto näitab ja millist lahendust soovid. Märgi ebakindlad tähelepanekud ebakindlaks."
           ]
+        },
+        {
+          "id": "approve-or-ask",
+          "heading": "8. Muuda mõõtmine selgeks otsuseks",
+          "paragraphs": [
+            "Võrdle fotol olevat mõõtu sihtmõõduga samade otspunktide ja ühikutega. Kui lint ei alga nullist, rõivas on volditud või otspunktid peidus, küsi selgemat mõõtmist täpsena näiva numbri aktsepteerimise asemel. Märgi, kas allesjäänud ebakindlus muudaks suurusevalikut.",
+            "Kiida heaks alles siis, kui tõend vastab olulisele küsimusele. Muidu küsi puuduv detail või kontrolli kiiresti tagastusvalikuid. Hoia originaalpakend otsustamise ajal alles ja lõpeta otsus enne ühispakki lisamist. Foto tõendab seda tellimust, mitte tulevaste ostude universaalset suurustabelit."
+          ]
         }
       ],
       "sourceIds": [
@@ -612,8 +623,10 @@
       "related": [
         "qc",
         "articles/pikobuy-clothing-size-chart",
-        "articles/pikobuy-warehouse-returns"
-      ]
+        "articles/pikobuy-warehouse-returns",
+        "articles/pikobuy-parcel-consolidation"
+      ],
+      "updated": "2026-10-29"
     },
     {
       "slug": "pikobuy-haul-budget",
@@ -735,7 +748,8 @@
       "related": [
         "shipping",
         "articles/pikobuy-parcel-weight-dimensions",
-        "articles/pikobuy-spreadsheet-checklist"
+        "articles/pikobuy-spreadsheet-checklist",
+        "articles/pikobuy-shipping-calculator"
       ]
     },
     {
@@ -831,7 +845,8 @@
       "related": [
         "shipping",
         "articles/pikobuy-haul-budget",
-        "articles/pikobuy-warehouse-returns"
+        "articles/pikobuy-warehouse-returns",
+        "articles/pikobuy-shipping-calculator"
       ]
     },
     {
@@ -937,7 +952,8 @@
       "related": [
         "spreadsheet",
         "articles/pikobuy-qc-measurements",
-        "articles/pikobuy-parcel-weight-dimensions"
+        "articles/pikobuy-parcel-weight-dimensions",
+        "articles/pikobuy-parcel-consolidation"
       ]
     },
     {
@@ -1039,7 +1055,8 @@
       "related": [
         "spreadsheet",
         "articles/pikobuy-qc-measurements",
-        "articles/pikobuy-parcel-weight-dimensions"
+        "articles/pikobuy-parcel-weight-dimensions",
+        "articles/pikobuy-parcel-consolidation"
       ]
     },
     {
@@ -1132,6 +1149,14 @@
             "Hoia lühikest ajajoont taotlusest, kinnitustest, lisatõenditest ja otsustest. Vasta vajadusel olemasolevas juhtumis, et kontekst püsiks koos. Kui tugi küsib puuduvat detaili, vasta sellele otse, selle asemel et kogu ostu uuesti kirjeldada.",
             "Enne sammu lubamist kontrolli, et see puudutab õiget eset ja sinu mõistetud lahendust. Säilita kinnitus, mis on aktsepteeritud ja mis veel ootel. Esitatud taotlus, müüja vastus ja lõpetatud tagasimakse on eri sündmused. Nende eraldi märkimine aitab tulemust jälgida, pidamata edenemist lõpetamiseks."
           ]
+        },
+        {
+          "id": "before-consolidation",
+          "heading": "8. Lahenda tagastused enne ühendamist",
+          "paragraphs": [
+            "Hoia lahendamata tagastustaotlusega ese valmisloendist eraldi. Märgi laooleku ajatempel, probleem, fotod ja soovitud lahendus. Kontrolli kehtivaid tingimusi ja tellimuse tähtaega; teise müüja eseme ootamine ei tähenda pikendust.",
+            "Enne pakendi eemaldamist või rahvusvahelist lähetamist kinnita, kas ese on saatmiseks heaks kiidetud või ootab müüja otsust. Säilita sildid, plommid ja vajalik pakend sobivuse hindamise ajal. Küsi ametlikult toelt täpseid kulusid, mitte ära eelda tasuta tagastust või üldnäite sobivust oma juhtumile."
+          ]
         }
       ],
       "sourceIds": [
@@ -1141,8 +1166,10 @@
       "related": [
         "qc",
         "articles/pikobuy-qc-measurements",
-        "articles/pikobuy-haul-budget"
-      ]
+        "articles/pikobuy-haul-budget",
+        "articles/pikobuy-parcel-consolidation"
+      ],
+      "updated": "2026-10-29"
     },
     {
       "slug": "pikobuy-tracking-not-updating",
@@ -1238,6 +1265,14 @@
             "Uuenda logi sisulise sündmuse saabumisel ning ära tõlgenda sama lehe korduvat kontrollimist uue tõendina. Säilita juhised või vastused, mis muudavad oodatavat järgmist tegevust. Kui sinu juhtumile antakse tähtaeg või eskaleerimissamm, märgi see selgesõnaliselt.",
             "Paki saabudes võrdle sisu esemeloendi ja säilitatud kontrollikirjega. Hoia asjakohane pakend ja sildid alles, kuni võimalik erinevus selgub. Jälgimise lõpetamine ja rahuldav sisukontroll on eri tähelepanekud. Selge kirje aitab selgitada kas tarne- või esemeprobleemi neid omavahel segamata."
           ]
+        },
+        {
+          "id": "quick-triage",
+          "heading": "8. Kiirhindamine: seo lünk järgmise tegevusega",
+          "paragraphs": [
+            "Lähetuskirje puudub: kontrolli kontol paki vormistamist ja veomakset. Lähetamine on kirjas, kuid jälgimist pole pärast juhendi aega: palu Pikobuyl üleandmine kinnitada. Vedajasündmus on olemas, kuid ei muutu: säilita täpne sõnastus ja ajatempel ning kontrolli teenuse praeguseid juhiseid. Tarneerand nõuab tegevust: kinnita päring platvormi või vedaja ehtsas kanalis.",
+            "Lisa ühte tugipäringusse pakiviide, tegelik lähetuskuupäev ja viimane kinnitatud sündmus. Ära alusta ajakava tooteostust ega tõlgenda kolme päeva tarnegarantiina. Mitme tellimusega paki rahvusvaheliseks jälgimiseks kasuta ühispaki viidet."
+          ]
         }
       ],
       "sourceIds": [
@@ -1247,8 +1282,506 @@
       "related": [
         "shipping",
         "guide",
-        "faq"
-      ]
+        "faq",
+        "articles/pikobuy-shipping-calculator"
+      ],
+      "updated": "2026-10-29"
+    },
+    {
+      "slug": "pikobuy-shipping-calculator",
+      "title": "Pikobuy tarnekalkulaator: arvuta kogu paki maksumus",
+      "description": "Kasuta Pikobuy tarnekalkulaatoris õiget kaalu, mõõte ja sihtkohta. Võrdle pakkumisi ning erista veokulu kogu tellimuse eelarvest.",
+      "intro": "Kasulik tarnehinnang algab määratletud pakist, mitte üksnes tootehinnast või oletatud kilogrammidest. Pane kirja sihtkoht, saadetavad esemed ja vajalik pakend. Seejärel võrdle ametliku kalkulaatori tegelikke valikuid. See juhend annab korduvkasutatava võrdluspõhja, kus hinnangut ei käsitleta lõpliku arvena.",
+      "sections": [
+        {
+          "id": "prepare-inputs",
+          "heading": "1. Valmista ette hinnangut mõjutavad andmed",
+          "paragraphs": [
+            "Ametlik kalkulaator küsib sihtkohta, tootetüüpi, kaalu kilogrammides ning pikkust, laiust ja kõrgust sentimeetrites. Kogu väärtused ühte kohta, märgi mõõdetud või hinnangulised andmed ning lisa kuupäev. Enne lattu saabumist võib müüja tootekaal jätta välja müügipakendi, polstri ja väliskasti. Kasuta seda planeerimiseks, mitte kinnitatud saadetisekaaluna.",
+            "Kasuta tegelikku tarnekohta. Veebilehe keel ei vali saajariiki ning teise ostja pakkumine võib põhineda muudel sisenditel. Kontrolli, kuidas saadaval olevad tootetüübid kirjeldavad segapaki sisu. Kui aku, vedelik, habras osa või muu eriline ese ei sobitu selgelt, küsi Pikobuylt õiget kategooriat ja veotingimusi, enne kui tulemusele tugined."
+          ]
+        },
+        {
+          "id": "separate-costs",
+          "heading": "2. Erista veokulu kogu tellimuse eelarvest",
+          "paragraphs": [
+            "Kirjuta tootemakse ja hilisem rahvusvahelise veo makse eri ridadele. Lisa kinnitatud Hiina-sisene tarne, valikuline käsitlus, makse valuutavahetus ja sihtkoha tasud eraldi kirjetena. Ära lisa tasu ainult teise ostja mainimise põhjal; märgi see kinnitamata kuluks, kuni saad oma tellimuse kohta tõendi. Ka tühi lahter tähendab teadmata kulu, mitte tasuta teenust.",
+            "Kataloog näitab ligikaudseid tootehindu USA dollarites. Tootekaardi hind ei ole rahvusvahelise veo pakkumine. Säilita iga tegeliku makse valuuta ja võrdle summasid ühes valuutas sulle kehtiva kursi ja maksetasuga. Ka soodne tootehind võib jätta valmis paki saatmiseks liiga vähe raha. Määra kogu ostu suurim eelarve enne toodete arvu valimist."
+          ]
+        },
+        {
+          "id": "measure-parcel",
+          "heading": "3. Kasuta pakitud saadetise mõõte, mitte oletatud veoreeglit",
+          "paragraphs": [
+            "Mõõda või küsi välispakendi pikkus, laius ja kõrgus pärast pakendi valikut. Märgi tegelik kaal eraldi. Ära eelda, et kerge, kuid mahukas pakk hinnastatakse ainult kaalunumbri järgi. Pikobuy juhendi järgi erinevad veoviiside arvestusmeetodid; loe võrreldava valiku meetodit. See artikkel ei määra kõigile marsruutidele ühist mahukaalu jagajat.",
+            "Puhta arvutusnäitena on 40 × 30 × 20 cm kasti maht 24 000 kuupsentimeetrit. Kõrguse vähendamisel 15 sentimeetrile saab mahuks 18 000 kuupsentimeetrit. See näitab mahu muutust, mitte lubatud hinnalangust. Marsruut, selle arvestusastmed, kaitsepakend ja lõplikud mõõdud määravad, kas pakkumine muutub. Ära eemalda vajalikku kaitset lihtsalt väiksema näite jäljendamiseks."
+          ]
+        },
+        {
+          "id": "compare-like-for-like",
+          "heading": "4. Võrdle kaht valikut sama pakiga",
+          "paragraphs": [
+            "Hoia sihtkoht, sisu ja mõõdud samad. Märgi veoviisi täpne nimi ja iga tulemuse saamise aeg. Kergema paki teine pakkumine ei tõenda selle veoviisi odavust. Säilita pakendi muutmisel vanad sisendid, et selgitada hinnaerinevust, mitte omistada seda automaatselt uuele tariifile.",
+            "Kasuta allolevat põhja iga kandidaadi jaoks. Kopeeri tegelikult näidatud tingimused ja küsi puuduvat infot enne maksmist. Puuduv veoaeg või ebaselgelt sisalduv teenus vajab selgitamist. Kui pakutakse kindlustust, käsitlust või muid lisasid, võrdle kogusummat samade valikutega. Odavaim algushind ei pruugi katta kogu soovitud teenust."
+          ],
+          "table": {
+            "headers": [
+              "Kirje",
+              "Valik A",
+              "Valik B"
+            ],
+            "rows": [
+              [
+                "Sihtkoht ja sisu",
+                "Kasuta samu sisendeid",
+                "Kasuta samu sisendeid"
+              ],
+              [
+                "Pakitud kaal ja mõõdud",
+                "Märgi mõõdetud või hinnanguline",
+                "Märgi mõõdetud või hinnanguline"
+              ],
+              [
+                "Veoviis ja arvestusmeetod",
+                "Kopeeri nähtavad tingimused",
+                "Kopeeri nähtavad tingimused"
+              ],
+              [
+                "Koguhind ja teenused",
+                "Märgi valuuta ja välistused",
+                "Märgi valuuta ja välistused"
+              ],
+              [
+                "Hinnangu aeg ja avatud küsimused",
+                "Hoia pakkumisega koos",
+                "Hoia pakkumisega koos"
+              ]
+            ]
+          }
+        },
+        {
+          "id": "test-packaging",
+          "heading": "5. Võrdle pakendivalikuid säästu eeldamata",
+          "paragraphs": [
+            "Koosta üks variant vajaliku pakendiga ja teine ainult siis, kui praktiline alternatiiv on saadaval. Jalatsite puhul erista originaalkarbi alleshoidmist jalatsite kaitsmisest. Habraste esemete juures määra hädavajalik kaitse. Rõivaste puhul kontrolli, kas mõõdud kirjeldavad lahtiselt kogutud esemeid või laos tegelikult ettevalmistatavat pakki. Need erinevused peavad märkmetes nähtavad olema.",
+            "Küsi kinnitust enne pöördumatut pakendimuutust. Sildid, plommid ja originaalpakend võivad mõjutada tagastusõigust, seega lahenda kontrolli- ja tagastusküsimused enne. Väiksem pakk pole tingimata parem, kui eset on raskem kaitsta või tagastada. Kirjuta üles nii soovitud muudatus kui ka kinnitatud tulemus; ära asenda mõõdetud väärtust loodetud numbriga."
+          ]
+        },
+        {
+          "id": "reconcile-final-quote",
+          "heading": "6. Võrdle hinnangut lõpliku pakipakkumisega",
+          "paragraphs": [
+            "Enne rahvusvahelise veo eest maksmist võrdle lõplikku pakikirjet oma põhjal olevaga. Kontrolli esemeloendit, sihtkohta, veoviisi, pakitud kaalu, mõõte ja valitud teenuseid. Erineva summa korral tuvasta muutunud sisend või tasu. Varasem kuvatõmmis aitab eristada uut mõõtmist kogemata valitud lisast. Küsi kulude jaotust, kui erinevus jääb selgusetuks.",
+            "Hoia pakkumine, maksekinnitus ja pakiviide koos. Need vastavad eri küsimustele: pakkumine kirjeldab teenust, maksekirje näitab tasutud summat ja pakikirje seob saadetise sisuga. Edukas tootemakse ei tõenda rahvusvahelise veo eest tasumist. Järgi konto tegelikku töövoogu, mitte ära käsitle kõiki tehinguid ühe tellimussummana."
+          ]
+        },
+        {
+          "id": "handle-missing-data",
+          "heading": "7. Kui kalkulaator ei anna kasulikku tulemust",
+          "paragraphs": [
+            "Kontrolli esmalt ühikuid, sihtkohta ja tootekategooriat. Puuduv valik ei tähenda iseenesest, et eset ei saa kunagi saata, ega õigusta vale kategooria valimist pakkumise saamiseks. Salvesta sisendid ning küsi ametlikult toelt, kas sisu ja mõõdud sobivad mõne praeguse teenusega. Ära osta lisatooteid üksnes kellegi soovitatud pakisuuruse saavutamiseks.",
+            "Kui ootad lao mõõte, hoia planeerimismärkmetes võimalike eelarvete vahemikku ja märgi oletused. Ära avalda üht esialgset tulemust Pikobuy standardse tarnehinnana. Puuduva info saabudes asenda oletus ja võrdle uuesti. Nii on otsus jälgitav ilma väljamõeldud hindade, kindla säästu või tarnekuupäevadeta."
+          ]
+        },
+        {
+          "id": "before-payment",
+          "heading": "8. Lõpeta lühikese otsusekirjega",
+          "paragraphs": [
+            "Lõplik märge peaks näitama kaasatud esemeid, lahendatud kontrolliküsimusi, heakskiidetud pakendit ja veoviisi sobivuse põhjust. Lisa kogusumma ja teadaolevalt välja jäetud tasud. Kui teadmata kulu võib eelarve ületada, selgita see enne järgmist makset.",
+            "Segatellimuse lõpetamiseks kasuta pakkide ühendamise juhendit. Sihtkoha planeerimiseks sobib Euroopa tarne kontrollnimekiri. Pärast lähetamist kasuta jälgimisjuhendit, mitte kalkulaatorit edenemise tõendina. Hindamine, ostmine, kontroll ja jälgimine on seotud, kuid igaüks vajab oma tõendeid."
+          ]
+        },
+        {
+          "id": "worked-comparison",
+          "heading": "9. Võrdlusnäide: muuda korraga üht oletust",
+          "paragraphs": [
+            "Ostja soovib saata kaks paari jalatseid ja dressipluusi. Enne lattu saabumist on olemas ainult kuulutuste tootekaalu andmed, mitte pakitud mõõdud. Esimeses põhjas on kaal ja suurus seetõttu hinnangulised. Pärast QC-d otsustab ostja säilitada ühe kingakarbi ning küsib teise paari sobiva pakendi kohta. Hinda selles etapis ei eeldata.",
+            "Kui ladu annab valmis paki mõõdud, sisestab ostja need ametlikku kalkulaatorisse ja salvestab valikud. Kui pakkumine ületab eelarvet, uurib ta, kas teine lubatud koosseis muudab kogukulu. Võrdlus kasutab sama sihtkohta ja samu teenuseoletusi. Näide kirjeldab meetodit, mitte tegelikku tellimust, tariifi või säästu. Enne uue tulemuse kinnitamist tuvasta muutunud sisend."
+          ]
+        }
+      ],
+      "sourceIds": [
+        "official-estimate",
+        "official-guide",
+        "official-returns"
+      ],
+      "related": [
+        "shipping",
+        "articles/pikobuy-parcel-weight-dimensions",
+        "articles/pikobuy-haul-budget",
+        "articles/pikobuy-parcel-consolidation"
+      ],
+      "published": "2026-10-29",
+      "updated": "2026-10-29"
+    },
+    {
+      "slug": "pikobuy-shipping-europe",
+      "title": "Pikobuy tarne Euroopasse: sihtkoha ja kohaletoimetamise kontrollnimekiri",
+      "description": "Planeeri Pikobuy tarne Hollandisse, Saksamaale ja mujale Euroopasse: kontrolli veovalikuid, aadressi, pakikulusid ja jälgimise etappe.",
+      "intro": "Euroopa tarne kavandamine nõuab pakkumist sinu tegeliku tarneriigi ja paki jaoks. Hollandi-, saksa- või ingliskeelne juhend ei määra, millised veovalikud on kontol täna saadaval. Kasuta nimekirja õigete sisendite ettevalmistamiseks, Pikobuy valikute võrdlemiseks ja dokumentide hoidmiseks lao heakskiidust kättesaamiseni.",
+      "sections": [
+        {
+          "id": "choose-destination",
+          "heading": "1. Alusta tarneriigist, mitte veebilehe keelest",
+          "paragraphs": [
+            "Vali ametlikus tarnekalkulaatoris riik, kuhu pakk toimetatakse. Hollandisse telliv ostja peab valima selle sihtkoha ka ingliskeelset juhendit lugedes. Sama põhimõte kehtib Saksamaa, Prantsusmaa, Hispaania ja teiste riikide puhul. Keeled aitavad juhendit lugeda; need ei tähenda eraldi veolepinguid ega lubadust, et iga marsruut teenindab kõiki sihtkohti.",
+            "Pane kirja postiindeks ja tegeliku paki vormistamiseks vajalikud sihtkohaandmed. Kontrolli päris vormis kirjapilti, maja või hoone numbrit, vajaduse korral korterit ning saaja kontaktandmeid. Riigi valimise võimalus ei tähenda, et kalkulaator kontrollis täielikku aadressi. Selgita ebatavaline aadressivorm või tarnepiirang platvormi kaudu enne lähetamist."
+          ]
+        },
+        {
+          "id": "define-contents",
+          "heading": "2. Määra sisu enne Euroopa veovalikute võrdlust",
+          "paragraphs": [
+            "Loetle kõik saadetavad esemed ja lahenda esmalt laokontrolli küsimused. Hoia valitud suurus, värv ja kogus eseviite kõrval, et pakk koosneks heakskiidetud kaupadest. Üks müüja vastust ootav toode võib muuta kogu paki vormistamise aega. Puudulikule loendile toetuv tarneplaan muutub sisu muutumisel ebausaldusväärseks.",
+            "Kirjelda erisisu õigesti, kui küsid lubatavuse kohta. Ära järelda aku, vedeliku või hapra eseme lubatavust marsruudi nimest ega teise inimese õnnestunud tarnest. Piirangud ja käitlemine sõltuvad tegelikust teenusest ja sisust. Küsi, milline praegune valik sinu paki vastu võtab, ja hoia vastus hinnanguga koos. Soodne pakkumine aitab ainult juhul, kui pakk saab teenust õiguspäraselt kasutada."
+          ]
+        },
+        {
+          "id": "compare-route-records",
+          "heading": "3. Võrdle sinu sihtkohale kuvatud teenuseid",
+          "paragraphs": [
+            "Salvesta iga valiku nimi, hind, valuuta, arvestusviis ja võimalik veoaeg. Hoia võrdluse ajal kaal ja mõõdud muutumatuna. Ametlik juhend ütleb, et ajad ja arvestus võivad erineda, kuid ei määra üht kõigile parimat Euroopa marsruuti. Vali oma paki ja vajaduste jaoks praegu kuvatud võimaluste seast.",
+            "Küsi teenuse ulatust, kui sõnastus on ebaselge. Marsruudi nimi ei tõenda üksi kõiki tasusid, käitlemisetappe ega tarnegarantiisid. Ära asenda kontol olevat pakkumist sotsiaalmeedia hinnakirjaga. Kui kaks tulemust kasutavad erinevat pakendit või lisateenuseid, näita erinevused välja enne summade võrdlust. Lisa kuvatõmmistele kuupäev, et vana pakkumist ei peetaks praeguseks."
+          ]
+        },
+        {
+          "id": "budget-destination",
+          "heading": "4. Arvesta kuvatud veohinnast väljapoole jäävate kuludega",
+          "paragraphs": [
+            "Eralda plaanis tootehind, Hiina-sisene tarne, rahvusvaheline vedu, lisateenused ja võimalikud sihtkoha tasud. Ära eelda, et veohind on iga piiriülese tellimuse lõplik makstav summa. Ära lisa ka suvalist protsenti ega teise sihtkoha tasu. Märgi, mida valitud teenus tegelikult hõlmab ja mis vajab kinnitamist.",
+            "Kontrolli tolli, maksude, deklaratsioonide ja kohalike nõuete ajakohaseid reegleid täpse sihtkoha ning valitud teenuse tingimuste järgi. See nimekiri ei anna maksupiiri, maksumäära ega õiguslikku erandit. Kasuta nõutud vormides õiget sisu ja väärtust; marsruudi nimi või teise ostja mitteametlik kirjeldus ei asenda nõudeid. Küsi selgitust, kui platvormi sõnastus jätab olulise kulu teadmata."
+          ]
+        },
+        {
+          "id": "plan-timeline",
+          "heading": "5. Koosta ajakava eraldi verstapostidest",
+          "paragraphs": [
+            "Kogu ooteaeg võib hõlmata müüja täitmist, sisetarnet lattu, kontrolli, parandust või tagastusotsust, pakendamist ja rahvusvahelist vedu. Hoia need etapid märkmetes eraldi. Rahvusvaheline veoaeg ei hõlma automaatselt müüja või sinu heakskiidu ootamist. Tähtajaga ostu puhul hinda kogu ahelat, mitte ainult vedaja osa.",
+            "Pikobuy juhendi jälgimisinfo ootus algab lähetamisest. See ei ole kolmepäevase kohaletoimetamise lubadus ega alga tootemaksest. Märgi tegelik lähetamissündmus ja jälgi selle paki viidet. Ebaselge etapi korral küsi, mis on lõpetatud ja milline tegevus veel puudub, selle asemel et järeldada edenemist tooteostu vanusest."
+          ]
+        },
+        {
+          "id": "destination-worksheet",
+          "heading": "6. Kasuta igale sihtkohale ja pakile eraldi põhja",
+          "paragraphs": [
+            "Eraldi põhi väldib eri saajate või tellimuste andmete segunemist. Allolevad väljad sobivad Hollandisse, Saksamaale ja muudesse sihtkohtadesse, eeldamata samu marsruute või tasusid. Need on planeerimispõhi, mitte kontrollitud pakkumised või riikide tarneaegade tabel. Täida need oma värskete dokumentide järgi.",
+            "Sihtkoha, esemeloendi või pakendi muutmisel loo uus võrdlus. Säilita eelmine versioon, et mõista summa või teenusevaliku muutust. See on eriti kasulik sõprade pakkumiste jagamisel: võrdle esmalt sisendeid ja alles siis näite asjakohasust. Riigi nimi üksi pole täielik pakikirjeldus."
+          ],
+          "table": {
+            "headers": [
+              "Planeerimisväli",
+              "Säilitatav info"
+            ],
+            "rows": [
+              [
+                "Sihtkoht ja saaja",
+                "Riik ning kontrollitud aadress"
+              ],
+              [
+                "Heakskiidetud sisu",
+                "Esemeviited, variandid ja kogused"
+              ],
+              [
+                "Pakimõõdud",
+                "Pakitud kaal ja kolm välismõõtu"
+              ],
+              [
+                "Valitud teenus",
+                "Praegune veoviis, summa, sisu ja avatud küsimused"
+              ],
+              [
+                "Lähetamine ja jälgimine",
+                "Pakiviide, lähetuskirje ja viimane kinnitatud sündmus"
+              ]
+            ]
+          }
+        },
+        {
+          "id": "last-mile",
+          "heading": "7. Jälgi üleandmist ja viimast tarneetappi",
+          "paragraphs": [
+            "Loe pärast lähetamist kogu jälgimissündmust, ajatemplit ja allikat. Elektroonilised saadetiseandmed ei võrdu vedaja füüsilise vastuvõtuskanniga. Kui kirje annab kohaletoimetamispartneri või teise jälgimisviite, kasuta tegelikult antud infot. Ära arva kohalikku vedajat sihtriigi järgi ega eelda kõigile marsruutidele sama teadete järjestust.",
+            "Tarneerandi korral kontrolli soovitud tegevust platvormi või vedaja ehtsast kanalist. Kinnita aadress, järeletulemise nõue või muu juhis ainult kontrollitud kanaliga. Hoia alles täpne sõnum ja vastus. Jälgimispaus ei tõenda iseenesest kaotsiminekut ning hinnanguline kuupäev ei tõenda saabumist. Kasuta tõrkeotsinguartiklit, kui info enam ei muutu."
+          ]
+        },
+        {
+          "id": "receive-parcel",
+          "heading": "8. Lõpeta kontroll paki saabumisel",
+          "paragraphs": [
+            "Võrdle saadud sisu heakskiidetud nimekirja ja salvestatud kontrollifotodega. Hoia saatesilt, pakend ja vajalikud andmed alles, kuni puuduva või kahjustatud eseme küsimus laheneb. Kohale toimetatud olek vastab veoküsimusele, kuid ei kinnita iseenesest sisu või seisundit. Dokumenteeri konkreetne erinevus kiiresti ametlikule toele, mitte ära ühenda mitut seosetut kaebust.",
+            "Vaata järgmise tellimuse eel üle muutunud oletused: pakendi suurus, teenuse valik, müüja ooteaeg või ootamatu tasu. Paranda oma planeerimist, kuid ära muuda ühe paki kogemust üldiseks tarnegarantiiks. Värsked sihtkohaandmed, heakskiidetud esemed ja tõendatud ajakava lihtsustavad järgmist võrdlust ilma aluseta lubadusteta."
+          ]
+        },
+        {
+          "id": "worked-timeline",
+          "heading": "9. Ajakava näide: erista müüja viivitusest vedu",
+          "paragraphs": [
+            "Kujutame tellimust Hollandisse. Üks rõivaese on lattu jõudnud ja ostja kontrolli läbinud, kuid teine ootab müüja teadet. Ostja ei ole veel rahvusvahelist pakki vormistanud. Isegi kalkulaatori kuvatud veoaeg ei määra, millal pooleliolev tellimus saaja aadressile jõuab.",
+            "Ostja märgib esimese eseme hoiutingimused ja tähtajad, küsib teise kohta ning võrdleb ootamist ainult heakskiidetud eseme saatmisega. Pärast lõpliku paki vormistamist ja lähetamise registreerimist algab rahvusvaheline ajakava pakiviite alusel. Kui hilisem vedajasündmus peatub, puudutab tugiküsimus seda sündmust, mitte varasemat müüjaviivitust. See on planeerimisnäide, mitte avaldatud tarnegraafik. Eraldi verstapostid täpsustavad nii otsust kui ka tugipäringut."
+          ]
+        }
+      ],
+      "sourceIds": [
+        "official-estimate",
+        "official-guide",
+        "official-terms",
+        "official-contact"
+      ],
+      "related": [
+        "shipping",
+        "articles/pikobuy-shipping-calculator",
+        "articles/pikobuy-tracking-not-updating",
+        "articles/pikobuy-parcel-consolidation"
+      ],
+      "published": "2026-10-29",
+      "updated": "2026-10-29"
+    },
+    {
+      "slug": "pikobuy-parcel-consolidation",
+      "title": "Pikobuy pakkide ühendamine: koonda tellimused pärast QC-d",
+      "description": "Ühenda Pikobuy laoesemed selge QC-, pakendi- ja kulunimekirja abil. Võrdle üht pakki eraldi saadetistega, eeldamata kindlat säästu.",
+      "intro": "Pikobuy sõnul saab eri müüjate esemed ühendada ühte pakki. Oluline on, kas sinu konkreetsed esemed on koos saatmiseks valmis, sobivalt pakitud ja arusaadava pakkumisega. Ühendamine peaks järgnema kontrolliotsustele. Juhend aitab koostada selge esemeloendi, võrrelda praktilisi pakendivalikuid ja kinnitada paki enne rahvusvahelise veo maksmist.",
+      "sections": [
+        {
+          "id": "build-item-list",
+          "heading": "1. Koosta esemeloend enne paki valimist",
+          "paragraphs": [
+            "Kirjuta iga eseme tellimusviide, toode, valitud suurus või värv, kogus ja laoolek. Erista vastu võetud esemeid müüja juures või sisetransiidis olevatest. Ühe tellimuse valmidus ei näita ülejäänute saabumist. Märgi välja jäetavad esemed, et vana soovinimekirja ei tõlgendataks lõpliku pakkimisjuhisena.",
+            "Säilita eri müüjate algsed tellimusviited ka pärast ühise pakinumbri saamist. Need aitavad selgitada puuduvat kogust, valet varianti või müüjapõhist probleemi. Üks rahvusvaheline saadetis ei kustuta eraldi ostuajalugu. Lõplik pakiloend peaks siduma iga eseme kirjega, mida päriselt kontrollisid."
+          ]
+        },
+        {
+          "id": "finish-qc",
+          "heading": "2. Lõpeta QC ja tagastusotsused esimesena",
+          "paragraphs": [
+            "Vaata saabunud esemete laotõendeid. Sobita viide, variant ja kogus enne nähtava seisundi ja tellitud mõõtude hindamist. Kataloogifoto ei tõenda sinu tellimuse seisundit. Kui pildid ei vasta tähtsale küsimusele, küsi Pikobuy kaudu vajalik detail ja kinnita võimalik tasu enne saatmise otsust.",
+            "Hoia lahendamata ese saatmisvalmis rühmast väljas. Tagastustingimustel on tähtajad ja sobivusnõuded, seega ei tohi teise müüja ootamine varjutada juba laos oleva eseme otsust. Säilita sildid, plommid ja pakend tagastatavuse selgitamise ajal. Ära luba nende eemaldamist üksnes ühendamise hinnangu saamiseks."
+          ]
+        },
+        {
+          "id": "choose-wait-or-send",
+          "heading": "3. Otsusta, kas teise eseme ootamine on kasulik",
+          "paragraphs": [
+            "Võrdle ootamise praktilisi tagajärgi heakskiidetud esemete kohe saatmisega. Märgi puuduv toode, selle kinnitatud olek ja laos olevate esemete tähtajad. Avalikud edasisaatmise tingimused ei sätesta kõigile ühist tasuta hoiuaega. Kontrolli oma esemete praeguseid tingimusi, mitte ära eelda mõne teise lehe kindlat tasuta päevade arvu.",
+            "Ootamine võib muuta paki koosseisu, kuid ei taga säästu ega lähetamiskuupäeva. Hiline ese võib muuta mõõte või lubatud veovalikuid. Tähtajalise ostu puhul arvesta kogu allesjäänud tegevusahelaga. Otsusta selgelt, milline tõend puudub, milline tähtaeg loeb ja mida teed, kui ese pole ikka valmis."
+          ]
+        },
+        {
+          "id": "specify-packaging",
+          "heading": "4. Anna täpsed pakendijuhised",
+          "paragraphs": [
+            "Määra iga eseme kaitsevajadus ja alleshoitav müügipakend. Jalatsid, pehmed rõivad ja haprad tarvikud ei vaja tingimata sama käsitlust. Karbi eemaldamist kaaludes nimeta ese ja kinnita esmalt kontrolli- või tagastusotsuse lõppemine. Väldi üldjuhist kogu pakend eemaldada, kui esemete vajadused erinevad.",
+            "Pikobuy ostujuhend mainib minimaalset ja tugevdatud pakendit. Kinnita oma paki valikud ning nende mõju hinnale või mõõtudele. Taotlus ei tõenda, et valmis pakk vastab oodatud mõõtudele. Küsi tegelikud pakitud mõõdud nende valmimisel ja võrdle varasema hinnangu numbritega."
+          ]
+        },
+        {
+          "id": "compare-configurations",
+          "heading": "5. Võrdle üht pakki realistlike alternatiividega",
+          "paragraphs": [
+            "Võrdle heakskiidetud ühispaki pakkumist nende eraldi pakkide koguhinnaga, mida päriselt saadaksid. Kasuta sama sihtkohta ja iga variandi selget sisuloendit. Lisa valitud pakend ja kinnitatud käsitlusteenused. Terve paki võrdlemine ainult poolega jaotatud saadetisest alahindab alternatiivi kulu.",
+            "Tabel on otsustamise põhi, mitte tõend, et jagamine või ühendamine on alati odavam. Täida see värskete mõõtude ja pakkumistega. Tulemus sõltub tegelikult lubatud veoviisidest ning nende arvestusest. Hoia muutumatud tootekulud eraldi: võrdlus peab näitama erinevusi, mitte lugema sama ostu kaks korda."
+          ],
+          "table": {
+            "headers": [
+              "Kontroll",
+              "Ühendatud pakk",
+              "Eraldi pakid"
+            ],
+            "rows": [
+              [
+                "Sisu",
+                "Kõik heakskiidetud esemed koos",
+                "Määra iga paki esemed"
+              ],
+              [
+                "Pakend",
+                "Kaitse ja säilitatavad karbid",
+                "Iga paki vajalik kaitse"
+              ],
+              [
+                "Mõõdud",
+                "Üks lõplik pakitud kaal ja suurus",
+                "Iga paki kaal ja suurus"
+              ],
+              [
+                "Veokulu võrdlus",
+                "Kogu pakkumissumma",
+                "Kõigi pakkumiste summa"
+              ],
+              [
+                "Avatud küsimused",
+                "Lubatavus ja selgitamata teenused",
+                "Iga paki lubatavus ja selgitamata teenused"
+              ]
+            ]
+          }
+        },
+        {
+          "id": "confirm-submission",
+          "heading": "6. Kinnita pakk enne maksmist",
+          "paragraphs": [
+            "Võrdle lõplikku esemeloendit ja koguseid oma märkmetega. Kontrolli aadressi, veoviisi, pakkimisjuhiseid ja summat enne vormistamist või maksmist. Ära eelda, et puuduv ese lisandub automaatselt sama konto tõttu. Lahenda ootamatu kaasatud eseme küsimus enne lähetamist. Selge kinnitus on lihtsam kui kavatsuse hilisem taastamine.",
+            "Hoia lõplik pakiviide üksikute tellimusviidete kõrval. Märgi platvormi kinnitused kaalu, mõõtude ja sisalduvate teenuste kohta. Kui summa muutub pärast pakkimist, võrdle varasema hinnanguga ja tuvasta muutunud sisend. Küsi seletamatu erinevuse kohta täpselt, mitte ära eelda esialgset hinnangut siduvaks lõpphinnaks."
+          ]
+        },
+        {
+          "id": "support-template",
+          "heading": "7. Esita toele küsimus, mille järgi saab tegutseda",
+          "paragraphs": [
+            "Kasulik päring määratleb esemed, soovitud tegevuse ja kinnitatava punkti. Näiteks palu kinnitada, kas loetletud laoesemed võivad jagada pakki valitud sihtkohta nimetatud pakendeid säilitades, ning küsida lõplikku kaalu, mõõte ja praeguseid veovalikuid. Asenda üldkirjeldus oma tegelike viidetega ametlikus kontokanalis.",
+            "Koosseisude võrdlemisel näita selgelt, milline loend kuulub millise variandi juurde. Kui vajad enne otsust fotot, täpsusta puuduv osa või mõõt. Ära jaga kontotunnuseid ega maksesaladusi sõnumites või avalikes kuvatõmmistes. See sõltumatu juhend ei näe eratellimusi ega anna laole sinu nimel korraldusi; kasuta Pikobuy ametlikku kontaktikanalit."
+          ]
+        },
+        {
+          "id": "check-delivery",
+          "heading": "8. Kontrolli lisaks jälgimisele ka sisu",
+          "paragraphs": [
+            "Jälgi rahvusvahelist pakki pärast lähetamist selle enda kirje abil. Müüja sisetarne number ei pruugi jälgida ühendatud saadetist. Säilita pakiloend ja kontrollitõendid kättesaamiseni. Võrdle saabumisel sisu ja koguseid loendiga, eriti eri müüjate esemete jagatud väliskasti puhul.",
+            "Dokumenteeri konkreetne puuduv või nähtavalt kahjustatud ese ning säilita sildid ja pakend toe poole pöördumise ajal. Erista esemeprobleemi tarneoleku probleemist. Märgi edasiseks planeerimiseks, kas ühendamine muutis mõõte, veovalikuid või vajalikku käsitlust. Paranda kontrollnimekirja, kuid ära käsitle üht tellimust üldise säästu tõendina."
+          ]
+        },
+        {
+          "id": "worked-item-list",
+          "heading": "9. Esemeloendi näide: hoia lahendamata ese eraldi",
+          "paragraphs": [
+            "Ostja on tellinud T-särgi, kingapaari ja väikese koti kolmelt müüjalt. T-särgi suurus ja seisund on kontrollitud. Jalatsid vajavad lisamõõtu ning kott pole lattu saabunud. Valmisloendis on ainult T-särk; teised ei tohi vaikimisi kaasneda üksnes seetõttu, et kõik osteti sama kavandatud saadetise jaoks.",
+            "Ostja tellib jalatsimõõdu, kontrollib koti viimast kinnitatud olekut ning märgib saabunud esemete hoiu- ja tagastustingimused. Piisava tõendi järel saab ta võrrelda heakskiidetud esemete pakki hilisema kotiga variandiga. Iga valik vajab oma tegelikku sisu ja mõõte. Näide ei soovita alati oodata või jagada. See näitab, miks täpne loend on kasulikum kui üldine juhis ühendada kõik kontol olev."
+          ]
+        }
+      ],
+      "sourceIds": [
+        "official-contact",
+        "official-guide",
+        "official-shipping",
+        "official-returns"
+      ],
+      "related": [
+        "qc",
+        "articles/pikobuy-warehouse-returns",
+        "articles/pikobuy-shipping-calculator",
+        "articles/pikobuy-tracking-not-updating"
+      ],
+      "published": "2026-10-29",
+      "updated": "2026-10-29"
     }
-  ]
+  ],
+  "growth": {
+    "homeTitle": "Pikobuy Spreadsheet: tootelingid, QC ja tarnejuhendid",
+    "homeDescription": "Sirvi Pikobuy jalatsi- ja rõivalinke. Võrdle USD-hindu, kontrolli suurust ja QC-d ning planeeri tarnet praktiliste juhenditega.",
+    "catalogTitle": "Pikobuy Spreadsheet: jalatsid, rõivad ja tootelingid",
+    "catalogDescription": "Otsi Pikobuy loendist kategooriate järgi ja võrdle toodete USD-hindu. Ava üksikasjad, kontrolli suurusi ja jätka Pikobuys.",
+    "categoryGuideHeading": "Enne eseme valimist",
+    "categories": {
+      "shoes": {
+        "title": "Pikobuy jalatsiloend: lingid, suurused ja QC",
+        "description": "Sirvi Pikobuy jalatsilinke, võrdle USD-hindu ning kontrolli suuruse mõõte, laofotosid ja pakendit enne saatmist.",
+        "intro": "Võrdle jalatseid täpse suuruse ja variandi järgi, mida soovid tellida. Tuttav suurusemärge on lähtepunkt, mitte sobivuse tõend. Ava algsed andmed ja kontrolli müüja mõõte enne maksmist. Selle lehe fotod on kuulutusepildid, mitte sinu tellimuse QC-fotod.",
+        "checks": [
+          "Võrdle müüja suurustabelit endale mugava olemasoleva paariga.",
+          "Küsi suuruseküsimust lahendavat mõõtu või sildifotot.",
+          "Otsusta kingakarbi säilitamine pärast QC-d ja võimalikku tagastusotsust."
+        ]
+      },
+      "sweatshirts": {
+        "title": "Pikobuy pusade ja dressipluuside loend",
+        "description": "Leia pusade ja dressipluuside linke, võrdle USD-hindu ning kontrolli rinna laiust, pikkust ja varrukaid enne Pikobuy tellimust.",
+        "intro": "Vali pusa või dressipluus rõiva mõõtude ja soovitud istuvuse järgi. Võrdle rinna laiust, kehaosa pikkust ja varrukaid juba kantava rõivaga. Sama suurustäht võib tähendada eri lõikeid, seega kontrolli valitud kuulutust ja varianti universaalset teisendust eeldamata.",
+        "checks": [
+          "Võrdle sama meetodi ja samade ühikutega võetud mõõte.",
+          "Kontrolli värvi, kapuutsi, lukku ja taskuid algses kuulutuses.",
+          "Vaata laofotod üle enne rõiva ühispakki lisamist."
+        ]
+      },
+      "tshirts": {
+        "title": "Pikobuy T-särkide loend: lingid ja suurusekontroll",
+        "description": "Sirvi T-särgilinge ja USD-hindu. Võrdle rinna laiust ja pikkust, kontrolli varianti ning planeeri lao QC enne saatmist.",
+        "intro": "Võrdle T-särke rinna laiuse, kehaosa pikkuse ja soovitud istuvuse järgi. Kuulutusepildid aitavad disaini tuvastada, kuid ei kinnita lattu saadetud eseme mõõte ega seisundit. Hoia valitud suurus ja värv tellimusviitega koos hilisemate kontrollifotode võrdluseks.",
+        "checks": [
+          "Mõõda meeldiv T-särk ning võrdle müüja mõõtmismeetodit.",
+          "Kinnita valitud suurus ja värv enne tellimuse avamist Pikobuys.",
+          "Küsi selgemat detailifotot, kui trükk, õmblus või mõõt on endiselt ebaselge."
+        ]
+      }
+    },
+    "hubs": {
+      "qc": {
+        "title": "Pikobuy QC-juhend: fotod, mõõdud ja tagastused",
+        "description": "Võrdle Pikobuy QC-fotosid tellimusega: suurus, värv, kogus ja nähtav seisund. Uuri, millal enne saatmist lisatõendit küsida.",
+        "sections": [
+          {
+            "id": "match-order",
+            "heading": "Sobita fotod oma tellimusega",
+            "paragraphs": [
+              "Alusta tellimusviitest, variandist ja kogusest. Võrdle laokirjet päriselt ostetud tootega, mitte sarnase kuulutusega. Sõltumatu kataloogi pildid on tootefotod, mitte sinu tellimusega seotud QC-tõendid."
+            ]
+          },
+          {
+            "id": "check-evidence",
+            "heading": "Kontrolli nähtavaid detaile ja mõõte",
+            "paragraphs": [
+              "Vaata värvi, silte, õmblusi, trükipaigutust, tarvikuid ja kahjustusi. Suuruseotsuseks küsi vajalik mõõt müüja tabeliga samal meetodil. Selge silt ei tõenda istuvust ning foto ei tõenda materjali koostist, ehtsust ega pikaajalist toimivust."
+            ]
+          },
+          {
+            "id": "request-detail",
+            "heading": "Küsi otsust mõjutavat detaili",
+            "paragraphs": [
+              "Määra ese ja näidatav osa. Näiteks palu rõivast tasasel pinnal, mõõdulint servast servani nähtav. Kinnita teenuse saadavus ja tasu Pikobuys. Kui foto on endiselt ebapiisav, jäta ebakindlus nähtavaks, mitte ära tõlgenda seda heakskiiduna."
+            ]
+          },
+          {
+            "id": "decide-before-shipping",
+            "heading": "Otsusta enne paki vormistamist",
+            "paragraphs": [
+              "Kiida ese heaks, küsi selgitust või taotle sobivat tagastust, kuni see on laos. Kontrolli kehtivaid tagastustingimusi kiiresti ja säilita nõutud pakend. Lõpeta otsus enne ühendamist või pöördumatuid pakendimuutusi. Hoia kontrollikirje lõpliku pakiloendi juures."
+            ]
+          }
+        ],
+        "sourceIds": [
+          "official-guide",
+          "official-user-agreement",
+          "official-returns"
+        ]
+      },
+      "shipping": {
+        "title": "Pikobuy tarne: kalkulaator, kulud ja jälgimine",
+        "description": "Planeeri Pikobuy tarnet ametliku kalkulaatori, pakitud kaalu ja mõõtudega. Võrdle valikuid, ühenda heakskiidetud esemed ja jälgi pärast lähetamist.",
+        "sections": [
+          {
+            "id": "estimate-first",
+            "heading": "Hinda pakki enne eelarve sidumist",
+            "paragraphs": [
+              "Kasuta kalkulaatoris tegelikku tarneriiki, tootetüüpi, kaalu ja kolme mõõtu. Erista mõõdetud väärtused oletustest. Võrdle sama pakki saadaval olevate valikutega ning salvesta iga tulemuse aeg, valuuta, veoviis ja teenused."
+            ]
+          },
+          {
+            "id": "complete-budget",
+            "heading": "Erista tootemakse rahvusvahelisest veost",
+            "paragraphs": [
+              "Kataloogihind on ligikaudne tootehind USD-s. Rahvusvaheline vedu ja võimalikud lisatasud ei sisaldu selles. Hoia ostumakse, veomakse ja kinnitatud lisa- või sihtkohakulud eri eelarveridadel. Selgita teadmata summa nulliks pidamise asemel."
+            ]
+          },
+          {
+            "id": "pack-after-qc",
+            "heading": "Vali pakend pärast QC-d",
+            "paragraphs": [
+              "Lahenda suuruse- ja seisundiküsimused enne laoesemete ühendamist. Kontrolli pakendimuutuste mõju kaitsele ja võimalikule tagastusele. Võrdle valmis paki kaalu ja mõõte hinnangu sisenditega; ära eelda, et ühendamine alati kogusummat vähendab."
+            ]
+          },
+          {
+            "id": "follow-dispatch",
+            "heading": "Jälgi tegelikust lähetamisest alates",
+            "paragraphs": [
+              "Ametliku juhendi kolm päeva puudutab jälgimisinfot pärast lähetamist, mitte kolmepäevast tarnet. Erista tootemakse, lattu saabumine, paki vormistamine ja vedaja liikumine. Hoia pakiviide ning viimane kinnitatud sündmus alles puuduva uuenduse kohta küsides."
+            ]
+          }
+        ],
+        "sourceIds": [
+          "official-estimate",
+          "official-guide",
+          "official-contact"
+        ]
+      }
+    }
+  }
 }

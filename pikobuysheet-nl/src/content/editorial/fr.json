@@ -14,7 +14,7 @@
     "related": "Articles associés",
     "allArticles": "Tous les articles",
     "latestArticles": "Derniers articles",
-    "articleCount": "10 guides pratiques",
+    "articleCount": "13 guides pratiques",
     "sourceLink": "Source officielle"
   },
   "faq": [
@@ -304,7 +304,8 @@
       "related": [
         "spreadsheet",
         "articles/pikobuy-product-links",
-        "articles/pikobuy-haul-budget"
+        "articles/pikobuy-haul-budget",
+        "articles/pikobuy-parcel-consolidation"
       ]
     },
     {
@@ -409,7 +410,8 @@
       "related": [
         "spreadsheet",
         "articles/pikobuy-qc-measurements",
-        "articles/pikobuy-shoe-sizing"
+        "articles/pikobuy-shoe-sizing",
+        "articles/pikobuy-parcel-consolidation"
       ]
     },
     {
@@ -515,7 +517,8 @@
       "related": [
         "guide",
         "articles/pikobuy-spreadsheet-checklist",
-        "faq"
+        "faq",
+        "articles/pikobuy-parcel-consolidation"
       ]
     },
     {
@@ -602,6 +605,14 @@
             "Revenez à la question initiale et choisissez la suite. Les preuves peuvent justifier de poursuivre, laisser un point précis sans réponse ou motiver une discussion sur un retour. Gardez la réponse avec le relevé de commande et notez la mesure ou le détail visible ayant guidé votre décision.",
             "Si un problème demeure, vérifiez rapidement le statut actuel de la commande et les conditions de retour applicables. Ne perdez pas de temps à collectionner des vues décoratives pendant qu’une divergence exploitable reste non signalée. Votre relevé doit faciliter l’explication : ce qui était prévu, ce que montre la photo et la solution demandée. Identifiez toujours comme incertaines les observations qui le sont."
           ]
+        },
+        {
+          "id": "approve-or-ask",
+          "heading": "8. Transformer la mesure en décision claire",
+          "paragraphs": [
+            "Comparez la mesure photographiée à votre objectif avec les mêmes extrémités et unités. Si le mètre ne commence pas à zéro, si le vêtement est plié ou si les extrémités sont cachées, demandez une mesure plus claire plutôt que d’accepter un chiffre apparemment précis. Notez si l’incertitude restante changerait votre choix de taille.",
+            "Validez seulement lorsque les preuves répondent à la question importante. Sinon, demandez le détail manquant ou vérifiez rapidement les retours possibles. Conservez l’emballage d’origine pendant la décision et terminez-la avant d’ajouter l’article à un colis regroupé. La photo concerne cette commande particulière ; elle n’est pas un tableau de tailles universel pour les achats futurs."
+          ]
         }
       ],
       "sourceIds": [
@@ -612,8 +623,10 @@
       "related": [
         "qc",
         "articles/pikobuy-clothing-size-chart",
-        "articles/pikobuy-warehouse-returns"
-      ]
+        "articles/pikobuy-warehouse-returns",
+        "articles/pikobuy-parcel-consolidation"
+      ],
+      "updated": "2026-10-29"
     },
     {
       "slug": "pikobuy-haul-budget",
@@ -735,7 +748,8 @@
       "related": [
         "shipping",
         "articles/pikobuy-parcel-weight-dimensions",
-        "articles/pikobuy-spreadsheet-checklist"
+        "articles/pikobuy-spreadsheet-checklist",
+        "articles/pikobuy-shipping-calculator"
       ]
     },
     {
@@ -831,7 +845,8 @@
       "related": [
         "shipping",
         "articles/pikobuy-haul-budget",
-        "articles/pikobuy-warehouse-returns"
+        "articles/pikobuy-warehouse-returns",
+        "articles/pikobuy-shipping-calculator"
       ]
     },
     {
@@ -937,7 +952,8 @@
       "related": [
         "spreadsheet",
         "articles/pikobuy-qc-measurements",
-        "articles/pikobuy-parcel-weight-dimensions"
+        "articles/pikobuy-parcel-weight-dimensions",
+        "articles/pikobuy-parcel-consolidation"
       ]
     },
     {
@@ -1039,7 +1055,8 @@
       "related": [
         "spreadsheet",
         "articles/pikobuy-qc-measurements",
-        "articles/pikobuy-parcel-weight-dimensions"
+        "articles/pikobuy-parcel-weight-dimensions",
+        "articles/pikobuy-parcel-consolidation"
       ]
     },
     {
@@ -1132,6 +1149,14 @@
             "Gardez une chronologie courte de la demande, des accusés de réception, des preuves supplémentaires et des décisions. Répondez dans le dossier existant lorsque cela convient pour conserver le contexte au même endroit. Si le support demande un détail manquant, répondez directement à cette question plutôt que de recommencer la description de tout l’achat.",
             "Avant d’autoriser une étape, vérifiez qu’elle concerne le bon article et la solution que vous comprenez. Gardez la confirmation de ce qui a été accepté et de ce qui reste en attente. Une demande soumise, une réponse du vendeur et un remboursement terminé sont des événements différents. Les noter séparément permet de suivre l’issue sans confondre progression et achèvement."
           ]
+        },
+        {
+          "id": "before-consolidation",
+          "heading": "8. Résoudre les retours avant le regroupement",
+          "paragraphs": [
+            "Gardez un article avec demande de retour ouverte hors de la liste prête à expédier. Notez l’heure du statut d’entrepôt, le problème, les photos justificatives et la solution demandée. Vérifiez la politique actuelle et l’échéance de votre commande ; attendre un autre vendeur ne constitue pas une prolongation.",
+            "Avant de demander le retrait d’emballage ou l’envoi international, confirmez si l’article est approuvé ou attend une décision vendeur. Préservez étiquettes, scellés et emballages requis pendant l’examen de l’éligibilité. Demandez au support officiel les coûts précis applicables plutôt que de supposer un retour gratuit ou l’applicabilité d’un exemple général."
+          ]
         }
       ],
       "sourceIds": [
@@ -1141,8 +1166,10 @@
       "related": [
         "qc",
         "articles/pikobuy-qc-measurements",
-        "articles/pikobuy-haul-budget"
-      ]
+        "articles/pikobuy-haul-budget",
+        "articles/pikobuy-parcel-consolidation"
+      ],
+      "updated": "2026-10-29"
     },
     {
       "slug": "pikobuy-tracking-not-updating",
@@ -1238,6 +1265,14 @@
             "Actualisez le journal lorsqu’un événement significatif arrive et ne prenez pas des consultations répétées de la même page pour de nouvelles preuves. Conservez toute instruction ou réponse modifiant la prochaine action prévue. Si une échéance ou une étape d’escalade est indiquée pour votre dossier, notez-la explicitement.",
             "À l’arrivée du colis, comparez le contenu à votre liste d’articles et au relevé d’inspection conservé. Gardez les emballages et étiquettes pertinents pendant la clarification de toute divergence. La fin du suivi et une vérification satisfaisante du contenu sont deux observations distinctes. Un relevé ordonné permet d’expliquer un problème de livraison ou d’article sans les mélanger."
           ]
+        },
+        {
+          "id": "quick-triage",
+          "heading": "8. Diagnostic rapide : relier le manque à l’action suivante",
+          "paragraphs": [
+            "Aucun envoi enregistré : vérifiez la soumission du colis et le paiement du transport dans votre compte. Envoi enregistré mais aucun suivi au-delà de l’indication officielle : demandez à Pikobuy de confirmer la remise. Un événement transporteur existe mais reste inchangé : gardez son texte exact et son heure, puis consultez les consignes actuelles du service. Une exception demande une action : vérifiez-la via le canal légitime de la plateforme ou du transporteur.",
+            "Incluez référence du colis, date réelle d’envoi et dernier événement confirmé dans une seule demande. Ne commencez pas le calendrier à la date d’achat et ne transformez pas l’indication de trois jours pour le suivi en garantie de livraison. Pour plusieurs commandes réunies, utilisez la référence du colis regroupé pour le suivi international."
+          ]
         }
       ],
       "sourceIds": [
@@ -1247,8 +1282,506 @@
       "related": [
         "shipping",
         "guide",
-        "faq"
-      ]
+        "faq",
+        "articles/pikobuy-shipping-calculator"
+      ],
+      "updated": "2026-10-29"
+    },
+    {
+      "slug": "pikobuy-shipping-calculator",
+      "title": "Calculateur de livraison Pikobuy : estimer le coût total du colis",
+      "description": "Utilisez le calculateur Pikobuy avec le bon poids, les dimensions et la destination. Comparez les devis et distinguez le transport du budget total de commande.",
+      "intro": "Une estimation de livraison Pikobuy utile commence par un colis défini, pas seulement par un prix produit ou un nombre de kilos supposé. Notez la destination, les articles prévus et l’emballage nécessaire. Comparez ensuite les possibilités réellement proposées dans le calculateur officiel. Ce guide fournit une méthode réutilisable pour comparer les estimations sans les confondre avec une facture définitive.",
+      "sections": [
+        {
+          "id": "prepare-inputs",
+          "heading": "1. Préparer les données qui influencent l’estimation",
+          "paragraphs": [
+            "Le calculateur officiel demande la destination, le type de produit, le poids en kilogrammes et la longueur, la largeur et la hauteur en centimètres. Rassemblez ces valeurs au même endroit. Précisez pour chacune si elle est mesurée ou estimée et ajoutez la date. Avant l’arrivée en entrepôt, le poids annoncé par le vendeur peut exclure l’emballage commercial, le calage et le carton extérieur. Utilisez-le pour planifier, pas comme poids d’expédition confirmé.",
+            "Indiquez la véritable destination de livraison. La langue de consultation ne sélectionne pas un pays d’expédition, et le devis partagé par un autre acheteur peut reposer sur d’autres données. Pour un colis mixte, vérifiez comment les types de produits disponibles décrivent son contenu. Si une batterie, un liquide, un élément fragile ou un article particulier ne correspond pas clairement à une catégorie, demandez à Pikobuy laquelle utiliser et quelles conditions de transport s’appliquent avant de vous fier au résultat."
+          ]
+        },
+        {
+          "id": "separate-costs",
+          "heading": "2. Séparer le transport du budget complet de commande",
+          "paragraphs": [
+            "Inscrivez le paiement des produits et le paiement ultérieur du transport international sur deux lignes distinctes. Ajoutez séparément la livraison intérieure confirmée, les services facultatifs, la conversion monétaire et les éventuels frais à destination. N’ajoutez pas un frais uniquement parce qu’un autre acheteur l’a mentionné : marquez-le comme non confirmé jusqu’à disposer d’un justificatif pour votre commande. Inversement, une case vide signifie inconnu, pas gratuit.",
+            "Ce catalogue affiche des prix de produits indicatifs en USD. Le prix d’une fiche n’est pas un devis de transport international. Conservez la devise de chaque paiement réel et comparez les totaux dans une devise choisie, avec le taux de change et les frais de paiement qui vous sont proposés. Un produit avantageux peut laisser un budget insuffisant pour le colis terminé. Fixez votre budget total maximal avant de décider du nombre de produits à acheter."
+          ]
+        },
+        {
+          "id": "measure-parcel",
+          "heading": "3. Utiliser les dimensions emballées plutôt qu’une règle supposée",
+          "paragraphs": [
+            "Mesurez ou demandez la longueur, la largeur et la hauteur extérieures du colis après avoir choisi l’emballage. Notez le poids réel séparément. Ne supposez pas qu’un colis léger mais volumineux sera facturé uniquement selon son poids sur la balance. Le guide Pikobuy indique que les modes de facturation diffèrent selon les lignes : lisez donc celui de l’option comparée. Cet article n’attribue pas un diviseur universel de poids volumétrique à toutes les lignes.",
+            "À titre de calcul uniquement, une boîte de 40 × 30 × 20 cm occupe 24 000 centimètres cubes. Une hauteur réduite à 15 cm ramène ce volume à 18 000 centimètres cubes. Cela montre une variation de volume, pas une baisse de prix promise. La ligne disponible, ses paliers de facturation, la protection et les mesures finales déterminent encore l’effet sur le devis. Ne retirez pas une protection nécessaire simplement pour reproduire un exemple plus petit."
+          ]
+        },
+        {
+          "id": "compare-like-for-like",
+          "heading": "4. Comparer deux options pour le même colis",
+          "paragraphs": [
+            "Effectuez la comparaison avec une destination, un contenu et des mesures identiques. Notez le nom exact de la ligne et l’heure de chaque résultat. Un second devis pour un colis plus léger ne prouve pas que sa ligne coûte moins cher. Si le devis change pendant une modification d’emballage, conservez les anciennes données pour expliquer la différence au lieu de l’attribuer automatiquement à un nouveau tarif.",
+            "Utilisez la fiche ci-dessous pour chaque option envisagée. Copiez les conditions réellement affichées et demandez les informations manquantes avant de payer. Un délai estimé absent ou une prestation incluse peu claire constitue une question à résoudre. Si une assurance, une manutention ou un service facultatif apparaît, comparez le total avec les mêmes options sélectionnées. Le prix de départ le plus bas peut ne pas correspondre à la prestation complète souhaitée."
+          ],
+          "table": {
+            "headers": [
+              "À noter",
+              "Option A",
+              "Option B"
+            ],
+            "rows": [
+              [
+                "Destination et contenu",
+                "Utiliser les mêmes données",
+                "Utiliser les mêmes données"
+              ],
+              [
+                "Poids emballé et dimensions",
+                "Préciser mesuré ou estimé",
+                "Préciser mesuré ou estimé"
+              ],
+              [
+                "Ligne et mode de facturation",
+                "Copier les conditions affichées",
+                "Copier les conditions affichées"
+              ],
+              [
+                "Total et services inclus",
+                "Noter devise et exclusions",
+                "Noter devise et exclusions"
+              ],
+              [
+                "Date de l’estimation et questions ouvertes",
+                "Conserver avec le devis",
+                "Conserver avec le devis"
+              ]
+            ]
+          }
+        },
+        {
+          "id": "test-packaging",
+          "heading": "5. Comparer les emballages sans présumer d’économies",
+          "paragraphs": [
+            "Préparez un scénario pour l’emballage nécessaire et un second seulement si une autre solution pratique existe. Pour des chaussures, distinguez la conservation de la boîte commerciale de la protection des chaussures elles-mêmes. Pour un article fragile, identifiez la protection indispensable. Pour des vêtements, vérifiez si vos mesures décrivent un groupe d’articles peu serrés ou le colis réellement préparé par l’entrepôt. Ces différences doivent apparaître dans vos notes.",
+            "Demandez confirmation avant toute modification irréversible de l’emballage. Étiquettes, scellés et emballages d’origine peuvent compter pour l’éligibilité au retour : terminez donc d’abord la décision de contrôle ou de retour. Un colis plus petit n’est pas automatiquement préférable si un article devient plus difficile à protéger ou retourner. Notez la modification demandée et le résultat confirmé ; ne remplacez pas une mesure réelle par la valeur que vous espériez obtenir."
+          ]
+        },
+        {
+          "id": "reconcile-final-quote",
+          "heading": "6. Rapprocher l’estimation du devis définitif",
+          "paragraphs": [
+            "Avant de payer le transport international, comparez le dossier final du colis avec votre fiche. Vérifiez articles, destination, ligne, poids emballé, dimensions et services sélectionnés. Si le montant diffère, identifiez la donnée ou le frais qui a changé. Une capture antérieure aide à distinguer une nouvelle mesure d’une option sélectionnée par erreur. Demandez le détail si l’écart reste inexpliqué.",
+            "Conservez ensemble le devis, la confirmation de paiement et la référence du colis. Ils répondent à des questions différentes : le devis décrit l’offre, le justificatif indique ce qui a été payé et le dossier du colis relie l’envoi à son contenu. Un paiement produit réussi ne prouve pas que le transport international est aussi réglé. Suivez le parcours réel du compte plutôt que de traiter toutes les transactions comme un montant de commande unique."
+          ]
+        },
+        {
+          "id": "handle-missing-data",
+          "heading": "7. Quand le calculateur ne donne aucun résultat utile",
+          "paragraphs": [
+            "Vérifiez d’abord les unités, la destination et la catégorie. L’absence d’une option ne démontre pas à elle seule qu’un article ne peut jamais être expédié et ne justifie pas une catégorie inexacte pour forcer un devis. Enregistrez les données et demandez au support officiel si le contenu et les dimensions sont admissibles sur une ligne actuellement disponible. N’achetez pas davantage uniquement pour atteindre une taille de colis recommandée par quelqu’un d’autre.",
+            "Si vous attendez encore les mesures de l’entrepôt, conservez une fourchette de budgets possibles dans vos notes et signalez les hypothèses. Ne publiez pas un résultat provisoire comme tarif de livraison Pikobuy standard. Remplacez l’hypothèse dès que l’information manquante arrive, puis refaites la comparaison. La décision devient ainsi vérifiable sans inventer des tarifs, économies garanties ou dates de livraison."
+          ]
+        },
+        {
+          "id": "before-payment",
+          "heading": "8. Terminer par une courte note de décision",
+          "paragraphs": [
+            "Votre dossier final doit préciser les articles inclus, les questions de contrôle résolues, l’emballage approuvé et la raison du choix de ligne. Ajoutez le montant complet et les frais restants annoncés comme exclus. Si un coût inconnu risque de dépasser votre budget, clarifiez-le avant le paiement suivant.",
+            "Pour une commande mixte, utilisez le guide de regroupement avant de finaliser le colis. Pour une préparation liée au pays de livraison, consultez la liste de contrôle Europe. Après expédition, passez au guide de suivi plutôt que de continuer à utiliser le calculateur comme preuve d’avancement. Estimer, acheter, contrôler et suivre sont des tâches liées, mais chacune exige ses propres éléments."
+          ]
+        },
+        {
+          "id": "worked-comparison",
+          "heading": "9. Exemple de comparaison : changer une hypothèse à la fois",
+          "paragraphs": [
+            "Un acheteur prévoit d’envoyer deux paires de chaussures et un sweat. Avant l’arrivée en entrepôt, il ne possède que les poids des annonces, sans dimensions emballées. Sa première fiche indique donc des estimations de poids et de volume. Après le QC, il décide de garder une boîte à chaussures et demande quel emballage convient à l’autre paire. Aucun prix n’est supposé à ce stade.",
+            "Une fois les dimensions du colis fournies par l’entrepôt, l’acheteur les saisit dans le calculateur officiel et note les options disponibles. Si le devis dépasse son budget, il examine si une autre composition admissible modifie le coût complet. Il compare cette composition à la première avec la même destination et les mêmes hypothèses de service. Cet exemple décrit une méthode, pas une commande réelle, un tarif ou une économie. L’essentiel est d’identifier la donnée modifiée avant d’accepter le nouveau résultat."
+          ]
+        }
+      ],
+      "sourceIds": [
+        "official-estimate",
+        "official-guide",
+        "official-returns"
+      ],
+      "related": [
+        "shipping",
+        "articles/pikobuy-parcel-weight-dimensions",
+        "articles/pikobuy-haul-budget",
+        "articles/pikobuy-parcel-consolidation"
+      ],
+      "published": "2026-10-29",
+      "updated": "2026-10-29"
+    },
+    {
+      "slug": "pikobuy-shipping-europe",
+      "title": "Livraison Pikobuy en Europe : destination et étapes à vérifier",
+      "description": "Préparez une livraison Pikobuy aux Pays-Bas, en Allemagne ou ailleurs en Europe : lignes disponibles, adresse, coût du colis et étapes du suivi.",
+      "intro": "Préparer une livraison Pikobuy en Europe nécessite un devis pour le pays réel de livraison et votre colis. Un guide en néerlandais, allemand ou anglais ne permet pas de connaître les lignes disponibles aujourd’hui dans votre compte. Utilisez cette liste pour préparer les bonnes données, comparer les options proposées par Pikobuy et conserver les justificatifs depuis la validation en entrepôt jusqu’à la réception.",
+      "sections": [
+        {
+          "id": "choose-destination",
+          "heading": "1. Partir du pays de livraison, pas de la langue du site",
+          "paragraphs": [
+            "Sélectionnez le pays où le colis sera livré dans le calculateur officiel. Un acheteur expédiant aux Pays-Bas doit choisir cette destination même en lisant un guide anglais. Le principe est identique pour l’Allemagne, la France, l’Espagne ou un autre pays. Les langues de ce site facilitent la lecture ; elles ne représentent ni des contrats de transport distincts ni la promesse que toutes les lignes desservent chaque destination.",
+            "Notez le code postal et les renseignements nécessaires à la véritable demande d’expédition. Vérifiez orthographe, numéro de maison ou d’immeuble, appartement si nécessaire et coordonnées du destinataire dans le formulaire réel. Le fait que le calculateur accepte un pays ne signifie pas qu’il a validé une adresse complète. Si votre adresse présente un format inhabituel ou une restriction de livraison, résolvez la question avec la plateforme avant l’envoi."
+          ]
+        },
+        {
+          "id": "define-contents",
+          "heading": "2. Définir le contenu avant de comparer les lignes européennes",
+          "paragraphs": [
+            "Listez tous les articles prévus et résolvez d’abord les questions de contrôle en entrepôt. Gardez taille, couleur et quantité choisies avec la référence de l’article afin que le colis soit constitué de produits approuvés. Un article encore en attente de réponse du vendeur peut modifier la date à laquelle l’ensemble est prêt. Un plan de livraison fondé sur une liste incomplète devient peu fiable quand le contenu change.",
+            "Décrivez précisément tout contenu particulier lorsque vous demandez son admissibilité. Ne déduisez pas l’autorisation d’une batterie, d’un liquide ou d’un objet fragile du nom d’une ligne ou de la livraison réussie d’un autre acheteur. Restrictions et manutention dépendent du service et du contenu réels. Demandez quelle option actuelle accepte votre colis et conservez la réponse avec l’estimation. Un devis intéressant n’est utile que si le colis peut légitimement utiliser ce service."
+          ]
+        },
+        {
+          "id": "compare-route-records",
+          "heading": "3. Comparer le service affiché pour votre destination",
+          "paragraphs": [
+            "Pour chaque option disponible, conservez le nom de la ligne, le montant, la devise, le mode de facturation pertinent et l’éventuel délai de transit affiché. Gardez poids et dimensions identiques pendant la comparaison. Le guide officiel indique que les lignes diffèrent par leur durée et leur facturation, mais ne désigne pas une meilleure ligne universelle pour l’Europe. Choisissez parmi les possibilités actuelles adaptées à votre colis et à vos besoins.",
+            "Demandez ce que le service comprend si la formulation est imprécise. Le nom d’une ligne ne prouve pas à lui seul chaque coût, étape de traitement ou promesse de livraison. Ne remplacez pas l’offre de votre compte par une grille trouvée sur les réseaux sociaux. Si deux résultats utilisent des emballages ou services facultatifs différents, explicitez ces écarts avant de comparer les totaux. Datez les captures pour ne pas confondre ancien devis et offre actuelle."
+          ]
+        },
+        {
+          "id": "budget-destination",
+          "heading": "4. Prévoir les frais non compris dans le transport affiché",
+          "paragraphs": [
+            "Séparez dans votre fiche le prix des produits, la livraison intérieure, le transport international, les services facultatifs et les éventuels frais à destination. Ne supposez pas que le montant du transport constitue le total final de toute commande transfrontalière. N’ajoutez pas non plus un pourcentage arbitraire ou des frais copiés d’une autre destination. Notez ce que le service choisi inclut réellement et ce qui reste à confirmer.",
+            "Pour les droits, taxes, déclarations et exigences locales, vérifiez les règles actuelles du lieu exact de livraison et les conditions du service choisi. Cette liste ne donne aucun seuil fiscal, taux ou exemption juridique. Indiquez des contenus et valeurs exacts dans les formulaires requis ; un nom de ligne ou une description informelle d’un autre acheteur ne remplace pas ces obligations. Demandez des précisions si un coût important reste incertain dans les explications de la plateforme."
+          ]
+        },
+        {
+          "id": "plan-timeline",
+          "heading": "5. Construire le calendrier avec des étapes séparées",
+          "paragraphs": [
+            "L’attente totale peut comprendre le traitement du vendeur, la livraison intérieure à l’entrepôt, le contrôle, une correction ou décision de retour, la préparation du colis et le transport international. Séparez ces étapes dans vos notes. Une estimation de transit international n’inclut pas automatiquement l’attente d’un vendeur ou de votre validation. Pour un achat lié à une date, évaluez la séquence complète plutôt que la seule partie transporteur.",
+            "Le guide Pikobuy situe son indication de disponibilité du suivi après l’expédition. Il ne promet pas une livraison en trois jours et ce délai ne commence pas au paiement d’un produit. Notez l’événement réel d’expédition et utilisez la référence de suivi de ce colis. Si une étape n’est pas claire, demandez ce qui est terminé et ce qui reste à faire plutôt que d’inférer l’avancement à partir de l’ancienneté de la commande."
+          ]
+        },
+        {
+          "id": "destination-worksheet",
+          "heading": "6. Utiliser une fiche par destination et par colis",
+          "paragraphs": [
+            "Une fiche distincte évite de mélanger les renseignements de destinataires ou commandes différents. Les champs suivants conviennent aux Pays-Bas, à l’Allemagne et à d’autres destinations sans supposer les mêmes lignes ou frais. Il s’agit d’un modèle de préparation, pas de devis vérifiés ni d’un tableau de délais par pays. Remplissez-le avec vos propres informations actuelles.",
+            "Si la destination, les articles ou l’emballage changent, créez une nouvelle comparaison. Gardez la version précédente pour comprendre les changements de montant ou de services disponibles. C’est particulièrement utile lorsqu’un ami partage un devis : comparez d’abord les données, puis déterminez si l’exemple est pertinent. Le seul nom du pays n’est jamais une description complète du colis."
+          ],
+          "table": {
+            "headers": [
+              "Champ de préparation",
+              "Éléments à conserver"
+            ],
+            "rows": [
+              [
+                "Destination et destinataire",
+                "Pays et adresse vérifiée"
+              ],
+              [
+                "Contenu approuvé",
+                "Références, variantes et quantités"
+              ],
+              [
+                "Mesures du colis",
+                "Poids emballé et trois dimensions extérieures"
+              ],
+              [
+                "Service choisi",
+                "Ligne actuelle, total, inclusions et questions ouvertes"
+              ],
+              [
+                "Expédition et suivi",
+                "Référence du colis, preuve d’expédition et dernier événement confirmé"
+              ]
+            ]
+          }
+        },
+        {
+          "id": "last-mile",
+          "heading": "7. Suivre le transfert et la dernière étape de livraison",
+          "paragraphs": [
+            "Après l’envoi, lisez le texte complet de l’événement de suivi, son heure et sa source. Des informations électroniques d’expédition ne constituent pas un scan de prise en charge physique par le transporteur. Si le dossier désigne un partenaire de livraison ou une autre référence, utilisez les éléments réellement fournis. Ne devinez pas le transporteur local à partir du seul pays et ne supposez pas une succession de messages identique pour toutes les lignes.",
+            "En cas d’exception de livraison, vérifiez l’action demandée sur le canal légitime de la plateforme ou du transporteur. Confirmez une adresse, un retrait ou une autre instruction seulement par un canal vérifié. Conservez le message exact et les réponses. Une pause du suivi ne prouve pas à elle seule une perte, et une date estimée ne prouve pas l’arrivée. Consultez le guide de dépannage du suivi lorsque les éléments cessent d’évoluer."
+          ]
+        },
+        {
+          "id": "receive-parcel",
+          "heading": "8. Clore le dossier à la réception du colis",
+          "paragraphs": [
+            "Comparez les articles reçus avec la liste approuvée et les photos de contrôle conservées. Gardez l’étiquette d’envoi, l’emballage et les documents utiles pendant la clarification d’un manque ou dommage. Un statut livré répond à une question de transport ; il ne confirme pas à lui seul le contenu ni son état. Documentez rapidement chaque écart précis auprès du support officiel plutôt que de mélanger des réclamations indépendantes.",
+            "Pour la commande suivante, examinez les hypothèses qui ont changé : taille d’emballage, choix du service, attente du vendeur ou frais imprévus. Améliorez votre méthode, mais ne transformez pas l’expérience d’un seul colis en garantie universelle. Des données de destination actuelles, un contenu approuvé et un calendrier fondé sur des éléments vérifiables facilitent la prochaine comparaison sans promettre un résultat non démontré."
+          ]
+        },
+        {
+          "id": "worked-timeline",
+          "heading": "9. Exemple de calendrier : distinguer retard vendeur et transport",
+          "paragraphs": [
+            "Prenons une commande hypothétique à destination des Pays-Bas. Un vêtement est arrivé en entrepôt et a passé les vérifications de l’acheteur, tandis qu’un second article attend une réponse du vendeur. Aucun colis international n’a encore été soumis. Même si le calculateur affiche un délai de transit, celui-ci ne permet pas de déterminer l’arrivée de cette commande incomplète à l’adresse du destinataire.",
+            "L’acheteur note les conditions de stockage et toute échéance ouverte du premier article, se renseigne sur le second et compare l’attente avec l’envoi du seul article approuvé. Une fois le colis final soumis et l’expédition enregistrée, il commence le calendrier international avec la référence du colis. Si un événement transporteur reste ensuite immobile, la demande d’assistance porte sur cet événement, pas sur l’ancien retard vendeur. C’est un exemple de préparation, pas un calendrier de livraison publié. Des étapes séparées rendent la décision et la question au support plus précises."
+          ]
+        }
+      ],
+      "sourceIds": [
+        "official-estimate",
+        "official-guide",
+        "official-terms",
+        "official-contact"
+      ],
+      "related": [
+        "shipping",
+        "articles/pikobuy-shipping-calculator",
+        "articles/pikobuy-tracking-not-updating",
+        "articles/pikobuy-parcel-consolidation"
+      ],
+      "published": "2026-10-29",
+      "updated": "2026-10-29"
+    },
+    {
+      "slug": "pikobuy-parcel-consolidation",
+      "title": "Regroupement de colis Pikobuy : réunir les commandes après le QC",
+      "description": "Regroupez des articles en entrepôt Pikobuy avec une liste claire pour le QC, l’emballage et les coûts. Comparez un colis aux envois séparés sans économie garantie.",
+      "intro": "Pikobuy indique que les articles de plusieurs vendeurs peuvent être réunis dans un colis. La question utile est de savoir si vos articles sont prêts à voyager ensemble, avec un emballage adapté et un devis compris. Le regroupement doit suivre vos décisions de contrôle. Ce guide aide à établir une liste précise, comparer des emballages réalistes et confirmer le colis avant de payer le transport international.",
+      "sections": [
+        {
+          "id": "build-item-list",
+          "heading": "1. Établir la liste des articles avant de choisir un colis",
+          "paragraphs": [
+            "Pour chaque article prévu, notez référence de commande, produit, taille ou couleur choisie, quantité et statut actuel en entrepôt. Séparez les articles reçus de ceux encore chez le vendeur ou en transit intérieur. Une commande prête ne démontre pas l’arrivée de toutes les autres. Mentionnez les articles à exclure pour qu’une ancienne sélection ne soit pas prise pour l’instruction finale d’emballage.",
+            "Pour les produits de différents vendeurs, gardez les références de commande originales même lorsqu’ils partagent ensuite un numéro de colis. Elles permettent d’expliquer un manque de quantité, une variante incorrecte ou un problème propre à un vendeur. Une expédition internationale unique n’efface pas les historiques d’achat distincts. La liste finale doit relier chaque article inclus au dossier que vous avez réellement vérifié."
+          ]
+        },
+        {
+          "id": "finish-qc",
+          "heading": "2. Terminer d’abord le QC et les décisions de retour",
+          "paragraphs": [
+            "Examinez les preuves de contrôle des articles arrivés. Vérifiez référence, variante et quantité avant l’état visible et les mesures demandées. Une photo de catalogue ne prouve pas l’état de votre commande particulière. Si les photos disponibles ne répondent pas à une question importante, demandez le détail utile via Pikobuy et confirmez les éventuels frais avant de décider d’envoyer l’article.",
+            "Gardez un article non résolu hors du groupe prêt à expédier jusqu’à votre décision. La politique de retour publiée prévoit des délais et conditions : attendre un autre vendeur ne doit donc pas détourner votre attention d’un article déjà en entrepôt. Préservez étiquettes, scellés et emballages pendant la clarification de l’éligibilité au retour. N’autorisez pas leur retrait simplement pour préparer une estimation de regroupement."
+          ]
+        },
+        {
+          "id": "choose-wait-or-send",
+          "heading": "3. Déterminer si attendre un autre article est utile",
+          "paragraphs": [
+            "Comparez les conséquences pratiques de l’attente avec l’envoi immédiat des articles approuvés. Notez l’article manquant, son statut confirmé et les échéances pertinentes des produits déjà stockés. Les conditions publiques de réexpédition ne définissent pas une durée universelle de stockage gratuit pour toutes les commandes. Consultez celles de vos articles plutôt que de supposer un nombre fixe de jours gratuits trouvé ailleurs.",
+            "Attendre peut produire une composition différente, sans garantir une économie ni une date d’expédition précise. Un article retardataire peut aussi modifier les dimensions ou la ligne admissible. Pour un achat soumis à une date, évaluez toute la séquence des étapes restantes. Gardez une décision simple : quelle preuve manque, quelle échéance compte et que ferez-vous si l’article absent n’est toujours pas prêt ?"
+          ]
+        },
+        {
+          "id": "specify-packaging",
+          "heading": "4. Donner des instructions d’emballage précises",
+          "paragraphs": [
+            "Déterminez la protection nécessaire pour chaque article et les emballages commerciaux à conserver. Chaussures, vêtements souples et accessoires fragiles ne demandent pas nécessairement la même manutention. Si vous envisagez de retirer une boîte, désignez l’article et confirmez d’abord la fin du contrôle ou de la décision de retour. Évitez une demande vague comme retirer tous les emballages lorsque les besoins diffèrent.",
+            "Le guide d’achat Pikobuy mentionne des demandes d’emballage minimal ou renforcé. Confirmez les possibilités pour votre colis et leur effet éventuel sur le prix ou les dimensions. Une demande ne prouve pas que le colis terminé aura les mesures espérées. Demandez les dimensions emballées obtenues lorsqu’elles sont disponibles et comparez-les aux chiffres de votre estimation précédente."
+          ]
+        },
+        {
+          "id": "compare-configurations",
+          "heading": "5. Comparer un colis à des alternatives réalistes",
+          "paragraphs": [
+            "Comparez le devis du colis regroupé approuvé au total des colis séparés que vous enverriez réellement. Utilisez la même destination et une liste de contenu claire pour chaque option. Intégrez l’emballage choisi et les prestations de manutention confirmées. Comparer un colis complet à une seule moitié d’une expédition divisée sous-estime le coût de l’alternative.",
+            "Le tableau suivant est une aide à la décision, pas la preuve que séparer ou regrouper coûte toujours moins cher. Remplissez-le avec des mesures et devis actuels. Le résultat dépend des lignes réellement admissibles et de leur facturation. Gardez les coûts d’achat à part lorsqu’ils ne changent pas entre options ; la comparaison doit faire ressortir les différences, sans compter deux fois le même achat."
+          ],
+          "table": {
+            "headers": [
+              "Vérification",
+              "Colis regroupé",
+              "Colis séparés"
+            ],
+            "rows": [
+              [
+                "Contenu",
+                "Tous les articles approuvés ensemble",
+                "Préciser le contenu de chaque colis"
+              ],
+              [
+                "Emballage",
+                "Protection et boîtes conservées",
+                "Protection nécessaire à chaque colis"
+              ],
+              [
+                "Mesures",
+                "Un poids et un format emballés définitifs",
+                "Poids et format de chaque colis"
+              ],
+              [
+                "Comparaison du transport",
+                "Total complet du devis",
+                "Somme de tous les devis"
+              ],
+              [
+                "Questions ouvertes",
+                "Admissibilité et prestations non résolues",
+                "Admissibilité et prestations non résolues pour chaque colis"
+              ]
+            ]
+          }
+        },
+        {
+          "id": "confirm-submission",
+          "heading": "6. Confirmer le colis avant paiement",
+          "paragraphs": [
+            "Comparez la liste finale et les quantités avec votre dossier. Vérifiez adresse, ligne, instructions d’emballage et montant avant validation ou paiement. Si un article manque, ne supposez pas son ajout automatique parce qu’il appartient au même compte. Si un produit inattendu est inclus, résolvez le problème avant l’envoi. Une confirmation claire est plus simple qu’une reconstruction ultérieure de votre intention.",
+            "Conservez la référence finale du colis avec celles des commandes individuelles. Notez les confirmations de la plateforme sur le poids, les dimensions et les services inclus. Si le total change après emballage, comparez-le à l’estimation précédente et identifiez la donnée modifiée. Posez une question ciblée sur l’écart inexpliqué plutôt que de considérer l’estimation initiale comme un prix final contractuel."
+          ]
+        },
+        {
+          "id": "support-template",
+          "heading": "7. Poser une question exploitable au support",
+          "paragraphs": [
+            "Une demande utile indique les articles, l’action souhaitée et le point à confirmer. Par exemple : veuillez confirmer si les articles en entrepôt listés peuvent partager un colis vers ma destination, en conservant les emballages précisés, puis indiquer le poids, les dimensions et les options de livraison actuelles. Remplacez la description générale par vos véritables références dans le canal officiel du compte.",
+            "Si vous comparez plusieurs compositions, précisez la liste correspondant à chaque option. Si une photo est nécessaire avant de décider, indiquez la partie ou la mesure manquante. Ne mettez pas d’identifiants de connexion ni de secrets de paiement dans les messages ou captures publiques. Ce guide indépendant ne peut pas consulter des commandes privées ou donner des instructions à l’entrepôt à votre place ; utilisez le contact officiel Pikobuy pour cette décision."
+          ]
+        },
+        {
+          "id": "check-delivery",
+          "heading": "8. Contrôler le contenu autant que le résultat du suivi",
+          "paragraphs": [
+            "Après l’envoi, suivez le colis international avec son propre dossier. Le numéro intérieur d’un vendeur ne suit pas nécessairement l’expédition regroupée. Conservez la liste du colis et les preuves de contrôle jusqu’à la livraison. À réception, comparez contenu et quantités à la liste avant de fermer le dossier, surtout quand plusieurs vendeurs partagent le même carton extérieur.",
+            "Si quelque chose manque ou est visiblement endommagé, documentez l’écart précis et gardez étiquettes et emballages utiles pendant la démarche au support. Distinguez problème d’article et problème de statut de livraison. Pour la prochaine préparation, notez si le regroupement a changé les dimensions, lignes disponibles ou besoins de manutention. Améliorez ainsi votre propre liste sans présenter une commande comme preuve d’économies universelles."
+          ]
+        },
+        {
+          "id": "worked-item-list",
+          "heading": "9. Exemple de liste : garder à part un article non résolu",
+          "paragraphs": [
+            "Imaginons un acheteur ayant commandé un T-shirt, une paire de chaussures et un petit sac auprès de trois vendeurs. La taille et l’état du T-shirt sont vérifiés. Les chaussures demandent une mesure supplémentaire et le sac n’est pas encore arrivé. La liste prête contient seulement le T-shirt ; les deux autres ne doivent pas y être ajoutés implicitement parce qu’ils étaient destinés au même envoi.",
+            "L’acheteur demande la mesure des chaussures, vérifie le dernier statut confirmé du sac et note les conditions de stockage et retour des articles arrivés. Une fois suffisamment renseigné, il peut comparer un colis d’articles approuvés à une solution ultérieure comprenant le sac. Chaque option nécessite son contenu réel et ses propres mesures. Cet exemple hypothétique ne conseille pas systématiquement d’attendre ou de séparer. Il montre pourquoi une liste explicite vaut mieux qu’une instruction générale de regrouper tout le compte."
+          ]
+        }
+      ],
+      "sourceIds": [
+        "official-contact",
+        "official-guide",
+        "official-shipping",
+        "official-returns"
+      ],
+      "related": [
+        "qc",
+        "articles/pikobuy-warehouse-returns",
+        "articles/pikobuy-shipping-calculator",
+        "articles/pikobuy-tracking-not-updating"
+      ],
+      "published": "2026-10-29",
+      "updated": "2026-10-29"
     }
-  ]
+  ],
+  "growth": {
+    "homeTitle": "Pikobuy Spreadsheet : liens produits, QC et livraison",
+    "homeDescription": "Parcourez des liens Pikobuy pour chaussures et vêtements. Comparez les prix USD, vérifiez tailles et QC et préparez l’envoi avec des guides pratiques.",
+    "catalogTitle": "Pikobuy Spreadsheet : chaussures, vêtements et liens produits",
+    "catalogDescription": "Recherchez par catégorie dans le Pikobuy Spreadsheet et comparez les prix en USD. Ouvrez les détails, vérifiez les tailles et poursuivez sur Pikobuy.",
+    "categoryGuideHeading": "Avant de choisir un article",
+    "categories": {
+      "shoes": {
+        "title": "Spreadsheet chaussures Pikobuy : liens, tailles et QC",
+        "description": "Parcourez les liens chaussures Pikobuy, comparez les prix USD et vérifiez mesures, photos d’entrepôt et emballage avant l’expédition.",
+        "intro": "Comparez les annonces pour la taille et la variante exactes à commander. Une pointure familière est un point de départ, pas une preuve de confort. Ouvrez les détails d’origine et vérifiez les mesures du vendeur avant paiement. Les images de cette page sont celles des annonces, pas des photos QC de votre commande.",
+        "checks": [
+          "Comparez le tableau du vendeur à une paire confortable que vous possédez.",
+          "Demandez la mesure ou photo d’étiquette permettant de résoudre la question de taille.",
+          "Décidez de conserver la boîte après le QC et toute décision de retour."
+        ]
+      },
+      "sweatshirts": {
+        "title": "Spreadsheet Pikobuy pour sweats et sweats à capuche",
+        "description": "Trouvez des liens de sweats, comparez les prix USD et vérifiez poitrine, longueur et manches avant une commande via Pikobuy.",
+        "intro": "Choisissez un sweat selon ses mesures et la coupe souhaitée. Comparez largeur de poitrine, longueur et manches à un vêtement que vous portez déjà. Une même lettre de taille peut désigner des coupes différentes : vérifiez l’annonce et la variante plutôt que de supposer une conversion universelle.",
+        "checks": [
+          "Comparez des mesures prises selon la même méthode et les mêmes unités.",
+          "Vérifiez couleur, capuche, fermeture et poches dans l’annonce originale.",
+          "Examinez les photos d’entrepôt avant d’ajouter le vêtement à un colis regroupé."
+        ]
+      },
+      "tshirts": {
+        "title": "Spreadsheet T-shirts Pikobuy : liens et tailles à vérifier",
+        "description": "Parcourez des liens de T-shirts et prix USD. Comparez poitrine et longueur, vérifiez la variante et préparez le QC en entrepôt avant envoi.",
+        "intro": "Comparez les T-shirts selon largeur de poitrine, longueur et coupe souhaitée. Les photos d’annonce aident à identifier un modèle, mais ne confirment ni les mesures ni l’état de l’article envoyé à l’entrepôt. Gardez taille et couleur choisies avec la référence pour les comparer aux futures photos de contrôle.",
+        "checks": [
+          "Mesurez un T-shirt qui vous convient et comparez la méthode du vendeur.",
+          "Confirmez taille et couleur avant d’ouvrir la commande sur Pikobuy.",
+          "Demandez une photo plus précise si un motif, une couture ou une mesure reste incertain."
+        ]
+      }
+    },
+    "hubs": {
+      "qc": {
+        "title": "Guide QC Pikobuy : photos, mesures et retours",
+        "description": "Comparez les photos QC Pikobuy à votre commande : taille, couleur, quantité et état visible. Sachez quand demander des preuves supplémentaires avant l’envoi.",
+        "sections": [
+          {
+            "id": "match-order",
+            "heading": "Relier les photos à votre propre commande",
+            "paragraphs": [
+              "Commencez par la référence, la variante sélectionnée et la quantité. Comparez le dossier d’entrepôt au produit réellement acheté, pas à une annonce similaire. Les images de ce catalogue indépendant sont des photos de produits, pas des preuves QC liées à votre commande."
+            ]
+          },
+          {
+            "id": "check-evidence",
+            "heading": "Vérifier les détails visibles et les mesures",
+            "paragraphs": [
+              "Examinez couleur, étiquettes, coutures, position du motif, accessoires et dommages visibles. Pour la taille, demandez la mesure déterminante selon la méthode du tableau vendeur. Une étiquette lisible ne démontre pas l’ajustement ; une photo ne prouve pas composition, authenticité ou performances à long terme."
+            ]
+          },
+          {
+            "id": "request-detail",
+            "heading": "Demander le détail susceptible de changer votre décision",
+            "paragraphs": [
+              "Précisez l’article et la partie à montrer. Demandez par exemple le vêtement posé à plat avec le mètre visible d’un bord à l’autre. Confirmez service et coût disponibles dans Pikobuy. Si une photo reste peu concluante, conservez cette incertitude plutôt que de la traiter comme une validation."
+            ]
+          },
+          {
+            "id": "decide-before-shipping",
+            "heading": "Décider avant de soumettre le colis",
+            "paragraphs": [
+              "Approuvez l’article, demandez une précision ou engagez un retour admissible tant qu’il est en entrepôt. Vérifiez rapidement les conditions actuelles et préservez l’emballage exigé. Terminez avant regroupement ou modification irréversible de l’emballage. Conservez le contrôle avec la liste finale du colis."
+            ]
+          }
+        ],
+        "sourceIds": [
+          "official-guide",
+          "official-user-agreement",
+          "official-returns"
+        ]
+      },
+      "shipping": {
+        "title": "Livraison Pikobuy : calculateur, coûts et suivi",
+        "description": "Préparez la livraison Pikobuy avec le calculateur officiel, le poids emballé et les dimensions. Comparez les lignes, regroupez les articles approuvés et suivez l’envoi.",
+        "sections": [
+          {
+            "id": "estimate-first",
+            "heading": "Estimer le colis avant d’engager le budget",
+            "paragraphs": [
+              "Utilisez le calculateur officiel avec le vrai pays de livraison, le type de produit, le poids et trois dimensions. Distinguez mesures et suppositions. Comparez le même colis entre les options et conservez date, devise, ligne et services inclus pour chaque résultat."
+            ]
+          },
+          {
+            "id": "complete-budget",
+            "heading": "Séparer paiement produit et transport international",
+            "paragraphs": [
+              "Le prix du catalogue est un prix produit indicatif en USD, hors livraison internationale et éventuels frais supplémentaires. Séparez achat, transport et coûts facultatifs ou à destination confirmés dans le budget. Clarifiez un montant inconnu au lieu de le considérer nul."
+            ]
+          },
+          {
+            "id": "pack-after-qc",
+            "heading": "Choisir l’emballage après le QC",
+            "paragraphs": [
+              "Résolvez les questions de taille et d’état avant de regrouper les articles. Vérifiez l’effet des modifications d’emballage sur la protection ou un retour possible. Comparez poids et dimensions finaux aux données estimées ; regrouper ne réduit pas nécessairement le total."
+            ]
+          },
+          {
+            "id": "follow-dispatch",
+            "heading": "Suivre depuis l’expédition réelle",
+            "paragraphs": [
+              "L’indication de trois jours du guide officiel concerne l’apparition du suivi après l’envoi, pas une livraison en trois jours. Distinguez paiement produit, arrivée en entrepôt, soumission du colis et mouvement transporteur. Gardez référence et dernier événement confirmé pour interroger le support sur une mise à jour absente."
+            ]
+          }
+        ],
+        "sourceIds": [
+          "official-estimate",
+          "official-guide",
+          "official-contact"
+        ]
+      }
+    }
+  }
 }

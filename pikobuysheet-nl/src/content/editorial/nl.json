@@ -14,7 +14,7 @@
     "related": "Gerelateerde artikelen",
     "allArticles": "Alle artikelen",
     "latestArticles": "Nieuwste artikelen",
-    "articleCount": "10 praktische handleidingen",
+    "articleCount": "13 praktische gidsen",
     "sourceLink": "Officiële bron"
   },
   "faq": [
@@ -304,7 +304,8 @@
       "related": [
         "spreadsheet",
         "articles/pikobuy-product-links",
-        "articles/pikobuy-haul-budget"
+        "articles/pikobuy-haul-budget",
+        "articles/pikobuy-parcel-consolidation"
       ]
     },
     {
@@ -409,7 +410,8 @@
       "related": [
         "spreadsheet",
         "articles/pikobuy-qc-measurements",
-        "articles/pikobuy-shoe-sizing"
+        "articles/pikobuy-shoe-sizing",
+        "articles/pikobuy-parcel-consolidation"
       ]
     },
     {
@@ -515,7 +517,8 @@
       "related": [
         "guide",
         "articles/pikobuy-spreadsheet-checklist",
-        "faq"
+        "faq",
+        "articles/pikobuy-parcel-consolidation"
       ]
     },
     {
@@ -602,6 +605,14 @@
             "Keer terug naar de oorspronkelijke vraag en kies een vervolgstap. Het bewijs kan doorgaan ondersteunen, een specifiek punt onbeantwoord laten of aanleiding geven om een retour te bespreken. Bewaar het antwoord bij de bestelgegevens en noteer welke meting of welk zichtbaar detail je beslissing heeft bepaald.",
             "Blijft er een probleem, controleer dan direct de actuele bestelstatus en de toepasselijke retourvoorwaarden. Besteed geen tijd aan decoratieve fotohoeken terwijl een afwijking waar je iets mee kunt doen nog niet gemeld is. Je overzicht moet het probleem eenvoudig uitleggen: wat je bedoelde, wat de foto laat zien en welke oplossing je vraagt. Blijf onzekere waarnemingen als onzeker benoemen."
           ]
+        },
+        {
+          "id": "approve-or-ask",
+          "heading": "8. Maak van de meting een duidelijke beslissing",
+          "paragraphs": [
+            "Vergelijk de gefotografeerde meting met je doel met dezelfde eindpunten en eenheden. Begint het meetlint niet bij nul, is het kledingstuk gevouwen of zijn de eindpunten onzichtbaar, vraag dan een duidelijkere meting in plaats van een nauwkeurig ogend getal te accepteren. Noteer of de resterende onzekerheid je maatkeuze zou veranderen.",
+            "Keur pas goed als het bewijs de relevante vraag beantwoordt. Vraag anders het ontbrekende detail of controleer snel de actuele retouropties. Bewaar tijdens de beslissing de originele verpakking en rond die beslissing af voordat je het artikel aan een gecombineerd pakket toevoegt. De foto is bewijs voor deze specifieke bestelling; ze is geen universele maattabel voor toekomstige aankopen."
+          ]
         }
       ],
       "sourceIds": [
@@ -612,8 +623,10 @@
       "related": [
         "qc",
         "articles/pikobuy-clothing-size-chart",
-        "articles/pikobuy-warehouse-returns"
-      ]
+        "articles/pikobuy-warehouse-returns",
+        "articles/pikobuy-parcel-consolidation"
+      ],
+      "updated": "2026-10-29"
     },
     {
       "slug": "pikobuy-haul-budget",
@@ -735,7 +748,8 @@
       "related": [
         "shipping",
         "articles/pikobuy-parcel-weight-dimensions",
-        "articles/pikobuy-spreadsheet-checklist"
+        "articles/pikobuy-spreadsheet-checklist",
+        "articles/pikobuy-shipping-calculator"
       ]
     },
     {
@@ -831,7 +845,8 @@
       "related": [
         "shipping",
         "articles/pikobuy-haul-budget",
-        "articles/pikobuy-warehouse-returns"
+        "articles/pikobuy-warehouse-returns",
+        "articles/pikobuy-shipping-calculator"
       ]
     },
     {
@@ -937,7 +952,8 @@
       "related": [
         "spreadsheet",
         "articles/pikobuy-qc-measurements",
-        "articles/pikobuy-parcel-weight-dimensions"
+        "articles/pikobuy-parcel-weight-dimensions",
+        "articles/pikobuy-parcel-consolidation"
       ]
     },
     {
@@ -1039,7 +1055,8 @@
       "related": [
         "spreadsheet",
         "articles/pikobuy-qc-measurements",
-        "articles/pikobuy-parcel-weight-dimensions"
+        "articles/pikobuy-parcel-weight-dimensions",
+        "articles/pikobuy-parcel-consolidation"
       ]
     },
     {
@@ -1132,6 +1149,14 @@
             "Houd een korte tijdlijn bij van het verzoek, ontvangstbevestigingen, aanvullend bewijs en beslissingen. Reageer waar passend binnen dezelfde zaak zodat de context bij elkaar blijft. Vraagt ondersteuning om een ontbrekend detail, beantwoord die vraag dan rechtstreeks in plaats van de hele aankoop opnieuw te beschrijven.",
             "Controleer voordat je een stap goedkeurt of deze over het juiste artikel gaat en over de oplossing die jij begrijpt. Bewaar de bevestiging van wat is geaccepteerd en wat nog openstaat. Een ingediend verzoek, een antwoord van de verkoper en een voltooide terugbetaling zijn verschillende gebeurtenissen. Door ze apart vast te leggen volg je de uitkomst zonder voortgang met afronding te verwarren."
           ]
+        },
+        {
+          "id": "before-consolidation",
+          "heading": "8. Los retouren op vóór het samenvoegen",
+          "paragraphs": [
+            "Houd een artikel met een open retourverzoek apart van je verzendklare lijst. Noteer het tijdstip van de magazijnstatus, het probleem, ondersteunende foto’s en de gevraagde oplossing. Controleer het actuele beleid en de deadline voor je bestelling; wachten op een andere verkoper geeft geen verlenging.",
+            "Bevestig vóór verwijdering van verpakking of internationale verzending of het artikel is goedgekeurd voor verzending of nog op een verkopersbeslissing wacht. Houd labels, verzegelingen en vereiste verpakking intact terwijl geschiktheid wordt beoordeeld. Vraag officiële ondersteuning naar de exacte toepasselijke kosten in plaats van aan te nemen dat retourneren gratis is of een algemeen voorbeeld jouw geval dekt."
+          ]
         }
       ],
       "sourceIds": [
@@ -1141,8 +1166,10 @@
       "related": [
         "qc",
         "articles/pikobuy-qc-measurements",
-        "articles/pikobuy-haul-budget"
-      ]
+        "articles/pikobuy-haul-budget",
+        "articles/pikobuy-parcel-consolidation"
+      ],
+      "updated": "2026-10-29"
     },
     {
       "slug": "pikobuy-tracking-not-updating",
@@ -1238,6 +1265,14 @@
             "Werk het logboek bij wanneer een betekenisvolle gebeurtenis verschijnt en beschouw herhaald bekijken van dezelfde pagina niet als nieuw bewijs. Bewaar instructies of antwoorden die de verwachte vervolgstap veranderen. Krijg je voor jouw zaak een deadline of escalatiestap, leg die dan uitdrukkelijk vast.",
             "Vergelijk bij aankomst van het pakket de inhoud met je artikellijst en bewaarde inspectiegegevens. Bewaar relevante verpakking en labels zolang een afwijking wordt opgehelderd. Voltooide tracking en een bevredigende inhoudscontrole zijn aparte waarnemingen. Een overzichtelijk dossier helpt een bezorgprobleem of artikelprobleem uit te leggen zonder ze door elkaar te halen."
           ]
+        },
+        {
+          "id": "quick-triage",
+          "heading": "8. Snelle beoordeling: koppel het ontbrekende bewijs aan de volgende stap",
+          "paragraphs": [
+            "Geen verzendregistratie: controleer de pakketaanvraag en verzendbetaling in je account. Verzending geregistreerd maar nog geen trackinginformatie na de officiële richtlijn: vraag Pikobuy de overdracht te bevestigen. Een vervoerdersgebeurtenis bestaat maar verandert niet: bewaar exacte tekst en tijdstip en controleer actuele dienstinstructies. Een bezorguitzondering vraagt actie: verifieer het verzoek via het officiële platform- of vervoerderskanaal.",
+            "Vermeld pakketreferentie, daadwerkelijke verzenddatum en laatste bevestigde gebeurtenis in één ondersteuningsverzoek. Begin de tijdlijn niet op de productaankoopdatum en interpreteer de driedagenuitspraak over tracking niet als levergarantie. Bevat je pakket meerdere bestellingen, gebruik dan de gecombineerde pakketreferentie voor internationale tracking."
+          ]
         }
       ],
       "sourceIds": [
@@ -1247,8 +1282,506 @@
       "related": [
         "shipping",
         "guide",
-        "faq"
-      ]
+        "faq",
+        "articles/pikobuy-shipping-calculator"
+      ],
+      "updated": "2026-10-29"
+    },
+    {
+      "slug": "pikobuy-shipping-calculator",
+      "title": "Pikobuy-verzendcalculator: schat de volledige pakketkosten",
+      "description": "Gebruik de Pikobuy-verzendcalculator met het juiste gewicht, de afmetingen en de bestemming. Vergelijk offertes en houd vrachtkosten apart van je totale bestelbudget.",
+      "intro": "Een bruikbare Pikobuy-verzendraming begint met een duidelijk omschreven pakket, niet alleen met een productprijs of een aangenomen aantal kilo’s. Noteer de bestemming, de artikelen die je wilt versturen en de benodigde verpakking. Vergelijk vervolgens met de officiële calculator de mogelijkheden die daadwerkelijk worden aangeboden. Deze gids biedt een herbruikbaar werkblad om ramingen te vergelijken zonder ze als definitieve rekening te behandelen.",
+      "sections": [
+        {
+          "id": "prepare-inputs",
+          "heading": "1. Bereid de invoergegevens voor die de raming beïnvloeden",
+          "paragraphs": [
+            "De officiële calculator vraagt om de bestemming, het producttype, het gewicht in kilogram en de lengte, breedte en hoogte in centimeters. Zet deze waarden eerst bij elkaar. Vermeld bij elke waarde of deze gemeten of geschat is en noteer de datum. Vóór aankomst in het magazijn kan het door de verkoper opgegeven productgewicht exclusief winkelverpakking, opvulling en omdoos zijn. Gebruik het als planningsgegeven, niet als bevestigd verzendgewicht.",
+            "Gebruik de werkelijke bezorgbestemming. De taal waarin je leest, selecteert geen verzendland; een gedeelde offerte van een andere koper kan op andere gegevens berusten. Controleer bij een gemengd pakket hoe de beschikbare producttypen de inhoud beschrijven. Past een batterij, vloeistof, breekbaar onderdeel of ander bijzonder artikel niet duidelijk in een categorie, vraag Pikobuy dan welke categorie en routevoorwaarden gelden voordat je op de uitkomst vertrouwt."
+          ]
+        },
+        {
+          "id": "separate-costs",
+          "heading": "2. Houd vrachtkosten apart van het volledige bestelbudget",
+          "paragraphs": [
+            "Zet de productbetaling en de latere internationale verzendbetaling op afzonderlijke regels. Voeg bevestigde binnenlandse bezorgkosten, optionele verwerking, betaalconversie en bestemmingskosten als aparte posten toe. Neem geen toeslag over alleen omdat een andere koper die noemt; markeer deze als onbevestigd totdat je bewijs voor jouw bestelling hebt. Omgekeerd betekent een leeg veld onbekend, niet gratis.",
+            "Deze catalogus toont indicatieve productprijzen in USD. De prijs op een productkaart is geen offerte voor internationale verzending. Houd de valuta van elke daadwerkelijke betaling zichtbaar en vergelijk totalen in één gekozen valuta met de wisselkoers en betaalkosten die voor jou gelden. Een gunstige productprijs kan alsnog te weinig budget overlaten voor het afgewerkte pakket. Bepaal je maximale volledige budget voordat je beslist hoeveel producten je koopt."
+          ]
+        },
+        {
+          "id": "measure-parcel",
+          "heading": "3. Gebruik verpakte afmetingen in plaats van een veronderstelde verzendregel",
+          "paragraphs": [
+            "Meet of vraag de buitenmaten van het pakket nadat je de verpakking hebt gekozen. Noteer het werkelijke gewicht apart. Ga er niet van uit dat een licht maar groot pakket uitsluitend op weeggewicht wordt geprijsd. Volgens de Pikobuy-gids verschillen de berekeningsmethoden per route; lees daarom de methode bij de optie die je vergelijkt. Dit artikel schrijft niet voor alle routes één universele deler voor volumegewicht voor.",
+            "Uitsluitend als rekenvoorbeeld: een doos van 40 × 30 × 20 cm heeft een volume van 24.000 kubieke centimeter. Bij een hoogte van 15 cm wordt dit 18.000 kubieke centimeter. Dit toont een volumeverandering, geen beloofde prijsverlaging. De beschikbare route, tariefstappen, beschermende verpakking en definitieve afmetingen bepalen nog steeds of de wijziging de offerte beïnvloedt. Verwijder geen noodzakelijke bescherming om een kleiner voorbeeld na te bootsen."
+          ]
+        },
+        {
+          "id": "compare-like-for-like",
+          "heading": "4. Vergelijk twee mogelijkheden met hetzelfde pakket",
+          "paragraphs": [
+            "Vergelijk met dezelfde bestemming, inhoud en afmetingen. Noteer het precieze routelabel en het tijdstip van elk resultaat. Een tweede offerte voor een lichter pakket bewijst niet dat die route goedkoper is. Verandert de offerte terwijl je de verpakking aanpast, bewaar dan de oude invoer om het verschil te kunnen verklaren in plaats van het automatisch aan een nieuw tarief toe te schrijven.",
+            "Gebruik het onderstaande werkblad voor elke kandidaat. Neem de daadwerkelijk getoonde voorwaarden over en vraag ontbrekende informatie na voordat je betaalt. Een ontbrekende levertijdraming of onduidelijke inbegrepen dienst vraagt om verduidelijking. Verschijnt een verzekering, verwerking of andere optionele dienst, vergelijk dan het totaal met dezelfde opties geselecteerd. De laagste getoonde vanafprijs vertegenwoordigt mogelijk niet de volledige dienst die je wilt."
+          ],
+          "table": {
+            "headers": [
+              "Vastleggen",
+              "Optie A",
+              "Optie B"
+            ],
+            "rows": [
+              [
+                "Bestemming en inhoud",
+                "Gebruik dezelfde invoer",
+                "Gebruik dezelfde invoer"
+              ],
+              [
+                "Verpakt gewicht en afmetingen",
+                "Noteer gemeten of geschat",
+                "Noteer gemeten of geschat"
+              ],
+              [
+                "Route en berekeningsmethode",
+                "Neem de getoonde voorwaarden over",
+                "Neem de getoonde voorwaarden over"
+              ],
+              [
+                "Totaal en inbegrepen diensten",
+                "Noteer valuta en uitsluitingen",
+                "Noteer valuta en uitsluitingen"
+              ],
+              [
+                "Datum van raming en open vragen",
+                "Bewaar bij de offerte",
+                "Bewaar bij de offerte"
+              ]
+            ]
+          }
+        },
+        {
+          "id": "test-packaging",
+          "heading": "5. Vergelijk verpakkingsscenario’s zonder besparingen te veronderstellen",
+          "paragraphs": [
+            "Maak één scenario voor de benodigde verpakking en alleen een tweede als een praktisch alternatief beschikbaar is. Onderscheid bij schoenen het bewaren van de winkeldoos van bescherming van de schoenen zelf. Bepaal bij een breekbaar artikel welke bescherming essentieel is. Controleer bij kleding of je afmetingen een losse groep artikelen beschrijven of het pakket dat het magazijn daadwerkelijk voorbereidt. Deze verschillen moeten in je aantekeningen zichtbaar zijn.",
+            "Vraag bevestiging voordat je onomkeerbare verpakkingswijzigingen aanvraagt. Labels, verzegelingen en originele verpakking kunnen belangrijk zijn voor retourgeschiktheid; rond daarom eerst de controle- of retourbeslissing af. Een kleiner pakket is niet automatisch beter als een artikel moeilijker te beschermen of retourneren wordt. Noteer zowel de gevraagde wijziging als het bevestigde resultaat; vervang een gemeten waarde niet door het getal dat je hoopte te bereiken."
+          ]
+        },
+        {
+          "id": "reconcile-final-quote",
+          "heading": "6. Vergelijk de raming met de definitieve pakketofferte",
+          "paragraphs": [
+            "Vergelijk vóór betaling van internationale verzending het definitieve pakketoverzicht met je werkblad. Controleer de artikellijst, bestemming, route, het verpakte gewicht, de afmetingen en geselecteerde diensten. Wijkt het bedrag af, zoek dan welke invoer of toeslag veranderde. Een eerdere schermafbeelding helpt een nieuwe meting te onderscheiden van een per ongeluk geselecteerde optie. Vraag een uitsplitsing wanneer het verschil onverklaard blijft.",
+            "Bewaar de offerte, betalingsbevestiging en pakketreferentie bij elkaar. Ze beantwoorden verschillende vragen: de offerte beschrijft het aanbod, de betaling toont wat je betaalde en het pakketoverzicht koppelt de zending aan de inhoud. Een geslaagde productbetaling bewijst niet dat internationale verzending ook is betaald. Volg het daadwerkelijke proces in je account in plaats van alle transacties als één bestelbedrag te behandelen."
+          ]
+        },
+        {
+          "id": "handle-missing-data",
+          "heading": "7. Wanneer de calculator geen bruikbaar resultaat geeft",
+          "paragraphs": [
+            "Controleer eerst de eenheden, bestemming en productcategorie. Het ontbreken van een optie bewijst op zichzelf niet dat een artikel nooit kan worden verzonden, en rechtvaardigt geen onjuiste categorie om een offerte af te dwingen. Bewaar de invoer en vraag officiële ondersteuning of de inhoud en afmetingen geschikt zijn voor een momenteel beschikbare route. Plaats geen extra bestellingen alleen om een door iemand anders aanbevolen pakketgrootte te bereiken.",
+            "Wacht je nog op magazijnmetingen, houd dan in je eigen planning een reeks mogelijke budgetten aan en vermeld de aannames. Publiceer één voorlopig resultaat niet als standaard Pikobuy-verzendprijs. Vervang de aanname zodra de ontbrekende informatie beschikbaar is en voer de vergelijking opnieuw uit. Zo krijg je een controleerbare beslissing zonder tarieven, gegarandeerde besparingen of leverdatums te verzinnen."
+          ]
+        },
+        {
+          "id": "before-payment",
+          "heading": "8. Sluit af met een kort beslisoverzicht",
+          "paragraphs": [
+            "Je definitieve overzicht vermeldt welke artikelen zijn opgenomen, welke controlevragen zijn opgelost, welke verpakking je goedkeurde en waarom de gekozen route bij je behoeften past. Vermeld het volledige bedrag en eventuele resterende kosten die volgens de ontvangen informatie zijn uitgesloten. Als een onbekende post je budget zou overschrijden, verduidelijk deze dan vóór de volgende betaling.",
+            "Gebruik bij een gemengde bestelling de samenvoeggids voordat je het pakket afrondt. Gebruik voor bestemmingsgerichte planning de Europese verzendchecklist. Schakel na verzending over op de trackinggids in plaats van de calculator als bewijs van voortgang te blijven gebruiken. Ramen, kopen, controleren en volgen hangen samen, maar elke taak vereist eigen bewijs."
+          ]
+        },
+        {
+          "id": "worked-comparison",
+          "heading": "9. Vergelijkingsvoorbeeld: verander één aanname tegelijk",
+          "paragraphs": [
+            "Een koper wil twee paar schoenen en een sweater versturen. Vóór aankomst in het magazijn beschikt de koper alleen over productgewichten uit advertenties en niet over verpakte afmetingen. Het eerste werkblad markeert gewicht en formaat daarom als schattingen. Na QC besluit de koper één schoenendoos te bewaren en vraagt welke verpakking geschikt is voor het andere paar. In dit stadium wordt geen prijs aangenomen.",
+            "Zodra het magazijn de resulterende pakketafmetingen verstrekt, voert de koper deze waarden in de officiële calculator in en noteert de beschikbare opties. Is de offerte boven budget, dan is de volgende vraag of een andere toegestane samenstelling de volledige kosten verandert. De koper vergelijkt die samenstelling met de oorspronkelijke, met dezelfde bestemming en dienstaannames. Dit voorbeeld illustreert een methode, geen echte bestelling, tarief of besparing. Het gaat erom vast te stellen welke invoer veranderde voordat je het nieuwe resultaat accepteert."
+          ]
+        }
+      ],
+      "sourceIds": [
+        "official-estimate",
+        "official-guide",
+        "official-returns"
+      ],
+      "related": [
+        "shipping",
+        "articles/pikobuy-parcel-weight-dimensions",
+        "articles/pikobuy-haul-budget",
+        "articles/pikobuy-parcel-consolidation"
+      ],
+      "published": "2026-10-29",
+      "updated": "2026-10-29"
+    },
+    {
+      "slug": "pikobuy-shipping-europe",
+      "title": "Pikobuy-verzending naar Europa: bestemmings- en bezorgchecklist",
+      "description": "Plan Pikobuy-verzending naar Nederland, Duitsland en andere Europese bestemmingen: controleer routes, adres, pakketkosten en trackingfasen.",
+      "intro": "Voor Pikobuy-verzending naar Europa heb je een offerte nodig voor je werkelijke bezorgland en pakket. Een gids in het Nederlands, Duits of Engels bepaalt niet welke routes vandaag voor jouw account beschikbaar zijn. Gebruik deze bestemmingschecklist om de juiste gegevens voor te bereiden, de door Pikobuy getoonde opties te vergelijken en je gegevens te bewaren van magazijngoedkeuring tot levering.",
+      "sections": [
+        {
+          "id": "choose-destination",
+          "heading": "1. Begin met het bezorgland, niet met de taal van de site",
+          "paragraphs": [
+            "Selecteer in de officiële verzendcalculator het land waar het pakket wordt bezorgd. Een koper die naar Nederland verzendt, moet die bestemming gebruiken, ook bij het lezen van een Engelse gids. Hetzelfde geldt voor Duitsland, Frankrijk, Spanje of een ander land. De talen op deze site helpen je de uitleg te lezen; ze vormen geen afzonderlijke vervoerscontracten en beloven niet dat elke route elke bestemming bedient.",
+            "Noteer de postcode en bestemmingsgegevens die voor de daadwerkelijke pakketaanvraag nodig zijn. Controleer spelling, huis- of gebouwnummer, eventuele appartementgegevens en contactgegevens van de ontvanger in het echte formulier. Ga er niet van uit dat de calculator een volledig adres heeft gevalideerd alleen omdat een land werd geaccepteerd. Heeft je adres een ongebruikelijk formaat of een bezorgbeperking, los die vraag dan vóór verzending via het platform op."
+          ]
+        },
+        {
+          "id": "define-contents",
+          "heading": "2. Bepaal de inhoud voordat je Europese routes vergelijkt",
+          "paragraphs": [
+            "Maak een lijst van alle artikelen die je wilt versturen en los eerst eventuele vragen over de magazijncontrole op. Bewaar gekozen maat, kleur en hoeveelheid bij de artikelreferentie zodat het pakket uit goedgekeurde artikelen bestaat. Eén artikel waarvoor nog een verkopersreactie nodig is, kan bepalen wanneer je het hele pakket kunt indienen. Een bezorgplan op basis van een onvolledige lijst wordt onbetrouwbaar zodra de inhoud verandert.",
+            "Beschrijf bijzondere inhoud nauwkeurig wanneer je naar geschiktheid vraagt. Leid toestemming voor een batterij, vloeistof of breekbaar artikel niet af uit een routenaam of de geslaagde levering van iemand anders. Beperkingen en verwerking hangen af van de daadwerkelijke dienst en inhoud. Vraag welke actuele optie je pakket accepteert en bewaar de reactie bij de raming. Een aantrekkelijke offerte is alleen nuttig als het pakket die dienst rechtmatig kan gebruiken."
+          ]
+        },
+        {
+          "id": "compare-route-records",
+          "heading": "3. Vergelijk de dienst die voor jouw bestemming wordt getoond",
+          "paragraphs": [
+            "Bewaar voor elke beschikbare optie de routenaam, het geoffreerde bedrag, de valuta, relevante berekeningsmethode en eventuele getoonde transittijdraming. Houd gewicht en afmetingen tijdens de vergelijking gelijk. Volgens de officiële gids kunnen routes in tijd en berekening verschillen, maar er bestaat daarmee niet één universeel beste route naar Europa. Kies uit de mogelijkheden die op dat moment voor jouw pakket en behoeften worden getoond.",
+            "Vraag bij onduidelijke formuleringen wat de geoffreerde dienst omvat. Alleen een routelabel is onvoldoende bewijs voor alle kosten, verwerkingsstappen of bezorgbeloften. Vervang het aanbod in je account niet door een prijslijst van sociale media. Gebruiken twee resultaten verschillende verpakkingen of optionele diensten, benoem die verschillen dan voordat je de totalen vergelijkt. Voorzie schermafbeeldingen van een datum, zodat een oude offerte niet voor een huidig aanbod wordt aangezien."
+          ]
+        },
+        {
+          "id": "budget-destination",
+          "heading": "4. Houd rekening met kosten buiten de getoonde vrachtprijs",
+          "paragraphs": [
+            "Scheid productkosten, binnenlandse levering, internationale vracht, optionele diensten en eventuele bestemmingskosten in je planning. Veronderstel niet dat het vrachtbedrag voor elke internationale bestelling het uiteindelijke totaal is. Voeg evenmin een willekeurig percentage of een toeslag uit een andere bestemming toe. Noteer wat de gekozen dienst daadwerkelijk omvat en wat nog bevestigd moet worden.",
+            "Controleer voor invoerrechten, belastingen, aangiften en lokale eisen de actuele vereisten van de precieze bestemming en de voorwaarden van je gekozen dienst. Deze checklist geeft geen belastingdrempel, tarief of wettelijke vrijstelling. Gebruik correcte inhoud en waarden op de vereiste formulieren; een routenaam of informele omschrijving van een andere koper vervangt die vereisten niet. Vraag om verduidelijking als de formulering van het platform een belangrijke kostenpost onzeker laat."
+          ]
+        },
+        {
+          "id": "plan-timeline",
+          "heading": "5. Bouw de tijdlijn op uit afzonderlijke mijlpalen",
+          "paragraphs": [
+            "De totale wachttijd kan bestaan uit verkopersverwerking, binnenlandse bezorging naar het magazijn, controle, een correctie- of retourbeslissing, pakketvoorbereiding en internationaal vervoer. Houd deze fasen in je notities gescheiden. Een internationale transittijdraming omvat niet automatisch wachten op een verkoper of je eigen goedkeuring. Beoordeel bij een tijdgevoelige aankoop de volledige volgorde, niet alleen het vervoerdersdeel.",
+            "De Pikobuy-gids plaatst de verwachting over trackinginformatie na verzending. Dat is geen leverbelofte van drie dagen en begint niet wanneer je een artikel betaalt. Noteer het daadwerkelijke verzendmoment en volg de trackingreferentie van dat pakket. Is een fase onduidelijk, vraag dan wat voltooid is en welke handeling nog nodig is, in plaats van voortgang af te leiden uit de leeftijd van de productbestelling."
+          ]
+        },
+        {
+          "id": "destination-worksheet",
+          "heading": "6. Gebruik één werkblad per bestemming en pakket",
+          "paragraphs": [
+            "Een afzonderlijk werkblad voorkomt dat gegevens van verschillende ontvangers of bestellingen door elkaar raken. De onderstaande velden werken voor Nederland, Duitsland en andere bestemmingen zonder identieke routes of kosten te veronderstellen. Het is een planningssjabloon, geen geverifieerde offerte of landentabel met levertijden. Vul de velden in met je eigen actuele gegevens.",
+            "Maak een nieuwe vergelijking als je bestemming, artikellijst of verpakking verandert. Bewaar de vorige versie zodat zichtbaar blijft waarom het bedrag of de beschikbare diensten veranderden. Dat is vooral nuttig wanneer vrienden offertes delen: vergelijk eerst de invoer en beoordeel dan of het voorbeeld relevant is. Behandel alleen de landnaam nooit als een volledige pakketspecificatie."
+          ],
+          "table": {
+            "headers": [
+              "Planningsveld",
+              "Wat je bewaart"
+            ],
+            "rows": [
+              [
+                "Bestemming en ontvanger",
+                "Het land en de gecontroleerde adresgegevens"
+              ],
+              [
+                "Goedgekeurde inhoud",
+                "Artikelreferenties, varianten en aantallen"
+              ],
+              [
+                "Pakketmetingen",
+                "Verpakt gewicht en drie buitenmaten"
+              ],
+              [
+                "Gekozen dienst",
+                "Actuele route, totaal, inbegrepen zaken en open vragen"
+              ],
+              [
+                "Verzending en tracking",
+                "Pakketreferentie, verzendregistratie en laatste bevestigde gebeurtenis"
+              ]
+            ]
+          }
+        },
+        {
+          "id": "last-mile",
+          "heading": "7. Volg de overdracht en de laatste bezorgfase",
+          "paragraphs": [
+            "Lees na verzending de volledige trackinggebeurtenis, het tijdstip en de bron. Elektronische zendingsinformatie is niet hetzelfde als een fysieke acceptatiescan van een vervoerder. Vermeldt het overzicht een bezorgpartner of andere trackingreferentie, gebruik dan de daadwerkelijk verstrekte gegevens. Raad de lokale vervoerder niet alleen op basis van het bestemmingsland en neem niet aan dat elke route dezelfde trackingberichten doorloopt.",
+            "Controleer bij een bezorguitzondering via het officiële platform- of vervoerderskanaal welke actie wordt gevraagd. Bevestig een adres, afhaalvereiste of andere instructie uitsluitend via een geverifieerd kanaal. Bewaar de exacte melding en eventuele reactie. Een trackingpauze bewijst op zichzelf geen verlies, terwijl een geschatte datum niet bewijst dat het pakket is aangekomen. Gebruik het artikel over trackingproblemen als het bewijs niet meer verandert."
+          ]
+        },
+        {
+          "id": "receive-parcel",
+          "heading": "8. Rond het dossier af wanneer het pakket aankomt",
+          "paragraphs": [
+            "Vergelijk de ontvangen inhoud met de goedgekeurde artikellijst en bewaarde controlefoto’s. Bewaar het verzendlabel, de verpakking en relevante gegevens terwijl een ontbrekend of beschadigd artikel wordt onderzocht. Een afgeleverde trackingstatus beantwoordt een vervoersvraag; deze bevestigt niet zelfstandig de inhoud of staat ervan. Meld een specifieke afwijking snel via officiële ondersteuning in plaats van verschillende niet-gerelateerde klachten samen te voegen.",
+            "Bekijk voor je volgende bestelling welke aannames veranderden: verpakkingsformaat, dienstkeuze, wachttijd bij de verkoper of een onverwachte toeslag. Verbeter je eigen planning, maar maak van één pakketervaring geen universele levergarantie. Beginnen met actuele bestemmingsgegevens, goedgekeurde inhoud en een op bewijs gebaseerde tijdlijn maakt de volgende vergelijking eenvoudiger zonder een niet-onderbouwd resultaat te beloven."
+          ]
+        },
+        {
+          "id": "worked-timeline",
+          "heading": "9. Tijdlijnvoorbeeld: scheid verkopersvertraging van vervoer",
+          "paragraphs": [
+            "Neem een hypothetische bestelling voor bezorging in Nederland. Eén kledingstuk is aangekomen in het magazijn en door de koper gecontroleerd, terwijl voor een tweede artikel nog op een verkopersupdate wordt gewacht. De koper heeft nog geen internationaal pakket ingediend. Zelfs als de calculator een transittijdraming toont, bepaalt die niet wanneer de onvolledige bestelling op het adres van de ontvanger aankomt.",
+            "De koper noteert de opslagvoorwaarden en eventuele openstaande deadline van het eerste artikel, vraagt naar het tweede en vergelijkt wachten met alleen het goedgekeurde artikel versturen. Nadat het definitieve pakket is ingediend en verzending is geregistreerd, begint de internationale trackingtijdlijn met de pakketreferentie. Pauzeert later een vervoerdersgebeurtenis, dan gaat de ondersteuningsvraag over die gebeurtenis in plaats van over de eerdere verkopersvertraging. Dit is een planningsvoorbeeld, geen gepubliceerd bezorgschema. Afzonderlijke mijlpalen maken zowel de beslissing als de ondersteuningsvraag preciezer."
+          ]
+        }
+      ],
+      "sourceIds": [
+        "official-estimate",
+        "official-guide",
+        "official-terms",
+        "official-contact"
+      ],
+      "related": [
+        "shipping",
+        "articles/pikobuy-shipping-calculator",
+        "articles/pikobuy-tracking-not-updating",
+        "articles/pikobuy-parcel-consolidation"
+      ],
+      "published": "2026-10-29",
+      "updated": "2026-10-29"
+    },
+    {
+      "slug": "pikobuy-parcel-consolidation",
+      "title": "Pikobuy-pakketten samenvoegen: combineer bestellingen na QC",
+      "description": "Combineer Pikobuy-magazijnartikelen met een duidelijke checklist voor QC, verpakking en kosten. Vergelijk één pakket met losse zendingen zonder gegarandeerde besparingen aan te nemen.",
+      "intro": "Pikobuy zegt dat artikelen van verschillende verkopers in één pakket kunnen worden samengevoegd. De nuttige vraag is of jouw artikelen klaar zijn om samen te reizen, met passende verpakking en een begrijpelijke offerte. Samenvoegen hoort na je controlebeslissingen te komen. Deze gids helpt je een duidelijke artikellijst op te stellen, praktische verpakkingsopties te vergelijken en het pakket te bevestigen voordat je internationale verzending betaalt.",
+      "sections": [
+        {
+          "id": "build-item-list",
+          "heading": "1. Maak een artikellijst voordat je een pakket kiest",
+          "paragraphs": [
+            "Noteer voor elk artikel de bestelreferentie, het product, de gekozen maat of kleur, het aantal en de actuele magazijnstatus. Scheid ontvangen artikelen van artikelen die nog bij een verkoper of onderweg binnen China zijn. Dat één bestelling gereed is, bewijst niet dat de rest is aangekomen. Noteer welke artikelen je wilt uitsluiten zodat een oude shortlist niet voor de definitieve verpakkingsinstructie wordt aangezien.",
+            "Bewaar bij artikelen van verschillende verkopers de oorspronkelijke bestelreferenties, ook als ze later één pakketnummer delen. Deze referenties helpen bij het uitleggen van een ontbrekend aantal, verkeerde variant of verkoperspecifiek probleem. Eén internationale zending wist de afzonderlijke aankoopgeschiedenissen niet uit. Je definitieve pakketlijst moet elk inbegrepen artikel koppelen aan het overzicht dat je daadwerkelijk controleerde."
+          ]
+        },
+        {
+          "id": "finish-qc",
+          "heading": "2. Rond QC- en retourbeslissingen eerst af",
+          "paragraphs": [
+            "Bekijk het magazijnbewijs voor de aangekomen artikelen. Vergelijk referentie, variant en hoeveelheid voordat je naar de zichtbare staat en gevraagde metingen kijkt. Een catalogusfoto bewijst niet de staat van jouw specifieke bestelling. Beantwoorden de beschikbare foto’s een belangrijke vraag niet, vraag dan via Pikobuy het relevante detail en bevestig eventuele kosten voordat je beslist het artikel te verzenden.",
+            "Houd een onopgelost artikel buiten de verzendklare groep totdat je hebt besloten wat je doet. De gepubliceerde retourvoorwaarden kennen termijnen en geschiktheidseisen; wachten op een andere verkoper mag je daarom niet afleiden van een beslissing over een al opgeslagen artikel. Bewaar labels, verzegelingen en verpakking terwijl retourgeschiktheid wordt verduidelijkt. Geef niet alleen voor een samenvoegraming toestemming deze te verwijderen."
+          ]
+        },
+        {
+          "id": "choose-wait-or-send",
+          "heading": "3. Bepaal of wachten op een ander artikel zinvol is",
+          "paragraphs": [
+            "Vergelijk de praktische gevolgen van wachten met het nu verzenden van goedgekeurde artikelen. Noteer het ontbrekende artikel, de bevestigde status en relevante deadlines voor reeds opgeslagen artikelen. De openbare doorzendvoorwaarden leggen geen universele gratis opslagperiode voor alle bestellingen vast. Controleer de actuele opslagvoorwaarden van jouw artikelen in plaats van een vast aantal gratis dagen van een andere website aan te nemen.",
+            "Wachten kan een andere pakketsamenstelling opleveren, maar garandeert geen besparing of bepaalde verzenddatum. Een laat artikel kan ook de afmetingen of toegestane route veranderen. Weeg bij een tijdgevoelige aankoop de volledige reeks resterende stappen af. Houd de beslissing eenvoudig: welk bewijs ontbreekt, welke deadline telt en wat doe je als het ontbrekende artikel nog niet gereed is?"
+          ]
+        },
+        {
+          "id": "specify-packaging",
+          "heading": "4. Geef precieze verpakkingsinstructies",
+          "paragraphs": [
+            "Bepaal welke bescherming elk artikel nodig heeft en welke winkelverpakking je wilt bewaren. Schoenen, zachte kleding en breekbare accessoires vereisen niet noodzakelijk dezelfde verwerking. Overweeg je een doos te verwijderen, benoem dan het artikel en bevestig eerst dat controle of retourbeslissing is afgerond. Vermijd vage instructies zoals alle verpakking verwijderen wanneer artikelen verschillende eisen hebben.",
+            "De Pikobuy-koopgids noemt verzoeken om minimale en versterkte verpakking. Bevestig wat voor jouw pakket beschikbaar is en of de dienst de kosten of afmetingen verandert. Een verzoek bewijst niet dat het afgewerkte pakket de verwachte afmetingen heeft. Vraag om de uiteindelijke verpakte maten wanneer die beschikbaar zijn en vergelijk deze met de waarden uit je eerdere raming."
+          ]
+        },
+        {
+          "id": "compare-configurations",
+          "heading": "5. Vergelijk één pakket met realistische alternatieven",
+          "paragraphs": [
+            "Vergelijk de offerte voor het goedgekeurde gecombineerde pakket met het totaal van de losse pakketten die je daadwerkelijk zou versturen. Gebruik dezelfde bestemming en een duidelijke inhoudslijst voor elke optie. Neem de gekozen verpakking en bevestigde verwerkingsdiensten mee. Eén volledig pakket vergelijken met slechts de helft van een gesplitste zending onderschat de alternatieve kosten.",
+            "De onderstaande tabel is een besliswerkblad, geen bewijs dat splitsen of samenvoegen altijd goedkoper is. Vul actuele metingen en offertes in. De uitkomst hangt af van de daadwerkelijk toegestane routes en hun berekeningsmethoden. Houd productaankoopkosten apart wanneer die tussen opties gelijk blijven; de vergelijking moet verschillen zichtbaar maken in plaats van dezelfde aankoop dubbel tellen."
+          ],
+          "table": {
+            "headers": [
+              "Controle",
+              "Gecombineerd pakket",
+              "Afzonderlijke pakketten"
+            ],
+            "rows": [
+              [
+                "Inhoud",
+                "Alle goedgekeurde artikelen samen",
+                "Vermeld de artikelen per pakket"
+              ],
+              [
+                "Verpakking",
+                "Bescherming en bewaarde dozen",
+                "Benodigde bescherming per pakket"
+              ],
+              [
+                "Metingen",
+                "Eén definitief verpakt gewicht en formaat",
+                "Gewicht en formaat van elk pakket"
+              ],
+              [
+                "Verzendvergelijking",
+                "Volledig geoffreerd totaal",
+                "Som van alle geoffreerde totalen"
+              ],
+              [
+                "Open vragen",
+                "Geschiktheid en onopgeloste diensten",
+                "Geschiktheid en onopgeloste diensten per pakket"
+              ]
+            ]
+          }
+        },
+        {
+          "id": "confirm-submission",
+          "heading": "6. Bevestig het pakket vóór betaling",
+          "paragraphs": [
+            "Vergelijk de definitieve artikellijst en aantallen met je eigen overzicht. Controleer afleveradres, route, verpakkingsinstructies en bedrag vóór indienen of betalen. Ontbreekt een artikel, neem dan niet aan dat het automatisch wordt toegevoegd omdat het tot hetzelfde account behoort. Is een onverwacht artikel opgenomen, los dat dan vóór verzending op. Een duidelijke bevestiging is eenvoudiger dan je bedoeling later reconstrueren.",
+            "Bewaar de definitieve pakketreferentie naast de afzonderlijke bestelreferenties. Noteer wat het platform bevestigt over gewicht, afmetingen en inbegrepen diensten. Verandert een totaal na het verpakken, vergelijk het dan met je eerdere raming en zoek de gewijzigde invoer. Stel een gerichte vraag over een onverklaard verschil in plaats van aan te nemen dat de oorspronkelijke raming een bindende eindprijs was."
+          ]
+        },
+        {
+          "id": "support-template",
+          "heading": "7. Stel een vraag waarmee ondersteuning kan werken",
+          "paragraphs": [
+            "Een bruikbaar verzoek noemt de artikelen, de gewenste handeling en het punt dat bevestiging nodig heeft. Bijvoorbeeld: bevestig alstublieft of de genoemde magazijnartikelen één pakket naar mijn gekozen bestemming kunnen vormen, met behoud van de aangegeven verpakking, en geef het resulterende gewicht, de afmetingen en actuele verzendmogelijkheden door. Vervang de algemene omschrijving door je echte referenties binnen het officiële accountkanaal.",
+            "Maak bij het vergelijken van samenstellingen duidelijk welke artikellijst bij welke optie hoort. Heb je vóór je beslissing een foto nodig, benoem dan welk onderdeel of welke meting ontbreekt. Houd accountgegevens en betaalgeheimen uit berichten en openbare schermafbeeldingen. Deze onafhankelijke gids kan geen privébestellingen bekijken of namens jou magazijninstructies geven; gebruik voor de beslissing de officiële contactroute van Pikobuy."
+          ]
+        },
+        {
+          "id": "check-delivery",
+          "heading": "8. Controleer naast de trackinguitkomst ook de inhoud",
+          "paragraphs": [
+            "Volg het internationale pakket na verzending via zijn eigen trackingoverzicht. Het binnenlandse trackingnummer van een verkoper volgt niet noodzakelijk de gecombineerde zending. Bewaar de pakketlijst en controlebewijzen tot en met levering. Vergelijk bij ontvangst inhoud en aantallen met die lijst voordat je het dossier afsluit, vooral wanneer artikelen van meerdere verkopers één omdoos delen.",
+            "Ontbreekt iets of is het zichtbaar beschadigd, leg dan de specifieke afwijking vast en bewaar relevante labels en verpakking terwijl je contact opneemt met ondersteuning. Onderscheid een artikelprobleem van een bezorgstatusprobleem. Noteer voor toekomstige planning of samenvoegen de afmetingen, beschikbare routes of benodigde verwerking veranderde. Gebruik het resultaat om je eigen checklist te verbeteren, zonder één bestelling als bewijs voor universele besparingen te behandelen."
+          ]
+        },
+        {
+          "id": "worked-item-list",
+          "heading": "9. Voorbeeldlijst: houd één onopgelost artikel apart",
+          "paragraphs": [
+            "Stel dat een koper een T-shirt, een paar schoenen en een kleine tas bij drie verkopers heeft besteld. Maat en staat van het T-shirt zijn gecontroleerd. De schoenen vragen om een aanvullende meting en de tas is nog niet in het magazijn. Alleen het T-shirt staat op de gereedlijst; de andere artikelen mogen niet stilzwijgend worden toegevoegd omdat alle drie voor dezelfde geplande zending zijn gekocht.",
+            "De koper vraagt de schoenmeting op, controleert de laatst bevestigde status van de tas en noteert de opslag- en retourvoorwaarden van de aangekomen artikelen. Na voldoende bewijs kan de koper een pakket met goedgekeurde artikelen vergelijken met een later alternatief inclusief tas. Elke optie vereist haar eigen werkelijke inhoud en maten. Dit hypothetische voorbeeld adviseert niet om altijd te wachten of te splitsen. Het laat zien waarom een expliciete artikellijst nuttiger is dan een algemene instructie om alles in het account samen te voegen."
+          ]
+        }
+      ],
+      "sourceIds": [
+        "official-contact",
+        "official-guide",
+        "official-shipping",
+        "official-returns"
+      ],
+      "related": [
+        "qc",
+        "articles/pikobuy-warehouse-returns",
+        "articles/pikobuy-shipping-calculator",
+        "articles/pikobuy-tracking-not-updating"
+      ],
+      "published": "2026-10-29",
+      "updated": "2026-10-29"
     }
-  ]
+  ],
+  "growth": {
+    "homeTitle": "Pikobuy-spreadsheet: productlinks, QC en verzending",
+    "homeDescription": "Bekijk Pikobuy-productlinks voor schoenen en kleding. Vergelijk USD-prijzen, controleer maten en QC en plan verzending met praktische gidsen.",
+    "catalogTitle": "Pikobuy-spreadsheet: schoenen, kleding en productlinks",
+    "catalogDescription": "Doorzoek de Pikobuy-spreadsheet per categorie en vergelijk productprijzen in USD. Open productdetails, controleer maten en ga verder naar Pikobuy.",
+    "categoryGuideHeading": "Voordat je een artikel kiest",
+    "categories": {
+      "shoes": {
+        "title": "Pikobuy-schoenenspreadsheet: links, maten en QC",
+        "description": "Bekijk schoenlinks in de Pikobuy-spreadsheet, vergelijk USD-prijzen en controleer maten, magazijnfoto’s en verpakking vóór verzending.",
+        "intro": "Vergelijk schoenadvertenties voor de exacte maat en variant die je wilt bestellen. Een bekende maat is een uitgangspunt, geen bewijs van pasvorm. Open de oorspronkelijke details en controleer vóór betaling de metingen van de verkoper. Productfoto’s op deze pagina zijn advertentiefoto’s, geen QC-foto’s van jouw bestelling.",
+        "checks": [
+          "Vergelijk de maattabel van de verkoper met een comfortabel paar dat je al hebt.",
+          "Vraag de meting of labelfoto die nodig is om een maatvraag op te lossen.",
+          "Beslis na QC en een eventuele retourbeslissing of je de schoenendoos bewaart."
+        ]
+      },
+      "sweatshirts": {
+        "title": "Pikobuy-spreadsheet voor hoodies en sweaters",
+        "description": "Vind productlinks voor hoodies en sweaters, vergelijk USD-prijzen en controleer borst, lengte en mouwen voordat je via Pikobuy bestelt.",
+        "intro": "Kies een hoodie of sweater op basis van kledingmaten en gewenste pasvorm. Vergelijk borstbreedte, lichaamslengte en mouwen met een kledingstuk dat je al draagt. Dezelfde maatletter kan verschillende modellen beschrijven; controleer daarom de gekozen advertentie en variant in plaats van een universele maatconversie aan te nemen.",
+        "checks": [
+          "Vergelijk metingen die met dezelfde methode en eenheden zijn genomen.",
+          "Controleer kleur, capuchon, rits en zakdetails in de oorspronkelijke advertentie.",
+          "Bekijk magazijnfoto’s voordat je het kledingstuk in een gecombineerd pakket opneemt."
+        ]
+      },
+      "tshirts": {
+        "title": "Pikobuy-T-shirtspreadsheet: links en maatcontrole",
+        "description": "Bekijk T-shirtlinks en USD-prijzen. Vergelijk borst- en lengtematen, controleer de gekozen variant en plan magazijn-QC vóór verzending.",
+        "intro": "Vergelijk T-shirts op borstbreedte, lichaamslengte en gewenste pasvorm. Advertentiefoto’s helpen een ontwerp te herkennen, maar bevestigen niet de maten of staat van het artikel dat naar het magazijn wordt gestuurd. Bewaar de gekozen maat en kleur bij je bestelreferentie om ze later met controlefoto’s te vergelijken.",
+        "checks": [
+          "Meet een T-shirt dat goed zit en vergelijk de meetmethode van de verkoper.",
+          "Bevestig de gekozen maat en kleur voordat je de bestelling op Pikobuy opent.",
+          "Vraag een duidelijkere detailfoto als een print, naad of meting onzeker blijft."
+        ]
+      }
+    },
+    "hubs": {
+      "qc": {
+        "title": "Pikobuy-QC-gids: foto’s, metingen en retouren",
+        "description": "Vergelijk Pikobuy-QC-foto’s met je bestelling: maat, kleur, hoeveelheid en zichtbare staat. Lees wanneer je vóór verzending meer bewijs vraagt.",
+        "sections": [
+          {
+            "id": "match-order",
+            "heading": "Koppel de foto’s aan je eigen bestelling",
+            "paragraphs": [
+              "Begin met de bestelreferentie, gekozen variant en hoeveelheid. Vergelijk het magazijnoverzicht met het product dat je daadwerkelijk kocht, niet met een vergelijkbare advertentie. Afbeeldingen in deze onafhankelijke catalogus zijn productfoto’s; ze zijn geen gekoppeld QC-bewijs voor jouw bestelling."
+            ]
+          },
+          {
+            "id": "check-evidence",
+            "heading": "Controleer zichtbare details en metingen",
+            "paragraphs": [
+              "Bekijk kleur, labels, naden, printplaatsing, accessoires en zichtbare schade. Vraag voor de maat de specifieke meting die je beslissing beïnvloedt, met dezelfde methode als de verkopersmaattabel. Een duidelijk label bewijst geen pasvorm en een foto bewijst geen materiaalsamenstelling, authenticiteit of prestaties op lange termijn."
+            ]
+          },
+          {
+            "id": "request-detail",
+            "heading": "Vraag het detail dat je beslissing kan veranderen",
+            "paragraphs": [
+              "Vermeld welk artikel en welk onderdeel zichtbaar moeten zijn. Vraag bijvoorbeeld het kledingstuk plat neer te leggen met het meetlint van rand tot rand zichtbaar. Bevestig de beschikbare dienst en kosten binnen Pikobuy. Blijft een foto onduidelijk, houd die onzekerheid dan zichtbaar in plaats van haar als goedkeuring te behandelen."
+            ]
+          },
+          {
+            "id": "decide-before-shipping",
+            "heading": "Beslis vóór het indienen van het pakket",
+            "paragraphs": [
+              "Keur het artikel goed, vraag verduidelijking of volg een toegestane retourprocedure terwijl het nog in het magazijn is. Controleer actuele retourvoorwaarden direct en bewaar vereiste verpakking. Rond de beslissing af vóór samenvoegen of onomkeerbare verpakkingswijzigingen. Bewaar het controleoverzicht bij je definitieve pakketlijst."
+            ]
+          }
+        ],
+        "sourceIds": [
+          "official-guide",
+          "official-user-agreement",
+          "official-returns"
+        ]
+      },
+      "shipping": {
+        "title": "Pikobuy-verzending: calculator, kosten en tracking",
+        "description": "Plan Pikobuy-verzending met de officiële calculator, verpakt gewicht en afmetingen. Vergelijk routes, combineer goedgekeurde artikelen en volg tracking na verzending.",
+        "sections": [
+          {
+            "id": "estimate-first",
+            "heading": "Raam het pakket voordat je je budget vastlegt",
+            "paragraphs": [
+              "Gebruik de officiële calculator met het werkelijke bezorgland, producttype, gewicht en drie afmetingen. Houd gemeten waarden apart van schattingen. Vergelijk hetzelfde pakket tussen beschikbare opties en bewaar datum, valuta, route en inbegrepen diensten bij elk resultaat."
+            ]
+          },
+          {
+            "id": "complete-budget",
+            "heading": "Scheid productbetaling en internationale vracht",
+            "paragraphs": [
+              "Een catalogusprijs is een indicatieve productprijs in USD. Internationale verzending en mogelijke extra kosten zijn niet inbegrepen. Houd productbetaling, verzendbetaling en bevestigde optionele of bestemmingskosten op afzonderlijke budgetregels. Verduidelijk een onbekend bedrag in plaats van het als nul te behandelen."
+            ]
+          },
+          {
+            "id": "pack-after-qc",
+            "heading": "Kies verpakking na QC",
+            "paragraphs": [
+              "Los maat- en conditievragen op voordat je magazijnartikelen combineert. Controleer of verpakkingswijzigingen bescherming of een mogelijke retour beïnvloeden. Vergelijk gewicht en afmetingen van het afgewerkte pakket met de raming; neem niet aan dat samenvoegen altijd het totaal verlaagt."
+            ]
+          },
+          {
+            "id": "follow-dispatch",
+            "heading": "Volg de zending vanaf de daadwerkelijke verzending",
+            "paragraphs": [
+              "De driedagenuitspraak in de officiële gids gaat over trackinginformatie na verzending, niet over levering binnen drie dagen. Onderscheid productbetaling, magazijnaankomst, pakketaanvraag en vervoerdersbeweging. Bewaar pakketreferentie en laatste bevestigde gebeurtenis wanneer je ondersteuning naar een ontbrekende update vraagt."
+            ]
+          }
+        ],
+        "sourceIds": [
+          "official-estimate",
+          "official-guide",
+          "official-contact"
+        ]
+      }
+    }
+  }
 }

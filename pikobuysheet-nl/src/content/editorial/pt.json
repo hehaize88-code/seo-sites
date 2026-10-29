@@ -14,7 +14,7 @@
     "related": "Artigos relacionados",
     "allArticles": "Todos os artigos",
     "latestArticles": "Artigos mais recentes",
-    "articleCount": "10 guias práticos",
+    "articleCount": "13 guias práticos",
     "sourceLink": "Fonte oficial"
   },
   "faq": [
@@ -304,7 +304,8 @@
       "related": [
         "spreadsheet",
         "articles/pikobuy-product-links",
-        "articles/pikobuy-haul-budget"
+        "articles/pikobuy-haul-budget",
+        "articles/pikobuy-parcel-consolidation"
       ]
     },
     {
@@ -409,7 +410,8 @@
       "related": [
         "spreadsheet",
         "articles/pikobuy-qc-measurements",
-        "articles/pikobuy-shoe-sizing"
+        "articles/pikobuy-shoe-sizing",
+        "articles/pikobuy-parcel-consolidation"
       ]
     },
     {
@@ -515,7 +517,8 @@
       "related": [
         "guide",
         "articles/pikobuy-spreadsheet-checklist",
-        "faq"
+        "faq",
+        "articles/pikobuy-parcel-consolidation"
       ]
     },
     {
@@ -602,6 +605,14 @@
             "Regresse à pergunta original e escolha o próximo passo. A informação pode justificar avançar, deixar uma questão específica por resolver ou justificar discutir uma devolução. Guarde a resposta com o registo da encomenda e anote que medida ou detalhe visível fundamentou a decisão.",
             "Se o problema persistir, verifique prontamente o estado atual da encomenda e as condições de devolução aplicáveis. Não gaste tempo a reunir ângulos decorativos enquanto uma divergência sobre a qual pode agir fica por comunicar. O registo deve facilitar a explicação: o que pretendia, o que a fotografia mostra e qual a resolução pedida. Mantenha as observações incertas identificadas como tal."
           ]
+        },
+        {
+          "id": "approve-or-ask",
+          "heading": "8. Transforme a medida numa decisão clara",
+          "paragraphs": [
+            "Compare a medida fotografada com o seu objetivo usando os mesmos pontos e unidades. Se a fita não começar no zero, a peça estiver dobrada ou as extremidades não forem visíveis, peça uma medição mais clara em vez de aceitar um número aparentemente preciso. Registe se a incerteza restante alteraria o tamanho escolhido.",
+            "Aprove apenas quando a informação responder à questão importante para si. Caso contrário, peça o detalhe em falta ou consulte prontamente as opções de devolução atuais. Preserve a embalagem original enquanto decide e conclua antes de adicionar o artigo a uma encomenda consolidada. A fotografia serve de prova para esta compra concreta, não de tabela universal para compras futuras."
+          ]
         }
       ],
       "sourceIds": [
@@ -612,8 +623,10 @@
       "related": [
         "qc",
         "articles/pikobuy-clothing-size-chart",
-        "articles/pikobuy-warehouse-returns"
-      ]
+        "articles/pikobuy-warehouse-returns",
+        "articles/pikobuy-parcel-consolidation"
+      ],
+      "updated": "2026-10-29"
     },
     {
       "slug": "pikobuy-haul-budget",
@@ -735,7 +748,8 @@
       "related": [
         "shipping",
         "articles/pikobuy-parcel-weight-dimensions",
-        "articles/pikobuy-spreadsheet-checklist"
+        "articles/pikobuy-spreadsheet-checklist",
+        "articles/pikobuy-shipping-calculator"
       ]
     },
     {
@@ -831,7 +845,8 @@
       "related": [
         "shipping",
         "articles/pikobuy-haul-budget",
-        "articles/pikobuy-warehouse-returns"
+        "articles/pikobuy-warehouse-returns",
+        "articles/pikobuy-shipping-calculator"
       ]
     },
     {
@@ -937,7 +952,8 @@
       "related": [
         "spreadsheet",
         "articles/pikobuy-qc-measurements",
-        "articles/pikobuy-parcel-weight-dimensions"
+        "articles/pikobuy-parcel-weight-dimensions",
+        "articles/pikobuy-parcel-consolidation"
       ]
     },
     {
@@ -1039,7 +1055,8 @@
       "related": [
         "spreadsheet",
         "articles/pikobuy-qc-measurements",
-        "articles/pikobuy-parcel-weight-dimensions"
+        "articles/pikobuy-parcel-weight-dimensions",
+        "articles/pikobuy-parcel-consolidation"
       ]
     },
     {
@@ -1132,6 +1149,14 @@
             "Mantenha uma cronologia curta do pedido, das confirmações de receção, das provas adicionais e das decisões. Responda no caso existente quando apropriado para manter o contexto reunido. Se o apoio pedir um detalhe em falta, responda diretamente à pergunta em vez de começar uma nova descrição de toda a compra.",
             "Antes de autorizar um passo, confirme que diz respeito ao artigo correto e à resolução que compreende. Guarde a confirmação do que foi aceite e do que continua pendente. Um pedido submetido, uma resposta do vendedor e um reembolso concluído são acontecimentos diferentes. Registá-los separadamente ajuda a acompanhar o resultado sem confundir progresso com conclusão."
           ]
+        },
+        {
+          "id": "before-consolidation",
+          "heading": "8. Resolva devoluções antes de consolidar",
+          "paragraphs": [
+            "Mantenha um artigo com devolução pendente separado da lista pronta para envio. Registe data e hora do estado no armazém, problema, fotografias e solução pedida. Verifique a política atual e o prazo da sua compra; esperar por outro vendedor não estabelece uma prorrogação.",
+            "Antes de pedir remoção de embalagem ou expedição internacional, confirme se o artigo está aprovado ou aguarda uma decisão do vendedor. Mantenha etiquetas, selos e embalagens necessárias intactos enquanto se avalia a elegibilidade. Pergunte ao apoio oficial os custos exatos, sem presumir que a devolução é gratuita ou que um exemplo geral se aplica ao seu caso."
+          ]
         }
       ],
       "sourceIds": [
@@ -1141,8 +1166,10 @@
       "related": [
         "qc",
         "articles/pikobuy-qc-measurements",
-        "articles/pikobuy-haul-budget"
-      ]
+        "articles/pikobuy-haul-budget",
+        "articles/pikobuy-parcel-consolidation"
+      ],
+      "updated": "2026-10-29"
     },
     {
       "slug": "pikobuy-tracking-not-updating",
@@ -1238,6 +1265,14 @@
             "Atualize o registo quando surgir um evento significativo e evite interpretar consultas repetidas da mesma página como novas provas. Preserve qualquer instrução ou resposta que altere o próximo passo esperado. Se for indicado um prazo ou um procedimento de escalonamento para o seu caso, registe-o explicitamente.",
             "Quando o volume chegar, compare o conteúdo com a lista de artigos e com o registo de inspeção guardado. Conserve as embalagens e etiquetas relevantes enquanto alguma divergência estiver a ser esclarecida. A conclusão do tracking e uma verificação satisfatória do conteúdo são observações separadas. Um registo organizado ajuda a explicar um problema de entrega ou de artigo sem misturar os dois."
           ]
+        },
+        {
+          "id": "quick-triage",
+          "heading": "8. Diagnóstico rápido: associe a falta de informação à próxima ação",
+          "paragraphs": [
+            "Sem registo de expedição: verifique na conta a submissão da encomenda e o pagamento do envio. Expedição registada, mas sem acompanhamento para além da orientação oficial: peça à Pikobuy que confirme a entrega à transportadora. Existe um evento da transportadora, mas parou: guarde o texto exato, a data e hora e consulte as instruções atuais do serviço. Uma exceção de entrega pede uma ação: verifique o pedido pelo canal legítimo da plataforma ou transportadora.",
+            "Inclua referência da encomenda, data real de expedição e último evento confirmado num único pedido de apoio. Não inicie o calendário na data de compra nem interprete a indicação de três dias como garantia de entrega. Se a encomenda reunir várias compras, use a referência consolidada para o acompanhamento internacional."
+          ]
         }
       ],
       "sourceIds": [
@@ -1247,8 +1282,506 @@
       "related": [
         "shipping",
         "guide",
-        "faq"
-      ]
+        "faq",
+        "articles/pikobuy-shipping-calculator"
+      ],
+      "updated": "2026-10-29"
+    },
+    {
+      "slug": "pikobuy-shipping-calculator",
+      "title": "Calculadora de envios Pikobuy: estime o custo completo da encomenda",
+      "description": "Use a calculadora de envios Pikobuy com peso, dimensões e destino corretos. Compare orçamentos e separe o transporte do orçamento total da compra.",
+      "intro": "Uma estimativa útil de envio Pikobuy começa por definir a encomenda, não apenas pelo preço de um produto ou por um peso presumido. Registe o destino, os artigos a enviar e a embalagem necessária. Depois use a calculadora oficial para comparar as opções realmente disponíveis. Este guia oferece uma ficha reutilizável para comparar estimativas sem as confundir com uma fatura definitiva.",
+      "sections": [
+        {
+          "id": "prepare-inputs",
+          "heading": "1. Prepare os dados que alteram a estimativa",
+          "paragraphs": [
+            "A calculadora oficial pede destino, tipo de produto, peso em quilogramas e comprimento, largura e altura em centímetros. Reúna estes valores num só local. Identifique cada um como medido ou estimado e indique a data. Antes da chegada ao armazém, o peso publicado pelo vendedor pode excluir a caixa comercial, o enchimento e a embalagem exterior. Trate-o como um dado de planeamento, não como o peso confirmado do envio.",
+            "Use o destino real de entrega. O idioma de navegação não seleciona um país de envio, e o orçamento de outro comprador pode ter dados diferentes. Numa encomenda mista, verifique como os tipos de produto disponíveis descrevem o conteúdo. Se uma bateria, um líquido, uma peça frágil ou outro artigo especial não se enquadrar claramente, pergunte à Pikobuy que categoria e condições de transporte se aplicam antes de confiar no resultado."
+          ]
+        },
+        {
+          "id": "separate-costs",
+          "heading": "2. Separe o transporte do orçamento total da compra",
+          "paragraphs": [
+            "Registe em linhas distintas o pagamento dos produtos e o posterior pagamento do envio internacional. Acrescente separadamente os custos confirmados de entrega nacional, manuseamento opcional, conversão do pagamento e encargos no destino. Não acrescente uma taxa só porque outro comprador a mencionou: assinale-a como não confirmada até ter informação aplicável à sua compra. Da mesma forma, um campo vazio deve significar desconhecido, não gratuito.",
+            "Este catálogo apresenta preços indicativos dos produtos em USD. O preço de um cartão não é um orçamento de envio internacional. Mantenha visível a moeda de cada pagamento real e compare os totais numa moeda escolhida, com a taxa de câmbio e os encargos disponíveis para si. Um bom preço de compra pode ainda deixar pouco orçamento para a encomenda final. Defina o orçamento máximo completo antes de decidir quantos artigos comprar."
+          ]
+        },
+        {
+          "id": "measure-parcel",
+          "heading": "3. Use as dimensões da embalagem final, não uma regra presumida",
+          "paragraphs": [
+            "Meça ou peça o comprimento, a largura e a altura exteriores depois de escolher a embalagem. Registe o peso real separadamente. Não presuma que uma encomenda leve mas volumosa será cobrada apenas pelo peso da balança. O guia da Pikobuy indica que os métodos de cobrança variam entre rotas; leia o método apresentado para a opção em comparação. Este artigo não atribui um divisor universal de peso volumétrico a todas as rotas.",
+            "Como exemplo exclusivamente aritmético, uma caixa de 40 × 30 × 20 cm ocupa 24.000 centímetros cúbicos. Reduzir a altura para 15 cm diminui o volume para 18.000 centímetros cúbicos. Isto demonstra uma alteração de volume, não promete uma redução do preço. A rota disponível, os escalões de cobrança, a proteção e as medidas finais determinam se a alteração afeta o orçamento. Não retire proteção necessária apenas para reproduzir um exemplo mais pequeno."
+          ]
+        },
+        {
+          "id": "compare-like-for-like",
+          "heading": "4. Compare duas opções para a mesma encomenda",
+          "paragraphs": [
+            "Compare utilizando o mesmo destino, conteúdo e medidas. Registe a designação exata da rota e a hora de cada resultado. Um segundo orçamento para uma encomenda mais leve não demonstra que essa rota seja mais barata. Se o preço mudar enquanto ajusta a embalagem, conserve os dados anteriores para explicar a diferença em vez de a atribuir automaticamente a uma nova tarifa.",
+            "Use a ficha abaixo para cada alternativa. Copie as condições efetivamente apresentadas e pergunte pela informação em falta antes de pagar. Uma estimativa de trânsito vazia ou uma inclusão pouco clara são questões a resolver. Quando houver seguro, manuseamento ou outro serviço opcional, compare os totais com as mesmas opções selecionadas. O preço inicial mais baixo pode não representar o serviço completo pretendido."
+          ],
+          "table": {
+            "headers": [
+              "Registo",
+              "Opção A",
+              "Opção B"
+            ],
+            "rows": [
+              [
+                "Destino e conteúdo",
+                "Use os mesmos dados",
+                "Use os mesmos dados"
+              ],
+              [
+                "Peso e dimensões com embalagem",
+                "Indique se foram medidos ou estimados",
+                "Indique se foram medidos ou estimados"
+              ],
+              [
+                "Rota e método de cobrança",
+                "Copie as condições apresentadas",
+                "Copie as condições apresentadas"
+              ],
+              [
+                "Total e serviços incluídos",
+                "Registe a moeda e as exclusões",
+                "Registe a moeda e as exclusões"
+              ],
+              [
+                "Data da estimativa e questões pendentes",
+                "Guarde com o orçamento",
+                "Guarde com o orçamento"
+              ]
+            ]
+          }
+        },
+        {
+          "id": "test-packaging",
+          "heading": "5. Compare embalagens sem presumir poupanças",
+          "paragraphs": [
+            "Prepare um cenário com a embalagem necessária e outro apenas se existir uma alternativa prática. Para calçado, distinga conservar a caixa comercial de proteger os próprios sapatos. Num artigo frágil, identifique a proteção indispensável. Para roupa, verifique se as medidas representam peças agrupadas sem compressão ou a encomenda que o armazém está realmente a preparar. Estas diferenças devem ficar visíveis nas suas notas.",
+            "Peça confirmação antes de solicitar alterações irreversíveis à embalagem. Etiquetas, selos e embalagens originais podem influenciar a elegibilidade para devolução; resolva primeiro a inspeção ou a devolução. Uma encomenda menor não é automaticamente melhor se um artigo se tornar mais difícil de proteger ou devolver. Registe a alteração pedida e o resultado confirmado; não substitua uma medida real pelo número que esperava obter."
+          ]
+        },
+        {
+          "id": "reconcile-final-quote",
+          "heading": "6. Compare a estimativa com o orçamento final da encomenda",
+          "paragraphs": [
+            "Antes de pagar o envio internacional, confronte o registo final com a sua ficha. Verifique artigos, destino, rota, peso embalado, dimensões e serviços selecionados. Se o valor diferir, identifique o dado ou encargo alterado. Uma captura anterior ajuda a distinguir uma nova medição de uma opção selecionada por engano. Peça uma discriminação se a diferença continuar sem explicação.",
+            "Guarde juntos o orçamento, a confirmação de pagamento e a referência da encomenda. Respondem a questões distintas: o orçamento descreve a oferta, o pagamento mostra o que pagou e o registo da encomenda relaciona o envio com o conteúdo. Pagar um produto com sucesso não demonstra que o transporte internacional também esteja pago. Siga o processo real da conta em vez de tratar todas as transações como um único total."
+          ]
+        },
+        {
+          "id": "handle-missing-data",
+          "heading": "7. Quando a calculadora não apresenta um resultado útil",
+          "paragraphs": [
+            "Verifique primeiro unidades, destino e categoria do produto. A ausência de uma opção não demonstra que um artigo nunca possa ser enviado, nem justifica escolher uma categoria incorreta para forçar um orçamento. Guarde os dados e pergunte ao apoio oficial se o conteúdo e as dimensões são elegíveis para alguma rota atualmente disponível. Evite comprar mais artigos apenas para atingir o tamanho recomendado por outra pessoa.",
+            "Se ainda aguarda medidas do armazém, mantenha nas suas notas um intervalo de orçamentos possíveis e identifique os pressupostos. Não publique um resultado provisório como preço normal de envio Pikobuy. Quando o dado em falta estiver disponível, substitua o pressuposto e repita a comparação. Assim terá uma decisão verificável sem inventar tarifas, poupanças garantidas ou datas de entrega."
+          ]
+        },
+        {
+          "id": "before-payment",
+          "heading": "8. Termine com um breve registo da decisão",
+          "paragraphs": [
+            "O registo final deve indicar os artigos incluídos, as questões de inspeção resolvidas, a embalagem aprovada e a razão pela qual a rota escolhida responde às suas necessidades. Inclua o valor total e os encargos que lhe tenham indicado que estão excluídos. Se um custo continuar desconhecido e puder ultrapassar o orçamento, esclareça-o antes do próximo pagamento.",
+            "Para uma compra mista, consulte o guia de consolidação antes de finalizar a encomenda. Para planear por destino, use a lista de envio para a Europa. Após a expedição, passe ao guia de acompanhamento em vez de usar a calculadora como prova de progresso. Estimar, comprar, inspecionar e acompanhar são tarefas relacionadas, mas cada uma precisa da sua própria informação."
+          ]
+        },
+        {
+          "id": "worked-comparison",
+          "heading": "9. Exemplo de comparação: altere um pressuposto de cada vez",
+          "paragraphs": [
+            "Um comprador pretende enviar dois pares de sapatos e uma sweatshirt. Antes da chegada ao armazém, só dispõe dos pesos dos anúncios, sem dimensões com embalagem. A primeira ficha identifica, por isso, peso e tamanho como estimativas. Após o QC, decide conservar uma caixa de sapatos e pergunta que embalagem é adequada para o outro par. Nesta fase não se presume qualquer preço.",
+            "Quando o armazém fornece as medidas resultantes, o comprador introduz os valores na calculadora oficial e regista as opções disponíveis. Se o orçamento for excessivo, verifica se uma configuração diferente e admissível altera o custo completo. Compara-a com a original mantendo os mesmos pressupostos de destino e serviço. O exemplo ilustra um método, não uma compra, tarifa ou poupança real. O essencial é identificar o dado alterado antes de aceitar o novo resultado."
+          ]
+        }
+      ],
+      "sourceIds": [
+        "official-estimate",
+        "official-guide",
+        "official-returns"
+      ],
+      "related": [
+        "shipping",
+        "articles/pikobuy-parcel-weight-dimensions",
+        "articles/pikobuy-haul-budget",
+        "articles/pikobuy-parcel-consolidation"
+      ],
+      "published": "2026-10-29",
+      "updated": "2026-10-29"
+    },
+    {
+      "slug": "pikobuy-shipping-europe",
+      "title": "Envios Pikobuy para a Europa: lista de destino e entrega",
+      "description": "Planeie envios Pikobuy para os Países Baixos, a Alemanha e outros destinos europeus: verifique rotas, morada, custos da encomenda e etapas de acompanhamento.",
+      "intro": "Planear um envio Pikobuy para a Europa exige um orçamento para o país de entrega e a encomenda reais. Um guia em neerlandês, alemão ou inglês não determina as rotas disponíveis hoje na sua conta. Use esta lista para preparar os dados corretos, comparar as opções apresentadas pela Pikobuy e guardar os registos necessários desde a aprovação no armazém até à entrega.",
+      "sections": [
+        {
+          "id": "choose-destination",
+          "heading": "1. Comece pelo país de entrega, não pelo idioma do site",
+          "paragraphs": [
+            "Selecione na calculadora oficial o país onde a encomenda será entregue. Quem envia para os Países Baixos deve selecionar esse destino mesmo lendo um guia em inglês. Aplique o mesmo princípio à Alemanha, França, Espanha ou outro país. Os idiomas do site facilitam a leitura; não representam contratos diferentes com transportadoras nem prometem que todas as rotas sirvam todos os destinos.",
+            "Registe o código postal e os dados de destino necessários para submeter a encomenda real. Confirme no formulário a grafia, o número da porta ou edifício, o apartamento quando aplicável e os contactos do destinatário. Aceitar um país não significa que a calculadora tenha validado uma morada completa. Se a morada tiver um formato invulgar ou uma restrição de entrega, resolva a questão com a plataforma antes da expedição."
+          ]
+        },
+        {
+          "id": "define-contents",
+          "heading": "2. Defina o conteúdo antes de comparar rotas europeias",
+          "paragraphs": [
+            "Liste todos os artigos que pretende enviar e resolva primeiro as questões de inspeção no armazém. Guarde tamanho, cor e quantidade junto da referência para formar uma encomenda de artigos aprovados. Um artigo ainda dependente de resposta do vendedor pode alterar o momento em que o conjunto fica pronto. Um plano de entrega baseado numa lista incompleta perde fiabilidade quando o conteúdo muda.",
+            "Descreva corretamente os conteúdos especiais ao perguntar pela sua admissibilidade. Não deduza que uma bateria, um líquido ou um artigo frágil são permitidos pelo nome de uma rota ou pelo sucesso da entrega de outra pessoa. Restrições e manuseamento dependem do serviço e conteúdo reais. Pergunte que opção atual aceita a encomenda e guarde a resposta com a estimativa. Um orçamento interessante só é útil se o envio puder legitimamente utilizar o serviço."
+          ]
+        },
+        {
+          "id": "compare-route-records",
+          "heading": "3. Compare o serviço apresentado para o seu destino",
+          "paragraphs": [
+            "Guarde, para cada opção, a rota, o valor, a moeda, o método de cobrança aplicável e a estimativa de trânsito apresentada. Mantenha peso e dimensões constantes durante a comparação. O guia oficial indica diferenças de tempo e cobrança, mas não estabelece uma rota universalmente melhor para a Europa. Escolha entre as opções atualmente apresentadas para a sua encomenda e necessidades.",
+            "Pergunte o que está incluído quando a descrição não for clara. O nome da rota não comprova todos os encargos, operações ou compromissos de entrega. Não substitua a oferta da sua conta por uma tabela de preços das redes sociais. Se dois resultados utilizarem embalagens ou serviços opcionais distintos, explicite essas diferenças antes de comparar os totais. Date as capturas para não confundir um orçamento antigo com uma oferta atual."
+          ]
+        },
+        {
+          "id": "budget-destination",
+          "heading": "4. Reserve margem para encargos fora do transporte apresentado",
+          "paragraphs": [
+            "Separe na ficha o produto, a entrega nacional, o transporte internacional, os serviços opcionais e eventuais encargos no destino. Não presuma que o valor do transporte é o total final de todas as compras internacionais. Também não acrescente uma percentagem arbitrária ou uma taxa copiada de outro destino. Registe o que o serviço escolhido inclui efetivamente e o que falta confirmar.",
+            "Para direitos aduaneiros, impostos, declarações e requisitos locais, consulte as exigências atuais do destino exato e as condições do serviço escolhido. Esta lista não fornece limiares fiscais, taxas de imposto ou isenções legais. Preencha os formulários necessários com conteúdos e valores corretos; o nome de uma rota ou a descrição informal de outro comprador não substituem essas obrigações. Peça esclarecimentos quando a informação da plataforma deixar um custo importante por determinar."
+          ]
+        },
+        {
+          "id": "plan-timeline",
+          "heading": "5. Construa o calendário com etapas separadas",
+          "paragraphs": [
+            "A espera total pode incluir preparação pelo vendedor, transporte nacional até ao armazém, inspeção, correções ou devoluções, preparação da encomenda e transporte internacional. Mantenha essas etapas separadas nas notas. Uma estimativa de trânsito internacional não inclui automaticamente a espera pelo vendedor ou pela sua aprovação. Numa compra necessária para uma data específica, avalie a sequência completa, não apenas a parte da transportadora.",
+            "O guia da Pikobuy situa a previsão de disponibilidade do acompanhamento depois da expedição. Não é uma promessa de entrega em três dias nem começa quando paga o produto. Registe a expedição efetiva e siga a referência associada àquela encomenda. Se uma etapa não estiver clara, pergunte o que foi concluído e que ação falta, em vez de inferir progresso pela antiguidade da compra."
+          ]
+        },
+        {
+          "id": "destination-worksheet",
+          "heading": "6. Use uma ficha por destino e encomenda",
+          "paragraphs": [
+            "Uma ficha separada evita misturar informação de destinatários ou compras diferentes. Os campos seguintes servem para os Países Baixos, a Alemanha e outros destinos sem presumir rotas ou encargos iguais. São um modelo de planeamento, não orçamentos verificados nem uma tabela de entregas por país. Preencha-os com os seus registos atuais.",
+            "Se alterar destino, artigos ou embalagem, faça uma nova comparação. Preserve a versão anterior para perceber por que razão mudaram o preço ou os serviços disponíveis. Isto é especialmente útil quando um amigo partilha um orçamento: compare primeiro os dados e só depois avalie a relevância do exemplo. Nunca considere o nome do país, por si só, uma descrição completa da encomenda."
+          ],
+          "table": {
+            "headers": [
+              "Campo de planeamento",
+              "O que guardar"
+            ],
+            "rows": [
+              [
+                "Destino e destinatário",
+                "País e dados da morada verificados"
+              ],
+              [
+                "Conteúdo aprovado",
+                "Referências, variantes e quantidades"
+              ],
+              [
+                "Medidas da encomenda",
+                "Peso embalado e três dimensões exteriores"
+              ],
+              [
+                "Serviço selecionado",
+                "Rota atual, total, inclusões e dúvidas pendentes"
+              ],
+              [
+                "Expedição e acompanhamento",
+                "Referência da encomenda, registo de expedição e último evento confirmado"
+              ]
+            ]
+          }
+        },
+        {
+          "id": "last-mile",
+          "heading": "7. Acompanhe a passagem à transportadora e a entrega final",
+          "paragraphs": [
+            "Após a expedição, leia o evento completo, a data e hora e a fonte. Informação eletrónica do envio não equivale a uma leitura de aceitação física pela transportadora. Se o registo identificar um parceiro de entrega ou outra referência, utilize os dados realmente fornecidos. Não adivinhe a transportadora local apenas pelo país de destino nem presuma que todas as rotas seguem a mesma sequência de mensagens.",
+            "Se houver uma exceção de entrega, consulte o canal legítimo da plataforma ou transportadora para saber a ação solicitada. Confirme moradas, recolhas ou outras instruções apenas num canal verificado. Guarde a mensagem exata e qualquer resposta. Uma pausa no acompanhamento não prova extravio, tal como uma data estimada não prova chegada. Use o artigo sobre problemas de acompanhamento quando a informação deixar de mudar."
+          ]
+        },
+        {
+          "id": "receive-parcel",
+          "heading": "8. Conclua o processo quando a encomenda chegar",
+          "paragraphs": [
+            "Compare o conteúdo recebido com a lista aprovada e as fotografias de inspeção guardadas. Conserve a etiqueta, a embalagem e os registos pertinentes enquanto esclarece artigos em falta ou danificados. O estado de entregue responde a uma questão de transporte; não confirma, por si só, o conteúdo ou o seu estado. Documente prontamente cada discrepância concreta junto do apoio oficial, sem misturar reclamações sem relação entre si.",
+            "Na próxima compra, reveja os pressupostos que mudaram: tamanho da embalagem, serviço escolhido, espera pelo vendedor ou encargo inesperado. Atualize o seu método de planeamento, mas não transforme a experiência de uma encomenda numa garantia universal. Começar com dados atuais do destino, artigos aprovados e um calendário sustentado por informação facilita a próxima comparação sem prometer resultados que os dados não suportam."
+          ]
+        },
+        {
+          "id": "worked-timeline",
+          "heading": "9. Exemplo de calendário: separe o atraso do vendedor do transporte",
+          "paragraphs": [
+            "Considere uma compra hipotética para entrega nos Países Baixos. Uma peça de roupa chegou ao armazém e passou nas verificações, enquanto outro artigo aguarda uma atualização do vendedor. O comprador ainda não submeteu qualquer encomenda internacional. Mesmo que a calculadora mostre um prazo de trânsito, essa estimativa não determina quando a compra incompleta chegará à morada do destinatário.",
+            "O comprador regista as condições de armazenamento do primeiro artigo e os prazos pendentes, pergunta pelo segundo e compara esperar com enviar apenas o artigo aprovado. Depois de submeter a encomenda final e de a expedição ficar registada, inicia o calendário de acompanhamento internacional com a respetiva referência. Se mais tarde um evento da transportadora parar, a consulta diz respeito a esse evento, não ao atraso anterior do vendedor. É um exemplo de planeamento, não um calendário oficial. Separar as etapas torna mais precisas a decisão e a consulta ao apoio."
+          ]
+        }
+      ],
+      "sourceIds": [
+        "official-estimate",
+        "official-guide",
+        "official-terms",
+        "official-contact"
+      ],
+      "related": [
+        "shipping",
+        "articles/pikobuy-shipping-calculator",
+        "articles/pikobuy-tracking-not-updating",
+        "articles/pikobuy-parcel-consolidation"
+      ],
+      "published": "2026-10-29",
+      "updated": "2026-10-29"
+    },
+    {
+      "slug": "pikobuy-parcel-consolidation",
+      "title": "Consolidação Pikobuy: combine compras depois do QC",
+      "description": "Combine artigos do armazém Pikobuy com uma lista clara de QC, embalagem e custos. Compare uma encomenda com envios separados sem presumir poupanças garantidas.",
+      "intro": "A Pikobuy indica que artigos de vendedores diferentes podem partilhar uma encomenda. O importante é saber se os seus artigos estão prontos para viajar juntos, com proteção adequada e um orçamento compreensível. A consolidação deve seguir as decisões de inspeção. Este guia ajuda a preparar uma lista clara, comparar embalagens práticas e confirmar a encomenda antes de pagar o transporte internacional.",
+      "sections": [
+        {
+          "id": "build-item-list",
+          "heading": "1. Faça a lista de artigos antes de escolher a encomenda",
+          "paragraphs": [
+            "Registe referência da compra, produto, tamanho ou cor escolhidos, quantidade e estado atual no armazém para cada artigo a enviar. Separe os recebidos dos que continuam com o vendedor ou em trânsito nacional. Uma compra pronta não demonstra que as restantes chegaram. Anote qualquer artigo a excluir para não confundir uma lista preliminar antiga com as instruções finais de embalagem.",
+            "Conserve as referências originais das compras a vendedores diferentes, mesmo que depois partilhem um número de encomenda. São úteis para explicar quantidades em falta, variantes erradas ou problemas específicos de um vendedor. Um único envio internacional não apaga os históricos de compra separados. A lista final deve ligar cada artigo incluído ao registo que efetivamente verificou."
+          ]
+        },
+        {
+          "id": "finish-qc",
+          "heading": "2. Conclua primeiro o QC e as decisões de devolução",
+          "paragraphs": [
+            "Reveja a informação do armazém para os artigos recebidos. Confira referência, variante e quantidade antes do estado visível e das medidas pedidas. Uma fotografia de catálogo não comprova o estado da sua compra concreta. Se as imagens disponíveis não responderem a uma pergunta importante, solicite o detalhe à Pikobuy e confirme qualquer encargo antes de decidir enviar o artigo.",
+            "Mantenha um artigo pendente fora do grupo pronto para envio até decidir o que fazer. A política de devoluções tem prazos e condições de elegibilidade, pelo que esperar por outro vendedor não deve desviar a atenção de um artigo já armazenado. Preserve etiquetas, selos e embalagens enquanto esclarece a possibilidade de devolução. Não autorize a sua remoção só para preparar uma estimativa de consolidação."
+          ]
+        },
+        {
+          "id": "choose-wait-or-send",
+          "heading": "3. Decida se vale a pena esperar por outro artigo",
+          "paragraphs": [
+            "Compare as consequências práticas de esperar com enviar já os artigos aprovados. Registe o artigo em falta, o estado confirmado e os prazos aplicáveis aos artigos armazenados. As condições públicas de reexpedição não estabelecem um período gratuito universal para todas as compras. Consulte as condições atuais dos seus artigos em vez de presumir um número fixo de dias encontrado noutro site.",
+            "Esperar pode produzir uma configuração diferente, mas não garante poupança nem uma data específica de expedição. Um artigo atrasado também pode alterar dimensões ou rotas admissíveis. Se a compra for necessária para uma data concreta, avalie toda a sequência restante. Mantenha a decisão simples: que informação falta, que prazo importa e o que fará se o artigo continuar sem estar pronto."
+          ]
+        },
+        {
+          "id": "specify-packaging",
+          "heading": "4. Dê instruções precisas de embalagem",
+          "paragraphs": [
+            "Identifique a proteção necessária para cada artigo e a embalagem comercial que pretende conservar. Calçado, roupa macia e acessórios frágeis não exigem necessariamente o mesmo tratamento. Se considerar retirar uma caixa, especifique o artigo e confirme primeiro que a decisão de inspeção ou devolução está concluída. Evite instruções vagas como retirar toda a embalagem quando os artigos têm necessidades diferentes.",
+            "O guia de compras Pikobuy menciona pedidos de embalagem mínima e reforçada. Confirme o que está disponível e se o serviço altera o preço ou as dimensões. Um pedido não prova que a encomenda final tenha as medidas esperadas. Peça as medidas resultantes quando estiverem disponíveis e compare-as com os números usados na estimativa anterior."
+          ]
+        },
+        {
+          "id": "compare-configurations",
+          "heading": "5. Compare uma encomenda com alternativas realistas",
+          "paragraphs": [
+            "Compare o orçamento da encomenda combinada aprovada com a soma dos envios separados que realmente faria. Use o mesmo destino e uma lista clara de conteúdo para cada opção. Inclua a embalagem selecionada e os serviços de manuseamento confirmados. Comparar uma encomenda completa com apenas metade de um envio dividido subestima o custo da alternativa.",
+            "A tabela seguinte é uma ficha de decisão, não prova que dividir ou combinar seja sempre mais barato. Preencha-a com medidas e orçamentos atuais. O resultado depende das rotas efetivamente elegíveis e dos seus métodos de cobrança. Mantenha separados os custos de compra quando não variam entre opções; a comparação deve mostrar diferenças, não contar a mesma compra duas vezes."
+          ],
+          "table": {
+            "headers": [
+              "Verificação",
+              "Encomenda combinada",
+              "Encomendas separadas"
+            ],
+            "rows": [
+              [
+                "Conteúdo",
+                "Todos os artigos aprovados juntos",
+                "Indique os artigos de cada encomenda"
+              ],
+              [
+                "Embalagem",
+                "Proteção e caixas conservadas",
+                "Proteção necessária para cada encomenda"
+              ],
+              [
+                "Medidas",
+                "Um peso e tamanho finais com embalagem",
+                "Peso e tamanho de cada encomenda"
+              ],
+              [
+                "Comparação de envio",
+                "Total completo orçamentado",
+                "Soma de todos os totais orçamentados"
+              ],
+              [
+                "Dúvidas pendentes",
+                "Elegibilidade e serviços por esclarecer",
+                "Elegibilidade e serviços por esclarecer em cada encomenda"
+              ]
+            ]
+          }
+        },
+        {
+          "id": "confirm-submission",
+          "heading": "6. Confirme a encomenda antes de pagar",
+          "paragraphs": [
+            "Compare a lista final e as quantidades com o seu registo. Verifique morada, rota, instruções de embalagem e valor antes de submeter ou pagar. Se faltar um artigo, não presuma que será acrescentado automaticamente por pertencer à mesma conta. Se aparecer um artigo inesperado, resolva a situação antes da expedição. Uma confirmação clara é mais simples do que reconstruir mais tarde a sua intenção.",
+            "Guarde a referência final da encomenda com as referências das compras individuais. Registe o que a plataforma confirma sobre peso, dimensões e serviços incluídos. Se o total mudar depois de embalar, compare com a estimativa e identifique o dado alterado. Faça uma pergunta concreta sobre uma diferença inexplicada, em vez de presumir que a primeira estimativa era um preço final vinculativo."
+          ]
+        },
+        {
+          "id": "support-template",
+          "heading": "7. Faça uma pergunta que o apoio possa resolver",
+          "paragraphs": [
+            "Um pedido útil identifica os artigos, a ação desejada e o ponto a confirmar. Por exemplo: confirme se os artigos de armazém indicados podem partilhar uma encomenda para o destino escolhido, mantendo a embalagem especificada, e informe o peso, dimensões e opções de envio resultantes. Substitua a descrição geral pelas suas referências reais no canal oficial da conta.",
+            "Se comparar configurações, esclareça que lista pertence a cada opção. Se precisar de uma fotografia antes de decidir, especifique a parte ou medida em falta. Não inclua credenciais da conta nem dados secretos de pagamento em mensagens ou capturas públicas. Este guia independente não pode consultar compras privadas nem dar instruções ao armazém em seu nome; use o contacto oficial da Pikobuy para a decisão."
+          ]
+        },
+        {
+          "id": "check-delivery",
+          "heading": "8. Verifique o conteúdo além do resultado do acompanhamento",
+          "paragraphs": [
+            "Após a expedição, siga a encomenda internacional através do seu próprio registo. O número nacional do vendedor não acompanha necessariamente o envio combinado. Preserve a lista de artigos e a informação de inspeção até à entrega. Quando receber a embalagem, compare conteúdo e quantidades com essa lista antes de encerrar o registo, sobretudo se artigos de vários vendedores partilharem uma caixa exterior.",
+            "Se faltar algo ou houver danos visíveis, documente a discrepância concreta e conserve etiquetas e embalagens pertinentes enquanto contacta o apoio. Distinga um problema do artigo de um problema do estado de entrega. Para futuras compras, anote se consolidar alterou medidas, rotas disponíveis ou manuseamento necessário. Use o resultado para melhorar a sua lista, sem tratar uma compra como prova de poupanças universais."
+          ]
+        },
+        {
+          "id": "worked-item-list",
+          "heading": "9. Exemplo de lista: separe um artigo ainda por resolver",
+          "paragraphs": [
+            "Imagine que um comprador encomendou uma T-shirt, uns sapatos e uma mala pequena a três vendedores. O tamanho e estado da T-shirt estão verificados. Os sapatos precisam de outra medição e a mala ainda não chegou ao armazém. A lista de artigos prontos contém apenas a T-shirt; não deve incluir silenciosamente os restantes por terem sido comprados para o mesmo envio previsto.",
+            "O comprador pede a medição dos sapatos, confirma o último estado da mala e regista as condições de armazenamento e devolução dos artigos recebidos. Quando obtém informação suficiente, pode comparar uma encomenda de artigos aprovados com uma alternativa posterior que inclua a mala. Cada opção exige conteúdo e medidas próprios. Este exemplo hipotético não recomenda esperar ou dividir em todos os casos. Mostra por que uma lista explícita é mais útil do que uma instrução genérica para juntar tudo na conta."
+          ]
+        }
+      ],
+      "sourceIds": [
+        "official-contact",
+        "official-guide",
+        "official-shipping",
+        "official-returns"
+      ],
+      "related": [
+        "qc",
+        "articles/pikobuy-warehouse-returns",
+        "articles/pikobuy-shipping-calculator",
+        "articles/pikobuy-tracking-not-updating"
+      ],
+      "published": "2026-10-29",
+      "updated": "2026-10-29"
     }
-  ]
+  ],
+  "growth": {
+    "homeTitle": "Pikobuy Spreadsheet: ligações de produtos, QC e guias de envio",
+    "homeDescription": "Explore ligações de calçado e roupa Pikobuy. Compare preços em USD, verifique tamanhos e QC e planeie o envio com guias práticos.",
+    "catalogTitle": "Pikobuy Spreadsheet: calçado, roupa e ligações de produtos",
+    "catalogDescription": "Pesquise a spreadsheet Pikobuy por categoria e compare preços em USD. Abra os detalhes, confira os tamanhos e prossiga para a Pikobuy.",
+    "categoryGuideHeading": "Antes de escolher um artigo",
+    "categories": {
+      "shoes": {
+        "title": "Pikobuy Spreadsheet de calçado: ligações, tamanhos e QC",
+        "description": "Explore calçado na spreadsheet Pikobuy, compare preços em USD e verifique medidas, fotografias do armazém e embalagem antes do envio.",
+        "intro": "Compare anúncios de calçado pelo tamanho e variante exatos que pretende comprar. Uma numeração familiar é um ponto de partida, não prova de ajuste. Abra os detalhes originais e consulte as medidas do vendedor antes de pagar. As fotografias desta página são imagens dos anúncios, não fotografias QC da sua compra.",
+        "checks": [
+          "Compare a tabela do vendedor com um par confortável que já tenha.",
+          "Peça a medida ou fotografia da etiqueta necessária para resolver uma dúvida de tamanho.",
+          "Decida se conserva a caixa depois de concluir o QC e qualquer decisão de devolução."
+        ]
+      },
+      "sweatshirts": {
+        "title": "Pikobuy Spreadsheet de hoodies e sweatshirts",
+        "description": "Encontre ligações de hoodies e sweatshirts, compare preços em USD e verifique peito, comprimento e mangas antes de comprar pela Pikobuy.",
+        "intro": "Escolha um hoodie ou sweatshirt pelas medidas e pelo ajuste pretendido. Compare largura do peito, comprimento e mangas com uma peça que já use. A mesma letra de tamanho pode representar cortes distintos; confira o anúncio e a variante escolhidos em vez de presumir uma conversão universal.",
+        "checks": [
+          "Compare medidas obtidas pelo mesmo método e nas mesmas unidades.",
+          "Confira cor, capuz, fecho e bolsos no anúncio original.",
+          "Reveja as fotografias do armazém antes de incluir a peça numa encomenda combinada."
+        ]
+      },
+      "tshirts": {
+        "title": "Pikobuy Spreadsheet de T-shirts: ligações e tamanhos",
+        "description": "Explore ligações de T-shirts e preços em USD. Compare peito e comprimento, confira a variante selecionada e prepare o QC no armazém antes do envio.",
+        "intro": "Compare T-shirts pela largura do peito, comprimento e ajuste desejado. As fotografias dos anúncios ajudam a identificar o desenho, mas não confirmam medidas ou estado do artigo enviado ao armazém. Guarde tamanho e cor com a referência da compra para os comparar com as fotografias de inspeção.",
+        "checks": [
+          "Meça uma T-shirt de que goste e compare o método de medição do vendedor.",
+          "Confirme tamanho e cor antes de abrir a compra na Pikobuy.",
+          "Peça uma fotografia mais clara se uma estampagem, costura ou medida continuar incerta."
+        ]
+      }
+    },
+    "hubs": {
+      "qc": {
+        "title": "Guia QC Pikobuy: fotografias, medidas e devoluções",
+        "description": "Compare as fotografias QC Pikobuy com a compra: tamanho, cor, quantidade e estado visível. Saiba quando pedir mais informação antes do envio.",
+        "sections": [
+          {
+            "id": "match-order",
+            "heading": "Relacione as fotografias com a sua compra",
+            "paragraphs": [
+              "Comece pela referência, variante e quantidade. Compare o registo do armazém com o produto comprado, não com um anúncio semelhante. As imagens deste catálogo independente são fotografias de produto, não provas QC associadas à sua compra."
+            ]
+          },
+          {
+            "id": "check-evidence",
+            "heading": "Verifique detalhes visíveis e medidas",
+            "paragraphs": [
+              "Reveja cor, etiquetas, costuras, posição da estampagem, acessórios e danos visíveis. Para o tamanho, peça a medida concreta que influencia a decisão, usando o método da tabela do vendedor. Uma etiqueta legível não demonstra ajuste, e uma fotografia não comprova composição, autenticidade ou desempenho a longo prazo."
+            ]
+          },
+          {
+            "id": "request-detail",
+            "heading": "Peça o detalhe que mudaria a sua decisão",
+            "paragraphs": [
+              "Indique o artigo e a parte a mostrar. Por exemplo, peça a peça estendida com a fita métrica visível de uma extremidade à outra. Confirme na Pikobuy o serviço disponível e o custo. Se a fotografia continuar inconclusiva, mantenha essa incerteza explícita em vez de a tratar como aprovação."
+            ]
+          },
+          {
+            "id": "decide-before-shipping",
+            "heading": "Decida antes de submeter a encomenda",
+            "paragraphs": [
+              "Aprove o artigo, peça esclarecimentos ou solicite uma devolução elegível enquanto estiver no armazém. Consulte prontamente as condições atuais e preserve a embalagem exigida. Conclua a decisão antes de consolidar ou alterar irreversivelmente a embalagem. Guarde o registo de inspeção com a lista final da encomenda."
+            ]
+          }
+        ],
+        "sourceIds": [
+          "official-guide",
+          "official-user-agreement",
+          "official-returns"
+        ]
+      },
+      "shipping": {
+        "title": "Envios Pikobuy: calculadora, custos e acompanhamento",
+        "description": "Planeie o envio Pikobuy com a calculadora oficial, peso e dimensões com embalagem. Compare rotas, combine artigos aprovados e acompanhe a expedição.",
+        "sections": [
+          {
+            "id": "estimate-first",
+            "heading": "Estime a encomenda antes de comprometer o orçamento",
+            "paragraphs": [
+              "Use a calculadora oficial com o país real de entrega, tipo de produto, peso e três dimensões. Separe valores medidos de suposições. Compare a mesma encomenda entre as opções disponíveis e guarde data, moeda, rota e serviços incluídos com cada resultado."
+            ]
+          },
+          {
+            "id": "complete-budget",
+            "heading": "Separe o pagamento dos produtos do transporte internacional",
+            "paragraphs": [
+              "O catálogo apresenta um preço indicativo do produto em USD. Não inclui envio internacional nem possíveis encargos adicionais. Registe separadamente compra, envio e custos opcionais ou de destino confirmados. Esclareça um valor desconhecido em vez de o considerar zero."
+            ]
+          },
+          {
+            "id": "pack-after-qc",
+            "heading": "Escolha a embalagem depois do QC",
+            "paragraphs": [
+              "Resolva dúvidas de tamanho e estado antes de juntar artigos do armazém. Verifique se as alterações de embalagem afetam a proteção ou uma possível devolução. Compare peso e dimensões finais com os dados da estimativa; não presuma que juntar artigos reduz sempre o total."
+            ]
+          },
+          {
+            "id": "follow-dispatch",
+            "heading": "Acompanhe o envio desde a expedição efetiva",
+            "paragraphs": [
+              "A referência oficial a três dias diz respeito à informação de acompanhamento após a expedição, não à entrega em três dias. Distinga pagamento, chegada ao armazém, submissão da encomenda e movimento da transportadora. Guarde a referência e o último evento confirmado ao perguntar por uma atualização em falta."
+            ]
+          }
+        ],
+        "sourceIds": [
+          "official-estimate",
+          "official-guide",
+          "official-contact"
+        ]
+      }
+    }
+  }
 }

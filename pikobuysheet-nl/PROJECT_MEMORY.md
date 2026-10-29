@@ -55,3 +55,17 @@
 - 用户与自动化浏览器访问预览域名均被Cloudflare拦截。此为2026-10-19原预览的历史问题；2026-10-20公开workers.dev预览已实际打开并核验数据，用户授权已取得。
 - GitHub 源码已准备在 codex/pikobuysheet-nl 分支，正式域名和 main 分支不自动变更。
 - 后续继续使用草稿PR https://github.com/hehaize88-code/seo-sites/pull/9；不要新建重复站点或重复PR。发布版本及访问阻塞详情同时记入用户项目记忆文件。
+
+
+## 2026-10-29 multilingual SEO release
+
+- User explicitly authorised improving and deploying the site and all-language article additions. Existing GitHub/Cloudflare production routing remains in place.
+- Route map expands to 23 routes × 24 languages = 552 pages: 13 articles and three indexable category paths (shoes, sweatshirts, tshirts) per locale. Other category/search/sort/page controls remain query URLs.
+- Three new full-length articles: `pikobuy-shipping-calculator`, `pikobuy-shipping-europe`, `pikobuy-parcel-consolidation`. All locale bodies retain the same sections, paragraphs, tables and examples.
+- Tracking, QC measurements and returns articles have additional decision guidance; QC/shipping hubs and home/catalog metadata are improved. All ten existing articles link into relevant new guidance.
+- New `src/lib/catalog-routes.mjs` and `catalog-state.mjs` preserve clean category navigation and category-aware API calls during pagination/sorting. Search uses the all-products page.
+- Use `npm run check:catalog`, `npm run check:source`, `npm run build`, `npm run check:editorial`. The build now fails if a required catalog source snapshot cannot be fetched instead of publishing an empty listing.
+- Existing GA4 adds `view_item`, `purchase_click`, `signup_click`, `category_select`, `catalog_search`; do not treat outbound clicks as completed purchases or registrations.
+- Research rationale and official fact boundaries: `docs/SEO_UPDATE_2026-10-29.md`. No private analytics exports are committed.
+
+- Worker 打包改为每语种一个 gzip HTML 组，按 UTF-8 字节偏移返回页面；最多保留两个解压后的语种。552 页构建包 gzip 为 1,780,142 字节，项目构建预算 3,000,000 字节。全站检查会逐页比较 Worker 输出与构建 HTML 完全一致。

@@ -25,7 +25,7 @@ const nav=[['spreadsheet','Spreadsheet'],['guide',text.guide],['qc',text.qcGuide
       }
     </script>
     <meta charset="UTF-8" /><meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>{title} | PikobuySheet</title><meta name="description" content={description} />
+    <title>{title}</title><meta name="description" content={description} />
     <link rel="canonical" href={canonical}/><link rel="icon" type="image/png" href="/favicon.png" />
     {Object.keys(languages).map(l=><link rel="alternate" hreflang={l} href={site.domain+pathFor(l,route)}/>)}
     <link rel="alternate" hreflang="x-default" href={site.domain+pathFor('nl',route)} />
@@ -38,10 +38,10 @@ const nav=[['spreadsheet','Spreadsheet'],['guide',text.guide],['qc',text.qcGuide
     <header class="site-header"><div class="header-inner">
       <a href={pathFor(lang)} class="brand" aria-label="PikobuySheet"><img src="/logo.png" width="136" height="32" alt="Pikobuy"/><span>sheet<span class="brand-dot">.nl</span></span></a>
       <nav class="main-nav" aria-label="Menu">{nav.map(([slug,label])=><a href={pathFor(lang,slug)} class:list={{active:route===slug||route.startsWith(slug+'/')}} aria-current={route===slug||route.startsWith(slug+'/')?'page':undefined}>{label}</a>)}</nav>
-      <div class="header-actions"><div class="language-control"><span aria-hidden="true">◎</span><select id="language" aria-label={languages[lang]}>{Object.entries(languages).map(([code,name])=><option value={code} selected={code===lang}>{name}</option>)}</select></div><a class="button button-dark signup" href={site.register} target="_blank" rel="noopener noreferrer">{text.register}<span aria-hidden="true">↗</span></a></div>
+      <div class="header-actions"><div class="language-control"><span aria-hidden="true">◎</span><select id="language" aria-label={languages[lang]}>{Object.entries(languages).map(([code,name])=><option value={code} selected={code===lang}>{name}</option>)}</select></div><a class="button button-dark signup" href={site.register} data-event="signup_click" target="_blank" rel="noopener noreferrer">{text.register}<span aria-hidden="true">↗</span></a></div>
     </div></header>
     <main id="main"><slot/></main>
-    <footer class="site-footer"><div class="container footer-main"><div><a class="footer-brand" href={pathFor(lang)}>pikobuy<span>sheet.</span></a><p>{text.independent}</p></div><div class="footer-links">{nav.map(([slug,label])=><a href={pathFor(lang,slug)}>{label}</a>)}<a href={site.register} target="_blank" rel="noopener noreferrer">{text.register} ↗</a></div></div><div class="container footer-bottom"><span>© {new Date().getFullYear()} PikobuySheet.nl</span><span>USD · <a href="https://cnfanshp.com" target="_blank" rel="noopener noreferrer">cnfanshp.com</a></span></div></footer>
+    <footer class="site-footer"><div class="container footer-main"><div><a class="footer-brand" href={pathFor(lang)}>pikobuy<span>sheet.</span></a><p>{text.independent}</p></div><div class="footer-links">{nav.map(([slug,label])=><a href={pathFor(lang,slug)}>{label}</a>)}<a href={site.register} data-event="signup_click" target="_blank" rel="noopener noreferrer">{text.register} ↗</a></div></div><div class="container footer-bottom"><span>© {new Date().getFullYear()} PikobuySheet.nl</span><span>USD · <a href="https://cnfanshp.com" target="_blank" rel="noopener noreferrer">{text.original}</a></span></div></footer>
     <dialog id="product-dialog" aria-labelledby="detail-title"><div class="dialog-top"><span>Pikobuy spreadsheet</span><button id="close-dialog" class="icon-button" aria-label={text.close}>×</button></div><div id="product-detail" aria-live="polite"></div></dialog>
     <script src="../scripts/client.js"></script>
   </body>

@@ -14,7 +14,7 @@
     "related": "Ähnliche Artikel",
     "allArticles": "Alle Artikel",
     "latestArticles": "Neueste Artikel",
-    "articleCount": "10 praktische Ratgeber",
+    "articleCount": "13 praktische Leitfäden",
     "sourceLink": "Offizielle Quelle"
   },
   "faq": [
@@ -304,7 +304,8 @@
       "related": [
         "spreadsheet",
         "articles/pikobuy-product-links",
-        "articles/pikobuy-haul-budget"
+        "articles/pikobuy-haul-budget",
+        "articles/pikobuy-parcel-consolidation"
       ]
     },
     {
@@ -409,7 +410,8 @@
       "related": [
         "spreadsheet",
         "articles/pikobuy-qc-measurements",
-        "articles/pikobuy-shoe-sizing"
+        "articles/pikobuy-shoe-sizing",
+        "articles/pikobuy-parcel-consolidation"
       ]
     },
     {
@@ -515,7 +517,8 @@
       "related": [
         "guide",
         "articles/pikobuy-spreadsheet-checklist",
-        "faq"
+        "faq",
+        "articles/pikobuy-parcel-consolidation"
       ]
     },
     {
@@ -602,6 +605,14 @@
             "Kehre zur ursprünglichen Frage zurück und wähle einen nächsten Schritt. Die Belege können das Fortfahren stützen, einen konkreten Punkt offenlassen oder Anlass geben, eine Rückgabe zu besprechen. Speichere die Antwort bei den Bestellunterlagen und notiere, welches Maß oder sichtbare Detail deine Entscheidung geprägt hat.",
             "Bleibt ein Problem, prüfe zeitnah den aktuellen Bestellstatus und die geltenden Rückgabebedingungen. Sammle keine dekorativen Blickwinkel, während eine konkret meldbare Abweichung ungemeldet bleibt. Deine Unterlagen sollten das Problem einfach erklären: was beabsichtigt war, was das Foto zeigt und welche Lösung du anfragst. Kennzeichne unsichere Beobachtungen weiterhin als unsicher."
           ]
+        },
+        {
+          "id": "approve-or-ask",
+          "heading": "8. Mache aus der Messung eine klare Entscheidung",
+          "paragraphs": [
+            "Vergleiche das fotografierte Maß mit deinem Ziel anhand derselben Endpunkte und Einheiten. Beginnt das Band nicht bei null, ist das Kleidungsstück gefaltet oder sind Endpunkte unsichtbar, fordere eine klarere Messung an, statt eine präzise wirkende Zahl zu akzeptieren. Notiere, ob die verbleibende Unsicherheit deine Größenwahl ändern würde.",
+            "Gib erst frei, wenn die Belege die entscheidende Frage beantworten. Fordere andernfalls das fehlende Detail an oder prüfe aktuelle Rückgabemöglichkeiten zeitnah. Bewahre während der Entscheidung die Originalverpackung auf und schließe sie vor Aufnahme in ein gemeinsames Paket ab. Das Foto belegt diese konkrete Bestellung und ist keine universelle Größentabelle für künftige Käufe."
+          ]
         }
       ],
       "sourceIds": [
@@ -612,8 +623,10 @@
       "related": [
         "qc",
         "articles/pikobuy-clothing-size-chart",
-        "articles/pikobuy-warehouse-returns"
-      ]
+        "articles/pikobuy-warehouse-returns",
+        "articles/pikobuy-parcel-consolidation"
+      ],
+      "updated": "2026-10-29"
     },
     {
       "slug": "pikobuy-haul-budget",
@@ -735,7 +748,8 @@
       "related": [
         "shipping",
         "articles/pikobuy-parcel-weight-dimensions",
-        "articles/pikobuy-spreadsheet-checklist"
+        "articles/pikobuy-spreadsheet-checklist",
+        "articles/pikobuy-shipping-calculator"
       ]
     },
     {
@@ -831,7 +845,8 @@
       "related": [
         "shipping",
         "articles/pikobuy-haul-budget",
-        "articles/pikobuy-warehouse-returns"
+        "articles/pikobuy-warehouse-returns",
+        "articles/pikobuy-shipping-calculator"
       ]
     },
     {
@@ -937,7 +952,8 @@
       "related": [
         "spreadsheet",
         "articles/pikobuy-qc-measurements",
-        "articles/pikobuy-parcel-weight-dimensions"
+        "articles/pikobuy-parcel-weight-dimensions",
+        "articles/pikobuy-parcel-consolidation"
       ]
     },
     {
@@ -1039,7 +1055,8 @@
       "related": [
         "spreadsheet",
         "articles/pikobuy-qc-measurements",
-        "articles/pikobuy-parcel-weight-dimensions"
+        "articles/pikobuy-parcel-weight-dimensions",
+        "articles/pikobuy-parcel-consolidation"
       ]
     },
     {
@@ -1132,6 +1149,14 @@
             "Führe eine kurze Zeitleiste von Anfrage, Eingangsbestätigungen, zusätzlichen Belegen und Entscheidungen. Antworte gegebenenfalls im bestehenden Fall, damit der Zusammenhang erhalten bleibt. Fragt der Support nach einem fehlenden Detail, beantworte diese Frage direkt, statt den gesamten Kauf neu zu beschreiben.",
             "Prüfe vor der Freigabe eines Schritts, ob er sich auf den richtigen Artikel und die von dir verstandene Lösung bezieht. Bewahre die Bestätigung auf, was angenommen wurde und was noch aussteht. Ein eingereichter Antrag, eine Verkäuferantwort und eine abgeschlossene Erstattung sind verschiedene Ereignisse. Getrennte Aufzeichnungen helfen, Fortschritt nicht mit Abschluss zu verwechseln."
           ]
+        },
+        {
+          "id": "before-consolidation",
+          "heading": "8. Kläre Rückgaben vor der Paketkonsolidierung",
+          "paragraphs": [
+            "Halte Artikel mit offener Rückgabeanfrage getrennt von der Versandbereitschaftsliste. Notiere Zeitstempel des Lagerstatus, Problem, Belegfotos und gewünschte Lösung. Prüfe aktuelle Richtlinie und angezeigte Bestellfrist; das Warten auf einen anderen Verkäufer begründet keine Verlängerung.",
+            "Bestätige vor Verpackungsentfernung oder internationalem Versand, ob der Artikel freigegeben ist oder noch auf eine Verkäuferentscheidung wartet. Erhalte Etiketten, Siegel und notwendige Verpackung während der Prüfung der Rückgabefähigkeit. Frage den offiziellen Support nach den konkret anfallenden Kosten, statt eine kostenlose Rückgabe oder die Übertragbarkeit eines allgemeinen Beispiels anzunehmen."
+          ]
         }
       ],
       "sourceIds": [
@@ -1141,8 +1166,10 @@
       "related": [
         "qc",
         "articles/pikobuy-qc-measurements",
-        "articles/pikobuy-haul-budget"
-      ]
+        "articles/pikobuy-haul-budget",
+        "articles/pikobuy-parcel-consolidation"
+      ],
+      "updated": "2026-10-29"
     },
     {
       "slug": "pikobuy-tracking-not-updating",
@@ -1238,6 +1265,14 @@
             "Aktualisiere das Protokoll bei einem aussagekräftigen Ereignis und behandle wiederholte Aufrufe derselben Seite nicht als neue Belege. Bewahre Anweisungen oder Antworten auf, die den erwarteten nächsten Schritt verändern. Wird für deinen Fall eine Frist oder Eskalationsstufe genannt, halte sie ausdrücklich fest.",
             "Vergleiche bei der Ankunft den Inhalt mit deiner Artikelliste und den gespeicherten Prüfunterlagen. Bewahre relevante Verpackung und Etiketten auf, solange eine Abweichung geklärt wird. Abgeschlossenes Tracking und eine zufriedenstellende Inhaltskontrolle sind getrennte Beobachtungen. Übersichtliche Unterlagen helfen, ein Liefer- oder Artikelproblem zu erklären, ohne beides zu vermischen."
           ]
+        },
+        {
+          "id": "quick-triage",
+          "heading": "8. Schnelle Einordnung: ordne die Lücke dem nächsten Schritt zu",
+          "paragraphs": [
+            "Kein Versandnachweis: Prüfe Paketaufgabe und Versandzahlung im Konto. Versand dokumentiert, aber keine Trackinginformation nach dem offiziellen Richtwert: Bitte Pikobuy um Bestätigung der Übergabe. Vorhandenes, unverändertes Frachtführerereignis: Bewahre Wortlaut und Zeitstempel auf und prüfe aktuelle Diensthinweise. Zustellausnahme mit Handlungsbedarf: Verifiziere die Aufforderung über den legitimen Plattform- oder Frachtführerkanal.",
+            "Nenne Paketreferenz, tatsächliches Versanddatum und letztes bestätigtes Ereignis in einer Supportanfrage. Beginne die Zeitlinie nicht mit dem Produktkauf und interpretiere die dreitägige Trackingangabe nicht als Liefergarantie. Enthält das Paket mehrere Bestellungen, nutze die Referenz des gemeinsamen Pakets für internationales Tracking."
+          ]
         }
       ],
       "sourceIds": [
@@ -1247,8 +1282,506 @@
       "related": [
         "shipping",
         "guide",
-        "faq"
-      ]
+        "faq",
+        "articles/pikobuy-shipping-calculator"
+      ],
+      "updated": "2026-10-29"
+    },
+    {
+      "slug": "pikobuy-shipping-calculator",
+      "title": "Pikobuy-Versandrechner: vollständige Paketkosten schätzen",
+      "description": "Nutze den Pikobuy-Versandrechner mit passendem Gewicht, Maßen und Zielland. Vergleiche Angebote und trenne Frachtkosten vom gesamten Bestellbudget.",
+      "intro": "Eine brauchbare Pikobuy-Versandschätzung beginnt mit einem klar definierten Paket, nicht nur mit einem Produktpreis oder einer angenommenen Kilozahl. Notiere dein Zielland, die vorgesehenen Artikel und die benötigte Verpackung. Vergleiche anschließend im offiziellen Rechner die tatsächlich angebotenen Möglichkeiten. Dieser Leitfaden bietet eine wiederverwendbare Vorlage, um Schätzungen zu vergleichen, ohne sie als endgültige Rechnung zu behandeln.",
+      "sections": [
+        {
+          "id": "prepare-inputs",
+          "heading": "1. Bereite die Angaben vor, die die Schätzung beeinflussen",
+          "paragraphs": [
+            "Der offizielle Rechner fragt nach Zielland, Produkttyp, Gewicht in Kilogramm sowie Länge, Breite und Höhe in Zentimetern. Halte diese Werte zunächst an einer Stelle fest. Kennzeichne jeden Wert als gemessen oder geschätzt und ergänze das Datum. Vor dem Lagereingang kann das vom Verkäufer angegebene Produktgewicht Verkaufsverpackung, Polsterung und Außenkarton ausschließen. Nutze es als Planungswert, nicht als bestätigtes Versandgewicht.",
+            "Verwende das tatsächliche Lieferziel. Die Sprache der Website wählt kein Versandland aus, und ein von einem anderen Käufer geteiltes Angebot kann auf anderen Eingaben beruhen. Prüfe bei einem gemischten Paket, wie die verfügbaren Produkttypen seinen Inhalt beschreiben. Lässt sich eine Batterie, Flüssigkeit, ein zerbrechliches Teil oder ein anderer besonderer Artikel nicht eindeutig zuordnen, frage Pikobuy nach Kategorie und Routenbedingungen, bevor du dich auf das Ergebnis verlässt."
+          ]
+        },
+        {
+          "id": "separate-costs",
+          "heading": "2. Trenne Frachtkosten vom gesamten Bestellbudget",
+          "paragraphs": [
+            "Notiere die Produktzahlung und die spätere Zahlung für internationalen Versand getrennt. Ergänze bestätigte Inlandslieferung, optionale Bearbeitung, Währungsumrechnung und Kosten am Zielort als eigene Positionen. Füge eine Gebühr nicht allein deshalb hinzu, weil ein anderer Käufer sie erwähnt hat; kennzeichne sie bis zum Nachweis für deine Bestellung als unbestätigt. Ein leeres Feld bedeutet umgekehrt unbekannt, nicht kostenlos.",
+            "Dieser Katalog zeigt unverbindliche Produktpreise in USD. Ein Preis auf einer Produktkarte ist kein Angebot für internationalen Versand. Halte die Währung jeder tatsächlichen Zahlung sichtbar und vergleiche Gesamtkosten in einer gewählten Währung mit dem für dich verfügbaren Wechselkurs und den Zahlungsgebühren. Ein günstiger Produktpreis kann trotzdem zu wenig Budget für das fertig gepackte Paket übrig lassen. Lege dein maximales Gesamtbudget fest, bevor du die Anzahl der Produkte bestimmst."
+          ]
+        },
+        {
+          "id": "measure-parcel",
+          "heading": "3. Verwende verpackte Maße statt einer vermuteten Versandregel",
+          "paragraphs": [
+            "Miss oder erfrage nach der Wahl der Verpackung die Außenlänge, -breite und -höhe des Pakets. Notiere das tatsächliche Gewicht separat. Gehe nicht davon aus, dass ein leichtes, aber großes Paket ausschließlich nach seinem Waagengewicht berechnet wird. Laut Pikobuy-Leitfaden unterscheiden sich die Abrechnungsmethoden der Routen; lies deshalb die Methode der verglichenen Option. Dieser Artikel legt keinen universellen Volumengewichtsdivisor für alle Routen fest.",
+            "Nur als Rechenbeispiel: Ein Karton mit 40 × 30 × 20 cm hat 24.000 Kubikzentimeter Volumen. Wird seine Höhe auf 15 cm reduziert, sind es 18.000 Kubikzentimeter. Das veranschaulicht eine Volumenänderung, keine versprochene Preissenkung. Die verfügbare Route, ihre Abrechnungsschritte, Schutzverpackung und endgültigen Maße bestimmen weiterhin, ob sich das Angebot verändert. Entferne keinen notwendigen Schutz, nur um ein kleineres Beispiel nachzubilden."
+          ]
+        },
+        {
+          "id": "compare-like-for-like",
+          "heading": "4. Vergleiche zwei Optionen mit demselben Paket",
+          "paragraphs": [
+            "Vergleiche bei identischem Ziel, Inhalt und identischen Maßen. Notiere die genaue Routenbezeichnung und den Zeitpunkt jedes Ergebnisses. Ein zweites Angebot für ein leichteres Paket beweist nicht, dass dessen Route günstiger ist. Ändert sich das Angebot während einer Verpackungsanpassung, bewahre die vorherigen Eingaben auf, damit du den Unterschied erklären kannst, statt ihn automatisch einem neuen Tarif zuzuschreiben.",
+            "Nutze die folgende Vorlage für jede mögliche Option. Übernimm die tatsächlich angezeigten Bedingungen und kläre fehlende Informationen vor der Zahlung. Eine fehlende Laufzeitschätzung oder eine unklare enthaltene Leistung ist eine offene Frage. Werden Versicherung, Bearbeitung oder andere Zusatzleistungen angeboten, vergleiche die Gesamtsumme mit denselben ausgewählten Optionen. Der niedrigste angezeigte Einstiegspreis muss nicht die vollständige gewünschte Leistung abdecken."
+          ],
+          "table": {
+            "headers": [
+              "Festhalten",
+              "Option A",
+              "Option B"
+            ],
+            "rows": [
+              [
+                "Ziel und Inhalt",
+                "Identische Eingaben verwenden",
+                "Identische Eingaben verwenden"
+              ],
+              [
+                "Verpacktes Gewicht und Maße",
+                "Gemessen oder geschätzt notieren",
+                "Gemessen oder geschätzt notieren"
+              ],
+              [
+                "Route und Abrechnungsmethode",
+                "Angezeigte Bedingungen übernehmen",
+                "Angezeigte Bedingungen übernehmen"
+              ],
+              [
+                "Gesamtbetrag und enthaltene Leistungen",
+                "Währung und Ausschlüsse notieren",
+                "Währung und Ausschlüsse notieren"
+              ],
+              [
+                "Schätzdatum und offene Fragen",
+                "Beim Angebot aufbewahren",
+                "Beim Angebot aufbewahren"
+              ]
+            ]
+          }
+        },
+        {
+          "id": "test-packaging",
+          "heading": "5. Vergleiche Verpackungsvarianten ohne angenommene Ersparnis",
+          "paragraphs": [
+            "Erstelle ein Szenario für die benötigte Verpackung und ein zweites nur dann, wenn eine praktische Alternative verfügbar ist. Unterscheide bei Schuhen zwischen dem Aufbewahren des Verkaufskartons und dem Schutz der Schuhe selbst. Ermittle bei zerbrechlichen Artikeln den unverzichtbaren Schutz. Prüfe bei Kleidung, ob deine Maße eine lose Artikelsammlung oder das tatsächlich vorbereitete Paket beschreiben. Diese Unterschiede sollten in deinen Notizen erkennbar sein.",
+            "Bitte um Bestätigung, bevor du irreversible Verpackungsänderungen beauftragst. Etiketten, Siegel und Originalverpackung können für die Rückgabefähigkeit wichtig sein; schließe daher zuerst die Prüfungs- oder Rückgabeentscheidung ab. Ein kleineres Paket ist nicht automatisch besser, wenn sich ein Artikel danach schlechter schützen oder zurückgeben lässt. Notiere sowohl die gewünschte Änderung als auch das bestätigte Ergebnis. Ersetze einen gemessenen Wert nicht durch die Zahl, die du dir erhofft hast."
+          ]
+        },
+        {
+          "id": "reconcile-final-quote",
+          "heading": "6. Gleiche die Schätzung mit dem endgültigen Paketangebot ab",
+          "paragraphs": [
+            "Vergleiche vor der Zahlung des internationalen Versands die endgültigen Paketdaten mit deiner Vorlage. Prüfe Artikelliste, Ziel, Route, verpacktes Gewicht, Maße und ausgewählte Leistungen. Weicht der Betrag ab, ermittle die geänderte Eingabe oder Gebühr. Ein früherer Screenshot hilft, eine neue Messung von einer versehentlich ausgewählten Option zu unterscheiden. Bitte um eine Aufschlüsselung, wenn die Differenz ungeklärt bleibt.",
+            "Bewahre Angebot, Zahlungsbestätigung und Paketreferenz zusammen auf. Sie beantworten unterschiedliche Fragen: Das Angebot beschreibt die angebotene Leistung, der Zahlungsbeleg zeigt die Zahlung, und die Paketdaten verbinden die Sendung mit ihrem Inhalt. Eine erfolgreiche Produktzahlung beweist nicht, dass auch die internationale Fracht bezahlt wurde. Folge dem tatsächlichen Ablauf im Konto, statt alle Transaktionen als einen einzigen Bestellbetrag zu behandeln."
+          ]
+        },
+        {
+          "id": "handle-missing-data",
+          "heading": "7. Wenn der Rechner kein brauchbares Ergebnis liefert",
+          "paragraphs": [
+            "Prüfe zuerst Einheiten, Ziel und Produktkategorie. Eine fehlende Option beweist für sich genommen nicht, dass ein Artikel niemals versendet werden kann, und rechtfertigt keine falsche Kategorie, um ein Angebot zu erzwingen. Speichere die Eingaben und frage den offiziellen Support, ob Inhalt und Maße für eine aktuell verfügbare Route zugelassen sind. Bestelle nicht mehr, nur um eine von anderen empfohlene Paketgröße zu erreichen.",
+            "Wartest du noch auf Lagermaße, halte in deinen eigenen Planungsnotizen mehrere mögliche Budgets fest und kennzeichne die Annahmen. Veröffentliche ein vorläufiges Ergebnis nicht als allgemeinen Pikobuy-Versandpreis. Ersetze die Annahme, sobald die fehlende Information verfügbar ist, und wiederhole den Vergleich. So entsteht eine nachvollziehbare Entscheidung, ohne Tarife, garantierte Ersparnisse oder Liefertermine zu erfinden."
+          ]
+        },
+        {
+          "id": "before-payment",
+          "heading": "8. Schließe mit einer kurzen Entscheidungsnotiz ab",
+          "paragraphs": [
+            "Deine abschließende Notiz sollte die enthaltenen Artikel, geklärten Prüffragen, genehmigte Verpackung und den Grund für die passende Route nennen. Ergänze den Gesamtbetrag und verbleibende Kosten, die laut Auskunft nicht enthalten sind. Würde eine unbekannte Position dein Budget sprengen, kläre sie vor der nächsten Zahlung.",
+            "Nutze bei gemischten Bestellungen vor dem Abschluss die Anleitung zur Paketkonsolidierung. Für die zielbezogene Planung hilft die Europa-Versandcheckliste. Wechsle nach dem Versand zum Tracking-Leitfaden, statt den Rechner weiterhin als Fortschrittsnachweis zu verwenden. Schätzen, Kaufen, Prüfen und Verfolgen hängen zusammen, brauchen aber jeweils eigene Belege."
+          ]
+        },
+        {
+          "id": "worked-comparison",
+          "heading": "9. Vergleichsbeispiel: ändere jeweils nur eine Annahme",
+          "paragraphs": [
+            "Ein Käufer plant den Versand von zwei Paar Schuhen und einem Sweatshirt. Vor dem Lagereingang liegen nur Artikelgewichte aus Angeboten und keine verpackten Maße vor. Die erste Vorlage kennzeichnet Gewicht und Größe deshalb als Schätzungen. Nach der QC möchte der Käufer einen Schuhkarton behalten und fragt nach geeigneter Verpackung für das andere Paar. Zu diesem Zeitpunkt wird kein Preis angenommen.",
+            "Sobald das Lager die resultierenden Paketmaße mitteilt, gibt der Käufer diese Werte in den offiziellen Rechner ein und dokumentiert die verfügbaren Optionen. Liegt das Angebot über dem Budget, lautet die nächste Frage, ob eine andere zulässige Zusammenstellung die Gesamtkosten verändert. Diese wird bei gleichem Ziel und gleichen Leistungsannahmen mit dem ursprünglichen Paket verglichen. Das Beispiel zeigt eine Methode, keine echte Bestellung, keinen Tarif und keine Ersparnis. Entscheidend ist, die geänderte Eingabe zu erkennen, bevor man das neue Ergebnis akzeptiert."
+          ]
+        }
+      ],
+      "sourceIds": [
+        "official-estimate",
+        "official-guide",
+        "official-returns"
+      ],
+      "related": [
+        "shipping",
+        "articles/pikobuy-parcel-weight-dimensions",
+        "articles/pikobuy-haul-budget",
+        "articles/pikobuy-parcel-consolidation"
+      ],
+      "published": "2026-10-29",
+      "updated": "2026-10-29"
+    },
+    {
+      "slug": "pikobuy-shipping-europe",
+      "title": "Pikobuy-Versand nach Europa: Ziel- und Liefercheckliste",
+      "description": "Plane Pikobuy-Versand in die Niederlande, nach Deutschland und zu weiteren europäischen Zielen: Routen, Adresse, Paketkosten und Trackingphasen prüfen.",
+      "intro": "Für Pikobuy-Versand nach Europa brauchst du ein Angebot für dein tatsächliches Lieferland und Paket. Ein niederländischer, deutscher oder englischer Leitfaden stellt nicht fest, welche Routen heute in deinem Konto verfügbar sind. Nutze diese Zielcheckliste, um passende Eingaben vorzubereiten, die von Pikobuy angezeigten Optionen zu vergleichen und deine Unterlagen von der Lagerfreigabe bis zur Zustellung zu behalten.",
+      "sections": [
+        {
+          "id": "choose-destination",
+          "heading": "1. Beginne mit dem Lieferland, nicht mit der Sprache der Website",
+          "paragraphs": [
+            "Wähle im offiziellen Versandrechner das Land aus, in dem das Paket zugestellt wird. Wer in die Niederlande versendet, sollte dieses Ziel auch beim Lesen eines englischen Leitfadens auswählen. Dasselbe gilt für Deutschland, Frankreich, Spanien oder ein anderes Land. Die Sprachen dieser Website erleichtern das Lesen; sie stehen weder für eigene Beförderungsverträge noch für das Versprechen, dass jede Route jedes Ziel bedient.",
+            "Notiere die Postleitzahl und die für die tatsächliche Paketaufgabe benötigten Zielangaben. Prüfe Schreibweise, Haus- oder Gebäudenummer, gegebenenfalls Wohnungsangaben und Kontaktdaten des Empfängers im eigentlichen Formular. Die Annahme eines Landes im Rechner bedeutet nicht, dass eine vollständige Adresse geprüft wurde. Kläre ein ungewöhnliches Adressformat oder eine Zustellbeschränkung vor dem Versand über die Plattform."
+          ]
+        },
+        {
+          "id": "define-contents",
+          "heading": "2. Lege den Inhalt vor dem Vergleich europäischer Routen fest",
+          "paragraphs": [
+            "Liste alle vorgesehenen Artikel auf und kläre zuerst offene Fragen zur Lagerprüfung. Bewahre gewählte Größe, Farbe und Anzahl neben der Artikelreferenz auf, damit das Paket aus freigegebenen Artikeln zusammengestellt wird. Ein einzelner Artikel, zu dem noch eine Verkäuferantwort fehlt, kann den Zeitpunkt der gesamten Paketaufgabe verändern. Ein Lieferplan auf Basis einer unvollständigen Liste wird unzuverlässig, sobald sich der Inhalt ändert.",
+            "Beschreibe besondere Inhalte bei Fragen zur Zulässigkeit genau. Leite die Erlaubnis für Batterien, Flüssigkeiten oder zerbrechliche Artikel nicht aus einer Routenbezeichnung oder der erfolgreichen Lieferung eines anderen Käufers ab. Beschränkungen und Handhabung hängen von der tatsächlichen Leistung und dem Inhalt ab. Frage nach einer aktuell passenden Option und bewahre die Antwort beim Angebot auf. Ein attraktiver Preis hilft nur, wenn das Paket den Dienst zulässig nutzen kann."
+          ]
+        },
+        {
+          "id": "compare-route-records",
+          "heading": "3. Vergleiche die für dein Ziel angebotene Leistung",
+          "paragraphs": [
+            "Speichere für jede verfügbare Option Routenname, Angebotsbetrag, Währung, relevante Abrechnungsmethode und eine gegebenenfalls angezeigte Laufzeitschätzung. Halte Gewicht und Maße während des Vergleichs unverändert. Der offizielle Leitfaden erklärt Unterschiede bei Laufzeit und Abrechnung, benennt aber keine universell beste Route nach Europa. Wähle unter den aktuell für dein Paket und deine Anforderungen angezeigten Möglichkeiten.",
+            "Frage bei unklaren Formulierungen nach den enthaltenen Leistungen. Eine Routenbezeichnung allein belegt nicht jede Gebühr, jeden Bearbeitungsschritt oder jedes Lieferzeitversprechen. Ersetze das Angebot in deinem Konto nicht durch eine Preisliste aus sozialen Medien. Verwenden zwei Ergebnisse unterschiedliche Verpackungen oder Zusatzleistungen, mache diese Unterschiede vor dem Summenvergleich deutlich. Datiere Screenshots, damit ein älteres Angebot nicht für ein aktuelles gehalten wird."
+          ]
+        },
+        {
+          "id": "budget-destination",
+          "heading": "4. Plane Spielraum für Kosten außerhalb der angezeigten Fracht ein",
+          "paragraphs": [
+            "Trenne Produktkosten, Inlandslieferung, internationale Fracht, optionale Leistungen und gegebenenfalls Kosten am Zielort in deiner Planung. Gehe nicht davon aus, dass der Frachtbetrag bei jeder grenzüberschreitenden Bestellung die endgültige Gesamtsumme darstellt. Füge ebenso wenig einen beliebigen Prozentsatz oder eine Gebühr aus einem anderen Zielland hinzu. Halte fest, was die gewählte Leistung tatsächlich umfasst und was noch bestätigt werden muss.",
+            "Prüfe für Zölle, Steuern, Erklärungen und örtliche Anforderungen die aktuellen Vorgaben des genauen Lieferziels und die Bedingungen des gewählten Dienstes. Diese Checkliste nennt keine Steuergrenze, keinen Steuersatz und keine rechtliche Befreiung. Verwende in erforderlichen Formularen zutreffende Inhalte und Werte; ein Routenname oder eine informelle Käuferbeschreibung ersetzt diese Anforderungen nicht. Frage nach, wenn eine wesentliche Kostenposition durch die Formulierung der Plattform unklar bleibt."
+          ]
+        },
+        {
+          "id": "plan-timeline",
+          "heading": "5. Baue die Zeitlinie aus getrennten Meilensteinen auf",
+          "paragraphs": [
+            "Die gesamte Wartezeit kann Verkäuferbearbeitung, Inlandstransport zum Lager, Prüfung, Korrektur- oder Rückgabeentscheidung, Paketvorbereitung und internationalen Transport umfassen. Halte diese Phasen in deinen Notizen getrennt. Eine internationale Laufzeitschätzung enthält nicht automatisch Wartezeit auf einen Verkäufer oder deine eigene Freigabe. Bewerte bei zeitkritischen Käufen den gesamten Ablauf statt nur den Beförderungsabschnitt.",
+            "Pikobuys Leitfaden bezieht seine Erwartung zur Trackinginformation auf die Zeit nach dem Versand. Das ist keine dreitägige Lieferzusage und beginnt nicht mit der Artikelzahlung. Notiere das tatsächliche Versandereignis und verfolge die diesem Paket zugeordnete Referenz. Ist eine Phase unklar, frage nach abgeschlossenen Schritten und nötigen Aktionen, statt Fortschritt aus dem Alter der Produktbestellung abzuleiten."
+          ]
+        },
+        {
+          "id": "destination-worksheet",
+          "heading": "6. Nutze eine Vorlage je Ziel und Paket",
+          "paragraphs": [
+            "Eine eigene Vorlage verhindert die Vermischung von Angaben verschiedener Empfänger oder Bestellungen. Die folgenden Felder funktionieren für die Niederlande, Deutschland und weitere Ziele, ohne identische Routen oder Gebühren anzunehmen. Es handelt sich um eine Planungsvorlage, nicht um bestätigte Angebote oder eine Ländertabelle mit Lieferzeiten. Fülle sie mit deinen eigenen aktuellen Unterlagen aus.",
+            "Erstelle einen neuen Vergleich, wenn sich Ziel, Artikelliste oder Verpackung ändern. Bewahre die vorherige Fassung auf, damit nachvollziehbar bleibt, warum Betrag oder verfügbare Dienste wechselten. Das hilft besonders, wenn Freunde Angebote teilen: Vergleiche zuerst die Eingaben und beurteile erst dann die Relevanz des Beispiels. Der Ländername allein ist nie eine vollständige Paketspezifikation."
+          ],
+          "table": {
+            "headers": [
+              "Planungsfeld",
+              "Aufzubewahrende Angaben"
+            ],
+            "rows": [
+              [
+                "Ziel und Empfänger",
+                "Land und geprüfte Adressangaben"
+              ],
+              [
+                "Freigegebener Inhalt",
+                "Artikelreferenzen, Varianten und Mengen"
+              ],
+              [
+                "Paketmaße",
+                "Verpacktes Gewicht und drei Außenmaße"
+              ],
+              [
+                "Gewählter Dienst",
+                "Aktuelle Route, Gesamtbetrag, Einschlüsse und offene Fragen"
+              ],
+              [
+                "Versand und Tracking",
+                "Paketreferenz, Versandnachweis und letztes bestätigtes Ereignis"
+              ]
+            ]
+          }
+        },
+        {
+          "id": "last-mile",
+          "heading": "7. Verfolge Übergabe und letzte Zustellphase",
+          "paragraphs": [
+            "Lies nach dem Versand das vollständige Trackingereignis mit Zeitstempel und Quelle. Elektronische Sendungsdaten sind nicht dasselbe wie ein physischer Annahmescan des Frachtführers. Nennt das Protokoll einen Zustellpartner oder eine weitere Trackingreferenz, verwende die tatsächlich mitgeteilten Angaben. Errate den örtlichen Zusteller nicht allein anhand des Ziellands und unterstelle nicht bei allen Routen dieselbe Abfolge von Trackingmeldungen.",
+            "Prüfe bei einer Zustellausnahme über den legitimen Plattform- oder Frachtführerkanal die geforderte Handlung. Bestätige Adresse, Abholanforderung oder andere Anweisungen nur über einen verifizierten Kanal. Bewahre die genaue Meldung und Antworten auf. Eine Trackingpause beweist allein keinen Verlust, während ein geschätztes Datum die Ankunft nicht belegt. Nutze den Artikel zur Tracking-Fehlersuche, wenn sich die belegten Informationen nicht mehr ändern."
+          ]
+        },
+        {
+          "id": "receive-parcel",
+          "heading": "8. Schließe den Vorgang nach Ankunft des Pakets ab",
+          "paragraphs": [
+            "Vergleiche die erhaltenen Artikel mit der freigegebenen Liste und den aufbewahrten Prüffotos. Behalte Versandetikett, Verpackung und relevante Unterlagen, während ein fehlender oder beschädigter Artikel geklärt wird. Der Trackingstatus zugestellt beantwortet eine Transportfrage; er bestätigt nicht automatisch Inhalt und Zustand. Dokumentiere konkrete Abweichungen zeitnah beim offiziellen Support, statt mehrere unabhängige Beschwerden zu vermischen.",
+            "Prüfe für die nächste Bestellung, welche Annahmen sich verändert haben: Verpackungsgröße, Dienstwahl, Wartezeit beim Verkäufer oder eine unerwartete Gebühr. Verbessere deine eigene Planung, mache aus einem einzelnen Paket aber keine universelle Liefergarantie. Aktuelle Zielangaben, freigegebene Inhalte und eine belegte Zeitlinie erleichtern den nächsten Vergleich, ohne ein nicht gestütztes Ergebnis zu versprechen."
+          ]
+        },
+        {
+          "id": "worked-timeline",
+          "heading": "9. Zeitlinienbeispiel: Verkäuferverzögerung und Transport trennen",
+          "paragraphs": [
+            "Betrachte eine hypothetische Bestellung zur Lieferung in die Niederlande. Ein Kleidungsstück ist im Lager eingetroffen und vom Käufer geprüft, während für einen zweiten Artikel noch eine Verkäufermeldung fehlt. Ein internationales Paket wurde noch nicht eingereicht. Selbst wenn der Rechner eine Laufzeitschätzung zeigt, lässt sich daraus nicht bestimmen, wann die unvollständige Bestellung beim Empfänger ankommt.",
+            "Der Käufer notiert Lagerbedingungen und eine mögliche offene Frist des ersten Artikels, fragt zum zweiten nach und vergleicht Warten mit dem Versand nur des freigegebenen Artikels. Nach endgültiger Paketaufgabe und dokumentiertem Versand beginnt die internationale Trackingzeitlinie anhand der Paketreferenz. Bleibt ein späteres Frachtführerereignis stehen, betrifft die Supportanfrage dieses Ereignis statt der früheren Verkäuferverzögerung. Das ist ein Planungsbeispiel, kein veröffentlichter Zustellplan. Getrennte Meilensteine machen Entscheidung und Supportfrage präziser."
+          ]
+        }
+      ],
+      "sourceIds": [
+        "official-estimate",
+        "official-guide",
+        "official-terms",
+        "official-contact"
+      ],
+      "related": [
+        "shipping",
+        "articles/pikobuy-shipping-calculator",
+        "articles/pikobuy-tracking-not-updating",
+        "articles/pikobuy-parcel-consolidation"
+      ],
+      "published": "2026-10-29",
+      "updated": "2026-10-29"
+    },
+    {
+      "slug": "pikobuy-parcel-consolidation",
+      "title": "Pikobuy-Paketkonsolidierung: Bestellungen nach der QC bündeln",
+      "description": "Bündele Pikobuy-Lagerartikel mit einer klaren Checkliste für QC, Verpackung und Kosten. Vergleiche ein Paket mit Einzelsendungen ohne garantierte Ersparnis.",
+      "intro": "Pikobuy erklärt, dass Artikel verschiedener Verkäufer zu einem Paket zusammengefasst werden können. Entscheidend ist, ob deine konkreten Artikel gemeinsam versandbereit sind, mit geeigneter Verpackung und einem verständlichen Angebot. Die Zusammenfassung sollte auf deine Prüfentscheidungen folgen. Dieser Leitfaden hilft bei einer klaren Artikelliste, dem Vergleich praktischer Verpackungsoptionen und der Paketbestätigung vor der Zahlung des internationalen Versands.",
+      "sections": [
+        {
+          "id": "build-item-list",
+          "heading": "1. Erstelle vor der Paketwahl eine Artikelliste",
+          "paragraphs": [
+            "Notiere für jeden vorgesehenen Artikel Bestellreferenz, Produkt, ausgewählte Größe oder Farbe, Menge und aktuellen Lagerstatus. Trenne bereits erhaltene Artikel von solchen, die noch beim Verkäufer oder im Inlandstransport sind. Eine fertige Bestellung beweist nicht die Ankunft der übrigen. Vermerke auszuschließende Artikel, damit eine alte Auswahl nicht mit der endgültigen Packanweisung verwechselt wird.",
+            "Bewahre bei Artikeln verschiedener Verkäufer die ursprünglichen Bestellreferenzen auf, auch wenn sie später dieselbe Paketnummer teilen. Diese helfen bei fehlenden Mengen, falschen Varianten oder verkäuferspezifischen Problemen. Eine gemeinsame internationale Sendung löscht die einzelnen Kaufhistorien nicht. Deine endgültige Paketliste sollte jeden enthaltenen Artikel mit dem tatsächlich geprüften Datensatz verbinden."
+          ]
+        },
+        {
+          "id": "finish-qc",
+          "heading": "2. Schließe QC- und Rückgabeentscheidungen zuerst ab",
+          "paragraphs": [
+            "Prüfe die Lagernachweise für eingetroffene Artikel. Gleiche Referenz, Variante und Menge ab, bevor du sichtbaren Zustand und angeforderte Maße beurteilst. Ein Katalogfoto belegt nicht den Zustand deiner konkreten Bestellung. Beantworten vorhandene Bilder eine wichtige Frage nicht, fordere das relevante Detail über Pikobuy an und bestätige mögliche Kosten vor der Versandentscheidung.",
+            "Lass einen ungeklärten Artikel außerhalb der versandbereiten Gruppe, bis du entschieden hast. Die veröffentlichten Rückgabebedingungen enthalten Fristen und Voraussetzungen; das Warten auf einen anderen Verkäufer darf dich daher nicht von einer Entscheidung zu einem bereits eingelagerten Artikel ablenken. Erhalte Etiketten, Siegel und Verpackung während der Klärung der Rückgabefähigkeit. Erlaube deren Entfernung nicht nur zur Vorbereitung einer Konsolidierungsschätzung."
+          ]
+        },
+        {
+          "id": "choose-wait-or-send",
+          "heading": "3. Entscheide, ob sich das Warten auf einen weiteren Artikel lohnt",
+          "paragraphs": [
+            "Vergleiche die praktischen Folgen des Wartens mit dem sofortigen Versand freigegebener Artikel. Notiere den fehlenden Artikel, seinen bestätigten Status und relevante Fristen der schon gelagerten Ware. Die öffentlichen Weiterleitungsbedingungen legen keine universelle kostenlose Lagerfrist für alle Bestellungen fest. Prüfe die aktuellen Bedingungen deiner eigenen Artikel, statt eine feste Zahl kostenloser Tage von einer anderen Website zu übernehmen.",
+            "Warten kann zu einer anderen Paketzusammenstellung führen, garantiert aber weder Ersparnis noch einen bestimmten Versandtag. Ein verspäteter Artikel kann auch Maße oder zulässige Route verändern. Berücksichtige bei zeitkritischen Käufen die ganze Folge der verbleibenden Schritte. Halte die Entscheidung einfach: Welcher Nachweis fehlt, welche Frist ist relevant und was tust du, wenn der fehlende Artikel weiterhin nicht bereit ist?"
+          ]
+        },
+        {
+          "id": "specify-packaging",
+          "heading": "4. Formuliere genaue Verpackungsanweisungen",
+          "paragraphs": [
+            "Bestimme den nötigen Schutz jedes Artikels und die aufzubewahrende Verkaufsverpackung. Schuhe, weiche Kleidung und zerbrechliche Accessoires benötigen nicht unbedingt dieselbe Handhabung. Möchtest du einen Karton entfernen lassen, benenne den Artikel und bestätige zuerst den Abschluss der Prüfung oder Rückgabeentscheidung. Vermeide pauschale Anweisungen wie sämtliche Verpackung entfernen, wenn unterschiedliche Anforderungen gelten.",
+            "Pikobuys Einkaufsleitfaden erwähnt Wünsche nach minimaler und verstärkter Verpackung. Kläre, was für dein Paket verfügbar ist und ob dadurch Gebühren oder Maße verändert werden. Ein Wunsch beweist nicht, dass das fertige Paket die erwarteten Maße besitzt. Bitte um die resultierenden verpackten Maße, sobald sie vorliegen, und vergleiche sie mit den Zahlen deiner früheren Schätzung."
+          ]
+        },
+        {
+          "id": "compare-configurations",
+          "heading": "5. Vergleiche ein Paket mit realistischen Alternativen",
+          "paragraphs": [
+            "Vergleiche das Angebot für das freigegebene Gesamtpaket mit der Summe der Einzelpakete, die du tatsächlich versenden würdest. Verwende dasselbe Ziel und eine klare Inhaltsliste für jede Option. Berücksichtige ausgewählte Verpackung und bestätigte Bearbeitungsleistungen. Der Vergleich eines vollständigen Pakets mit nur einer Hälfte einer geteilten Sendung unterschätzt die Alternativkosten.",
+            "Die folgende Tabelle ist eine Entscheidungsvorlage, kein Beweis dafür, dass Aufteilen oder Zusammenfassen immer günstiger ist. Trage aktuelle Maße und Angebote ein. Das Ergebnis hängt von den tatsächlich zulässigen Routen und deren Abrechnung ab. Halte unveränderte Produktkaufkosten separat; der Vergleich soll Unterschiede sichtbar machen, statt denselben Kauf zweimal zu zählen."
+          ],
+          "table": {
+            "headers": [
+              "Prüfung",
+              "Gemeinsames Paket",
+              "Getrennte Pakete"
+            ],
+            "rows": [
+              [
+                "Inhalt",
+                "Alle freigegebenen Artikel zusammen",
+                "Artikel jedes Pakets angeben"
+              ],
+              [
+                "Verpackung",
+                "Schutz und erhaltene Kartons",
+                "Benötigter Schutz je Paket"
+              ],
+              [
+                "Maße",
+                "Ein endgültiges verpacktes Gewicht und Format",
+                "Gewicht und Format jedes Pakets"
+              ],
+              [
+                "Versandvergleich",
+                "Vollständiger Angebotsbetrag",
+                "Summe aller Angebotsbeträge"
+              ],
+              [
+                "Offene Fragen",
+                "Zulässigkeit und ungeklärte Leistungen",
+                "Zulässigkeit und ungeklärte Leistungen je Paket"
+              ]
+            ]
+          }
+        },
+        {
+          "id": "confirm-submission",
+          "heading": "6. Bestätige das Paket vor der Zahlung",
+          "paragraphs": [
+            "Gleiche endgültige Artikelliste und Mengen mit deinen Unterlagen ab. Prüfe Lieferadresse, Route, Packanweisungen und Betrag vor Aufgabe oder Zahlung. Fehlt ein Artikel, nimm nicht an, dass er automatisch hinzugefügt wird, weil er zum selben Konto gehört. Ist ein unerwarteter Artikel enthalten, kläre dies vor dem Versand. Eine eindeutige Bestätigung ist einfacher als die spätere Rekonstruktion deiner Absicht.",
+            "Bewahre die endgültige Paketreferenz neben den einzelnen Bestellreferenzen auf. Notiere die Plattformbestätigungen zu Gewicht, Maßen und enthaltenen Leistungen. Ändert sich die Summe nach dem Verpacken, vergleiche sie mit der früheren Schätzung und ermittle die geänderte Eingabe. Stelle eine gezielte Frage zu ungeklärten Differenzen, statt die ursprüngliche Schätzung als verbindlichen Endpreis anzusehen."
+          ]
+        },
+        {
+          "id": "support-template",
+          "heading": "7. Stelle eine Frage, mit der der Support arbeiten kann",
+          "paragraphs": [
+            "Eine hilfreiche Anfrage nennt Artikel, gewünschte Handlung und den zu bestätigenden Punkt. Zum Beispiel: Bitte bestätigen Sie, ob die aufgeführten Lagerartikel gemeinsam an mein ausgewähltes Ziel versendet werden können, wobei die genannte Verpackung erhalten bleibt, und teilen Sie Gewicht, Maße und aktuelle Versandmöglichkeiten mit. Ersetze allgemeine Beschreibungen im offiziellen Kontokanal durch deine tatsächlichen Referenzen.",
+            "Mache beim Vergleich von Zusammenstellungen deutlich, welche Artikelliste zu welcher Option gehört. Brauchst du vor der Entscheidung ein Foto, benenne das fehlende Detail oder Maß. Halte Zugangsdaten und Zahlungsgeheimnisse aus Nachrichten und öffentlichen Screenshots heraus. Dieser unabhängige Leitfaden kann keine privaten Bestellungen einsehen oder Lageranweisungen in deinem Namen erteilen; nutze für die Entscheidung Pikobuys offiziellen Kontaktweg."
+          ]
+        },
+        {
+          "id": "check-delivery",
+          "heading": "8. Prüfe neben dem Tracking auch den Inhalt",
+          "paragraphs": [
+            "Verfolge das internationale Paket nach dem Versand mit seinem eigenen Trackingdatensatz. Die Inlandsnummer eines Verkäufers verfolgt nicht zwingend die gebündelte Sendung. Bewahre Paketliste und Prüfnachweise bis zur Zustellung auf. Vergleiche Inhalt und Mengen bei Ankunft mit dieser Liste, bevor du den Vorgang abschließt, besonders bei Waren mehrerer Verkäufer in einem Außenkarton.",
+            "Fehlt etwas oder ist es sichtbar beschädigt, dokumentiere die konkrete Abweichung und behalte relevante Etiketten und Verpackung während der Supportklärung. Trenne Artikelprobleme von Zustellstatusproblemen. Notiere für künftige Planungen, ob die Zusammenfassung Maße, verfügbare Routen oder benötigte Bearbeitung veränderte. Verbessere damit deine eigene Checkliste, ohne eine Bestellung als Beweis allgemeiner Ersparnis zu behandeln."
+          ]
+        },
+        {
+          "id": "worked-item-list",
+          "heading": "9. Beispiel-Artikelliste: einen ungeklärten Artikel getrennt halten",
+          "paragraphs": [
+            "Angenommen, ein Käufer hat bei drei Verkäufern ein T-Shirt, ein Paar Schuhe und eine kleine Tasche bestellt. Größe und Zustand des T-Shirts sind geprüft. Für die Schuhe fehlt ein zusätzliches Maß, die Tasche ist noch nicht im Lager. Auf der Bereitliste steht nur das T-Shirt; die anderen Artikel dürfen nicht stillschweigend ergänzt werden, nur weil alle drei für dieselbe Sendung gedacht waren.",
+            "Der Käufer fordert das Schuhmaß an, prüft den zuletzt bestätigten Taschenstatus und notiert Lager- und Rückgabebedingungen der eingetroffenen Artikel. Mit ausreichenden Nachweisen kann er ein Paket freigegebener Artikel mit einer späteren Variante einschließlich Tasche vergleichen. Jede Option benötigt ihren eigenen tatsächlichen Inhalt und ihre Maße. Dieses hypothetische Beispiel empfiehlt weder grundsätzliches Warten noch Aufteilen. Es zeigt den Vorteil einer ausdrücklichen Artikelliste gegenüber der pauschalen Anweisung, alles im Konto zu bündeln."
+          ]
+        }
+      ],
+      "sourceIds": [
+        "official-contact",
+        "official-guide",
+        "official-shipping",
+        "official-returns"
+      ],
+      "related": [
+        "qc",
+        "articles/pikobuy-warehouse-returns",
+        "articles/pikobuy-shipping-calculator",
+        "articles/pikobuy-tracking-not-updating"
+      ],
+      "published": "2026-10-29",
+      "updated": "2026-10-29"
     }
-  ]
+  ],
+  "growth": {
+    "homeTitle": "Pikobuy Spreadsheet: Produktlinks, QC und Versand",
+    "homeDescription": "Entdecke Pikobuy-Produktlinks für Schuhe und Kleidung. Vergleiche USD-Preise, prüfe Größen und QC und plane den Versand mit praktischen Leitfäden.",
+    "catalogTitle": "Pikobuy Spreadsheet: Schuhe, Kleidung und Produktlinks",
+    "catalogDescription": "Durchsuche das Pikobuy Spreadsheet nach Kategorien und vergleiche Produktpreise in USD. Öffne Details, prüfe Größen und fahre auf Pikobuy fort.",
+    "categoryGuideHeading": "Vor der Artikelauswahl",
+    "categories": {
+      "shoes": {
+        "title": "Pikobuy-Schuh-Spreadsheet: Links, Größen und QC",
+        "description": "Entdecke Schuhlinks im Pikobuy Spreadsheet, vergleiche USD-Preise und prüfe Maße, Lagerfotos und Verpackung vor dem Versand.",
+        "intro": "Vergleiche Schuhangebote für genau die Größe und Variante, die du bestellen möchtest. Eine bekannte Größenangabe ist ein Ausgangspunkt, kein Beweis für die Passform. Öffne die Originaldetails und prüfe die Verkäufermaße vor der Zahlung. Produktfotos auf dieser Seite stammen aus Angeboten und sind keine QC-Fotos deiner Bestellung.",
+        "checks": [
+          "Vergleiche die Größentabelle des Verkäufers mit einem bequemen eigenen Paar.",
+          "Fordere das benötigte Maß oder Etikettfoto zur Klärung der Größenfrage an.",
+          "Entscheide nach QC und möglicher Rückgabeentscheidung über den Schuhkarton."
+        ]
+      },
+      "sweatshirts": {
+        "title": "Pikobuy-Spreadsheet für Hoodies und Sweatshirts",
+        "description": "Finde Hoodie- und Sweatshirt-Links, vergleiche USD-Preise und prüfe Brustmaß, Länge und Ärmel vor der Bestellung über Pikobuy.",
+        "intro": "Wähle Hoodies oder Sweatshirts nach Kleidungsmaßen und gewünschter Passform. Vergleiche Brustweite, Rumpflänge und Ärmel mit einem bereits getragenen Kleidungsstück. Derselbe Größenbuchstabe kann unterschiedliche Schnitte beschreiben. Prüfe deshalb Angebot und Variante statt eine universelle Größenumrechnung anzunehmen.",
+        "checks": [
+          "Vergleiche Maße mit derselben Messmethode und in denselben Einheiten.",
+          "Prüfe gewählte Farbe, Kapuze, Reißverschluss und Taschen im Originalangebot.",
+          "Sichte Lagerfotos, bevor das Kleidungsstück in ein gemeinsames Paket kommt."
+        ]
+      },
+      "tshirts": {
+        "title": "Pikobuy-T-Shirt-Spreadsheet: Links und Größenprüfung",
+        "description": "Entdecke T-Shirt-Produktlinks und USD-Preise. Vergleiche Brustweite und Länge, prüfe die Variante und plane Lager-QC vor dem Versand.",
+        "intro": "Vergleiche T-Shirts anhand von Brustweite, Rumpflänge und gewünschter Passform. Angebotsbilder helfen bei der Designauswahl, bestätigen aber weder Maße noch Zustand des ans Lager geschickten Artikels. Bewahre Größe und Farbe bei deiner Bestellreferenz auf, um sie später mit Prüffotos abzugleichen.",
+        "checks": [
+          "Miss ein gut sitzendes T-Shirt und vergleiche die Messmethode des Verkäufers.",
+          "Bestätige Größe und Farbe, bevor du die Bestellung auf Pikobuy öffnest.",
+          "Fordere ein deutlicheres Detailfoto an, wenn Druck, Naht oder Maß unklar bleiben."
+        ]
+      }
+    },
+    "hubs": {
+      "qc": {
+        "title": "Pikobuy-QC-Leitfaden: Fotos, Maße und Rückgaben",
+        "description": "Prüfe Pikobuy-QC-Fotos gegen deine Bestellung: Größe, Farbe, Menge und sichtbarer Zustand. Erfahre, wann vor dem Versand weitere Belege nötig sind.",
+        "sections": [
+          {
+            "id": "match-order",
+            "heading": "Ordne die Fotos deiner eigenen Bestellung zu",
+            "paragraphs": [
+              "Beginne mit Bestellreferenz, gewählter Variante und Menge. Vergleiche den Lagerdatensatz mit dem tatsächlich gekauften Produkt, nicht mit einem ähnlichen Angebot. Die Bilder dieses unabhängigen Katalogs sind Produktfotos und keine zugeordneten QC-Nachweise deiner Bestellung."
+            ]
+          },
+          {
+            "id": "check-evidence",
+            "heading": "Prüfe sichtbare Details und Maße",
+            "paragraphs": [
+              "Sichte Farbe, Etiketten, Nähte, Druckposition, Zubehör und sichtbare Schäden. Fordere für Größenfragen genau das entscheidende Maß mit derselben Methode wie in der Verkäufertabelle an. Ein deutliches Etikett belegt keine Passform; ein Foto belegt weder Materialzusammensetzung noch Echtheit oder langfristige Funktion."
+            ]
+          },
+          {
+            "id": "request-detail",
+            "heading": "Fordere das entscheidungsrelevante Detail an",
+            "paragraphs": [
+              "Benenne Artikel und den zu zeigenden Bereich. Bitte beispielsweise um ein flach liegendes Kleidungsstück mit durchgehend sichtbarem Maßband von Kante zu Kante. Bestätige verfügbare Leistung und Gebühr in Pikobuy. Bleibt ein Bild unklar, halte die Unsicherheit fest, statt sie als Freigabe zu behandeln."
+            ]
+          },
+          {
+            "id": "decide-before-shipping",
+            "heading": "Entscheide vor der Paketaufgabe",
+            "paragraphs": [
+              "Gib den Artikel frei, bitte um Klärung oder verfolge eine zulässige Rückgabe, solange er im Lager ist. Prüfe aktuelle Rückgabebedingungen zeitnah und erhalte erforderliche Verpackung. Schließe die Entscheidung vor Konsolidierung oder irreversiblen Verpackungsänderungen ab. Bewahre den Prüfnachweis bei der endgültigen Paketliste auf."
+            ]
+          }
+        ],
+        "sourceIds": [
+          "official-guide",
+          "official-user-agreement",
+          "official-returns"
+        ]
+      },
+      "shipping": {
+        "title": "Pikobuy-Versand: Rechner, Kosten und Tracking",
+        "description": "Plane Pikobuy-Versand mit offiziellem Rechner, verpacktem Gewicht und Maßen. Vergleiche Routen, bündele freigegebene Artikel und verfolge den Versand.",
+        "sections": [
+          {
+            "id": "estimate-first",
+            "heading": "Schätze das Paket vor der Budgetentscheidung",
+            "paragraphs": [
+              "Nutze den offiziellen Rechner mit tatsächlichem Lieferland, Produkttyp, Gewicht und drei Maßen. Trenne Messwerte von Annahmen. Vergleiche dasselbe Paket zwischen verfügbaren Optionen und speichere Datum, Währung, Route und enthaltene Leistungen bei jedem Ergebnis."
+            ]
+          },
+          {
+            "id": "complete-budget",
+            "heading": "Trenne Produktzahlung und internationale Fracht",
+            "paragraphs": [
+              "Ein Katalogpreis ist ein unverbindlicher Produktpreis in USD. Internationaler Versand und mögliche Zusatzkosten sind ausgeschlossen. Führe Kaufzahlung, Versandzahlung und bestätigte optionale oder zielbezogene Kosten als eigene Budgetposten. Kläre einen unbekannten Betrag, statt ihn als null anzusetzen."
+            ]
+          },
+          {
+            "id": "pack-after-qc",
+            "heading": "Wähle die Verpackung nach der QC",
+            "paragraphs": [
+              "Kläre Größen- und Zustandsfragen, bevor du Lagerartikel bündelst. Prüfe Auswirkungen von Verpackungsänderungen auf Schutz oder mögliche Rückgaben. Vergleiche fertiges Paketgewicht und Maße mit der Schätzung; nimm nicht an, dass Zusammenfassen immer die Gesamtkosten senkt."
+            ]
+          },
+          {
+            "id": "follow-dispatch",
+            "heading": "Verfolge ab dem tatsächlichen Versand",
+            "paragraphs": [
+              "Die Dreitagesangabe des offiziellen Leitfadens betrifft Trackinginformationen nach dem Versand, nicht die Zustellung innerhalb von drei Tagen. Unterscheide Produktzahlung, Lagereingang, Paketaufgabe und Frachtführerbewegung. Halte Paketreferenz und letztes bestätigtes Ereignis für Fragen zu fehlenden Updates bereit."
+            ]
+          }
+        ],
+        "sourceIds": [
+          "official-estimate",
+          "official-guide",
+          "official-contact"
+        ]
+      }
+    }
+  }
 }
