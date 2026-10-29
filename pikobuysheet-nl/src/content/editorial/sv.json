@@ -14,7 +14,7 @@
     "related": "Relaterade artiklar",
     "allArticles": "Alla artiklar",
     "latestArticles": "Senaste artiklarna",
-    "articleCount": "10 praktiska guider",
+    "articleCount": "13 praktiska guider",
     "sourceLink": "Officiell källa"
   },
   "faq": [
@@ -304,7 +304,8 @@
       "related": [
         "spreadsheet",
         "articles/pikobuy-product-links",
-        "articles/pikobuy-haul-budget"
+        "articles/pikobuy-haul-budget",
+        "articles/pikobuy-parcel-consolidation"
       ]
     },
     {
@@ -409,7 +410,8 @@
       "related": [
         "spreadsheet",
         "articles/pikobuy-qc-measurements",
-        "articles/pikobuy-shoe-sizing"
+        "articles/pikobuy-shoe-sizing",
+        "articles/pikobuy-parcel-consolidation"
       ]
     },
     {
@@ -515,7 +517,8 @@
       "related": [
         "guide",
         "articles/pikobuy-spreadsheet-checklist",
-        "faq"
+        "faq",
+        "articles/pikobuy-parcel-consolidation"
       ]
     },
     {
@@ -602,6 +605,14 @@
             "Återgå till den ursprungliga frågan och välj nästa steg. Underlaget kan stödja att gå vidare, lämna en specifik fråga öppen eller motivera en diskussion om retur. Spara svaret med orderuppgifterna och notera vilket mått eller vilken synlig detalj som låg bakom beslutet.",
             "Om ett problem kvarstår, kontrollera aktuell orderstatus och tillämpliga returvillkor direkt. Lägg inte tid på dekorativa bildvinklar medan en avvikelse som går att åtgärda inte har rapporterats. Anteckningarna bör göra problemet lätt att förklara: vad som var avsett, vad bilden visar och vilken lösning du önskar. Fortsätt att märka osäkra observationer som osäkra."
           ]
+        },
+        {
+          "id": "approve-or-ask",
+          "heading": "8. Gör mätningen till ett tydligt beslut",
+          "paragraphs": [
+            "Jämför det fotograferade måttet med ditt målvärde med samma mätpunkter och enheter. Om bandet börjar efter noll, plagget är vikt eller ändpunkterna inte syns, begär en tydligare mätning i stället för att godta en till synes exakt siffra. Anteckna om återstående osäkerhet skulle ändra storleksvalet.",
+            "Godkänn först när underlaget besvarar frågan som är viktig för dig. Begär annars den saknade detaljen eller kontrollera returvalen snabbt. Behåll originalförpackningen under beslutet och slutför det innan varan läggs i ett kombinerat paket. Bilden gäller just den här ordern, inte en universell storlekstabell för framtida köp."
+          ]
         }
       ],
       "sourceIds": [
@@ -612,8 +623,10 @@
       "related": [
         "qc",
         "articles/pikobuy-clothing-size-chart",
-        "articles/pikobuy-warehouse-returns"
-      ]
+        "articles/pikobuy-warehouse-returns",
+        "articles/pikobuy-parcel-consolidation"
+      ],
+      "updated": "2026-10-29"
     },
     {
       "slug": "pikobuy-haul-budget",
@@ -735,7 +748,8 @@
       "related": [
         "shipping",
         "articles/pikobuy-parcel-weight-dimensions",
-        "articles/pikobuy-spreadsheet-checklist"
+        "articles/pikobuy-spreadsheet-checklist",
+        "articles/pikobuy-shipping-calculator"
       ]
     },
     {
@@ -831,7 +845,8 @@
       "related": [
         "shipping",
         "articles/pikobuy-haul-budget",
-        "articles/pikobuy-warehouse-returns"
+        "articles/pikobuy-warehouse-returns",
+        "articles/pikobuy-shipping-calculator"
       ]
     },
     {
@@ -937,7 +952,8 @@
       "related": [
         "spreadsheet",
         "articles/pikobuy-qc-measurements",
-        "articles/pikobuy-parcel-weight-dimensions"
+        "articles/pikobuy-parcel-weight-dimensions",
+        "articles/pikobuy-parcel-consolidation"
       ]
     },
     {
@@ -1039,7 +1055,8 @@
       "related": [
         "spreadsheet",
         "articles/pikobuy-qc-measurements",
-        "articles/pikobuy-parcel-weight-dimensions"
+        "articles/pikobuy-parcel-weight-dimensions",
+        "articles/pikobuy-parcel-consolidation"
       ]
     },
     {
@@ -1132,6 +1149,14 @@
             "Håll en kort tidslinje över begäran, bekräftelser, kompletterande underlag och beslut. Svara i befintligt ärende när det passar så att sammanhanget hålls samlat. Om supporten ber om en saknad detalj, besvara just den frågan i stället för att börja om med hela köpet.",
             "Kontrollera innan du godkänner ett steg att det gäller rätt vara och den lösning du förstår. Spara bekräftelse på vad som accepterats och vad som väntar. En inskickad begäran, ett säljarbesked och en slutförd återbetalning är olika händelser. Separata anteckningar hjälper dig att följa utfallet utan att förväxla framsteg med avslut."
           ]
+        },
+        {
+          "id": "before-consolidation",
+          "heading": "8. Lös returer före samfrakt",
+          "paragraphs": [
+            "Håll en vara med olöst returbegäran separat från klarlistan. Anteckna tidsstämpel för lagerstatus, problem, stödjande bilder och önskad lösning. Kontrollera aktuell policy och tidsfristen för din order; väntan på en annan säljares vara innebär ingen förlängning.",
+            "Innan du begär förpackningsborttagning eller internationell avsändning, bekräfta om varan är godkänd för frakt eller väntar på säljarbeslut. Behåll etiketter, förseglingar och nödvändiga förpackningar medan behörigheten bedöms. Fråga officiell support om exakt tillämplig kostnad i stället för att anta att returen är gratis eller att ett allmänt exempel täcker ditt fall."
+          ]
         }
       ],
       "sourceIds": [
@@ -1141,8 +1166,10 @@
       "related": [
         "qc",
         "articles/pikobuy-qc-measurements",
-        "articles/pikobuy-haul-budget"
-      ]
+        "articles/pikobuy-haul-budget",
+        "articles/pikobuy-parcel-consolidation"
+      ],
+      "updated": "2026-10-29"
     },
     {
       "slug": "pikobuy-tracking-not-updating",
@@ -1238,6 +1265,14 @@
             "Uppdatera loggen när en meningsfull händelse kommer och tolka inte upprepade kontroller av samma sida som nytt underlag. Behåll instruktioner eller svar som förändrar nästa förväntade åtgärd. Om ärendet får en tidsfrist eller ett eskaleringssteg, anteckna det uttryckligen.",
             "När paketet anländer, jämför innehållet med varulistan och sparad inspektionsdokumentation. Behåll relevant förpackning och etiketter medan eventuella skillnader klargörs. Slutförd spårning och godkänd innehållskontroll är skilda observationer. Tydliga anteckningar hjälper dig att förklara ett leverans- eller varuproblem utan att blanda ihop dem."
           ]
+        },
+        {
+          "id": "quick-triage",
+          "heading": "8. Snabbkontroll: koppla luckan till nästa åtgärd",
+          "paragraphs": [
+            "Ingen avsändningspost: kontrollera paketregistrering och fraktbetalning i kontot. Registrerad avsändning men ingen spårningsinformation efter guidens tidsangivelse: be Pikobuy bekräfta överlämningen. En transportörshändelse finns men står still: spara exakt text och tid och kontrollera tjänstens aktuella instruktioner. En leveransavvikelse kräver åtgärd: verifiera begäran via plattformens eller transportörens riktiga kanal.",
+            "Samla paketreferens, faktisk avsändningsdag och senaste bekräftade händelse i en supportfråga. Starta inte tidslinjen vid produktköpet och tolka inte guidens tredagarsuppgift som en leveransgaranti. Om paketet innehåller flera order använder du den gemensamma paketreferensen för internationell spårning."
+          ]
         }
       ],
       "sourceIds": [
@@ -1247,8 +1282,506 @@
       "related": [
         "shipping",
         "guide",
-        "faq"
-      ]
+        "faq",
+        "articles/pikobuy-shipping-calculator"
+      ],
+      "updated": "2026-10-29"
+    },
+    {
+      "slug": "pikobuy-shipping-calculator",
+      "title": "Pikobuys fraktkalkylator: beräkna hela paketets kostnad",
+      "description": "Använd Pikobuys fraktkalkylator med rätt vikt, mått och destination. Jämför offerter och skilj frakten från budgeten för hela beställningen.",
+      "intro": "En användbar fraktberäkning börjar med ett definierat paket, inte bara ett produktpris eller en antagen vikt. Anteckna destinationen, vilka varor du vill skicka och vilket emballage du behöver. Jämför sedan alternativen som den officiella kalkylatorn faktiskt visar. Den här guiden ger dig en återanvändbar mall för att jämföra uppskattningar utan att behandla dem som en slutlig faktura.",
+      "sections": [
+        {
+          "id": "prepare-inputs",
+          "heading": "1. Förbered uppgifterna som påverkar uppskattningen",
+          "paragraphs": [
+            "Den officiella kalkylatorn frågar efter destination, produkttyp, vikt i kilogram samt längd, bredd och höjd i centimeter. Samla värdena på ett ställe. Markera varje värde som uppmätt eller uppskattat och lägg till datum. Före lagerankomsten kan säljarens produktvikt sakna originalförpackning, stötdämpning och ytterkartong. Använd den för planering, inte som bekräftad försändelsevikt.",
+            "Använd den verkliga leveransdestinationen. Språket på webbplatsen väljer inte mottagarland, och en annan köpares offert kan bygga på andra uppgifter. Kontrollera hur tillgängliga produkttyper beskriver innehållet i ett blandat paket. Om ett batteri, en vätska, en ömtålig del eller någon annan vara inte passar tydligt, fråga Pikobuy vilken kategori och vilka transportvillkor som gäller innan du litar på resultatet."
+          ]
+        },
+        {
+          "id": "separate-costs",
+          "heading": "2. Skilj frakten från hela beställningens budget",
+          "paragraphs": [
+            "Skriv produktbetalningen och den senare internationella fraktbetalningen på separata rader. Lägg därefter till bekräftad inrikesfrakt, valfri hantering, valutaväxling vid betalning och avgifter på destinationen som egna poster. Lägg inte till en avgift bara för att en annan köpare nämner den; markera den som obekräftad tills du har underlag för din beställning. Ett tomt fält ska på samma sätt betyda okänt, inte gratis.",
+            "Katalogen visar ungefärliga produktpriser i USD. Priset på ett produktkort är ingen offert för internationell frakt. Behåll valutan för varje faktisk betalning och jämför totalerna i en vald valuta med den växelkurs och betalningsavgift som gäller för dig. Även ett fördelaktigt produktpris kan lämna för lite pengar till det färdiga paketet. Bestäm din högsta totalbudget innan du väljer hur många produkter du ska köpa."
+          ]
+        },
+        {
+          "id": "measure-parcel",
+          "heading": "3. Använd paketets mått, inte en gissad fraktregel",
+          "paragraphs": [
+            "Mät eller begär ytterpaketets längd, bredd och höjd när du har valt emballage. Anteckna den faktiska vikten separat. Anta inte att ett lätt men skrymmande paket enbart prissätts efter vågens vikt. Pikobuys guide säger att transportalternativ har olika debiteringssätt, så läs metoden för det alternativ du jämför. Den här artikeln anger ingen universell divisor för volymvikt.",
+            "Som rent räkneexempel har en kartong på 40 × 30 × 20 cm volymen 24 000 kubikcentimeter. Om höjden minskas till 15 cm blir volymen 18 000 kubikcentimeter. Det visar en volymförändring, inte en utlovad prissänkning. Transportalternativet, dess debiteringssteg, skyddsemballaget och slutmåtten avgör fortfarande om offerten påverkas. Ta inte bort nödvändigt skydd bara för att efterlikna ett mindre exempel."
+          ]
+        },
+        {
+          "id": "compare-like-for-like",
+          "heading": "4. Jämför två alternativ för samma paket",
+          "paragraphs": [
+            "Gör jämförelsen med samma destination, innehåll och mått. Anteckna det exakta namnet på transportalternativet och när du fick varje resultat. En andra offert för ett lättare paket bevisar inte att dess transportalternativ är billigare. Spara gamla indata när du ändrar emballage, så att du kan förklara en prisskillnad utan att automatiskt tillskriva den en ny taxa.",
+            "Använd mallen nedan för varje alternativ. Kopiera villkoren som faktiskt visas och fråga om saknade uppgifter innan du betalar. En saknad transporttid eller otydlig inkludering är en fråga att reda ut. När försäkring, hantering eller andra tillval visas, jämför totalsumman med samma tillval. Det lägsta annonserade startpriset behöver inte motsvara hela tjänsten du vill ha."
+          ],
+          "table": {
+            "headers": [
+              "Uppgift",
+              "Alternativ A",
+              "Alternativ B"
+            ],
+            "rows": [
+              [
+                "Destination och innehåll",
+                "Använd samma uppgifter",
+                "Använd samma uppgifter"
+              ],
+              [
+                "Packad vikt och mått",
+                "Markera uppmätt eller uppskattat",
+                "Markera uppmätt eller uppskattat"
+              ],
+              [
+                "Transportalternativ och debitering",
+                "Kopiera visade villkor",
+                "Kopiera visade villkor"
+              ],
+              [
+                "Total och inkluderade tjänster",
+                "Anteckna valuta och undantag",
+                "Anteckna valuta och undantag"
+              ],
+              [
+                "Datum och olösta frågor",
+                "Spara med offerten",
+                "Spara med offerten"
+              ]
+            ]
+          }
+        },
+        {
+          "id": "test-packaging",
+          "heading": "5. Jämför emballagealternativ utan att förutsätta besparingar",
+          "paragraphs": [
+            "Gör ett scenario för det emballage du behöver och ett annat endast om ett praktiskt alternativ finns. För skor skiljer du på att behålla originalkartongen och att skydda själva skorna. För ömtåliga varor identifierar du nödvändigt skydd. För kläder kontrollerar du om måtten avser löst samlade plagg eller paketet som lagret faktiskt förbereder. Skillnaderna ska framgå av dina anteckningar.",
+            "Be om bekräftelse innan du begär förpackningsändringar som inte kan återställas. Etiketter, förseglingar och originalförpackningar kan påverka möjligheten till retur, så lös kontroll- och returfrågor först. Ett mindre paket är inte automatiskt bättre om en vara blir svårare att skydda eller returnera. Anteckna både önskad ändring och bekräftat resultat; ersätt inte ett uppmätt värde med det du hoppades på."
+          ]
+        },
+        {
+          "id": "reconcile-final-quote",
+          "heading": "6. Stäm av uppskattningen mot den slutliga offerten",
+          "paragraphs": [
+            "Innan du betalar internationell frakt jämför du den slutliga paketposten med mallen. Kontrollera varulista, destination, transportalternativ, packad vikt, mått och valda tjänster. Om beloppet skiljer sig, identifiera vilken uppgift eller avgift som ändrats. En tidigare skärmbild hjälper dig skilja ett nytt mått från ett tillval du råkat välja. Begär en specifikation om skillnaden fortfarande är oförklarad.",
+            "Spara offert, betalningsbekräftelse och paketreferens tillsammans. De besvarar olika frågor: offerten beskriver erbjudandet, betalningsposten visar vad du betalat och paketposten kopplar försändelsen till innehållet. En genomförd produktbetalning visar inte att internationell frakt också är betald. Följ det faktiska arbetsflödet i kontot i stället för att behandla alla transaktioner som en enda ordersumma."
+          ]
+        },
+        {
+          "id": "handle-missing-data",
+          "heading": "7. När kalkylatorn inte ger något användbart resultat",
+          "paragraphs": [
+            "Kontrollera först enheter, destination och produktkategori. Ett saknat alternativ betyder inte i sig att varan aldrig kan skickas, och det motiverar inte en felaktig kategori för att tvinga fram en offert. Spara indata och fråga officiell support om innehållet och måtten kan använda ett tillgängligt transportalternativ. Köp inte fler varor bara för att nå en paketstorlek någon annan rekommenderar.",
+            "Om du väntar på lagermått, behåll ett intervall av möjliga budgetar i dina planeringsanteckningar och markera antagandena. Publicera inte ett preliminärt resultat som Pikobuys standardfraktpris. Ersätt antagandet när den saknade uppgiften kommer och gör om jämförelsen. Då kan beslutet följas i efterhand utan påhittade priser, garanterade besparingar eller leveransdatum."
+          ]
+        },
+        {
+          "id": "before-payment",
+          "heading": "8. Avsluta med en kort beslutsanteckning",
+          "paragraphs": [
+            "Slutanteckningen bör visa vilka varor som ingår, vilka kontrollfrågor som är lösta, vilket emballage du godkänt och varför transportalternativet passar dina behov. Ta med hela beloppet och kvarvarande avgifter som du fått veta inte ingår. Om en okänd kostnad skulle spräcka budgeten, klargör den före nästa betalning.",
+            "För blandade beställningar använder du samfraktsguiden innan paketet färdigställs. För destinationsplanering använder du checklistan för Europafrakt. Efter avsändning byter du till spårningsguiden i stället för att använda kalkylatorn som bevis på framsteg. Kostnadsberäkning, köp, kontroll och spårning hör ihop, men kräver var sitt underlag."
+          ]
+        },
+        {
+          "id": "worked-comparison",
+          "heading": "9. Räkneexempel: ändra ett antagande i taget",
+          "paragraphs": [
+            "En köpare planerar att skicka två par skor och en sweatshirt. Före lagerankomsten finns bara varuvikter från annonser och inga packade mått. Den första mallen markerar därför vikt och storlek som uppskattningar. Efter QC bestämmer köparen att behålla en skokartong och frågar vilket emballage som passar det andra paret. Inget pris antas i detta skede.",
+            "När lagret lämnar paketets slutmått matar köparen in dem i den officiella kalkylatorn och antecknar alternativen. Om offerten överskrider budgeten blir nästa fråga om en annan tillåten konfiguration ändrar totalkostnaden. Köparen jämför den med originalet med samma destination och tjänsteantaganden. Exemplet visar en metod, inte en faktisk beställning, taxa eller besparing. Identifiera vilken uppgift som ändrats innan du accepterar resultatet."
+          ]
+        }
+      ],
+      "sourceIds": [
+        "official-estimate",
+        "official-guide",
+        "official-returns"
+      ],
+      "related": [
+        "shipping",
+        "articles/pikobuy-parcel-weight-dimensions",
+        "articles/pikobuy-haul-budget",
+        "articles/pikobuy-parcel-consolidation"
+      ],
+      "published": "2026-10-29",
+      "updated": "2026-10-29"
+    },
+    {
+      "slug": "pikobuy-shipping-europe",
+      "title": "Pikobuy-frakt till Europa: checklista för destination och leverans",
+      "description": "Planera Pikobuy-frakt till Nederländerna, Tyskland och andra europeiska destinationer: kontrollera tillgängliga alternativ, adress, paketkostnad och spårningssteg.",
+      "intro": "Fraktplanering till Europa kräver en offert för ditt faktiska leveransland och paket. En guide på nederländska, tyska eller engelska fastställer inte vilka transportalternativ som finns i ditt konto i dag. Använd checklistan för att förbereda rätt uppgifter, jämföra Pikobuys alternativ och spara underlaget från godkännandet på lagret till leverans.",
+      "sections": [
+        {
+          "id": "choose-destination",
+          "heading": "1. Börja med leveranslandet, inte webbplatsens språk",
+          "paragraphs": [
+            "Välj landet där paketet ska levereras i den officiella fraktkalkylatorn. En köpare med leverans till Nederländerna ska välja den destinationen även när guiden läses på engelska. Samma princip gäller Tyskland, Frankrike, Spanien och andra länder. Språken på webbplatsen hjälper dig att läsa vägledningen; de innebär inte separata transportavtal eller att varje alternativ når alla destinationer.",
+            "Anteckna postnumret och destinationsuppgifterna som behövs när paketet faktiskt registreras. Kontrollera stavning, hus- eller byggnadsnummer, eventuella lägenhetsuppgifter och mottagarens kontaktuppgifter i det riktiga formuläret. Anta inte att kalkylatorn har kontrollerat en fullständig adress bara för att den accepterat ett land. Red ut ovanliga adressformat eller leveransbegränsningar via plattformen före avsändning."
+          ]
+        },
+        {
+          "id": "define-contents",
+          "heading": "2. Bestäm innehållet innan du jämför Europaalternativ",
+          "paragraphs": [
+            "Lista alla varor du vill skicka och lös först frågor från lagerkontrollen. Behåll vald storlek, färg och antal intill varureferensen så att paketet består av godkända varor. En vara som väntar på säljarens svar kan ändra när hela paketet är redo att registreras. En leveransplan med ofullständig lista blir osäker när innehållet ändras.",
+            "Beskriv särskilt innehåll korrekt när du frågar om tillåtlighet. Dra inga slutsatser om tillstånd för batterier, vätskor eller ömtåliga varor utifrån ett transportnamn eller någon annans leverans. Begränsningar och hantering beror på tjänsten och innehållet. Fråga vilket aktuellt alternativ som accepterar ditt paket och spara svaret med uppskattningen. En attraktiv offert är användbar bara om paketet faktiskt får använda tjänsten."
+          ]
+        },
+        {
+          "id": "compare-route-records",
+          "heading": "3. Jämför tjänsten som visas för din destination",
+          "paragraphs": [
+            "Spara namn, belopp, valuta, relevant debiteringssätt och eventuell visad transporttid för varje alternativ. Håll vikt och mått oförändrade under jämförelsen. Den officiella guiden säger att tid och debitering kan skilja sig, men utser inget universellt bästa alternativ till Europa. Välj bland alternativen som visas för just ditt paket och dina behov.",
+            "Fråga vad tjänsten omfattar om formuleringen är oklar. Ett transportnamn räcker inte som underlag för alla avgifter, hanteringssteg eller leveranslöften. Ersätt inte erbjudandet i ditt konto med en prislista från sociala medier. Om två resultat använder olika emballage eller tillval, synliggör skillnaderna innan du jämför totalsummorna. Datera skärmbilder så att äldre offerter inte misstas för aktuella."
+          ]
+        },
+        {
+          "id": "budget-destination",
+          "heading": "4. Ge utrymme för kostnader utanför den visade frakten",
+          "paragraphs": [
+            "Skilj produktkostnad, inrikesfrakt, internationell frakt, tillval och eventuella destinationsavgifter åt i planeringen. Anta inte att fraktbeloppet är den slutliga totalsumman för varje gränsöverskridande beställning. Lägg inte heller till en godtycklig procentsats eller en avgift från en annan destination. Anteckna vad tjänsten faktiskt inkluderar och vad som återstår att bekräfta.",
+            "För tull, skatter, deklarationer och lokala krav kontrollerar du aktuella regler för den exakta destinationen och villkoren för den valda tjänsten. Checklistan anger inga skattebelopp, gränsvärden eller rättsliga undantag. Lämna korrekt innehåll och värde i obligatoriska formulär; ett transportnamn eller en annan köpares informella beskrivning ersätter inte kraven. Begär förtydligande om plattformens formulering lämnar en betydande kostnad osäker."
+          ]
+        },
+        {
+          "id": "plan-timeline",
+          "heading": "5. Bygg tidslinjen av separata milstolpar",
+          "paragraphs": [
+            "Hela väntan kan omfatta säljarens hantering, inrikesleverans till lagret, kontroll, korrigering eller retur, paketberedning och internationell transport. Håll stegen separata i anteckningarna. En internationell transporttid inkluderar inte automatiskt väntan på säljaren eller ditt eget godkännande. För ett köp med tidskrav bedömer du hela kedjan i stället för enbart transportörens del.",
+            "Pikobuys guide räknar förväntningen om spårningsinformation från avsändning. Det är inget löfte om tredagarsleverans och börjar inte vid produktbetalningen. Anteckna den faktiska avsändningshändelsen och följ paketets spårningsreferens. Om ett steg är oklart, fråga vad som genomförts och vilken åtgärd som återstår i stället för att dra slutsatser från produktorderns ålder."
+          ]
+        },
+        {
+          "id": "destination-worksheet",
+          "heading": "6. Använd en mall per destination och paket",
+          "paragraphs": [
+            "En separat mall förhindrar att olika mottagare eller beställningar blandas ihop. Fälten nedan fungerar för Nederländerna, Tyskland och andra destinationer utan att anta identiska alternativ eller avgifter. Det är en planeringsmall, inte verifierade offerter eller en landsspecifik leveranstabell. Fyll i den utifrån dina egna aktuella uppgifter.",
+            "Skapa en ny jämförelse när destination, varulista eller emballage ändras. Behåll föregående version för att se varför beloppet eller de tillgängliga tjänsterna ändrades. Det är särskilt användbart när en vän delar sin offert: jämför indata först och bedöm sedan om exemplet alls är relevant. Landets namn är aldrig en fullständig paketspecifikation."
+          ],
+          "table": {
+            "headers": [
+              "Planeringsfält",
+              "Vad du sparar"
+            ],
+            "rows": [
+              [
+                "Destination och mottagare",
+                "Land och kontrollerade adressuppgifter"
+              ],
+              [
+                "Godkänt innehåll",
+                "Varureferenser, varianter och antal"
+              ],
+              [
+                "Paketmått",
+                "Packad vikt och tre yttermått"
+              ],
+              [
+                "Vald tjänst",
+                "Aktuellt alternativ, total, inkluderingar och öppna frågor"
+              ],
+              [
+                "Avsändning och spårning",
+                "Paketreferens, avsändningspost och senaste bekräftade händelse"
+              ]
+            ]
+          }
+        },
+        {
+          "id": "last-mile",
+          "heading": "7. Följ överlämning och den sista leveranssträckan",
+          "paragraphs": [
+            "Läs hela spårningshändelsen, tidsstämpeln och källan efter avsändning. Elektroniska försändelseuppgifter är inte samma sak som en fysisk mottagningsskanning hos transportören. Om posten anger en leveranspartner eller en annan spårningsreferens, använd de uppgifter som faktiskt finns. Gissa inte lokal transportör från landet och anta inte att alla alternativ följer samma spårningssekvens.",
+            "Vid leveransavvikelse kontrollerar du den begärda åtgärden via plattformens eller transportörens riktiga kanal. Bekräfta adress, hämtningskrav eller andra instruktioner endast genom en verifierad kanal. Spara exakt meddelande och svar. Ett spårningsuppehåll bevisar inte förlust, och ett uppskattat datum bevisar inte ankomst. Använd felsökningsartikeln när uppgifterna slutar förändras."
+          ]
+        },
+        {
+          "id": "receive-parcel",
+          "heading": "8. Avsluta kontrollen när paketet kommer",
+          "paragraphs": [
+            "Jämför mottaget innehåll med den godkända varulistan och sparade kontrollbilder. Behåll fraktetikett, emballage och relevanta uppgifter medan en saknad eller skadad vara utreds. En levererad-status besvarar en transportfråga; den bekräftar inte i sig innehåll eller skick. Dokumentera en specifik avvikelse snabbt via officiell support i stället för att blanda flera orelaterade klagomål.",
+            "Inför nästa beställning ser du vilka antaganden som förändrats: paketstorlek, tjänsteval, väntan på säljaren eller en oväntad avgift. Förbättra din planeringsmetod, men gör inte ett pakets erfarenhet till en universell leveransgaranti. Aktuella destinationsuppgifter, godkänt innehåll och en dokumenterad tidslinje gör nästa jämförelse enklare utan löften som informationen inte stödjer."
+          ]
+        },
+        {
+          "id": "worked-timeline",
+          "heading": "9. Exempeltidslinje: skilj säljarförsening från transport",
+          "paragraphs": [
+            "Tänk dig en beställning till Nederländerna. Ett plagg har kommit till lagret och klarat köparens kontroll, medan en annan vara väntar på säljarens uppdatering. Köparen har ännu inte registrerat något internationellt paket. Även om kalkylatorn visar en transporttid kan den inte avgöra när den ofullständiga beställningen kommer till mottagarens adress.",
+            "Köparen antecknar första varans lagringsvillkor och eventuella tidsfrister, frågar om den andra varan och jämför väntan med att enbart skicka den godkända varan. När slutpaketet registrerats och avsändning noterats börjar den internationella tidslinjen med paketreferensen. Om en senare transportörshändelse stannar av gäller supportfrågan den händelsen, inte den tidigare säljarförseningen. Detta är ett planeringsexempel, ingen publicerad leveranstidtabell. Separata milstolpar gör både beslut och supportfråga tydligare."
+          ]
+        }
+      ],
+      "sourceIds": [
+        "official-estimate",
+        "official-guide",
+        "official-terms",
+        "official-contact"
+      ],
+      "related": [
+        "shipping",
+        "articles/pikobuy-shipping-calculator",
+        "articles/pikobuy-tracking-not-updating",
+        "articles/pikobuy-parcel-consolidation"
+      ],
+      "published": "2026-10-29",
+      "updated": "2026-10-29"
+    },
+    {
+      "slug": "pikobuy-parcel-consolidation",
+      "title": "Pikobuy-samfrakt: kombinera beställningar efter QC",
+      "description": "Kombinera lagervaror hos Pikobuy med en tydlig checklista för QC, emballage och kostnader. Jämför ett paket med separata försändelser utan garanterade besparingar.",
+      "intro": "Pikobuy uppger att varor från olika säljare kan kombineras i ett paket. Frågan är om just dina varor är redo att skickas tillsammans, med lämpligt emballage och en begriplig offert. Samfrakt bör följa efter kontrollbesluten. Guiden hjälper dig att skapa en tydlig varulista, jämföra praktiska packningsalternativ och bekräfta paketet före betalning av internationell frakt.",
+      "sections": [
+        {
+          "id": "build-item-list",
+          "heading": "1. Gör en varulista innan du väljer paket",
+          "paragraphs": [
+            "Anteckna orderreferens, produkt, vald storlek eller färg, antal och aktuell lagerstatus för varje vara du vill skicka. Skilj mottagna varor från sådant som finns hos säljaren eller är på väg inom landet. Att en order är klar innebär inte att resten har kommit fram. Notera vad du tänker utesluta så att en gammal önskelista inte tas för den slutliga packningsinstruktionen.",
+            "Behåll ursprungliga orderreferenser för varor från olika säljare även om de senare får samma paketnummer. Referenserna hjälper dig att förklara fel antal, fel variant eller ett säljarbundet problem. En gemensam internationell försändelse raderar inte separata köphistoriker. Den slutliga paketlistan bör koppla varje inkluderad vara till posten du faktiskt kontrollerat."
+          ]
+        },
+        {
+          "id": "finish-qc",
+          "heading": "2. Avsluta QC och returbeslut först",
+          "paragraphs": [
+            "Granska lagerunderlaget för ankomna varor. Matcha referens, variant och antal innan du bedömer synligt skick och begärda mått. En katalogbild visar inte skicket på din specifika order. Om tillgängliga bilder inte besvarar en viktig fråga, begär relevant detalj via Pikobuy och bekräfta eventuell avgift innan du väljer att skicka varan.",
+            "Håll en olöst vara utanför gruppen som är klar för leverans tills du bestämt åtgärd. Den publicerade returpolicyn innehåller tids- och behörighetsvillkor; väntan på en annan säljare får inte avleda uppmärksamheten från en vara som redan ligger i lagret. Behåll etiketter, förseglingar och förpackningar medan returmöjligheten utreds. Godkänn inte att de tas bort bara för att få en samfraktsuppskattning."
+          ]
+        },
+        {
+          "id": "choose-wait-or-send",
+          "heading": "3. Bedöm om det är värt att vänta på en annan vara",
+          "paragraphs": [
+            "Jämför praktiska följder av att vänta med att skicka godkända varor nu. Anteckna den saknade varan, dess bekräftade status och relevanta tidsfrister för varor som redan lagras. De offentliga vidarebefordringsvillkoren fastställer ingen gemensam gratis lagringstid för alla beställningar. Kontrollera aktuella villkor för dina varor i stället för att anta ett bestämt antal gratisdagar från en annan webbplats.",
+            "Väntan kan ge en annan paketkonfiguration men garanterar varken besparing eller avsändningsdatum. En sen vara kan också ändra mått eller tillgängligt transportalternativ. Vid tidskänsliga köp väger du in hela den återstående kedjan. Håll beslutet enkelt: vilket underlag saknas, vilken tidsfrist spelar roll och vad gör du om varan fortfarande inte är klar?"
+          ]
+        },
+        {
+          "id": "specify-packaging",
+          "heading": "4. Ge precisa packningsinstruktioner",
+          "paragraphs": [
+            "Identifiera skyddet varje vara behöver och vilka originalförpackningar du vill behålla. Skor, mjuka plagg och ömtåliga tillbehör behöver inte samma hantering. Om du överväger att ta bort en kartong, ange varan och bekräfta först att kontroll- eller returbeslutet är klart. Undvik vaga instruktioner som att ta bort alla förpackningar när varorna har olika behov.",
+            "Pikobuys köpguide nämner önskemål om minimalt respektive förstärkt emballage. Bekräfta vad som finns för ditt paket och om tjänsten ändrar avgift eller mått. En begäran bevisar inte att slutpaketet har de mått du väntat dig. Be om de färdiga packmåtten när de finns och jämför med siffrorna i den tidigare uppskattningen."
+          ]
+        },
+        {
+          "id": "compare-configurations",
+          "heading": "5. Jämför ett paket med realistiska alternativ",
+          "paragraphs": [
+            "Jämför offerten för det godkända samlade paketet med totalsumman för de separata paket du faktiskt skulle skicka. Använd samma destination och en tydlig innehållslista för varje alternativ. Ta med valt emballage och bekräftade hanteringstjänster. Att jämföra ett komplett paket med bara ena halvan av en delad försändelse underskattar alternativets kostnad.",
+            "Tabellen är ett beslutsunderlag, inte bevis för att delning eller samfrakt alltid är billigare. Fyll i aktuella mått och offerter. Resultatet beror på vilka transportalternativ som faktiskt är tillåtna och deras debiteringssätt. Håll oförändrade produktkostnader separata; jämförelsen ska visa skillnaderna, inte räkna samma köp två gånger."
+          ],
+          "table": {
+            "headers": [
+              "Kontroll",
+              "Kombinerat paket",
+              "Separata paket"
+            ],
+            "rows": [
+              [
+                "Innehåll",
+                "Alla godkända varor tillsammans",
+                "Ange innehåll i varje paket"
+              ],
+              [
+                "Emballage",
+                "Skydd och behållna kartonger",
+                "Skydd som behövs för varje paket"
+              ],
+              [
+                "Mått",
+                "En slutlig packad vikt och storlek",
+                "Vikt och storlek för varje paket"
+              ],
+              [
+                "Fraktjämförelse",
+                "Hela offererade summan",
+                "Summan av alla offerter"
+              ],
+              [
+                "Öppna frågor",
+                "Tillåtlighet och olösta tjänster",
+                "Tillåtlighet och olösta tjänster för varje paket"
+              ]
+            ]
+          }
+        },
+        {
+          "id": "confirm-submission",
+          "heading": "6. Bekräfta paketet före betalning",
+          "paragraphs": [
+            "Läs den slutliga varulistan och antalen mot dina egna anteckningar. Kontrollera leveransadress, transportalternativ, packningsinstruktioner och belopp före registrering eller betalning. Anta inte att en saknad vara läggs till automatiskt för att den tillhör samma konto. Red ut en oväntad vara innan paketet skickas. En tydlig bekräftelse är enklare än att återskapa avsikten i efterhand.",
+            "Spara slutlig paketreferens tillsammans med orderreferenserna. Anteckna vad plattformen bekräftar om vikt, mått och inkluderade tjänster. Om summan ändras efter packning, jämför med tidigare uppskattning och identifiera ändrad indata. Ställ en fokuserad fråga om en oförklarad skillnad i stället för att anta att den första uppskattningen var ett bindande slutpris."
+          ]
+        },
+        {
+          "id": "support-template",
+          "heading": "7. Ställ en fråga som supporten kan agera på",
+          "paragraphs": [
+            "En användbar begäran anger varorna, önskad åtgärd och vad som behöver bekräftas. Exempelvis: bekräfta om de angivna lagervarorna kan dela paket till vald destination med angivna förpackningar kvar, och uppge slutlig vikt, mått och aktuella fraktalternativ. Ersätt den allmänna beskrivningen med dina verkliga referenser i den officiella kontokanalen.",
+            "Vid jämförelse av konfigurationer ska det tydligt framgå vilken varulista som hör till vilket alternativ. Behöver du en bild före beslutet, ange vilken del eller vilket mått som saknas. Dela inte kontoinloggning eller betalningshemligheter i meddelanden eller offentliga skärmbilder. Den oberoende guiden kan inte granska privata order eller ge lagret instruktioner åt dig; använd Pikobuys officiella kontaktväg."
+          ]
+        },
+        {
+          "id": "check-delivery",
+          "heading": "8. Kontrollera innehåll och spårningsresultat",
+          "paragraphs": [
+            "Följ det internationella paketet med dess egen spårningspost efter avsändning. Säljarens inrikesnummer spårar inte nödvändigtvis den kombinerade försändelsen. Behåll paketlista och kontrollunderlag tills leveransen är genomförd. Jämför innehåll och antal med listan när paketet kommer, särskilt när flera säljares varor delar ytterkartong.",
+            "Om något saknas eller är synligt skadat dokumenterar du den specifika avvikelsen och behåller relevanta etiketter och emballage medan du kontaktar support. Skilj varuproblem från problem med leveransstatus. Anteckna inför framtida planering om samfrakten ändrade mått, transportalternativ eller nödvändig hantering. Förbättra din checklista med resultatet utan att behandla en order som bevis på universella besparingar."
+          ]
+        },
+        {
+          "id": "worked-item-list",
+          "heading": "9. Exempellista: håll en olöst vara separat",
+          "paragraphs": [
+            "Tänk dig att en köpare beställt en T-shirt, ett par skor och en liten väska från tre säljare. T-shirtens storlek och skick är kontrollerade. Skorna behöver ett extra mått och väskan har inte kommit till lagret. Klarlistan innehåller bara T-shirten; de två andra varorna ska inte automatiskt ingå för att alla tre köptes till samma planerade försändelse.",
+            "Köparen begär skomåttet, kontrollerar väskans senast bekräftade status och antecknar lagrings- och returvillkor för ankomna varor. Med tillräckligt underlag kan köparen jämföra ett paket med godkända varor mot ett senare alternativ med väskan. Varje alternativ behöver eget faktiskt innehåll och egna mått. Exemplet rekommenderar inte alltid väntan eller delning. Det visar varför en uttrycklig varulista är mer användbar än en allmän instruktion att kombinera allt på kontot."
+          ]
+        }
+      ],
+      "sourceIds": [
+        "official-contact",
+        "official-guide",
+        "official-shipping",
+        "official-returns"
+      ],
+      "related": [
+        "qc",
+        "articles/pikobuy-warehouse-returns",
+        "articles/pikobuy-shipping-calculator",
+        "articles/pikobuy-tracking-not-updating"
+      ],
+      "published": "2026-10-29",
+      "updated": "2026-10-29"
     }
-  ]
+  ],
+  "growth": {
+    "homeTitle": "Pikobuy Spreadsheet: produktlänkar, QC och fraktguider",
+    "homeDescription": "Bläddra bland Pikobuy-produktlänkar för skor och kläder. Jämför USD-priser, kontrollera storlek och QC och planera frakten med praktiska guider.",
+    "catalogTitle": "Pikobuy Spreadsheet: skor, kläder och produktlänkar",
+    "catalogDescription": "Sök i Pikobuy-spreadsheeten efter kategori och jämför produktpriser i USD. Öppna produktdetaljer, kontrollera storlekar och fortsätt till Pikobuy.",
+    "categoryGuideHeading": "Innan du väljer en vara",
+    "categories": {
+      "shoes": {
+        "title": "Pikobuy Spreadsheet för skor: länkar, storlekar och QC",
+        "description": "Bläddra bland skolänkar i Pikobuy-spreadsheeten, jämför USD-priser och kontrollera storleksmått, lagerbilder och emballage före frakt.",
+        "intro": "Jämför skoannonser utifrån den exakta storlek och variant du vill beställa. En bekant storleksbeteckning är en utgångspunkt, inget bevis på passform. Öppna originaluppgifterna och kontrollera säljarens mått före betalning. Produktbilderna här är annonsbilder, inte QC-bilder av din egen order.",
+        "checks": [
+          "Jämför säljarens storlekstabell med ett bekvämt par du redan äger.",
+          "Begär måttet eller etikettbilden som behövs för att lösa en storleksfråga.",
+          "Bestäm om du vill behålla skokartongen efter QC och eventuellt returbeslut."
+        ]
+      },
+      "sweatshirts": {
+        "title": "Pikobuy Spreadsheet för hoodies och sweatshirts",
+        "description": "Hitta produktlänkar för hoodies och sweatshirts, jämför USD-priser och kontrollera bröst-, längd- och ärmmått före beställning via Pikobuy.",
+        "intro": "Välj hoodie eller sweatshirt med hjälp av plaggets mått och önskad passform. Jämför bröstbredd, plagglängd och ärmar med ett plagg du redan använder. Samma storleksbokstav kan beskriva olika snitt, så kontrollera vald annons och variant i stället för att anta en universell storleksomvandling.",
+        "checks": [
+          "Jämför mått tagna med samma metod och i samma enheter.",
+          "Kontrollera vald färg, huva, dragkedja och fickor i originalannonsen.",
+          "Granska lagerbilder innan plagget inkluderas i ett kombinerat paket."
+        ]
+      },
+      "tshirts": {
+        "title": "Pikobuy Spreadsheet för T-shirts: länkar och storlekskontroll",
+        "description": "Bläddra bland T-shirtlänkar och USD-priser. Jämför bröst- och längdmått, kontrollera vald variant och planera QC på lagret före frakt.",
+        "intro": "Jämför T-shirts efter bröstbredd, plagglängd och önskad passform. Annonsbilder hjälper dig identifiera designen men bekräftar inte mått eller skick på varan som skickas till lagret. Spara vald storlek och färg med orderreferensen för jämförelse med senare kontrollbilder.",
+        "checks": [
+          "Mät en T-shirt du gillar och jämför säljarens mätmetod.",
+          "Bekräfta vald storlek och färg innan du öppnar ordern på Pikobuy.",
+          "Begär en tydligare detaljbild om tryck, söm eller mått fortfarande är oklart."
+        ]
+      }
+    },
+    "hubs": {
+      "qc": {
+        "title": "Pikobuy QC-guide: bilder, mått och returer",
+        "description": "Kontrollera Pikobuys QC-bilder mot din order: storlek, färg, antal och synligt skick. Se när mer underlag behövs före frakt.",
+        "sections": [
+          {
+            "id": "match-order",
+            "heading": "Matcha bilderna med din egen order",
+            "paragraphs": [
+              "Börja med orderreferens, vald variant och antal. Jämför lagerposten med produkten du faktiskt köpte, inte en liknande annons. Bilder i denna oberoende katalog är produktbilder; de är inte kopplade QC-underlag för din order."
+            ]
+          },
+          {
+            "id": "check-evidence",
+            "heading": "Kontrollera synliga detaljer och mått",
+            "paragraphs": [
+              "Granska färg, etiketter, sömmar, tryckplacering, tillbehör och synliga skador. För storlek begär du det mått som påverkar ditt beslut med samma metod som säljarens tabell. En tydlig etikett fastställer inte passform, och en bild bevisar inte materialsammansättning, äkthet eller långsiktig funktion."
+            ]
+          },
+          {
+            "id": "request-detail",
+            "heading": "Begär detaljen som skulle ändra ditt beslut",
+            "paragraphs": [
+              "Ange vilken vara och vilken del som ska visas. Be exempelvis om plagget plant med måttbandet synligt från kant till kant. Bekräfta tillgänglig tjänst och avgift hos Pikobuy. Om bilden fortfarande är otillräcklig, behåll osäkerheten i stället för att behandla den som godkännande."
+            ]
+          },
+          {
+            "id": "decide-before-shipping",
+            "heading": "Bestäm dig före paketregistrering",
+            "paragraphs": [
+              "Godkänn varan, begär förtydligande eller sök en tillåten retur medan den finns i lagret. Kontrollera aktuella returvillkor snabbt och behåll nödvändigt emballage. Avsluta beslutet före samfrakt eller oåterkalleliga förpackningsändringar. Spara kontrollunderlaget med den slutliga paketlistan."
+            ]
+          }
+        ],
+        "sourceIds": [
+          "official-guide",
+          "official-user-agreement",
+          "official-returns"
+        ]
+      },
+      "shipping": {
+        "title": "Pikobuy-frakt: kalkylator, kostnader och spårning",
+        "description": "Planera Pikobuy-frakt med den officiella kalkylatorn, packad vikt och mått. Jämför alternativ, kombinera godkända varor och följ spårningen efter avsändning.",
+        "sections": [
+          {
+            "id": "estimate-first",
+            "heading": "Beräkna paketet innan du binder budgeten",
+            "paragraphs": [
+              "Använd den officiella kalkylatorn med faktiskt leveransland, produkttyp, vikt och tre mått. Skilj uppmätta värden från gissningar. Jämför samma paket mellan tillgängliga alternativ och spara datum, valuta, transportalternativ och inkluderade tjänster med varje resultat."
+            ]
+          },
+          {
+            "id": "complete-budget",
+            "heading": "Skilj produktbetalning och internationell frakt",
+            "paragraphs": [
+              "Ett katalogpris är ett ungefärligt produktpris i USD. Internationell frakt och möjliga tillägg ingår inte. Håll inköpsbetalning, fraktbetalning och bekräftade tillvals- eller destinationskostnader på separata budgetrader. Klargör okända belopp i stället för att behandla dem som noll."
+            ]
+          },
+          {
+            "id": "pack-after-qc",
+            "heading": "Välj emballage efter QC",
+            "paragraphs": [
+              "Lös storleks- och skickfrågor innan lagervaror kombineras. Kontrollera om förpackningsändringar påverkar skydd eller retur. Jämför slutpaketets vikt och mått med uppskattningens värden; anta inte att samfrakt alltid sänker totalsumman."
+            ]
+          },
+          {
+            "id": "follow-dispatch",
+            "heading": "Spåra från den faktiska avsändningen",
+            "paragraphs": [
+              "Guidens uppgift om tre dagar gäller spårningsinformation efter avsändning, inte leverans inom tre dagar. Skilj produktbetalning, lagerankomst, paketregistrering och transportörsrörelse åt. Ha paketreferens och senaste bekräftade händelse när du frågar support om en saknad uppdatering."
+            ]
+          }
+        ],
+        "sourceIds": [
+          "official-estimate",
+          "official-guide",
+          "official-contact"
+        ]
+      }
+    }
+  }
 }

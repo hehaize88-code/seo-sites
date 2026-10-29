@@ -14,7 +14,7 @@
     "related": "Relaterede artikler",
     "allArticles": "Alle artikler",
     "latestArticles": "Seneste artikler",
-    "articleCount": "10 praktiske vejledninger",
+    "articleCount": "13 praktiske guider",
     "sourceLink": "Officiel kilde"
   },
   "faq": [
@@ -304,7 +304,8 @@
       "related": [
         "spreadsheet",
         "articles/pikobuy-product-links",
-        "articles/pikobuy-haul-budget"
+        "articles/pikobuy-haul-budget",
+        "articles/pikobuy-parcel-consolidation"
       ]
     },
     {
@@ -409,7 +410,8 @@
       "related": [
         "spreadsheet",
         "articles/pikobuy-qc-measurements",
-        "articles/pikobuy-shoe-sizing"
+        "articles/pikobuy-shoe-sizing",
+        "articles/pikobuy-parcel-consolidation"
       ]
     },
     {
@@ -515,7 +517,8 @@
       "related": [
         "guide",
         "articles/pikobuy-spreadsheet-checklist",
-        "faq"
+        "faq",
+        "articles/pikobuy-parcel-consolidation"
       ]
     },
     {
@@ -602,6 +605,14 @@
             "Vend tilbage til det oprindelige spørgsmål, og vælg næste skridt. Dokumentationen kan støtte, at du går videre, efterlade et konkret problem uafklaret eller begrunde en samtale om returnering. Gem svaret med ordreoplysningerne, og notér det mål eller den synlige detalje, der lå bag beslutningen.",
             "Hvis problemet består, så kontrollér hurtigt den aktuelle ordrestatus og relevante returvilkår. Brug ikke tiden på dekorative vinkler, mens en væsentlig uoverensstemmelse ikke er anmeldt. Registreringen skal gøre problemet let at forklare: hvad du ønskede, hvad fotoet viser, og hvilken løsning du beder om. Markér usikre observationer som usikre."
           ]
+        },
+        {
+          "id": "approve-or-ask",
+          "heading": "8. Gør målingen til en klar beslutning",
+          "paragraphs": [
+            "Sammenlign det fotograferede mål med dit mål med samme endepunkter og enheder. Starter målebåndet ikke ved nul, er tøjet foldet, eller er endepunkterne skjult, skal du bede om en tydeligere måling frem for at acceptere et præcist udseende tal. Notér, om resterende usikkerhed ville ændre størrelsesvalget.",
+            "Godkend først, når dokumentationen besvarer dit afgørende spørgsmål. Bed ellers om den manglende detalje, eller kontrollér aktuelle returmuligheder hurtigt. Behold originalemballagen under beslutningen, og afslut den før samforsendelse. Fotoet dokumenterer denne ordre, ikke en universel størrelsestabel for fremtidige køb."
+          ]
         }
       ],
       "sourceIds": [
@@ -612,8 +623,10 @@
       "related": [
         "qc",
         "articles/pikobuy-clothing-size-chart",
-        "articles/pikobuy-warehouse-returns"
-      ]
+        "articles/pikobuy-warehouse-returns",
+        "articles/pikobuy-parcel-consolidation"
+      ],
+      "updated": "2026-10-29"
     },
     {
       "slug": "pikobuy-haul-budget",
@@ -735,7 +748,8 @@
       "related": [
         "shipping",
         "articles/pikobuy-parcel-weight-dimensions",
-        "articles/pikobuy-spreadsheet-checklist"
+        "articles/pikobuy-spreadsheet-checklist",
+        "articles/pikobuy-shipping-calculator"
       ]
     },
     {
@@ -831,7 +845,8 @@
       "related": [
         "shipping",
         "articles/pikobuy-haul-budget",
-        "articles/pikobuy-warehouse-returns"
+        "articles/pikobuy-warehouse-returns",
+        "articles/pikobuy-shipping-calculator"
       ]
     },
     {
@@ -937,7 +952,8 @@
       "related": [
         "spreadsheet",
         "articles/pikobuy-qc-measurements",
-        "articles/pikobuy-parcel-weight-dimensions"
+        "articles/pikobuy-parcel-weight-dimensions",
+        "articles/pikobuy-parcel-consolidation"
       ]
     },
     {
@@ -1039,7 +1055,8 @@
       "related": [
         "spreadsheet",
         "articles/pikobuy-qc-measurements",
-        "articles/pikobuy-parcel-weight-dimensions"
+        "articles/pikobuy-parcel-weight-dimensions",
+        "articles/pikobuy-parcel-consolidation"
       ]
     },
     {
@@ -1132,6 +1149,14 @@
             "Behold en kort tidslinje over anmodning, kvitteringer, yderligere dokumentation og beslutninger. Svar i den eksisterende sag, når det er relevant, så sammenhængen bevares. Hvis supporten beder om en manglende detalje, så besvar netop spørgsmålet frem for at begynde en ny beskrivelse af hele købet.",
             "Kontrollér før godkendelse af et trin, at det gælder den rigtige vare og den løsning, du har forstået. Gem bekræftelse på, hvad der er accepteret, og hvad der stadig afventer. En indsendt anmodning, et sælgersvar og en gennemført tilbagebetaling er forskellige begivenheder. Registrér dem hver for sig, så fremskridt ikke forveksles med afslutning."
           ]
+        },
+        {
+          "id": "before-consolidation",
+          "heading": "8. Afklar retur før samforsendelse",
+          "paragraphs": [
+            "Hold en vare med uafklaret returanmodning uden for klarlisten. Notér lagerstatusens tidsstempel, problemet, fotos og ønsket løsning. Kontrollér aktuel politik og ordrens frist; venten på en anden sælgers vare giver ikke en forlængelse.",
+            "Før fjernelse af emballage eller international afsendelse skal du bekræfte, om varen er godkendt til fragt eller afventer sælgerens beslutning. Behold mærker, forseglinger og nødvendig emballage under vurdering af returmuligheden. Bed officiel support om de konkrete udgifter frem for at antage gratis retur eller at et generelt eksempel dækker din sag."
+          ]
         }
       ],
       "sourceIds": [
@@ -1141,8 +1166,10 @@
       "related": [
         "qc",
         "articles/pikobuy-qc-measurements",
-        "articles/pikobuy-haul-budget"
-      ]
+        "articles/pikobuy-haul-budget",
+        "articles/pikobuy-parcel-consolidation"
+      ],
+      "updated": "2026-10-29"
     },
     {
       "slug": "pikobuy-tracking-not-updating",
@@ -1238,6 +1265,14 @@
             "Opdatér loggen, når en væsentlig hændelse kommer, og undgå at opfatte gentagne besøg på samme side som ny dokumentation. Gem instruktioner eller svar, der ændrer den forventede næste handling. Hvis din sag får en frist eller et eskalationstrin, så registrér det udtrykkeligt.",
             "Når pakken ankommer, så sammenlign indholdet med varelisten og den gemte kontrolregistrering. Behold relevant emballage og mærker, mens eventuelle forskelle afklares. Afsluttet sporing og en tilfredsstillende indholdskontrol er separate observationer. En klar registrering hjælper dig med at forklare enten et leveringsproblem eller et vareproblem uden at blande dem sammen."
           ]
+        },
+        {
+          "id": "quick-triage",
+          "heading": "8. Hurtig vurdering: match hullet med næste handling",
+          "paragraphs": [
+            "Ingen afsendelsespost: kontrollér pakkeregistrering og fragtbetaling på kontoen. Afsendelse registreret, men ingen sporing efter guidens tidsangivelse: bed Pikobuy bekræfte overdragelsen. Transportørhændelse findes, men står stille: gem nøjagtig ordlyd og tid, og kontrollér aktuelle tjenesteinstrukser. En leveringsafvigelse kræver handling: verificér anmodningen via platformens eller transportørens ægte kanal.",
+            "Saml pakkereference, faktisk afsendelsesdato og seneste bekræftede hændelse i én supportanmodning. Start ikke ved produktkøbsdatoen, og læs ikke guidens tre dage som leveringsgaranti. Indeholder pakken flere ordrer, bruges den samlede pakkereference til international sporing."
+          ]
         }
       ],
       "sourceIds": [
@@ -1247,8 +1282,506 @@
       "related": [
         "shipping",
         "guide",
-        "faq"
-      ]
+        "faq",
+        "articles/pikobuy-shipping-calculator"
+      ],
+      "updated": "2026-10-29"
+    },
+    {
+      "slug": "pikobuy-shipping-calculator",
+      "title": "Pikobuys fragtberegner: beregn hele pakkens pris",
+      "description": "Brug Pikobuys fragtberegner med korrekt vægt, mål og destination. Sammenlign tilbud, og adskil fragten fra budgettet for hele bestillingen.",
+      "intro": "Et brugbart fragtestimat begynder med en defineret pakke, ikke blot en produktpris eller en antaget vægt. Notér destinationen, varerne og den nødvendige emballage. Sammenlign derefter de muligheder, den officielle beregner faktisk viser. Denne guide giver en genanvendelig skabelon til at sammenligne estimater uden at opfatte dem som en endelig regning.",
+      "sections": [
+        {
+          "id": "prepare-inputs",
+          "heading": "1. Forbered oplysningerne, der påvirker estimatet",
+          "paragraphs": [
+            "Den officielle beregner kræver destination, produkttype, vægt i kilogram samt længde, bredde og højde i centimeter. Saml værdierne, markér dem som målte eller anslåede, og tilføj dato. Før lagerankomst kan sælgerens produktvægt udelade salgsemballage, polstring og yderkasse. Brug den til planlægning, ikke som bekræftet forsendelsesvægt.",
+            "Brug den faktiske leveringsdestination. Hjemmesidens sprog vælger ikke modtagerland, og en anden købers tilbud kan bygge på andre oplysninger. Kontrollér, hvordan de tilgængelige produkttyper beskriver en blandet pakkes indhold. Passer et batteri, en væske, en skrøbelig del eller en anden særlig vare ikke tydeligt ind, så spørg Pikobuy om korrekt kategori og fragtvilkår, før du stoler på resultatet."
+          ]
+        },
+        {
+          "id": "separate-costs",
+          "heading": "2. Adskil fragten fra hele bestillingens budget",
+          "paragraphs": [
+            "Skriv produktbetalingen og den senere internationale fragtbetaling på separate linjer. Tilføj bekræftet indenrigsfragt, valgfri håndtering, valutaomregning ved betaling og destinationsafgifter som selvstændige poster. Tilføj ikke et gebyr, blot fordi en anden køber nævner det; markér det som ubekræftet, indtil der er dokumentation for din ordre. Et tomt felt betyder tilsvarende ukendt, ikke gratis.",
+            "Kataloget viser vejledende produktpriser i USD. Prisen på et produktkort er ikke et tilbud på international fragt. Behold hver faktisk betalings valuta, og sammenlign totalerne i én valgt valuta med den kurs og det betalingsgebyr, der gælder for dig. Selv en god produktpris kan efterlade for lidt til den færdige pakke. Fastlæg dit maksimale samlede budget, før du vælger antallet af varer."
+          ]
+        },
+        {
+          "id": "measure-parcel",
+          "heading": "3. Brug pakkens mål, ikke en gættet fragtregel",
+          "paragraphs": [
+            "Mål eller anmod om yderpakkens længde, bredde og højde efter valg af emballage. Notér den faktiske vægt separat. Antag ikke, at en let, voluminøs pakke kun afregnes efter vægten på vægten. Pikobuys guide siger, at fragtmuligheder har forskellige afregningsmetoder; læs derfor metoden for det aktuelle alternativ. Artiklen fastsætter ingen universel divisor for volumenvægt.",
+            "Som rent regneeksempel fylder en kasse på 40 × 30 × 20 cm 24.000 kubikcentimeter. Sænkes højden til 15 cm, bliver volumen 18.000 kubikcentimeter. Det viser en volumenændring, ikke en lovet prisnedsættelse. Fragtmuligheden, dens afregningstrin, beskyttelsen og de endelige mål afgør stadig, om tilbuddet ændres. Fjern ikke nødvendig beskyttelse blot for at efterligne et mindre eksempel."
+          ]
+        },
+        {
+          "id": "compare-like-for-like",
+          "heading": "4. Sammenlign to muligheder for den samme pakke",
+          "paragraphs": [
+            "Sammenlign med samme destination, indhold og mål. Notér det præcise navn på fragtmuligheden og tidspunktet for hvert resultat. Et andet tilbud på en lettere pakke beviser ikke, at dens fragtmulighed er billigere. Gem gamle inddata, når emballagen ændres, så du kan forklare prisforskellen frem for automatisk at tilskrive den en ny sats.",
+            "Brug nedenstående skabelon til hvert alternativ. Kopiér de viste vilkår, og spørg om manglende oplysninger før betaling. En manglende transporttid eller uklar inkluderet ydelse skal afklares. Når forsikring, håndtering eller andre tilvalg vises, sammenlignes totalen med samme tilvalg. Den laveste annoncerede startpris dækker ikke nødvendigvis hele den ønskede tjeneste."
+          ],
+          "table": {
+            "headers": [
+              "Oplysning",
+              "Mulighed A",
+              "Mulighed B"
+            ],
+            "rows": [
+              [
+                "Destination og indhold",
+                "Brug samme inddata",
+                "Brug samme inddata"
+              ],
+              [
+                "Pakket vægt og mål",
+                "Markér målt eller anslået",
+                "Markér målt eller anslået"
+              ],
+              [
+                "Fragtmulighed og afregning",
+                "Kopiér viste vilkår",
+                "Kopiér viste vilkår"
+              ],
+              [
+                "Total og inkluderede ydelser",
+                "Notér valuta og undtagelser",
+                "Notér valuta og undtagelser"
+              ],
+              [
+                "Estimatdato og åbne spørgsmål",
+                "Gem med tilbuddet",
+                "Gem med tilbuddet"
+              ]
+            ]
+          }
+        },
+        {
+          "id": "test-packaging",
+          "heading": "5. Sammenlign emballage uden at forudsætte besparelser",
+          "paragraphs": [
+            "Lav ét scenarie med nødvendig emballage og kun et andet, hvis et praktisk alternativ findes. For sko skal du skelne mellem at beholde originalæsken og at beskytte skoene. Identificér nødvendig beskyttelse for skrøbelige varer. For tøj skal du kontrollere, om målene gælder løst samlede varer eller den pakke, lageret faktisk klargør. Forskellene skal fremgå af noterne.",
+            "Bed om bekræftelse før irreversible emballageændringer. Mærker, forseglinger og originalemballage kan påvirke returmuligheden, så afklar kontrol og retur først. En mindre pakke er ikke automatisk bedre, hvis varen bliver sværere at beskytte eller returnere. Notér både ønsket ændring og bekræftet resultat; erstat ikke et målt tal med det, du håbede lageret ville opnå."
+          ]
+        },
+        {
+          "id": "reconcile-final-quote",
+          "heading": "6. Afstem estimatet med det endelige pakketilbud",
+          "paragraphs": [
+            "Før betaling for international fragt sammenlignes den endelige pakkepost med skabelonen. Kontrollér vareliste, destination, fragtmulighed, pakket vægt, mål og valgte tjenester. Ved en forskel skal du identificere den ændrede oplysning eller afgift. Et tidligere skærmbillede hjælper med at skelne nye mål fra et tilvalg valgt ved en fejl. Bed om en specifikation, hvis forskellen stadig er uforklaret.",
+            "Gem tilbud, betalingsbekræftelse og pakkereference sammen. De besvarer forskellige spørgsmål: tilbuddet beskriver ydelsen, betalingen viser det betalte beløb, og pakkeposten forbinder forsendelsen med indholdet. En gennemført produktbetaling beviser ikke, at international fragt er betalt. Følg kontoens faktiske arbejdsgang frem for at behandle alle transaktioner som én ordresum."
+          ]
+        },
+        {
+          "id": "handle-missing-data",
+          "heading": "7. Når beregneren ikke giver et brugbart resultat",
+          "paragraphs": [
+            "Kontrollér først enheder, destination og produktkategori. En manglende mulighed betyder ikke i sig selv, at varen aldrig kan sendes, og retfærdiggør ikke en forkert kategori for at fremtvinge et tilbud. Gem inddata, og spørg officiel support, om indhold og mål kan bruge en aktuelt tilgængelig tjeneste. Køb ikke flere varer blot for at nå en pakkestørrelse, andre anbefaler.",
+            "Venter du på lagermål, så behold et interval af mulige budgetter i dine noter og markér antagelserne. Udgiv ikke et foreløbigt resultat som Pikobuys standardfragtpris. Erstat antagelsen, når oplysningen kommer, og gentag sammenligningen. Så kan beslutningen efterprøves uden opdigtede priser, garanterede besparelser eller leveringsdatoer."
+          ]
+        },
+        {
+          "id": "before-payment",
+          "heading": "8. Afslut med en kort beslutningsnote",
+          "paragraphs": [
+            "Slutnoten bør angive inkluderede varer, løste kontrolspørgsmål, godkendt emballage og årsagen til valget af fragtmulighed. Medtag hele beløbet og resterende afgifter, som du ved er udeladt. Hvis en ukendt udgift kan sprænge budgettet, skal den afklares før næste betaling.",
+            "Brug guiden om samforsendelse før færdiggørelse af en blandet ordre. Brug Europa-checklisten til destinationsplanlægning. Efter afsendelse bruges sporingsguiden i stedet for beregneren som dokumentation for fremdrift. Beregning, køb, kontrol og sporing hænger sammen, men kræver hver sin dokumentation."
+          ]
+        },
+        {
+          "id": "worked-comparison",
+          "heading": "9. Eksempel: ændr én antagelse ad gangen",
+          "paragraphs": [
+            "En køber vil sende to par sko og en sweatshirt. Før lagerankomst findes kun varevægte fra annoncer og ingen pakkemål. Den første skabelon markerer derfor vægt og størrelse som estimater. Efter QC vælger køberen at beholde én skoæske og spørger om passende emballage til det andet par. Der antages endnu ingen pris.",
+            "Når lageret oplyser de færdige pakkemål, indtaster køberen dem i den officielle beregner og noterer mulighederne. Overskrides budgettet, undersøges det, om en anden tilladt konfiguration ændrer totalen. Den sammenlignes med den oprindelige med samme destination og tjenesteantagelser. Eksemplet viser en metode, ikke en faktisk ordre, takst eller besparelse. Identificér den ændrede oplysning, før det nye resultat accepteres."
+          ]
+        }
+      ],
+      "sourceIds": [
+        "official-estimate",
+        "official-guide",
+        "official-returns"
+      ],
+      "related": [
+        "shipping",
+        "articles/pikobuy-parcel-weight-dimensions",
+        "articles/pikobuy-haul-budget",
+        "articles/pikobuy-parcel-consolidation"
+      ],
+      "published": "2026-10-29",
+      "updated": "2026-10-29"
+    },
+    {
+      "slug": "pikobuy-shipping-europe",
+      "title": "Pikobuy-fragt til Europa: tjekliste for destination og levering",
+      "description": "Planlæg Pikobuy-fragt til Nederlandene, Tyskland og andre europæiske destinationer: kontrollér muligheder, adresse, pakkepris og sporingstrin.",
+      "intro": "Fragt til Europa kræver et tilbud for dit faktiske leveringsland og din pakke. En guide på nederlandsk, tysk eller engelsk fastlægger ikke, hvilke muligheder din konto har i dag. Brug tjeklisten til at forberede korrekte oplysninger, sammenligne Pikobuys tilbud og gemme dokumentationen fra lagergodkendelse til levering.",
+      "sections": [
+        {
+          "id": "choose-destination",
+          "heading": "1. Start med leveringslandet, ikke hjemmesidens sprog",
+          "paragraphs": [
+            "Vælg landet, hvor pakken skal leveres, i den officielle fragtberegner. En køber med levering til Nederlandene skal vælge denne destination, selv om guiden læses på engelsk. Det gælder også Tyskland, Frankrig, Spanien og andre lande. Hjemmesidens sprog hjælper dig med at læse vejledningen; de udgør ikke særskilte transportaftaler eller et løfte om, at alle muligheder dækker alle destinationer.",
+            "Notér postnummer og destinationsoplysninger til den faktiske pakkeregistrering. Kontrollér stavning, hus- eller bygningsnummer, eventuelle lejlighedsoplysninger og modtagerens kontaktoplysninger i den rigtige formular. At beregneren accepterer et land betyder ikke, at en komplet adresse er valideret. Afklar usædvanlige adresseformater eller leveringsbegrænsninger gennem platformen før afsendelse."
+          ]
+        },
+        {
+          "id": "define-contents",
+          "heading": "2. Fastlæg indholdet før sammenligning af Europafragt",
+          "paragraphs": [
+            "Lav en liste over alle varer, og afklar spørgsmål fra lagerkontrollen først. Gem valgt størrelse, farve og antal sammen med varereferencen, så pakken sammensættes af godkendte varer. Én vare, som afventer sælgerens svar, kan ændre tidspunktet for registrering af hele pakken. En plan baseret på en ufuldstændig liste bliver usikker, når indholdet ændres.",
+            "Beskriv særligt indhold korrekt, når du spørger om tilladelighed. Udled ikke tilladelse til batterier, væsker eller skrøbelige varer af et fragtnavn eller en andens vellykkede levering. Begrænsninger og håndtering afhænger af den konkrete tjeneste og indholdet. Spørg, hvilken aktuel mulighed accepterer pakken, og gem svaret med estimatet. Et godt tilbud er kun nyttigt, hvis pakken faktisk må bruge tjenesten."
+          ]
+        },
+        {
+          "id": "compare-route-records",
+          "heading": "3. Sammenlign tjenesten for din destination",
+          "paragraphs": [
+            "Gem navn, beløb, valuta, relevant afregningsmetode og eventuel transporttid for hver mulighed. Hold vægt og mål konstante. Den officielle guide nævner forskellige tider og afregningsmetoder, men fastslår ikke én universelt bedste Europatjeneste. Vælg blandt de muligheder, der aktuelt vises for din egen pakke og dine behov.",
+            "Spørg, hvad tilbuddet omfatter, hvis ordlyden er uklar. Et fragtnavn dokumenterer ikke alle afgifter, håndteringstrin eller leveringsløfter. Erstat ikke kontoens tilbud med en prisliste fra sociale medier. Bruger to resultater forskellig emballage eller tilvalg, skal forskellene gøres tydelige før sammenligning af totalerne. Datér skærmbilleder, så gamle tilbud ikke forveksles med aktuelle."
+          ]
+        },
+        {
+          "id": "budget-destination",
+          "heading": "4. Giv plads til udgifter uden for den viste fragt",
+          "paragraphs": [
+            "Adskil produktpris, indenrigsfragt, international fragt, tilvalg og eventuelle destinationsafgifter i budgettet. Antag ikke, at fragtbeløbet er den endelige total for alle grænseoverskridende ordrer. Tilføj heller ikke en vilkårlig procentsats eller et gebyr fra en anden destination. Notér tjenestens faktiske inkluderinger og det, som mangler bekræftelse.",
+            "Kontrollér aktuelle krav til told, skatter, deklarationer og lokale regler for den præcise destination samt vilkårene for din valgte tjeneste. Tjeklisten angiver ingen skattegrænse, skattesats eller juridisk undtagelse. Brug korrekt indhold og værdi i obligatoriske formularer; et fragtnavn eller en anden købers uformelle beskrivelse erstatter ikke kravene. Bed om afklaring, hvis platformens ordlyd efterlader en væsentlig udgift usikker."
+          ]
+        },
+        {
+          "id": "plan-timeline",
+          "heading": "5. Byg tidslinjen af separate milepæle",
+          "paragraphs": [
+            "Den samlede ventetid kan omfatte sælgerens klargøring, indenrigslevering til lageret, kontrol, rettelser eller retur, pakning og international transport. Hold faserne adskilt i noterne. Et internationalt transportestimat inkluderer ikke automatisk ventetid på sælgeren eller din godkendelse. Ved tidsfølsomme køb vurderes hele forløbet, ikke kun transportørens del.",
+            "Pikobuys guide placerer forventningen om sporingsoplysninger efter afsendelsen. Det er ikke et løfte om levering på tre dage, og tiden starter ikke ved varebetalingen. Notér den faktiske afsendelse, og følg den tilknyttede pakkereference. Er en fase uklar, så spørg, hvad der er gennemført, og hvilken handling mangler, frem for at slutte noget ud fra produktordrens alder."
+          ]
+        },
+        {
+          "id": "destination-worksheet",
+          "heading": "6. Brug én skabelon pr. destination og pakke",
+          "paragraphs": [
+            "En separat skabelon forhindrer sammenblanding af modtagere eller ordrer. Felterne nedenfor kan bruges til Nederlandene, Tyskland og andre destinationer uden at antage ens muligheder eller afgifter. De er en planlægningsskabelon, ikke verificerede tilbud eller en leveringstabel for hvert land. Udfyld dem med dine egne aktuelle oplysninger.",
+            "Lav en ny sammenligning, når destination, vareliste eller emballage ændres. Behold tidligere version for at forstå ændret beløb eller tilgængelige tjenester. Det er særligt nyttigt, når venner deler tilbud: sammenlign inddata først, og vurder derefter relevansen. Landenavnet alene er aldrig en komplet pakkespecifikation."
+          ],
+          "table": {
+            "headers": [
+              "Planlægningsfelt",
+              "Gem dette"
+            ],
+            "rows": [
+              [
+                "Destination og modtager",
+                "Land og kontrollerede adresseoplysninger"
+              ],
+              [
+                "Godkendt indhold",
+                "Varereferencer, varianter og antal"
+              ],
+              [
+                "Pakkemål",
+                "Pakket vægt og tre ydre mål"
+              ],
+              [
+                "Valgt tjeneste",
+                "Aktuel mulighed, total, inkluderinger og åbne spørgsmål"
+              ],
+              [
+                "Afsendelse og sporing",
+                "Pakkereference, afsendelsespost og seneste bekræftede hændelse"
+              ]
+            ]
+          }
+        },
+        {
+          "id": "last-mile",
+          "heading": "7. Følg overdragelsen og den sidste leveringsetape",
+          "paragraphs": [
+            "Læs hele sporingshændelsen, tidsstemplet og kilden efter afsendelse. Elektroniske forsendelsesoplysninger er ikke det samme som fysisk modtagelsesscanning hos en transportør. Angiver posten en leveringspartner eller anden reference, så brug de faktiske oplysninger. Gæt ikke lokal transportør ud fra landet, og antag ikke identiske sporingsforløb for alle tjenester.",
+            "Ved leveringsafvigelser kontrolleres den ønskede handling via platformens eller transportørens ægte kanal. Bekræft kun adresse, afhentningskrav eller andre instruktioner gennem en verificeret kanal. Gem den nøjagtige besked og svaret. Et sporingshul beviser ikke tab, og en estimeret dato beviser ikke ankomst. Brug fejlfindingsartiklen, når oplysningerne ikke længere ændres."
+          ]
+        },
+        {
+          "id": "receive-parcel",
+          "heading": "8. Afslut kontrollen ved modtagelsen",
+          "paragraphs": [
+            "Sammenlign modtaget indhold med den godkendte liste og gemte kontrolfotos. Behold fragtlabel, emballage og relevante oplysninger, mens manglende eller beskadigede varer undersøges. Status som leveret besvarer et transportspørgsmål; den bekræfter ikke i sig selv indhold eller tilstand. Dokumentér en konkret afvigelse hurtigt gennem officiel support i stedet for at samle flere uafhængige klager.",
+            "Gennemgå før næste ordre ændrede antagelser: pakkestørrelse, tjenestevalg, sælgerventetid eller uventede gebyrer. Forbedr planlægningen, men gør ikke én pakkes erfaring til en universel leveringsgaranti. Aktuelle destinationsdata, godkendt indhold og en dokumenteret tidslinje letter næste sammenligning uden løfter, som oplysningerne ikke understøtter."
+          ]
+        },
+        {
+          "id": "worked-timeline",
+          "heading": "9. Eksempeltidslinje: adskil sælgerforsinkelse fra transport",
+          "paragraphs": [
+            "Forestil dig en ordre til Nederlandene. Ét stykke tøj er ankommet og kontrolleret, mens en anden vare afventer sælgerens opdatering. Køberen har endnu ikke registreret en international pakke. Selv hvis beregneren viser en transporttid, fastslår den ikke, hvornår den ufuldstændige ordre når modtagerens adresse.",
+            "Køberen noterer første vares lagervilkår og eventuelle frister, spørger om den anden vare og sammenligner ventetid med kun at sende den godkendte vare. Efter registrering og dokumenteret afsendelse begynder den internationale tidslinje med pakkereferencen. Står en senere transportørhændelse stille, gælder supportspørgsmålet den hændelse frem for den tidligere sælgerforsinkelse. Dette er et planlægningseksempel, ikke en offentlig leveringstidsplan. Separate milepæle gør både beslutning og spørgsmål mere præcise."
+          ]
+        }
+      ],
+      "sourceIds": [
+        "official-estimate",
+        "official-guide",
+        "official-terms",
+        "official-contact"
+      ],
+      "related": [
+        "shipping",
+        "articles/pikobuy-shipping-calculator",
+        "articles/pikobuy-tracking-not-updating",
+        "articles/pikobuy-parcel-consolidation"
+      ],
+      "published": "2026-10-29",
+      "updated": "2026-10-29"
+    },
+    {
+      "slug": "pikobuy-parcel-consolidation",
+      "title": "Pikobuy-samforsendelse: saml bestillinger efter QC",
+      "description": "Saml Pikobuy-lagervarer med en klar tjekliste for QC, emballage og pris. Sammenlign én pakke med separate forsendelser uden at antage garanterede besparelser.",
+      "intro": "Pikobuy oplyser, at varer fra forskellige sælgere kan samles i én pakke. Spørgsmålet er, om netop dine varer er klar til at rejse sammen med passende emballage og et forståeligt tilbud. Samforsendelse bør følge kontrolbeslutningerne. Guiden hjælper dig med en tydelig vareliste, sammenligning af praktisk pakning og bekræftelse før betaling for international fragt.",
+      "sections": [
+        {
+          "id": "build-item-list",
+          "heading": "1. Lav en vareliste før valg af pakke",
+          "paragraphs": [
+            "Notér ordrereference, produkt, valgt størrelse eller farve, antal og lagerstatus for hver vare. Adskil modtagne varer fra dem, der er hos sælgeren eller under indenrigstransport. Én klar ordre beviser ikke, at resten er ankommet. Notér udeladte varer, så en gammel ønskeliste ikke opfattes som den endelige pakkeinstruks.",
+            "Behold originale ordrereferencer for forskellige sælgeres varer, selv når de senere deler pakkenummer. Referencerne hjælper ved forkert antal, forkert variant eller sælgerspecifikke problemer. Én international forsendelse sletter ikke de separate købshistorikker. Den endelige pakkeliste bør forbinde hver inkluderet vare med den post, du faktisk har kontrolleret."
+          ]
+        },
+        {
+          "id": "finish-qc",
+          "heading": "2. Afslut QC og returbeslutninger først",
+          "paragraphs": [
+            "Gennemgå lagerdokumentationen for ankomne varer. Match reference, variant og antal før synlig tilstand og bestilte mål. Et katalogfoto dokumenterer ikke din konkrete ordres tilstand. Kan billederne ikke besvare et vigtigt spørgsmål, så anmod om den relevante detalje hos Pikobuy og bekræft eventuel pris, før du vælger at sende varen.",
+            "Hold en uafklaret vare uden for gruppen, der er klar til afsendelse. Returpolitikken har tids- og berettigelsesvilkår; venten på en anden sælger må ikke fjerne fokus fra en beslutning om varer, som allerede ligger på lageret. Behold mærker, forseglinger og emballage under afklaring af retur. Godkend ikke fjernelse blot for at få et samforsendelsesestimat."
+          ]
+        },
+        {
+          "id": "choose-wait-or-send",
+          "heading": "3. Afgør, om det er nyttigt at vente på en anden vare",
+          "paragraphs": [
+            "Sammenlign de praktiske konsekvenser ved at vente med at sende godkendte varer nu. Notér den manglende vare, bekræftet status og relevante frister for allerede lagrede varer. De offentlige videresendelsesvilkår fastsætter ikke én universel gratis lagerperiode. Kontrollér dine egne varers aktuelle vilkår i stedet for et fast antal gratis dage fra en anden hjemmeside.",
+            "Ventetid kan give en anden pakkekonfiguration, men garanterer ikke besparelse eller afsendelsesdato. En sen vare kan ændre mål eller tilladte fragtmuligheder. Ved tidsfølsomme køb skal hele resten af forløbet indgå. Hold beslutningen enkel: hvad mangler du at vide, hvilken frist betyder noget, og hvad gør du, hvis varen stadig ikke er klar?"
+          ]
+        },
+        {
+          "id": "specify-packaging",
+          "heading": "4. Giv præcise emballageinstruktioner",
+          "paragraphs": [
+            "Fastlæg hver vares beskyttelsesbehov og den salgsemballage, du vil beholde. Sko, blødt tøj og skrøbeligt tilbehør kræver ikke nødvendigvis samme håndtering. Overvejer du at fjerne en æske, skal du identificere varen og først afslutte kontrol eller returvalg. Undgå uklare instruktioner om at fjerne al emballage, når varerne har forskellige behov.",
+            "Pikobuys købsguide nævner minimal og forstærket emballage. Bekræft, hvad der tilbydes til din pakke, og om det påvirker pris eller mål. En anmodning beviser ikke de færdige pakkemål. Bed om resultatets mål, når de findes, og sammenlign dem med tallene fra dit tidligere estimat."
+          ]
+        },
+        {
+          "id": "compare-configurations",
+          "heading": "5. Sammenlign én pakke med realistiske alternativer",
+          "paragraphs": [
+            "Sammenlign tilbuddet på den godkendte samlede pakke med summen af de separate pakker, du faktisk ville sende. Brug samme destination og en tydelig indholdsliste for hvert alternativ. Medtag valgt emballage og bekræftede håndteringstjenester. Sammenligning med kun halvdelen af en delt forsendelse undervurderer alternativets pris.",
+            "Tabellen er et beslutningsværktøj, ikke bevis for, at deling eller samling altid er billigere. Udfyld aktuelle mål og tilbud. Resultatet afhænger af de reelt tilladte tjenester og deres afregning. Hold uændrede produktpriser udenfor; sammenligningen skal synliggøre forskelle, ikke tælle samme køb to gange."
+          ],
+          "table": {
+            "headers": [
+              "Kontrol",
+              "Samlet pakke",
+              "Separate pakker"
+            ],
+            "rows": [
+              [
+                "Indhold",
+                "Alle godkendte varer sammen",
+                "Angiv varer i hver pakke"
+              ],
+              [
+                "Emballage",
+                "Beskyttelse og beholdte æsker",
+                "Beskyttelse til hver pakke"
+              ],
+              [
+                "Mål",
+                "Én endelig pakket vægt og størrelse",
+                "Vægt og størrelse for hver pakke"
+              ],
+              [
+                "Fragtprissammenligning",
+                "Hele tilbudssummen",
+                "Summen af alle tilbud"
+              ],
+              [
+                "Åbne spørgsmål",
+                "Tilladelighed og uafklarede tjenester",
+                "Tilladelighed og uafklarede tjenester for hver pakke"
+              ]
+            ]
+          }
+        },
+        {
+          "id": "confirm-submission",
+          "heading": "6. Bekræft pakken før betaling",
+          "paragraphs": [
+            "Sammenhold den endelige vareliste og antallene med dine noter. Kontrollér adresse, fragtmulighed, pakkeinstrukser og beløb før registrering eller betaling. Antag ikke, at en manglende vare tilføjes automatisk, fordi den tilhører samme konto. Afklar en uventet inkluderet vare før afsendelse. Tydelig bekræftelse er nemmere end senere at rekonstruere hensigten.",
+            "Gem pakkereferencen sammen med de enkelte ordrereferencer. Notér platformens bekræftelser om vægt, mål og inkluderede ydelser. Ændres totalen efter pakning, så sammenlign med estimatet og identificér den ændrede oplysning. Spørg konkret til en uforklaret forskel frem for at antage, at det første estimat var bindende slutpris."
+          ]
+        },
+        {
+          "id": "support-template",
+          "heading": "7. Stil et spørgsmål, supporten kan handle på",
+          "paragraphs": [
+            "En god anmodning angiver varer, ønsket handling og det, der skal bekræftes. Eksempel: bekræft, om de angivne lagervarer kan dele en pakke til min destination med den angivne emballage bevaret, og oplys vægt, mål og aktuelle fragtmuligheder. Erstat generelle beskrivelser med dine faktiske referencer i den officielle kontokanal.",
+            "Ved sammenligning af konfigurationer skal hver vareliste tydeligt høre til sit alternativ. Skal du bruge et foto før beslutningen, så angiv den manglende del eller måling. Hold loginoplysninger og betalingshemmeligheder ude af beskeder og offentlige skærmbilleder. Denne uafhængige guide kan ikke se private ordrer eller instruere lageret for dig; brug Pikobuys officielle kontaktvej."
+          ]
+        },
+        {
+          "id": "check-delivery",
+          "heading": "8. Kontrollér indholdet såvel som sporingen",
+          "paragraphs": [
+            "Følg den internationale pakke med dens egen sporingspost efter afsendelse. Sælgerens indenrigsnummer sporer ikke nødvendigvis den samlede forsendelse. Behold pakkelisten og kontrolbeviserne frem til levering. Sammenlign indhold og antal med listen ved ankomst, især når forskellige sælgeres varer deler yderkasse.",
+            "Dokumentér konkrete mangler eller synlige skader, og behold relevante labels og emballage under kontakt med support. Adskil vareproblemer fra leveringsstatus. Notér til fremtidig planlægning, om samlingen ændrede mål, muligheder eller nødvendig håndtering. Forbedr din tjekliste uden at behandle én ordre som bevis på universelle besparelser."
+          ]
+        },
+        {
+          "id": "worked-item-list",
+          "heading": "9. Eksempel på vareliste: hold én uafklaret vare separat",
+          "paragraphs": [
+            "En køber har bestilt en T-shirt, et par sko og en lille taske fra tre sælgere. T-shirtens størrelse og tilstand er kontrolleret. Skoene kræver et ekstra mål, og tasken er endnu ikke på lageret. Klarlisten indeholder kun T-shirten; de øvrige varer skal ikke stiltiende inkluderes, blot fordi de indgik i samme planlagte forsendelse.",
+            "Køberen bestiller skomålingen, kontrollerer taskens senest bekræftede status og noterer ankomne varers lager- og returvilkår. Med tilstrækkelig dokumentation kan en pakke med godkendte varer sammenlignes med et senere alternativ inklusive tasken. Hvert alternativ kræver eget faktisk indhold og egne mål. Eksemplet anbefaler ikke altid at vente eller dele. Det viser, hvorfor en udtrykkelig vareliste er bedre end en generel instruks om at samle alt på kontoen."
+          ]
+        }
+      ],
+      "sourceIds": [
+        "official-contact",
+        "official-guide",
+        "official-shipping",
+        "official-returns"
+      ],
+      "related": [
+        "qc",
+        "articles/pikobuy-warehouse-returns",
+        "articles/pikobuy-shipping-calculator",
+        "articles/pikobuy-tracking-not-updating"
+      ],
+      "published": "2026-10-29",
+      "updated": "2026-10-29"
     }
-  ]
+  ],
+  "growth": {
+    "homeTitle": "Pikobuy Spreadsheet: produktlinks, QC og fragtguider",
+    "homeDescription": "Find Pikobuy-produktlinks til sko og tøj. Sammenlign USD-priser, kontrollér størrelser og QC, og planlæg fragt med praktiske guider.",
+    "catalogTitle": "Pikobuy Spreadsheet: sko, tøj og produktlinks",
+    "catalogDescription": "Søg i Pikobuy-spreadsheeten efter kategori, og sammenlign produktpriser i USD. Åbn produktdetaljer, kontrollér størrelser, og fortsæt til Pikobuy.",
+    "categoryGuideHeading": "Før du vælger en vare",
+    "categories": {
+      "shoes": {
+        "title": "Pikobuy Spreadsheet til sko: links, størrelser og QC",
+        "description": "Find skolinks i Pikobuy-spreadsheeten, sammenlign USD-priser, og kontrollér størrelsesmål, lagerfotos og emballage før afsendelse.",
+        "intro": "Sammenlign skoannoncer for den præcise størrelse og variant, du vil bestille. En kendt størrelsesbetegnelse er et udgangspunkt, ikke bevis på pasform. Åbn originaloplysningerne, og kontrollér sælgerens mål før betaling. Billederne her er annoncefotos, ikke QC-fotos af din egen ordre.",
+        "checks": [
+          "Sammenlign sælgerens størrelsestabel med et behageligt par, du allerede ejer.",
+          "Bed om det mål eller labelfoto, der afklarer størrelsesspørgsmålet.",
+          "Beslut, om skoæsken skal beholdes, efter QC og eventuelle returbeslutninger."
+        ]
+      },
+      "sweatshirts": {
+        "title": "Pikobuy Spreadsheet til hættetrøjer og sweatshirts",
+        "description": "Find produktlinks til hættetrøjer og sweatshirts, sammenlign USD-priser, og kontrollér brystvidde, længde og ærmer før bestilling gennem Pikobuy.",
+        "intro": "Vælg hættetrøje eller sweatshirt efter tøjets mål og ønsket pasform. Sammenlign brystvidde, længde og ærmer med tøj, du bruger. Samme størrelsesbogstav kan dække forskellige snit; kontrollér valgt annonce og variant i stedet for en antaget universel omregning.",
+        "checks": [
+          "Sammenlign mål taget med samme metode og enheder.",
+          "Kontrollér farve, hætte, lynlås og lommer i originalannoncen.",
+          "Gennemgå lagerfotos, før tøjet indgår i en samlet pakke."
+        ]
+      },
+      "tshirts": {
+        "title": "Pikobuy Spreadsheet til T-shirts: links og størrelseskontrol",
+        "description": "Find T-shirtlinks og USD-priser. Sammenlign brystvidde og længde, kontrollér valgt variant, og planlæg lager-QC før fragt.",
+        "intro": "Sammenlign T-shirts efter brystvidde, længde og ønsket pasform. Annoncefotos identificerer design, men bekræfter ikke målene eller tilstanden på varen, der sendes til lageret. Gem valgt størrelse og farve med ordrereferencen til sammenligning med senere kontrolfotos.",
+        "checks": [
+          "Mål en T-shirt, du kan lide, og sammenlign sælgerens målemetode.",
+          "Bekræft størrelse og farve, før ordren åbnes på Pikobuy.",
+          "Bed om et tydeligere detaljefoto, hvis tryk, søm eller mål stadig er uklart."
+        ]
+      }
+    },
+    "hubs": {
+      "qc": {
+        "title": "Pikobuy QC-guide: fotos, mål og returnering",
+        "description": "Kontrollér Pikobuy QC-fotos mod ordren: størrelse, farve, antal og synlig tilstand. Se, hvornår mere dokumentation er nødvendig før fragt.",
+        "sections": [
+          {
+            "id": "match-order",
+            "heading": "Match billederne med din egen ordre",
+            "paragraphs": [
+              "Start med ordrereference, variant og antal. Sammenlign lagerposten med det faktisk købte produkt, ikke en lignende annonce. Dette uafhængige katalogs billeder er produktfotos, ikke tilknyttede QC-beviser for din ordre."
+            ]
+          },
+          {
+            "id": "check-evidence",
+            "heading": "Kontrollér synlige detaljer og mål",
+            "paragraphs": [
+              "Gennemgå farve, mærker, sømme, trykplacering, tilbehør og synlige skader. Bestil det størrelsesmål, der påvirker beslutningen, med samme metode som sælgerens tabel. Et tydeligt mærke fastslår ikke pasform, og et foto beviser ikke materiale, ægthed eller holdbar funktion."
+            ]
+          },
+          {
+            "id": "request-detail",
+            "heading": "Bed om den detalje, der kan ændre beslutningen",
+            "paragraphs": [
+              "Angiv vare og del, der skal vises. Bed eksempelvis om tøjet fladt med målebånd synligt fra kant til kant. Bekræft tjeneste og pris hos Pikobuy. Forbliver billedet utilstrækkeligt, så bevar usikkerheden i vurderingen frem for at betragte det som godkendelse."
+            ]
+          },
+          {
+            "id": "decide-before-shipping",
+            "heading": "Træf beslutningen før pakkeregistrering",
+            "paragraphs": [
+              "Godkend varen, bed om afklaring, eller søg en tilladt retur, mens varen er på lageret. Kontrollér aktuelle returvilkår hurtigt, og behold nødvendig emballage. Afslut beslutningen før samforsendelse eller irreversible emballageændringer. Gem kontrolposten sammen med den endelige pakkeliste."
+            ]
+          }
+        ],
+        "sourceIds": [
+          "official-guide",
+          "official-user-agreement",
+          "official-returns"
+        ]
+      },
+      "shipping": {
+        "title": "Pikobuy-fragt: beregner, priser og sporing",
+        "description": "Planlæg Pikobuy-fragt med den officielle beregner, pakket vægt og mål. Sammenlign muligheder, saml godkendte varer, og følg sporing efter afsendelse.",
+        "sections": [
+          {
+            "id": "estimate-first",
+            "heading": "Beregn pakken før budgettet bindes",
+            "paragraphs": [
+              "Brug den officielle beregner med faktisk leveringsland, produkttype, vægt og tre mål. Adskil målte værdier fra gæt. Sammenlign samme pakke på tværs af muligheder, og gem dato, valuta, fragtmulighed og inkluderede ydelser med hvert resultat."
+            ]
+          },
+          {
+            "id": "complete-budget",
+            "heading": "Adskil produktbetaling og international fragt",
+            "paragraphs": [
+              "En katalogpris er en vejledende produktpris i USD. International fragt og mulige tillæg er udeladt. Hold købsbetaling, fragtbetaling og bekræftede tilvalgs- eller destinationsudgifter på separate budgetlinjer. Afklar ukendte beløb frem for at sætte dem til nul."
+            ]
+          },
+          {
+            "id": "pack-after-qc",
+            "heading": "Vælg emballage efter QC",
+            "paragraphs": [
+              "Afklar størrelse og tilstand, før lagervarer samles. Kontrollér, om emballageændringer påvirker beskyttelse eller retur. Sammenlign pakkens endelige vægt og mål med estimatets værdier; antag ikke, at samling altid reducerer totalen."
+            ]
+          },
+          {
+            "id": "follow-dispatch",
+            "heading": "Spor fra den faktiske afsendelse",
+            "paragraphs": [
+              "Guidens tre dage gælder sporingsoplysninger efter afsendelse, ikke levering inden tre dage. Skeln mellem produktbetaling, lagerankomst, pakkeregistrering og transportørbevægelse. Brug pakkereference og sidste bekræftede hændelse ved spørgsmål til support om manglende opdatering."
+            ]
+          }
+        ],
+        "sourceIds": [
+          "official-estimate",
+          "official-guide",
+          "official-contact"
+        ]
+      }
+    }
+  }
 }

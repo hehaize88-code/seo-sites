@@ -14,7 +14,7 @@
     "related": "Related articles",
     "allArticles": "All articles",
     "latestArticles": "Latest articles",
-    "articleCount": "10 practical guides",
+    "articleCount": "13 practical guides",
     "sourceLink": "Official source"
   },
   "faq": [
@@ -304,7 +304,8 @@
       "related": [
         "spreadsheet",
         "articles/pikobuy-product-links",
-        "articles/pikobuy-haul-budget"
+        "articles/pikobuy-haul-budget",
+        "articles/pikobuy-parcel-consolidation"
       ]
     },
     {
@@ -409,7 +410,8 @@
       "related": [
         "spreadsheet",
         "articles/pikobuy-qc-measurements",
-        "articles/pikobuy-shoe-sizing"
+        "articles/pikobuy-shoe-sizing",
+        "articles/pikobuy-parcel-consolidation"
       ]
     },
     {
@@ -515,7 +517,8 @@
       "related": [
         "guide",
         "articles/pikobuy-spreadsheet-checklist",
-        "faq"
+        "faq",
+        "articles/pikobuy-parcel-consolidation"
       ]
     },
     {
@@ -602,6 +605,14 @@
             "Return to the original question and choose a next step. The evidence may support proceeding, leave a specific issue unresolved or justify discussing a return. Save the response with the order record and note which measurement or visible detail informed your decision.",
             "If a problem remains, check the current order status and applicable return conditions promptly. Do not spend time collecting decorative angles while an actionable mismatch goes unreported. Your record should make the issue easy to explain: what was intended, what the photograph shows and what resolution you are requesting. Keep uncertain observations labelled as uncertain."
           ]
+        },
+        {
+          "id": "approve-or-ask",
+          "heading": "8. Turn the measurement into a clear decision",
+          "paragraphs": [
+            "Compare the photographed measurement with your target using the same endpoints and units. If the tape begins away from zero, the garment is folded or the endpoints are not visible, request a clearer measurement instead of accepting a precise-looking number. Record whether the remaining uncertainty would change your size choice.",
+            "Approve only after the evidence answers the question that matters to you. If it does not, request the missing detail or check the current return options promptly. Keep the original packaging while deciding, and finish the decision before adding the item to a consolidated parcel. The photo is evidence for this particular order; it is not a universal size chart for future purchases."
+          ]
         }
       ],
       "sourceIds": [
@@ -612,8 +623,10 @@
       "related": [
         "qc",
         "articles/pikobuy-clothing-size-chart",
-        "articles/pikobuy-warehouse-returns"
-      ]
+        "articles/pikobuy-warehouse-returns",
+        "articles/pikobuy-parcel-consolidation"
+      ],
+      "updated": "2026-10-29"
     },
     {
       "slug": "pikobuy-haul-budget",
@@ -735,7 +748,8 @@
       "related": [
         "shipping",
         "articles/pikobuy-parcel-weight-dimensions",
-        "articles/pikobuy-spreadsheet-checklist"
+        "articles/pikobuy-spreadsheet-checklist",
+        "articles/pikobuy-shipping-calculator"
       ]
     },
     {
@@ -831,7 +845,8 @@
       "related": [
         "shipping",
         "articles/pikobuy-haul-budget",
-        "articles/pikobuy-warehouse-returns"
+        "articles/pikobuy-warehouse-returns",
+        "articles/pikobuy-shipping-calculator"
       ]
     },
     {
@@ -937,7 +952,8 @@
       "related": [
         "spreadsheet",
         "articles/pikobuy-qc-measurements",
-        "articles/pikobuy-parcel-weight-dimensions"
+        "articles/pikobuy-parcel-weight-dimensions",
+        "articles/pikobuy-parcel-consolidation"
       ]
     },
     {
@@ -1039,7 +1055,8 @@
       "related": [
         "spreadsheet",
         "articles/pikobuy-qc-measurements",
-        "articles/pikobuy-parcel-weight-dimensions"
+        "articles/pikobuy-parcel-weight-dimensions",
+        "articles/pikobuy-parcel-consolidation"
       ]
     },
     {
@@ -1132,6 +1149,14 @@
             "Keep a short timeline of the request, acknowledgements, additional evidence and decisions. Reply to the existing case where appropriate so the context remains together. If support asks for a missing detail, answer that question directly rather than starting a new description of the entire purchase.",
             "Before authorising a step, check that it refers to the correct item and the resolution you understand. Retain confirmation of what was accepted and what still remains pending. A request submitted, a seller response and a completed refund are different events. Recording each separately helps you follow the outcome without mistaking progress for completion."
           ]
+        },
+        {
+          "id": "before-consolidation",
+          "heading": "8. Resolve returns before consolidation",
+          "paragraphs": [
+            "Keep an item with an unresolved return request separate from your ready-to-ship list. Record the warehouse status timestamp, the problem, supporting photos and the resolution you requested. Check the current policy and the deadline shown for your order; waiting for another seller’s item does not establish an extension.",
+            "Before requesting packaging removal or international dispatch, confirm whether the item is approved for shipping or still awaiting a seller decision. Keep labels, seals and required packaging intact while eligibility is being considered. Ask official support for the exact applicable costs rather than assuming that a return is free or that a general example covers your case."
+          ]
         }
       ],
       "sourceIds": [
@@ -1141,8 +1166,10 @@
       "related": [
         "qc",
         "articles/pikobuy-qc-measurements",
-        "articles/pikobuy-haul-budget"
-      ]
+        "articles/pikobuy-haul-budget",
+        "articles/pikobuy-parcel-consolidation"
+      ],
+      "updated": "2026-10-29"
     },
     {
       "slug": "pikobuy-tracking-not-updating",
@@ -1238,6 +1265,14 @@
             "Update the log when a meaningful event arrives, and avoid interpreting repeated checks of the same page as new evidence. Preserve any instructions or response that changes the expected next action. If a deadline or escalation step is supplied for your case, record it explicitly.",
             "When the parcel arrives, compare the contents with your item list and retained inspection record. Keep the relevant packaging and labels while any discrepancy is being clarified. Tracking completion and a satisfactory contents check are separate observations. A clean record helps you explain either a delivery issue or an item issue without mixing the two."
           ]
+        },
+        {
+          "id": "quick-triage",
+          "heading": "8. Quick triage: match the gap to the next action",
+          "paragraphs": [
+            "No dispatch record: check the parcel submission and shipping payment in your account. Dispatch recorded but no tracking information beyond the official guidance: ask Pikobuy to confirm the handover. A carrier event exists but has stopped: retain its exact wording and timestamp and check the service’s current instructions. A delivery exception asks for action: verify the request through the legitimate platform or carrier channel.",
+            "Include the parcel reference, actual dispatch date and latest confirmed event in one support request. Do not start the timeline from the product purchase date, and do not interpret the guide’s three-day tracking statement as a delivery guarantee. If your parcel contains several orders, use the consolidated parcel reference for international tracking."
+          ]
         }
       ],
       "sourceIds": [
@@ -1247,8 +1282,506 @@
       "related": [
         "shipping",
         "guide",
-        "faq"
-      ]
+        "faq",
+        "articles/pikobuy-shipping-calculator"
+      ],
+      "updated": "2026-10-29"
+    },
+    {
+      "slug": "pikobuy-shipping-calculator",
+      "title": "Pikobuy Shipping Calculator: Estimate Your Full Parcel Cost",
+      "description": "Use the Pikobuy shipping calculator with the right weight, dimensions and destination. Compare quotes and separate freight from your total order budget.",
+      "intro": "A useful Pikobuy shipping estimate starts with a defined parcel, not just a product price or an assumed number of kilograms. Record your destination, the items you intend to send and the packaging you need. Then use the official calculator to compare the options it actually offers. This guide gives you a repeatable worksheet for comparing estimates without treating them as a final bill.",
+      "sections": [
+        {
+          "id": "prepare-inputs",
+          "heading": "1. Prepare the inputs that change the estimate",
+          "paragraphs": [
+            "The official estimator asks for a destination, product type, weight in kilograms and length, width and height in centimetres. Start by writing these values in one place. Mark each value as measured or estimated, and keep the date beside it. Before warehouse arrival, a seller’s product weight may exclude retail packaging, padding and the outer parcel. Treat it as a planning input, not the confirmed shipment weight.",
+            "Use the actual destination of delivery. The language you are browsing in does not select a shipping country, and a quote shared by another buyer may use different inputs. For a mixed parcel, check how the available product types describe its contents. If a battery, liquid, fragile component or other unusual item does not fit clearly, ask Pikobuy which category and route conditions apply before relying on the result."
+          ]
+        },
+        {
+          "id": "separate-costs",
+          "heading": "2. Separate freight from the full order budget",
+          "paragraphs": [
+            "Write the product payment and the later international shipping payment on separate lines. Then add any confirmed domestic delivery, optional handling, payment conversion and destination charges as their own entries. Do not add a fee merely because another buyer mentioned it; mark it as unconfirmed until you have evidence for your order. Equally, an empty field should mean unknown, rather than free.",
+            "This catalog displays indicative product prices in USD. A price on a card is not an international shipping quote. Keep the currency of each actual payment visible and compare totals in one chosen currency using the rate and payment charge available to you. A favourable product price can still leave too little budget for the finished parcel. Set your maximum complete budget before deciding how many products to buy."
+          ]
+        },
+        {
+          "id": "measure-parcel",
+          "heading": "3. Use packed dimensions, not a guessed shipping rule",
+          "paragraphs": [
+            "Measure or request the outer parcel’s length, width and height after choosing its packaging. Record actual weight separately. Do not assume that a light but bulky parcel will be priced only by its scale weight. Pikobuy’s guide says routes differ in billing methods, so read the method shown for the option you are comparing. This article does not assign a universal volumetric-weight divisor to every route.",
+            "As an arithmetic example only, a box measuring 40 × 30 × 20 cm occupies 24,000 cubic centimetres. Reducing its height to 15 cm changes that to 18,000 cubic centimetres. This demonstrates a change in volume, not a promised price reduction. The available route, its billing steps, protective packaging and the final measurements still decide whether the change affects the quote. Do not remove necessary protection just to reproduce a smaller example."
+          ]
+        },
+        {
+          "id": "compare-like-for-like",
+          "heading": "4. Compare two options with the same parcel",
+          "paragraphs": [
+            "Run your comparison with the same destination, contents and measurements. Record the exact route label and the time you obtained each result. A second quote for a lighter parcel is not evidence that its route is cheaper. If the quote changes while you are adjusting packaging, keep the old inputs so that you can explain the difference instead of attributing it automatically to a new rate.",
+            "Use the worksheet below for each candidate. Copy the terms that are actually shown, and ask about missing information before paying. A blank transit estimate or unclear inclusion is a question to resolve. When insurance, handling or another optional service appears, compare the total with the same options selected. The cheapest displayed starting price may not represent the complete service you want."
+          ],
+          "table": {
+            "headers": [
+              "Record",
+              "Option A",
+              "Option B"
+            ],
+            "rows": [
+              [
+                "Destination and contents",
+                "Use the same inputs",
+                "Use the same inputs"
+              ],
+              [
+                "Packed weight and dimensions",
+                "Record measured or estimated",
+                "Record measured or estimated"
+              ],
+              [
+                "Route and billing method",
+                "Copy the displayed terms",
+                "Copy the displayed terms"
+              ],
+              [
+                "Total and included services",
+                "Record currency and exclusions",
+                "Record currency and exclusions"
+              ],
+              [
+                "Estimate date and unresolved questions",
+                "Keep with the quote",
+                "Keep with the quote"
+              ]
+            ]
+          }
+        },
+        {
+          "id": "test-packaging",
+          "heading": "5. Compare packaging scenarios without assuming savings",
+          "paragraphs": [
+            "Make one scenario for the packaging you need and another only if a practical alternative is available. For shoes, distinguish keeping the retail box from protecting the shoes themselves. For a fragile item, identify which protection is essential. For clothing, check whether your measurements describe a loosely packed group of items or the parcel the warehouse is actually preparing. These differences should be visible in your notes.",
+            "Ask for confirmation before requesting irreversible packaging changes. Tags, seals and original packaging can matter to return eligibility, so resolve any inspection or return decision first. A smaller parcel is not automatically the better outcome if an item becomes harder to protect or return. Record both the requested change and the confirmed result; do not replace a measured value with the number you hoped the warehouse would achieve."
+          ]
+        },
+        {
+          "id": "reconcile-final-quote",
+          "heading": "6. Reconcile the estimate with the final parcel quote",
+          "paragraphs": [
+            "Before paying for international shipping, compare the final parcel record with your worksheet. Check the item list, destination, route, packed weight, dimensions and selected services. If the amount differs, identify the input or charge that changed. An earlier screenshot helps distinguish a new measurement from an option you accidentally selected. Ask for a breakdown when the difference remains unexplained.",
+            "Keep the quote, payment confirmation and parcel reference together. They answer different questions: the quote describes the offer, the payment record shows what you paid, and the parcel record connects the shipment to its contents. A successful product payment does not prove that international freight has also been paid. Follow the actual account workflow rather than treating all transactions as one order total."
+          ]
+        },
+        {
+          "id": "handle-missing-data",
+          "heading": "7. When the calculator gives no useful result",
+          "paragraphs": [
+            "First check the units, destination and product category. A missing option does not by itself establish that an item can never be shipped, and it does not justify selecting an inaccurate category to force a quote. Save the inputs and ask official support whether the contents and dimensions are eligible for a currently available route. Avoid placing more orders merely to reach a parcel size someone else recommends.",
+            "If you are still waiting for warehouse measurements, keep a range of possible budgets in your own planning notes and label the assumptions. Do not publish one provisional result as a standard Pikobuy shipping price. When the missing detail becomes available, replace the assumption and rerun the comparison. This gives you an auditable decision without inventing rates, guaranteed savings or delivery dates."
+          ]
+        },
+        {
+          "id": "before-payment",
+          "heading": "8. Finish with a short decision record",
+          "paragraphs": [
+            "Your final record should say which items are included, which inspection questions are resolved, which packaging you approved and why the chosen route fits your needs. Include the full amount and any remaining charges you have been told are excluded. If a cost remains unknown and would break your budget, clarify it before making the next payment.",
+            "For a mixed order, use the consolidation guide before finalising the parcel. For destination-specific planning, use the Europe shipping checklist. After dispatch, switch to the tracking guide rather than continuing to use the calculator as evidence of progress. Estimating, buying, inspecting and tracking are connected tasks, but each needs its own evidence."
+          ]
+        },
+        {
+          "id": "worked-comparison",
+          "heading": "9. Worked comparison: change one assumption at a time",
+          "paragraphs": [
+            "A buyer is planning to send two pairs of shoes and a sweatshirt. Before warehouse arrival, the buyer has only item weights from listings and no packed dimensions. The first worksheet therefore marks weight and size as estimates. After QC, the buyer decides to retain one shoe box and asks what packaging is appropriate for the other pair. No price is assumed at this stage.",
+            "Once the warehouse provides the resulting parcel measurements, the buyer enters those values in the official calculator and records the available options. If the quote is over budget, the next question is whether a different eligible configuration changes the complete cost. The buyer compares that configuration with the original using the same destination and service assumptions. This example illustrates a method, not an actual order, rate or saving. The key is to identify which input changed before accepting the new result."
+          ]
+        }
+      ],
+      "sourceIds": [
+        "official-estimate",
+        "official-guide",
+        "official-returns"
+      ],
+      "related": [
+        "shipping",
+        "articles/pikobuy-parcel-weight-dimensions",
+        "articles/pikobuy-haul-budget",
+        "articles/pikobuy-parcel-consolidation"
+      ],
+      "published": "2026-10-29",
+      "updated": "2026-10-29"
+    },
+    {
+      "slug": "pikobuy-shipping-europe",
+      "title": "Pikobuy Shipping to Europe: Destination and Delivery Checklist",
+      "description": "Plan Pikobuy shipping to the Netherlands, Germany and other European destinations: check route availability, address, parcel costs and tracking stages.",
+      "intro": "Planning Pikobuy shipping to Europe requires a quote for your actual delivery country and parcel. A guide written in Dutch, German or English cannot establish which routes are available to your account today. Use this destination checklist to prepare the right inputs, compare the options shown by Pikobuy and keep the records you need from warehouse approval through delivery.",
+      "sections": [
+        {
+          "id": "choose-destination",
+          "heading": "1. Start with the delivery country, not the site language",
+          "paragraphs": [
+            "Select the country where the parcel will be delivered in the official shipping estimator. A buyer shipping to the Netherlands should use that destination even when reading an English guide. Apply the same principle to Germany, France, Spain or another country. The languages on this site help you read the guidance; they do not represent separate carrier contracts or a promise that every route serves every destination.",
+            "Record the postcode and the destination details needed for the real parcel submission. Check spelling, house or building number, apartment information where relevant and the recipient’s contact details in the actual form. Do not assume the calculator has validated a complete address simply because it accepted a country. If your address has an unusual format or delivery restriction, resolve that question through the platform before dispatch."
+          ]
+        },
+        {
+          "id": "define-contents",
+          "heading": "2. Define the contents before comparing European routes",
+          "paragraphs": [
+            "List every item you intend to send and resolve any warehouse inspection question first. Keep the chosen size, colour and quantity beside the item reference so that a parcel is built from approved items. One item still awaiting a seller response can change when you are ready to submit the whole parcel. A delivery plan based on an incomplete list will become unreliable when the contents change.",
+            "Describe any special contents accurately when asking about eligibility. Do not infer permission for a battery, liquid or fragile item from a route name or from another person’s successful delivery. Restrictions and handling depend on the actual service and contents. Ask which current option accepts your parcel, and retain the response with the estimate. An attractive quote is useful only if the parcel can legitimately use that service."
+          ]
+        },
+        {
+          "id": "compare-route-records",
+          "heading": "3. Compare the service shown for your destination",
+          "paragraphs": [
+            "For each available option, save the route name, quoted amount, currency, relevant billing method and any displayed transit estimate. Keep the weight and dimensions unchanged during the comparison. The official guide says routes can differ in time and billing, but it does not establish one universally best route to Europe. Choose from the options currently shown for your own parcel and needs.",
+            "Ask what the quoted service includes when the wording is unclear. A route label alone is not enough evidence for every charge, handling step or delivery promise. Do not substitute a social-media price list for the offer in your account. If two results use different packaging or optional services, make those differences explicit before comparing the totals. Keep screenshots dated so that an older quote is not mistaken for a current offer."
+          ]
+        },
+        {
+          "id": "budget-destination",
+          "heading": "4. Leave room for charges outside the displayed freight",
+          "paragraphs": [
+            "Separate the product cost, domestic delivery, international freight, optional services and any applicable destination charges in your planning sheet. Do not assume the freight figure is the final amount payable for every cross-border order. Equally, do not add an arbitrary percentage or a fee copied from a different destination. Record what the chosen service actually includes and what remains to be confirmed.",
+            "For duties, taxes, declarations and local requirements, check the current requirements for the exact delivery destination and the terms of your chosen service. This checklist provides no tax threshold, tax rate or legal exemption. Use accurate contents and values in the required forms; a route name or an informal description from another buyer does not replace those requirements. Ask for clarification when the platform’s wording leaves a material cost uncertain."
+          ]
+        },
+        {
+          "id": "plan-timeline",
+          "heading": "5. Build the timeline from separate milestones",
+          "paragraphs": [
+            "Your overall wait may include seller fulfilment, domestic delivery to the warehouse, inspection, any correction or return decision, parcel preparation and international transport. Keep those stages separate in your notes. An international transit estimate does not automatically include time spent waiting for a seller or for your own approval. For a date-sensitive purchase, evaluate the complete sequence rather than counting only the carrier portion.",
+            "Pikobuy’s guide places its tracking-information expectation after dispatch. That is not a three-day delivery promise, and it does not start when you pay for an item. Record the actual dispatch event and follow the tracking reference associated with that parcel. If a stage is unclear, ask what has been completed and what action is still needed instead of inferring progress from the age of the product order."
+          ]
+        },
+        {
+          "id": "destination-worksheet",
+          "heading": "6. Use one worksheet per destination and parcel",
+          "paragraphs": [
+            "A separate worksheet prevents information for different recipients or orders from being mixed together. The following fields work for the Netherlands, Germany and other destinations without assuming identical routes or charges. They are a planning template, not verified quotes or a country-by-country delivery table. Complete the fields from your own current records.",
+            "If you change the destination, item list or packaging, create a fresh comparison. Preserve the previous version so you can see why the amount or available services changed. This is particularly useful when one friend shares a quote with another: compare the inputs first, then assess whether the example is relevant at all. Never treat the country name alone as a complete parcel specification."
+          ],
+          "table": {
+            "headers": [
+              "Planning field",
+              "What to retain"
+            ],
+            "rows": [
+              [
+                "Destination and recipient",
+                "The country and checked address details"
+              ],
+              [
+                "Approved contents",
+                "Item references, variants and quantities"
+              ],
+              [
+                "Parcel measurements",
+                "Packed weight and three outer dimensions"
+              ],
+              [
+                "Selected service",
+                "Current route, total, inclusions and open questions"
+              ],
+              [
+                "Dispatch and tracking",
+                "Parcel reference, dispatch record and last confirmed event"
+              ]
+            ]
+          }
+        },
+        {
+          "id": "last-mile",
+          "heading": "7. Follow the handover and last delivery stage",
+          "paragraphs": [
+            "After dispatch, read the complete tracking event, timestamp and source. Electronic shipment information is not the same as a physical carrier acceptance scan. If the record identifies a delivery partner or another tracking reference, use the details actually supplied. Do not guess the local carrier from the destination country alone, and do not assume every route follows the same sequence of tracking messages.",
+            "For a delivery exception, check the legitimate platform or carrier channel for the requested action. Confirm an address, collection requirement or other instruction only through a verified channel. Keep the exact message and any response. A tracking gap does not by itself prove loss, while an estimated date does not prove the parcel has arrived. Use the tracking troubleshooting article when the evidence stops changing."
+          ]
+        },
+        {
+          "id": "receive-parcel",
+          "heading": "8. Close the loop when the parcel arrives",
+          "paragraphs": [
+            "Compare the received contents with the approved item list and retained inspection photos. Keep the shipping label, packaging and relevant records while any missing or damaged item is being clarified. A delivered tracking status answers a transport question; it does not by itself confirm the contents or their condition. Document a specific discrepancy promptly through official support rather than combining several unrelated complaints.",
+            "For your next order, review which assumptions changed: packing size, service choice, seller waiting time or an unexpected charge. Update your own planning method, but do not turn one parcel’s experience into a universal delivery guarantee. Starting with current destination inputs, approved contents and an evidence-based timeline makes the next comparison easier without promising a result the available information cannot support."
+          ]
+        },
+        {
+          "id": "worked-timeline",
+          "heading": "9. Worked timeline: separate a seller delay from transport",
+          "paragraphs": [
+            "Consider a hypothetical order intended for delivery in the Netherlands. One garment has reached the warehouse and passed the buyer’s checks, while a second item is still awaiting a seller update. The buyer has not yet submitted an international parcel. Even if the calculator displays a transit estimate, that estimate cannot establish when the incomplete order will arrive at the recipient’s address.",
+            "The buyer records the first item’s storage conditions and any unresolved deadline, asks about the second item and compares waiting with shipping only the approved item. After the final parcel is submitted and dispatch is recorded, the buyer begins the international tracking timeline using the parcel reference. If a later carrier event pauses, the support request concerns that event rather than the earlier seller delay. This is a planning example, not a published delivery schedule. Keeping the milestones separate makes both the decision and any support question more precise."
+          ]
+        }
+      ],
+      "sourceIds": [
+        "official-estimate",
+        "official-guide",
+        "official-terms",
+        "official-contact"
+      ],
+      "related": [
+        "shipping",
+        "articles/pikobuy-shipping-calculator",
+        "articles/pikobuy-tracking-not-updating",
+        "articles/pikobuy-parcel-consolidation"
+      ],
+      "published": "2026-10-29",
+      "updated": "2026-10-29"
+    },
+    {
+      "slug": "pikobuy-parcel-consolidation",
+      "title": "Pikobuy Parcel Consolidation: Combine Orders After QC",
+      "description": "Combine Pikobuy warehouse items with a clear QC, packaging and cost checklist. Compare one parcel with separate shipments without assuming guaranteed savings.",
+      "intro": "Pikobuy says items from different sellers can be combined into one parcel. The useful question is whether your particular items are ready to travel together, with suitable packaging and a quote you understand. Consolidation should follow your inspection decisions. This guide helps you prepare a clear item list, compare practical packing options and confirm the parcel before paying for international shipping.",
+      "sections": [
+        {
+          "id": "build-item-list",
+          "heading": "1. Build an item list before choosing a parcel",
+          "paragraphs": [
+            "Record the order reference, product, selected size or colour, quantity and current warehouse status for each item you want to send. Separate received items from those still with a seller or in domestic transit. The fact that one order is ready does not establish that the rest have arrived. Keep a note of any item you plan to exclude so that an old shortlist is not mistaken for the final packing instruction.",
+            "For items bought from different sellers, retain the original order references even if they later share one parcel number. These references are useful when you need to explain a missing quantity, a wrong variant or a seller-specific issue. A single international shipment does not erase the separate purchase histories. Your final parcel list should connect each included item to the record you actually checked."
+          ]
+        },
+        {
+          "id": "finish-qc",
+          "heading": "2. Finish QC and return decisions first",
+          "paragraphs": [
+            "Review the warehouse evidence for the items that have arrived. Match the reference, variant and quantity before looking at visible condition and requested measurements. A catalog photograph is not evidence of the condition of your particular order. If the available photos cannot answer an important question, request the relevant detail through Pikobuy and confirm any charge before deciding to ship the item.",
+            "Keep an unresolved item out of the ready-to-ship group until you decide what to do. The published returns policy has timing and eligibility conditions, so waiting for another seller must not distract you from a decision on an item already in the warehouse. Preserve tags, seals and packaging while return eligibility is being clarified. Do not authorise their removal merely to prepare a consolidation estimate."
+          ]
+        },
+        {
+          "id": "choose-wait-or-send",
+          "heading": "3. Decide whether waiting for another item is useful",
+          "paragraphs": [
+            "Compare the practical consequences of waiting with sending the approved items now. Record the missing item, its confirmed status and any relevant deadline shown for the items already stored. The public forwarding terms do not establish one universal free storage period for all orders. Check the current storage conditions for your own items instead of assuming a fixed number of free days from another website.",
+            "Waiting may produce a different parcel configuration, but it does not guarantee a saving or a particular dispatch date. A late item can also change the dimensions or the eligible route. If you have a date-sensitive purchase, weigh the complete sequence of remaining steps. Keep the decision simple: which evidence is missing, what deadline matters, and what you will do if the missing item is still not ready."
+          ]
+        },
+        {
+          "id": "specify-packaging",
+          "heading": "4. Give precise packaging instructions",
+          "paragraphs": [
+            "Identify what protection each item needs and which retail packaging you want to retain. Shoes, soft clothing and fragile accessories do not necessarily need identical handling. If you are considering removing a box, specify the item and confirm that the inspection or return decision is complete first. Avoid vague instructions such as removing all packaging when different items have different requirements.",
+            "Pikobuy’s shopping guide mentions minimal and reinforced packaging requests. Confirm what is available for your parcel and whether the service changes the charge or dimensions. A request is not proof that the finished parcel has the dimensions you expected. Ask for the resulting packed measurements when they become available, and compare those with the numbers used in your earlier estimate."
+          ]
+        },
+        {
+          "id": "compare-configurations",
+          "heading": "5. Compare one parcel with realistic alternatives",
+          "paragraphs": [
+            "Compare the quote for the approved combined parcel with the total of the separate parcels you would actually send. Use the same destination and a clear list of contents for each option. Include the selected packaging and any confirmed handling services. Comparing one complete parcel against only one half of a split shipment will understate the alternative cost.",
+            "The table below is a decision worksheet, not evidence that splitting or combining is always cheaper. Fill it with current measurements and quotes. The result depends on the actual eligible routes and their billing methods. Keep product purchase costs separate when they are unchanged between options; the comparison should make the differences visible rather than count the same purchase twice."
+          ],
+          "table": {
+            "headers": [
+              "Check",
+              "Combined parcel",
+              "Separate parcels"
+            ],
+            "rows": [
+              [
+                "Contents",
+                "All approved items together",
+                "State the items in each parcel"
+              ],
+              [
+                "Packaging",
+                "Protection and retained boxes",
+                "Protection needed for each parcel"
+              ],
+              [
+                "Measurements",
+                "One final packed weight and size",
+                "A weight and size for every parcel"
+              ],
+              [
+                "Shipping comparison",
+                "Complete quoted total",
+                "Sum of all quoted totals"
+              ],
+              [
+                "Open questions",
+                "Eligibility and unresolved services",
+                "Eligibility and unresolved services for each parcel"
+              ]
+            ]
+          }
+        },
+        {
+          "id": "confirm-submission",
+          "heading": "6. Confirm the parcel before payment",
+          "paragraphs": [
+            "Read the final item list and quantities against your own record. Check the delivery address, route, packaging instructions and amount before submitting or paying. If an item is absent, do not assume it will be added automatically because it belongs to the same account. If an unexpected item is included, resolve it before the parcel is dispatched. A clear confirmation is easier than reconstructing your intention later.",
+            "Keep the final parcel reference alongside the individual order references. Record what the platform confirms about weight, dimensions and included services. If a total changes after packing, compare it with your earlier estimate and identify the changed input. Ask a focused question about an unexplained difference rather than assuming that the original estimate was a binding final price."
+          ]
+        },
+        {
+          "id": "support-template",
+          "heading": "7. Ask a question that support can act on",
+          "paragraphs": [
+            "A useful request identifies the items, the action you want and the point that needs confirmation. For example: please confirm whether the listed warehouse items can share a parcel to my selected destination, with the stated packaging retained, and advise the resulting weight, dimensions and current shipping options. Replace the general description with your actual references inside the official account channel.",
+            "If you are comparing configurations, make clear which item list belongs to each option. If you need a photo before deciding, specify the part or measurement that is missing. Keep account credentials and payment secrets out of messages and public screenshots. This independent guide cannot inspect private orders or issue warehouse instructions on your behalf; use Pikobuy’s official contact route for the decision."
+          ]
+        },
+        {
+          "id": "check-delivery",
+          "heading": "8. Check the contents as well as the tracking result",
+          "paragraphs": [
+            "Follow the international parcel using its own tracking record after dispatch. A seller’s domestic tracking number does not necessarily track the combined shipment. Preserve the parcel list and inspection evidence through delivery. When the package arrives, compare the contents and quantities with that list before closing your record, especially when several sellers’ items share one outer box.",
+            "If something is missing or visibly damaged, document the specific discrepancy and retain relevant labels and packaging while you contact support. Distinguish an item problem from a delivery-status problem. For future planning, note whether consolidation changed the measurements, available routes or handling you needed. Use the result to improve your own checklist, without treating one order as proof of universal savings."
+          ]
+        },
+        {
+          "id": "worked-item-list",
+          "heading": "9. Worked item list: keep one unresolved item separate",
+          "paragraphs": [
+            "Imagine that a buyer has ordered a T-shirt, a pair of shoes and a small bag from three sellers. The T-shirt’s size and condition have been checked. The shoes need an additional measurement, and the bag has not reached the warehouse. The ready list contains only the T-shirt; it should not silently include the other two items simply because all three were purchased for the same planned shipment.",
+            "The buyer requests the shoe measurement, checks the bag’s latest confirmed status and records the storage and return conditions relevant to the arrived items. After receiving enough evidence, the buyer can compare a parcel of approved items with a later alternative that includes the bag. Each option needs its own actual contents and measurements. This hypothetical example does not recommend waiting or splitting in every case. It shows why an explicit item list is more useful than a general instruction to combine everything in the account."
+          ]
+        }
+      ],
+      "sourceIds": [
+        "official-contact",
+        "official-guide",
+        "official-shipping",
+        "official-returns"
+      ],
+      "related": [
+        "qc",
+        "articles/pikobuy-warehouse-returns",
+        "articles/pikobuy-shipping-calculator",
+        "articles/pikobuy-tracking-not-updating"
+      ],
+      "published": "2026-10-29",
+      "updated": "2026-10-29"
     }
-  ]
+  ],
+  "growth": {
+    "homeTitle": "Pikobuy Spreadsheet: Product Links, QC & Shipping Guides",
+    "homeDescription": "Browse Pikobuy product links for shoes and clothing. Compare USD prices, check sizing and QC, and plan shipping with practical guides.",
+    "catalogTitle": "Pikobuy Spreadsheet: Shoes, Clothing & Product Links",
+    "catalogDescription": "Search the Pikobuy spreadsheet by category and compare product prices in USD. Open product details, check sizes and continue to Pikobuy.",
+    "categoryGuideHeading": "Before choosing an item",
+    "categories": {
+      "shoes": {
+        "title": "Pikobuy Shoes Spreadsheet: Links, Sizes & QC",
+        "description": "Browse shoe links in the Pikobuy spreadsheet, compare USD prices and check size measurements, warehouse photos and packaging before shipping.",
+        "intro": "Compare shoe listings by the exact size and variant you intend to order. A familiar size label is a starting point, not proof of fit. Open the original details and check the seller’s measurements before payment. Product photographs on this page are listing images, not QC photos of your own order.",
+        "checks": [
+          "Compare the seller’s size chart with a comfortable pair you already own.",
+          "Ask for the measurement or label photo needed to resolve a size question.",
+          "Decide whether to keep the shoe box after completing QC and any return decision."
+        ]
+      },
+      "sweatshirts": {
+        "title": "Pikobuy Hoodies & Sweatshirts Spreadsheet",
+        "description": "Find hoodie and sweatshirt product links, compare USD prices and check chest, length and sleeve measurements before ordering through Pikobuy.",
+        "intro": "Choose a hoodie or sweatshirt using garment measurements and your preferred fit. Compare chest width, body length and sleeves with a garment you already wear. The same size letter can describe different cuts, so check the selected listing and variant rather than assuming a universal size conversion.",
+        "checks": [
+          "Compare measurements taken with the same method and in the same units.",
+          "Check the selected colour, hood, zip and pocket details in the original listing.",
+          "Review warehouse photos before including the garment in a combined parcel."
+        ]
+      },
+      "tshirts": {
+        "title": "Pikobuy T-Shirts Spreadsheet: Links & Size Checks",
+        "description": "Browse T-shirt product links and USD prices. Compare chest and length measurements, inspect the selected variant and plan warehouse QC before shipping.",
+        "intro": "Compare T-shirts using chest width, body length and the fit you want. Listing photos help identify a design, but do not confirm the measurements or condition of the item sent to the warehouse. Keep the selected size and colour with your order reference so you can compare them with later inspection photos.",
+        "checks": [
+          "Measure a T-shirt you like and compare the seller’s measuring method.",
+          "Confirm the chosen size and colour before opening the order on Pikobuy.",
+          "Request a clearer detail photo if a print, seam or measurement remains uncertain."
+        ]
+      }
+    },
+    "hubs": {
+      "qc": {
+        "title": "Pikobuy QC Guide: Photos, Measurements & Returns",
+        "description": "Check Pikobuy QC photos against your order: size, colour, quantity and visible condition. Learn when to request more evidence before shipping.",
+        "sections": [
+          {
+            "id": "match-order",
+            "heading": "Match the photos to your own order",
+            "paragraphs": [
+              "Start with the order reference, selected variant and quantity. Compare the warehouse record with the product you actually bought, not a similar listing. Images in this independent catalog are product photos; they are not linked QC evidence for your order."
+            ]
+          },
+          {
+            "id": "check-evidence",
+            "heading": "Check visible details and measurements",
+            "paragraphs": [
+              "Review colour, labels, seams, print placement, accessories and visible damage. For sizing, request the specific measurement that affects your decision, using the same method as the seller’s chart. A clear label does not establish fit, and a photograph does not establish material composition, authenticity or long-term performance."
+            ]
+          },
+          {
+            "id": "request-detail",
+            "heading": "Request the detail that would change your decision",
+            "paragraphs": [
+              "State which item and which part must be shown. For example, ask for the garment laid flat with the measuring tape visible from edge to edge. Confirm the available service and fee within Pikobuy. If a photo remains inconclusive, keep that uncertainty visible instead of treating it as approval."
+            ]
+          },
+          {
+            "id": "decide-before-shipping",
+            "heading": "Decide before parcel submission",
+            "paragraphs": [
+              "Approve the item, request clarification or pursue an eligible return while the item is still in the warehouse. Check the current return conditions promptly and preserve required packaging. Complete this decision before consolidation or irreversible packaging changes. Keep the inspection record with your final parcel list."
+            ]
+          }
+        ],
+        "sourceIds": [
+          "official-guide",
+          "official-user-agreement",
+          "official-returns"
+        ]
+      },
+      "shipping": {
+        "title": "Pikobuy Shipping: Calculator, Costs & Tracking",
+        "description": "Plan Pikobuy shipping with the official calculator, packed weight and dimensions. Compare routes, combine approved items and follow tracking after dispatch.",
+        "sections": [
+          {
+            "id": "estimate-first",
+            "heading": "Estimate the parcel before committing your budget",
+            "paragraphs": [
+              "Use the official calculator with the actual delivery country, product type, weight and three dimensions. Keep measured values separate from guesses. Compare the same parcel across the available options and save the date, currency, route and included services with each result."
+            ]
+          },
+          {
+            "id": "complete-budget",
+            "heading": "Separate product payment and international freight",
+            "paragraphs": [
+              "A catalog price is an indicative product price in USD. It excludes international shipping and possible additional charges. Keep the purchasing payment, shipping payment and any confirmed optional or destination costs in separate budget lines. Clarify an unknown amount instead of treating it as zero."
+            ]
+          },
+          {
+            "id": "pack-after-qc",
+            "heading": "Choose packaging after QC",
+            "paragraphs": [
+              "Resolve sizing and condition questions before combining warehouse items. Check whether packaging changes affect protection or a possible return. Compare the finished parcel’s weight and dimensions with the values used in the estimate; do not assume that combining items always reduces the total."
+            ]
+          },
+          {
+            "id": "follow-dispatch",
+            "heading": "Track the shipment from its actual dispatch",
+            "paragraphs": [
+              "The official guide’s three-day statement concerns tracking information after dispatch, not delivery within three days. Distinguish product payment, warehouse arrival, parcel submission and carrier movement. Keep the parcel reference and last confirmed event when asking support about a missing update."
+            ]
+          }
+        ],
+        "sourceIds": [
+          "official-estimate",
+          "official-guide",
+          "official-contact"
+        ]
+      }
+    }
+  }
 }

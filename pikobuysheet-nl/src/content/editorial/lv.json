@@ -14,7 +14,7 @@
     "related": "Saistītie raksti",
     "allArticles": "Visi raksti",
     "latestArticles": "Jaunākie raksti",
-    "articleCount": "10 praktiski ceļveži",
+    "articleCount": "13 praktiski ceļveži",
     "sourceLink": "Oficiālais avots"
   },
   "faq": [
@@ -304,7 +304,8 @@
       "related": [
         "spreadsheet",
         "articles/pikobuy-product-links",
-        "articles/pikobuy-haul-budget"
+        "articles/pikobuy-haul-budget",
+        "articles/pikobuy-parcel-consolidation"
       ]
     },
     {
@@ -409,7 +410,8 @@
       "related": [
         "spreadsheet",
         "articles/pikobuy-qc-measurements",
-        "articles/pikobuy-shoe-sizing"
+        "articles/pikobuy-shoe-sizing",
+        "articles/pikobuy-parcel-consolidation"
       ]
     },
     {
@@ -515,7 +517,8 @@
       "related": [
         "guide",
         "articles/pikobuy-spreadsheet-checklist",
-        "faq"
+        "faq",
+        "articles/pikobuy-parcel-consolidation"
       ]
     },
     {
@@ -602,6 +605,14 @@
             "Atgriezies pie sākotnējā jautājuma un izvēlies nākamo soli. Pierādījumi var atbalstīt turpināšanu, atstāt konkrētu problēmu neatrisinātu vai pamatot sarunu par atgriešanu. Saglabā atbildi kopā ar pasūtījuma datiem un norādi, kurš mērījums vai redzamā detaļa ietekmēja lēmumu.",
             "Ja problēma saglabājas, nekavējoties pārbaudi pasūtījuma pašreizējo statusu un piemērojamos atgriešanas nosacījumus. Netērē laiku dekoratīvu skatu vākšanai, kamēr nav ziņots par konkrētu neatbilstību. Ierakstam jāpalīdz viegli izskaidrot problēmu: kas bija paredzēts, ko rāda fotoattēls un kādu risinājumu lūdz. Nenoteiktus novērojumus arī turpmāk atzīmē kā nenoteiktus."
           ]
+        },
+        {
+          "id": "approve-or-ask",
+          "heading": "8. Pārvērtiet mērījumu skaidrā lēmumā",
+          "paragraphs": [
+            "Fotogrāfijas mērījumu salīdziniet ar vēlamo, lietojot tos pašus galapunktus un vienības. Ja lente nesākas no nulles, apģērbs salocīts vai gali nav redzami, lūdziet skaidrāku mērījumu, nevis pieņemiet šķietami precīzu skaitli. Pierakstiet, vai atlikusī neskaidrība mainītu izmēra izvēli.",
+            "Apstipriniet tikai tad, kad pierādījums atbild uz svarīgo jautājumu. Citādi pieprasiet trūkstošo detaļu vai ātri pārbaudiet aktuālās atgriešanas iespējas. Lēmuma laikā saglabājiet oriģinālo iepakojumu un izlemiet pirms preces pievienošanas kopīgai pakai. Foto ir pierādījums šim pasūtījumam, ne universāla izmēru tabula nākamajiem pirkumiem."
+          ]
         }
       ],
       "sourceIds": [
@@ -612,8 +623,10 @@
       "related": [
         "qc",
         "articles/pikobuy-clothing-size-chart",
-        "articles/pikobuy-warehouse-returns"
-      ]
+        "articles/pikobuy-warehouse-returns",
+        "articles/pikobuy-parcel-consolidation"
+      ],
+      "updated": "2026-10-29"
     },
     {
       "slug": "pikobuy-haul-budget",
@@ -735,7 +748,8 @@
       "related": [
         "shipping",
         "articles/pikobuy-parcel-weight-dimensions",
-        "articles/pikobuy-spreadsheet-checklist"
+        "articles/pikobuy-spreadsheet-checklist",
+        "articles/pikobuy-shipping-calculator"
       ]
     },
     {
@@ -831,7 +845,8 @@
       "related": [
         "shipping",
         "articles/pikobuy-haul-budget",
-        "articles/pikobuy-warehouse-returns"
+        "articles/pikobuy-warehouse-returns",
+        "articles/pikobuy-shipping-calculator"
       ]
     },
     {
@@ -937,7 +952,8 @@
       "related": [
         "spreadsheet",
         "articles/pikobuy-qc-measurements",
-        "articles/pikobuy-parcel-weight-dimensions"
+        "articles/pikobuy-parcel-weight-dimensions",
+        "articles/pikobuy-parcel-consolidation"
       ]
     },
     {
@@ -1039,7 +1055,8 @@
       "related": [
         "spreadsheet",
         "articles/pikobuy-qc-measurements",
-        "articles/pikobuy-parcel-weight-dimensions"
+        "articles/pikobuy-parcel-weight-dimensions",
+        "articles/pikobuy-parcel-consolidation"
       ]
     },
     {
@@ -1132,6 +1149,14 @@
             "Glabā īsu pieprasījuma, saņemšanas apstiprinājumu, papildu pierādījumu un lēmumu hronoloģiju. Ja piemēroti, atbildi esošajā pieteikumā, lai konteksts paliktu vienuviet. Ja atbalsts jautā trūkstošu detaļu, atbildi tieši uz šo jautājumu, nevis sāc no jauna aprakstīt visu pirkumu.",
             "Pirms atļauj nākamo darbību, pārbaudi, vai tā attiecas uz pareizo preci un tev saprotamo risinājumu. Saglabā apstiprinājumu par pieņemto un to, kas vēl gaida. Iesniegts pieprasījums, pārdevēja atbilde un pabeigta naudas atmaksa ir dažādi notikumi. To atsevišķa pierakstīšana palīdz sekot iznākumam, nesajaucot progresu ar pabeigšanu."
           ]
+        },
+        {
+          "id": "before-consolidation",
+          "heading": "8. Atgriešanu atrisiniet pirms apvienošanas",
+          "paragraphs": [
+            "Preci ar neatrisinātu atgriešanas pieprasījumu turiet atsevišķi no sūtīšanai gatavā saraksta. Pierakstiet noliktavas statusa laiku, problēmu, foto un prasīto risinājumu. Pārbaudiet pašreizējo politiku un pasūtījuma termiņu; cita pārdevēja preces gaidīšana termiņu nepagarina.",
+            "Pirms iepakojuma izņemšanas vai starptautiskās nosūtīšanas apstipriniet, vai prece atļauta sūtīšanai vai vēl gaida pārdevēja lēmumu. Kamēr vērtē atbilstību, saglabājiet etiķetes, plombas un vajadzīgo iepakojumu. Par precīzām piemērojamām izmaksām jautājiet oficiālajam atbalstam, nevis pieņemiet bezmaksas atgriešanu vai vispārīga piemēra atbilstību jūsu gadījumam."
+          ]
         }
       ],
       "sourceIds": [
@@ -1141,8 +1166,10 @@
       "related": [
         "qc",
         "articles/pikobuy-qc-measurements",
-        "articles/pikobuy-haul-budget"
-      ]
+        "articles/pikobuy-haul-budget",
+        "articles/pikobuy-parcel-consolidation"
+      ],
+      "updated": "2026-10-29"
     },
     {
       "slug": "pikobuy-tracking-not-updating",
@@ -1238,6 +1265,14 @@
             "Atjaunini žurnālu, kad pienāk nozīmīgs notikums, un neuztver atkārtotu tās pašas lapas pārbaudi kā jaunu pierādījumu. Saglabā norādījumus vai atbildes, kas maina paredzēto nākamo darbību. Ja tavai lietai norādīts termiņš vai jautājuma tālākas izskatīšanas solis, skaidri pieraksti to.",
             "Kad sūtījums pienāk, salīdzini saturu ar savu preču sarakstu un saglabāto pārbaudes ierakstu. Saglabā attiecīgo iepakojumu un etiķetes, kamēr tiek noskaidrota jebkāda neatbilstība. Pabeigta izsekošana un apmierinoša satura pārbaude ir atsevišķi novērojumi. Sakārtots ieraksts palīdz izskaidrot piegādes vai preces problēmu, nesajaucot tās."
           ]
+        },
+        {
+          "id": "quick-triage",
+          "heading": "8. Ātra pārbaude: pauzei piesaistiet nākamo darbību",
+          "paragraphs": [
+            "Nav nosūtīšanas ieraksta: kontā pārbaudiet pakas iesniegšanu un piegādes apmaksu. Nosūtīšana reģistrēta, bet izsekošanas nav ilgāk par oficiālo norādi: lūdziet Pikobuy apstiprināt nodošanu. Pārvadātāja notikums ir, bet nemainās: glabājiet precīzu tekstu un laiku, pārbaudiet aktuālās pakalpojuma norādes. Piegādes izņēmums prasa rīcību: pārbaudiet prasību leģitīmā platformas vai pārvadātāja kanālā.",
+            "Vienā atbalsta pieprasījumā norādiet pakas numuru, īsto nosūtīšanas datumu un pēdējo apstiprināto notikumu. Laika līniju nesāciet ar preces pirkuma datumu un trīs dienu izsekošanas norādi neuztveriet kā piegādes garantiju. Ja pakā vairāki pasūtījumi, starptautiskajai izsekošanai izmantojiet apvienotās pakas numuru."
+          ]
         }
       ],
       "sourceIds": [
@@ -1247,8 +1282,506 @@
       "related": [
         "shipping",
         "guide",
-        "faq"
-      ]
+        "faq",
+        "articles/pikobuy-shipping-calculator"
+      ],
+      "updated": "2026-10-29"
+    },
+    {
+      "slug": "pikobuy-shipping-calculator",
+      "title": "Pikobuy piegādes kalkulators: aprēķiniet visu pakas cenu",
+      "description": "Pikobuy piegādes kalkulatorā izmantojiet pareizu svaru, izmērus un galamērķi. Salīdziniet piedāvājumus un nodaliet pārvadājumu no visa pasūtījuma budžeta.",
+      "intro": "Noderīga Pikobuy piegādes aplēse sākas ar skaidri noteiktu paku, nevis tikai preces cenu vai pieņemtu kilogramu skaitu. Pierakstiet galamērķi, sūtāmās preces un nepieciešamo iepakojumu. Pēc tam oficiālajā kalkulatorā salīdziniet patiešām piedāvātās iespējas. Šis ceļvedis sniedz atkārtojamu salīdzināšanas tabulu, lai aplēsi nesajauktu ar galīgo rēķinu.",
+      "sections": [
+        {
+          "id": "prepare-inputs",
+          "heading": "1. Sagatavojiet datus, kas maina aplēsi",
+          "paragraphs": [
+            "Oficiālais kalkulators prasa galamērķi, preces tipu, svaru kilogramos un garumu, platumu un augstumu centimetros. Vispirms šīs vērtības pierakstiet vienuviet. Atzīmējiet, vai katra vērtība ir izmērīta vai aptuvena, un pievienojiet datumu. Pirms ierašanās noliktavā pārdevēja norādītais preces svars var neietvert mazumtirdzniecības iepakojumu, aizsargmateriālus un ārējo kasti. Uzskatiet to par plānošanas ievadi, nevis apstiprinātu sūtījuma svaru.",
+            "Izmantojiet īsto piegādes galamērķi. Pārlūkošanas valoda neizvēlas piegādes valsti, un cita pircēja piedāvājums var izmantot atšķirīgus datus. Jauktai pakai pārbaudiet, kā pieejamie preču tipi raksturo tās saturu. Ja baterija, šķidrums, trausla detaļa vai cita neparasta prece skaidri neatbilst kategorijai, pirms paļaujaties uz rezultātu, jautājiet Pikobuy par piemērojamo kategoriju un maršruta nosacījumiem."
+          ]
+        },
+        {
+          "id": "separate-costs",
+          "heading": "2. Nodaliet pārvadājumu no visa pasūtījuma budžeta",
+          "paragraphs": [
+            "Preču apmaksu un vēlāko starptautiskās piegādes apmaksu ierakstiet atsevišķās rindās. Tad atsevišķi pievienojiet apstiprinātu vietējo piegādi, papildu apstrādi, valūtas maiņu maksājumā un galamērķa izmaksas. Nepievienojiet maksu tikai tāpēc, ka to minējis cits pircējs; kamēr nav pierādījuma jūsu pasūtījumam, atzīmējiet to kā neapstiprinātu. Arī tukšam laukam jānozīmē nezināms, nevis bez maksas.",
+            "Šajā katalogā redzamas orientējošas preču cenas USD. Kartītes cena nav starptautiskās piegādes piedāvājums. Saglabājiet redzamu katra faktiskā maksājuma valūtu, bet kopējās summas salīdziniet vienā izvēlētā valūtā ar jums pieejamo kursu un maksājuma maksu. Izdevīga preces cena joprojām var atstāt par maz līdzekļu gatavai pakai. Maksimālo kopējo budžetu nosakiet pirms lēmuma par preču skaitu."
+          ]
+        },
+        {
+          "id": "measure-parcel",
+          "heading": "3. Izmantojiet iepakotas pakas izmērus, nevis minētu aprēķina likumu",
+          "paragraphs": [
+            "Pēc iepakojuma izvēles izmēriet vai pieprasiet pakas ārējo garumu, platumu un augstumu. Faktisko svaru pierakstiet atsevišķi. Nepieņemiet, ka vieglu, bet apjomīgu paku rēķinās tikai pēc svaru rādījuma. Pikobuy ceļvedis norāda, ka maršrutu aprēķina metodes atšķiras, tāpēc lasiet salīdzināmās iespējas metodi. Šis raksts nenosaka vienu universālu tilpumsvara dalītāju visiem maršrutiem.",
+            "Tikai kā aritmētisks piemērs, 40 × 30 × 20 cm kaste aizņem 24 000 kubikcentimetru. Samazinot augstumu līdz 15 cm, tilpums ir 18 000 kubikcentimetru. Tas parāda tilpuma izmaiņu, nevis sola zemāku cenu. Pieejamais maršruts, tā aprēķina soļi, aizsargiepakojums un galīgie mērījumi joprojām nosaka ietekmi uz piedāvājumu. Neizņemiet vajadzīgo aizsardzību tikai mazākā piemēra atkārtošanai."
+          ]
+        },
+        {
+          "id": "compare-like-for-like",
+          "heading": "4. Salīdziniet divas iespējas vienai pakai",
+          "paragraphs": [
+            "Salīdzinājumā saglabājiet to pašu galamērķi, saturu un mērījumus. Pierakstiet precīzu maršruta nosaukumu un katra rezultāta iegūšanas laiku. Otrs piedāvājums vieglākai pakai nepierāda, ka tā maršruts ir lētāks. Ja piedāvājums mainās, pielāgojot iepakojumu, saglabājiet iepriekšējos datus, lai varētu izskaidrot starpību, nevis automātiski saistīt to ar jaunu tarifu.",
+            "Katrai iespējai izmantojiet zemāk redzamo tabulu. Pārrakstiet patiešām attēlotos noteikumus un par trūkstošo jautājiet pirms maksāšanas. Trūkstoša pārvadājuma laika aplēse vai neskaidrs iekļautais pakalpojums ir risināms jautājums. Ja pieejama apdrošināšana, apstrāde vai cits papildu pakalpojums, salīdziniet kopsummas ar vienādām izvēlēm. Zemākā sākumcena var neatspoguļot visu nepieciešamo pakalpojumu."
+          ],
+          "table": {
+            "headers": [
+              "Ieraksts",
+              "A iespēja",
+              "B iespēja"
+            ],
+            "rows": [
+              [
+                "Galamērķis un saturs",
+                "Izmantojiet vienādus datus",
+                "Izmantojiet vienādus datus"
+              ],
+              [
+                "Iepakots svars un izmēri",
+                "Atzīmējiet izmērīts vai aptuvens",
+                "Atzīmējiet izmērīts vai aptuvens"
+              ],
+              [
+                "Maršruts un aprēķina metode",
+                "Pārrakstiet redzamos noteikumus",
+                "Pārrakstiet redzamos noteikumus"
+              ],
+              [
+                "Kopsumma un pakalpojumi",
+                "Pierakstiet valūtu un neiekļauto",
+                "Pierakstiet valūtu un neiekļauto"
+              ],
+              [
+                "Aplēses datums un atvērtie jautājumi",
+                "Glabājiet pie piedāvājuma",
+                "Glabājiet pie piedāvājuma"
+              ]
+            ]
+          }
+        },
+        {
+          "id": "test-packaging",
+          "heading": "5. Salīdziniet iepakojuma scenārijus, nepieņemot ietaupījumu",
+          "paragraphs": [
+            "Izveidojiet vienu scenāriju ar vajadzīgo iepakojumu un otru tikai tad, ja ir praktiska alternatīva. Apaviem nodaliet veikala kastes saglabāšanu no pašu apavu aizsardzības. Trauslai precei nosakiet būtisko aizsardzību. Apģērbam pārbaudiet, vai izmēri raksturo vaļīgi saliktas preces vai paku, ko noliktava patiešām gatavo. Šīm atšķirībām jābūt redzamām piezīmēs.",
+            "Pirms neatgriezeniskām iepakojuma izmaiņām lūdziet apstiprinājumu. Etiķetes, plombas un oriģinālais iepakojums var ietekmēt atgriešanas iespēju, tāpēc vispirms pabeidziet pārbaudi un atgriešanas lēmumu. Mazāka paka nav automātiski labāka, ja preci grūtāk aizsargāt vai atgriezt. Pierakstiet pieprasīto izmaiņu un apstiprināto rezultātu; neaizstājiet izmērītu vērtību ar cerēto skaitli."
+          ]
+        },
+        {
+          "id": "reconcile-final-quote",
+          "heading": "6. Saskaņojiet aplēsi ar galīgo pakas piedāvājumu",
+          "paragraphs": [
+            "Pirms starptautiskās piegādes apmaksas salīdziniet galīgo pakas ierakstu ar tabulu. Pārbaudiet preču sarakstu, galamērķi, maršrutu, iepakoto svaru, izmērus un izvēlētos pakalpojumus. Ja summa atšķiras, nosakiet mainīto ievadi vai maksu. Iepriekšējs ekrānuzņēmums palīdz atšķirt jaunu mērījumu no nejauši izvēlētas opcijas. Ja starpība nav izskaidrota, lūdziet sadalījumu.",
+            "Piedāvājumu, maksājuma apstiprinājumu un pakas numuru glabājiet kopā. Tie atbild uz dažādiem jautājumiem: piedāvājums raksturo pakalpojumu, maksājums parāda samaksāto, bet pakas ieraksts sasaista sūtījumu ar saturu. Veiksmīga preces apmaksa nepierāda, ka arī starptautiskais pārvadājums ir apmaksāts. Sekojiet īstajai konta darbību secībai, nevis visus darījumus uzskatiet par vienu pasūtījuma summu."
+          ]
+        },
+        {
+          "id": "handle-missing-data",
+          "heading": "7. Kad kalkulators nesniedz noderīgu rezultātu",
+          "paragraphs": [
+            "Vispirms pārbaudiet mērvienības, galamērķi un kategoriju. Trūkstoša iespēja pati par sevi nenozīmē, ka preci nekad nevar nosūtīt, un neattaisno arī nepareizas kategorijas izvēli cenas iegūšanai. Saglabājiet ievadi un oficiālajam atbalstam jautājiet, vai saturs un izmēri atbilst pašlaik pieejamam maršrutam. Nepasūtiet vairāk tikai tāpēc, lai sasniegtu kāda cita ieteiktu pakas lielumu.",
+            "Ja vēl gaidāt noliktavas mērījumus, personīgajā plānā saglabājiet iespējamo budžetu diapazonu un atzīmējiet pieņēmumus. Vienu pagaidu rezultātu nepublicējiet kā standarta Pikobuy piegādes cenu. Kad trūkstošais kļūst zināms, nomainiet pieņēmumu un atkārtojiet salīdzinājumu. Tas dod pārbaudāmu lēmumu bez izdomātiem tarifiem, garantēta ietaupījuma vai piegādes datumiem."
+          ]
+        },
+        {
+          "id": "before-payment",
+          "heading": "8. Noslēdziet ar īsu lēmuma ierakstu",
+          "paragraphs": [
+            "Galīgajam ierakstam jānorāda iekļautās preces, atrisinātie pārbaudes jautājumi, apstiprinātais iepakojums un iemesls, kādēļ maršruts atbilst vajadzībām. Iekļaujiet pilno summu un atlikušās izmaksas, par kurām jums teikts, ka tās nav iekļautas. Ja nezināma maksa varētu pārsniegt budžetu, noskaidrojiet to pirms nākamā maksājuma.",
+            "Jauktam pasūtījumam pirms pakas pabeigšanas izmantojiet apvienošanas ceļvedi. Plānošanai pēc galamērķa izmantojiet piegādes uz Eiropu kontrolsarakstu. Pēc nosūtīšanas pārejiet uz izsekošanas ceļvedi, nevis turpiniet izmantot kalkulatoru kā kustības pierādījumu. Aplēse, pirkšana, pārbaude un izsekošana ir saistītas, tomēr katrai vajadzīgi savi pierādījumi."
+          ]
+        },
+        {
+          "id": "worked-comparison",
+          "heading": "9. Salīdzinājuma piemērs: mainiet vienu pieņēmumu reizē",
+          "paragraphs": [
+            "Pircējs plāno nosūtīt divus apavu pārus un džemperi. Pirms ierašanās noliktavā viņam ir tikai sludinājumu svari, bez iepakotās pakas izmēriem. Pirmajā tabulā svars un lielums tāpēc atzīmēti kā aptuveni. Pēc QC pircējs nolemj saglabāt vienu apavu kasti un jautā par piemērotu iepakojumu otram pārim. Šajā posmā cena netiek pieņemta kā zināma.",
+            "Kad noliktava sniedz gatavās pakas izmērus, pircējs tos ievada oficiālajā kalkulatorā un pieraksta iespējas. Ja cena pārsniedz budžetu, nākamais jautājums ir, vai cita atļauta konfigurācija maina kopējās izmaksas. Pircējs to salīdzina ar sākotnējo, saglabājot galamērķi un pakalpojuma pieņēmumus. Piemērs rāda metodi, nevis īstu pasūtījumu, tarifu vai ietaupījumu. Pirms jauna rezultāta pieņemšanas svarīgi atklāt mainīto ievadi."
+          ]
+        }
+      ],
+      "sourceIds": [
+        "official-estimate",
+        "official-guide",
+        "official-returns"
+      ],
+      "related": [
+        "shipping",
+        "articles/pikobuy-parcel-weight-dimensions",
+        "articles/pikobuy-haul-budget",
+        "articles/pikobuy-parcel-consolidation"
+      ],
+      "published": "2026-10-29",
+      "updated": "2026-10-29"
+    },
+    {
+      "slug": "pikobuy-shipping-europe",
+      "title": "Pikobuy piegāde uz Eiropu: galamērķa un piegādes kontrolsaraksts",
+      "description": "Plānojiet Pikobuy piegādi uz Nīderlandi, Vāciju un citām Eiropas valstīm: pārbaudiet maršrutus, adresi, pakas izmaksas un izsekošanas posmus.",
+      "intro": "Pikobuy piegādes plānošanai uz Eiropu vajadzīgs piedāvājums faktiskajai piegādes valstij un pakai. Ceļvedis holandiešu, vācu vai angļu valodā nevar noteikt, kādi maršruti jūsu kontam pieejami šodien. Šis kontrolsaraksts palīdz sagatavot pareizos datus, salīdzināt Pikobuy rādītās iespējas un saglabāt ierakstus no apstiprināšanas noliktavā līdz saņemšanai.",
+      "sections": [
+        {
+          "id": "choose-destination",
+          "heading": "1. Sāciet ar piegādes valsti, nevis vietnes valodu",
+          "paragraphs": [
+            "Oficiālajā kalkulatorā izvēlieties valsti, kur paka tiks piegādāta. Pircējam, kurš sūta uz Nīderlandi, jāizvēlas šis galamērķis arī lasot angliski. Tāpat rīkojieties ar Vāciju, Franciju, Spāniju un citām valstīm. Vietnes valodas palīdz lasīt norādes; tās nenozīmē atsevišķus pārvadātāju līgumus vai solījumu, ka katrs maršruts apkalpo katru vietu.",
+            "Pierakstiet pasta indeksu un galamērķa datus, kas vajadzīgi īstai pakas iesniegšanai. Veidlapā pārbaudiet rakstību, mājas numuru, vajadzīgos dzīvokļa datus un saņēmēja kontaktus. Nepieņemiet, ka kalkulators pārbaudījis pilnu adresi tikai tāpēc, ka pieņēmis valsti. Neparastu adreses formātu vai piegādes ierobežojumu ar platformu atrisiniet pirms nosūtīšanas."
+          ]
+        },
+        {
+          "id": "define-contents",
+          "heading": "2. Nosakiet saturu pirms Eiropas maršrutu salīdzināšanas",
+          "paragraphs": [
+            "Uzskaitiet visas sūtāmās preces un vispirms atrisiniet noliktavas pārbaudes jautājumus. Izvēlēto izmēru, krāsu un daudzumu turiet pie preces numura, lai paka veidotos no apstiprinātām precēm. Viena prece, kas gaida pārdevēja atbildi, var mainīt visas pakas iesniegšanas laiku. Plāns, kas balstīts uz nepilnīgu sarakstu, kļūst neuzticams, ja saturs mainās.",
+            "Jautājot par atbilstību, precīzi aprakstiet īpašo saturu. Neizseciniet baterijas, šķidruma vai trauslas preces atļauju no maršruta nosaukuma vai cita cilvēka veiksmīgas piegādes. Ierobežojumi un apstrāde atkarīgi no īstā pakalpojuma un satura. Jautājiet, kura pašreizējā iespēja pieņem jūsu paku, un atbildi glabājiet pie aplēses. Pievilcīgs piedāvājums noder tikai tad, ja paka drīkst izmantot pakalpojumu."
+          ]
+        },
+        {
+          "id": "compare-route-records",
+          "heading": "3. Salīdziniet savam galamērķim parādīto pakalpojumu",
+          "paragraphs": [
+            "Katrai pieejamai iespējai saglabājiet maršruta nosaukumu, cenu, valūtu, piemērojamo aprēķina metodi un redzamo pārvadājuma laika aplēsi. Salīdzinājumā nemainiet svaru un izmērus. Oficiālais ceļvedis norāda, ka laiks un aprēķins atšķiras, bet nenosaka vienu visiem labāko maršrutu uz Eiropu. Izvēlieties no pašlaik redzamajām iespējām savai pakai un vajadzībām.",
+            "Ja formulējums ir neskaidrs, jautājiet, ko pakalpojums ietver. Ar maršruta nosaukumu vien nepietiek, lai pierādītu visas maksas, apstrādes posmus vai piegādes solījumus. Neaizvietojiet konta piedāvājumu ar sociālo tīklu cenrādi. Ja divi rezultāti izmanto citu iepakojumu vai papildpakalpojumus, skaidri norādiet atšķirības pirms summu salīdzināšanas. Datējiet ekrānuzņēmumus, lai vecs piedāvājums netiktu sajaukts ar aktuālu."
+          ]
+        },
+        {
+          "id": "budget-destination",
+          "heading": "4. Paredziet vietu izmaksām ārpus redzamā pārvadājuma",
+          "paragraphs": [
+            "Plānošanas lapā nodaliet preču cenu, vietējo piegādi, starptautisko pārvadājumu, papildpakalpojumus un iespējamās galamērķa izmaksas. Nepieņemiet, ka pārvadājuma cena ir galīgā summa katram pārrobežu pasūtījumam. Tāpat nepievienojiet patvaļīgu procentu vai citas valsts maksu. Pierakstiet, ko pakalpojums patiešām ietver un kas vēl jāapstiprina.",
+            "Par muitu, nodokļiem, deklarācijām un vietējām prasībām pārbaudiet aktuālos noteikumus konkrētajai piegādes vietai un izvēlētajam pakalpojumam. Šis saraksts nesniedz nodokļu slieksni, likmi vai juridisku atbrīvojumu. Veidlapās norādiet pareizu saturu un vērtības; maršruta nosaukums vai cita pircēja neformāls apraksts neaizstāj šīs prasības. Lūdziet skaidrojumu, ja platformas formulējums atstāj būtiskas izmaksas neskaidras."
+          ]
+        },
+        {
+          "id": "plan-timeline",
+          "heading": "5. Laika plānu veidojiet no atsevišķiem posmiem",
+          "paragraphs": [
+            "Kopējā gaidīšana var ietvert pārdevēja izpildi, vietējo piegādi uz noliktavu, pārbaudi, labojumu vai atgriešanas lēmumu, pakas sagatavošanu un starptautisko transportu. Šos posmus pierakstos nodaliet. Starptautiskā pārvadājuma aplēse automātiski neietver pārdevēja vai jūsu apstiprinājuma gaidīšanu. Pirkumam uz konkrētu datumu izvērtējiet visu secību, ne tikai pārvadātāja daļu.",
+            "Pikobuy ceļvedis izsekošanas informācijas parādīšanos saista ar nosūtīšanu. Tas nav solījums piegādāt trīs dienās, un laiks nesākas ar preces apmaksu. Pierakstiet īsto nosūtīšanas notikumu un izmantojiet šai pakai piešķirto numuru. Ja posms neskaidrs, jautājiet, kas pabeigts un kāda darbība vēl vajadzīga, nevis spriediet pēc preces pasūtījuma vecuma."
+          ]
+        },
+        {
+          "id": "destination-worksheet",
+          "heading": "6. Katrai vietai un pakai izmantojiet savu tabulu",
+          "paragraphs": [
+            "Atsevišķa tabula novērš dažādu saņēmēju vai pasūtījumu informācijas sajaukšanu. Zemākie lauki der Nīderlandei, Vācijai un citām vietām, nepieņemot vienādus maršrutus vai maksas. Tā ir plānošanas veidne, ne pārbaudīta cena vai valstu piegādes termiņu tabula. Aizpildiet to ar saviem pašreizējiem ierakstiem.",
+            "Ja maināt galamērķi, preču sarakstu vai iepakojumu, veidojiet jaunu salīdzinājumu. Saglabājiet iepriekšējo versiju, lai redzētu summas vai pakalpojumu izmaiņu iemeslu. Tas īpaši noder, draugiem daloties piedāvājumos: vispirms salīdziniet datus un pēc tam vērtējiet piemēra atbilstību. Valsts nosaukumu vien nekad neuzskatiet par pilnu pakas specifikāciju."
+          ],
+          "table": {
+            "headers": [
+              "Plānošanas lauks",
+              "Ko glabāt"
+            ],
+            "rows": [
+              [
+                "Galamērķis un saņēmējs",
+                "Valsti un pārbaudītos adreses datus"
+              ],
+              [
+                "Apstiprināts saturs",
+                "Preču numurus, variantus un daudzumus"
+              ],
+              [
+                "Pakas mērījumi",
+                "Iepakotu svaru un trīs ārējos izmērus"
+              ],
+              [
+                "Izvēlētais pakalpojums",
+                "Pašreizējo maršrutu, summu, iekļauto un jautājumus"
+              ],
+              [
+                "Nosūtīšana un izsekošana",
+                "Pakas numuru, nosūtīšanas ierakstu un pēdējo apstiprināto notikumu"
+              ]
+            ]
+          }
+        },
+        {
+          "id": "last-mile",
+          "heading": "7. Sekojiet nodošanai un pēdējam piegādes posmam",
+          "paragraphs": [
+            "Pēc nosūtīšanas izlasiet visu izsekošanas notikumu, laika atzīmi un avotu. Elektroniska informācija par sūtījumu nav tas pats, kas fiziskas pieņemšanas ieraksts pie pārvadātāja. Ja ieraksts nosauc piegādes partneri vai citu numuru, izmantojiet patiešām norādītos datus. Neminiet vietējo pārvadātāju tikai pēc valsts un nepieņemiet vienādu ziņojumu secību visiem maršrutiem.",
+            "Piegādes izņēmuma gadījumā prasīto darbību pārbaudiet leģitīmā platformas vai pārvadātāja kanālā. Adresi, saņemšanas prasību vai citu norādi apstipriniet tikai pārbaudītā kanālā. Saglabājiet precīzu ziņojumu un atbildi. Izsekošanas pauze pati nepierāda nozaudēšanu, bet prognozēts datums nepierāda ierašanos. Kad informācija pārstāj mainīties, izmantojiet izsekošanas problēmu rakstu."
+          ]
+        },
+        {
+          "id": "receive-parcel",
+          "heading": "8. Pabeidziet pārbaudi, kad paka pienākusi",
+          "paragraphs": [
+            "Saņemto saturu salīdziniet ar apstiprināto sarakstu un saglabātajām pārbaudes fotogrāfijām. Kamēr skaidrojat trūkstošu vai bojātu preci, glabājiet sūtījuma etiķeti, iepakojumu un saistītos ierakstus. Statuss piegādāts atbild uz pārvadājuma jautājumu, bet pats neapstiprina saturu vai tā stāvokli. Konkrētu neatbilstību savlaicīgi dokumentējiet oficiālajam atbalstam, neapvienojot nesaistītas sūdzības.",
+            "Nākamajam pasūtījumam pārskatiet mainītos pieņēmumus: iepakojuma lielumu, pakalpojumu, pārdevēja gaidīšanu vai negaidītu maksu. Uzlabojiet savu plānošanu, bet vienas pakas pieredzi nepārvērtiet universālā piegādes garantijā. Aktuāli galamērķa dati, apstiprināts saturs un pierādīta laika līnija atvieglo nākamo salīdzinājumu bez nepamatota rezultāta solījuma."
+          ]
+        },
+        {
+          "id": "worked-timeline",
+          "heading": "9. Laika plāna piemērs: nodaliet pārdevēja kavēšanos no transporta",
+          "paragraphs": [
+            "Iedomājieties pasūtījumu uz Nīderlandi. Viens apģērbs jau ir noliktavā un izturējis pircēja pārbaudi, bet otrai precei vēl gaida pārdevēja ziņu. Pircējs vēl nav iesniedzis starptautisko paku. Pat ja kalkulators rāda pārvadājuma laiku, tas nevar noteikt, kad nepilnīgais pasūtījums sasniegs saņēmēja adresi.",
+            "Pircējs pieraksta pirmās preces glabāšanas noteikumus un atvērtos termiņus, jautā par otro preci un salīdzina gaidīšanu ar tikai apstiprinātās preces sūtīšanu. Kad galīgā paka iesniegta un nosūtīšana reģistrēta, viņš sāk starptautisko laika līniju ar pakas numuru. Ja vēlāk pārvadātāja notikums apstājas, atbalsta jautājums attiecas uz to, nevis agrāko pārdevēja kavēšanos. Tas ir plānošanas piemērs, ne publicēts piegādes grafiks. Atsevišķi posmi padara lēmumu un jautājumu precīzāku."
+          ]
+        }
+      ],
+      "sourceIds": [
+        "official-estimate",
+        "official-guide",
+        "official-terms",
+        "official-contact"
+      ],
+      "related": [
+        "shipping",
+        "articles/pikobuy-shipping-calculator",
+        "articles/pikobuy-tracking-not-updating",
+        "articles/pikobuy-parcel-consolidation"
+      ],
+      "published": "2026-10-29",
+      "updated": "2026-10-29"
+    },
+    {
+      "slug": "pikobuy-parcel-consolidation",
+      "title": "Pikobuy paku apvienošana: apvienojiet pasūtījumus pēc QC",
+      "description": "Apvienojiet Pikobuy noliktavas preces ar skaidru QC, iepakojuma un izmaksu sarakstu. Salīdziniet vienu paku ar atsevišķiem sūtījumiem, nepieņemot garantētu ietaupījumu.",
+      "intro": "Pikobuy norāda, ka dažādu pārdevēju preces var apvienot vienā pakā. Noderīgs jautājums ir, vai tieši jūsu preces gatavas ceļot kopā ar piemērotu iepakojumu un saprotamu piedāvājumu. Apvienošanai jāseko pārbaudes lēmumiem. Šis ceļvedis palīdz sagatavot skaidru sarakstu, salīdzināt praktiskas iepakošanas iespējas un apstiprināt paku pirms starptautiskās piegādes apmaksas.",
+      "sections": [
+        {
+          "id": "build-item-list",
+          "heading": "1. Pirms pakas izvēles izveidojiet preču sarakstu",
+          "paragraphs": [
+            "Katrai precei pierakstiet pasūtījuma numuru, produktu, izvēlēto izmēru vai krāsu, daudzumu un pašreizējo noliktavas statusu. Nodaliet saņemtās preces no tām, kas vēl pie pārdevēja vai vietējā transportā. Viena pasūtījuma gatavība neapstiprina pārējo ierašanos. Atzīmējiet arī izslēdzamās preces, lai vecs atlases saraksts netiktu sajaukts ar galīgām iepakošanas norādēm.",
+            "Dažādu pārdevēju precēm saglabājiet sākotnējos pasūtījumu numurus, pat ja vēlāk tās saņem vienu pakas numuru. Tie noder, skaidrojot trūkstošu daudzumu, nepareizu variantu vai konkrēta pārdevēja problēmu. Viens starptautisks sūtījums neizdzēš atsevišķās pirkumu vēstures. Galīgajam sarakstam katra prece jāsasaista ar ierakstu, kuru tiešām pārbaudījāt."
+          ]
+        },
+        {
+          "id": "finish-qc",
+          "heading": "2. Vispirms pabeidziet QC un atgriešanas lēmumus",
+          "paragraphs": [
+            "Pārskatiet pienākušo preču noliktavas pierādījumus. Pirms redzamā stāvokļa un prasītajiem mērījumiem saskaņojiet numuru, variantu un daudzumu. Kataloga attēls nav jūsu konkrētā pasūtījuma stāvokļa pierādījums. Ja pieejamās fotogrāfijas neatbild uz svarīgu jautājumu, caur Pikobuy prasiet vajadzīgo detaļu un pirms sūtīšanas lēmuma apstipriniet iespējamo maksu.",
+            "Neatrisinātu preci neiekļaujiet sūtīšanai gatavajā grupā, kamēr neizlemjat, ko darīt. Publicētajai atgriešanas politikai ir laika un atbilstības nosacījumi, tāpēc cita pārdevēja gaidīšana nedrīkst novērst uzmanību no jau noliktavā esošas preces. Kamēr skaidrojat atgriešanu, saglabājiet etiķetes, plombas un iepakojumu. Neatļaujiet tos izņemt tikai apvienošanas aplēses sagatavošanai."
+          ]
+        },
+        {
+          "id": "choose-wait-or-send",
+          "heading": "3. Izlemiet, vai ir lietderīgi gaidīt citu preci",
+          "paragraphs": [
+            "Salīdziniet gaidīšanas praktiskās sekas ar apstiprināto preču nosūtīšanu tagad. Pierakstiet trūkstošo preci, tās apstiprināto statusu un noliktavā esošo preču būtiskos termiņus. Publiskie pārsūtīšanas noteikumi nenosaka vienu universālu bezmaksas glabāšanas periodu visiem pasūtījumiem. Pārbaudiet savu preču aktuālos noteikumus, nevis pieņemiet citā vietnē minētu fiksētu dienu skaitu.",
+            "Gaidīšana var radīt citu pakas konfigurāciju, bet negarantē ietaupījumu vai konkrētu nosūtīšanas datumu. Vēlā prece var mainīt arī izmērus vai atļauto maršrutu. Ja pirkumam svarīgs datums, izvērtējiet visu atlikušo secību. Lēmumu veidojiet skaidru: kāds pierādījums trūkst, kurš termiņš svarīgs un ko darīsiet, ja prece vēl nebūs gatava."
+          ]
+        },
+        {
+          "id": "specify-packaging",
+          "heading": "4. Dodiet precīzas iepakošanas norādes",
+          "paragraphs": [
+            "Nosakiet katrai precei vajadzīgo aizsardzību un veikala iepakojumu, ko vēlaties saglabāt. Apaviem, mīkstam apģērbam un trausliem aksesuāriem ne vienmēr vajag vienādu apstrādi. Ja apsverat kastes izņemšanu, norādiet preci un vispirms apstipriniet pārbaudes vai atgriešanas lēmuma pabeigšanu. Izvairieties no neskaidras prasības izņemt visu iepakojumu, ja precēm ir dažādas vajadzības.",
+            "Pikobuy iepirkšanās ceļvedis min minimālu un pastiprinātu iepakošanu. Apstipriniet pieejamību savai pakai un ietekmi uz maksu vai izmēriem. Pieprasījums nepierāda, ka gatavai pakai būs gaidītie izmēri. Kad pieejami galīgie mērījumi, pieprasiet tos un salīdziniet ar agrākās aplēses skaitļiem."
+          ]
+        },
+        {
+          "id": "compare-configurations",
+          "heading": "5. Vienu paku salīdziniet ar reālām alternatīvām",
+          "paragraphs": [
+            "Apstiprinātas kopējās pakas piedāvājumu salīdziniet ar visu atsevišķo paku summu, kuras patiešām sūtītu. Izmantojiet vienu galamērķi un skaidru katra varianta saturu. Iekļaujiet izvēlēto iepakojumu un apstiprinātas apstrādes maksas. Pilnas pakas salīdzināšana tikai ar vienu sadalīta sūtījuma pusi samazinās alternatīvas cenu uz papīra.",
+            "Zemākā tabula ir lēmuma veidne, ne pierādījums, ka dalīšana vai apvienošana vienmēr lētāka. Aizpildiet ar aktuāliem mērījumiem un piedāvājumiem. Rezultāts atkarīgs no patiesi atļautajiem maršrutiem un to aprēķina metodēm. Ja preču pirkuma cenas abos variantos nemainās, turiet tās atsevišķi; salīdzinājumam jāizceļ atšķirības, nevis divreiz jāskaita tas pats pirkums."
+          ],
+          "table": {
+            "headers": [
+              "Pārbaude",
+              "Apvienota paka",
+              "Atsevišķas pakas"
+            ],
+            "rows": [
+              [
+                "Saturs",
+                "Visas apstiprinātās preces kopā",
+                "Norādiet katras pakas preces"
+              ],
+              [
+                "Iepakojums",
+                "Aizsardzība un saglabātās kastes",
+                "Aizsardzība katrai pakai"
+              ],
+              [
+                "Mērījumi",
+                "Viens galīgais iepakotais svars un izmērs",
+                "Katras pakas svars un izmērs"
+              ],
+              [
+                "Piegādes salīdzinājums",
+                "Pilna piedāvātā summa",
+                "Visu piedāvāto summu kopsumma"
+              ],
+              [
+                "Atvērtie jautājumi",
+                "Atbilstība un neatrisināti pakalpojumi",
+                "Katras pakas atbilstība un neatrisināti pakalpojumi"
+              ]
+            ]
+          }
+        },
+        {
+          "id": "confirm-submission",
+          "heading": "6. Apstipriniet paku pirms maksāšanas",
+          "paragraphs": [
+            "Galīgo preču sarakstu un daudzumu salīdziniet ar savu ierakstu. Pirms iesniegšanas vai apmaksas pārbaudiet adresi, maršrutu, iepakošanas norādes un summu. Ja preces trūkst, nepieņemiet automātisku pievienošanu tikai tāpēc, ka tā ir tajā pašā kontā. Ja iekļauta negaidīta prece, atrisiniet to pirms nosūtīšanas. Skaidrs apstiprinājums ir vienkāršāks nekā vēlāk rekonstruēt savu nodomu.",
+            "Galīgo pakas numuru glabājiet pie atsevišķiem pasūtījumu numuriem. Pierakstiet platformas apstiprināto svaru, izmērus un pakalpojumus. Ja summa pēc iepakošanas mainās, salīdziniet ar agrāko aplēsi un nosakiet mainīto ievadi. Par neizskaidrotu starpību uzdodiet konkrētu jautājumu, nevis pieņemiet, ka sākotnējā aplēse bija saistoša galīgā cena."
+          ]
+        },
+        {
+          "id": "support-template",
+          "heading": "7. Uzdodiet jautājumu, uz kuru atbalsts var reaģēt",
+          "paragraphs": [
+            "Noderīgs pieprasījums nosauc preces, vēlamo darbību un apstiprināmo jautājumu. Piemēram: apstipriniet, vai uzskaitītās noliktavas preces var sūtīt kopā uz izvēlēto galamērķi, saglabājot norādīto iepakojumu, un paziņojiet galīgo svaru, izmērus un aktuālās piegādes iespējas. Vispārīgo aprakstu oficiālajā konta kanālā aizstājiet ar īstiem numuriem.",
+            "Salīdzinot konfigurācijas, skaidri norādiet, kurš preču saraksts pieder katrai iespējai. Ja pirms lēmuma vajadzīga fotogrāfija, nosauciet trūkstošo detaļu vai mērījumu. Konta paroles un slepenus maksājumu datus neiekļaujiet ziņojumos vai publiskos ekrānuzņēmumos. Šis neatkarīgais ceļvedis nevar skatīt privātus pasūtījumus vai dot noliktavai norādes jūsu vārdā; izmantojiet oficiālo Pikobuy saziņas kanālu."
+          ]
+        },
+        {
+          "id": "check-delivery",
+          "heading": "8. Pārbaudiet saturu un izsekošanas rezultātu",
+          "paragraphs": [
+            "Pēc nosūtīšanas starptautisko paku izsekojiet ar tās pašas ierakstu. Pārdevēja vietējais izsekošanas numurs ne vienmēr attiecas uz apvienoto sūtījumu. Sarakstu un pārbaudes pierādījumus glabājiet līdz piegādei. Saņemot paku, pirms ieraksta slēgšanas salīdziniet saturu un daudzumu ar sarakstu, īpaši ja vienā kastē ir vairāku pārdevēju preces.",
+            "Ja kaut kā trūkst vai redzami bojājumi, dokumentējiet konkrēto neatbilstību un, sazinoties ar atbalstu, glabājiet attiecīgās etiķetes un iepakojumu. Nodaliet preces problēmu no piegādes statusa problēmas. Nākotnes plānam atzīmējiet, vai apvienošana mainīja izmērus, maršrutus vai vajadzīgo apstrādi. Izmantojiet rezultātu savas pārbaudes uzlabošanai, nevis kā universāla ietaupījuma pierādījumu."
+          ]
+        },
+        {
+          "id": "worked-item-list",
+          "heading": "9. Preču saraksta piemērs: neatrisinātu preci turiet atsevišķi",
+          "paragraphs": [
+            "Iedomājieties pircēju, kurš no trim pārdevējiem pasūtījis T-kreklu, apavu pāri un mazu somu. T-krekla izmērs un stāvoklis pārbaudīts. Apaviem vajag papildu mērījumu, bet soma vēl nav noliktavā. Gatavo preču sarakstā ir tikai T-krekls; pārējās divas nedrīkst klusējot pievienot tikai tāpēc, ka visas pirktas vienam plānotam sūtījumam.",
+            "Pircējs pieprasa apavu mērījumu, pārbauda somas pēdējo apstiprināto statusu un pieraksta saņemto preču glabāšanas un atgriešanas noteikumus. Kad pierādījumu pietiek, viņš var salīdzināt apstiprināto preču paku ar vēlāku variantu, kas ietver somu. Katram vajag savu faktisko saturu un izmērus. Šis hipotētiskais piemērs neiesaka vienmēr gaidīt vai dalīt. Tas parāda, kāpēc skaidrs saraksts noder vairāk nekā vispārīga prasība apvienot visu kontā."
+          ]
+        }
+      ],
+      "sourceIds": [
+        "official-contact",
+        "official-guide",
+        "official-shipping",
+        "official-returns"
+      ],
+      "related": [
+        "qc",
+        "articles/pikobuy-warehouse-returns",
+        "articles/pikobuy-shipping-calculator",
+        "articles/pikobuy-tracking-not-updating"
+      ],
+      "published": "2026-10-29",
+      "updated": "2026-10-29"
     }
-  ]
+  ],
+  "growth": {
+    "homeTitle": "Pikobuy spreadsheet: preču saites, QC un piegādes ceļveži",
+    "homeDescription": "Pārlūkojiet Pikobuy apavu un apģērbu saites. Salīdziniet USD cenas, pārbaudiet izmērus un QC un plānojiet piegādi ar praktiskiem ceļvežiem.",
+    "catalogTitle": "Pikobuy spreadsheet: apavi, apģērbs un preču saites",
+    "catalogDescription": "Meklējiet Pikobuy tabulā pēc kategorijas un salīdziniet cenas USD. Atveriet preču detaļas, pārbaudiet izmērus un turpiniet uz Pikobuy.",
+    "categoryGuideHeading": "Pirms preces izvēles",
+    "categories": {
+      "shoes": {
+        "title": "Pikobuy apavu tabula: saites, izmēri un QC",
+        "description": "Pārlūkojiet apavu saites Pikobuy tabulā, salīdziniet USD cenas un pirms sūtīšanas pārbaudiet mērījumus, noliktavas foto un iepakojumu.",
+        "intro": "Apavu sludinājumus salīdziniet pēc precīza izmēra un varianta, kuru plānojat pasūtīt. Pazīstama izmēra etiķete ir sākumpunkts, ne derīguma pierādījums. Atveriet sākotnējo informāciju un pirms apmaksas pārbaudiet pārdevēja mērījumus. Šeit redzamās fotogrāfijas ir sludinājumu attēli, ne jūsu pasūtījuma QC foto.",
+        "checks": [
+          "Salīdziniet pārdevēja izmēru tabulu ar ērtu pāri, kas jums jau pieder.",
+          "Lūdziet mērījumu vai etiķetes foto, kas vajadzīgs izmēra jautājuma atrisināšanai.",
+          "Par apavu kastes saglabāšanu lemiet pēc QC un iespējamā atgriešanas lēmuma."
+        ]
+      },
+      "sweatshirts": {
+        "title": "Pikobuy džemperu un kapučjaku tabula",
+        "description": "Atrodiet džemperu un kapučjaku saites, salīdziniet USD cenas un pirms Pikobuy pasūtījuma pārbaudiet krūšu platumu, garumu un piedurknes.",
+        "intro": "Džemperi vai kapučjaku izvēlieties pēc apģērba mērījumiem un vēlamā piegriezuma. Krūšu platumu, garumu un piedurknes salīdziniet ar apģērbu, ko jau valkājat. Viena izmēra burts var nozīmēt atšķirīgus piegriezumus, tāpēc pārbaudiet konkrēto sludinājumu un variantu, nevis pieņemiet universālu izmēru pārrēķinu.",
+        "checks": [
+          "Salīdziniet mērījumus, kas veikti ar vienu metodi un vienādās vienībās.",
+          "Sākotnējā sludinājumā pārbaudiet krāsu, kapuci, rāvējslēdzēju un kabatas.",
+          "Pirms apģērba pievienošanas kopīgai pakai apskatiet noliktavas fotogrāfijas."
+        ]
+      },
+      "tshirts": {
+        "title": "Pikobuy T-kreklu tabula: saites un izmēru pārbaude",
+        "description": "Pārlūkojiet T-kreklu saites un USD cenas. Salīdziniet krūšu platumu un garumu, pārbaudiet variantu un plānojiet noliktavas QC pirms sūtīšanas.",
+        "intro": "T-kreklus salīdziniet pēc krūšu platuma, garuma un vēlamā piegriezuma. Sludinājuma foto palīdz atpazīt dizainu, bet neapstiprina noliktavā saņemtās preces izmērus vai stāvokli. Izmēru un krāsu glabājiet pie pasūtījuma numura, lai salīdzinātu ar vēlākām pārbaudes fotogrāfijām.",
+        "checks": [
+          "Izmēriet sev tīkamu T-kreklu un salīdziniet pārdevēja mērīšanas metodi.",
+          "Pirms pasūtījuma atvēršanas Pikobuy apstipriniet izvēlēto izmēru un krāsu.",
+          "Ja apdruka, vīle vai mērījums neskaidrs, lūdziet skaidrāku detaļas foto."
+        ]
+      }
+    },
+    "hubs": {
+      "qc": {
+        "title": "Pikobuy QC ceļvedis: foto, mērījumi un atgriešana",
+        "description": "Salīdziniet Pikobuy QC foto ar pasūtījumu: izmēru, krāsu, daudzumu un redzamo stāvokli. Uzziniet, kad pirms sūtīšanas lūgt vairāk pierādījumu.",
+        "sections": [
+          {
+            "id": "match-order",
+            "heading": "Sasaistiet foto ar savu pasūtījumu",
+            "paragraphs": [
+              "Sāciet ar pasūtījuma numuru, izvēlēto variantu un daudzumu. Noliktavas ierakstu salīdziniet ar patiešām pirkto preci, ne līdzīgu sludinājumu. Šī neatkarīgā kataloga attēli ir preču fotogrāfijas, ne ar jūsu pasūtījumu saistīti QC pierādījumi."
+            ]
+          },
+          {
+            "id": "check-evidence",
+            "heading": "Pārbaudiet redzamās detaļas un mērījumus",
+            "paragraphs": [
+              "Apskatiet krāsu, etiķetes, vīles, apdrukas novietojumu, piederumus un bojājumus. Izmēram lūdziet lēmumam svarīgo mērījumu ar tādu pašu metodi kā pārdevēja tabulā. Skaidra etiķete nepierāda piemērotību, un foto nepierāda materiāla sastāvu, autentiskumu vai ilgtermiņa veiktspēju."
+            ]
+          },
+          {
+            "id": "request-detail",
+            "heading": "Lūdziet detaļu, kas mainītu lēmumu",
+            "paragraphs": [
+              "Norādiet preci un parādāmo daļu. Piemēram, lūdziet apģērbu izklāt plakaniski ar mērlenti redzamu no malas līdz malai. Pikobuy apstipriniet pieejamo pakalpojumu un maksu. Ja foto joprojām nedod atbildi, saglabājiet šo neskaidrību, neuzskatiet to par apstiprinājumu."
+            ]
+          },
+          {
+            "id": "decide-before-shipping",
+            "heading": "Izlemiet pirms pakas iesniegšanas",
+            "paragraphs": [
+              "Apstipriniet preci, lūdziet skaidrojumu vai uzsāciet atļautu atgriešanu, kamēr prece noliktavā. Nekavējoties pārbaudiet aktuālos atgriešanas noteikumus un saglabājiet nepieciešamo iepakojumu. Izlemiet pirms apvienošanas vai neatgriezeniskām paku izmaiņām. Pārbaudes ierakstu glabājiet pie galīgā saraksta."
+            ]
+          }
+        ],
+        "sourceIds": [
+          "official-guide",
+          "official-user-agreement",
+          "official-returns"
+        ]
+      },
+      "shipping": {
+        "title": "Pikobuy piegāde: kalkulators, izmaksas un izsekošana",
+        "description": "Plānojiet Pikobuy piegādi ar oficiālo kalkulatoru, iepakotu svaru un izmēriem. Salīdziniet maršrutus, apvienojiet apstiprinātas preces un izsekojiet pēc nosūtīšanas.",
+        "sections": [
+          {
+            "id": "estimate-first",
+            "heading": "Novērtējiet paku pirms budžeta izlietošanas",
+            "paragraphs": [
+              "Oficiālajā kalkulatorā lietojiet faktisko valsti, preces tipu, svaru un trīs izmērus. Mērījumus nodaliet no minējumiem. Salīdziniet vienu paku dažādās iespējās un pie katra rezultāta saglabājiet datumu, valūtu, maršrutu un iekļautos pakalpojumus."
+            ]
+          },
+          {
+            "id": "complete-budget",
+            "heading": "Nodaliet preču apmaksu no starptautiskā pārvadājuma",
+            "paragraphs": [
+              "Kataloga cena ir orientējoša preces cena USD. Tā neietver starptautisko piegādi un iespējamās papildu maksas. Pirkumu, piegādi un apstiprinātas papildizmaksas vai galamērķa maksas glabājiet atsevišķās budžeta rindās. Nezināmu summu noskaidrojiet, neuzskatiet to par nulli."
+            ]
+          },
+          {
+            "id": "pack-after-qc",
+            "heading": "Iepakojumu izvēlieties pēc QC",
+            "paragraphs": [
+              "Pirms noliktavas preču apvienošanas atrisiniet izmēra un stāvokļa jautājumus. Pārbaudiet, vai iepakojuma izmaiņas ietekmē aizsardzību vai atgriešanu. Gatavās pakas svaru un izmērus salīdziniet ar aplēses vērtībām; nepieņemiet, ka apvienošana vienmēr samazina kopsummu."
+            ]
+          },
+          {
+            "id": "follow-dispatch",
+            "heading": "Izsekojiet no faktiskās nosūtīšanas",
+            "paragraphs": [
+              "Oficiālā ceļveža trīs dienu norāde attiecas uz izsekošanas datiem pēc nosūtīšanas, ne piegādi trīs dienās. Nodaliet preces apmaksu, ierašanos noliktavā, pakas iesniegšanu un pārvadātāja kustību. Jautājot atbalstam, saglabājiet pakas numuru un pēdējo apstiprināto notikumu."
+            ]
+          }
+        ],
+        "sourceIds": [
+          "official-estimate",
+          "official-guide",
+          "official-contact"
+        ]
+      }
+    }
+  }
 }

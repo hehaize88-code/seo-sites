@@ -10,7 +10,9 @@
     "dev": "astro dev",
     "build": "astro build && node scripts/build-worker.mjs",
     "check:source": "node scripts/check-source.mjs",
-    "check:editorial": "node scripts/check-editorial.mjs"
+    "check:editorial": "node scripts/check-editorial.mjs",
+    "check:catalog": "node scripts/check-catalog-state.mjs",
+    "check:live": "node scripts/check-live.mjs"
   },
   "dependencies": {
     "astro": "7.4.0",

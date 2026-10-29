@@ -14,7 +14,7 @@
     "related": "Povezani članci",
     "allArticles": "Svi članci",
     "latestArticles": "Najnoviji članci",
-    "articleCount": "10 praktičnih vodiča",
+    "articleCount": "13 praktičnih vodiča",
     "sourceLink": "Službeni izvor"
   },
   "faq": [
@@ -304,7 +304,8 @@
       "related": [
         "spreadsheet",
         "articles/pikobuy-product-links",
-        "articles/pikobuy-haul-budget"
+        "articles/pikobuy-haul-budget",
+        "articles/pikobuy-parcel-consolidation"
       ]
     },
     {
@@ -409,7 +410,8 @@
       "related": [
         "spreadsheet",
         "articles/pikobuy-qc-measurements",
-        "articles/pikobuy-shoe-sizing"
+        "articles/pikobuy-shoe-sizing",
+        "articles/pikobuy-parcel-consolidation"
       ]
     },
     {
@@ -515,7 +517,8 @@
       "related": [
         "guide",
         "articles/pikobuy-spreadsheet-checklist",
-        "faq"
+        "faq",
+        "articles/pikobuy-parcel-consolidation"
       ]
     },
     {
@@ -602,6 +605,14 @@
             "Vrati se početnom pitanju i odaberi sljedeći korak. Dokazi mogu poduprijeti nastavak, ostaviti točno određeni problem neriješenim ili opravdati razgovor o povratu. Spremi odgovor uz evidenciju narudžbe i navedi koja je mjera ili vidljivi detalj utjecao na odluku.",
             "Ako problem ostane, odmah provjeri aktualni status narudžbe i primjenjive uvjete povrata. Nemoj skupljati ukrasne kutove fotografiranja dok neprijavljeno odstupanje zahtijeva radnju. Evidencija treba olakšati objašnjenje: što je bilo namjeravano, što fotografija pokazuje i koje rješenje tražiš. Neizvjesna opažanja i dalje označavaj kao neizvjesna."
           ]
+        },
+        {
+          "id": "approve-or-ask",
+          "heading": "8. Pretvorite mjeru u jasnu odluku",
+          "paragraphs": [
+            "Fotografiranu mjeru usporedite s ciljnom, uz iste početne i završne točke i jedinice. Ako metar ne počinje od nule, odjeća je presavijena ili krajevi nisu vidljivi, tražite jasnije mjerenje umjesto prihvaćanja naizgled preciznog broja. Zabilježite bi li preostala nesigurnost promijenila izbor veličine.",
+            "Odobrite tek kada dokaz odgovori na važno pitanje. Ako ne odgovori, odmah zatražite detalj koji nedostaje ili provjerite aktualne mogućnosti povrata. Dok odlučujete, čuvajte izvornu ambalažu i završite odluku prije dodavanja artikla u objedinjeni paket. Fotografija je dokaz za ovu konkretnu narudžbu, a ne univerzalna tablica veličina za buduće kupnje."
+          ]
         }
       ],
       "sourceIds": [
@@ -612,8 +623,10 @@
       "related": [
         "qc",
         "articles/pikobuy-clothing-size-chart",
-        "articles/pikobuy-warehouse-returns"
-      ]
+        "articles/pikobuy-warehouse-returns",
+        "articles/pikobuy-parcel-consolidation"
+      ],
+      "updated": "2026-10-29"
     },
     {
       "slug": "pikobuy-haul-budget",
@@ -735,7 +748,8 @@
       "related": [
         "shipping",
         "articles/pikobuy-parcel-weight-dimensions",
-        "articles/pikobuy-spreadsheet-checklist"
+        "articles/pikobuy-spreadsheet-checklist",
+        "articles/pikobuy-shipping-calculator"
       ]
     },
     {
@@ -831,7 +845,8 @@
       "related": [
         "shipping",
         "articles/pikobuy-haul-budget",
-        "articles/pikobuy-warehouse-returns"
+        "articles/pikobuy-warehouse-returns",
+        "articles/pikobuy-shipping-calculator"
       ]
     },
     {
@@ -937,7 +952,8 @@
       "related": [
         "spreadsheet",
         "articles/pikobuy-qc-measurements",
-        "articles/pikobuy-parcel-weight-dimensions"
+        "articles/pikobuy-parcel-weight-dimensions",
+        "articles/pikobuy-parcel-consolidation"
       ]
     },
     {
@@ -1039,7 +1055,8 @@
       "related": [
         "spreadsheet",
         "articles/pikobuy-qc-measurements",
-        "articles/pikobuy-parcel-weight-dimensions"
+        "articles/pikobuy-parcel-weight-dimensions",
+        "articles/pikobuy-parcel-consolidation"
       ]
     },
     {
@@ -1132,6 +1149,14 @@
             "Vodi kratku kronologiju zahtjeva, potvrda, dodatnih dokaza i odluka. Gdje je primjereno, odgovaraj u postojećem predmetu kako bi kontekst ostao zajedno. Ako podrška traži nedostajući detalj, izravno odgovori na to pitanje umjesto ponovnog opisivanja cijele kupnje.",
             "Prije odobrenja koraka provjeri odnosi li se na pravi artikl i rješenje koje razumiješ. Zadrži potvrdu prihvaćenoga i onoga što je još na čekanju. Podneseni zahtjev, odgovor prodavatelja i dovršeni povrat novca različiti su događaji. Odvojene bilješke pomažu pratiti ishod bez zamjene napretka sa završetkom."
           ]
+        },
+        {
+          "id": "before-consolidation",
+          "heading": "8. Riješite povrat prije objedinjavanja",
+          "paragraphs": [
+            "Artikl s neriješenim zahtjevom za povrat držite odvojeno od popisa spremnog za slanje. Zabilježite vrijeme skladišnog statusa, problem, fotografije i traženo rješenje. Provjerite aktualnu politiku i rok prikazan za narudžbu; čekanje artikla drugog prodavatelja ne uspostavlja produljenje roka.",
+            "Prije uklanjanja ambalaže ili međunarodnog slanja potvrdite je li artikl odobren za slanje ili još čeka prodavateljevu odluku. Dok se razmatra prihvatljivost povrata, sačuvajte etikete, plombe i potrebnu ambalažu. Za točne troškove pitajte službenu podršku umjesto pretpostavke besplatnog povrata ili primjenjivosti općeg primjera na vaš slučaj."
+          ]
         }
       ],
       "sourceIds": [
@@ -1141,8 +1166,10 @@
       "related": [
         "qc",
         "articles/pikobuy-qc-measurements",
-        "articles/pikobuy-haul-budget"
-      ]
+        "articles/pikobuy-haul-budget",
+        "articles/pikobuy-parcel-consolidation"
+      ],
+      "updated": "2026-10-29"
     },
     {
       "slug": "pikobuy-tracking-not-updating",
@@ -1238,6 +1265,14 @@
             "Ažuriraj dnevnik kada stigne značajan događaj i nemoj ponovljene provjere iste stranice smatrati novim dokazom. Sačuvaj upute ili odgovore koji mijenjaju očekivani sljedeći korak. Ako se za tvoj predmet navede rok ili postupak eskalacije, izričito ga zabilježi.",
             "Kada paket stigne, usporedi sadržaj s popisom artikala i sačuvanom evidencijom pregleda. Zadrži relevantnu ambalažu i oznake dok se razjašnjava odstupanje. Završeno praćenje i zadovoljavajuća provjera sadržaja odvojena su opažanja. Uredna evidencija pomaže objasniti problem dostave ili artikla bez njihova miješanja."
           ]
+        },
+        {
+          "id": "quick-triage",
+          "heading": "8. Brza procjena: povežite zastoj sa sljedećom radnjom",
+          "paragraphs": [
+            "Nema zapisa slanja: u računu provjerite predaju paketa i plaćanje dostave. Slanje je evidentirano, ali podaci praćenja kasne dulje od službenih uputa: pitajte Pikobuy za potvrdu primopredaje. Događaj prijevoznika postoji, ali se ne mijenja: sačuvajte točan tekst i vrijeme te provjerite aktualne upute usluge. Iznimka dostave traži radnju: provjerite zahtjev legitimnim kanalom platforme ili prijevoznika.",
+            "U jedan upit podršci uključite oznaku paketa, stvarni datum slanja i zadnji potvrđeni događaj. Vremensku crtu nemojte početi datumom kupnje proizvoda ni trodnevni navod o praćenju tumačiti kao jamstvo isporuke. Ako paket sadrži više narudžbi, za međunarodno praćenje koristite oznaku objedinjenog paketa."
+          ]
         }
       ],
       "sourceIds": [
@@ -1247,8 +1282,506 @@
       "related": [
         "shipping",
         "guide",
-        "faq"
-      ]
+        "faq",
+        "articles/pikobuy-shipping-calculator"
+      ],
+      "updated": "2026-10-29"
+    },
+    {
+      "slug": "pikobuy-shipping-calculator",
+      "title": "Pikobuy kalkulator dostave: procijenite ukupni trošak paketa",
+      "description": "Upotrijebite Pikobuy kalkulator dostave s točnom težinom, dimenzijama i odredištem. Usporedite ponude i odvojite prijevoz od ukupnog budžeta narudžbe.",
+      "intro": "Korisna procjena dostave putem Pikobuya počinje jasno definiranim paketom, a ne samo cijenom proizvoda ili pretpostavljenim brojem kilograma. Zabilježite odredište, artikle koje želite poslati i potrebnu ambalažu. Zatim službenim kalkulatorom usporedite opcije koje su stvarno ponuđene. Ovaj vodič donosi ponovljiv obrazac za usporedbu procjena, bez tretiranja procjene kao konačnog računa.",
+      "sections": [
+        {
+          "id": "prepare-inputs",
+          "heading": "1. Pripremite ulazne podatke koji mijenjaju procjenu",
+          "paragraphs": [
+            "Službeni kalkulator traži odredište, vrstu proizvoda, težinu u kilogramima te duljinu, širinu i visinu u centimetrima. Najprije te vrijednosti zapišite na jedno mjesto. Uz svaku označite je li izmjerena ili procijenjena te navedite datum. Prije dolaska u skladište prodavateljeva težina proizvoda možda ne uključuje maloprodajnu ambalažu, zaštitno punjenje i vanjsku kutiju. Smatrajte je podatkom za planiranje, a ne potvrđenom težinom pošiljke.",
+            "Unesite stvarno odredište dostave. Jezik kojim pregledavate stranicu ne bira zemlju dostave, a ponuda drugog kupca može se temeljiti na drukčijim podacima. Za miješani paket provjerite kako ponuđene vrste proizvoda opisuju njegov sadržaj. Ako baterija, tekućina, lomljivi dio ili drugi neobičan artikl ne pripada jasno nekoj kategoriji, prije oslanjanja na rezultat pitajte Pikobuy koja kategorija i uvjeti rute vrijede."
+          ]
+        },
+        {
+          "id": "separate-costs",
+          "heading": "2. Odvojite prijevoz od ukupnog budžeta narudžbe",
+          "paragraphs": [
+            "Plaćanje proizvoda i kasnije plaćanje međunarodne dostave upišite u odvojene retke. Zatim zasebno dodajte potvrđenu domaću dostavu, dodatnu obradu, konverziju pri plaćanju i troškove na odredištu. Nemojte dodati naknadu samo zato što ju je spomenuo drugi kupac; označite je kao nepotvrđenu dok ne dobijete dokaz za svoju narudžbu. Isto tako, prazno polje treba značiti nepoznato, a ne besplatno.",
+            "Ovaj katalog prikazuje okvirne cijene proizvoda u USD. Cijena na kartici nije ponuda međunarodne dostave. Zadržite vidljivu valutu svakog stvarnog plaćanja, a ukupne iznose uspoređujte u jednoj odabranoj valuti prema dostupnom tečaju i naknadi plaćanja. Povoljna cijena proizvoda još uvijek može ostaviti premalo novca za završeni paket. Najveći ukupni budžet odredite prije odluke o broju proizvoda."
+          ]
+        },
+        {
+          "id": "measure-parcel",
+          "heading": "3. Koristite dimenzije zapakiranog paketa, a ne pretpostavljeno pravilo naplate",
+          "paragraphs": [
+            "Nakon odabira ambalaže izmjerite ili zatražite vanjsku duljinu, širinu i visinu paketa. Stvarnu težinu zabilježite odvojeno. Nemojte pretpostaviti da će lagan, ali velik paket biti naplaćen samo prema težini na vagi. Pikobuy u vodiču navodi da se metode naplate razlikuju među rutama, zato pročitajte metodu uz opciju koju uspoređujete. Ovaj članak ne propisuje univerzalni djelitelj za volumetrijsku težinu svih ruta.",
+            "Isključivo kao računski primjer, kutija od 40 × 30 × 20 cm zauzima 24.000 kubičnih centimetara. Smanjenjem visine na 15 cm volumen postaje 18.000 kubičnih centimetara. To pokazuje promjenu volumena, a ne obećano sniženje cijene. Dostupna ruta, koraci naplate, zaštitna ambalaža i konačne mjere određuju hoće li promjena utjecati na ponudu. Nemojte ukloniti potrebnu zaštitu samo kako biste postigli manji broj iz primjera."
+          ]
+        },
+        {
+          "id": "compare-like-for-like",
+          "heading": "4. Usporedite dvije opcije za isti paket",
+          "paragraphs": [
+            "Uspoređujte isto odredište, sadržaj i mjere. Zabilježite točan naziv rute i vrijeme dobivanja svakog rezultata. Druga ponuda za lakši paket nije dokaz da je ta ruta jeftinija. Ako se ponuda mijenja dok prilagođavate ambalažu, sačuvajte stare podatke kako biste mogli objasniti razliku umjesto da je automatski pripišete novoj tarifi.",
+            "Za svakog kandidata upotrijebite obrazac u nastavku. Prepišite stvarno prikazane uvjete i prije plaćanja pitajte za ono što nedostaje. Prazna procjena trajanja prijevoza ili nejasno uključena usluga pitanje je koje treba riješiti. Ako se pojavi osiguranje, obrada ili druga dodatna usluga, usporedite ukupne iznose s istim odabranim opcijama. Najniža prikazana početna cijena možda ne predstavlja cijelu uslugu koju želite."
+          ],
+          "table": {
+            "headers": [
+              "Zabilježite",
+              "Opcija A",
+              "Opcija B"
+            ],
+            "rows": [
+              [
+                "Odredište i sadržaj",
+                "Isti ulazni podaci",
+                "Isti ulazni podaci"
+              ],
+              [
+                "Zapakirana težina i dimenzije",
+                "Označite izmjereno ili procijenjeno",
+                "Označite izmjereno ili procijenjeno"
+              ],
+              [
+                "Ruta i metoda naplate",
+                "Prepišite prikazane uvjete",
+                "Prepišite prikazane uvjete"
+              ],
+              [
+                "Ukupno i uključene usluge",
+                "Zabilježite valutu i iznimke",
+                "Zabilježite valutu i iznimke"
+              ],
+              [
+                "Datum procjene i otvorena pitanja",
+                "Čuvajte uz ponudu",
+                "Čuvajte uz ponudu"
+              ]
+            ]
+          }
+        },
+        {
+          "id": "test-packaging",
+          "heading": "5. Usporedite scenarije pakiranja bez pretpostavke uštede",
+          "paragraphs": [
+            "Napravite jedan scenarij s potrebnom ambalažom, a drugi samo ako postoji praktična alternativa. Kod obuće razlikujte zadržavanje maloprodajne kutije od zaštite same obuće. Za lomljiv artikl odredite nužnu zaštitu. Kod odjeće provjerite opisuju li mjere labavo složene artikle ili paket koji skladište stvarno priprema. Te razlike trebaju biti vidljive u bilješkama.",
+            "Zatražite potvrdu prije nepovratnih promjena ambalaže. Etikete, plombe i izvorna ambalaža mogu biti važni za pravo na povrat, stoga prvo riješite pregled i odluku o povratu. Manji paket nije automatski bolji ako je artikl teže zaštititi ili vratiti. Zabilježite traženu promjenu i potvrđeni rezultat; izmjerenu vrijednost nemojte zamijeniti brojem kojem ste se nadali."
+          ]
+        },
+        {
+          "id": "reconcile-final-quote",
+          "heading": "6. Uskladite procjenu s konačnom ponudom za paket",
+          "paragraphs": [
+            "Prije plaćanja međunarodne dostave usporedite konačni zapis paketa s obrascem. Provjerite popis artikala, odredište, rutu, zapakiranu težinu, dimenzije i odabrane usluge. Ako se iznos razlikuje, utvrdite koji se podatak ili trošak promijenio. Ranija snimka zaslona pomaže razlikovati novu mjeru od opcije koju ste slučajno odabrali. Ako razlika i dalje nije jasna, zatražite raščlambu.",
+            "Ponudu, potvrdu plaćanja i oznaku paketa čuvajte zajedno. Odgovaraju na različita pitanja: ponuda opisuje ponuđenu uslugu, potvrda plaćanja pokazuje što ste platili, a zapis paketa povezuje pošiljku sa sadržajem. Uspješno plaćanje proizvoda ne dokazuje da je plaćen i međunarodni prijevoz. Slijedite stvarni postupak u računu umjesto da sve transakcije smatrate jednim iznosom narudžbe."
+          ]
+        },
+        {
+          "id": "handle-missing-data",
+          "heading": "7. Kada kalkulator ne daje koristan rezultat",
+          "paragraphs": [
+            "Najprije provjerite jedinice, odredište i kategoriju proizvoda. Nedostatak opcije sam po sebi ne znači da artikl nikada nije moguće poslati, ali ne opravdava ni odabir netočne kategorije radi dobivanja ponude. Sačuvajte podatke i pitajte službenu podršku odgovaraju li sadržaj i dimenzije trenutačno dostupnoj ruti. Nemojte dodatno naručivati samo da biste postigli veličinu paketa koju preporučuje netko drugi.",
+            "Ako još čekate skladišne mjere, u osobnim bilješkama zadržite raspon mogućih budžeta i označite pretpostavke. Jedan privremeni rezultat nemojte objaviti kao standardnu cijenu Pikobuy dostave. Kada dobijete podatak koji nedostaje, zamijenite pretpostavku i ponovite usporedbu. Tako odluka ostaje provjerljiva bez izmišljanja tarifa, zajamčenih ušteda ili datuma isporuke."
+          ]
+        },
+        {
+          "id": "before-payment",
+          "heading": "8. Završite kratkim zapisom odluke",
+          "paragraphs": [
+            "Konačni zapis treba navoditi uključene artikle, riješena pitanja pregleda, odobrenu ambalažu i razlog zašto odabrana ruta odgovara vašim potrebama. Uključite puni iznos i preostale troškove za koje vam je rečeno da nisu uključeni. Ako je neki trošak nepoznat i mogao bi premašiti budžet, razjasnite ga prije sljedećeg plaćanja.",
+            "Za miješanu narudžbu prije finaliziranja paketa upotrijebite vodič za objedinjavanje. Za planiranje prema odredištu koristite kontrolni popis dostave u Europu. Nakon slanja prijeđite na vodič za praćenje umjesto da kalkulator smatrate dokazom napretka. Procjena, kupnja, pregled i praćenje povezani su zadaci, ali svaki zahtijeva vlastite dokaze."
+          ]
+        },
+        {
+          "id": "worked-comparison",
+          "heading": "9. Primjer usporedbe: mijenjajte jednu pretpostavku odjednom",
+          "paragraphs": [
+            "Kupac planira poslati dva para cipela i jednu duksericu. Prije dolaska u skladište ima samo težine iz oglasa, bez dimenzija zapakiranog paketa. Zato prvi obrazac označava težinu i veličinu kao procjene. Nakon QC-a kupac odlučuje zadržati jednu kutiju za obuću i pita koja je ambalaža prikladna za drugi par. U ovoj fazi ne pretpostavlja se nikakva cijena.",
+            "Kada skladište dostavi konačne mjere paketa, kupac ih unosi u službeni kalkulator i zapisuje dostupne opcije. Ako ponuda premašuje budžet, sljedeće je pitanje mijenja li druga dopuštena konfiguracija ukupni trošak. Kupac uspoređuje tu konfiguraciju s izvornom uz isto odredište i iste pretpostavke o usluzi. Primjer pokazuje metodu, a ne stvarnu narudžbu, tarifu ili uštedu. Najvažnije je prepoznati koji se podatak promijenio prije prihvaćanja novog rezultata."
+          ]
+        }
+      ],
+      "sourceIds": [
+        "official-estimate",
+        "official-guide",
+        "official-returns"
+      ],
+      "related": [
+        "shipping",
+        "articles/pikobuy-parcel-weight-dimensions",
+        "articles/pikobuy-haul-budget",
+        "articles/pikobuy-parcel-consolidation"
+      ],
+      "published": "2026-10-29",
+      "updated": "2026-10-29"
+    },
+    {
+      "slug": "pikobuy-shipping-europe",
+      "title": "Pikobuy dostava u Europu: kontrolni popis odredišta i isporuke",
+      "description": "Planirajte Pikobuy dostavu u Nizozemsku, Njemačku i druga europska odredišta: provjerite dostupnost ruta, adresu, troškove paketa i faze praćenja.",
+      "intro": "Planiranje Pikobuy dostave u Europu zahtijeva ponudu za stvarnu zemlju dostave i paket. Vodič na nizozemskom, njemačkom ili engleskom ne može potvrditi koje su rute danas dostupne vašem računu. Ovim kontrolnim popisom pripremite točne podatke, usporedite opcije koje Pikobuy prikazuje i sačuvajte zapise potrebne od odobrenja u skladištu do isporuke.",
+      "sections": [
+        {
+          "id": "choose-destination",
+          "heading": "1. Počnite sa zemljom dostave, a ne jezikom stranice",
+          "paragraphs": [
+            "U službenom kalkulatoru dostave odaberite zemlju u koju će paket biti dostavljen. Kupac koji šalje u Nizozemsku treba odabrati to odredište i kada čita vodič na engleskom. Isto vrijedi za Njemačku, Francusku, Španjolsku i druge zemlje. Jezici na ovoj stranici pomažu pri čitanju uputa; ne predstavljaju zasebne ugovore s prijevoznicima ni obećanje da svaka ruta služi svakom odredištu.",
+            "Zabilježite poštanski broj i podatke odredišta potrebne za stvarnu predaju paketa. U obrascu provjerite pravopis, kućni broj, podatke o stanu gdje su potrebni te kontakt primatelja. Nemojte pretpostaviti da je kalkulator potvrdio cijelu adresu samo zato što je prihvatio zemlju. Ako adresa ima neobičan format ili ograničenje dostave, to pitanje riješite s platformom prije slanja."
+          ]
+        },
+        {
+          "id": "define-contents",
+          "heading": "2. Odredite sadržaj prije usporedbe europskih ruta",
+          "paragraphs": [
+            "Popišite svaki artikl koji namjeravate poslati i prvo riješite pitanja skladišnog pregleda. Uz oznaku artikla zadržite odabranu veličinu, boju i količinu kako bi paket sadržavao odobrene artikle. Jedan artikl za koji još čekate prodavateljev odgovor može promijeniti trenutak predaje cijelog paketa. Plan dostave zasnovan na nepotpunom popisu postaje nepouzdan kada se sadržaj promijeni.",
+            "Pri pitanju o prihvatljivosti točno opišite poseban sadržaj. Nemojte iz naziva rute ili uspješne isporuke drugog kupca zaključiti da su baterija, tekućina ili lomljiv artikl dopušteni. Ograničenja i obrada ovise o stvarnoj usluzi i sadržaju. Pitajte koja trenutačna opcija prihvaća vaš paket i sačuvajte odgovor uz procjenu. Privlačna ponuda korisna je samo ako paket smije koristiti tu uslugu."
+          ]
+        },
+        {
+          "id": "compare-route-records",
+          "heading": "3. Usporedite uslugu prikazanu za svoje odredište",
+          "paragraphs": [
+            "Za svaku dostupnu opciju sačuvajte naziv rute, ponuđeni iznos, valutu, odgovarajuću metodu naplate i prikazanu procjenu trajanja prijevoza. Tijekom usporedbe ne mijenjajte težinu i dimenzije. Službeni vodič navodi da se vrijeme i naplata mogu razlikovati među rutama, ali ne utvrđuje jednu univerzalno najbolju rutu za Europu. Birajte među opcijama trenutačno prikazanim za vlastiti paket i potrebe.",
+            "Ako opis nije jasan, pitajte što ponuđena usluga uključuje. Sam naziv rute nije dovoljan dokaz za sve troškove, postupke obrade ili obećanja isporuke. Nemojte zamijeniti ponudu u računu cjenikom s društvenih mreža. Ako dva rezultata koriste drukčiju ambalažu ili dodatne usluge, navedite te razlike prije usporedbe iznosa. Datirajte snimke zaslona kako starija ponuda ne bi izgledala kao trenutačna."
+          ]
+        },
+        {
+          "id": "budget-destination",
+          "heading": "4. Ostavite prostor za troškove izvan prikazanog prijevoza",
+          "paragraphs": [
+            "U planskom obrascu odvojite cijenu proizvoda, domaću dostavu, međunarodni prijevoz, dodatne usluge i primjenjive troškove na odredištu. Nemojte pretpostaviti da je iznos prijevoza konačna obveza za svaku prekograničnu narudžbu. Isto tako, nemojte dodavati proizvoljan postotak ili naknadu s drugog odredišta. Zabilježite što odabrana usluga stvarno uključuje i što još treba potvrditi.",
+            "Za carinu, poreze, deklaracije i lokalne zahtjeve provjerite važeće zahtjeve točnog odredišta dostave i uvjete odabrane usluge. Ovaj kontrolni popis ne navodi porezni prag, stopu ni pravno izuzeće. U tražene obrasce unesite točan sadržaj i vrijednosti; naziv rute ili neformalni opis drugog kupca ne zamjenjuje te obveze. Zatražite pojašnjenje ako opis platforme ostavlja važan trošak nejasnim."
+          ]
+        },
+        {
+          "id": "plan-timeline",
+          "heading": "5. Sastavite vremenski plan od zasebnih prekretnica",
+          "paragraphs": [
+            "Ukupno čekanje može uključivati obradu kod prodavatelja, domaću dostavu do skladišta, pregled, ispravak ili odluku o povratu, pripremu paketa i međunarodni prijevoz. Te faze vodite odvojeno. Procjena međunarodnog prijevoza ne uključuje automatski čekanje prodavatelja ili vašeg odobrenja. Kod kupnje vezane uz određeni datum procijenite cijeli slijed, a ne samo dio koji obavlja prijevoznik.",
+            "Pikobuy u vodiču očekivanje dostupnosti podataka za praćenje postavlja nakon slanja. To nije obećanje isporuke u tri dana i rok ne počinje plaćanjem artikla. Zabilježite stvarni događaj slanja i pratite oznaku pripadajućeg paketa. Ako faza nije jasna, pitajte što je završeno i koja je radnja još potrebna umjesto da napredak zaključujete iz starosti narudžbe proizvoda."
+          ]
+        },
+        {
+          "id": "destination-worksheet",
+          "heading": "6. Koristite jedan obrazac za svako odredište i paket",
+          "paragraphs": [
+            "Zaseban obrazac sprječava miješanje podataka različitih primatelja ili narudžbi. Sljedeća polja odgovaraju Nizozemskoj, Njemačkoj i drugim odredištima, bez pretpostavke jednakih ruta ili naknada. To je predložak planiranja, a ne potvrđena ponuda ni tablica rokova po zemljama. Ispunite ga vlastitim aktualnim zapisima.",
+            "Ako promijenite odredište, popis artikala ili ambalažu, napravite novu usporedbu. Sačuvajte prethodnu verziju kako biste vidjeli zašto su se iznos ili dostupne usluge promijenili. To je osobito korisno kada prijatelji dijele ponude: prvo usporedite ulazne podatke, pa procijenite je li primjer uopće relevantan. Sam naziv zemlje nikada nemojte smatrati potpunom specifikacijom paketa."
+          ],
+          "table": {
+            "headers": [
+              "Polje planiranja",
+              "Što sačuvati"
+            ],
+            "rows": [
+              [
+                "Odredište i primatelj",
+                "Zemlju i provjerene podatke adrese"
+              ],
+              [
+                "Odobren sadržaj",
+                "Oznake artikala, varijante i količine"
+              ],
+              [
+                "Mjere paketa",
+                "Zapakiranu težinu i tri vanjske dimenzije"
+              ],
+              [
+                "Odabrana usluga",
+                "Aktualnu rutu, ukupni iznos, uključene stavke i pitanja"
+              ],
+              [
+                "Slanje i praćenje",
+                "Oznaku paketa, zapis slanja i zadnji potvrđeni događaj"
+              ]
+            ]
+          }
+        },
+        {
+          "id": "last-mile",
+          "heading": "7. Pratite primopredaju i završnu fazu dostave",
+          "paragraphs": [
+            "Nakon slanja pročitajte cijeli događaj praćenja, vrijeme i izvor. Elektronička informacija o pošiljci nije isto što i fizičko preuzimanje evidentirano kod prijevoznika. Ako zapis navodi partnera za dostavu ili drugu oznaku praćenja, koristite stvarno dostavljene podatke. Lokalnog prijevoznika nemojte pogađati samo prema zemlji odredišta niti pretpostaviti da svaka ruta ima isti slijed poruka.",
+            "Kod iznimke u dostavi u legitimnom kanalu platforme ili prijevoznika provjerite traženu radnju. Adresu, zahtjev za preuzimanje ili drugu uputu potvrđujte samo provjerenim kanalom. Sačuvajte točnu poruku i odgovor. Zastoj praćenja sam po sebi ne dokazuje gubitak, a procijenjeni datum ne dokazuje dolazak paketa. Kada se podaci prestanu mijenjati, upotrijebite članak za rješavanje problema praćenja."
+          ]
+        },
+        {
+          "id": "receive-parcel",
+          "heading": "8. Dovršite provjeru nakon dolaska paketa",
+          "paragraphs": [
+            "Usporedite primljeni sadržaj s odobrenim popisom artikala i sačuvanim fotografijama pregleda. Sačuvajte transportnu naljepnicu, ambalažu i relevantne zapise dok razjašnjavate nedostajući ili oštećeni artikl. Status dostavljeno odgovara na pitanje prijevoza, ali sam ne potvrđuje sadržaj ili stanje. Konkretno odstupanje odmah dokumentirajte kroz službenu podršku umjesto spajanja nepovezanih pritužbi.",
+            "Za sljedeću narudžbu provjerite koje su se pretpostavke promijenile: veličina ambalaže, usluga, čekanje prodavatelja ili neočekivana naknada. Prilagodite vlastiti način planiranja, ali iskustvo jednog paketa nemojte pretvoriti u univerzalno jamstvo dostave. Aktualni podaci odredišta, odobren sadržaj i dokumentirana vremenska crta olakšavaju sljedeću usporedbu bez obećavanja nepotkrijepljenog rezultata."
+          ]
+        },
+        {
+          "id": "worked-timeline",
+          "heading": "9. Primjer vremenske crte: odvojite kašnjenje prodavatelja od prijevoza",
+          "paragraphs": [
+            "Zamislite narudžbu za dostavu u Nizozemsku. Jedan odjevni predmet stigao je u skladište i prošao kupčevu provjeru, dok za drugi artikl još nema nove prodavateljeve informacije. Kupac još nije predao međunarodni paket. Čak i ako kalkulator prikazuje procjenu trajanja prijevoza, ona ne može odrediti kada će nepotpuna narudžba stići na adresu primatelja.",
+            "Kupac bilježi uvjete skladištenja prvog artikla i neriješene rokove, raspituje se o drugom artiklu te uspoređuje čekanje sa slanjem samo odobrenog artikla. Nakon predaje konačnog paketa i evidentiranja slanja počinje međunarodnu vremensku crtu prema oznaci paketa. Ako kasniji događaj prijevoznika zastane, upit podršci odnosi se na taj događaj, a ne na ranije čekanje prodavatelja. To je primjer planiranja, a ne objavljeni raspored dostave. Odvajanje prekretnica čini odluku i upit podršci preciznijima."
+          ]
+        }
+      ],
+      "sourceIds": [
+        "official-estimate",
+        "official-guide",
+        "official-terms",
+        "official-contact"
+      ],
+      "related": [
+        "shipping",
+        "articles/pikobuy-shipping-calculator",
+        "articles/pikobuy-tracking-not-updating",
+        "articles/pikobuy-parcel-consolidation"
+      ],
+      "published": "2026-10-29",
+      "updated": "2026-10-29"
+    },
+    {
+      "slug": "pikobuy-parcel-consolidation",
+      "title": "Objedinjavanje Pikobuy paketa: spojite narudžbe nakon QC-a",
+      "description": "Objedinite artikle u Pikobuy skladištu uz jasan popis za QC, ambalažu i troškove. Usporedite jedan paket s odvojenim pošiljkama bez pretpostavke zajamčene uštede.",
+      "intro": "Pikobuy navodi da se artikli različitih prodavatelja mogu spojiti u jedan paket. Korisno je pitanje jesu li vaši konkretni artikli spremni putovati zajedno, uz prikladnu ambalažu i razumljivu ponudu. Objedinjavanje treba uslijediti nakon odluka o pregledu. Ovaj vodič pomaže sastaviti jasan popis artikala, usporediti praktične načine pakiranja i potvrditi paket prije plaćanja međunarodne dostave.",
+      "sections": [
+        {
+          "id": "build-item-list",
+          "heading": "1. Sastavite popis artikala prije odabira paketa",
+          "paragraphs": [
+            "Za svaki artikl zabilježite oznaku narudžbe, proizvod, odabranu veličinu ili boju, količinu i trenutačni skladišni status. Odvojite primljene artikle od onih koji su još kod prodavatelja ili u domaćem prijevozu. Spremnost jedne narudžbe ne potvrđuje dolazak ostalih. Zabilježite i artikle koje želite izostaviti kako se stari uži izbor ne bi zamijenio s konačnom uputom za pakiranje.",
+            "Za artikle različitih prodavatelja sačuvajte izvorne oznake narudžbi, čak i kada poslije dijele isti broj paketa. Korisne su pri objašnjavanju nedostajuće količine, pogrešne varijante ili problema određenog prodavatelja. Jedna međunarodna pošiljka ne briše zasebne povijesti kupnje. Konačni popis paketa treba povezati svaki uključeni artikl sa zapisom koji ste doista provjerili."
+          ]
+        },
+        {
+          "id": "finish-qc",
+          "heading": "2. Najprije dovršite QC i odluke o povratu",
+          "paragraphs": [
+            "Pregledajte skladišne dokaze za pristigle artikle. Prije vidljivog stanja i traženih mjera uskladite oznaku, varijantu i količinu. Fotografija iz kataloga nije dokaz stanja vaše konkretne narudžbe. Ako dostupne fotografije ne odgovaraju na važno pitanje, zatražite potreban detalj putem Pikobuya i prije odluke o slanju potvrdite eventualnu naknadu.",
+            "Neriješen artikl nemojte staviti u skupinu spremnu za slanje dok ne odlučite što ćete učiniti. Objavljena politika povrata sadrži vremenske uvjete i uvjete prihvatljivosti, pa čekanje drugog prodavatelja ne smije odvratiti pozornost od odluke o artiklu koji je već u skladištu. Sačuvajte etikete, plombe i ambalažu dok razjašnjavate povrat. Nemojte odobriti njihovo uklanjanje samo radi procjene objedinjenog paketa."
+          ]
+        },
+        {
+          "id": "choose-wait-or-send",
+          "heading": "3. Odlučite ima li smisla čekati drugi artikl",
+          "paragraphs": [
+            "Usporedite praktične posljedice čekanja sa slanjem odobrenih artikala odmah. Zabilježite artikl koji nedostaje, njegov potvrđeni status i relevantne rokove već pohranjenih artikala. Javni uvjeti prosljeđivanja ne utvrđuju jedinstveno besplatno razdoblje skladištenja za sve narudžbe. Provjerite aktualne uvjete za svoje artikle umjesto pretpostavljanja fiksnog broja besplatnih dana s druge stranice.",
+            "Čekanje može stvoriti drukčiji paket, ali ne jamči uštedu ni određeni datum slanja. Zakašnjeli artikl može promijeniti i dimenzije ili dostupnu rutu. Za kupnju vezanu uz određeni datum procijenite cijeli preostali slijed. Odluku pojednostavite: koji dokaz nedostaje, koji je rok važan i što ćete učiniti ako artikl još nije spreman."
+          ]
+        },
+        {
+          "id": "specify-packaging",
+          "heading": "4. Dajte precizne upute za pakiranje",
+          "paragraphs": [
+            "Odredite potrebnu zaštitu svakog artikla i maloprodajnu ambalažu koju želite zadržati. Obuća, mekana odjeća i lomljivi dodaci ne zahtijevaju nužno jednaku obradu. Ako razmišljate o uklanjanju kutije, navedite artikl i najprije potvrdite završetak pregleda ili odluke o povratu. Izbjegavajte nejasne upute poput uklanjanja sve ambalaže kada artikli imaju različite potrebe.",
+            "Pikobuy u vodiču za kupnju spominje zahtjeve za minimalnu i ojačanu ambalažu. Potvrdite dostupnost za svoj paket i utječe li usluga na cijenu ili dimenzije. Zahtjev nije dokaz da završeni paket ima očekivane dimenzije. Kada budu dostupne, zatražite konačne mjere i usporedite ih s brojevima iz ranije procjene."
+          ]
+        },
+        {
+          "id": "compare-configurations",
+          "heading": "5. Usporedite jedan paket sa stvarnim alternativama",
+          "paragraphs": [
+            "Usporedite ponudu za odobreni objedinjeni paket s ukupnim iznosom zasebnih paketa koje biste doista poslali. Koristite isto odredište i jasan popis sadržaja za svaku opciju. Uključite odabranu ambalažu i potvrđene usluge obrade. Usporedba cijelog paketa samo s jednom polovicom podijeljene pošiljke podcijenit će alternativni trošak.",
+            "Tablica u nastavku služi odlučivanju, a ne kao dokaz da je razdvajanje ili spajanje uvijek jeftinije. Ispunite je aktualnim mjerama i ponudama. Rezultat ovisi o stvarno dostupnim rutama i njihovoj naplati. Cijene kupljenih proizvoda vodite odvojeno kada su jednake u obje opcije; usporedba treba pokazati razlike umjesto da istu kupnju računa dvaput."
+          ],
+          "table": {
+            "headers": [
+              "Provjera",
+              "Objedinjeni paket",
+              "Odvojeni paketi"
+            ],
+            "rows": [
+              [
+                "Sadržaj",
+                "Svi odobreni artikli zajedno",
+                "Navedite artikle svakog paketa"
+              ],
+              [
+                "Ambalaža",
+                "Zaštita i zadržane kutije",
+                "Potrebna zaštita svakog paketa"
+              ],
+              [
+                "Mjere",
+                "Jedna konačna zapakirana težina i veličina",
+                "Težina i veličina svakog paketa"
+              ],
+              [
+                "Usporedba dostave",
+                "Cijeli ponuđeni iznos",
+                "Zbroj svih ponuđenih iznosa"
+              ],
+              [
+                "Otvorena pitanja",
+                "Prihvatljivost i neriješene usluge",
+                "Prihvatljivost i neriješene usluge svakog paketa"
+              ]
+            ]
+          }
+        },
+        {
+          "id": "confirm-submission",
+          "heading": "6. Potvrdite paket prije plaćanja",
+          "paragraphs": [
+            "Usporedite konačni popis artikala i količine s vlastitim zapisom. Prije predaje ili plaćanja provjerite adresu, rutu, upute pakiranja i iznos. Ako artikl nedostaje, nemojte pretpostaviti da će biti automatski dodan zato što pripada istom računu. Ako je uključen neočekivani artikl, riješite to prije slanja. Jasna potvrda lakša je od naknadnog rekonstruiranja namjere.",
+            "Konačnu oznaku paketa čuvajte uz pojedinačne oznake narudžbi. Zabilježite što platforma potvrđuje o težini, dimenzijama i uključenim uslugama. Ako se iznos nakon pakiranja promijeni, usporedite ga s ranijom procjenom i prepoznajte promijenjeni podatak. Za neobjašnjivu razliku postavite usmjereno pitanje umjesto pretpostavke da je početna procjena obvezujuća konačna cijena."
+          ]
+        },
+        {
+          "id": "support-template",
+          "heading": "7. Postavite pitanje na koje podrška može djelovati",
+          "paragraphs": [
+            "Koristan zahtjev navodi artikle, željenu radnju i ono što treba potvrditi. Primjerice: potvrdite mogu li navedeni skladišni artikli zajedno u paket za moje odredište, uz zadržavanje navedene ambalaže, te navedite konačnu težinu, dimenzije i aktualne mogućnosti dostave. Opći opis zamijenite stvarnim oznakama unutar službenog kanala računa.",
+            "Pri usporedbi konfiguracija jasno navedite koji popis artikala pripada kojoj opciji. Ako trebate fotografiju prije odluke, navedite dio ili mjeru koja nedostaje. Lozinke računa i tajne podatke plaćanja nemojte slati porukama ni objavljivati na snimkama zaslona. Ovaj neovisni vodič ne može pregledavati privatne narudžbe ni izdavati skladišne upute u vaše ime; odluku provedite službenim Pikobuy kontaktom."
+          ]
+        },
+        {
+          "id": "check-delivery",
+          "heading": "8. Provjerite sadržaj, a ne samo rezultat praćenja",
+          "paragraphs": [
+            "Nakon slanja pratite međunarodni paket preko njegova vlastitog zapisa. Prodavateljev broj domaćeg praćenja ne prati nužno objedinjenu pošiljku. Do isporuke čuvajte popis paketa i dokaze pregleda. Po dolasku usporedite sadržaj i količine s popisom prije zatvaranja evidencije, osobito kada jedna vanjska kutija sadrži artikle više prodavatelja.",
+            "Ako nešto nedostaje ili je vidljivo oštećeno, dokumentirajte konkretno odstupanje i sačuvajte relevantne naljepnice i ambalažu dok kontaktirate podršku. Razlikujte problem artikla od problema statusa dostave. Za buduće planiranje zabilježite je li objedinjavanje promijenilo mjere, dostupne rute ili potrebnu obradu. Rezultatom poboljšajte vlastiti kontrolni popis bez tretiranja jedne narudžbe kao dokaza univerzalne uštede."
+          ]
+        },
+        {
+          "id": "worked-item-list",
+          "heading": "9. Primjer popisa: neriješen artikl vodite odvojeno",
+          "paragraphs": [
+            "Zamislite kupca koji je od triju prodavatelja naručio majicu, par cipela i malu torbu. Veličina i stanje majice provjereni su. Za cipele treba dodatna mjera, a torba još nije stigla u skladište. Popis spremnih artikala sadrži samo majicu; preostala dva ne smiju se prešutno uključiti samo zato što su sva tri kupljena za istu planiranu pošiljku.",
+            "Kupac traži mjeru cipela, provjerava zadnji potvrđeni status torbe i bilježi uvjete skladištenja i povrata pristiglih artikala. Nakon dovoljno dokaza može usporediti paket odobrenih artikala s kasnijom alternativom koja uključuje torbu. Svaka opcija treba vlastiti stvarni sadržaj i mjere. Ovaj hipotetski primjer ne preporučuje čekanje ni razdvajanje u svim slučajevima. Pokazuje zašto je izričit popis artikala korisniji od opće upute da se spoji sve na računu."
+          ]
+        }
+      ],
+      "sourceIds": [
+        "official-contact",
+        "official-guide",
+        "official-shipping",
+        "official-returns"
+      ],
+      "related": [
+        "qc",
+        "articles/pikobuy-warehouse-returns",
+        "articles/pikobuy-shipping-calculator",
+        "articles/pikobuy-tracking-not-updating"
+      ],
+      "published": "2026-10-29",
+      "updated": "2026-10-29"
     }
-  ]
+  ],
+  "growth": {
+    "homeTitle": "Pikobuy spreadsheet: poveznice, QC i vodiči za dostavu",
+    "homeDescription": "Pregledajte Pikobuy poveznice za obuću i odjeću. Usporedite cijene u USD, provjerite veličine i QC te planirajte dostavu uz praktične vodiče.",
+    "catalogTitle": "Pikobuy spreadsheet: obuća, odjeća i poveznice proizvoda",
+    "catalogDescription": "Pretražite Pikobuy spreadsheet po kategoriji i usporedite cijene u USD. Otvorite detalje proizvoda, provjerite veličine i nastavite na Pikobuy.",
+    "categoryGuideHeading": "Prije odabira artikla",
+    "categories": {
+      "shoes": {
+        "title": "Pikobuy spreadsheet obuće: poveznice, veličine i QC",
+        "description": "Pregledajte poveznice obuće u Pikobuy spreadsheetu, usporedite cijene u USD te prije slanja provjerite mjere, skladišne fotografije i ambalažu.",
+        "intro": "Uspoređujte oglase obuće prema točnoj veličini i varijanti koju želite naručiti. Poznata oznaka veličine polazište je, a ne dokaz pristajanja. Otvorite izvorne detalje i prije plaćanja provjerite prodavateljeve mjere. Fotografije na ovoj stranici slike su proizvoda iz oglasa, a ne QC fotografije vaše narudžbe.",
+        "checks": [
+          "Usporedite prodavateljevu tablicu veličina s udobnim parom koji već imate.",
+          "Zatražite mjeru ili fotografiju etikete potrebnu za razjašnjavanje veličine.",
+          "Nakon QC-a i odluke o mogućem povratu odlučite želite li zadržati kutiju za obuću."
+        ]
+      },
+      "sweatshirts": {
+        "title": "Pikobuy spreadsheet dukserica i majica s kapuljačom",
+        "description": "Pronađite poveznice dukserica i majica s kapuljačom, usporedite cijene u USD te prije Pikobuy narudžbe provjerite širinu prsa, duljinu i rukave.",
+        "intro": "Duksericu ili majicu s kapuljačom odaberite prema mjerama odjevnog predmeta i željenom kroju. Širinu prsa, duljinu i rukave usporedite s odjećom koju već nosite. Ista slovna veličina može označavati različite krojeve, stoga provjerite konkretan oglas i varijantu umjesto pretpostavljanja univerzalne pretvorbe veličina.",
+        "checks": [
+          "Uspoređujte mjere uzete istom metodom i u istim jedinicama.",
+          "U izvornom oglasu provjerite odabranu boju, kapuljaču, patentni zatvarač i džepove.",
+          "Pregledajte skladišne fotografije prije dodavanja odjevnog predmeta u objedinjeni paket."
+        ]
+      },
+      "tshirts": {
+        "title": "Pikobuy spreadsheet majica: poveznice i provjera veličine",
+        "description": "Pregledajte poveznice majica i cijene u USD. Usporedite širinu prsa i duljinu, provjerite odabranu varijantu i planirajte skladišni QC prije slanja.",
+        "intro": "Majice uspoređujte prema širini prsa, duljini i željenom kroju. Fotografije iz oglasa pomažu prepoznati dizajn, ali ne potvrđuju mjere ni stanje artikla poslanog u skladište. Odabranu veličinu i boju čuvajte uz oznaku narudžbe kako biste ih usporedili s kasnijim fotografijama pregleda.",
+        "checks": [
+          "Izmjerite majicu koja vam odgovara i usporedite prodavateljevu metodu mjerenja.",
+          "Potvrdite odabranu veličinu i boju prije otvaranja narudžbe na Pikobuyu.",
+          "Zatražite jasniju fotografiju detalja ako otisak, šav ili mjera ostaju nejasni."
+        ]
+      }
+    },
+    "hubs": {
+      "qc": {
+        "title": "Pikobuy QC vodič: fotografije, mjere i povrat",
+        "description": "Usporedite Pikobuy QC fotografije s narudžbom: veličinu, boju, količinu i vidljivo stanje. Saznajte kada prije slanja zatražiti dodatne dokaze.",
+        "sections": [
+          {
+            "id": "match-order",
+            "heading": "Uskladite fotografije s vlastitom narudžbom",
+            "paragraphs": [
+              "Počnite oznakom narudžbe, odabranom varijantom i količinom. Skladišni zapis usporedite s proizvodom koji ste doista kupili, a ne sličnim oglasom. Slike u ovom neovisnom katalogu fotografije su proizvoda; nisu povezani QC dokazi za vašu narudžbu."
+            ]
+          },
+          {
+            "id": "check-evidence",
+            "heading": "Provjerite vidljive detalje i mjere",
+            "paragraphs": [
+              "Pregledajte boju, etikete, šavove, položaj otiska, dodatke i vidljiva oštećenja. Za veličinu zatražite mjeru važnu za odluku, istom metodom kao u prodavateljevoj tablici. Jasna etiketa ne dokazuje pristajanje, a fotografija ne dokazuje sastav materijala, autentičnost ni dugoročnu izdržljivost."
+            ]
+          },
+          {
+            "id": "request-detail",
+            "heading": "Zatražite detalj koji bi promijenio odluku",
+            "paragraphs": [
+              "Navedite artikl i dio koji treba prikazati. Primjerice, zatražite odjevni predmet položen ravno s metrom vidljivim od ruba do ruba. U Pikobuyu potvrdite dostupnu uslugu i naknadu. Ako fotografija ostaje neodlučna, zadržite tu nesigurnost umjesto da je smatrate odobrenjem."
+            ]
+          },
+          {
+            "id": "decide-before-shipping",
+            "heading": "Odlučite prije predaje paketa",
+            "paragraphs": [
+              "Odobrite artikl, zatražite pojašnjenje ili pokrenite prihvatljiv povrat dok je artikl još u skladištu. Odmah provjerite važeće uvjete povrata i sačuvajte potrebnu ambalažu. Odluku dovršite prije objedinjavanja ili nepovratnih promjena ambalaže. Zapis pregleda čuvajte uz konačni popis paketa."
+            ]
+          }
+        ],
+        "sourceIds": [
+          "official-guide",
+          "official-user-agreement",
+          "official-returns"
+        ]
+      },
+      "shipping": {
+        "title": "Pikobuy dostava: kalkulator, troškovi i praćenje",
+        "description": "Planirajte Pikobuy dostavu službenim kalkulatorom, zapakiranom težinom i dimenzijama. Usporedite rute, objedinite odobrene artikle i pratite paket nakon slanja.",
+        "sections": [
+          {
+            "id": "estimate-first",
+            "heading": "Procijenite paket prije obvezivanja budžeta",
+            "paragraphs": [
+              "U službeni kalkulator unesite stvarnu zemlju dostave, vrstu proizvoda, težinu i tri dimenzije. Izmjerene vrijednosti odvojite od pretpostavki. Usporedite isti paket među dostupnim opcijama te uz rezultat sačuvajte datum, valutu, rutu i uključene usluge."
+            ]
+          },
+          {
+            "id": "complete-budget",
+            "heading": "Odvojite plaćanje proizvoda od međunarodnog prijevoza",
+            "paragraphs": [
+              "Kataloška cijena okvirna je cijena proizvoda u USD. Ne uključuje međunarodnu dostavu ni moguće dodatne naknade. Plaćanje kupnje, dostave i potvrđenih dodatnih ili odredišnih troškova vodite u odvojenim stavkama budžeta. Nepoznati iznos razjasnite umjesto da ga smatrate nulom."
+            ]
+          },
+          {
+            "id": "pack-after-qc",
+            "heading": "Odaberite ambalažu nakon QC-a",
+            "paragraphs": [
+              "Prije objedinjavanja skladišnih artikala riješite veličinu i stanje. Provjerite utječu li promjene ambalaže na zaštitu ili mogući povrat. Usporedite težinu i dimenzije gotovog paketa s vrijednostima procjene; nemojte pretpostaviti da spajanje uvijek smanjuje ukupni iznos."
+            ]
+          },
+          {
+            "id": "follow-dispatch",
+            "heading": "Pratite pošiljku od stvarnog slanja",
+            "paragraphs": [
+              "Trodnevni navod službenog vodiča odnosi se na informacije za praćenje nakon slanja, a ne isporuku u tri dana. Razlikujte plaćanje proizvoda, dolazak u skladište, predaju paketa i kretanje prijevoznika. Pri upitu podršci sačuvajte oznaku paketa i zadnji potvrđeni događaj."
+            ]
+          }
+        ],
+        "sourceIds": [
+          "official-estimate",
+          "official-guide",
+          "official-contact"
+        ]
+      }
+    }
+  }
 }
