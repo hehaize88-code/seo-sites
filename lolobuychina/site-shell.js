@@ -1,35 +1,30 @@
 (() => {
-  const send = (name, params = {}) => {
-    if (typeof window.gtag === "function") window.gtag("event", name, { ...params, transport_type: "beacon" });
+  const language = document.documentElement.lang;
+  const send = (name, values = {}) => {
+    if (typeof window.gtag === 'function') window.gtag('event', name, {page_language: language, ...values, transport_type: 'beacon'});
   };
-  const placement = (node) => {
-    const section = node.closest(".article,.card,.cat,.search,.actions,nav,header,footer");
-    if (!section) return "page";
-    if (section.matches("nav,header")) return "navigation";
-    if (section.matches("footer")) return "footer";
-    if (section.classList.contains("article")) return "article_card";
-    if (section.classList.contains("cat")) return "category_card";
-    if (section.classList.contains("search")) return "search";
-    if (section.classList.contains("actions")) return "hero_action";
-    return "content_card";
-  };
-  document.addEventListener("click", (event) => {
-    const link = event.target.closest("a[href]");
+  const placement = node => node.closest('header') ? 'navigation' : node.closest('footer') ? 'footer' : node.closest('.product-card') ? 'product_card' : node.closest('.article-card') ? 'article_card' : 'content';
+  document.addEventListener('click', event => {
+    const link = event.target.closest('a[href]');
     if (!link) return;
     const url = new URL(link.href, location.href);
-    const linkText = (link.textContent || "").trim().replace(/\s+/g, " ").slice(0, 80);
-    if (url.hostname === "cnfanshm.com") {
+    const values = {destination_url: url.href, link_text: link.textContent.trim().slice(0, 100), click_placement: placement(link)};
+    if (url.hostname === 'cnfanshm.com') {
       const product = url.pathname.match(/^\/AllProducts\/(\d+)\.html$/i);
-      const categoryPaths = ["/shoes/","/hoodies-sweaters/","/t-shirts/","/jackets/","/pants-shorts/","/headwear/","/accessories/","/jersey/","/electronics/"];
-      send(product ? "main_product_click" : categoryPaths.includes(url.pathname.toLowerCase()) ? "category_click" : "main_site_click", {
-        destination_url: url.href, link_text: linkText, click_placement: placement(link),
-        ...(product ? { product_id: product[1] } : {})
-      });
-    } else if (url.hostname === location.hostname && (url.pathname.startsWith("/articles/") || url.pathname.startsWith("/guides/"))) {
-      send("article_cta_click", { destination_path: url.pathname, link_text: linkText, click_placement: placement(link) });
+      const categories = ['/shoes/','/hoodies-sweaters/','/t-shirts/','/jackets/','/pants-shorts/','/headwear/','/accessories/','/jersey/','/electronics/'];
+      send(product ? 'main_product_click' : categories.includes(url.pathname.toLowerCase()) ? 'category_click' : 'main_site_click', {...values, ...(product ? {product_id: product[1], source_id: link.dataset.productId || ''} : {})});
+    } else if (url.origin === location.origin && /\/(articles|guides)\//.test(url.pathname)) {
+      send('article_cta_click', {...values, destination_path: url.pathname});
     }
+    if (link.closest('.language')) send('language_switch', {destination_language: link.hreflang, destination_path: url.pathname});
   }, true);
-  document.addEventListener("submit", (event) => {
-    send("search_submit", { form_id: event.target.id || "site-search", page_path: location.pathname });
-  }, true);
+  document.querySelectorAll('[data-product-search]').forEach(form => form.addEventListener('submit', event => {
+    event.preventDefault();
+    const query = new FormData(form).get('keywords').trim();
+    if (!query) return;
+    const target = window.LBC.resolve(query);
+    send('search_submit', {form_id: 'product-search', page_path: location.pathname});
+    send('main_site_click', {destination_url: target, click_placement: 'search'});
+    location.assign(target);
+  }));
 })();
