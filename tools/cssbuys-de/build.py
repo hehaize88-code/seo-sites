@@ -60,7 +60,7 @@ def setmeta(s,title,desc,url,lang,published=None):
         existing=s.find('meta',property=attr)
         if existing:existing.decompose()
 def language_nav(s,lang,tail):
-    nav=s.new_tag('nav',attrs={'class':'language-links','aria-label':UI[lang][9]})
+    nav=s.new_tag('nav',attrs={'class':'language-links','aria-label':dict(zip(LANGS,['Language','Sprache','Langue','Idioma','Lingua','Język']))[lang]})
     for l in LANGS:
         a=s.new_tag('a',href=prefix(l)+tail,attrs={'hreflang':HREFLANG[l]});a.string=l.upper()
         if l==lang:a['aria-current']='page'
@@ -97,6 +97,22 @@ def shell(s,lang,tail):
     for a in s.select('a.brand'):a['href']=home
     for old in list(s.select('.language-links')):old.replace_with(language_nav(s,lang,tail))
     for a in s.select('a[href="/faq"]'):a['href']=prefix(lang)+'/faq'
+    footer=s.select_one('footer')
+    if footer:
+        labels={
+          'en':['Explore','Policies','About','Contact','Impressum','Privacy','Editorial policy','Disclaimer','Independent guides to product links, QC and shipping to Germany.'],
+          'de':['Entdecken','Rechtliches','Über uns','Kontakt','Impressum','Datenschutz','Redaktionsrichtlinien','Haftungsausschluss','Unabhängige Ratgeber zu Produktlinks, QC und Versand nach Deutschland.'],
+          'fr':['Découvrir','Informations légales','À propos','Contact','Mentions légales','Confidentialité','Politique éditoriale','Avertissement','Guides indépendants sur les liens produits, le QC et les envois en Allemagne.'],
+          'es':['Explorar','Información legal','Sobre nosotros','Contacto','Aviso legal','Privacidad','Política editorial','Exención de responsabilidad','Guías independientes de enlaces de productos, QC y envíos a Alemania.'],
+          'it':['Esplora','Informazioni legali','Chi siamo','Contatti','Note legali','Privacy','Politica editoriale','Avvertenze','Guide indipendenti su link di prodotto, QC e spedizioni in Germania.'],
+          'pl':['Odkrywaj','Informacje prawne','O nas','Kontakt','Dane wydawcy','Prywatność','Zasady redakcyjne','Zastrzeżenia','Niezależne poradniki o linkach produktowych, QC i wysyłce do Niemiec.']
+        }[lang]
+        for b,label in zip(footer.find_all('b'),labels[:2]):b.string=label
+        if footer.find('p'):footer.find('p').string=labels[8]
+        mapping=dict(zip(['/about','/contact','/impressum','/privacy','/editorial-policy','/disclaimer'],labels[2:8]))
+        mapping[route(lang)]=u[4];mapping[prefix(lang)+'/faq']=u[5]
+        for a in footer.select('a[href]'):
+            if a['href'] in mapping:a.string=mapping[a['href']]
     for x in s.select('script[src="/assets/site-events.js"]'):x['src']='/assets/site-events.js?v=20261102'
     if not s.select('script[src^="/assets/site-events.js"]'):
         s.head.append(s.new_tag('script',src='/assets/site-events.js?v=20261102',defer=''))
