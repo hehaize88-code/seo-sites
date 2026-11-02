@@ -1,4 +1,21 @@
 const STYLE=`<style>.lang-switch{max-width:100%;height:38px;border:1px solid #0f766e;border-radius:999px;background:#fff;color:#111827;font-weight:700;padding:0 10px}.mobile-lang-wrap{position:fixed;right:14px;bottom:14px;z-index:9999}.mobile-lang-wrap .lang-switch{background:#0f766e;color:#fff}@media(max-width:760px){.mobile-lang-wrap .lang-switch{width:130px;font-size:12px}}</style>`;
 const SELECT=`<select class="lang-switch notranslate" aria-label="Translate this page" onchange="setPageLang(this.value)"><option value="">Language</option><option value="en">English</option><option value="zh-CN">中文</option><option value="de">Deutsch</option><option value="fr">Français</option><option value="es">Español</option><option value="it">Italiano</option><option value="pl">Polski</option><option value="nl">Nederlands</option><option value="pt">Português</option></select>`;
 const SCRIPT=`<script>function googleTranslateElementInit(){var l=(document.documentElement.lang||'en');new google.translate.TranslateElement({pageLanguage:l,includedLanguages:'en,zh-CN,de,fr,es,it,pl,nl,pt',autoDisplay:false},'google_translate_element')}function setPageLang(v){if(!v)return;var s=(document.documentElement.lang||'en');document.cookie='googtrans=/'+s+'/'+v+';path=/;SameSite=Lax';document.cookie='googtrans=/'+s+'/'+v+';domain=.'+location.hostname+';path=/;SameSite=Lax';location.reload()}</script><div id="google_translate_element" style="display:none"></div><div class="mobile-lang-wrap">${SELECT}</div><script src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>`;
-export default{async fetch(request,env){const res=await env.ASSETS.fetch(request);if(!(res.headers.get('content-type')||'').includes('text/html'))return res;return new HTMLRewriter().on('head',{element(e){e.append(STYLE,{html:true})}}).on('body',{element(e){e.append(SCRIPT,{html:true})}}).transform(res)}};
+export default {
+  async fetch(request, env) {
+    const res = await env.ASSETS.fetch(request);
+    if (!(res.headers.get('content-type') || '').includes('text/html')) return res;
+    let hasLocalizedNavigation = false;
+    return new HTMLRewriter()
+      .on('head', { element(e) { e.append(STYLE, { html: true }); } })
+      .on('nav.language-links', { element() { hasLocalizedNavigation = true; } })
+      .on('body', { element(e) {
+        e.onEndTag(end => {
+          // Native translations link to the same article in all eight languages.
+          // Keep the legacy translation helper only on pages without that navigation.
+          if (!hasLocalizedNavigation) end.before(SCRIPT, { html: true });
+        });
+      } })
+      .transform(res);
+  }
+};

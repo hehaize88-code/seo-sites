@@ -55,6 +55,10 @@
     try { url = new URL(link.href, window.location.href); } catch { return; }
     const text = (link.textContent || "").trim().slice(0, 120);
     const card = link.closest(".product-tile");
+    if (link.closest(".language-links")) {
+      sendEvent("language_change", {language: link.hreflang, page_path: window.location.pathname});
+      return;
+    }
     if (url.hostname === "www.cnfanshp.com" || url.hostname === "cnfanshp.com") {
       sendEvent(card ? "select_item" : "main_product_click", {
         link_url: url.href,
@@ -65,7 +69,7 @@
       });
       return;
     }
-    if (url.origin === window.location.origin && /guide|anleitung|sendungsverfolgung|kosten|versand|qc|product|categor|groessen|rueckgabe|lager|winterkleidung/.test(url.pathname)) {
+    if (url.origin === window.location.origin && (/guide|anleitung|sendungsverfolgung|kosten|versand|qc|product|categor|groessen|rueckgabe|lager|winterkleidung/.test(url.pathname) || /^\/(en|de|fr|es|it|pl|pt|nl)\/[^/]+\/$/.test(url.pathname))) {
       sendEvent("article_click", {
         link_url: url.href,
         link_text: text,
