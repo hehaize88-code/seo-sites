@@ -1,0 +1,157 @@
+@@ cssbuy-tyg-eu-tariffless-express
+TYG-EU-Tariffless Express: Germany Shipping & Tracking
+Compare TYG-EU-Tariffless Express weight rules, Germany tracking stages and parcel checks before paying for CSSBuy shipping.
+TYG-EU-Tariffless Express appears in CSSBuy's public Germany route information. A route name alone does not establish the price, eligibility or delivery date for your parcel. Start with packed measurements and the offer actually available in your account.
+
+## What the public route listing tells you
+The public CSSBuy route card reviewed for this guide names Germany, a volumetric ratio of 9000 and a displayed delivery estimate of ten days. These are published reference fields, not an independently timed delivery test. Different public captures show different converted dollar prices, so this guide does not turn a homepage price into a current parcel quotation. Your selected country, contents, dimensions, account currency and quotation time must travel with any comparison.
+
+Open the [official CSSBuy route information](https://www.cssbuy.com/?go=mall) and then the calculator available there. Confirm the exact line name; a similar abbreviation can refer to another service. If TYG-EU-Tariffless Express is absent from the results for your parcel, do not select a different country or hide an item attribute to make it appear. Ask support which condition excludes the parcel and compare the eligible alternatives.
+
+## Calculate actual weight and volumetric weight separately
+Actual weight is the mass of the packed parcel. Volumetric weight represents the transport space it occupies. Where the selected line explicitly applies a divisor of 9000 in centimetres and kilograms, the calculation is length × width × height ÷ 9000. Check the unit and divisor in the live quotation before using that calculation; a different line can use a different rule.
+
+For an illustrative parcel measuring 45 × 35 × 30 cm, the result is 5.25 kg. If its actual packed weight is 4 kg and the line charges the larger value, 5.25 kg is the starting point for billing before any rounding or minimum charge. This is an arithmetic example, not a measured customer shipment. Do not divide measurements in millimetres by the same number or confuse grams with kilograms.
+
+Now suppose suitable repacking reduces the height to 25 cm while the other dimensions stay unchanged. Volumetric weight becomes 4.375 kg. The reduction matters only after the warehouse confirms the final size and the selected line's billing increment. If the actual weight were 6 kg in both cases, reducing volume below 6 kg would not reduce the weight used by a larger-of-two rule. This is why a smaller box does not automatically produce a cheaper bill.
+
+## Check billing increments before comparing prices
+A first-weight price and a continued-weight price are components of a tariff. They are not the total cost for every parcel. Record the first included unit, each additional unit, rounding, minimum charge and any separately displayed service. Only apply a 500 g increment if the current offer states it. An estimate just above a boundary may be charged differently from the same parcel just below it.
+
+Keep the calculation in its quoted currency until you have compared like-for-like routes. Converted dollar or euro figures can move even when the underlying CNY price has not changed. Separately record packaging, optional insurance, any payment charge and destination-side amounts that are not included. The [[cssbuy-payment-methods-fees-refunds|payment and refund guide]] explains why a platform credit, provider debit and service fee must remain separate entries.
+
+## Understand what “tariffless” does and does not establish
+Treat “Tariffless” as part of the service name. Before paying, read the exact route terms for included charges, handling arrangements, exclusions and required declaration information. The word alone does not establish that every item can legally be imported, that all charges are covered or that customs will never request documents. Keep truthful item descriptions and purchase evidence with the parcel record.
+
+Eligibility also depends on the product itself. Batteries, liquids, powders, fragile goods and some branded items may be subject to restrictions that ordinary clothing does not face. Use the actual attributes in the calculator, and resolve uncertainty before combining items. A small restricted accessory can change the available options for an otherwise straightforward clothing parcel. Consult the [[cssbuy-germany-restricted-item-screening|restricted-item screening guide]] before purchase if the category is unclear.
+
+## Follow the tracking handoff to Germany
+Save the CSSBuy package number, selected line, dispatch record and tracking identifier. Electronic shipment information means that data exists; it does not by itself establish physical carrier acceptance. Look for a pickup, processing-centre scan or another event that records the parcel entering a transport stage. Keep the event text and timestamp rather than interpreting every new line as movement.
+
+An international shipment can have a separate local delivery number. When the parcel record identifies the destination carrier, save that carrier's name and number together. Do not assume that every TYG shipment uses one particular carrier or that an unrelated tracking website can prove the handoff. The [[cssbuy-tracking-last-mile-germany-eu|Germany tracking guide]] explains label creation, physical scans, customs events and local delivery in more detail.
+
+If tracking stops changing, start with the last physical event. Ask CSSBuy about dispatch or the logistics partner when the record is still at that stage. Once a named local carrier has accepted the parcel, its own record can clarify a delivery attempt, collection location or address issue. There is no single waiting period that fits every stage; use the current enquiry and claim conditions for the shipment.
+
+## Compare packaging without sacrificing the item
+For soft clothing, ask whether removing unnecessary retail packaging or using suitable compression changes the packed dimensions. For shoes, decide whether shape protection is still adequate after box removal. For a jacket, consider the shell, trims and filling before choosing compression. CSSBuy publicly describes packaging services, but availability and suitability must be confirmed for the actual order.
+
+Write specific instructions, such as which retail box may be removed and which protective layer must stay. Do not use “remove all packaging” when the parcel contains a mixture of garments, delicate hardware and structured items. If you request a packing estimate, keep its fee separate from any potential freight reduction. The [[cssbuy-rehearsal-shipping|rehearsal shipping guide]] provides a comparison worksheet without assuming that repacking always saves money.
+
+## Build a usable route comparison
+Create one row per eligible line with the same destination, item list, packed weight and dimensions. Add quotation time, chargeable weight, billing increment, freight total, included services, displayed transit estimate, tracking arrangement and unresolved exclusions. If a field is unknown, leave it marked unknown rather than borrowing an answer from another line.
+
+For a hypothetical comparison, imagine one route has a lower freight quote but does not clearly state whether the required item attribute is accepted. Another costs slightly more and explicitly accepts that attribute. The first row is incomplete, not a proven bargain. Likewise, comparing a packed parcel with an earlier item-weight estimate does not demonstrate a price increase for the same service. Resolve the changed input first.
+
+## Check the parcel immediately before payment
+Match the recipient, street and house number, postcode and country to the destination you used in the quotation. Confirm that every item is accepted after QC and that no pending return is included. Save the final packing configuration, route terms and payable total. A later addition, removal or address change requires a fresh comparison.
+
+The useful outcome is a documented choice: this exact parcel qualifies for this exact line at this quoted amount, subject to these stated conditions. It is not a promise that a ten-day estimate will become a delivery appointment. Allow for warehouse work, transport capacity, customs processing and local delivery when planning an order you need by a particular date.
+
+## Sources and scope
+Reviewed 2 November 2026: [CSSBuy public route card](https://www.cssbuy.com/?go=mall) and [official forwarding and packaging services](https://m.cssbuy.com/shipforme). No checkout, shipment test or account-specific rate verification was performed. All dimensions and comparisons above are illustrative.
+
+@@ cssbuy-rehearsal-shipping
+CSSBuy Rehearsal Shipping: Why the Final Quote Changes
+Understand CSSBuy rehearsal shipping, packed weight, volume and quote changes. Use a before-and-after worksheet before approving packing or freight.
+Rehearsal shipping is a buyer's term for checking a parcel's packed weight and dimensions before committing to a shipping decision. Ask what packing or measurement service your CSSBuy order actually offers, what it costs and what can still be changed.
+
+## Start with the question the measurement must answer
+The useful question is usually whether the current estimate is based on individual items or on the finished parcel. Item weights cannot tell you the complete outer dimensions, protective packaging weight or usable shipping lines. A pre-packing or measurement step can reduce this uncertainty, but its value depends on what the warehouse measures and whether you can use the result before approving the relevant charge.
+
+CSSBuy's public forwarding page describes consolidation, vacuum packaging and reinforced packaging. The public sources checked for this guide did not establish one universal rehearsal price, processing time, cancellation rule or button sequence. Consequently, this guide does not promise a fixed fee or automatic refund. Read the service description attached to your order and ask support to clarify anything missing before paying for it.
+
+## Separate the four amounts people call a shipping price
+The first amount is a discovery estimate made before buying. It may use a guessed item weight and no reliable dimensions. The second is an estimate after warehouse arrival, when individual item information is available. The third is a quotation based on a specified packed configuration. The fourth is the final payable charge under the selected route and services. A change between these stages needs an explanation, but it is not automatically an extra unexplained fee.
+
+Record which stage each screenshot belongs to. A low early estimate for two garments cannot be compared directly with a later reinforced parcel containing those garments and a shoe box. The destination, item set, packaging, currency and quote date should match before you conclude that the same service became more expensive. The [[cssbuy-shipping-fees-weight-route-planning|shipping fee guide]] separates these cost layers.
+
+## Prepare the item list before requesting packing
+Finish the product decisions first. Confirm the exact items, quantities and warehouse order numbers. Complete QC and remove anything being returned or awaiting clarification. A later item change can make the original measurement obsolete. Check storage deadlines as well, because waiting for another purchase can create a different cost or urgency for items already in the warehouse.
+
+Write packaging instructions item by item. State which retail boxes may be removed, which accessories must remain, whether a structured item needs support and which garment should not be compressed. “Make it smaller” leaves too much uncertainty. A good request lets the warehouse distinguish dispensable retail presentation from protection that keeps the item usable.
+
+## Ask these questions about the available service
+Before ordering measurement or packing work, confirm the price, what is included, whether the result gives both outer dimensions and packed weight, and whether the item list can still be changed afterward. Ask whether changing the packing configuration requires another fee. If a route has already been selected, clarify whether the result can be used to compare alternatives or whether the parcel is already committed to that process.
+
+Keep the answer in the order conversation. Do not rely on an old forum screenshot of an interface button or assume a service is refundable because another buyer received a credit. The relevant terms are the ones that apply to your order. If the warehouse cannot provide a measurement you need, mark that uncertainty in the comparison rather than treating a guessed number as confirmed.
+
+## Calculate how volume can change the result
+Consider an illustrative parcel that weighs 4 kg after packing and measures 45 × 35 × 30 cm. Under a line that explicitly charges the larger of actual weight and centimetre volume divided by 9000, volumetric weight is 5.25 kg. If appropriate repacking reduces the height to 25 cm, volumetric weight falls to 4.375 kg. The billing increment still needs to be applied by the chosen line.
+
+This example does not establish the rules for every CSSBuy route. Some lines use different divisors, limits or charging methods. Nor does it guarantee a saving: the actual packed weight may dominate, the new dimensions may remain within the same billing step, or the service fee may exceed the freight reduction. Measure first, calculate second, and compare the complete payable scenarios.
+
+## Use a before-and-after worksheet
+Keep a row for the original configuration and a row for the proposed configuration. Each row needs the item set, packaging instructions, actual weight, length, width, height, route divisor if applicable, billable weight, freight quote, packing fee, optional services and total. Add whether each value is estimated or confirmed. This small distinction prevents a precise-looking spreadsheet from concealing uncertain inputs.
+
+For a hypothetical cost example, suppose the original freight is 420 CNY. The repacked option quotes 390 CNY but requires 20 CNY of additional service. The net saving is 10 CNY before any other difference, not 30 CNY. If protection becomes worse or changing the parcel adds an unacceptable delay, the cheapest arithmetic result may not be your preferred choice. These amounts illustrate the method; they are not CSSBuy service prices.
+
+## Understand the reasons a final quotation can rise
+A final quote may be higher because the outer box is larger than estimated, protective material adds weight, the line rounds to the next billing unit, or the product attributes leave fewer eligible routes. Currency conversion, a changed route rate or selected optional services can also affect the payable amount. Ask which input changed, rather than simply asking why shipping is expensive.
+
+An explanation should be traceable to the parcel record. Compare the original and final measurements, item count, service selections, currency and quotation timestamps. If a number looks inconsistent, request the specific measurement or charge breakdown. Preserve screenshots with personal information removed when sharing the problem outside the account. Do not initiate repeated payments while the status of an earlier payment is unresolved.
+
+## Avoid changes that create a new problem
+Vacuum packing can reduce volume for suitable soft goods, but it is not an automatic choice for every garment or accessory. Structured pieces, fragile trims and certain finishes may need a different approach. Box removal can change both protection and the ability to keep a complete retail set. Confirm what will actually be discarded before requesting irreversible removal.
+
+Consolidation also deserves a compatibility check. One restricted or fragile item can affect the entire parcel. Compare a combined shipment with two complete split scenarios, including both base charges and any duplicated packing work. The [[cssbuy-parcel-consolidation-germany|consolidation guide]] helps organize that decision. Never alter the description of an item merely to unlock a cheaper line.
+
+## Approve the result and keep the evidence
+When the result arrives, match it to the intended items and instructions. Save the packed weight, outer measurements, final route and amount. Confirm that the remaining storage and dispatch conditions fit your plan. If anything changes afterward, label the old quotation superseded and obtain a new one rather than editing the previous total by intuition.
+
+A useful support message includes the package number, the original estimate, the final quote, the changed field you cannot explain and the answer you need. For example, ask whether 45 × 35 × 30 cm is the finished outer box and which weight the selected line will bill. That question is easier to resolve than a general complaint about rehearsal shipping. Keep the accepted result with your [[cssbuy-tracking-last-mile-germany-eu|tracking record]] after dispatch.
+
+## Sources and scope
+Reviewed 2 November 2026: [CSSBuy forwarding services](https://m.cssbuy.com/shipforme) and [official public route information](https://www.cssbuy.com/?go=mall). Packing services are publicly described; account-specific rehearsal terms were not independently verified. Numerical examples explain the comparison method and are not price quotations.
+
+@@ cssbuy-hoodies-jackets-spreadsheet
+CSSBuy Hoodies & Jackets Spreadsheet: Sizes, QC & Weight
+Find hoodie and jacket links, compare garment measurements, review warehouse QC and plan packed weight before CSSBuy shipping to Germany.
+A useful CSSBuy hoodie or jacket spreadsheet connects a product link to a size decision, a QC check and a shipping plan. Start with measurements and construction details; a familiar product name or seller photo cannot establish fit, authenticity or packed weight.
+
+## Start with the right category and exact listing
+Open the [hoodies and sweatshirts catalogue](https://cnfanshp.com/hoodies-sweaters/) or the [jackets catalogue](https://cnfanshp.com/jackets/). These are discovery routes, not warehouse inspection records. A category can contain pullovers, zip hoodies, knitwear, lightweight shells and padded jackets with very different sizing and packaging needs. Narrow the intended use before comparing the displayed prices.
+
+The public catalogue includes a [hoodie listing](https://cnfanshp.com/AllProducts/5487.html) labelled “carhatt hoodie(40 CP)” and a [padded-jacket listing](https://cnfanshp.com/AllProducts/5919.html) labelled “The North Face Nuptse Jacket”. The names identify listings only; they are not our authentication or quality claims. The retrieved pages expose item identifiers 7710315632 and 7725945994 respectively. Match the live item, seller option and current price before ordering. We have not purchased or inspected these products.
+
+## Record fields that change a clothing decision
+Create columns for the catalogue link, original item identifier, seller option, colour, size, source price, domestic delivery, size-chart measurements and date checked. Add a place for warehouse measurements, QC outcome, actual item weight and packing instructions. Keep unknown fields empty or explicitly marked unknown. A number next to a product thumbnail is not evidence of a measured packed weight unless the source labels it that way.
+
+Separate listing facts from your own requirements. The seller may describe a garment as oversized, while you may need a specific chest width and length. Record both, and do not let a marketing label replace a measurement. If the required colour or size has disappeared, the spreadsheet row is no longer an available choice simply because its image still loads. Use the [[cssbuy-links-not-working|product-link troubleshooting guide]] when the destination changes.
+
+## Compare a hoodie with a garment that fits
+Lay a hoodie you already like flat and measure it using the same method as the seller's chart. Useful dimensions include chest width, body length, shoulder width and sleeve length. Note whether a sleeve is measured from the shoulder seam or from the centre back. Compare like with like: a flat chest width is not the same number as a full chest circumference.
+
+For an illustrative comparison, your reference hoodie could measure 58 cm across the chest and 68 cm in length, while a listing shows 60 cm and 70 cm. Those differences describe the measurements, not a guaranteed fit. Check measurement tolerance, garment cut and your preferred ease. Do not automatically size up or down based only on a letter such as M or L; letter sizes are not consistent across listings.
+
+## Check jackets for layering and movement
+A jacket needs enough room for what you intend to wear beneath it. Compare it with a jacket worn over a similar layer, not only with a thin T-shirt. Shoulder construction, chest, hem, sleeve opening and length can affect movement. A cropped jacket and a long shell may share a size label while meeting very different needs. Confirm whether the chart refers to the garment itself or the wearer's body.
+
+Padded clothing creates another limitation: outer measurements do not directly describe usable internal room. Filling, lining and construction affect the space inside. Ask for clarification when a seller's chart is incomplete. Ordinary photographs cannot establish a temperature rating, down composition, waterproof performance or breathability. Treat those as unverified unless supported by appropriate product evidence, rather than inferring them from thickness or a logo.
+
+## Review hoodie QC before international shipping
+Begin with identity: item, selected colour, size label and quantity. Then check front and back, hood shape, pocket placement, cuffs, hem and seams. Inspect visible print or embroidery for obvious mismatch with the selected listing. Uneven fabric placement can make a design appear off-centre, so compare another view or request a clearer flat photograph before deciding.
+
+If size is critical, ask whether the available warehouse service can photograph the specific measurement with the tape endpoints visible. A photo of a size label does not confirm the actual chest width. Likewise, a close-up of fleece does not establish fabric composition or long-term durability. Write the unresolved question precisely: for example, “Please show the flat chest width from underarm to underarm,” rather than “Is the size good?”
+
+## Review jacket QC with a different checklist
+For a jacket, look at the main zip, buttons or snaps, pocket openings, cuff closures, lining and visible seams. Check that detachable parts shown in the chosen option are present. If the jacket has panels or quilting, compare both sides at a normal viewing size before zooming. Folds, lighting and compression can make one area look fuller than another without proving a construction defect.
+
+Do not call exterior QC a functional test. A photograph cannot prove that a zip will remain reliable after use or that a shell resists rain. If a specific feature is essential, ask what check is actually available and whether it has a charge. Decide whether the remaining uncertainty is acceptable before paying international freight. The [[qc-guide|QC guide]] separates acceptance, clarification and problems to resolve while the item is still in the warehouse.
+
+## Keep item weight separate from parcel weight
+Hoodies and jackets can affect shipping in different ways. A dense sweatshirt can add actual weight, while a light padded jacket can add substantial volume. Neither should be assigned a universal shipping weight from its category name. Wait for warehouse data, then include the outer box and protection in the final estimate. The sum of individual item weights is not necessarily the finished parcel weight.
+
+For a hypothetical combined parcel, note which items can be folded or compressed and which finishes need protection. Ask whether unnecessary retail packaging may be removed without discarding accessories. Recalculate after packing changes. A route that uses volumetric weight may respond to reduced dimensions, while another billing rule may show little difference. The [[cssbuy-rehearsal-shipping|rehearsal guide]] explains how to test the saving against any service fee.
+
+## Make a keep, clarify or return decision
+Give each item a status before combining it with other orders. Keep means the identity and visible evidence meet your requirements. Clarify means a measurement, view or included part remains uncertain. Resolve before shipping means the evidence shows a wrong option or an unacceptable issue. Check the seller's current return conditions and the deadline recorded for that warehouse order immediately when a problem appears.
+
+Save the selected option, order number, relevant QC image and a short explanation of the mismatch. Avoid a vague complaint about overall quality when the actual issue is a missing drawcord or a chest measurement outside your agreed requirement. Return eligibility, domestic return charges and the later refund process are separate questions. The [[cssbuy-returns-after-qc|returns after QC guide]] helps organize the evidence without promising that every seller accepts a return.
+
+## Turn the shortlist into a parcel plan
+Before buying, compare the garment decision and the likely total cost together. Keep product price, domestic delivery, purchasing service, optional warehouse work, international freight and payment conversion as separate entries. An inexpensive jacket can become a poor choice if its size is uncertain and its packaging makes shipping disproportionate. Conversely, a slightly higher product price does not guarantee better fit or quality.
+
+After warehouse acceptance, use the confirmed measurements to compare eligible routes to Germany. Record the date and the exact item set beside the quote. Keep the clothing checklist attached to each spreadsheet row so a later restock does not silently inherit the evidence from a different seller option. The aim is a shortlist you can verify and a parcel you understand, not the longest possible list of links.
+
+## Sources and scope
+Reviewed 2 November 2026: the linked catalogue categories and public listing records; [CSSBuy packaging services](https://m.cssbuy.com/shipforme) for service context. Catalogue images are seller or catalogue material, not our warehouse QC. No purchase, fit test, authentication or laboratory test was performed. Measurement examples are illustrative.

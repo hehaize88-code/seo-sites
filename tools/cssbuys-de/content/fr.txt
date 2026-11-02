@@ -1,0 +1,149 @@
+@@ cssbuy-tyg-eu-tariffless-express
+TYG-EU-Tariffless Express : livraison et suivi en Allemagne
+Vérifiez le poids volumétrique, les étapes du suivi et les conditions de TYG-EU-Tariffless Express avant de payer votre envoi CSSBuy.
+CSSBuy présente TYG-EU-Tariffless Express parmi ses lignes vers l'Allemagne. Ce nom ne suffit pas à confirmer le prix, l'admissibilité de vos articles ou une date de livraison. Utilisez les mesures du colis emballé et l'offre disponible dans votre compte.
+
+## Lire les informations publiques de la ligne
+La fiche publique consultée indique l'Allemagne, un facteur volumétrique de 9000 et une estimation de dix jours. Ce sont des informations publiées, pas les résultats d'un envoi testé par notre rédaction. Les captures publiques affichent des prix convertis en dollars différents : nous ne présentons donc pas un tarif de page d'accueil comme un devis actuel. Conservez pays, contenu, dimensions, devise et date avec chaque comparaison.
+
+Consultez les [lignes officielles CSSBuy](https://www.cssbuy.com/?go=mall), puis le calculateur proposé. Vérifiez le nom complet. Si la ligne n'apparaît pas avec vos données réelles, ne modifiez pas le pays ou les caractéristiques des articles pour la faire apparaître. Demandez quelle condition bloque le colis et comparez les solutions admissibles.
+
+## Distinguer poids réel et poids volumétrique
+Le poids réel correspond au colis terminé sur la balance. Le poids volumétrique représente l'espace occupé. Lorsque l'offre applique explicitement des centimètres, des kilogrammes et le diviseur 9000, le calcul est longueur × largeur × hauteur ÷ 9000. Vérifiez ces unités et cette règle : une autre ligne peut fonctionner autrement.
+
+Exemple fictif : 45 × 35 × 30 cm donnent 5,25 kg volumétriques. Si le poids réel est de 4 kg et que la ligne retient le plus élevé, la base est 5,25 kg avant arrondi ou minimum. Ne mélangez pas millimètres et centimètres, ni grammes et kilogrammes. Avec une hauteur réduite à 25 cm, le résultat devient 4,375 kg. Seules les dimensions confirmées et les tranches de facturation permettent de calculer le prix.
+
+Si le colis pesait réellement 6 kg dans les deux configurations, réduire son volume sous l'équivalent de 6 kg ne changerait pas la base selon cette règle. Un carton plus petit ne garantit donc pas une économie. Il faut comparer les deux poids et le palier finalement facturé.
+
+## Comparer les tranches et les devis
+Un prix de première tranche et un prix de tranche supplémentaire ne constituent pas le total de tout colis. Notez poids initial inclus, pas supplémentaire, arrondi, minimum et services séparés. N'appliquez des pas de 500 g que si l'offre actuelle le précise. Une faible différence de mesure peut suffire à franchir un palier.
+
+Comparez d'abord dans la devise du devis. Une conversion en euros ou dollars peut évoluer sans changement du tarif en CNY. Séparez emballage, assurance facultative, frais de paiement et montants non inclus à destination. Le [[cssbuy-payment-methods-fees-refunds|guide des paiements et remboursements]] explique pourquoi débit bancaire, crédit du compte et frais de service sont des données différentes.
+
+## Comprendre le mot « Tariffless »
+Il s'agit d'abord du nom d'un service. Lisez les conditions de la ligne pour connaître les montants inclus, exclusions et informations de déclaration demandées. Ce mot seul ne prouve pas que tout produit est importable, que tous les frais sont couverts ou qu'aucun document ne sera demandé. Gardez des descriptions exactes et les justificatifs d'achat.
+
+Piles, liquides, poudres, produits fragiles ou certains articles de marque peuvent être soumis à des restrictions spécifiques. Indiquez leurs caractéristiques réelles. Un petit accessoire peut modifier les options de tout le colis. Consultez le [[cssbuy-germany-restricted-item-screening|guide des articles soumis à restrictions]] avant l'achat si la catégorie pose question.
+
+## Suivre le passage au transporteur local
+Enregistrez numéro de colis CSSBuy, ligne, preuve d'expédition et numéro de suivi. Une annonce électronique signifie que des données ont été transmises ; elle ne prouve pas à elle seule une prise en charge physique. Recherchez un scan d'enlèvement, d'acceptation ou de centre de traitement. Conservez le texte d'origine et l'horodatage.
+
+Un second numéro peut être attribué pour la livraison locale. Associez-le au transporteur nommé dans le dossier réel. Ne supposez pas que toutes les expéditions TYG utilisent le même opérateur. Le [[cssbuy-tracking-last-mile-germany-eu|guide du suivi en Allemagne]] distingue création d'étiquette, scans physiques, douane et livraison.
+
+Sans nouvelle information, partez du dernier événement physique. CSSBuy peut préciser l'expédition et son partenaire logistique ; après une prise en charge locale confirmée, le transporteur désigné peut expliquer une tentative de livraison ou un point de retrait. Les délais d'enquête dépendent de l'envoi : aucune durée d'attente universelle ne convient à toutes les étapes.
+
+## Ajuster l'emballage sans perdre la protection
+Pour des vêtements adaptés, retirer une présentation inutile ou utiliser une compression appropriée peut réduire le volume. Pour des chaussures, préservez la forme ; pour une veste, tenez compte de l'enveloppe, des garnitures et du rembourrage. CSSBuy décrit des services d'emballage, mais leur disponibilité et leur pertinence doivent être confirmées pour votre commande.
+
+Précisez quel carton peut être retiré et quelle protection doit rester. « Tout enlever » est ambigu dans un colis mixte. Séparez les éventuels frais de mesure de l'économie espérée. Le [[cssbuy-rehearsal-shipping|guide de préemballage]] permet de comparer ces deux montants sans promettre une réduction automatique.
+
+## Construire puis valider la comparaison
+Pour chaque ligne admissible, utilisez les mêmes articles, poids, dimensions et adresse. Notez date du devis, poids facturé, paliers, total du transport, services inclus, estimation de délai et exclusions non résolues. Un champ inconnu doit le rester. Une ligne moins chère dont l'admissibilité demeure incertaine n'est pas encore une bonne affaire démontrée.
+
+Avant de payer, vérifiez destinataire, rue, numéro, code postal et pays. Tous les articles doivent avoir une décision QC définitive ; aucun retour en attente ne doit être inclus. Conservez configuration finale, conditions et total. Toute modification du contenu ou de l'adresse demande un nouveau calcul. Une estimation de dix jours ne devient pas un rendez-vous de livraison : préparation, capacité de transport, douane et distribution peuvent intervenir.
+
+## Sources et portée
+Vérification du 2 novembre 2026 : [fiche publique CSSBuy](https://www.cssbuy.com/?go=mall) et [services officiels d'emballage](https://m.cssbuy.com/shipforme). Aucun achat de transport, test d'envoi ou tarif propre à un compte n'a été vérifié. Les calculs sont illustratifs.
+
+@@ cssbuy-rehearsal-shipping
+CSSBuy Rehearsal Shipping : préemballage et devis final
+Comprenez les changements de devis CSSBuy, le poids emballé et le volume. Comparez transport et frais de préparation avant validation.
+Les acheteurs utilisent « rehearsal shipping » pour parler d'une vérification du poids et des dimensions du colis emballé avant la décision d'expédition. Demandez quel service votre commande propose, son prix et les modifications encore possibles après sa réalisation.
+
+## Définir la question à résoudre
+L'estimation actuelle porte-t-elle sur des articles séparés ou sur le colis terminé ? Les poids individuels ne donnent ni les dimensions extérieures ni le poids des protections. Une mesure après préparation peut réduire cette incertitude si vous pouvez utiliser le résultat avant d'approuver les frais concernés.
+
+CSSBuy décrit publiquement le regroupement, l'emballage sous vide et le renforcement. Les sources consultées ne permettent pas d'établir un prix universel de rehearsal, un délai fixe, une règle générale d'annulation ou un remboursement automatique. Vérifiez la description du service attaché à votre commande et faites préciser les éléments manquants avant de payer.
+
+## Séparer quatre étapes du prix
+Une estimation avant achat utilise parfois un poids supposé. Après réception à l'entrepôt, les données individuelles sont plus précises. Un devis de colis préparé correspond à une configuration définie. Enfin, le montant à payer dépend de la ligne et des services retenus. Une différence entre ces étapes mérite une explication, mais ne constitue pas automatiquement des frais injustifiés.
+
+Identifiez l'étape de chaque capture. Deux vêtements estimés ne sont pas comparables à un colis renforcé contenant ensuite une boîte à chaussures supplémentaire. Contenu, destination, emballage, devise et date doivent correspondre. Le [[cssbuy-shipping-fees-weight-route-planning|guide des frais d'expédition]] aide à distinguer ces postes.
+
+## Préparer les articles et les instructions
+Terminez le QC, confirmez articles, quantités et numéros d'entrepôt. Écartez les retours en cours et les produits encore incertains. Tout ajout ultérieur peut rendre la mesure obsolète. Vérifiez également les échéances de stockage : attendre un nouvel achat peut créer un coût ou une urgence pour les articles déjà reçus.
+
+Précisez pour chaque produit quelles boîtes peuvent disparaître, quels accessoires doivent rester et quelles surfaces ou structures demandent une protection. « Faire plus petit » ne suffit pas. Une instruction précise distingue la présentation commerciale superflue de la protection nécessaire et évite d'éliminer une pièce utile.
+
+## Confirmer le contenu du service
+Demandez prix, prestations incluses, poids final et dimensions extérieures. Vérifiez si le contenu peut encore être modifié et si une nouvelle préparation entraîne une autre facturation. Si une ligne est déjà sélectionnée, demandez si le résultat permet de comparer d'autres lignes ou si le colis est déjà engagé dans un processus particulier.
+
+Gardez la réponse dans la conversation de commande. Une ancienne capture de bouton ou le remboursement accordé à un autre acheteur ne définit pas vos conditions. Si une mesure n'est pas disponible, marquez-la comme inconnue ; un chiffre estimé ne devient pas confirmé parce qu'il comporte plusieurs décimales.
+
+## Calculer l'effet du volume
+Exemple fictif : un colis de 4 kg mesure 45 × 35 × 30 cm. Avec une ligne retenant explicitement le plus élevé entre poids réel et volume en centimètres divisé par 9000, le poids volumétrique est de 5,25 kg. À 25 cm de hauteur, il passe à 4,375 kg. Il faut encore appliquer les paliers et arrondis de la ligne.
+
+Ce calcul ne décrit pas toutes les lignes CSSBuy. Le diviseur ou la méthode peuvent différer. L'économie n'est pas garantie : poids réel dominant, même tranche facturée ou frais de service supérieurs au gain peuvent annuler l'intérêt financier. Comparez donc les montants complets à payer.
+
+## Utiliser un tableau avant/après
+Pour chaque configuration, consignez contenu, instructions, poids, longueur, largeur, hauteur, diviseur éventuel, poids facturable, transport, frais de préparation et services facultatifs. Indiquez « estimé » ou « confirmé » pour chaque valeur. Vous pourrez ainsi remplacer une hypothèse sans perdre le contexte du premier devis.
+
+Exemple de méthode : transport initial de 420 CNY, transport après préparation de 390 CNY et service supplémentaire de 20 CNY. Le gain net est de 10 CNY, pas de 30 CNY. Une protection moins adaptée ou un retard gênant peut néanmoins rendre l'autre option préférable. Ces montants ne sont pas des tarifs CSSBuy.
+
+## Expliquer un devis plus élevé
+Un carton plus grand, des protections plus lourdes, un palier supplémentaire ou des restrictions de produits peuvent augmenter le montant. Conversion, variation du tarif et options sélectionnées sont également possibles. Demandez quel paramètre a changé, puis comparez mesures, nombre d'articles, prestations, devise et horodatage.
+
+Si un chiffre paraît incohérent, demandez la mesure précise ou le détail du calcul. Retirez les données personnelles des documents partagés hors du compte. Ne répétez pas les paiements tant que le statut d'un paiement précédent est incertain. Une question ciblée sur une valeur se résout plus facilement qu'une plainte générale sur le prix.
+
+## Protéger les articles et approuver le résultat
+La compression peut convenir à certains textiles, mais pas automatiquement à une pièce structurée, à une garniture fragile ou à toute finition. Retirer une boîte modifie la protection et la complétude d'un ensemble. Confirmez les éléments qui seront jetés avant une suppression irréversible.
+
+Le regroupement exige aussi de vérifier la compatibilité. Un produit fragile ou restreint peut affecter tout le colis. Comparez une expédition commune avec deux expéditions complètes, y compris les deux frais de base et préparations. Le [[cssbuy-parcel-consolidation-germany|guide du regroupement]] organise cette décision. Ne modifiez jamais la description réelle d'un article pour obtenir une ligne moins chère.
+
+À réception du résultat, vérifiez contenu, instructions, dimensions, ligne, total et délais restants. Si quelque chose change ensuite, remplacez le devis au lieu d'ajuster son total au hasard. Une bonne demande au support cite numéro de colis, première estimation, devis final et question précise : les mesures sont-elles celles du carton fini, et quel poids sera facturé ? Gardez le résultat accepté avec le [[cssbuy-tracking-last-mile-germany-eu|dossier de suivi]].
+
+## Sources et portée
+Vérification du 2 novembre 2026 : [services de réexpédition CSSBuy](https://m.cssbuy.com/shipforme) et [informations publiques des lignes](https://www.cssbuy.com/?go=mall). Les modalités de rehearsal propres à un compte n'ont pas été confirmées indépendamment. Tous les exemples sont illustratifs.
+
+@@ cssbuy-hoodies-jackets-spreadsheet
+CSSBuy Spreadsheet hoodies et vestes : tailles, QC et poids
+Trouvez des liens de hoodies et vestes, comparez les mesures et contrôlez les photos QC avant de préparer votre colis CSSBuy vers l'Allemagne.
+Un bon tableau CSSBuy relie le produit à une décision de taille, à un contrôle QC et au coût du colis. Un nom connu ou une photo commerciale ne prouve ni la coupe, ni l'authenticité, ni le poids emballé.
+
+## Choisir la catégorie puis l'annonce exacte
+Consultez le [catalogue des hoodies et sweatshirts](https://cnfanshp.com/hoodies-sweaters/) ou celui des [vestes](https://cnfanshp.com/jackets/). Ces pages servent à découvrir des articles ; ce ne sont pas des rapports d'inspection en entrepôt. Sweat à enfiler, modèle zippé, maille, veste légère et veste rembourrée ne présentent pas les mêmes besoins de taille ou de protection.
+
+Les fiches publiques comprennent une [annonce de hoodie](https://cnfanshp.com/AllProducts/5487.html) nommée « carhatt hoodie(40 CP) » et une [annonce de veste rembourrée](https://cnfanshp.com/AllProducts/5919.html) nommée « The North Face Nuptse Jacket ». Ces noms identifient les annonces sans constituer une validation de marque ou de qualité. Les identifiants relevés sont 7710315632 et 7725945994. Vérifiez à nouveau variante, article et prix actuels. Nous n'avons acheté ni inspecté ces produits.
+
+## Conserver les données utiles
+Notez lien, identifiant d'origine, option vendeur, couleur, taille, prix, livraison intérieure, mesures du tableau et date de vérification. Ajoutez ensuite mesures de l'entrepôt, décision QC, poids réel et consignes d'emballage. Laissez les inconnues clairement identifiées. Un nombre non légendé près d'une image ne prouve pas un poids mesuré.
+
+Distinguez le descriptif vendeur de vos exigences. « Oversized » ne remplace pas une largeur de poitrine. Si la variante voulue a disparu, le produit n'est plus une option disponible même si l'image fonctionne. Le [[cssbuy-links-not-working|guide des liens défectueux]] aide à comprendre une destination modifiée.
+
+## Comparer le hoodie à un vêtement qui vous va
+Mesurez à plat un hoodie adapté, selon la même méthode que le tableau vendeur. Comparez largeur de poitrine, longueur, épaules et manches. Vérifiez si la manche part de la couture d'épaule ou du milieu du dos. Une largeur à plat n'est pas un tour de poitrine.
+
+Exemple : votre vêtement de référence mesure 58 cm de largeur et 68 cm de longueur, contre 60 et 70 cm dans l'annonce. Cela décrit un écart, pas une coupe garantie. Tenez compte de la tolérance, de la construction et de l'aisance souhaitée. Ne choisissez pas une taille supérieure ou inférieure uniquement sur la lettre M ou L, qui varie selon les annonces.
+
+## Prévoir les couches sous une veste
+Comparez avec une veste portée sur une couche semblable à celle prévue. Épaules, poitrine, bas, ouverture des manches et longueur influencent les mouvements. Vérifiez si le tableau indique des mesures du vêtement ou du corps. Une veste courte et une pièce longue peuvent porter la même lettre tout en répondant à des besoins différents.
+
+Pour une veste rembourrée, les mesures extérieures ne donnent pas directement l'espace intérieur : doublure et garnissage prennent de la place. Une photo ordinaire ne démontre ni température d'utilisation, ni composition du duvet, ni imperméabilité ou respirabilité. Sans preuve produit appropriée, gardez ces caractéristiques comme non confirmées.
+
+## Contrôler le QC d'un hoodie
+Vérifiez article, variante, couleur, étiquette de taille et quantité. Examinez ensuite face, dos, capuche, poche, poignets, bas et coutures. Comparez impression ou broderie à l'option choisie. Des plis peuvent donner une fausse impression de décentrage : cherchez une autre vue ou une photo mieux à plat.
+
+Si une mesure est décisive, demandez si un service peut la photographier avec les deux extrémités du mètre visibles. Une étiquette de taille ne confirme pas la largeur réelle. Un gros plan de tissu ne prouve pas composition ou durabilité. Formulez une demande précise, par exemple une mesure à plat d'aisselle à aisselle.
+
+## Adapter la vérification aux vestes
+Inspectez fermeture principale, boutons, poches, poignets, doublure et coutures visibles. Vérifiez les parties amovibles incluses dans la variante. Comparez panneaux ou matelassage à une taille d'affichage normale avant de zoomer. Lumière, plis et compression peuvent créer une impression trompeuse de remplissage inégal.
+
+Le QC extérieur n'est pas un test fonctionnel : il ne garantit pas la durée de vie du zip ni la résistance à la pluie. Pour une fonction essentielle, demandez quel contrôle est disponible et à quel prix. Le [[qc-guide|guide QC]] distingue acceptation, clarification et problème à résoudre avant expédition.
+
+## Distinguer poids du vêtement et poids du colis
+Un sweatshirt dense peut surtout ajouter du poids ; une veste légère rembourrée peut surtout ajouter du volume. N'attribuez pas de poids universel à une catégorie. Attendez les données de l'entrepôt puis ajoutez carton et protections. La somme des vêtements ne correspond pas nécessairement au colis fini.
+
+Précisez quels articles peuvent être pliés ou comprimés et quelles finitions doivent être protégées. Confirmez qu'un retrait d'emballage ne supprime pas d'accessoire. Recalculez après toute modification. Le [[cssbuy-rehearsal-shipping|guide du préemballage]] permet de comparer le gain de transport aux éventuels frais de service.
+
+## Décider avant de regrouper
+Attribuez un statut : accepter si les preuves et l'identité conviennent ; clarifier si une mesure ou une vue manque ; résoudre avant envoi si une variante est incorrecte ou un défaut inacceptable. En cas de problème, vérifiez immédiatement les conditions de retour du vendeur et l'échéance de la commande en entrepôt.
+
+Gardez option choisie, numéro de commande, photo concernée et description précise. « Cordon manquant » est plus exploitable que « mauvaise qualité ». Admissibilité du retour, transport intérieur et remboursement sont distincts. Le [[cssbuy-returns-after-qc|guide des retours après QC]] aide à préparer le dossier sans promettre une acceptation par tous les vendeurs.
+
+## Relier la sélection au budget final
+Séparez prix du produit, livraison intérieure, service d'achat, travail facultatif en entrepôt, transport international et conversion. Un petit prix peut perdre son intérêt avec une taille incertaine et un colis volumineux. Un prix élevé ne garantit pas une meilleure qualité.
+
+Après acceptation, utilisez les mesures confirmées pour comparer les lignes vers l'Allemagne. Notez la date et le contenu exact avec le devis. Revérifiez une nouvelle commande au lieu de lui attribuer les preuves d'une ancienne variante. L'objectif est une sélection vérifiable et un colis dont les hypothèses sont comprises.
+
+## Sources et portée
+Vérification du 2 novembre 2026 : catégories et fiches publiques liées, ainsi que les [services d'emballage CSSBuy](https://m.cssbuy.com/shipforme). Les images du catalogue ne sont pas nos photos QC. Aucun achat, essayage, contrôle d'authenticité ou test en laboratoire n'a été réalisé. Mesures données à titre d'exemple.

@@ -1,0 +1,152 @@
+@@ cssbuy-tyg-eu-tariffless-express
+TYG-EU-Tariffless Express: wysyłka i śledzenie do Niemiec
+Sprawdź wagę gabarytową, progi opłat, tracking i warunki TYG-EU-Tariffless Express przed opłaceniem przesyłki CSSBuy do Niemiec.
+CSSBuy wymienia TYG-EU-Tariffless Express w publicznych informacjach o wysyłce do Niemiec. Sama nazwa nie potwierdza ceny, dopuszczenia towarów ani terminu doręczenia. Podstawą są wymiary zapakowanej przesyłki i oferta dostępna na koncie.
+
+## Co mówi publiczna karta linii
+Sprawdzona karta podaje Niemcy, dzielnik objętościowy 9000 oraz szacunkowe dziesięć dni. To informacje opublikowane przez usługodawcę, a nie wynik naszej próbnej wysyłki. Publiczne odczyty pokazują różne ceny po przeliczeniu na dolary, dlatego cena ze strony głównej nie jest tu traktowana jako aktualna wycena paczki. Zapisuj kraj, zawartość, wymiary, walutę i datę porównania.
+
+Otwórz [oficjalne informacje CSSBuy](https://www.cssbuy.com/?go=mall), a następnie dostępny kalkulator. Sprawdź pełną nazwę linii. Jeśli nie pojawia się dla rzeczywistych danych, nie zmieniaj kraju ani cech towaru, aby ją odblokować. Zapytaj, który warunek wyklucza paczkę, i porównaj dozwolone rozwiązania.
+
+## Waga rzeczywista i gabarytowa
+Waga rzeczywista dotyczy gotowej paczki na wadze. Gabarytowa odzwierciedla zajmowaną przestrzeń. Jeżeli oferta wyraźnie stosuje centymetry, kilogramy i dzielnik 9000, wzór to długość × szerokość × wysokość ÷ 9000. Inna linia może używać innej reguły; najpierw potwierdź jednostki i dzielnik.
+
+Przykład obliczeniowy: 45 × 35 × 30 cm daje 5,25 kg gabarytowo. Przy 4 kg wagi rzeczywistej i rozliczeniu większej wartości podstawą będzie 5,25 kg przed zaokrągleniem i minimum. Nie mieszaj milimetrów z centymetrami ani gramów z kilogramami. Zmniejszenie wysokości do 25 cm daje 4,375 kg. Cena zależy jeszcze od potwierdzonych wymiarów i progów rozliczenia.
+
+Gdyby rzeczywista waga wynosiła 6 kg w obu wersjach, zmniejszenie wartości gabarytowej poniżej 6 kg nie obniżyłoby podstawy według tej reguły. Mniejszy karton nie gwarantuje więc oszczędności. Porównaj oba wyniki oraz faktycznie naliczany próg.
+
+## Progi opłat i waluta
+Cena pierwszego przedziału i kolejnego przyrostu to elementy taryfy, nie koszt każdej paczki. Zapisz wagę początkową, kolejne kroki, zaokrąglenie, minimum i osobne usługi. Stosuj przyrosty po 500 g tylko wtedy, gdy aktualna oferta tak stanowi. Niewielka różnica może uruchomić następny próg.
+
+Najpierw porównuj w walucie wyceny. Kwota w euro lub dolarach może się zmienić mimo stałej taryfy CNY. Oddziel opakowanie, opcjonalne ubezpieczenie, koszty płatności i nieuwzględnione opłaty w kraju odbioru. [[cssbuy-payment-methods-fees-refunds|Poradnik płatności i zwrotów]] rozróżnia obciążenie rachunku, uznanie salda i opłatę za usługę.
+
+## Jak rozumieć „Tariffless”
+Traktuj to przede wszystkim jako część nazwy. Przeczytaj zakres opłat, wyłączenia i wymagania deklaracji konkretnej linii. Słowo nie dowodzi, że każdy produkt wolno importować, wszystkie koszty są pokryte ani że dokumenty nigdy nie będą potrzebne. Zachowaj prawdziwe opisy towarów i dowody zakupu.
+
+Baterie, płyny, proszki, delikatne przedmioty lub określone towary markowe mogą podlegać innym ograniczeniom niż zwykłe ubrania. Wpisuj rzeczywiste cechy. Mały dodatek może zmienić wybór linii dla całej paczki. Przed zakupem zajrzyj do [[cssbuy-germany-restricted-item-screening|poradnika towarów objętych ograniczeniami]], jeśli kategoria budzi wątpliwości.
+
+## Śledzenie i przekazanie do lokalnego przewoźnika
+Zapisz numer paczki CSSBuy, linię, informację o nadaniu i numer śledzenia. Elektroniczne zgłoszenie potwierdza przekazanie danych, niekoniecznie fizyczne przyjęcie. Szukaj skanu odbioru, przyjęcia lub sortowni. Zachowaj oryginalny tekst i czas zdarzenia.
+
+Może pojawić się drugi numer do doręczenia lokalnego. Połącz go z przewoźnikiem wskazanym w rzeczywistym zapisie paczki. Nie zakładaj, że każdą przesyłkę TYG obsługuje ten sam operator. [[cssbuy-tracking-last-mile-germany-eu|Poradnik śledzenia w Niemczech]] rozdziela etykietę, fizyczne skany, odprawę i doręczenie.
+
+Przy braku aktualizacji zacznij od ostatniego zdarzenia fizycznego. CSSBuy może wyjaśnić nadanie i partnera logistycznego; po potwierdzonym przejęciu lokalnym wskazany przewoźnik może wyjaśnić próbę doręczenia lub odbiór. Nie ma uniwersalnego czasu oczekiwania: sprawdź warunki dochodzenia i reklamacji dla tej przesyłki.
+
+## Opakowanie i ochrona
+Usunięcie zbędnej prezentacji lub odpowiednia kompresja może zmniejszyć objętość właściwych tekstyliów. Przy butach zachowaj ochronę kształtu, a przy kurtce uwzględnij materiał, dodatki i wypełnienie. CSSBuy opisuje usługi pakowania, ale ich dostępność i przydatność trzeba potwierdzić dla zamówienia.
+
+Wskaż dokładnie, który karton można usunąć i jaka ochrona ma zostać. „Usuń wszystko” jest niejasne dla mieszanej paczki. Oddziel koszt pomiaru od oczekiwanej oszczędności. [[cssbuy-rehearsal-shipping|Poradnik wstępnego pakowania]] pomaga je porównać bez obietnicy automatycznego zysku.
+
+## Porównanie i zatwierdzenie
+Dla każdej dopuszczalnej linii użyj tej samej zawartości, wagi, wymiarów i adresu. Zapisz datę, wagę rozliczeniową, kroki, pełny transport, usługi, szacowany czas i nierozstrzygnięte wyłączenia. Nieznany parametr pozostaje nieznany. Tańsza linia z niepotwierdzoną dopuszczalnością nie jest jeszcze udowodnioną okazją.
+
+Przed zapłatą sprawdź odbiorcę, ulicę, numer, kod i kraj. Wszystkie artykuły powinny mieć zakończone QC; wyklucz oczekujące zwroty. Zachowaj konfigurację, warunki i sumę. Zmiana wymaga ponownego obliczenia. Dziesięć dni szacunkowych nie jest gwarantowaną datą: przygotowanie, dostępność transportu, odprawa i doręczenie mogą wpływać na wynik.
+
+## Źródła i zakres
+Sprawdzono 2 listopada 2026 r.: [publiczna karta CSSBuy](https://www.cssbuy.com/?go=mall) i [oficjalne usługi pakowania](https://m.cssbuy.com/shipforme). Nie wykonano płatnego nadania, próbnej wysyłki ani weryfikacji taryfy konkretnego konta. Obliczenia są przykładowe.
+
+@@ cssbuy-rehearsal-shipping
+CSSBuy Rehearsal Shipping: pakowanie i końcowa wycena
+Sprawdź, dlaczego wycena CSSBuy zmienia się po pakowaniu. Porównaj wagę, objętość, transport i usługę przed zatwierdzeniem kosztu.
+Kupujący używają określenia „rehearsal shipping” na sprawdzenie wagi i wymiarów przygotowanej paczki przed wyborem wysyłki. Zapytaj, jaką usługę oferuje Twoje zamówienie, ile kosztuje i co można później zmienić.
+
+## Ustal cel pomiaru
+Czy obecna wycena dotyczy osobnych produktów, czy gotowej paczki? Wagi artykułów nie określają wymiarów zewnętrznych ani ciężaru zabezpieczeń. Wstępne przygotowanie może ograniczyć niepewność, jeśli wynik można wykorzystać przed zatwierdzeniem odpowiednich opłat.
+
+CSSBuy publicznie opisuje konsolidację, pakowanie próżniowe i wzmocnienia. Sprawdzone źródła nie potwierdzają jednej ceny rehearsal, stałego terminu, ogólnej możliwości anulowania ani automatycznego zwrotu. Przeczytaj opis konkretnej usługi i wyjaśnij braki przed płatnością.
+
+## Rozdziel cztery etapy ceny
+Przed zakupem szacunek może opierać się na przypuszczalnej wadze. Po przyjęciu do magazynu są dokładniejsze dane artykułów. Wycena zapakowanej paczki dotyczy ustalonej konfiguracji. Ostateczna należność zależy od linii i wybranych usług. Różnica między etapami wymaga wyjaśnienia, ale nie dowodzi automatycznie nieuzasadnionej opłaty.
+
+Oznacz etap na każdym zrzucie. Dwie szacowane sztuki odzieży nie odpowiadają późniejszej wzmocnionej paczce z dodatkowym pudełkiem butów. Zawartość, kraj, opakowanie, waluta i data muszą być porównywalne. [[cssbuy-shipping-fees-weight-route-planning|Poradnik kosztów wysyłki]] pomaga rozdzielić składniki.
+
+## Przygotuj zawartość i instrukcje
+Zakończ QC, potwierdź artykuły, liczby sztuk i numery magazynowe. Wyklucz zwroty oraz produkty wymagające wyjaśnienia. Późniejsza zmiana może unieważnić pomiar. Sprawdź też terminy przechowywania: oczekiwanie na kolejny zakup może stworzyć koszt lub pilność dla otrzymanych już rzeczy.
+
+Określ, które pudełka handlowe można usunąć, jakie akcesoria zachować i które powierzchnie lub konstrukcje zabezpieczyć. „Zapakuj mniejsze” to za mało. Instrukcja powinna odróżniać zbędną prezentację od ochrony potrzebnej, żeby nie wyrzucić ważnej części.
+
+## Potwierdź zakres usługi
+Zapytaj o cenę, czynności, wagę końcową i wymiary zewnętrzne. Ustal, czy zawartość można później zmienić i czy ponowne pakowanie kosztuje dodatkowo. Jeśli wybrano już linię, sprawdź, czy wynik pozwala porównać inne, czy paczka jest już przypisana do konkretnego procesu.
+
+Zachowaj odpowiedź w rozmowie o zamówieniu. Stary zrzut przycisku lub zwrot otrzymany przez innego klienta nie określa Twoich warunków. Niedostępny pomiar pozostaje nieznany. Więcej miejsc po przecinku nie zamienia założenia w potwierdzony fakt.
+
+## Oblicz wpływ objętości
+Przykład: 4 kg oraz 45 × 35 × 30 cm. Jeśli linia wyraźnie rozlicza większą z wagi rzeczywistej i objętości w centymetrach podzielonej przez 9000, wynik gabarytowy wynosi 5,25 kg. Przy wysokości 25 cm wyniesie 4,375 kg. Nadal obowiązują progi i zaokrąglenia linii.
+
+To nie reguła wszystkich usług CSSBuy. Dzielniki i metody bywają inne. Oszczędność nie jest pewna: może dominować masa rzeczywista, pozostać ten sam próg lub opłata za usługę przekroczyć spadek frachtu. Porównuj pełne należności, nie same kilogramy.
+
+## Zrób zestawienie przed i po
+Dla każdej wersji zapisz zawartość, instrukcje, wagę, długość, szerokość, wysokość, dzielnik, wagę rozliczeniową, transport, pakowanie i dodatki. Oznacz dane jako szacowane albo potwierdzone. Nowy pomiar zastąpi założenie bez utraty kontekstu pierwszej wyceny.
+
+Przykład metody: początkowo 420 CNY za transport; po zmianie 390 CNY plus 20 CNY usługi. Oszczędność netto wynosi 10 CNY, nie 30 CNY. Słabsza ochrona lub niepożądane opóźnienie mogą mimo to przemawiać za drugą wersją. To nie cennik CSSBuy.
+
+## Wyjaśnij wyższy koszt
+Większy karton, dodatkowe zabezpieczenia, kolejny próg albo ograniczenia produktów mogą zwiększyć kwotę. Znaczenie mają też kurs, zmieniona taryfa i opcje. Zapytaj, który parametr się zmienił, i porównaj wymiary, liczbę sztuk, usługi, walutę i czas ofert.
+
+Przy niespójności poproś o konkretny pomiar lub rozbicie opłat. Usuń dane osobowe z dokumentów udostępnianych poza kontem. Nie powtarzaj płatności, gdy wcześniejsza ma nierozstrzygnięty status. Konkretne pytanie o wartość jest łatwiejsze do wyjaśnienia niż ogólne narzekanie na drogi transport.
+
+## Zachowaj ochronę i zgodność towarów
+Kompresja może pasować do części tekstyliów, ale nie automatycznie do elementów usztywnionych, kruchych dodatków czy każdego wykończenia. Usunięcie pudełka wpływa na ochronę i kompletność zestawu. Potwierdź, co zostanie wyrzucone, przed nieodwracalną decyzją.
+
+Towar delikatny lub ograniczony może wpłynąć na całą paczkę. Porównaj konsolidację z dwoma pełnymi wysyłkami, uwzględniając obie opłaty początkowe i prace magazynu. [[cssbuy-parcel-consolidation-germany|Poradnik konsolidacji]] porządkuje tę decyzję. Nie zmieniaj prawdziwego opisu, aby odblokować tańszą linię.
+
+## Zatwierdź wynik i zachowaj dowody
+Sprawdź zgodność z zawartością oraz instrukcjami. Zapisz wymiary zewnętrzne, wagę, linię, sumę i pozostałe terminy. Jeśli coś później zmienisz, uzyskaj nową wycenę zamiast intuicyjnie poprawiać stary wynik.
+
+Dobra wiadomość do obsługi podaje numer paczki, pierwotny szacunek, końcową wycenę i dokładne pytanie: czy 45 × 35 × 30 cm to gotowy karton oraz jaka waga będzie rozliczana? Przechowuj zaakceptowaną konfigurację razem z późniejszym [[cssbuy-tracking-last-mile-germany-eu|zapisem śledzenia]].
+
+## Źródła i zakres
+Sprawdzono 2 listopada 2026 r.: [usługi CSSBuy](https://m.cssbuy.com/shipforme) i [publiczne informacje o liniach](https://www.cssbuy.com/?go=mall). Warunków rehearsal konkretnego konta nie potwierdzono niezależnie. Wszystkie obliczenia są przykładowe.
+
+@@ cssbuy-hoodies-jackets-spreadsheet
+CSSBuy Spreadsheet: bluzy i kurtki, rozmiary, QC oraz waga
+Znajdź bluzy i kurtki, porównaj wymiary i zdjęcia QC oraz zaplanuj wagę paczki przed wysyłką CSSBuy do Niemiec.
+Przydatna tabela łączy produkt z wyborem rozmiaru, kontrolą QC i planem wysyłki. Znana nazwa lub zdjęcie sprzedawcy nie potwierdza dopasowania, autentyczności ani wagi gotowej paczki.
+
+## Wybierz kategorię i konkretną ofertę
+Otwórz [katalog bluz](https://cnfanshp.com/hoodies-sweaters/) lub [kurtek](https://cnfanshp.com/jackets/). To miejsca wyszukiwania, nie raporty z kontroli magazynowej. Bluzy wkładane przez głowę, rozpinane, dzianiny, lekkie kurtki i modele ocieplane wymagają innych porównań rozmiaru i pakowania.
+
+Publiczne wpisy obejmują [bluzę](https://cnfanshp.com/AllProducts/5487.html) opisaną jako „carhatt hoodie(40 CP)” oraz [kurtkę ocieplaną](https://cnfanshp.com/AllProducts/5919.html) opisaną jako „The North Face Nuptse Jacket”. Nazwy identyfikują oferty, nie potwierdzają marki ani jakości. Odczytane identyfikatory to 7710315632 i 7725945994. Ponownie sprawdź aktualny wariant, produkt i cenę. Nie kupowaliśmy ani nie badaliśmy tych rzeczy.
+
+## Zapisuj dane istotne dla wyboru
+Uwzględnij link, pierwotny identyfikator, wariant sprzedawcy, kolor, rozmiar, cenę, transport krajowy, wymiary i datę kontroli. Później dodaj pomiary magazynu, wynik QC, wagę i instrukcje. Zaznacz niewiadome. Nieopisana liczba przy zdjęciu nie dowodzi zmierzonej wagi.
+
+Oddziel opis handlowy od własnych wymagań. „Oversized” nie zastępuje szerokości pod pachami. Jeśli wariant zniknął, nie jest dostępny tylko dlatego, że zdjęcie nadal działa. [[cssbuy-links-not-working|Poradnik linków produktowych]] pomaga sprawdzić zmienione strony docelowe.
+
+## Porównaj bluzę, która dobrze leży
+Zmierz rozłożone ubranie tą samą metodą co tabela sprzedawcy. Porównaj klatkę, długość, ramiona i rękaw. Sprawdź, czy rękaw mierzono od szwu ramienia, czy od środka pleców. Szerokość na płasko nie jest pełnym obwodem klatki piersiowej.
+
+Przykład: własna bluza ma 58 cm szerokości i 68 cm długości, a oferta 60 i 70 cm. To różnica wymiarów, nie gwarancja dopasowania. Uwzględnij tolerancję, krój i oczekiwany luz. Nie wybieraj większego lub mniejszego rozmiaru wyłącznie według liter M czy L, które różnią się między ofertami.
+
+## Przewidź warstwy pod kurtką
+Porównuj kurtkę noszoną na podobnej warstwie odzieży. Ramiona, klatka, dół, otwór rękawa i długość wpływają na ruch. Ustal, czy tabela opisuje ciało, czy ubranie. Krótka i długa kurtka mogą mieć tę samą literę, lecz inne przeznaczenie.
+
+W modelach ocieplanych wymiary zewnętrzne nie określają bezpośrednio miejsca wewnątrz: podszewka i wypełnienie zajmują przestrzeń. Zdjęcia nie dowodzą zakresu temperatur, składu puchu, wodoodporności ani oddychalności. Bez odpowiednich danych te cechy pozostają niepotwierdzone; nie wnioskuj z grubości czy logo.
+
+## Sprawdź QC bluzy
+Potwierdź produkt, kolor, wariant, metkę i liczbę sztuk. Obejrzyj przód, tył, kaptur, kieszeń, mankiety, dół i szwy. Porównaj nadruk lub haft z wybraną opcją. Fałdy mogą pozorować przesunięcie wzoru; sprawdź inny widok lub poproś o zdjęcie na płasko.
+
+Jeśli wymiar decyduje o zakupie, zapytaj o fotografię z widocznymi końcami miarki. Metka nie potwierdza rzeczywistej szerokości. Zbliżenie nie dowodzi składu włókien ani trwałości. Poproś konkretnie o pomiar od pachy do pachy zamiast ogólnej oceny rozmiaru.
+
+## Zastosuj osobną listę dla kurtki
+Obejrzyj główny zamek, guziki, kieszenie, zapięcia rękawów, podszewkę i widoczne szwy. Sprawdź odpinane elementy należące do wariantu. Porównaj panele lub pikowanie w normalnej skali przed powiększeniem. Światło, fałdy i kompresja mogą pozorować nierówne wypełnienie.
+
+Zewnętrzne QC nie jest testem funkcjonalnym. Nie gwarantuje trwałości zamka ani ochrony przed deszczem. Dla niezbędnej funkcji zapytaj, jakie sprawdzenie jest dostępne i ile kosztuje. [[qc-guide|Poradnik QC]] rozdziela akceptację, wyjaśnienie i problem wymagający rozwiązania przed wysyłką.
+
+## Rozdziel wagę ubrania i paczki
+Ciężka bluza może dodawać głównie masę, a lekka ocieplana kurtka objętość. Nie przypisuj kategorii uniwersalnej wagi. Poczekaj na dane magazynowe i dodaj karton oraz zabezpieczenia. Suma ubrań nie musi odpowiadać wadze końcowej.
+
+Wskaż, co można złożyć lub skompresować, a które wykończenia chronić. Upewnij się, że usunięcie opakowania nie usuwa akcesoriów. Po zmianach przelicz koszty. [[cssbuy-rehearsal-shipping|Poradnik wstępnego pakowania]] porównuje potencjalny zysk z opłatą za usługę.
+
+## Zdecyduj przed konsolidacją
+Nadaj status: zaakceptuj, gdy identyfikacja i dowody spełniają wymagania; wyjaśnij, gdy brak pomiaru lub ujęcia; rozwiąż, gdy wariant albo wada są nieakceptowalne. Przy problemie natychmiast sprawdź warunki sprzedawcy i termin zamówienia w magazynie.
+
+Zachowaj wariant, numer zamówienia, zdjęcie i konkretny opis. „Brakuje sznurka” jest bardziej użyteczne niż „zła jakość”. Zgoda na zwrot, transport krajowy i refundacja to osobne kwestie. [[cssbuy-returns-after-qc|Poradnik zwrotów po QC]] pomaga je dokumentować bez obietnicy przyjęcia przez każdego sprzedawcę.
+
+## Połącz wybór z budżetem
+Oddziel produkt, dostawę krajową, obsługę zakupu, opcjonalną pracę magazynu, fracht i przewalutowanie. Tania kurtka może stracić sens przy niepewnym rozmiarze i dużej objętości; wysoka cena nie gwarantuje jakości.
+
+Po akceptacji porównaj linie do Niemiec przy potwierdzonych wymiarach. Zapisz datę i dokładną zawartość obok wyceny. Kolejne zamówienie wymaga nowej kontroli, bez przejmowania dowodów z innego wariantu. Celem jest wybór możliwy do sprawdzenia i zrozumiały koszt paczki.
+
+## Źródła i zakres
+Sprawdzono 2 listopada 2026 r.: podlinkowane kategorie, publiczne oferty i [usługi CSSBuy](https://m.cssbuy.com/shipforme). Zdjęcia katalogowe nie są naszym QC magazynowym. Nie wykonano zakupów, przymiarek, uwierzytelnienia ani testów laboratoryjnych. Wymiary są przykładami.
