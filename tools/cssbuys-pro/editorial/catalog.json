@@ -1,0 +1,574 @@
+{
+  "best-agent-2026": {
+    "en": {
+      "title": "CSSBuy vs Other Shopping Agents: Costs, QC and Shipping",
+      "description": "Compare CSSBuy with other agents using the same parcel, destination and services. Check total costs, QC options, shipping rules and support."
+    },
+    "de": {
+      "title": "CSSBuy im Agentenvergleich: Kosten, QC und Versand",
+      "description": "Vergleiche CSSBuy mit anderen Einkaufsagenten anhand desselben Pakets und Ziellands. Prüfe Gesamtkosten, QC-Angebote, Versandbedingungen und Support."
+    },
+    "fr": {
+      "title": "CSSBuy face aux autres agents : frais, QC et livraison",
+      "description": "Comparez CSSBuy à d'autres agents pour un même colis et une même destination. Vérifiez le coût total, les contrôles QC, la livraison et l'assistance."
+    },
+    "es": {
+      "title": "CSSBuy frente a otros agentes: costes, QC y envíos",
+      "description": "Compara CSSBuy con otros agentes usando el mismo paquete y destino. Revisa el coste total, las opciones QC, las condiciones de envío y la asistencia."
+    },
+    "it": {
+      "title": "CSSBuy e altri agenti: confronto tra costi, QC e spedizioni",
+      "description": "Confronta CSSBuy con altri agenti usando lo stesso pacco e la stessa destinazione. Valuta costo totale, servizi QC, condizioni di spedizione e assistenza."
+    },
+    "zh": {
+      "title": "CSSBuy 与其他代购平台比较：费用、QC 和运输",
+      "description": "用相同商品、包裹尺寸和收货地区比较 CSSBuy 与其他代购平台，逐项检查总费用、QC 服务、运输条件和客服处理方式。"
+    }
+  },
+  "cssbuy-consolidate-or-split-parcel-cost-model": {
+    "en": {
+      "title": "CSSBuy Parcels: Combine or Split Your Order?",
+      "description": "Compare combined and separate CSSBuy parcels using packed dimensions, shipping fees, item restrictions and protection needs before you decide."
+    },
+    "de": {
+      "title": "CSSBuy-Pakete zusammenlegen oder getrennt versenden?",
+      "description": "Vergleiche gemeinsame und getrennte CSSBuy-Sendungen anhand von Paketmaßen, Versandkosten, Warenbeschränkungen und benötigtem Schutz."
+    },
+    "fr": {
+      "title": "Colis CSSBuy : regrouper ou séparer ses achats ?",
+      "description": "Comparez les envois CSSBuy groupés et séparés selon les dimensions emballées, les frais, les restrictions et la protection nécessaire."
+    },
+    "es": {
+      "title": "Paquetes CSSBuy: ¿agrupar o dividir tus compras?",
+      "description": "Compara envíos CSSBuy conjuntos y separados según las dimensiones, los gastos, las restricciones de los artículos y la protección necesaria."
+    },
+    "it": {
+      "title": "Pacchi CSSBuy: riunire gli acquisti o spedire separatamente?",
+      "description": "Confronta spedizioni CSSBuy riunite e separate in base a dimensioni, costi, restrizioni degli articoli e protezione necessaria."
+    },
+    "zh": {
+      "title": "CSSBuy 合包还是分包？比较运费与保护需求",
+      "description": "比较 CSSBuy 合并包裹和分开寄送的完整成本，结合包装尺寸、商品运输限制、固定费用和保护需求作出选择。"
+    }
+  },
+  "cssbuy-domestic-shipping-seller-to-warehouse": {
+    "en": {
+      "title": "CSSBuy Domestic Shipping: Seller-to-Warehouse Costs",
+      "description": "Understand CSSBuy domestic shipping charges, compare seller offers and check delivery to the warehouse separately from international freight."
+    },
+    "de": {
+      "title": "CSSBuy-Inlandsversand: Kosten vom Händler zum Lager",
+      "description": "Verstehe die Kosten des chinesischen Inlandsversands bei CSSBuy. Vergleiche Händlerangebote und trenne die Lagerzustellung vom internationalen Versand."
+    },
+    "fr": {
+      "title": "Livraison intérieure CSSBuy : du vendeur à l'entrepôt",
+      "description": "Comprenez les frais de livraison intérieure en Chine avec CSSBuy. Comparez les vendeurs et distinguez cette étape du transport international."
+    },
+    "es": {
+      "title": "Envío nacional CSSBuy: costes del vendedor al almacén",
+      "description": "Entiende los gastos de envío dentro de China con CSSBuy. Compara ofertas y distingue la entrega al almacén del transporte internacional."
+    },
+    "it": {
+      "title": "Spedizione interna CSSBuy: costi dal venditore al magazzino",
+      "description": "Comprendi i costi della spedizione interna in Cina con CSSBuy. Confronta i venditori e distingui la consegna al magazzino dal trasporto internazionale."
+    },
+    "zh": {
+      "title": "CSSBuy 国内运费：卖家到仓库的费用如何计算",
+      "description": "了解 CSSBuy 商品从中国卖家到仓库的国内运费，比较卖家报价、核对费用调整，并与后续国际运费分别记录。"
+    }
+  },
+  "cssbuy-insurance-guide-parcel-claims": {
+    "en": {
+      "title": "CSSBuy Parcel Insurance: Coverage, Exclusions and Claims",
+      "description": "Check CSSBuy parcel insurance terms, insured value, exclusions and claim evidence. Review the current policy for your selected shipping line."
+    },
+    "de": {
+      "title": "CSSBuy-Paketversicherung: Leistungen und Schadensmeldung",
+      "description": "Prüfe Versicherungssumme, Ausschlüsse und erforderliche Nachweise für CSSBuy-Pakete. Maßgeblich sind die aktuellen Bedingungen deiner Versandlinie."
+    },
+    "fr": {
+      "title": "Assurance CSSBuy : garanties, exclusions et réclamations",
+      "description": "Vérifiez le montant assuré, les exclusions et les justificatifs pour un colis CSSBuy. Consultez les conditions actuelles de la ligne choisie."
+    },
+    "es": {
+      "title": "Seguro CSSBuy: cobertura, exclusiones y reclamaciones",
+      "description": "Revisa el valor asegurado, las exclusiones y las pruebas para reclamar por un paquete CSSBuy. Consulta las condiciones vigentes de la línea elegida."
+    },
+    "it": {
+      "title": "Assicurazione CSSBuy: copertura, esclusioni e richieste",
+      "description": "Controlla valore assicurato, esclusioni e prove necessarie per i pacchi CSSBuy. Verifica le condizioni attuali della linea di spedizione scelta."
+    },
+    "zh": {
+      "title": "CSSBuy 包裹保险：保障范围、除外责任与索赔",
+      "description": "核对 CSSBuy 包裹保险的保额、保障范围、除外责任和索赔材料，按所选运输线路的现行条款准备寄件记录。"
+    }
+  },
+  "cssbuy-mixed-parcel-qc-volume-weight-audit-2026-07-12": {
+    "en": {
+      "title": "CSSBuy Mixed Parcels: QC, Weight and Shipping Checks",
+      "description": "Plan a CSSBuy parcel containing different item types. Review QC, packaging, volumetric weight and shipping restrictions with a practical worksheet."
+    },
+    "de": {
+      "title": "CSSBuy-Mischpakete: QC, Gewicht und Versand prüfen",
+      "description": "Plane CSSBuy-Pakete mit verschiedenen Waren. Prüfe QC-Fotos, Verpackung, Volumengewicht und Versandbeschränkungen mit einer praktischen Übersicht."
+    },
+    "fr": {
+      "title": "Colis mixtes CSSBuy : QC, poids et vérifications avant envoi",
+      "description": "Préparez un colis CSSBuy contenant plusieurs types d'articles. Vérifiez photos QC, emballage, poids volumétrique et restrictions de transport."
+    },
+    "es": {
+      "title": "Paquetes mixtos CSSBuy: QC, peso y comprobaciones de envío",
+      "description": "Prepara un paquete CSSBuy con distintos tipos de artículos. Revisa las fotos QC, el embalaje, el peso volumétrico y las restricciones de transporte."
+    },
+    "it": {
+      "title": "Pacchi misti CSSBuy: QC, peso e controlli prima dell'invio",
+      "description": "Prepara un pacco CSSBuy con articoli diversi. Controlla foto QC, imballaggio, peso volumetrico e restrizioni di trasporto con una scheda pratica."
+    },
+    "zh": {
+      "title": "CSSBuy 混合包裹检查：QC、体积重与运输限制",
+      "description": "准备包含不同商品的 CSSBuy 包裹时，逐项检查 QC、包装、实际重量、体积重及线路限制，用清单整理待确认信息。"
+    }
+  },
+  "cssbuy-pro-calculator-route-fees-guide": {
+    "en": {
+      "title": "CSSBuy Shipping Calculator Guide: Weight, Size and Fees",
+      "description": "Learn how to use the CSSBuy shipping calculator, compare actual and volumetric weight, and reconcile estimates with the final parcel charge."
+    },
+    "de": {
+      "title": "CSSBuy-Versandkostenrechner: Anleitung zu Gewicht und Gebühren",
+      "description": "Nutze den CSSBuy-Versandkostenrechner mit passenden Paketmaßen. Vergleiche tatsächliches Gewicht und Volumengewicht sowie Schätzung und Endkosten."
+    },
+    "fr": {
+      "title": "Calculateur CSSBuy : guide des poids, dimensions et frais",
+      "description": "Utilisez le calculateur de livraison CSSBuy avec les bonnes mesures. Comparez poids réel et volumétrique, puis estimation et facture finale."
+    },
+    "es": {
+      "title": "Calculadora de envíos CSSBuy: guía de peso, medidas y costes",
+      "description": "Aprende a usar la calculadora de envíos CSSBuy. Compara peso real y volumétrico y comprueba la estimación frente al importe final del paquete."
+    },
+    "it": {
+      "title": "Calcolatore CSSBuy: guida a peso, dimensioni e costi",
+      "description": "Impara a usare il calcolatore di spedizione CSSBuy. Confronta peso reale e volumetrico e verifica la stima rispetto al costo finale del pacco."
+    },
+    "zh": {
+      "title": "CSSBuy 运费计算器使用指南：重量、尺寸与费用",
+      "description": "了解 CSSBuy 运费计算器需要哪些数据，比较实际重量和体积重，核对包装方案、估算报价与最终包裹收费的差异。"
+    }
+  },
+  "cssbuy-pro-coupon-exchange-rate-reward-guide": {
+    "en": {
+      "title": "CSSBuy Coupons, Points and Exchange Rates Explained",
+      "description": "Check CSSBuy coupon conditions, reward points and currency conversion separately. Compare the final payment amount before using a promotion."
+    },
+    "de": {
+      "title": "CSSBuy-Gutscheine, Punkte und Wechselkurse erklärt",
+      "description": "Prüfe CSSBuy-Gutscheinbedingungen, Prämienpunkte und Währungsumrechnung getrennt. Vergleiche vor einer Aktion den endgültigen Zahlungsbetrag."
+    },
+    "fr": {
+      "title": "CSSBuy : comprendre les coupons, points et taux de change",
+      "description": "Vérifiez séparément les conditions des coupons CSSBuy, les points et la conversion monétaire. Comparez le montant final avant d'utiliser une offre."
+    },
+    "es": {
+      "title": "CSSBuy: cupones, puntos y tipos de cambio explicados",
+      "description": "Comprueba por separado las condiciones de los cupones CSSBuy, los puntos y la conversión de moneda. Compara el pago final antes de aplicar una oferta."
+    },
+    "it": {
+      "title": "CSSBuy: coupon, punti e tassi di cambio spiegati",
+      "description": "Verifica separatamente condizioni dei coupon CSSBuy, punti premio e conversione valutaria. Confronta l'importo finale prima di usare una promozione."
+    },
+    "zh": {
+      "title": "CSSBuy 优惠券、积分与汇率：如何核对实际费用",
+      "description": "分别检查 CSSBuy 优惠券的适用条件、积分奖励和货币兑换，在使用促销前比较最终实付金额，避免把折扣与汇率混为一谈。"
+    }
+  },
+  "cssbuy-pro-fee-qc-shipping-route-index": {
+    "en": {
+      "title": "How CSSBuy Works: Buying, QC and Shipping Costs",
+      "description": "Follow the CSSBuy buying process from product selection to warehouse QC and international shipping. Separate item costs from parcel charges."
+    },
+    "de": {
+      "title": "So funktioniert CSSBuy: Einkauf, QC und Versandkosten",
+      "description": "Verfolge den CSSBuy-Ablauf von der Produktauswahl über die Qualitätskontrolle bis zum Versand. Unterscheide Artikelkosten und Paketgebühren."
+    },
+    "fr": {
+      "title": "Comment fonctionne CSSBuy : achat, QC et frais de livraison",
+      "description": "Suivez un achat CSSBuy de la sélection du produit au contrôle en entrepôt et à l'expédition. Distinguez le prix des articles des frais du colis."
+    },
+    "es": {
+      "title": "Cómo funciona CSSBuy: compras, QC y gastos de envío",
+      "description": "Sigue el proceso CSSBuy desde la elección del producto hasta las fotos QC y el envío internacional. Distingue los costes del artículo y del paquete."
+    },
+    "it": {
+      "title": "Come funziona CSSBuy: acquisti, QC e costi di spedizione",
+      "description": "Segui un acquisto CSSBuy dalla scelta del prodotto al controllo in magazzino e alla spedizione. Distingui il costo degli articoli dalle spese del pacco."
+    },
+    "zh": {
+      "title": "CSSBuy 怎么买：下单、仓库 QC 与运输费用",
+      "description": "按照商品选择、付款、仓库检查和国际运输的顺序了解 CSSBuy 流程，将商品费用与包裹运输费用分开核对。"
+    }
+  },
+  "cssbuy-pro-parcel-risk-qc-2026-07-09": {
+    "en": {
+      "title": "CSSBuy Parcel Checklist: QC, Packing and Shipping Limits",
+      "description": "Review a CSSBuy parcel before dispatch: check unresolved QC issues, fragile goods, weight, packaging, storage timing and shipping-line restrictions."
+    },
+    "de": {
+      "title": "CSSBuy-Paketcheck: QC, Verpackung und Versandgrenzen",
+      "description": "Prüfe vor dem CSSBuy-Versand offene QC-Fragen, empfindliche Waren, Gewicht, Verpackung, Lagerfristen und die Bedingungen der Versandlinie."
+    },
+    "fr": {
+      "title": "Vérifier son colis CSSBuy : QC, emballage et restrictions",
+      "description": "Avant l'envoi CSSBuy, vérifiez les questions QC, les articles fragiles, le poids, l'emballage, les délais de stockage et les restrictions de transport."
+    },
+    "es": {
+      "title": "Lista de revisión CSSBuy: QC, embalaje y límites de envío",
+      "description": "Antes de enviar con CSSBuy, revisa dudas QC, artículos frágiles, peso, embalaje, plazos de almacenamiento y restricciones de la línea."
+    },
+    "it": {
+      "title": "Controlli del pacco CSSBuy: QC, imballaggio e limiti di invio",
+      "description": "Prima di spedire con CSSBuy, verifica dubbi QC, articoli fragili, peso, imballaggio, scadenze di deposito e restrizioni della linea."
+    },
+    "zh": {
+      "title": "CSSBuy 发货前检查清单：QC、包装与线路限制",
+      "description": "寄出 CSSBuy 包裹前，检查未解决的 QC 问题、易碎商品、重量、包装保护、仓储期限及运输线路的具体限制。"
+    }
+  },
+  "cssbuy-pro-qc-lab-photo-video-extra-fee": {
+    "en": {
+      "title": "CSSBuy Extra QC Photos: Requests, Fees and Timing",
+      "description": "Request useful CSSBuy QC photos and measurements, check any extra charges, and resolve missing evidence before packing or international shipping."
+    },
+    "de": {
+      "title": "Zusätzliche CSSBuy-QC-Fotos: Anfrage, Kosten und Zeitpunkt",
+      "description": "Fordere gezielte CSSBuy-QC-Fotos und Maße an. Kläre Zusatzkosten und fehlende Informationen, bevor du Verpackung und internationalen Versand freigibst."
+    },
+    "fr": {
+      "title": "Photos QC supplémentaires CSSBuy : demandes, frais et délais",
+      "description": "Demandez des photos QC CSSBuy et des mesures précises. Vérifiez les frais éventuels et les détails manquants avant l'emballage et l'expédition."
+    },
+    "es": {
+      "title": "Fotos QC adicionales en CSSBuy: solicitudes, costes y plazos",
+      "description": "Solicita fotos QC y medidas útiles en CSSBuy. Confirma los cargos adicionales y resuelve las dudas antes del embalaje y del envío internacional."
+    },
+    "it": {
+      "title": "Foto QC aggiuntive CSSBuy: richieste, costi e tempi",
+      "description": "Richiedi foto QC e misure utili su CSSBuy. Verifica gli eventuali supplementi e chiarisci i dubbi prima dell'imballaggio e della spedizione internazionale."
+    },
+    "zh": {
+      "title": "CSSBuy 补拍 QC 照片：申请方法、费用与检查时机",
+      "description": "向 CSSBuy 提出明确的照片和测量需求，确认补拍费用，在包装及国际发货前补齐影响商品验收判断的必要信息。"
+    }
+  },
+  "cssbuy-pro-w2c-qc-shipping-workflow-2026": {
+    "en": {
+      "title": "CSSBuy Order Checklist: Product Links, QC and Dispatch",
+      "description": "Keep a clear CSSBuy order record from the original product link to QC approval and dispatch. Track missing details and the next action at each stage."
+    },
+    "de": {
+      "title": "CSSBuy-Bestellcheckliste: Produktlinks, QC und Versand",
+      "description": "Dokumentiere deine CSSBuy-Bestellung vom ursprünglichen Produktlink bis zur QC-Freigabe und zum Versand. Halte offene Fragen und nächste Schritte fest."
+    },
+    "fr": {
+      "title": "Suivi d'achat CSSBuy : liens produits, QC et expédition",
+      "description": "Gardez un dossier CSSBuy clair du lien produit à la validation QC et à l'envoi. Notez les informations manquantes et la prochaine étape à chaque stade."
+    },
+    "es": {
+      "title": "Lista de pedido CSSBuy: enlaces, QC y preparación del envío",
+      "description": "Organiza tu pedido CSSBuy desde el enlace original hasta la aprobación QC y el envío. Registra los datos pendientes y la siguiente acción de cada etapa."
+    },
+    "it": {
+      "title": "Ordini CSSBuy: lista di controllo per link, QC e spedizione",
+      "description": "Organizza un ordine CSSBuy dal link originale all'approvazione QC e all'invio. Registra le informazioni mancanti e il prossimo passo di ogni fase."
+    },
+    "zh": {
+      "title": "CSSBuy 订单清单：从商品链接、QC 到发货",
+      "description": "从原始商品链接到 QC 验收和包裹发货，整理 CSSBuy 订单记录，明确每个阶段尚缺的信息和下一步操作。"
+    }
+  },
+  "cssbuy-restricted-items-shipping": {
+    "en": {
+      "title": "CSSBuy Shipping Restrictions: Batteries and Liquids",
+      "description": "Check CSSBuy shipping restrictions for batteries, electronics, liquids and mixed parcels. Confirm current eligibility for your destination and line."
+    },
+    "de": {
+      "title": "CSSBuy-Versandbeschränkungen: Batterien und Flüssigkeiten",
+      "description": "Prüfe CSSBuy-Versandregeln für Batterien, Elektronik, Flüssigkeiten und Mischpakete. Bestätige die Zulässigkeit für dein Zielland und die Versandlinie."
+    },
+    "fr": {
+      "title": "Restrictions CSSBuy : batteries, liquides et électronique",
+      "description": "Vérifiez les règles CSSBuy pour les batteries, liquides, appareils et colis mixtes. Confirmez leur admissibilité pour la destination et la ligne choisies."
+    },
+    "es": {
+      "title": "Restricciones CSSBuy: baterías, líquidos y electrónica",
+      "description": "Revisa las restricciones CSSBuy para baterías, líquidos, electrónica y paquetes mixtos. Confirma la admisión según el destino y la línea elegida."
+    },
+    "it": {
+      "title": "Restrizioni CSSBuy: batterie, liquidi ed elettronica",
+      "description": "Verifica le regole CSSBuy per batterie, elettronica, liquidi e pacchi misti. Conferma l'ammissibilità per la destinazione e la linea selezionate."
+    },
+    "zh": {
+      "title": "CSSBuy 运输限制：电池、液体与电子产品",
+      "description": "检查 CSSBuy 对电池、电子产品、液体和混合包裹的运输限制，按收货地区、商品属性及所选线路确认是否可寄。"
+    }
+  },
+  "cssbuy-service-payment-fees-prepayment-audit": {
+    "en": {
+      "title": "CSSBuy Service and Payment Fees: What to Check",
+      "description": "Separate CSSBuy service fees, payment charges and currency conversion. Compare the amount paid with the balance credited and reconcile receipts."
+    },
+    "de": {
+      "title": "CSSBuy-Service- und Zahlungsgebühren richtig prüfen",
+      "description": "Trenne CSSBuy-Servicegebühren, Zahlungskosten und Währungsumrechnung. Vergleiche Zahlung und gutgeschriebenes Guthaben anhand deiner Belege."
+    },
+    "fr": {
+      "title": "Frais de service et de paiement CSSBuy : les points à vérifier",
+      "description": "Distinguez frais de service CSSBuy, frais de paiement et conversion. Comparez le montant débité au solde crédité et conservez les justificatifs."
+    },
+    "es": {
+      "title": "Comisiones CSSBuy: servicio, pago y cambio de moneda",
+      "description": "Distingue las comisiones de servicio CSSBuy, los cargos de pago y la conversión. Compara el importe pagado con el saldo recibido y revisa los comprobantes."
+    },
+    "it": {
+      "title": "Commissioni CSSBuy: servizio, pagamento e cambio valuta",
+      "description": "Separa commissioni di servizio CSSBuy, costi di pagamento e conversione. Confronta la somma pagata con il saldo accreditato e verifica le ricevute."
+    },
+    "zh": {
+      "title": "CSSBuy 服务费与支付费用：付款前核对哪些项目",
+      "description": "将 CSSBuy 服务费、支付手续费和货币兑换分别核对，比较实际付款与到账余额，并通过交易凭证检查费用差异。"
+    }
+  },
+  "cssbuy-shipping-line-comparison-framework": {
+    "en": {
+      "title": "CSSBuy Shipping Lines: Compare Cost, Weight and Delivery",
+      "description": "Compare CSSBuy shipping lines using one parcel's measurements and contents. Check eligible routes, full quotes, delivery estimates and tracking."
+    },
+    "de": {
+      "title": "CSSBuy-Versandlinien: Kosten, Gewicht und Laufzeit vergleichen",
+      "description": "Vergleiche CSSBuy-Versandlinien für dasselbe Paket. Prüfe Warenzulässigkeit, vollständige Angebote, voraussichtliche Laufzeiten und Sendungsverfolgung."
+    },
+    "fr": {
+      "title": "Lignes CSSBuy : comparer les frais, le poids et les délais",
+      "description": "Comparez les lignes CSSBuy avec les mêmes mesures et le même contenu. Vérifiez les restrictions, le devis complet, le suivi et les délais estimés."
+    },
+    "es": {
+      "title": "Líneas CSSBuy: comparar costes, peso y plazos de entrega",
+      "description": "Compara las líneas CSSBuy con el mismo paquete. Revisa restricciones, presupuesto completo, plazo estimado y seguimiento antes de elegir."
+    },
+    "it": {
+      "title": "Linee CSSBuy: confrontare costi, peso e tempi di consegna",
+      "description": "Confronta le linee CSSBuy usando le stesse misure e lo stesso contenuto. Verifica restrizioni, preventivi completi, tempi stimati e tracciamento."
+    },
+    "zh": {
+      "title": "CSSBuy 运输线路比较：费用、计费重量与时效",
+      "description": "用同一包裹的尺寸和商品信息比较 CSSBuy 运输线路，先确认可寄范围，再查看完整报价、预计时效和物流跟踪方式。"
+    }
+  },
+  "cssbuy-shoe-box-removal": {
+    "en": {
+      "title": "CSSBuy Shoe Box Removal: Shipping Cost and Protection",
+      "description": "Compare keeping or removing shoe boxes in a CSSBuy parcel. Check packed dimensions, protection, optional service fees and the final shipping quote."
+    },
+    "de": {
+      "title": "CSSBuy ohne Schuhkarton: Versandkosten und Schutz",
+      "description": "Vergleiche CSSBuy-Versand mit und ohne Schuhkartons. Prüfe Paketmaße, Schutz, optionale Verpackungsgebühren und das endgültige Versandangebot."
+    },
+    "fr": {
+      "title": "Retirer les boîtes à chaussures CSSBuy : coût et protection",
+      "description": "Comparez l'envoi CSSBuy avec ou sans boîtes à chaussures. Vérifiez les dimensions du colis, la protection, les frais d'emballage et le devis final."
+    },
+    "es": {
+      "title": "Quitar cajas de zapatos en CSSBuy: costes y protección",
+      "description": "Compara el envío CSSBuy con y sin cajas de zapatos. Comprueba las dimensiones, la protección, los cargos de embalaje y el presupuesto final."
+    },
+    "it": {
+      "title": "CSSBuy senza scatole per scarpe: costi e protezione",
+      "description": "Confronta spedizioni CSSBuy con e senza scatole per scarpe. Controlla dimensioni, protezione, eventuali costi di imballaggio e preventivo finale."
+    },
+    "zh": {
+      "title": "CSSBuy 拆鞋盒：比较运输费用与商品保护",
+      "description": "比较 CSSBuy 保留或拆除鞋盒的方案，核对包装尺寸、鞋子保护、可选包装费用和最终运费，避免只看鞋盒重量。"
+    }
+  },
+  "cssbuy-spreadsheet": {
+    "en": {
+      "title": "CSSBuy Spreadsheet Guide: Product Links, QC and Costs",
+      "description": "Organize CSSBuy product links, sizes, prices and warehouse QC in a useful spreadsheet. Keep item research separate from parcel shipping budgets."
+    },
+    "de": {
+      "title": "CSSBuy-Spreadsheet: Produktlinks, QC und Kosten planen",
+      "description": "Ordne CSSBuy-Produktlinks, Größen, Preise und QC-Ergebnisse in einer übersichtlichen Tabelle. Trenne Artikelsuche und Versandbudget für das Paket."
+    },
+    "fr": {
+      "title": "Tableur CSSBuy : liens produits, photos QC et budget",
+      "description": "Organisez vos liens CSSBuy, tailles, prix et contrôles QC dans un tableur utile. Séparez les recherches sur les articles du budget d'expédition."
+    },
+    "es": {
+      "title": "Hoja de cálculo CSSBuy: enlaces, QC y presupuesto",
+      "description": "Organiza enlaces CSSBuy, tallas, precios y fotos QC en una hoja útil. Separa la búsqueda de productos del presupuesto de envío del paquete."
+    },
+    "it": {
+      "title": "Foglio di calcolo CSSBuy: link prodotti, QC e budget",
+      "description": "Organizza link CSSBuy, taglie, prezzi e controlli QC in un foglio utile. Separa la ricerca dei prodotti dal budget di spedizione del pacco."
+    },
+    "zh": {
+      "title": "CSSBuy 商品清单：整理链接、QC 与购买预算",
+      "description": "使用实用的 CSSBuy 商品清单记录链接、尺码、价格和仓库 QC，将商品研究与包裹运输预算分开，方便后续核对。"
+    }
+  },
+  "cssbuy-total-landed-cost-worksheet": {
+    "en": {
+      "title": "CSSBuy Total Cost Worksheet: From Item Price to Delivery",
+      "description": "Build a CSSBuy budget covering products, China delivery, payment charges, packing and international shipping. Separate estimates from paid costs."
+    },
+    "de": {
+      "title": "CSSBuy-Gesamtkosten: Budget vom Artikel bis zur Zustellung",
+      "description": "Plane Produktkosten, Inlandsversand, Zahlung, Verpackung und internationalen Versand bei CSSBuy. Halte Schätzungen und bezahlte Beträge getrennt."
+    },
+    "fr": {
+      "title": "Budget CSSBuy : calculer le coût total jusqu'à la livraison",
+      "description": "Préparez un budget CSSBuy incluant articles, livraison en Chine, paiement, emballage et transport international. Séparez estimations et frais réglés."
+    },
+    "es": {
+      "title": "Presupuesto CSSBuy: coste total del producto a la entrega",
+      "description": "Calcula un presupuesto CSSBuy con productos, envío en China, pagos, embalaje y transporte internacional. Distingue estimaciones e importes pagados."
+    },
+    "it": {
+      "title": "Budget CSSBuy: costo totale dall'acquisto alla consegna",
+      "description": "Prepara un budget CSSBuy con prodotti, consegna in Cina, pagamento, imballaggio e trasporto internazionale. Distingui stime e costi già pagati."
+    },
+    "zh": {
+      "title": "CSSBuy 总费用预算表：从商品价格到最终送达",
+      "description": "建立包含商品、中国国内运费、支付费用、包装和国际运输的 CSSBuy 预算表，区分估算、报价与已付金额。"
+    }
+  },
+  "cssbuy-tracking-not-updating-parcel-status-guide": {
+    "en": {
+      "title": "CSSBuy Tracking Not Updating? Status Checks and Next Steps",
+      "description": "Check why CSSBuy tracking has stopped updating. Identify the shipping stage, save scan details and send a useful enquiry through your parcel record."
+    },
+    "de": {
+      "title": "CSSBuy-Tracking ohne Update: Status und nächste Schritte",
+      "description": "Prüfe ausbleibende CSSBuy-Tracking-Updates nach Versandphase. Sichere die letzten Meldungen und stelle eine konkrete Anfrage im Paketdatensatz."
+    },
+    "fr": {
+      "title": "Suivi CSSBuy bloqué : vérifier le statut et agir",
+      "description": "Comprenez l'absence de mise à jour du suivi CSSBuy. Identifiez l'étape, conservez les derniers scans et contactez l'assistance depuis le colis concerné."
+    },
+    "es": {
+      "title": "Seguimiento CSSBuy sin actualizar: qué revisar y qué hacer",
+      "description": "Comprueba por qué no avanza el seguimiento CSSBuy. Identifica la etapa, guarda los últimos registros y consulta desde el paquete correspondiente."
+    },
+    "it": {
+      "title": "Tracking CSSBuy fermo: controlli sullo stato e prossimi passi",
+      "description": "Scopri cosa verificare se il tracking CSSBuy non cambia. Individua la fase, salva gli ultimi aggiornamenti e contatta l'assistenza dal pacco interessato."
+    },
+    "zh": {
+      "title": "CSSBuy 物流不更新：按包裹状态检查与处理",
+      "description": "遇到 CSSBuy 物流停止更新时，先确认当前运输阶段，保存最后扫描记录，再从对应包裹中向客服提供可核查的信息。"
+    }
+  },
+  "cssbuy-vacuum-packing-clothes": {
+    "en": {
+      "title": "CSSBuy Vacuum Packing: Clothing Volume, Cost and Care",
+      "description": "Compare folding, compression and vacuum packing for CSSBuy clothing parcels. Check garment suitability, chargeable weight and extra packing fees."
+    },
+    "de": {
+      "title": "CSSBuy-Vakuumverpackung: Volumen, Kosten und Kleidungsschutz",
+      "description": "Vergleiche Falten, Kompression und Vakuumverpackung für CSSBuy-Kleidung. Prüfe Materialeignung, Abrechnungsgewicht und zusätzliche Verpackungskosten."
+    },
+    "fr": {
+      "title": "Vêtements CSSBuy sous vide : volume, coût et précautions",
+      "description": "Comparez pliage, compression et emballage sous vide pour un colis CSSBuy. Vérifiez les textiles, le poids facturable et les frais de préparation."
+    },
+    "es": {
+      "title": "Ropa CSSBuy al vacío: volumen, coste y cuidados",
+      "description": "Compara doblado, compresión y envasado al vacío para ropa CSSBuy. Revisa la compatibilidad de las prendas, el peso facturable y los gastos de embalaje."
+    },
+    "it": {
+      "title": "Vestiti CSSBuy sottovuoto: volume, costi e precauzioni",
+      "description": "Confronta piegatura, compressione e sottovuoto per i vestiti CSSBuy. Verifica i tessuti, il peso fatturabile e i costi aggiuntivi di imballaggio."
+    },
+    "zh": {
+      "title": "CSSBuy 衣物真空包装：体积、费用与保护注意事项",
+      "description": "比较 CSSBuy 衣物折叠、压缩和真空包装方案，检查面料是否适合、计费重量变化及额外包装费用，再确认操作。"
+    }
+  },
+  "cssbuy-volumetric-weight": {
+    "en": {
+      "title": "CSSBuy Volumetric Weight: Formula and Parcel Examples",
+      "description": "Calculate CSSBuy volumetric weight with the divisor specified by your shipping line. Compare actual weight, packed dimensions and billing increments."
+    },
+    "de": {
+      "title": "CSSBuy-Volumengewicht: Formel und Paketbeispiele",
+      "description": "Berechne das CSSBuy-Volumengewicht mit dem Divisor deiner Versandlinie. Vergleiche tatsächliches Gewicht, Paketmaße und Abrechnungsschritte."
+    },
+    "fr": {
+      "title": "Poids volumétrique CSSBuy : formule et exemples de colis",
+      "description": "Calculez le poids volumétrique CSSBuy avec le diviseur de votre ligne. Comparez poids réel, dimensions emballées et paliers de facturation."
+    },
+    "es": {
+      "title": "Peso volumétrico CSSBuy: fórmula y ejemplos de paquetes",
+      "description": "Calcula el peso volumétrico CSSBuy con el divisor de tu línea de envío. Compara peso real, dimensiones del paquete e incrementos de facturación."
+    },
+    "it": {
+      "title": "Peso volumetrico CSSBuy: formula ed esempi di pacchi",
+      "description": "Calcola il peso volumetrico CSSBuy con il divisore della tua linea. Confronta peso reale, dimensioni imballate e scaglioni di fatturazione."
+    },
+    "zh": {
+      "title": "CSSBuy 体积重计算：公式、包裹尺寸与示例",
+      "description": "按 CSSBuy 所选运输线路的体积重除数计算，比较实际重量、外包装尺寸和计费进位规则，理解最终收费依据。"
+    }
+  },
+  "qc-guide": {
+    "en": {
+      "title": "CSSBuy QC Photos: Check Sizes, Defects and Return Options",
+      "description": "Use a CSSBuy QC checklist to check sizes, selected variations and visible defects. Request missing views and review return options before shipping."
+    },
+    "de": {
+      "title": "CSSBuy-QC-Fotos: Größen, Mängel und Rückgabe prüfen",
+      "description": "Prüfe mit der CSSBuy-QC-Checkliste Größen, bestellte Varianten und sichtbare Mängel. Fordere fehlende Ansichten an und kläre Rückgaben vor dem Versand."
+    },
+    "fr": {
+      "title": "Photos QC CSSBuy : tailles, défauts et possibilités de retour",
+      "description": "Vérifiez tailles, variantes commandées et défauts visibles avec une liste QC CSSBuy. Demandez les vues manquantes et examinez les retours avant l'envoi."
+    },
+    "es": {
+      "title": "Fotos QC CSSBuy: revisar tallas, defectos y devoluciones",
+      "description": "Usa una lista QC CSSBuy para revisar tallas, variantes y defectos visibles. Pide las fotos que falten y comprueba las opciones de devolución antes del envío."
+    },
+    "it": {
+      "title": "Foto QC CSSBuy: taglie, difetti e possibilità di reso",
+      "description": "Usa una lista QC CSSBuy per verificare taglie, varianti e difetti visibili. Richiedi le immagini mancanti e valuta il reso prima della spedizione."
+    },
+    "zh": {
+      "title": "CSSBuy QC 照片：检查尺码、瑕疵与退货选择",
+      "description": "按照 CSSBuy QC 清单核对尺码、所选款式和可见瑕疵，申请缺失角度的照片，并在国际发货前确认可用的退货方案。"
+    }
+  },
+  "w2c": {
+    "en": {
+      "title": "CSSBuy Product Links: Find, Verify and Plan Your Order",
+      "description": "Find and verify CSSBuy product links, check the selected size and seller, then record the information needed for warehouse QC and parcel planning."
+    },
+    "de": {
+      "title": "CSSBuy-Produktlinks finden, prüfen und Bestellung planen",
+      "description": "Finde und prüfe CSSBuy-Produktlinks, Händler und ausgewählte Größen. Halte die Angaben fest, die du später für QC und Versandplanung benötigst."
+    },
+    "fr": {
+      "title": "Liens produits CSSBuy : trouver, vérifier et préparer l'achat",
+      "description": "Trouvez et vérifiez les liens produits CSSBuy, le vendeur et la taille choisie. Notez les informations utiles au contrôle QC et à la préparation du colis."
+    },
+    "es": {
+      "title": "Enlaces CSSBuy: encontrar, verificar y preparar tu pedido",
+      "description": "Busca y verifica enlaces de productos CSSBuy, el vendedor y la talla elegida. Guarda los datos necesarios para las fotos QC y la planificación del envío."
+    },
+    "it": {
+      "title": "Link CSSBuy: trovare, verificare e preparare l'ordine",
+      "description": "Trova e verifica link di prodotti CSSBuy, venditore e taglia scelta. Conserva le informazioni necessarie per i controlli QC e la preparazione del pacco."
+    },
+    "zh": {
+      "title": "CSSBuy 商品链接：查找、核对与下单准备",
+      "description": "查找并核对 CSSBuy 商品链接、卖家和所选尺码，保存仓库 QC 与运输规划需要的资料，避免把失效或错误链接当作同款。"
+    }
+  }
+}

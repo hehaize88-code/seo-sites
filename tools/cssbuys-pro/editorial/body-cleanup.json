@@ -1,0 +1,932 @@
+[
+  {
+    "path": "guides/best-agent-2026.html",
+    "old": "<p class=\"lead\">A guide to comparing agent route decisions.</p>",
+    "new": "<p class=\"lead\">Compare CSSBuy and other shopping agents using the same parcel, destination, required services and current shipping conditions.</p>"
+  },
+  {
+    "path": "guides/best-agent-2026.html",
+    "old": "<p>Shipping planning should start before a parcel is packed. A W2C product may look inexpensive during discovery, but the final route depends on destination, actual weight, parcel volume, product attributes and live line availability.</p>",
+    "new": "<p>Start the comparison before buying or packing. Record the products you intend to order, their selected variations and any batteries, liquids or fragile parts. Then check whether each agent can handle those goods and offer a suitable route to your destination. A low listing price is only one part of the purchase.</p>"
+  },
+  {
+    "path": "guides/best-agent-2026.html",
+    "old": "<p>Compare current route conditions using the same destination, parcel measurements and goods attributes. Historical route names and prices are not reliable quotes for a new shipment.</p>",
+    "new": "<p>Request comparable shipping estimates using the same destination, actual weight, outside dimensions and product attributes. Note when each estimate was checked. A familiar line name or an older buyer’s receipt does not establish the price, eligibility or delivery conditions of your next shipment.</p>"
+  },
+  {
+    "path": "guides/best-agent-2026.html",
+    "old": "<p>These are examples, not universal quotes. CSSBuy’s calculator asks for weight, volume, commodity attribute and destination, and some routes calculate by the larger value between actual weight and volumetric weight.</p>",
+    "new": "<p>Check how each available line calculates chargeable weight. CSSBuy’s calculator asks for weight, dimensions, commodity attributes and destination; some lines compare actual and volumetric weight and charge on the larger figure. Use each line’s current divisor and billing increments before comparing the complete quoted totals.</p>"
+  },
+  {
+    "path": "guides/best-agent-2026.html",
+    "old": "<p>The guide should also explain why a deposit and final charge may differ. The final amount can depend on package size and weight verified later in the shipping process.</p>",
+    "new": "<p>Keep the shipping deposit and final charge in separate columns. The final amount can change when the parcel’s size and weight are verified later in the shipping process. Compare those measurements with the estimate, identify any adjustment and check the account record before treating a difference as a refund.</p>"
+  },
+  {
+    "path": "guides/cssbuy-pro-fee-qc-shipping-route-index.html",
+    "old": "<p class=\"lead\">Fact-based CSSBuy Pro Finder guide covering W2C routes, QC image language, public shipping examples, storage, returns, rewards and live fee verification.</p>",
+    "new": "<p class=\"lead\">Plan a CSSBuy purchase in order: verify the product link, review warehouse QC, check storage and return options, compare parcel routes, then reconcile fees and any confirmed rewards.</p>"
+  },
+  {
+    "path": "guides/cssbuy-pro-fee-qc-shipping-route-index.html",
+    "old": "<p>Shipping planning should start before a parcel is packed. A W2C product may look inexpensive during discovery, but the final route depends on destination, actual weight, parcel volume, product attributes and live line availability.</p>",
+    "new": "<p>Begin with the decision you need to make now. Before ordering, check the listing, variation and seller-to-warehouse charge. Once the goods arrive, review their identity, condition and available return options before choosing packing services. Move to international shipping only when the contents and product attributes are clear.</p>"
+  },
+  {
+    "path": "guides/cssbuy-pro-fee-qc-shipping-route-index.html",
+    "old": "<p>Compare current route conditions using the same destination, parcel measurements and goods attributes. Historical route names and prices are not reliable quotes for a new shipment.</p>",
+    "new": "<p>Keep a purchase record for each item and a shipping record for each parcel. Item price, domestic delivery and QC notes belong to the item; packed weight, dimensions, destination and available routes belong to the parcel. This separation makes it easier to locate the source of an unexpected charge.</p>"
+  },
+  {
+    "path": "guides/cssbuy-pro-fee-qc-shipping-route-index.html",
+    "old": "<p>These are examples, not universal quotes. CSSBuy’s calculator asks for weight, volume, commodity attribute and destination, and some routes calculate by the larger value between actual weight and volumetric weight.</p>",
+    "new": "<p>For a parcel estimate, enter weight, dimensions, destination and product attributes in the current CSSBuy calculator. Check the selected line’s actual-versus-volumetric rule and billing increments. Save the inputs with the result so a later packaging change can be priced against the same starting point.</p>"
+  },
+  {
+    "path": "guides/cssbuy-pro-fee-qc-shipping-route-index.html",
+    "old": "<p>The guide should also explain why a deposit and final charge may differ. The final amount can depend on package size and weight verified later in the shipping process.</p>",
+    "new": "<p>At payment, distinguish the international shipping deposit from services charged separately. After dispatch, match the final shipping amount to the parcel record and look for any corresponding account adjustment. Recheck coupons or rewards on the transaction itself; an old example does not establish eligibility for your purchase.</p>"
+  },
+  {
+    "path": "guides/cssbuy-pro-fee-qc-shipping-route-index.html",
+    "old": "<p>This index is most valuable as a record of questions: What is still unknown? Which photo would change the decision? Which box creates volume? Which fee is confirmed, and which is only a buffer? A page that keeps those questions visible is more useful than a long list of links with no decision context.</p>",
+    "new": "<p>Keep a short list of unresolved decisions beside the item and parcel records: which measurement is missing, which QC angle is needed, which box determines the carton size and which cost is only a budget reserve. Add the question, the record it concerns and the evidence needed to close it before approving the next stage.</p>"
+  },
+  {
+    "path": "guides/cssbuy-service-payment-fees-prepayment-audit.html",
+    "old": "<p>Payment-method comparison starts only after the account presents the methods currently available for that exact payment. A wallet, card, bank option or account balance should not be advertised as available merely because it appeared in an old tutorial. For each live option, note the amount paid, the currency sent, the account value or order value received, any separately displayed fee, expected processing status and the refund destination described on the transaction screen.</p>",
+    "new": "<p>Compare only the payment methods currently offered for your account and this transaction. A wallet, card, bank transfer or account balance shown in an old tutorial may not be available at checkout. For each available option, record the amount you pay, the currency sent, the order value or account balance received, separately displayed fees, the stated processing status and the refund destination shown on the payment screen.</p>"
+  },
+  {
+    "path": "guides/cssbuy-service-payment-fees-prepayment-audit.html",
+    "old": "<h2 id=\"section-6\">Rules for publishing a CSSBuy fee number responsibly</h2>",
+    "new": "<h2 id=\"section-6\">Check whether a quoted fee applies to your payment</h2>"
+  },
+  {
+    "path": "guides/cssbuy-service-payment-fees-prepayment-audit.html",
+    "old": "<p>A number is publishable only when its scope is explicit. State the screen or official policy page, the access date, currency, transaction type, calculation base, account or membership condition, included and excluded charges, and whether the number was quoted or finally settled. If any of those fields is unknown, publish the verification method rather than the percentage.</p>",
+    "new": "<p>Before adding a fee to your budget, record the checkout screen or official policy that supports it, the date checked, currency, transaction type and calculation base. Include any account or membership condition, the charges covered and excluded, and whether the amount is an estimate or a final settlement. If one of these details is missing, mark the fee unconfirmed and check it before authorizing payment.</p>"
+  },
+  {
+    "path": "guides/cssbuy-service-payment-fees-prepayment-audit.html",
+    "old": "<p>Do not turn one receipt into a universal fee table. Do not combine a payment-provider difference with a platform service charge. Do not reuse a route's international shipping charge as a purchase fee. Do not call a temporary promotion permanent. Finally, do not calculate a percentage from rounded display values when the underlying base is unclear. A precise-looking rate can be less truthful than a clearly labelled unknown.</p>",
+    "new": "<p>Use a previous receipt to identify what needs checking, then confirm the amount for the new payment. Keep payment-provider differences separate from platform service charges and international freight separate from purchase fees. Check the expiry and eligibility of any promotion. If a displayed amount is rounded or the calculation base is unclear, record the amount and ask for the breakdown instead of deriving a misleading percentage.</p>"
+  },
+  {
+    "path": "guides/cssbuy-pro-w2c-qc-shipping-workflow-2026.html",
+    "old": "<p>CSSBuy-style agent shopping is easiest to understand when the buyer treats it as a route workflow rather than a single product click. A product link starts the process, but the final decision depends on W2C context, warehouse inspection, QC photo review, parcel weight, route availability and the buyer’s own notes. CSSBuys Pro is built as an external guide layer for people who want to organize this process before they commit to an order.</p>",
+    "new": "<p>A CSSBuy purchase has several decisions between finding a product and receiving a parcel. Start with the W2C listing and selected variation, then follow the order into the warehouse, review QC photos and choose a suitable packing and shipping plan. Keep the product details, warehouse findings, parcel weight, available routes and your decisions together so you can check what changed before the next payment.</p>"
+  },
+  {
+    "path": "guides/cssbuy-pro-w2c-qc-shipping-workflow-2026.html",
+    "old": "<p>A useful route workflow separates product approval from shipping approval. First confirm that the item is correct through QC photos. Then review whether to keep boxes, consolidate items or adjust packaging. Finally compare available routes based on the current shipping calculator. Any page that gives fixed shipping promises without live verification can mislead buyers.</p>",
+    "new": "<p>Approve the product and the shipment as separate decisions. First use the QC photos to check the received item and resolve any missing view or measurement. Then decide which boxes to keep, which goods can be combined and what protection they need. Compare eligible routes in the current calculator using that packing plan, and confirm the current conditions before submitting the parcel.</p>"
+  },
+  {
+    "path": "guides/cssbuy-pro-w2c-qc-shipping-workflow-2026.html",
+    "old": "<p>CSSBuys Pro should help visitors understand the process, not rush the purchase. The safest buyer is the one who verifies the live product, checks QC photos, reviews shipping choices and records the final decision clearly.</p>",
+    "new": "<p>Pause at each stage until the information needed for the next decision is available. Check the selected product before ordering, resolve material QC questions before changing packaging, and verify the packed parcel and available routes before paying for shipping. Record what you accepted and any uncertainty that remains so a later review does not depend on memory.</p>"
+  },
+  {
+    "path": "guides/cssbuy-pro-w2c-qc-shipping-workflow-2026.html",
+    "old": "<p>Keep the final item list, warehouse measurements, selected line, tracking identifier and important support evidence in a private record. Remove personal details from anything shared publicly. A public guide should teach the method and show clearly labelled examples, while account screenshots and addresses remain private.</p>",
+    "new": "<p>Keep the final item list, warehouse measurements, selected shipping line, tracking number and important support responses in a private parcel record. Before sharing an example or asking for help publicly, remove names, addresses, account identifiers and complete tracking details. Share only the measurements, dates and relevant charge labels needed to explain the question; keep the original evidence for official support.</p>"
+  },
+  {
+    "path": "guides/cssbuy-total-landed-cost-worksheet.html",
+    "old": "<h2 id=\"section-1\">Use four statuses, not one cost column</h2>",
+    "new": "<h2 id=\"section-1\">Track five cost statuses in separate columns</h2>"
+  },
+  {
+    "path": "guides/cssbuy-total-landed-cost-worksheet.html",
+    "old": "<h2 id=\"section-5\">A worked example without fake CSSBuy prices</h2>",
+    "new": "<h2 id=\"section-5\">Worked example: follow an illustrative purchase from payment to adjustment</h2>"
+  },
+  {
+    "path": "guides/cssbuy-total-landed-cost-worksheet.html",
+    "old": "<h2 id=\"section-6\">Handle destination costs without pretending to give legal advice</h2>",
+    "new": "<h2 id=\"section-6\">Check destination charges against the rules for your shipment</h2>"
+  },
+  {
+    "path": "guides/cssbuy-total-landed-cost-worksheet.html",
+    "old": "<h2 id=\"section-8\">What this worksheet adds to the existing calculator guide</h2>",
+    "new": "<h2 id=\"section-8\">Move the selected shipping scenario into your total budget</h2>"
+  },
+  {
+    "path": "guides/cssbuy-total-landed-cost-worksheet.html",
+    "old": "<p>The calculator guide explains route inputs, volumetric weight and why a deposit can differ from a final charge. This worksheet answers a different query: how to combine every verified payment stage into one traceable total. Use the calculator article to test shipping scenarios; use this page to reconcile the entire purchase and parcel budget.</p>",
+    "new": "<p>First use the calculator guide to compare route inputs, volumetric weight and estimated shipping charges for the same parcel. Bring only the selected scenario into the main worksheet, preserving its quote date and status. Then combine verified purchase payments, services, the shipping deposit and later adjustments into a traceable total. Update the parcel amount when final measurements and settlement are available, counting each payment or credit once.</p>"
+  },
+  {
+    "path": "guides/cssbuy-mixed-parcel-qc-volume-weight-audit-2026-07-12.html",
+    "old": "<p>Record length, width and height in the units required by the live calculator. Use the divisor and billing increment shown for each route instead of a remembered industry formula. If the estimate sits close to the next billing step, test a small packaging buffer. The objective is to see which decision changes the chargeable weight, not to publish a permanent shipping price.</p>",
+    "new": "<p>Record length, width and height in the units requested by the current calculator. Apply the divisor and billing increment shown for each eligible route. If your estimate is close to the next charge band, also calculate a slightly larger, plausible packed size. Compare the results to see whether extra protection or one bulky item could change the billable weight before selecting the packing plan.</p>"
+  },
+  {
+    "path": "guides/cssbuy-pro-parcel-risk-qc-2026-07-09.html",
+    "old": "<p>Document the final reason in one sentence and keep the supporting measurements. When the warehouse supplies final packed data, compare it with the model and update the risk note. This closes the loop between the spreadsheet, QC review and actual shipment instead of treating them as separate articles.</p>",
+    "new": "<p>Write down the reason for shipping, holding or splitting the parcel and keep the measurements that support it. When the warehouse provides final packed dimensions and weight, compare them with the estimate and update the risk note. Confirm that the QC decision, contents and selected line still match; if one input has changed, revisit the affected route or packaging choice before proceeding.</p>"
+  },
+  {
+    "path": "guides/cssbuy-pro-parcel-risk-qc-2026-07-09.html",
+    "old": "<p>Then test the record from another reader’s perspective. The worksheet should explain why an item was accepted, why a route remained eligible, which number is estimated and when each live value was checked. If the conclusion depends on memory or an unlabeled screenshot, the audit is not finished. Add the missing context before approving the shipment.</p>",
+    "new": "<p>Review the record as though you were reopening it several weeks later. You should be able to identify why each item was accepted, why the route is eligible, which figures are estimates and when the current values were checked. Add missing dates, measurement units and labels to screenshots before approving shipment. A clear record also lets support address the specific item, parcel or charge without reconstructing your whole purchase.</p>"
+  },
+  {
+    "path": "guides/cssbuy-restricted-items-shipping.html",
+    "old": "<p>If availability changes before dispatch, revisit the full comparison rather than choosing the nearest-looking route name. A replacement line may have different attributes, dimensional rules or service conditions. The new option should be checked on its own merits. This is also a reason not to promise readers fixed delivery times or universal acceptance based on a single historical shipment.</p>",
+    "new": "<p>If availability changes before dispatch, repeat the full comparison using the parcel’s actual contents and destination. A replacement line can have different product restrictions, dimensional rules, service conditions or delivery estimates, even when its name looks similar. Confirm those details before selecting it. Use an earlier shipment only as background; it does not establish acceptance or a delivery date for this parcel.</p>"
+  },
+  {
+    "path": "guides/cssbuy-shipping-line-comparison-framework.html",
+    "old": "<p>Record the observation time and currency shown. Route availability and displayed amounts can change, so a screenshot without inputs or date is not a reusable quote. The comparison should be reproducible: another reader must be able to tell what parcel was entered and why each route remained on the list.</p>",
+    "new": "<p>Record the time checked and the currency shown alongside the parcel inputs. Route availability and displayed amounts can change, so save more than a cropped price screenshot. Include the destination, attributes and measurements used, plus the reason each line remained eligible. This lets you reproduce the comparison after a packaging change and identify whether a different quote came from the parcel inputs or updated route conditions.</p>"
+  },
+  {
+    "path": "guides/cssbuy-tracking-not-updating-parcel-status-guide.html",
+    "old": "<h2 id=\"section-6\">What this guide deliberately does not promise</h2>",
+    "new": "<h2 id=\"section-6\">Use the parcel’s current terms to decide when to escalate</h2>"
+  },
+  {
+    "path": "guides/cssbuy-tracking-not-updating-parcel-status-guide.html",
+    "old": "<p>There is no universal number of silent days that proves a CSSBuy parcel is lost. Lines use different networks, tracking events and destination partners. Customs action depends on the shipment and jurisdiction. Compensation or insurance decisions depend on the terms attached to the parcel, not on a generic blog checklist. This guide therefore does not publish invented carrier deadlines, guaranteed delivery times or automatic refund rules.</p>",
+    "new": "<p>A fixed number of days without a scan cannot by itself establish that a CSSBuy parcel is lost. Routes use different networks, tracking events and destination partners, while customs processing depends on the shipment and jurisdiction. Check the route information, any relevant service notice and the claim or insurance conditions attached to your parcel. Record the applicable waiting period and evidence deadline when stated, and ask official support to clarify any missing condition before deciding whether to escalate.</p>"
+  },
+  {
+    "path": "de/guides/best-agent-2026.html",
+    "old": "<p class=\"lead\">Ein Leitfaden zum Vergleich von Agenten-Route-Entscheidungen.</p>",
+    "new": "<p class=\"lead\">Vergleichen Sie CSSBuy und andere Einkaufsagenten anhand desselben Pakets, Ziellands, Servicebedarfs und der aktuellen Versandbedingungen.</p>"
+  },
+  {
+    "path": "de/guides/best-agent-2026.html",
+    "old": "<p>Die Schifffahrtsplanung sollte beginnen, bevor ein Paket verpackt ist. Ein W2C-Produkt kann während der Entdeckung kostengünstig aussehen, aber die endgültige Route hängt von Ziel, Istgewicht, Paketvolumen, Produktattribute und Live-Line Verfügbarkeit.</p>",
+    "new": "<p>Beginnen Sie den Vergleich vor dem Kauf oder Verpacken. Notieren Sie die gewünschten Produkte, die ausgewählten Varianten und mögliche Batterien, Flüssigkeiten oder empfindliche Teile. Prüfen Sie anschließend, ob der jeweilige Agent diese Waren bearbeiten und einen geeigneten Versandweg zum Ziel anbieten kann. Ein niedriger Angebotspreis ist nur ein Teil der Kaufentscheidung.</p>"
+  },
+  {
+    "path": "de/guides/best-agent-2026.html",
+    "old": "<p>Vergleichen Sie aktuelle Streckenbedingungen mit demselben Ziel, Paketmessungen und Warenattributen. Historische Routennamen und Preise sind keine zuverlässigen Angebote für eine neue Sendung.</p>",
+    "new": "<p>Vergleichen Sie Versandangebote mit demselben Ziel, tatsächlichen Gewicht, denselben Außenmaßen und Wareneigenschaften. Halten Sie das Datum jeder Prüfung fest. Ein bekannter Linienname oder der ältere Beleg eines anderen Käufers belegt weder den Preis noch die Zulässigkeit oder Lieferbedingungen Ihrer nächsten Sendung.</p>"
+  },
+  {
+    "path": "de/guides/best-agent-2026.html",
+    "old": "<p>Dies sind Beispiele, nicht universelle Zitate. CSSBuys Taschenrechner fragt nach Gewicht, Volumen, Waarenattribut und Ziel, und einige Routen berechnen durch den größeren Wert zwischen tatsächlichem Gewicht und volumetrischem Gewicht.</p>",
+    "new": "<p>Prüfen Sie, wie jede verfügbare Linie das Abrechnungsgewicht ermittelt. Der CSSBuy-Rechner fragt Gewicht, Maße, Wareneigenschaften und Ziel ab; einige Linien vergleichen tatsächliches Gewicht und Volumengewicht und berechnen nach dem höheren Wert. Berücksichtigen Sie den aktuellen Volumendivisor und die Gewichtsstufen jeder Linie, bevor Sie die vollständigen Angebotssummen vergleichen.</p>"
+  },
+  {
+    "path": "de/guides/best-agent-2026.html",
+    "old": "<p>Der Leitfaden sollte auch erklären, warum sich eine Anzahlung und Endgebühr unterscheiden können. Der endgültige Betrag kann von der Paketgröße und dem Gewicht abhängen, das später im Versandverfahren überprüft wurde.</p>",
+    "new": "<p>Führen Sie die Versandvorauszahlung und die endgültige Gebühr in getrennten Spalten. Der Endbetrag kann sich ändern, wenn Paketmaße und Gewicht später im Versandprozess überprüft werden. Vergleichen Sie diese Messwerte mit der Schätzung, ordnen Sie eine Anpassung zu und prüfen Sie den Kontoeintrag, bevor Sie eine Differenz als Erstattung behandeln.</p>"
+  },
+  {
+    "path": "de/guides/cssbuy-pro-fee-qc-shipping-route-index.html",
+    "old": "<p class=\"lead\">Fact-basierte CSSBuy Pro Finder Anleitung für W2C Routen, QC-Bildsprache, öffentliche Versandbeispiele, Lagerung, Rücksendungen, Belohnungen und Live-Gebührenverifikation.</p>",
+    "new": "<p class=\"lead\">Planen Sie Ihren CSSBuy-Kauf Schritt für Schritt: Produktlink prüfen, Lagerfotos auswerten, Lagerung und Rückgabe klären, Versandlinien vergleichen und anschließend Gebühren sowie bestätigte Vergünstigungen abgleichen.</p>"
+  },
+  {
+    "path": "de/guides/cssbuy-pro-fee-qc-shipping-route-index.html",
+    "old": "<p>Die Schifffahrtsplanung sollte beginnen, bevor ein Paket verpackt ist. Ein W2C-Produkt kann während der Entdeckung kostengünstig aussehen, aber die endgültige Route hängt von Ziel, Istgewicht, Paketvolumen, Produktattribute und Live-Line Verfügbarkeit.</p>",
+    "new": "<p>Beginnen Sie mit der Entscheidung, die jetzt ansteht. Prüfen Sie vor der Bestellung das Angebot, die Variante und den Versandpreis vom Verkäufer zum Lager. Kontrollieren Sie nach Ankunft Identität, Zustand und verfügbare Rückgabemöglichkeiten, bevor Sie Verpackungsleistungen wählen. Planen Sie den internationalen Versand erst, wenn Inhalt und Wareneigenschaften feststehen.</p>"
+  },
+  {
+    "path": "de/guides/cssbuy-pro-fee-qc-shipping-route-index.html",
+    "old": "<p>Vergleichen Sie aktuelle Streckenbedingungen mit demselben Ziel, Paketmessungen und Warenattributen. Historische Routennamen und Preise sind keine zuverlässigen Angebote für eine neue Sendung.</p>",
+    "new": "<p>Führen Sie für jeden Artikel einen Kaufnachweis und für jedes Paket einen Versandnachweis. Artikelpreis, Inlandsversand und QC-Notizen gehören zum Artikel; verpacktes Gewicht, Maße, Ziel und verfügbare Linien zum Paket. So lässt sich leichter erkennen, wodurch eine unerwartete Gebühr entstanden ist.</p>"
+  },
+  {
+    "path": "de/guides/cssbuy-pro-fee-qc-shipping-route-index.html",
+    "old": "<p>Dies sind Beispiele, nicht universelle Zitate. CSSBuys Taschenrechner fragt nach Gewicht, Volumen, Waarenattribut und Ziel, und einige Routen berechnen durch den größeren Wert zwischen tatsächlichem Gewicht und volumetrischem Gewicht.</p>",
+    "new": "<p>Geben Sie für eine Paketschätzung Gewicht, Maße, Ziel und Wareneigenschaften in den aktuellen CSSBuy-Rechner ein. Prüfen Sie die Regel für tatsächliches Gewicht und Volumengewicht sowie die Abrechnungsstufen der gewählten Linie. Speichern Sie Eingaben und Ergebnis zusammen, damit Sie spätere Verpackungsänderungen mit derselben Ausgangslage vergleichen können.</p>"
+  },
+  {
+    "path": "de/guides/cssbuy-pro-fee-qc-shipping-route-index.html",
+    "old": "<p>Der Leitfaden sollte auch erklären, warum sich eine Anzahlung und Endgebühr unterscheiden können. Der endgültige Betrag kann von der Paketgröße und dem Gewicht abhängen, das später im Versandverfahren überprüft wurde.</p>",
+    "new": "<p>Trennen Sie bei der Zahlung die internationale Versandvorauszahlung von separat berechneten Leistungen. Gleichen Sie nach dem Versand die endgültigen Versandkosten mit dem Paketdatensatz ab und prüfen Sie eine zugehörige Kontoanpassung. Kontrollieren Sie Gutscheine oder Vergünstigungen direkt in der Transaktion; ein altes Beispiel belegt keinen Anspruch für Ihren Kauf.</p>"
+  },
+  {
+    "path": "de/guides/cssbuy-pro-fee-qc-shipping-route-index.html",
+    "old": "<p>Dieser Index ist am wertvollsten als eine Aufzeichnung von Fragen: Was ist noch unbekannt? Welches Foto würde die Entscheidung ändern? Welche Box erzeugt Volumen? Welche Gebühr wird bestätigt, und welche ist nur ein Puffer? Eine Seite, die diese Fragen sichtbar hält, ist nützlicher als eine lange Liste von Links ohne Entscheidungskontext.</p>",
+    "new": "<p>Führen Sie neben den Artikel- und Paketdaten eine kurze Liste offener Entscheidungen: Welche Messung fehlt, welche QC-Ansicht wird benötigt, welche Schachtel bestimmt die Kartongröße und welcher Betrag ist nur eine Budgetreserve? Notieren Sie die Frage, den betroffenen Datensatz und den benötigten Nachweis, bevor Sie den nächsten Schritt freigeben.</p>"
+  },
+  {
+    "path": "de/guides/cssbuy-service-payment-fees-prepayment-audit.html",
+    "old": "<p>Der Vergleich der Zahlungsmethode beginnt erst, nachdem das Konto die derzeit für diese genaue Zahlung verfügbaren Methoden präsentiert. Ein Geldbeutel, eine Karte, eine Bankoption oder ein Kontoguthaben sollte nicht wie verfügbar nur beworben werden, weil es in einem alten Tutorial erschien. Für jede Live-Option beachten Sie den gezahlten Betrag, die gesendete Währung, den empfangenen Kontowert oder Auftragswert, jede separat angezeigte Gebühr, erwarteten Verarbeitungsstatus und das auf dem Transaktionsbildschirm beschriebene Erstattungsziel.</p>",
+    "new": "<p>Vergleichen Sie nur die Zahlungsmethoden, die für Ihr Konto und diese Transaktion aktuell angeboten werden. Eine Wallet, Karte, Überweisung oder Guthabenzahlung aus einer älteren Anleitung ist möglicherweise nicht verfügbar. Erfassen Sie für jede angebotene Methode den gezahlten Betrag, die gesendete Währung, den erhaltenen Bestellwert oder das gutgeschriebene Guthaben, separat ausgewiesene Gebühren, den angegebenen Bearbeitungsstatus und das auf der Zahlungsseite genannte Erstattungsziel.</p>"
+  },
+  {
+    "path": "de/guides/cssbuy-service-payment-fees-prepayment-audit.html",
+    "old": "<h2 id=\"section-6\">Regeln für die verantwortungsvolle Veröffentlichung einer CSSBuy-Gebührennummer</h2>",
+    "new": "<h2 id=\"section-6\">Prüfen Sie, ob eine genannte Gebühr für Ihre Zahlung gilt</h2>"
+  },
+  {
+    "path": "de/guides/cssbuy-service-payment-fees-prepayment-audit.html",
+    "old": "<p>Eine Nummer ist nur dann veröffentlicht, wenn ihr Umfang explizit ist. Geben Sie den Bildschirm oder die offizielle Policy-Seite, das Zugangsdatum, die Währung, Transaktionsart, Berechnungsbasis, Konto- oder Mitgliedschaftsbedingung, inklusive und ausgeschlossene Gebühren, und ob die Zahl zitiert wurde oder endgültig geklärt. Ist eine dieser Felder unbekannt, veröffentlichen Sie die Verifikationsmethode anstatt den Prozentsatz.</p>",
+    "new": "<p>Bevor Sie eine Gebühr ins Budget übernehmen, halten Sie die betreffende Zahlungsanzeige oder offizielle Regel, das Prüfdatum, die Währung, die Transaktionsart und die Berechnungsgrundlage fest. Ergänzen Sie Konto- oder Mitgliedschaftsbedingungen, enthaltene und ausgeschlossene Kosten sowie den Status als Schätzung oder endgültige Abrechnung. Fehlt eine Angabe, markieren Sie die Gebühr als unbestätigt und klären Sie sie vor der Zahlungsfreigabe.</p>"
+  },
+  {
+    "path": "de/guides/cssbuy-service-payment-fees-prepayment-audit.html",
+    "old": "<p>Wenden Sie nicht einen Eingang in eine Universal-Gebührentabelle. Kombinieren Sie keinen zahlungsprovider Unterschied mit einem Plattform-Service-Gebühren. Verwenden Sie nicht die internationale Versandgebühr der Route als Kaufgebühr wieder. Rufen Sie keine temporäre Promotion permanent an. Schließlich berechnen Sie bei unklarer Basis keinen Prozentanteil aus abgerundeten Anzeigewerten. Eine präzise aussehende Rate kann weniger wahrhaftig sein als ein eindeutig gekennzeichnetes Unbekanntes.</p>",
+    "new": "<p>Nutzen Sie einen früheren Beleg als Hinweis darauf, was zu prüfen ist, und bestätigen Sie den Betrag für die neue Zahlung. Trennen Sie Unterschiede beim Zahlungsdienstleister von Plattformgebühren und internationale Fracht von Kaufgebühren. Prüfen Sie Laufzeit und Teilnahmebedingungen jeder Aktion. Ist ein Anzeigebetrag gerundet oder die Berechnungsgrundlage unklar, notieren Sie den Betrag und fragen Sie nach der Aufschlüsselung, statt einen irreführenden Prozentsatz abzuleiten.</p>"
+  },
+  {
+    "path": "de/guides/cssbuy-pro-w2c-qc-shipping-workflow-2026.html",
+    "old": "<p>CSSBuy-Stil Agent Shopping ist am einfachsten zu verstehen, wenn der Käufer behandelt es als Route Workflow statt ein einziges Produkt klicken. Ein Produktlink startet den Prozess, aber die endgültige Entscheidung hängt von W2C-Kontext, Lagerinspektion, QC-Fotorezension, Paketgewicht, Routenverfügbarkeit und den eigenen Notizen des Käufers ab. CSSBuys Pro ist als externe Leitebene für Menschen gebaut, die diesen Prozess organisieren wollen, bevor sie sich zu einer Bestellung verpflichten.</p>",
+    "new": "<p>Zwischen dem Finden eines Produkts und dem Empfang eines CSSBuy-Pakets liegen mehrere Entscheidungen. Beginnen Sie beim W2C-Angebot und der gewählten Variante, verfolgen Sie die Bestellung bis ins Lager, prüfen Sie die QC-Fotos und wählen Sie eine geeignete Verpackung und Versandlinie. Halten Sie Produktdetails, Lagerbefunde, Paketgewicht, verfügbare Linien und Ihre Entscheidungen zusammen, damit Sie Änderungen vor der nächsten Zahlung erkennen.</p>"
+  },
+  {
+    "path": "de/guides/cssbuy-pro-w2c-qc-shipping-workflow-2026.html",
+    "old": "<p>Ein nützlicher Routen-Workflow trennt die Produktzulassung von der Versandgenehmigung. Zuerst bestätigen Sie, dass der Artikel durch QC-Fotos korrekt ist. Dann überprüfen, ob Boxen zu halten, konsolidieren Artikel oder Verpackung anpassen. Schließlich vergleichen Sie die verfügbaren Routen basierend auf dem aktuellen Versandrechner. Jede Seite, die feste Versandversprechen ohne Live-Verifikation gibt, kann Käufer irreführen.</p>",
+    "new": "<p>Entscheiden Sie getrennt über die Annahme des Produkts und die Freigabe des Versands. Prüfen Sie zuerst den eingegangenen Artikel anhand der QC-Fotos und klären Sie fehlende Ansichten oder Maße. Entscheiden Sie danach, welche Schachteln bleiben, welche Waren zusammenpassen und welchen Schutz sie benötigen. Vergleichen Sie geeignete Linien im aktuellen Rechner anhand dieses Verpackungsplans und bestätigen Sie die geltenden Bedingungen vor dem Paketauftrag.</p>"
+  },
+  {
+    "path": "de/guides/cssbuy-pro-w2c-qc-shipping-workflow-2026.html",
+    "old": "<p>CSSBuys Pro sollte den Besuchern helfen, den Prozess zu verstehen, nicht eiligen Sie den Kauf. Der sicherste Käufer ist derjenige, der das Live-Produkt überprüft, QC-Fotos überprüft, die Versandwahlen überprüft und die endgültige Entscheidung eindeutig aufzeichnet.</p>",
+    "new": "<p>Warten Sie an jedem Schritt, bis die für die nächste Entscheidung nötigen Angaben vorliegen. Prüfen Sie das ausgewählte Produkt vor der Bestellung, klären Sie wichtige QC-Fragen vor einer Verpackungsänderung und kontrollieren Sie das verpackte Paket sowie verfügbare Linien vor der Versandzahlung. Halten Sie fest, was Sie akzeptiert haben und welche Unsicherheiten verbleiben, damit eine spätere Prüfung nicht auf Erinnerung angewiesen ist.</p>"
+  },
+  {
+    "path": "de/guides/cssbuy-pro-w2c-qc-shipping-workflow-2026.html",
+    "old": "<p>Halten Sie die letzte Artikelliste, Lagermessungen, ausgewählte Zeile, Tracking-Identifier und wichtige Unterstützungsnachweise in einem privaten Datensatz. Entfernen Sie personenbezogene Daten von allem, was öffentlich geteilt wird. Ein öffentlicher Leitfaden sollte die Methode lehren und deutlich markierte Beispiele zeigen, während Konto-Screenshots und -Adressen privat bleiben.</p>",
+    "new": "<p>Bewahren Sie die endgültige Artikelliste, Lagermessungen, gewählte Versandlinie, Sendungsnummer und wichtige Supportantworten in einem privaten Paketdatensatz auf. Entfernen Sie Namen, Adressen, Kontokennungen und vollständige Sendungsdaten, bevor Sie ein Beispiel öffentlich teilen oder dort um Hilfe bitten. Teilen Sie nur die Maße, Daten und relevanten Gebührenbezeichnungen, die zur Erklärung nötig sind; die Originalnachweise bleiben für den offiziellen Support erhalten.</p>"
+  },
+  {
+    "path": "de/guides/cssbuy-total-landed-cost-worksheet.html",
+    "old": "<h2 id=\"section-1\">Verwenden Sie vier Zustände, nicht eine Kostenspalte</h2>",
+    "new": "<h2 id=\"section-1\">Erfassen Sie fünf Kostenstatus in getrennten Spalten</h2>"
+  },
+  {
+    "path": "de/guides/cssbuy-total-landed-cost-worksheet.html",
+    "old": "<h2 id=\"section-5\">Ein gearbeitetes Beispiel ohne gefälschte CSSBuy Preise</h2>",
+    "new": "<h2 id=\"section-5\">Rechenbeispiel: vom Kauf über die Zahlung bis zur Anpassung</h2>"
+  },
+  {
+    "path": "de/guides/cssbuy-total-landed-cost-worksheet.html",
+    "old": "<h2 id=\"section-6\">Handle-Destination Kosten ohne zu tun, um Rechtsberatung zu geben</h2>",
+    "new": "<h2 id=\"section-6\">Prüfen Sie Zielgebühren anhand der Regeln für Ihre Sendung</h2>"
+  },
+  {
+    "path": "de/guides/cssbuy-total-landed-cost-worksheet.html",
+    "old": "<h2 id=\"section-8\">Was dieses Arbeitsblatt der vorhandenen Rechnerführung hinzufügt</h2>",
+    "new": "<h2 id=\"section-8\">Übernehmen Sie das gewählte Versandszenario in Ihr Gesamtbudget</h2>"
+  },
+  {
+    "path": "de/guides/cssbuy-total-landed-cost-worksheet.html",
+    "old": "<p>Die Rechnerführung erklärt Routeneingänge, Volumengewicht und warum eine Anzahlung von einer Endladung abweichen kann. Dieses Arbeitsblatt beantwortet eine andere Abfrage: wie man jede verifizierte Zahlungsstufe in ein rückverfolgbares Gesamt kombiniert. Verwenden Sie den Taschenrechnerartikel, um Versandszenarien zu testen; verwenden Sie diese Seite, um das gesamte Kauf- und Paketbudget zu vereinbaren.</p>",
+    "new": "<p>Vergleichen Sie zunächst mithilfe des Rechnerleitfadens Routeneingaben, Volumengewicht und geschätzte Versandkosten für dasselbe Paket. Übertragen Sie nur das gewählte Szenario in das Hauptarbeitsblatt und behalten Sie Angebotsdatum und Status bei. Fassen Sie anschließend bestätigte Kaufzahlungen, Leistungen, Versandvorauszahlung und spätere Anpassungen zu einer nachvollziehbaren Summe zusammen. Aktualisieren Sie den Paketbetrag nach den endgültigen Messungen und der Abrechnung; jede Zahlung oder Gutschrift zählt einmal.</p>"
+  },
+  {
+    "path": "de/guides/cssbuy-mixed-parcel-qc-volume-weight-audit-2026-07-12.html",
+    "old": "<p>Aufzeichnen von Länge, Breite und Höhe in den vom Live-Rechner benötigten Einheiten. Verwenden Sie die für jede Route angezeigte Divisor- und Abrechnungsinkrement anstelle einer gedachten Industrieformel. Wenn die Schätzung nahe dem nächsten Abrechnungsschritt liegt, testen Sie einen kleinen Verpackungspuffer. Ziel ist es, zu sehen, welche Entscheidung das gebührende Gewicht ändert, nicht um einen dauerhaften Versandpreis zu veröffentlichen.</p>",
+    "new": "<p>Notieren Sie Länge, Breite und Höhe in den Einheiten des aktuellen Rechners. Verwenden Sie den für jede geeignete Linie angegebenen Volumendivisor und die jeweilige Gewichtsstufe. Liegt die Schätzung nahe der nächsten Tarifstufe, rechnen Sie zusätzlich mit plausiblen, etwas größeren Paketmaßen. Vergleichen Sie die Ergebnisse, um vor der Verpackungswahl zu erkennen, ob zusätzlicher Schutz oder ein sperriger Artikel das Abrechnungsgewicht verändert.</p>"
+  },
+  {
+    "path": "de/guides/cssbuy-pro-parcel-risk-qc-2026-07-09.html",
+    "old": "<p>Dokumentieren Sie den letzten Grund in einem Satz und halten Sie die unterstützenden Messungen. Wenn das Lager letzte verpackte Daten liefert, vergleichen Sie es mit dem Modell und aktualisieren Sie die Risikonote. Dies schließt die Schleife zwischen der Tabellenkalkulation, QC-Überprüfung und tatsächliche Sendung, anstatt sie als separate Artikel zu behandeln.</p>",
+    "new": "<p>Notieren Sie den Grund dafür, das Paket zu versenden, zurückzuhalten oder aufzuteilen, und bewahren Sie die zugehörigen Messungen auf. Vergleichen Sie die endgültigen Außenmaße und das Gewicht des Lagers mit der Schätzung und aktualisieren Sie den Risikovermerk. Prüfen Sie, ob QC-Entscheidung, Inhalt und gewählte Linie weiterhin zusammenpassen. Hat sich eine Eingabe geändert, bewerten Sie die betroffene Versand- oder Verpackungsentscheidung vor dem Fortfahren neu.</p>"
+  },
+  {
+    "path": "de/guides/cssbuy-pro-parcel-risk-qc-2026-07-09.html",
+    "old": "<p>Dann testen Sie die Platte aus der Perspektive eines anderen Lesers. Das Arbeitsblatt sollte erklären, warum ein Artikel akzeptiert wurde, warum eine Route förderfähig blieb, welche Anzahl geschätzt wird und wann jeder Live-Wert überprüft wurde. Wenn die Schlussfolgerung vom Speicher oder einem unmarkierten Screenshot abhängt, ist das Audit nicht beendet. Fügen Sie den fehlenden Kontext vor der Genehmigung der Sendung hinzu.</p>",
+    "new": "<p>Prüfen Sie den Datensatz so, als würden Sie ihn erst in einigen Wochen wieder öffnen. Erkennbar sein sollten der Annahmegrund jedes Artikels, die Eignung der Linie, geschätzte Zahlen und das Prüfdatum aktueller Werte. Ergänzen Sie vor der Versandfreigabe fehlende Daten, Maßeinheiten und Beschriftungen in Screenshots. Ein klarer Datensatz hilft auch dem Support, den konkreten Artikel, das Paket oder die Gebühr zu prüfen, ohne den gesamten Kauf rekonstruieren zu müssen.</p>"
+  },
+  {
+    "path": "de/guides/cssbuy-restricted-items-shipping.html",
+    "old": "<p>Wenn sich die Verfügbarkeit vor dem Versand ändert, revidieren Sie den vollständigen Vergleich anstatt den nächsten Routennamen zu wählen. Eine Ersatzzeile kann unterschiedliche Attribute, Maßregeln oder Servicebedingungen aufweisen. Die neue Option sollte auf eigene Verdienste überprüft werden. Dies ist auch ein Grund, den Lesern keine festen Lieferzeiten oder eine universelle Akzeptanz aufgrund einer einzigen historischen Sendung zu versprechen.</p>",
+    "new": "<p>Ändert sich die Verfügbarkeit vor dem Versand, wiederholen Sie den vollständigen Vergleich mit dem tatsächlichen Paketinhalt und Ziel. Eine Ersatzlinie kann trotz ähnlichen Namens andere Produktbeschränkungen, Maßregeln, Servicebedingungen oder voraussichtliche Laufzeiten haben. Bestätigen Sie diese Angaben vor der Auswahl. Eine frühere Sendung dient nur als Hintergrund und belegt weder die Annahme noch einen Liefertermin für dieses Paket.</p>"
+  },
+  {
+    "path": "de/guides/cssbuy-shipping-line-comparison-framework.html",
+    "old": "<p>Nehmen Sie die angezeigte Beobachtungszeit und die angezeigte Währung auf. Routenverfügbarkeit und angezeigte Beträge können sich ändern, so ist ein Screenshot ohne Eingaben oder Datum kein wiederverwendbares Angebot. Der Vergleich sollte reproduzierbar sein: Ein anderer Leser muss in der Lage sein zu sagen, was Paket eingegeben wurde und warum jede Route auf der Liste blieb.</p>",
+    "new": "<p>Notieren Sie Prüfzeitpunkt und angezeigte Währung zusammen mit den Paketeingaben. Linienverfügbarkeit und Beträge können sich ändern; speichern Sie deshalb mehr als einen ausgeschnittenen Preis. Halten Sie Ziel, Wareneigenschaften und verwendete Maße sowie den Grund fest, weshalb jede Linie geeignet blieb. So können Sie den Vergleich nach einer Verpackungsänderung wiederholen und erkennen, ob ein anderes Angebot auf Paketeingaben oder geänderten Linienbedingungen beruht.</p>"
+  },
+  {
+    "path": "de/guides/cssbuy-tracking-not-updating-parcel-status-guide.html",
+    "old": "<h2 id=\"section-6\">Was diese Anleitung absichtlich nicht verspricht</h2>",
+    "new": "<h2 id=\"section-6\">Entscheiden Sie anhand der aktuellen Paketbedingungen, wann Sie nachfassen</h2>"
+  },
+  {
+    "path": "de/guides/cssbuy-tracking-not-updating-parcel-status-guide.html",
+    "old": "<p>Es gibt keine universelle Anzahl von stillen Tagen, die beweist, dass ein CSSBuy Paket verloren geht. Linien verwenden verschiedene Netzwerke, Tracking-Events und Zielpartner. Die Zoll-Aktion hängt von der Lieferung und der Gerichtsbarkeit ab. Vergütungs- oder Versicherungsentscheidungen hängen von den an das Paket gebundenen Bedingungen ab, nicht von einer generischen Blog-Checkliste. Dieser Leitfaden veröffentlicht daher keine erfinderischen Trägerfristen, garantierte Lieferzeiten oder automatische Erstattungsregeln.</p>",
+    "new": "<p>Eine feste Anzahl von Tagen ohne neuen Scan beweist allein nicht, dass ein CSSBuy-Paket verloren ist. Linien nutzen verschiedene Netzwerke, Trackingereignisse und Zustellpartner; die Zollbearbeitung hängt von Sendung und Rechtsraum ab. Prüfen Sie die Linieninformationen, einschlägige Servicehinweise sowie die für Ihr Paket geltenden Reklamations- oder Versicherungsbedingungen. Notieren Sie eine angegebene Wartezeit und Nachweisfrist und lassen Sie fehlende Bedingungen vom offiziellen Support klären, bevor Sie über eine weitere Eskalation entscheiden.</p>"
+  },
+  {
+    "path": "fr/guides/best-agent-2026.html",
+    "old": "<p class=\"lead\">Un guide pour comparer les décisions relatives à l'itinéraire des agents.</p>",
+    "new": "<p class=\"lead\">Comparez CSSBuy et les autres agents d’achat avec le même colis, la même destination, les mêmes services nécessaires et les conditions de transport actuelles.</p>"
+  },
+  {
+    "path": "fr/guides/best-agent-2026.html",
+    "old": "<p>La planification de l'expédition devrait commencer avant qu'un colis ne soit emballé. Un produit W2C peut sembler peu coûteux lors de la découverte, mais l'itinéraire final dépend de la destination, du poids réel, du volume des colis, des caractéristiques des produits et de la disponibilité des lignes en direct.</p>",
+    "new": "<p>Commencez la comparaison avant d’acheter ou de faire emballer les articles. Notez les produits souhaités, les variantes choisies et la présence éventuelle de batteries, de liquides ou de pièces fragiles. Vérifiez ensuite que chaque agent peut prendre ces marchandises en charge et proposer un transport adapté vers votre destination. Un prix d’annonce bas n’est qu’un élément de l’achat.</p>"
+  },
+  {
+    "path": "fr/guides/best-agent-2026.html",
+    "old": "<p>Comparer les conditions d'itinéraire actuelles en utilisant la même destination, les mêmes mesures de colis et les mêmes attributs de marchandises. Les noms d'itinéraires historiques et les prix ne sont pas des devis fiables pour une nouvelle expédition.</p>",
+    "new": "<p>Demandez des estimations comparables avec la même destination, le même poids réel, les mêmes dimensions extérieures et caractéristiques de marchandises. Notez la date de chaque vérification. Un nom de ligne familier ou le reçu ancien d’un autre acheteur ne confirme ni le tarif, ni l’admissibilité, ni les conditions de livraison de votre prochain envoi.</p>"
+  },
+  {
+    "path": "fr/guides/best-agent-2026.html",
+    "old": "<p>Ce sont des exemples, pas des citations universelles. La calculatrice de CSSBuys demande le poids, le volume, l'attribut de marchandise et la destination, et certaines routes calculent par la plus grande valeur entre le poids réel et le poids volumétrique.</p>",
+    "new": "<p>Vérifiez comment chaque ligne disponible détermine le poids facturable. Le calculateur CSSBuy demande le poids, les dimensions, les caractéristiques des marchandises et la destination ; certaines lignes retiennent le plus élevé du poids réel et du poids volumétrique. Appliquez le diviseur et les paliers de facturation actuels de chaque ligne avant de comparer les montants complets proposés.</p>"
+  },
+  {
+    "path": "fr/guides/best-agent-2026.html",
+    "old": "<p>Le guide devrait également expliquer pourquoi un dépôt et des frais définitifs peuvent différer. La quantité finale peut dépendre de la taille et du poids du colis vérifiés plus tard dans le processus d'expédition.</p>",
+    "new": "<p>Conservez l’avance de transport et le coût définitif dans des colonnes distinctes. Le montant final peut changer lorsque les dimensions et le poids sont vérifiés plus tard dans l’expédition. Comparez ces mesures à l’estimation, identifiez l’ajustement éventuel et consultez l’historique du compte avant de considérer une différence comme un remboursement.</p>"
+  },
+  {
+    "path": "fr/guides/cssbuy-pro-fee-qc-shipping-route-index.html",
+    "old": "<p class=\"lead\">Guide CSSBuy Pro Finder basé sur les faits couvrant les routes W2C, langage d'image QC, exemples d'expédition publique, stockage, retours, récompenses et vérification des frais en direct.</p>",
+    "new": "<p class=\"lead\">Préparez votre achat CSSBuy dans l’ordre : vérification du lien produit, contrôle des photos QC, stockage et retours, comparaison des lignes, puis rapprochement des frais et avantages confirmés.</p>"
+  },
+  {
+    "path": "fr/guides/cssbuy-pro-fee-qc-shipping-route-index.html",
+    "old": "<p>La planification de l'expédition devrait commencer avant qu'un colis ne soit emballé. Un produit W2C peut sembler peu coûteux lors de la découverte, mais l'itinéraire final dépend de la destination, du poids réel, du volume des colis, des caractéristiques des produits et de la disponibilité des lignes en direct.</p>",
+    "new": "<p>Commencez par la décision à prendre maintenant. Avant de commander, vérifiez l’annonce, la variante et le coût du transport vendeur-entrepôt. À l’arrivée, contrôlez l’identité et l’état des articles ainsi que les possibilités de retour avant de choisir l’emballage. Passez au transport international lorsque le contenu et les caractéristiques des marchandises sont établis.</p>"
+  },
+  {
+    "path": "fr/guides/cssbuy-pro-fee-qc-shipping-route-index.html",
+    "old": "<p>Comparer les conditions d'itinéraire actuelles en utilisant la même destination, les mêmes mesures de colis et les mêmes attributs de marchandises. Les noms d'itinéraires historiques et les prix ne sont pas des devis fiables pour une nouvelle expédition.</p>",
+    "new": "<p>Tenez une fiche d’achat par article et une fiche d’expédition par colis. Le prix, la livraison intérieure et les observations QC concernent l’article ; le poids emballé, les dimensions, la destination et les lignes disponibles concernent le colis. Cette séparation permet de retrouver plus facilement l’origine d’un montant inattendu.</p>"
+  },
+  {
+    "path": "fr/guides/cssbuy-pro-fee-qc-shipping-route-index.html",
+    "old": "<p>Ce sont des exemples, pas des citations universelles. La calculatrice de CSSBuys demande le poids, le volume, l'attribut de marchandise et la destination, et certaines routes calculent par la plus grande valeur entre le poids réel et le poids volumétrique.</p>",
+    "new": "<p>Pour estimer un envoi, saisissez le poids, les dimensions, la destination et les caractéristiques des marchandises dans le calculateur CSSBuy actuel. Vérifiez la règle de poids réel ou volumétrique et les paliers de la ligne choisie. Enregistrez les données avec le résultat afin de comparer une modification d’emballage à la même situation de départ.</p>"
+  },
+  {
+    "path": "fr/guides/cssbuy-pro-fee-qc-shipping-route-index.html",
+    "old": "<p>Le guide devrait également expliquer pourquoi un dépôt et des frais définitifs peuvent différer. La quantité finale peut dépendre de la taille et du poids du colis vérifiés plus tard dans le processus d'expédition.</p>",
+    "new": "<p>Lors du paiement, distinguez l’avance de transport international des services facturés séparément. Après l’expédition, rapprochez le montant définitif du dossier du colis et recherchez l’ajustement correspondant dans le compte. Vérifiez les coupons et avantages dans la transaction elle-même : un ancien exemple ne confirme pas votre admissibilité pour cet achat.</p>"
+  },
+  {
+    "path": "fr/guides/cssbuy-pro-fee-qc-shipping-route-index.html",
+    "old": "<p>Cet indice est le plus précieux comme un dossier de questions: Qu'est-ce qui est encore inconnu? Quelle photo changerait la décision ? Quelle boîte crée du volume? Quels frais sont confirmés, et qui n'est qu'un tampon? Une page qui garde ces questions visibles est plus utile qu'une longue liste de liens sans contexte décisionnel.</p>",
+    "new": "<p>Gardez une courte liste des décisions en attente près des fiches d’articles et de colis : mesure manquante, vue QC nécessaire, boîte qui impose la taille du carton ou coût encore provisionnel. Notez la question, le dossier concerné et la preuve permettant de la résoudre avant d’autoriser l’étape suivante.</p>"
+  },
+  {
+    "path": "fr/guides/cssbuy-service-payment-fees-prepayment-audit.html",
+    "old": "<p>La comparaison de la méthode de paiement commence seulement après que le compte présente les méthodes actuellement disponibles pour ce paiement exact. Un portefeuille, une carte, une option bancaire ou un solde de compte ne devraient pas être annoncés comme disponibles simplement parce qu'ils apparaissaient dans un ancien tutoriel. Pour chaque option en direct, notez le montant payé, la devise envoyée, la valeur du compte ou de la commande reçue, les frais affichés séparément, l'état de traitement prévu et la destination de remboursement décrite sur l'écran transactionnel.</p>",
+    "new": "<p>Comparez uniquement les moyens de paiement actuellement proposés pour votre compte et cette transaction. Un portefeuille, une carte, un virement ou un paiement par solde visible dans un ancien tutoriel peut ne plus être disponible. Pour chaque option proposée, notez le montant payé, la devise envoyée, la valeur de commande ou le solde reçu, les frais affichés séparément, l’état de traitement annoncé et la destination du remboursement indiquée sur l’écran de paiement.</p>"
+  },
+  {
+    "path": "fr/guides/cssbuy-service-payment-fees-prepayment-audit.html",
+    "old": "<h2 id=\"section-6\">Règles pour la publication d'un numéro de frais CSSBuy de façon responsable</h2>",
+    "new": "<h2 id=\"section-6\">Vérifiez si les frais annoncés s’appliquent à votre paiement</h2>"
+  },
+  {
+    "path": "fr/guides/cssbuy-service-payment-fees-prepayment-audit.html",
+    "old": "<p>Un nombre n'est publié que lorsque son champ d'application est explicite. Indiquer la page de l'écran ou de la politique officielle, la date d'accès, la monnaie, le type de transaction, la base de calcul, le compte ou la condition d'adhésion, les frais inclus et exclus, et si le numéro a été cité ou finalement réglé. Si l'un de ces champs est inconnu, publiez la méthode de vérification plutôt que le pourcentage.</p>",
+    "new": "<p>Avant d’intégrer des frais au budget, conservez l’écran de paiement ou la règle officielle qui les justifie, la date de vérification, la devise, le type de transaction et la base de calcul. Ajoutez les conditions liées au compte ou à l’adhésion, les coûts inclus et exclus, et précisez s’il s’agit d’une estimation ou d’un règlement définitif. Si une donnée manque, marquez les frais comme non confirmés et vérifiez-les avant d’autoriser le paiement.</p>"
+  },
+  {
+    "path": "fr/guides/cssbuy-service-payment-fees-prepayment-audit.html",
+    "old": "<p>Ne transformez pas un reçu en tableau de frais universels. Ne combinez pas une différence entre le prestataire de paiement et un service de plate-forme. Ne pas réutiliser les frais d'expédition internationaux d'une route comme frais d'achat. Ne pas appeler une promotion temporaire permanente. Enfin, ne calculez pas un pourcentage à partir de valeurs d'affichage arrondies lorsque la base sous-jacente n'est pas claire. Un taux précis peut être moins vrai qu'un inconnu clairement étiqueté.</p>",
+    "new": "<p>Utilisez un reçu antérieur pour repérer les points à contrôler, puis confirmez le montant du nouveau paiement. Distinguez les écarts du prestataire de paiement des frais de service de la plateforme, et le fret international des frais d’achat. Vérifiez l’expiration et les conditions de chaque promotion. Si le montant affiché est arrondi ou si la base de calcul manque, notez le montant et demandez sa décomposition au lieu d’en déduire un pourcentage trompeur.</p>"
+  },
+  {
+    "path": "fr/guides/cssbuy-pro-w2c-qc-shipping-workflow-2026.html",
+    "old": "<p>CSSBuy-style agent shopping est plus facile à comprendre quand l'acheteur le traite comme un flux de route plutôt qu'un seul clic produit. Un lien produit commence le processus, mais la décision finale dépend du contexte W2C, l'inspection d'entrepôt, QC photo review, le poids du colis, la disponibilité de l'itinéraire et les propres notes de l'acheteur. CSSBuys Pro est construit comme une couche de guide externe pour les personnes qui veulent organiser ce processus avant qu'elles ne s'engagent sur un ordre.</p>",
+    "new": "<p>Un achat CSSBuy comporte plusieurs décisions entre la découverte d’un produit et la réception du colis. Partez de l’annonce W2C et de la variante choisie, suivez la commande jusqu’à l’entrepôt, examinez les photos QC, puis choisissez un emballage et un transport adaptés. Regroupez les détails du produit, les constats de l’entrepôt, le poids du colis, les lignes disponibles et vos décisions pour repérer les changements avant le paiement suivant.</p>"
+  },
+  {
+    "path": "fr/guides/cssbuy-pro-w2c-qc-shipping-workflow-2026.html",
+    "old": "<p>Un flux de route utile sépare l'approbation du produit de l'approbation de l'expédition. Confirmez d'abord que l'article est correct grâce aux photos de QC. Ensuite, examinez s'il faut conserver les boîtes, consolider les articles ou ajuster l'emballage. Enfin, comparez les itinéraires disponibles en fonction de la calculatrice d'expédition actuelle. Toute page qui donne des promesses d'expédition fixes sans vérification en direct peut induire les acheteurs en erreur.</p>",
+    "new": "<p>Séparez l’acceptation du produit de l’autorisation d’expédition. Vérifiez d’abord l’article reçu à l’aide des photos QC et faites compléter toute vue ou mesure manquante. Décidez ensuite quelles boîtes conserver, quels articles regrouper et quelle protection prévoir. Comparez les lignes admissibles dans le calculateur actuel avec ce plan d’emballage, puis confirmez les conditions avant de soumettre le colis.</p>"
+  },
+  {
+    "path": "fr/guides/cssbuy-pro-w2c-qc-shipping-workflow-2026.html",
+    "old": "<p>CSSBuys Pro devrait aider les visiteurs à comprendre le processus, pas précipiter l'achat. L'acheteur le plus sûr est celui qui vérifie le produit en direct, vérifie les photos de QC, examine les choix d'expédition et enregistre la décision finale clairement.</p>",
+    "new": "<p>À chaque étape, attendez d’avoir les informations nécessaires à la décision suivante. Vérifiez le produit sélectionné avant la commande, résolvez les questions QC importantes avant de modifier l’emballage, puis contrôlez le colis emballé et les lignes disponibles avant de payer le transport. Notez ce que vous avez accepté et les incertitudes restantes pour pouvoir reprendre le dossier sans dépendre de votre mémoire.</p>"
+  },
+  {
+    "path": "fr/guides/cssbuy-pro-w2c-qc-shipping-workflow-2026.html",
+    "old": "<p>Tenir la liste finale des articles, les mesures de l'entrepôt, la ligne sélectionnée, l'identificateur de suivi et les preuves importantes de soutien dans un dossier privé. Supprimer les données personnelles de tout ce qui est partagé publiquement. Un guide public devrait enseigner la méthode et montrer des exemples clairement étiquetés, tandis que les captures d'écran et les adresses des comptes restent privées.</p>",
+    "new": "<p>Conservez la liste finale des articles, les mesures de l’entrepôt, la ligne choisie, le numéro de suivi et les réponses importantes du support dans un dossier privé. Avant de partager un exemple ou de demander de l’aide publiquement, retirez noms, adresses, identifiants de compte et données de suivi complètes. Partagez seulement les mesures, dates et libellés de frais utiles à la question ; gardez les preuves originales pour le support officiel.</p>"
+  },
+  {
+    "path": "fr/guides/cssbuy-total-landed-cost-worksheet.html",
+    "old": "<h2 id=\"section-1\">Utilisez quatre statuts, pas une colonne de coût</h2>",
+    "new": "<h2 id=\"section-1\">Suivez cinq statuts de coût dans des colonnes distinctes</h2>"
+  },
+  {
+    "path": "fr/guides/cssbuy-total-landed-cost-worksheet.html",
+    "old": "<h2 id=\"section-5\">Un exemple travaillé sans faux prix CSSBuy</h2>",
+    "new": "<h2 id=\"section-5\">Exemple chiffré : suivre un achat fictif du paiement à l’ajustement</h2>"
+  },
+  {
+    "path": "fr/guides/cssbuy-total-landed-cost-worksheet.html",
+    "old": "<h2 id=\"section-6\">Gérer les coûts de destination sans prétendre donner des conseils juridiques</h2>",
+    "new": "<h2 id=\"section-6\">Vérifiez les frais à destination selon les règles de votre envoi</h2>"
+  },
+  {
+    "path": "fr/guides/cssbuy-total-landed-cost-worksheet.html",
+    "old": "<h2 id=\"section-8\">Ce que cette feuille de travail ajoute au guide de calculateur existant</h2>",
+    "new": "<h2 id=\"section-8\">Intégrez le scénario de transport retenu au budget total</h2>"
+  },
+  {
+    "path": "fr/guides/cssbuy-total-landed-cost-worksheet.html",
+    "old": "<p>Le guide de calcul explique les entrées de route, le poids volumétrique et pourquoi un dépôt peut différer d'une charge finale. Cette feuille de travail répond à une autre question : comment combiner chaque étape de paiement vérifiée en un total traçable. Utilisez l'article calculateur pour tester les scénarios d'expédition; utilisez cette page pour concilier le budget d'achat et de colis.</p>",
+    "new": "<p>Utilisez d’abord le guide du calculateur pour comparer les données de ligne, le poids volumétrique et les frais de transport estimés pour un même colis. Transférez uniquement le scénario retenu dans la feuille principale en conservant la date du devis et son statut. Regroupez ensuite les paiements d’achat vérifiés, les services, l’avance de transport et les ajustements ultérieurs dans un total traçable. Actualisez le montant du colis lorsque les mesures finales et le règlement sont disponibles, en comptant chaque paiement ou crédit une seule fois.</p>"
+  },
+  {
+    "path": "fr/guides/cssbuy-mixed-parcel-qc-volume-weight-audit-2026-07-12.html",
+    "old": "<p>Enregistrez la longueur, la largeur et la hauteur dans les unités requises par la calculatrice en direct. Utilisez le diviseur et l'augmentation de facturation indiqués pour chaque itinéraire au lieu d'une formule de l'industrie mémorisée. Si l'estimation se situe à proximité de la prochaine étape de facturation, testez un petit tampon d'emballage. L'objectif est de voir quelle décision change le poids facturable, de ne pas publier un prix d'expédition permanent.</p>",
+    "new": "<p>Notez la longueur, la largeur et la hauteur dans les unités demandées par le calculateur actuel. Appliquez le diviseur et le palier de facturation propres à chaque ligne admissible. Si l’estimation approche du palier supérieur, refaites aussi le calcul avec des dimensions emballées légèrement plus grandes et plausibles. Comparez les résultats pour voir si une protection supplémentaire ou un article volumineux peut modifier le poids facturable avant de choisir l’emballage.</p>"
+  },
+  {
+    "path": "fr/guides/cssbuy-pro-parcel-risk-qc-2026-07-09.html",
+    "old": "<p>Documenter la raison finale dans une phrase et conserver les mesures de support. Lorsque l'entrepôt fournit les données finales emballées, comparez-les avec le modèle et mettez à jour la note de risque. Cela ferme la boucle entre la feuille de calcul, l'examen du QC et l'expédition réelle au lieu de les traiter comme des articles distincts.</p>",
+    "new": "<p>Notez pourquoi vous choisissez d’expédier, d’attendre ou de diviser le colis, et conservez les mesures qui justifient cette décision. Lorsque l’entrepôt fournit le poids et les dimensions définitifs, comparez-les à l’estimation et actualisez la note de risque. Vérifiez que la décision QC, le contenu et la ligne choisie restent cohérents ; si une donnée a changé, réexaminez le choix de transport ou d’emballage concerné avant de poursuivre.</p>"
+  },
+  {
+    "path": "fr/guides/cssbuy-pro-parcel-risk-qc-2026-07-09.html",
+    "old": "<p>Puis testez l'enregistrement à partir d'une autre perspective de lecteur. La feuille de travail devrait expliquer pourquoi un article a été accepté, pourquoi un itinéraire est demeuré admissible, quel nombre est estimé et quand chaque valeur réelle a été vérifiée. Si la conclusion dépend de la mémoire ou d'une capture d'écran non marquée, l'audit n'est pas terminé. Ajouter le contexte manquant avant d'approuver l'expédition.</p>",
+    "new": "<p>Relisez le dossier comme si vous le rouvriez plusieurs semaines plus tard. Vous devez pouvoir identifier pourquoi chaque article a été accepté, pourquoi la ligne est admissible, quels chiffres sont estimés et quand les valeurs actuelles ont été vérifiées. Ajoutez les dates, unités et légendes manquantes aux captures avant d’autoriser l’expédition. Un dossier clair permet aussi au support de traiter l’article, le colis ou les frais concernés sans reconstituer tout l’achat.</p>"
+  },
+  {
+    "path": "fr/guides/cssbuy-restricted-items-shipping.html",
+    "old": "<p>Si la disponibilité change avant l'expédition, revoyez la comparaison complète plutôt que de choisir le nom d'itinéraire le plus proche. Une ligne de remplacement peut avoir des attributs différents, des règles dimensionnelles ou des conditions de service. La nouvelle option devrait être vérifiée selon ses propres mérites. C'est aussi une raison de ne pas promettre aux lecteurs des délais de livraison fixes ou une acceptation universelle basée sur une seule expédition historique.</p>",
+    "new": "<p>Si les lignes disponibles changent avant l’expédition, recommencez la comparaison complète avec le contenu réel et la destination du colis. Une ligne de remplacement peut imposer d’autres restrictions produit, règles dimensionnelles, conditions de service ou délais estimés, même avec un nom proche. Confirmez ces détails avant de la choisir. Un ancien envoi fournit seulement du contexte ; il ne confirme ni l’acceptation ni une date de livraison pour ce colis.</p>"
+  },
+  {
+    "path": "fr/guides/cssbuy-shipping-line-comparison-framework.html",
+    "old": "<p>Enregistrez le temps d'observation et la monnaie affichée. La disponibilité de l'itinéraire et les montants affichés peuvent changer, de sorte qu'une capture d'écran sans entrées ou date n'est pas un devis réutilisable. La comparaison doit être reproductible : un autre lecteur doit pouvoir indiquer quel colis a été saisi et pourquoi chaque itinéraire reste sur la liste.</p>",
+    "new": "<p>Notez l’heure de vérification et la devise affichée avec les données du colis. Les lignes disponibles et les montants peuvent changer : conservez davantage qu’une capture recadrée sur le prix. Ajoutez la destination, les caractéristiques et les mesures utilisées, ainsi que la raison pour laquelle chaque ligne reste admissible. Vous pourrez reproduire la comparaison après une modification d’emballage et voir si un écart vient du colis ou d’une mise à jour des conditions de transport.</p>"
+  },
+  {
+    "path": "fr/guides/cssbuy-tracking-not-updating-parcel-status-guide.html",
+    "old": "<h2 id=\"section-6\">Ce que ce guide ne promet pas délibérément</h2>",
+    "new": "<h2 id=\"section-6\">Décidez quand relancer selon les conditions actuelles du colis</h2>"
+  },
+  {
+    "path": "fr/guides/cssbuy-tracking-not-updating-parcel-status-guide.html",
+    "old": "<p>Il n'y a pas de nombre universel de jours silencieux qui prouve qu'un colis CSSBuy est perdu. Les lignes utilisent différents réseaux, des événements de suivi et des partenaires de destination. L'action des douanes dépend de l'expédition et de la juridiction. Les décisions en matière d'indemnisation ou d'assurance dépendent des conditions attachées au colis, et non d'une liste de contrôle de blog générique. Le présent guide ne publie donc pas de délais pour les transporteurs inventés, de délais de livraison garantis ou de règles de remboursement automatique.</p>",
+    "new": "<p>Un nombre fixe de jours sans nouveau scan ne suffit pas à établir qu’un colis CSSBuy est perdu. Les lignes utilisent des réseaux, événements de suivi et partenaires locaux différents ; le traitement douanier dépend de l’envoi et de la juridiction. Vérifiez les informations de la ligne, les avis de service pertinents et les conditions de réclamation ou d’assurance attachées au colis. Notez le délai d’attente et l’échéance de remise des preuves lorsqu’ils sont précisés, puis faites clarifier toute condition manquante par le support officiel avant de décider d’une escalade.</p>"
+  },
+  {
+    "path": "es/guides/best-agent-2026.html",
+    "old": "<p class=\"lead\">Una guía para comparar las decisiones de la ruta del agente.</p>",
+    "new": "<p class=\"lead\">Compara CSSBuy y otros agentes de compra con el mismo paquete, destino, servicios necesarios y condiciones de envío actuales.</p>"
+  },
+  {
+    "path": "es/guides/best-agent-2026.html",
+    "old": "<p>La planificación del envío debe comenzar antes de que se empaque un paquete. Un producto W2C puede parecer barato durante el descubrimiento, pero la ruta final depende de destino, peso real, volumen de paquete, atributos de producto y disponibilidad de línea en vivo.</p>",
+    "new": "<p>Empieza la comparación antes de comprar o preparar el paquete. Anota los productos que quieres pedir, las variantes elegidas y la presencia de baterías, líquidos o piezas frágiles. Después, comprueba si cada agente puede gestionar esos artículos y ofrecer una ruta adecuada a tu destino. Un precio bajo en el anuncio es solo una parte de la compra.</p>"
+  },
+  {
+    "path": "es/guides/best-agent-2026.html",
+    "old": "<p>Compare las condiciones actuales de la ruta utilizando el mismo destino, mediciones de paquetes y atributos de bienes. Los nombres y precios de las rutas históricas no son presupuestos fiables para un nuevo envío.</p>",
+    "new": "<p>Solicita estimaciones comparables con el mismo destino, peso real, dimensiones exteriores y características de los artículos. Anota cuándo revisaste cada una. Un nombre de ruta conocido o un recibo antiguo de otro comprador no confirma el precio, la admisibilidad ni las condiciones de entrega de tu próximo envío.</p>"
+  },
+  {
+    "path": "es/guides/best-agent-2026.html",
+    "old": "<p>Estos son ejemplos, no citas universales. La calculadora de CSSBuy pide peso, volumen, atributo de productos básicos y destino, y algunas rutas calculan por el valor más grande entre peso real y peso volumétrico.</p>",
+    "new": "<p>Comprueba cómo calcula cada ruta disponible el peso facturable. La calculadora de CSSBuy pide peso, dimensiones, características de la mercancía y destino; algunas rutas comparan el peso real y el volumétrico y cobran según el mayor. Aplica el divisor y los tramos de facturación actuales de cada ruta antes de comparar los importes completos.</p>"
+  },
+  {
+    "path": "es/guides/best-agent-2026.html",
+    "old": "<p>La guía también debe explicar por qué un depósito y una carga final pueden diferir. La cantidad final puede depender del tamaño del paquete y el peso verificado más adelante en el proceso de envío.</p>",
+    "new": "<p>Registra el anticipo de envío y el cargo definitivo en columnas separadas. El importe final puede cambiar cuando se verifican las dimensiones y el peso más adelante en el transporte. Compara esas medidas con la estimación, identifica cualquier ajuste y consulta el registro de la cuenta antes de considerar una diferencia como reembolso.</p>"
+  },
+  {
+    "path": "es/guides/cssbuy-pro-fee-qc-shipping-route-index.html",
+    "old": "<p class=\"lead\">Guía CSSBuy Pro Finder basada en hechos que cubre las rutas W2C, lenguaje de imagen QC, ejemplos de envío público, almacenamiento, retornos, recompensas y verificación de tarifas en vivo.</p>",
+    "new": "<p class=\"lead\">Planifica tu compra en CSSBuy por etapas: verifica el enlace del producto, revisa las fotos QC, comprueba el almacenamiento y las devoluciones, compara rutas y concilia los cargos y beneficios confirmados.</p>"
+  },
+  {
+    "path": "es/guides/cssbuy-pro-fee-qc-shipping-route-index.html",
+    "old": "<p>La planificación del envío debe comenzar antes de que se empaque un paquete. Un producto W2C puede parecer barato durante el descubrimiento, pero la ruta final depende de destino, peso real, volumen de paquete, atributos de producto y disponibilidad de línea en vivo.</p>",
+    "new": "<p>Empieza por la decisión que necesitas tomar ahora. Antes de pedir, comprueba el anuncio, la variante y el coste de envío del vendedor al almacén. Cuando llegue la mercancía, revisa su identidad, estado y opciones de devolución antes de elegir servicios de embalaje. Pasa al envío internacional cuando el contenido y sus características estén claros.</p>"
+  },
+  {
+    "path": "es/guides/cssbuy-pro-fee-qc-shipping-route-index.html",
+    "old": "<p>Compare las condiciones actuales de la ruta utilizando el mismo destino, mediciones de paquetes y atributos de bienes. Los nombres y precios de las rutas históricas no son presupuestos fiables para un nuevo envío.</p>",
+    "new": "<p>Lleva un registro de compra por artículo y un registro de envío por paquete. El precio, el transporte nacional y las notas QC corresponden al artículo; el peso embalado, las dimensiones, el destino y las rutas disponibles corresponden al paquete. Esta separación facilita localizar el origen de un cargo inesperado.</p>"
+  },
+  {
+    "path": "es/guides/cssbuy-pro-fee-qc-shipping-route-index.html",
+    "old": "<p>Estos son ejemplos, no citas universales. La calculadora de CSSBuy pide peso, volumen, atributo de productos básicos y destino, y algunas rutas calculan por el valor más grande entre peso real y peso volumétrico.</p>",
+    "new": "<p>Para estimar un paquete, introduce peso, dimensiones, destino y características de la mercancía en la calculadora actual de CSSBuy. Comprueba la regla de peso real o volumétrico y los tramos de la ruta seleccionada. Guarda los datos junto al resultado para comparar un cambio de embalaje con el mismo punto de partida.</p>"
+  },
+  {
+    "path": "es/guides/cssbuy-pro-fee-qc-shipping-route-index.html",
+    "old": "<p>La guía también debe explicar por qué un depósito y una carga final pueden diferir. La cantidad final puede depender del tamaño del paquete y el peso verificado más adelante en el proceso de envío.</p>",
+    "new": "<p>Al pagar, distingue el anticipo de envío internacional de los servicios cobrados por separado. Después de la expedición, concilia el coste definitivo con el registro del paquete y busca el ajuste correspondiente en la cuenta. Comprueba los cupones o beneficios dentro de la propia transacción; un ejemplo antiguo no demuestra que se apliquen a tu compra.</p>"
+  },
+  {
+    "path": "es/guides/cssbuy-pro-fee-qc-shipping-route-index.html",
+    "old": "<p>Este índice es más valioso como un registro de preguntas: ¿Qué es todavía desconocido? ¿Qué foto cambiaría la decisión? ¿Qué caja crea volumen? ¿Qué tarifa se confirma, y cuál es sólo un búfer? Una página que mantiene visibles esas preguntas es más útil que una larga lista de enlaces sin contexto de decisión.</p>",
+    "new": "<p>Mantén una lista breve de decisiones pendientes junto a los registros: qué medida falta, qué vista QC necesitas, qué caja determina el tamaño del paquete y qué coste es solo una reserva presupuestaria. Anota la pregunta, el registro afectado y la prueba necesaria para resolverla antes de aprobar la siguiente etapa.</p>"
+  },
+  {
+    "path": "es/guides/cssbuy-service-payment-fees-prepayment-audit.html",
+    "old": "<p>La comparación entre el pago y el contador comienza sólo después de que la cuenta presente los métodos disponibles actualmente para ese pago exacto. Una billetera, tarjeta, opción bancaria o saldo de cuenta no debe ser anunciado como disponible simplemente porque apareció en un viejo tutorial. Para cada opción en vivo, tenga en cuenta la cantidad pagada, la moneda enviada, el valor de cuenta o el valor de pedido recibido, cualquier cuota exhibida por separado, estado de procesamiento esperado y el destino de reembolso descrito en la pantalla de transacción.</p>",
+    "new": "<p>Compara solo los métodos de pago que se ofrecen actualmente para tu cuenta y esta transacción. Una cartera digital, tarjeta, transferencia o pago con saldo que aparece en un tutorial antiguo puede no estar disponible. Para cada opción ofrecida, registra el importe pagado, la moneda enviada, el valor del pedido o saldo recibido, los cargos desglosados, el estado de tramitación indicado y el destino del reembolso mostrado en la pantalla de pago.</p>"
+  },
+  {
+    "path": "es/guides/cssbuy-service-payment-fees-prepayment-audit.html",
+    "old": "<h2 id=\"section-6\">Reglas para publicar un número de tarifa CSSBuy responsablemente</h2>",
+    "new": "<h2 id=\"section-6\">Comprueba si el cargo indicado se aplica a tu pago</h2>"
+  },
+  {
+    "path": "es/guides/cssbuy-service-payment-fees-prepayment-audit.html",
+    "old": "<p>Un número sólo se publica cuando su alcance es explícito. Establezca la página de pantalla o política oficial, la fecha de acceso, moneda, tipo de transacción, base de cálculo, cuenta o condición de miembro, incluidos y excluidos cargos, y si el número fue citado o finalmente resuelto. Si alguno de esos campos es desconocido, publique el método de verificación en lugar del porcentaje.</p>",
+    "new": "<p>Antes de añadir un cargo al presupuesto, guarda la pantalla de pago o norma oficial que lo justifica, la fecha de consulta, la moneda, el tipo de transacción y la base de cálculo. Incluye las condiciones de la cuenta o membresía, los conceptos incluidos y excluidos, y si el importe es estimado o definitivo. Si falta algún dato, marca el cargo como no confirmado y compruébalo antes de autorizar el pago.</p>"
+  },
+  {
+    "path": "es/guides/cssbuy-service-payment-fees-prepayment-audit.html",
+    "old": "<p>No convierta un recibo en una tabla de honorarios universal. No combinar una diferencia de proveedor de pago con un cargo de servicio de plataforma. No reutilizar el cargo de envío internacional de una ruta como una cuota de compra. No llame a una promoción temporal permanente. Por último, no calcule un porcentaje de los valores de pantalla redondeada cuando la base subyacente no está clara. Una tasa de aspecto preciso puede ser menos veraz que una claramente etiquetada desconocida.</p>",
+    "new": "<p>Usa un recibo anterior para identificar qué debes revisar y confirma después el importe del nuevo pago. Separa las diferencias del proveedor de pago de los cargos de servicio de la plataforma, y el transporte internacional de los costes de compra. Revisa la caducidad y los requisitos de cada promoción. Si el importe mostrado está redondeado o la base de cálculo no está clara, registra la cantidad y pide el desglose en lugar de deducir un porcentaje engañoso.</p>"
+  },
+  {
+    "path": "es/guides/cssbuy-pro-w2c-qc-shipping-workflow-2026.html",
+    "old": "<p>Las compras de agente de estilo CSSBuy son más fáciles de entender cuando el comprador lo trata como un flujo de trabajo de ruta en lugar de un solo clic de producto. Un enlace de producto comienza el proceso, pero la decisión final depende del contexto W2C, inspección de almacén, revisión de fotos QC, peso de paquete, disponibilidad de ruta y las propias notas del comprador. CSSBuys Pro se construye como una capa de guía externa para las personas que quieren organizar este proceso antes de comprometerse a un pedido.</p>",
+    "new": "<p>Una compra en CSSBuy requiere varias decisiones entre encontrar un producto y recibir el paquete. Empieza por el anuncio W2C y la variante elegida, sigue el pedido hasta el almacén, revisa las fotos QC y elige un embalaje y un envío adecuados. Guarda juntos los detalles del producto, los resultados del almacén, el peso del paquete, las rutas disponibles y tus decisiones para comprobar qué ha cambiado antes del siguiente pago.</p>"
+  },
+  {
+    "path": "es/guides/cssbuy-pro-w2c-qc-shipping-workflow-2026.html",
+    "old": "<p>Un útil flujo de trabajo de ruta separa la aprobación del producto de la aprobación del envío. Primero confirma que el artículo es correcto a través de fotos QC. A continuación, revise si guardar cajas, consolidar artículos o ajustar el embalaje. Por último, compare las rutas disponibles basadas en la calculadora de envío actual. Cualquier página que da promesas de envío fijo sin verificación en vivo puede engañar a los compradores.</p>",
+    "new": "<p>Aprueba el producto y el envío como decisiones separadas. Primero comprueba el artículo recibido mediante las fotos QC y resuelve cualquier vista o medida que falte. Después decide qué cajas conservar, qué productos agrupar y qué protección necesitan. Compara las rutas admisibles en la calculadora actual con ese plan de embalaje y confirma las condiciones antes de solicitar el envío.</p>"
+  },
+  {
+    "path": "es/guides/cssbuy-pro-w2c-qc-shipping-workflow-2026.html",
+    "old": "<p>CSSBuys Pro debe ayudar a los visitantes a entender el proceso, no apresurar la compra. El comprador más seguro es el que verifica el producto en vivo, comprueba las fotos QC, revisa las opciones de envío y registra la decisión final claramente.</p>",
+    "new": "<p>Detente en cada etapa hasta disponer de los datos necesarios para la siguiente decisión. Comprueba el producto seleccionado antes de pedirlo, resuelve las dudas QC importantes antes de cambiar el embalaje y verifica el paquete preparado y las rutas disponibles antes de pagar el transporte. Registra lo que has aceptado y cualquier incertidumbre pendiente para no depender de la memoria al revisar el pedido.</p>"
+  },
+  {
+    "path": "es/guides/cssbuy-pro-w2c-qc-shipping-workflow-2026.html",
+    "old": "<p>Mantenga la lista final de elementos, mediciones de almacén, línea seleccionada, identificador de seguimiento y pruebas de soporte importantes en un registro privado. Retire los detalles personales de cualquier cosa compartida públicamente. Una guía pública debe enseñar el método y mostrar ejemplos claramente etiquetados, mientras que las capturas y direcciones de cuenta siguen siendo privadas.</p>",
+    "new": "<p>Guarda la lista final de artículos, las medidas del almacén, la ruta elegida, el número de seguimiento y las respuestas importantes del soporte en un registro privado. Antes de compartir un ejemplo o pedir ayuda públicamente, elimina nombres, direcciones, identificadores de cuenta y datos completos de seguimiento. Comparte solo las medidas, fechas y conceptos de cobro necesarios para explicar la consulta; conserva las pruebas originales para el soporte oficial.</p>"
+  },
+  {
+    "path": "es/guides/cssbuy-total-landed-cost-worksheet.html",
+    "old": "<h2 id=\"section-1\">Use cuatro estados, no una columna de costo</h2>",
+    "new": "<h2 id=\"section-1\">Registra cinco estados del coste en columnas separadas</h2>"
+  },
+  {
+    "path": "es/guides/cssbuy-total-landed-cost-worksheet.html",
+    "old": "<h2 id=\"section-5\">Un ejemplo trabajado sin precios CSSBuy falsos</h2>",
+    "new": "<h2 id=\"section-5\">Ejemplo de cálculo: sigue una compra ilustrativa desde el pago hasta el ajuste</h2>"
+  },
+  {
+    "path": "es/guides/cssbuy-total-landed-cost-worksheet.html",
+    "old": "<h2 id=\"section-6\">Maneja los costos de destino sin pretender dar asesoramiento legal</h2>",
+    "new": "<h2 id=\"section-6\">Comprueba los cargos de destino según las normas de tu envío</h2>"
+  },
+  {
+    "path": "es/guides/cssbuy-total-landed-cost-worksheet.html",
+    "old": "<h2 id=\"section-8\">Lo que esta hoja de trabajo añade a la guía de cálculo existente</h2>",
+    "new": "<h2 id=\"section-8\">Incorpora el escenario de envío elegido al presupuesto total</h2>"
+  },
+  {
+    "path": "es/guides/cssbuy-total-landed-cost-worksheet.html",
+    "old": "<p>La guía de cálculo explica las entradas de ruta, el peso volumétrico y por qué un depósito puede diferir de una carga final. Esta hoja de trabajo responde a una pregunta diferente: cómo combinar cada etapa de pago verificada en un total trazable. Utilice el artículo de la calculadora para probar escenarios de envío; utilice esta página para conciliar todo el presupuesto de compra y paquete.</p>",
+    "new": "<p>Usa primero la guía de la calculadora para comparar los datos de las rutas, el peso volumétrico y los gastos estimados del mismo paquete. Pasa únicamente el escenario elegido a la hoja principal, manteniendo la fecha del presupuesto y su estado. Después combina los pagos de compra verificados, los servicios, el anticipo de envío y los ajustes posteriores en un total que puedas comprobar. Actualiza el importe del paquete cuando estén disponibles las medidas finales y la liquidación, contando cada pago o abono una sola vez.</p>"
+  },
+  {
+    "path": "es/guides/cssbuy-mixed-parcel-qc-volume-weight-audit-2026-07-12.html",
+    "old": "<p>Longitud de registro, ancho y altura en las unidades requeridas por la calculadora en vivo. Utilice el aumento de divisor y facturación mostrado para cada ruta en lugar de una fórmula recordada de la industria. Si la estimación se encuentra cerca del siguiente paso de facturación, prueba un pequeño amortiguador de embalaje. El objetivo es ver qué decisión cambia el peso cargable, no publicar un precio de envío permanente.</p>",
+    "new": "<p>Registra largo, ancho y alto en las unidades que pide la calculadora actual. Aplica el divisor y el tramo de facturación indicados para cada ruta admisible. Si la estimación se acerca al siguiente tramo, calcula también un tamaño embalado algo mayor, pero plausible. Compara los resultados para saber si la protección adicional o un artículo voluminoso pueden cambiar el peso facturable antes de elegir el embalaje.</p>"
+  },
+  {
+    "path": "es/guides/cssbuy-pro-parcel-risk-qc-2026-07-09.html",
+    "old": "<p>Documente la razón final en una frase y mantenga las medidas de apoyo. Cuando el almacén suministra datos finales empaquetados, compare con el modelo y actualice la nota de riesgo. Esto cierra el bucle entre la hoja de cálculo, revisión QC y envío real en lugar de tratarlos como artículos separados.</p>",
+    "new": "<p>Anota por qué decides enviar, retener o dividir el paquete y conserva las medidas que respaldan la decisión. Cuando el almacén facilite las dimensiones y el peso definitivos, compáralos con la estimación y actualiza la nota de riesgo. Confirma que la decisión QC, el contenido y la ruta elegida siguen siendo compatibles; si un dato ha cambiado, revisa la decisión de transporte o embalaje afectada antes de continuar.</p>"
+  },
+  {
+    "path": "es/guides/cssbuy-pro-parcel-risk-qc-2026-07-09.html",
+    "old": "<p>Luego prueba el registro desde la perspectiva de otro lector. La hoja de trabajo debe explicar por qué se aceptó un artículo, por qué una ruta seguía siendo elegible, qué número se estima y cuándo se comprobó cada valor en vivo. Si la conclusión depende de la memoria o una captura sin etiquetar, la auditoría no está terminada. Agregue el contexto perdido antes de aprobar el envío.</p>",
+    "new": "<p>Revisa el registro como si volvieras a abrirlo varias semanas después. Debes poder identificar por qué aceptaste cada artículo, por qué la ruta es admisible, qué cifras son estimaciones y cuándo comprobaste los valores actuales. Añade fechas, unidades y etiquetas que falten en las capturas antes de aprobar el envío. Un registro claro también permite al soporte atender el artículo, paquete o cargo concreto sin reconstruir toda la compra.</p>"
+  },
+  {
+    "path": "es/guides/cssbuy-restricted-items-shipping.html",
+    "old": "<p>Si la disponibilidad cambia antes del envío, vuelva a revisar la comparación completa en lugar de elegir el nombre de ruta más cercano. Una línea de reemplazo puede tener diferentes atributos, reglas dimensionales o condiciones de servicio. La nueva opción debe revisarse por sus propios méritos. Esta es también una razón para no prometer a los lectores tiempos de entrega fijos o aceptación universal basada en un único envío histórico.</p>",
+    "new": "<p>Si cambia la disponibilidad antes de la expedición, repite la comparación completa con el contenido real y el destino del paquete. Una ruta alternativa puede tener otras restricciones de producto, reglas de dimensiones, condiciones de servicio o plazos estimados, aunque su nombre sea parecido. Confirma esos datos antes de elegirla. Un envío anterior solo aporta contexto; no demuestra la aceptación ni una fecha de entrega para este paquete.</p>"
+  },
+  {
+    "path": "es/guides/cssbuy-shipping-line-comparison-framework.html",
+    "old": "<p>Grabar el tiempo de observación y la moneda mostrada. La disponibilidad de la ruta y las cantidades mostradas pueden cambiar, por lo que una captura sin entradas o fecha no es una cita reutilizable. La comparación debe ser reproducible: otro lector debe poder decir qué paquete fue introducido y por qué cada ruta permaneció en la lista.</p>",
+    "new": "<p>Registra la hora de consulta y la moneda mostrada junto con los datos del paquete. Las rutas disponibles y los importes pueden cambiar, así que guarda algo más que una captura recortada del precio. Incluye el destino, las características y las medidas utilizadas, además del motivo por el que cada ruta sigue siendo admisible. Así podrás repetir la comparación tras un cambio de embalaje e identificar si una diferencia procede de los datos del paquete o de nuevas condiciones de la ruta.</p>"
+  },
+  {
+    "path": "es/guides/cssbuy-tracking-not-updating-parcel-status-guide.html",
+    "old": "<h2 id=\"section-6\">Lo que esta guía deliberadamente no promete</h2>",
+    "new": "<h2 id=\"section-6\">Decide cuándo reclamar según las condiciones actuales del paquete</h2>"
+  },
+  {
+    "path": "es/guides/cssbuy-tracking-not-updating-parcel-status-guide.html",
+    "old": "<p>No hay un número universal de días silenciosos que demuestren que se pierde un paquete CSSBuy. Las líneas utilizan diferentes redes, seguimiento de eventos y socios de destino. La acción aduanera depende del envío y la jurisdicción. Las decisiones de compensación o seguro dependen de los términos adjuntos al paquete, no en una lista de verificación genérica del blog. Por lo tanto, esta guía no publica plazos de transporte inventados, plazos de entrega garantizados o reglas de reembolso automáticas.</p>",
+    "new": "<p>Un número fijo de días sin un nuevo escaneo no basta para demostrar que un paquete CSSBuy se ha perdido. Las rutas utilizan distintas redes, eventos de seguimiento y empresas de reparto, y la tramitación aduanera depende del envío y de la jurisdicción. Revisa la información de la ruta, los avisos de servicio pertinentes y las condiciones de reclamación o seguro del paquete. Anota el periodo de espera y el plazo para aportar pruebas cuando se indiquen, y pide al soporte oficial que aclare cualquier condición que falte antes de decidir si debes elevar la incidencia.</p>"
+  },
+  {
+    "path": "it/guides/best-agent-2026.html",
+    "old": "<p class=\"lead\">Una guida per confrontare le decisioni dell'agente di rotta.</p>",
+    "new": "<p class=\"lead\">Confronta CSSBuy e altri agenti di acquisto usando lo stesso pacco, la stessa destinazione, i servizi necessari e le condizioni di spedizione attuali.</p>"
+  },
+  {
+    "path": "it/guides/best-agent-2026.html",
+    "old": "<p>La pianificazione della spedizione dovrebbe iniziare prima che un pacco sia imballato. Un prodotto W2C può sembrare poco costoso durante la scoperta, ma il percorso finale dipende dalla destinazione, il peso effettivo, il volume dei pacchi, gli attributi del prodotto e la disponibilità della linea live.</p>",
+    "new": "<p>Inizia il confronto prima di acquistare o far imballare gli articoli. Annota i prodotti che vuoi ordinare, le varianti selezionate e l’eventuale presenza di batterie, liquidi o parti fragili. Verifica poi se ciascun agente può gestire queste merci e offrire una spedizione adatta alla destinazione. Un prezzo basso nell’inserzione è soltanto una parte dell’acquisto.</p>"
+  },
+  {
+    "path": "it/guides/best-agent-2026.html",
+    "old": "<p>Confronta le condizioni di rotta attuali utilizzando la stessa destinazione, le misurazioni dei pacchi e gli attributi delle merci. I nomi dei percorsi storici e i prezzi non sono preventivi affidabili per una nuova spedizione.</p>",
+    "new": "<p>Richiedi stime confrontabili con la stessa destinazione, lo stesso peso effettivo, le stesse dimensioni esterne e caratteristiche della merce. Annota quando hai verificato ciascuna stima. Il nome familiare di una linea o la vecchia ricevuta di un altro acquirente non confermano prezzo, ammissibilità o condizioni di consegna della tua prossima spedizione.</p>"
+  },
+  {
+    "path": "it/guides/best-agent-2026.html",
+    "old": "<p>Questi sono esempi, non citazioni universali. Il calcolatore di CSSBuy chiede il peso, il volume, l'attributo delle merci e la destinazione, e alcuni percorsi calcolano con il valore più grande tra il peso reale e il peso volumetrico.</p>",
+    "new": "<p>Controlla come ogni linea disponibile calcola il peso fatturabile. Il calcolatore CSSBuy richiede peso, dimensioni, caratteristiche della merce e destinazione; alcune linee confrontano peso effettivo e volumetrico e applicano il maggiore. Usa il divisore e gli scaglioni di fatturazione attuali di ciascuna linea prima di confrontare gli importi completi dei preventivi.</p>"
+  },
+  {
+    "path": "it/guides/best-agent-2026.html",
+    "old": "<p>La guida dovrebbe anche spiegare perché un deposito e la carica finale possono differire. L'importo finale può dipendere dalla dimensione del pacchetto e dal peso verificato in seguito nel processo di spedizione.</p>",
+    "new": "<p>Registra l’anticipo di spedizione e l’addebito definitivo in colonne separate. Il totale può cambiare quando dimensioni e peso vengono verificati in una fase successiva del trasporto. Confronta queste misure con la stima, identifica eventuali conguagli e controlla i movimenti del conto prima di considerare una differenza come rimborso.</p>"
+  },
+  {
+    "path": "it/guides/cssbuy-pro-fee-qc-shipping-route-index.html",
+    "old": "<p class=\"lead\">Guida CSSBuy Pro Finder basata sui fatti che copre le rotte W2C, il linguaggio delle immagini QC, gli esempi di spedizione pubblica, lo stoccaggio, i ritorni, i premi e la verifica della tassa dal vivo.</p>",
+    "new": "<p class=\"lead\">Organizza l’acquisto CSSBuy in sequenza: verifica il link del prodotto, esamina le foto QC, controlla deposito e resi, confronta le linee e riconcilia costi ed eventuali vantaggi confermati.</p>"
+  },
+  {
+    "path": "it/guides/cssbuy-pro-fee-qc-shipping-route-index.html",
+    "old": "<p>La pianificazione della spedizione dovrebbe iniziare prima che un pacco sia imballato. Un prodotto W2C può sembrare poco costoso durante la scoperta, ma il percorso finale dipende dalla destinazione, il peso effettivo, il volume dei pacchi, gli attributi del prodotto e la disponibilità della linea live.</p>",
+    "new": "<p>Parti dalla decisione che devi prendere adesso. Prima di ordinare, controlla l’inserzione, la variante e il costo del trasporto dal venditore al magazzino. All’arrivo della merce, verifica identità, condizioni e possibilità di reso prima di scegliere i servizi di imballaggio. Passa alla spedizione internazionale quando contenuto e caratteristiche dei prodotti sono chiari.</p>"
+  },
+  {
+    "path": "it/guides/cssbuy-pro-fee-qc-shipping-route-index.html",
+    "old": "<p>Confronta le condizioni di rotta attuali utilizzando la stessa destinazione, le misurazioni dei pacchi e gli attributi delle merci. I nomi dei percorsi storici e i prezzi non sono preventivi affidabili per una nuova spedizione.</p>",
+    "new": "<p>Conserva un registro di acquisto per ogni articolo e un registro di spedizione per ogni pacco. Prezzo, trasporto interno e note QC riguardano l’articolo; peso imballato, dimensioni, destinazione e linee disponibili riguardano il pacco. Questa separazione rende più semplice individuare l’origine di un addebito inatteso.</p>"
+  },
+  {
+    "path": "it/guides/cssbuy-pro-fee-qc-shipping-route-index.html",
+    "old": "<p>Questi sono esempi, non citazioni universali. Il calcolatore di CSSBuy chiede il peso, il volume, l'attributo delle merci e la destinazione, e alcuni percorsi calcolano con il valore più grande tra il peso reale e il peso volumetrico.</p>",
+    "new": "<p>Per stimare una spedizione, inserisci peso, dimensioni, destinazione e caratteristiche della merce nel calcolatore CSSBuy attuale. Controlla la regola sul peso effettivo o volumetrico e gli scaglioni della linea scelta. Salva i dati insieme al risultato per poter confrontare una successiva modifica dell’imballaggio con la stessa situazione iniziale.</p>"
+  },
+  {
+    "path": "it/guides/cssbuy-pro-fee-qc-shipping-route-index.html",
+    "old": "<p>La guida dovrebbe anche spiegare perché un deposito e la carica finale possono differire. L'importo finale può dipendere dalla dimensione del pacchetto e dal peso verificato in seguito nel processo di spedizione.</p>",
+    "new": "<p>Al pagamento, distingui l’anticipo per il trasporto internazionale dai servizi addebitati separatamente. Dopo la partenza, confronta il costo definitivo con il registro del pacco e cerca il movimento corrispondente sul conto. Verifica coupon o vantaggi nella transazione stessa: un vecchio esempio non dimostra che siano applicabili al tuo acquisto.</p>"
+  },
+  {
+    "path": "it/guides/cssbuy-pro-fee-qc-shipping-route-index.html",
+    "old": "<p>Questo indice è più prezioso come un record di domande: Che cosa è ancora sconosciuto? Quale foto cambierebbe la decisione? Quale scatola crea volume? Qual è la tassa confermata, e quale è solo un buffer? Una pagina che tiene visibili quelle domande è più utile di una lunga lista di link senza contesto decisionale.</p>",
+    "new": "<p>Tieni un breve elenco delle decisioni ancora aperte accanto ai registri: quale misura manca, quale vista QC serve, quale scatola determina le dimensioni del cartone e quale costo è soltanto una riserva di budget. Annota la domanda, il registro interessato e la prova necessaria per risolverla prima di approvare la fase successiva.</p>"
+  },
+  {
+    "path": "it/guides/cssbuy-service-payment-fees-prepayment-audit.html",
+    "old": "<p>Il confronto di pagamento-metodo inizia solo dopo che l'account presenta i metodi attualmente disponibili per quel pagamento esatto. Un portafoglio, carta, opzione bancaria o saldo del conto non dovrebbe essere pubblicizzato come disponibile solo perché è apparso in un vecchio tutorial. Per ogni opzione live, annota l'importo pagato, la valuta inviata, il valore del conto o il valore dell'ordine ricevuto, qualsiasi tassa visualizzata separatamente, stato di elaborazione previsto e la destinazione di rimborso descritta nella schermata di transazione.</p>",
+    "new": "<p>Confronta soltanto i metodi di pagamento attualmente offerti per il tuo account e questa transazione. Un portafoglio digitale, una carta, un bonifico o il pagamento con saldo mostrati in un vecchio tutorial potrebbero non essere disponibili. Per ogni opzione proposta, registra l’importo pagato, la valuta inviata, il valore dell’ordine o il saldo ricevuto, le commissioni indicate separatamente, lo stato di elaborazione dichiarato e la destinazione del rimborso riportata nella schermata di pagamento.</p>"
+  },
+  {
+    "path": "it/guides/cssbuy-service-payment-fees-prepayment-audit.html",
+    "old": "<h2 id=\"section-6\">Regole per la pubblicazione di un numero di commissione CSSBuy responsabilmente</h2>",
+    "new": "<h2 id=\"section-6\">Verifica se la commissione indicata si applica al tuo pagamento</h2>"
+  },
+  {
+    "path": "it/guides/cssbuy-service-payment-fees-prepayment-audit.html",
+    "old": "<p>Un numero è pubblicato solo quando la sua portata è esplicita. Dichiara lo schermo o la pagina di politica ufficiale, la data di accesso, la valuta, il tipo di transazione, la base di calcolo, il conto o la condizione di adesione, incluse e escluse le spese, e se il numero è stato citato o infine risolto. Se uno di questi campi è sconosciuto, pubblicare il metodo di verifica piuttosto che la percentuale.</p>",
+    "new": "<p>Prima di inserire una commissione nel budget, conserva la schermata di pagamento o la regola ufficiale che la giustifica, la data della verifica, la valuta, il tipo di transazione e la base di calcolo. Aggiungi le condizioni dell’account o dell’iscrizione, i costi inclusi ed esclusi e indica se l’importo è stimato o definitivo. Se manca un dato, segna la commissione come non confermata e chiariscila prima di autorizzare il pagamento.</p>"
+  },
+  {
+    "path": "it/guides/cssbuy-service-payment-fees-prepayment-audit.html",
+    "old": "<p>Non trasformare una ricevuta in un tavolo a pagamento universale. Non combinare una differenza di pagamento-provider con una tassa di servizio della piattaforma. Non riutilizzare l'addebito di spedizione internazionale di un percorso come tassa di acquisto. Non chiamare una promozione temporanea permanente. Infine, non calcolare una percentuale a partire da importi arrotondati quando la base di calcolo non è chiara. Un tasso di aspetto preciso può essere meno veritiero di un noto chiaramente etichettato.</p>",
+    "new": "<p>Usa una ricevuta precedente per individuare cosa controllare, poi conferma l’importo del nuovo pagamento. Tieni separate le differenze del fornitore di pagamento dalle commissioni della piattaforma e il trasporto internazionale dai costi di acquisto. Verifica scadenza e requisiti di ogni promozione. Se l’importo mostrato è arrotondato o la base di calcolo non è chiara, annota la cifra e chiedi il dettaglio invece di ricavare una percentuale fuorviante.</p>"
+  },
+  {
+    "path": "it/guides/cssbuy-pro-w2c-qc-shipping-workflow-2026.html",
+    "old": "<p>CSSBuy-style agente shopping è più facile da capire quando l'acquirente lo tratta come un flusso di lavoro di rotta piuttosto che un singolo prodotto clic. Un link di prodotto inizia il processo, ma la decisione finale dipende dal contesto W2C, dall’ispezione del magazzino, dalla revisione fotografica QC, dal peso del pacco, dalla disponibilità del percorso e dalle note proprie dell’acquirente. CSSBuys Pro è costruito come uno strato di guida esterno per le persone che vogliono organizzare questo processo prima di impegnarsi a un ordine.</p>",
+    "new": "<p>Un acquisto CSSBuy richiede diverse decisioni tra la scoperta di un prodotto e la ricezione del pacco. Parti dall’inserzione W2C e dalla variante scelta, segui l’ordine fino al magazzino, esamina le foto QC e scegli un imballaggio e una spedizione adatti. Conserva insieme dettagli del prodotto, riscontri del magazzino, peso del pacco, linee disponibili e decisioni prese, così da verificare i cambiamenti prima del pagamento successivo.</p>"
+  },
+  {
+    "path": "it/guides/cssbuy-pro-w2c-qc-shipping-workflow-2026.html",
+    "old": "<p>Un utile flusso di lavoro del percorso separa l'approvazione del prodotto dall'approvazione della spedizione. In primo luogo confermare che l'articolo è corretto attraverso le foto QC. Quindi rivedere se mantenere le scatole, consolidare gli elementi o regolare l'imballaggio. Infine confrontare le rotte disponibili in base all'attuale calcolatore di spedizione. Qualsiasi pagina che dà promesse di spedizione fissa senza verifica dal vivo può ingannare gli acquirenti.</p>",
+    "new": "<p>Approva il prodotto e la spedizione in due momenti distinti. Prima controlla l’articolo ricevuto attraverso le foto QC e chiarisci ogni vista o misura mancante. Poi decidi quali scatole conservare, quali merci raggruppare e quale protezione occorre. Confronta le linee ammissibili nel calcolatore attuale usando questo piano di imballaggio e conferma le condizioni prima di richiedere la spedizione.</p>"
+  },
+  {
+    "path": "it/guides/cssbuy-pro-w2c-qc-shipping-workflow-2026.html",
+    "old": "<p>CSSBuys Pro dovrebbe aiutare i visitatori a capire il processo, non correre l'acquisto. L'acquirente più sicuro è quello che verifica il prodotto dal vivo, controlla le foto di QC, valuta le scelte di spedizione e registra chiaramente la decisione finale.</p>",
+    "new": "<p>Fermati a ogni fase finché non hai le informazioni necessarie per la decisione successiva. Verifica il prodotto selezionato prima dell’ordine, risolvi le questioni QC rilevanti prima di modificare l’imballaggio e controlla il pacco pronto e le linee disponibili prima di pagare il trasporto. Registra ciò che hai accettato e le incertezze rimaste, in modo che una verifica successiva non dipenda dalla memoria.</p>"
+  },
+  {
+    "path": "it/guides/cssbuy-pro-w2c-qc-shipping-workflow-2026.html",
+    "old": "<p>Mantenere l'elenco degli elementi finali, le misurazioni del magazzino, la linea selezionata, l'identificativo di tracciamento e le prove importanti di supporto in un record privato. Rimuovere i dati personali da qualsiasi cosa condivisa pubblicamente. Una guida pubblica dovrebbe insegnare il metodo e mostrare esempi chiaramente etichettati, mentre gli screenshot e gli indirizzi dell'account rimangono privati.</p>",
+    "new": "<p>Conserva l’elenco finale degli articoli, le misure del magazzino, la linea scelta, il codice di tracciamento e le risposte importanti dell’assistenza in un registro privato. Prima di condividere un esempio o chiedere aiuto pubblicamente, elimina nomi, indirizzi, identificativi dell’account e dati completi di tracciamento. Condividi solo misure, date e voci di costo utili a spiegare la domanda; conserva le prove originali per l’assistenza ufficiale.</p>"
+  },
+  {
+    "path": "it/guides/cssbuy-total-landed-cost-worksheet.html",
+    "old": "<h2 id=\"section-1\">Utilizzare quattro stati, non una colonna dei costi</h2>",
+    "new": "<h2 id=\"section-1\">Registra cinque stati del costo in colonne separate</h2>"
+  },
+  {
+    "path": "it/guides/cssbuy-total-landed-cost-worksheet.html",
+    "old": "<h2 id=\"section-5\">Un esempio lavorato senza falsi prezzi CSSBuy</h2>",
+    "new": "<h2 id=\"section-5\">Esempio di calcolo: segui un acquisto illustrativo dal pagamento al conguaglio</h2>"
+  },
+  {
+    "path": "it/guides/cssbuy-total-landed-cost-worksheet.html",
+    "old": "<h2 id=\"section-6\">Gestire i costi di destinazione senza fingere di dare consulenza legale</h2>",
+    "new": "<h2 id=\"section-6\">Verifica i costi a destinazione secondo le regole della tua spedizione</h2>"
+  },
+  {
+    "path": "it/guides/cssbuy-total-landed-cost-worksheet.html",
+    "old": "<h2 id=\"section-8\">Ciò che questo foglio di lavoro aggiunge alla guida calcolatrice esistente</h2>",
+    "new": "<h2 id=\"section-8\">Inserisci lo scenario di spedizione scelto nel budget totale</h2>"
+  },
+  {
+    "path": "it/guides/cssbuy-total-landed-cost-worksheet.html",
+    "old": "<p>La guida calcolatrice spiega ingressi di percorso, peso volumetrico e perché un deposito può differire da una carica finale. Questo foglio di lavoro risponde a una domanda diversa: come combinare ogni fase di pagamento verificata in un totale tracciabile. Utilizzare l'articolo calcolatrice per testare gli scenari di spedizione; utilizzare questa pagina per conciliare l'intero acquisto e il budget dei pacchi.</p>",
+    "new": "<p>Usa prima la guida al calcolatore per confrontare dati delle linee, peso volumetrico e costi di trasporto stimati per lo stesso pacco. Trasferisci soltanto lo scenario scelto nel foglio principale, conservando data del preventivo e stato. Riunisci poi pagamenti di acquisto verificati, servizi, anticipo di spedizione e conguagli successivi in un totale ricostruibile. Aggiorna l’importo del pacco quando sono disponibili misure definitive e saldo finale, contando ogni pagamento o accredito una sola volta.</p>"
+  },
+  {
+    "path": "it/guides/cssbuy-mixed-parcel-qc-volume-weight-audit-2026-07-12.html",
+    "old": "<p>Lunghezza record, larghezza e altezza nelle unità richieste dal calcolatore live. Utilizzare il divisore e l'incremento di fatturazione mostrato per ogni percorso invece di una formula industria ricordata. Se la stima si trova vicino alla fase di fatturazione successiva, testare un piccolo buffer di imballaggio. L'obiettivo è quello di vedere quale decisione cambia il peso caricabile, di non pubblicare un prezzo di spedizione permanente.</p>",
+    "new": "<p>Registra lunghezza, larghezza e altezza nelle unità richieste dal calcolatore attuale. Applica il divisore e lo scaglione di fatturazione indicati per ogni linea ammissibile. Se la stima è vicina allo scaglione successivo, calcola anche dimensioni imballate leggermente maggiori ma plausibili. Confronta i risultati per capire se una protezione aggiuntiva o un articolo ingombrante possono modificare il peso fatturabile prima di scegliere l’imballaggio.</p>"
+  },
+  {
+    "path": "it/guides/cssbuy-pro-parcel-risk-qc-2026-07-09.html",
+    "old": "<p>Documentare la ragione finale in una frase e mantenere le misure di supporto. Quando il magazzino fornisce dati completi, confrontalo con il modello e aggiorna la nota di rischio. Questo chiude il ciclo tra il foglio di calcolo, la revisione QC e la spedizione effettiva invece di trattarli come articoli separati.</p>",
+    "new": "<p>Scrivi perché hai deciso di spedire, trattenere o dividere il pacco e conserva le misure a sostegno della scelta. Quando il magazzino fornisce dimensioni e peso definitivi, confrontali con la stima e aggiorna la nota sui rischi. Verifica che decisione QC, contenuto e linea selezionata siano ancora coerenti; se un dato è cambiato, riesamina la scelta di trasporto o imballaggio interessata prima di procedere.</p>"
+  },
+  {
+    "path": "it/guides/cssbuy-pro-parcel-risk-qc-2026-07-09.html",
+    "old": "<p>Quindi testare il record dalla prospettiva di un altro lettore. Il foglio di lavoro dovrebbe spiegare perché un articolo è stato accettato, perché un percorso è rimasto idoneo, quale numero è stimato e quando ogni valore live è stato controllato. Se la conclusione dipende dalla memoria o da uno screenshot non etichettato, l'audit non è finito. Aggiungere il contesto mancante prima di approvare la spedizione.</p>",
+    "new": "<p>Rileggi il registro come se lo riaprissi dopo diverse settimane. Dovresti poter capire perché ogni articolo è stato accettato, perché la linea è ammissibile, quali cifre sono stime e quando sono stati verificati i valori attuali. Aggiungi date, unità e descrizioni mancanti alle schermate prima di approvare la spedizione. Un registro chiaro permette anche all’assistenza di occuparsi dell’articolo, del pacco o dell’addebito specifico senza ricostruire l’intero acquisto.</p>"
+  },
+  {
+    "path": "it/guides/cssbuy-restricted-items-shipping.html",
+    "old": "<p>Se la disponibilità cambia prima della spedizione, rivisitare il confronto completo piuttosto che scegliere il nome del percorso più vicino. Una linea di sostituzione può avere attributi diversi, regole dimensionali o condizioni di servizio. La nuova opzione dovrebbe essere verificata sui propri meriti. Questo è anche un motivo per non promettere ai lettori tempi di consegna fissi o l'accettazione universale basata su una singola spedizione storica.</p>",
+    "new": "<p>Se la disponibilità cambia prima della partenza, ripeti il confronto completo con contenuto e destinazione effettivi del pacco. Una linea sostitutiva può prevedere altre restrizioni sui prodotti, regole dimensionali, condizioni di servizio o tempi stimati, anche con un nome simile. Conferma questi dettagli prima di selezionarla. Una spedizione precedente fornisce solo un riferimento e non dimostra l’accettazione o una data di consegna per questo pacco.</p>"
+  },
+  {
+    "path": "it/guides/cssbuy-shipping-line-comparison-framework.html",
+    "old": "<p>Registra il tempo di osservazione e la valuta mostrata. La disponibilità della rotta e gli importi visualizzati possono cambiare, quindi uno screenshot senza ingressi o la data non è una citazione riutilizzabile. Il confronto dovrebbe essere riproducibile: un altro lettore deve essere in grado di raccontare quale pacchetto è stato inserito e perché ogni percorso è rimasto nella lista.</p>",
+    "new": "<p>Registra l’ora della verifica e la valuta mostrata insieme ai dati del pacco. Linee disponibili e importi possono cambiare, quindi conserva più di una schermata ritagliata sul prezzo. Includi destinazione, caratteristiche e misure utilizzate, oltre al motivo per cui ogni linea rimane ammissibile. Potrai così ripetere il confronto dopo una modifica dell’imballaggio e capire se un preventivo diverso dipende dai dati del pacco o da condizioni di trasporto aggiornate.</p>"
+  },
+  {
+    "path": "it/guides/cssbuy-tracking-not-updating-parcel-status-guide.html",
+    "old": "<h2 id=\"section-6\">Che cosa questa guida deliberatamente non promette</h2>",
+    "new": "<h2 id=\"section-6\">Decidi quando sollecitare in base alle condizioni attuali del pacco</h2>"
+  },
+  {
+    "path": "it/guides/cssbuy-tracking-not-updating-parcel-status-guide.html",
+    "old": "<p>Non c'è nessun numero universale di giorni silenziosi che prova un pacchetto CSSBuy è perso. Linee utilizzano diverse reti, eventi di tracciamento e partner di destinazione. L'azione doganale dipende dalla spedizione e dalla giurisdizione. Le decisioni di compenso o di assicurazione dipendono dai termini allegati al pacco, non da una lista di controllo generica del blog. Questa guida pertanto non pubblica scadenze di vettore inventate, tempi di consegna garantiti o regole di rimborso automatiche.</p>",
+    "new": "<p>Un numero fisso di giorni senza nuove scansioni non basta a stabilire che un pacco CSSBuy sia perso. Le linee usano reti, eventi di tracciamento e partner di consegna diversi, mentre le procedure doganali dipendono dalla spedizione e dalla giurisdizione. Controlla le informazioni della linea, gli avvisi di servizio pertinenti e le condizioni di reclamo o assicurazione associate al pacco. Annota il periodo di attesa e il termine per inviare prove quando sono indicati, e chiedi all’assistenza ufficiale di chiarire le condizioni mancanti prima di decidere se procedere con un’escalation.</p>"
+  },
+  {
+    "path": "zh/guides/best-agent-2026.html",
+    "old": "<p class=\"lead\">比较代理线路决定的指南.</p>",
+    "new": "<p class=\"lead\">比较 CSSBuy 与其他代购服务时，使用同一包裹、目的地和服务需求，并核对当前运输条件。</p>"
+  },
+  {
+    "path": "zh/guides/best-agent-2026.html",
+    "old": "<p>包裹包装前,应当启动航运规划. W2C产品在发现时可能看起来价格不高,但最终线路取决于目的地,实际重量,包裹体积,产品属性和活线可用性.</p>",
+    "new": "<p>在购买或打包前开始比较。记录准备购买的商品、选定规格，以及是否含电池、液体或易碎部件。再检查各家代购能否处理这些商品，并提供适合目的地的运输线路。商品页面上的低价只是采购成本的一部分。</p>"
+  },
+  {
+    "path": "zh/guides/best-agent-2026.html",
+    "old": "<p>使用相同的目的地,包裹测量和货物属性来比较当前线路条件. 历史线路名称和价格对于新发货来说并不可靠。</p>",
+    "new": "<p>使用相同的目的地、实际重量、外箱尺寸和商品属性获取运费估价，并记录每次核对的日期。熟悉的线路名称或其他买家的旧账单，都不能确认下一票包裹的价格、承运资格和交付条件。</p>"
+  },
+  {
+    "path": "zh/guides/best-agent-2026.html",
+    "old": "<p>这些是实例,不是通用的报价。 CSSBuy的计算器询问重量,体积,商品属性和目的地,以及一些线路用实际重量和体积重量之间的较大值计算.</p>",
+    "new": "<p>逐条确认可用线路怎样计算计费重量。CSSBuy 计算器需要重量、尺寸、商品属性和目的地；部分线路会比较实重与体积重，并按较大值计费。比较完整报价前，先采用各线路当前的体积系数和计费重量档位。</p>"
+  },
+  {
+    "path": "zh/guides/best-agent-2026.html",
+    "old": "<p>指南还应解释押金和最后收费可能不同的原因。 最终的金额可以取决于货包大小和在运输过程中稍后核实的重量.</p>",
+    "new": "<p>将运费预付款和最终收费分列记录。包裹尺寸与重量在后续运输环节核实后，最终金额可能调整。将核实的数据与估价比较，确认差额的来源，并查看账户流水，再判断某笔差额是否属于退款。</p>"
+  },
+  {
+    "path": "zh/guides/cssbuy-pro-fee-qc-shipping-route-index.html",
+    "old": "<p class=\"lead\">基于事实的CSSBuy Pro Finder指南,涵盖W2C线路,QC图像语言,公共航运实例,存储,回报,奖励和当前收费验证.</p>",
+    "new": "<p class=\"lead\">按购买阶段规划 CSSBuy 订单：核实商品链接、检查仓库 QC 照片、确认仓储与退货条件、比较运输线路，最后核对费用和已确认的优惠。</p>"
+  },
+  {
+    "path": "zh/guides/cssbuy-pro-fee-qc-shipping-route-index.html",
+    "old": "<p>包裹包装前,应当启动航运规划. W2C产品在发现时可能看起来价格不高,但最终线路取决于目的地,实际重量,包裹体积,产品属性和活线可用性.</p>",
+    "new": "<p>先处理当前需要做的决定。下单前检查商品页面、选定规格和卖家寄往仓库的费用；到仓后先确认商品身份、状态与可用退货选项，再选择包装服务。等包裹内容和商品属性明确后，再安排国际运输。</p>"
+  },
+  {
+    "path": "zh/guides/cssbuy-pro-fee-qc-shipping-route-index.html",
+    "old": "<p>使用相同的目的地,包裹测量和货物属性来比较当前线路条件. 历史线路名称和价格对于新发货来说并不可靠。</p>",
+    "new": "<p>每件商品保留购买记录，每个包裹保留运输记录。商品价格、国内运费和 QC 备注归入商品记录；打包重量、尺寸、目的地及可用线路归入包裹记录。这样遇到额外费用时，更容易找到它来自哪个环节。</p>"
+  },
+  {
+    "path": "zh/guides/cssbuy-pro-fee-qc-shipping-route-index.html",
+    "old": "<p>这些是实例,不是通用的报价。 CSSBuy的计算器询问重量,体积,商品属性和目的地,以及一些线路用实际重量和体积重量之间的较大值计算.</p>",
+    "new": "<p>估算包裹运费时，在当前 CSSBuy 计算器中输入重量、尺寸、目的地和商品属性。核对选定线路的实重与体积重规则，以及计费档位。将输入数据与结果一并保存，之后调整包装时，才能基于相同起点比较费用。</p>"
+  },
+  {
+    "path": "zh/guides/cssbuy-pro-fee-qc-shipping-route-index.html",
+    "old": "<p>指南还应解释押金和最后收费可能不同的原因。 最终的金额可以取决于货包大小和在运输过程中稍后核实的重量.</p>",
+    "new": "<p>付款时，区分国际运费预付款与单独收费的服务。发货后，将最终运费与包裹记录核对，并检查对应的账户调整。优惠券或奖励是否适用，应以本次交易显示为准；旧案例不能证明当前订单也能享受。</p>"
+  },
+  {
+    "path": "zh/guides/cssbuy-pro-fee-qc-shipping-route-index.html",
+    "old": "<p>这个指数作为问题记录最有价值:什么仍然未知? 哪张照片会改变决定? 哪个框创建音量 ? 哪些费用得到确认,哪些只是缓冲? 使这些问题清晰可见的页面比一长串没有决策背景的链接更有用。</p>",
+    "new": "<p>在商品和包裹记录旁列出尚未解决的问题：缺少哪个尺寸、需要补拍哪个 QC 角度、哪只盒子决定外箱大小、哪些费用只是预算预留。写明问题对应的记录和解决它所需的证据，确认后再批准下一步。</p>"
+  },
+  {
+    "path": "zh/guides/cssbuy-service-payment-fees-prepayment-audit.html",
+    "old": "<p>付款方法的比较只有在帐户提出目前用于准确付款的方法之后才开始。 不应仅仅因为钱包、卡片、银行选项或账户余额出现在旧的教程中就将其公布为可用。 对于每个活选项,请注明支付金额、发送的货币、收到的账户价值或订单价值、任何单独显示的费用、预期处理状况以及交易屏幕上描述的退款目的地。</p>",
+    "new": "<p>只比较当前账户在本次交易中实际提供的付款方式。旧教程里出现的钱包、银行卡、转账或余额支付，不一定仍可使用。对每个可用选项，记录付出金额、支付币种、获得的订单价值或到账余额、单独列出的费用、页面说明的处理状态，以及退款去向。</p>"
+  },
+  {
+    "path": "zh/guides/cssbuy-service-payment-fees-prepayment-audit.html",
+    "old": "<h2 id=\"section-6\">负责地公布CSSBuy收费号码的规则</h2>",
+    "new": "<h2 id=\"section-6\">确认所列费用是否适用于本次付款</h2>"
+  },
+  {
+    "path": "zh/guides/cssbuy-service-payment-fees-prepayment-audit.html",
+    "old": "<p>只有当一个数字的范围明确时,它才能公布。 说明屏幕或官方政策页、访问日期、货币、交易类型、计算基础、账户或会员条件,包括和排除费用,以及是否引用或最终结算了数字。 如果其中任何一个字段不知道,请公布核查方法,而不是百分比。</p>",
+    "new": "<p>将费用纳入预算前，保存支持该金额的付款页面或官方规则、核对日期、币种、交易类型和计算基数。补充账户或会员条件、已包含与未包含的费用，并标明它是估价还是最终结算金额。任何一项不清楚，都先标为“待确认”，在授权付款前核实。</p>"
+  },
+  {
+    "path": "zh/guides/cssbuy-service-payment-fees-prepayment-audit.html",
+    "old": "<p>请勿将一张收据变成通用收费表。 不将付款提供者的差额与平台服务收费结合起来。 不得重复使用航线的国际运输费作为购买费. 不要称临时促销为永久的。 最后,当基础不明时,不要从四舍五入显示值中计算一个百分比。 精确的视速率可能不如明显标注的未知率真实。</p>",
+    "new": "<p>可以用旧收据提醒自己哪些项目需要核查，但新交易的金额仍要重新确认。将支付服务商产生的差额与平台服务费分开，国际运费也不要混入购买费用。检查优惠的有效期和适用条件。如果显示金额经过取整，或计算基数不清楚，应记录金额并索取明细，不要据此倒推容易误导的费率。</p>"
+  },
+  {
+    "path": "zh/guides/cssbuy-pro-w2c-qc-shipping-workflow-2026.html",
+    "old": "<p>CSSBuy风格的代理购物最容易理解,当买家将其作为线路工作流程而非单一产品点击处理时. 产品链接开始这一过程,但最终决定取决于W2C的背景、仓库检查、质量控制照片审查、包裹重量、线路可用性和买方自己的票据。 CSSBuys Pro是作为外部引导层而建造的,为那些想要在承诺执行命令之前组织这一过程的人提供.</p>",
+    "new": "<p>从找到商品到收到 CSSBuy 包裹，中间需要完成多个决定。先核实 W2C 商品页面和所选规格，再跟进订单到仓、检查 QC 照片，并选择合适的包装与运输方案。将商品信息、仓库检查结果、包裹重量、可用线路和自己的决定集中记录，下一次付款前便能看清哪些内容发生了变化。</p>"
+  },
+  {
+    "path": "zh/guides/cssbuy-pro-w2c-qc-shipping-workflow-2026.html",
+    "old": "<p>一个有用的线路工作流程将产品审批与航运审批分开. 首先通过QC照片确认项目正确. 然后审查是保留盒子、合并物品还是调整包装。 最后根据目前的航运计算器比较现有的航线。 任何在没有现场核查的情况下给出固定运输承诺的页,都可能误导买主。</p>",
+    "new": "<p>商品验收和发货批准应分开处理。先通过 QC 照片检查收到的商品，补齐影响判断的角度或尺寸；再决定保留哪些盒子、合并哪些物品，以及需要什么保护。按这套包装方案在当前计算器中比较合格线路，确认现行条件后再提交包裹。</p>"
+  },
+  {
+    "path": "zh/guides/cssbuy-pro-w2c-qc-shipping-workflow-2026.html",
+    "old": "<p>CSSBuys Pro应该帮助访客了解这一过程,而不是匆忙购买. 最安全的买方是核实活品、检查质量控制照片、审查航运选择并明确记录最终裁决的买方。</p>",
+    "new": "<p>每个阶段都先取得下一步所需的信息。下单前核实选定商品，改变包装前解决重要的 QC 疑问，支付运费前检查打包后的包裹和可用线路。记录自己接受了什么、还有哪些不确定之处，之后复查时就不必依靠记忆。</p>"
+  },
+  {
+    "path": "zh/guides/cssbuy-pro-w2c-qc-shipping-workflow-2026.html",
+    "old": "<p>将最终物品清单,仓库测量,选行,跟踪标识和重要支持证据保存在私人记录中. 从任何公开分享的内容中删除个人细节 。 公共指南应教授该方法并显示有明显标签的例子,而账户截图和地址仍为非公开。</p>",
+    "new": "<p>将最终商品清单、仓库测量数据、选定线路、运单号和重要客服回复保存在私人包裹记录中。公开分享案例或求助前，删除姓名、地址、账户标识和完整物流信息。只提供解释问题所需的尺寸、日期及费用名称；原始凭证留给官方客服核查。</p>"
+  },
+  {
+    "path": "zh/guides/cssbuy-total-landed-cost-worksheet.html",
+    "old": "<h2 id=\"section-1\">使用四个状态, 而不是一个成本列</h2>",
+    "new": "<h2 id=\"section-1\">分列记录五种费用状态</h2>"
+  },
+  {
+    "path": "zh/guides/cssbuy-total-landed-cost-worksheet.html",
+    "old": "<h2 id=\"section-5\">一个没有假CSSBuy价格的范例</h2>",
+    "new": "<h2 id=\"section-5\">计算示例：从付款到差额调整核对一笔假设订单</h2>"
+  },
+  {
+    "path": "zh/guides/cssbuy-total-landed-cost-worksheet.html",
+    "old": "<h2 id=\"section-6\">处理目的地费用而不假装提供法律咨询</h2>",
+    "new": "<h2 id=\"section-6\">按本次运输适用的规则核实目的地费用</h2>"
+  },
+  {
+    "path": "zh/guides/cssbuy-total-landed-cost-worksheet.html",
+    "old": "<h2 id=\"section-8\">此工作表对现有计算器指南添加的内容</h2>",
+    "new": "<h2 id=\"section-8\">将选定的运输方案纳入总预算</h2>"
+  },
+  {
+    "path": "zh/guides/cssbuy-total-landed-cost-worksheet.html",
+    "old": "<p>计算器指南解释了线路输入,量子重量,以及押金为何可以与最终充值不同. 此工作表回答一个不同的询问:如何将每个经核实的支付阶段合并为一个可追踪的总数. 使用计算文章来测试运货方案;使用本页面来调节整个购买和包裹预算.</p>",
+    "new": "<p>先用计算器指南比较同一包裹的线路输入、体积重和预计运费，再将选定方案放入主工作表，保留报价日期和状态。随后，把已核实的购买付款、服务费用、运费预付款及后续调整汇成可追溯的总额。取得最终测量数据和结算记录后更新包裹费用，每笔付款或入账只计算一次。</p>"
+  },
+  {
+    "path": "zh/guides/cssbuy-mixed-parcel-qc-volume-weight-audit-2026-07-12.html",
+    "old": "<p>在活性计算器所需的单位中记录长度,宽度和高度. 使用显示在每条线路上的分数和计费递增,而不是记住行业公式。 如果估计值坐落在接近下一个计费步骤的地方,则测试一个小型的包装缓冲器. 目的是了解哪个决定改变了可收取的重量,而不是公布永久的航运价格。</p>",
+    "new": "<p>按当前计算器要求的单位记录长、宽、高，采用每条合格线路显示的体积系数和计费档位。如果估算结果接近下一档收费门槛，再用稍大但合理的打包尺寸计算一次。比较结果后，就能在选择包装前判断：额外保护材料或某件大体积商品，是否会改变计费重量。</p>"
+  },
+  {
+    "path": "zh/guides/cssbuy-pro-parcel-risk-qc-2026-07-09.html",
+    "old": "<p>将最后原因记录在一句话中,并保留辅助测量。 当仓库提供最终包装的数据时,将其与模型进行比较,并更新风险说明. 这关闭了电子表格、质量控制审查与实际装运之间的循环,而不是将它们作为单独文章处理。</p>",
+    "new": "<p>写明决定发货、暂缓或拆包的原因，并保存支持该决定的测量数据。仓库提供最终外箱尺寸和重量后，与估算对照并更新风险备注。确认 QC 结论、包裹内容和选定线路仍然匹配；若某项输入改变，先重新检查受影响的运输或包装选择，再继续操作。</p>"
+  },
+  {
+    "path": "zh/guides/cssbuy-pro-parcel-risk-qc-2026-07-09.html",
+    "old": "<p>然后从另一个读者的角度来检验记录。 工作表应解释为什么接受某项物品,为什么一条线路仍然符合条件,估计是哪一个数字,以及何时检查每个活值。 如果结论取决于内存或未加标签的截图,则审计尚未完成. 在批准装运前添加缺失的上下文。</p>",
+    "new": "<p>试着把记录当成几周后重新打开的资料来检查。你应当能看出每件商品为何通过验收、线路为何合格、哪些数字仍是估算，以及当前数值何时核实。批准发货前，补上截图缺失的日期、单位和说明。清楚的记录也方便客服直接调查相应商品、包裹或收费，不必重建整个购买过程。</p>"
+  },
+  {
+    "path": "zh/guides/cssbuy-restricted-items-shipping.html",
+    "old": "<p>如果发货前线路可用性改变，应重新比较完整条件，而不是挑一个名称最相似的替代线路。新线路的商品限制、体积规则和服务条件可能不同，需要独立核对。因此，也不能仅依据某一次历史运输，就向读者承诺固定时效或普遍接收某类商品。</p>",
+    "new": "<p>如果发货前可用线路发生变化，应使用包裹的实际内容和目的地重新比较完整条件。即使名称相似，替代线路也可能有不同的商品限制、尺寸规则、服务条件或预计时效。选择前应逐项确认。以往发货经历只能作为参考，不能证明本次包裹一定会被接收，也不能确定交付日期。</p>"
+  },
+  {
+    "path": "zh/guides/cssbuy-shipping-line-comparison-framework.html",
+    "old": "<p>记录显示的观察时间和货币。 线路可用性和显示量可以改变,所以没有输入或日期的截图不是可重复使用的报价. 比较应该可以复制:另一个读者必须能够知道输入了什么包裹,为什么每条线路都留在清单上.</p>",
+    "new": "<p>将核对时间和显示币种与包裹输入一并保存。可用线路和金额会变化，因此不要只截取价格。还应记录目的地、商品属性、使用的尺寸，以及各线路为何符合条件。包装调整后，就能复现比较过程，并判断报价差异来自包裹数据变化，还是线路条件更新。</p>"
+  },
+  {
+    "path": "zh/guides/cssbuy-tracking-not-updating-parcel-status-guide.html",
+    "old": "<h2 id=\"section-6\">这个向导故意不答应的</h2>",
+    "new": "<h2 id=\"section-6\">根据包裹当前条款决定何时进一步追查</h2>"
+  },
+  {
+    "path": "zh/guides/cssbuy-tracking-not-updating-parcel-status-guide.html",
+    "old": "<p>没有通用的沉默天数证明 CSSBuy 包裹丢失 。 线路使用不同的网络,跟踪事件和目的地合作伙伴. 海关的行动取决于货运和管辖权。 赔偿或保险决定取决于包裹所附条件,而不是通用博客核对表。 因此,本指南不公布已发明的承运人最后期限、保证交货时间或自动退款规则。</p>",
+    "new": "<p>仅凭固定天数没有新扫描，不能确定 CSSBuy 包裹已经丢失。各线路使用不同的物流网络、扫描节点和末端承运商；海关处理也取决于货物及司法管辖区。核对所选线路信息、相关服务公告，以及本包裹适用的索赔或保险条件。若条款列出等待期和提交证据的期限，应记录下来；缺失的条件先向官方客服确认，再决定是否升级处理。</p>"
+  }
+]

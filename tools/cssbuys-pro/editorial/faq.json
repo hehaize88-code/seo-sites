@@ -1,0 +1,686 @@
+{
+  "en": [
+    {
+      "q": "Is cssbuys.pro the official CSSBuy website?",
+      "a": "No. This is an independent guide site. It does not accept orders, hold account balances, take warehouse photos or arrange shipping. Those services are handled through CSSBuy."
+    },
+    {
+      "q": "How do I order a product through CSSBuy?",
+      "a": "Open the original product listing, check the seller and selected variation, then use the link in CSSBuy. Confirm size, colour, quantity and current charges before paying. If the link cannot be read, ask about the Expert Buy option."
+    },
+    {
+      "q": "Why are product payment and international shipping separate?",
+      "a": "The item is purchased and delivered to the Chinese warehouse first. International shipping is arranged later, after warehouse checks and parcel preparation. Budget for both stages rather than treating the product price as the delivered price."
+    },
+    {
+      "q": "What should I include in a CSSBuy budget?",
+      "a": "Record the product price, Chinese domestic delivery, any service and payment charges, currency conversion, optional warehouse services, international freight and applicable destination charges. Keep estimates separate from confirmed and paid amounts."
+    },
+    {
+      "q": "Does this site quote live CSSBuy shipping rates?",
+      "a": "No. Our planning tools and examples explain weight and cost calculations. For available lines and current prices, use the official CSSBuy calculator with your destination, item attributes and packed measurements."
+    },
+    {
+      "q": "Why can two parcels with the same weight cost different amounts?",
+      "a": "Their dimensions, contents, destination or eligible shipping lines may differ. A bulky parcel can have a higher chargeable weight. Compare complete quotes using the same inputs and check each line's billing rules."
+    },
+    {
+      "q": "How do I calculate volumetric weight?",
+      "a": "Multiply the packed length, width and height using the units required by the line, then divide by that line's stated divisor. Check whether the route bills actual weight, volumetric weight or the larger amount, including any rounding."
+    },
+    {
+      "q": "How long does CSSBuy delivery take?",
+      "a": "There is no single delivery time for every order. Seller dispatch, warehouse processing, packing, international transport and local delivery are separate stages. Use the current estimate for the selected line and allow for uncertainty."
+    },
+    {
+      "q": "How many free QC photos does CSSBuy advertise?",
+      "a": "The official homepage reviewed on 4 November 2026 advertises 3–5 free QC photos. Confirm what is included for your specific order and check additional-photo or measurement options before requesting them."
+    },
+    {
+      "q": "Why can I see a warehouse weight but no QC photos?",
+      "a": "A weight entry alone does not show whether the photo task is complete. Check the order status and selected services, then ask about the missing images in that order. Avoid approving shipment while an important QC question remains unanswered."
+    },
+    {
+      "q": "How much do extra photos or video checks cost?",
+      "a": "Check the current service menu or ask CSSBuy for a quote describing the exact view or measurement you need. Do not assume additional photos, measurements or videos are free or available for every item."
+    },
+    {
+      "q": "Can QC photos prove authenticity or product performance?",
+      "a": "No. Photos can help check the received variation, visible condition, measurements and included parts. They cannot establish every material, hidden defect, battery condition or long-term performance characteristic."
+    },
+    {
+      "q": "What should I do if the warehouse photos show the wrong size or damage?",
+      "a": "Save the order details and relevant photos, describe the visible mismatch, and contact CSSBuy through the order promptly. Ask about return or replacement options before removing packaging or authorising international shipment."
+    },
+    {
+      "q": "How long do I have to request a warehouse return?",
+      "a": "CSSBuy's public Q&A lists conditions including seller acceptance, less than seven days in the warehouse and payment of return postage. Check the actual order promptly; this is not an unconditional return promise for every product."
+    },
+    {
+      "q": "Is returning an item the same as withdrawing my account balance?",
+      "a": "No. A product return concerns the seller and the item. A balance withdrawal concerns money already held in your CSSBuy account. Use the appropriate request and keep the two transaction records separate."
+    },
+    {
+      "q": "Will a refund automatically go back to my card or bank?",
+      "a": "Do not assume it will. Check whether the transaction is an account credit or a refund to the original payment method. For a balance withdrawal, verify the available route, fees and processing information in your account or with support."
+    },
+    {
+      "q": "Why can the final shipping charge differ from the deposit?",
+      "a": "The deposit uses estimated shipment information. Final verified dimensions, weight and line conditions can change the calculation. Compare the parcel invoice with the original estimate; check your account for any credit rather than assuming a bank refund."
+    },
+    {
+      "q": "How long is free warehouse storage?",
+      "a": "Official product information distinguishes 90 days for regular goods and 30 days for sensitive goods. Check your item's classification and expiry date in the account; do not apply the general 90-day wording to every item."
+    },
+    {
+      "q": "Can I extend storage or reset it by combining items?",
+      "a": "Ask about an extension before the displayed expiry date and confirm the price and affected order. Do not assume consolidation, a new purchase or a support enquiry resets the storage clock for older items."
+    },
+    {
+      "q": "What should I do if my stored item has expired?",
+      "a": "Contact CSSBuy immediately with the order or parcel identifier and ask whether the goods are still available and what action remains possible. Do not assume an expired item is recoverable or that a past clearance notice gives you extra time."
+    },
+    {
+      "q": "Should I combine all my items into one parcel?",
+      "a": "Compare a combined parcel with realistic split options. Check item compatibility, packed dimensions, fixed fees, protection and storage deadlines. A larger combined parcel is not automatically the least expensive suitable option."
+    },
+    {
+      "q": "Does removing shoe boxes always reduce shipping costs?",
+      "a": "No. It can reduce volume, but the result depends on the final carton, billing rules and any packing fees. Consider the value of the box and protection needed for the shoes before requesting removal."
+    },
+    {
+      "q": "Is vacuum packing suitable for all clothing?",
+      "a": "No. Review the garment's construction, material, shape and trims first. Compare simple folding, gentle compression and vacuum packing, and ask the warehouse to confirm what is suitable before applying pressure."
+    },
+    {
+      "q": "Can CSSBuy ship electronics with batteries or liquids?",
+      "a": "Eligibility depends on the exact product, battery or liquid attributes, destination and current line rules. Provide accurate specifications and ask about an eligible route before placing the item into a mixed parcel."
+    },
+    {
+      "q": "What should I check when tracking stops updating?",
+      "a": "Identify the last confirmed shipping stage and carrier, save the latest scan and time, and review the selected line's guidance. Use the parcel record for an enquiry; a gap in scans alone does not prove loss."
+    },
+    {
+      "q": "Does parcel insurance cover every loss, damage or customs problem?",
+      "a": "Do not assume universal coverage. Check the current policy for your shipping line, including insured value, exclusions, reporting deadlines and evidence. Keep photos, invoices and packaging records that the policy requires."
+    },
+    {
+      "q": "How do I check a CSSBuy coupon, points reward or exchange rate?",
+      "a": "Review eligibility, expiry, minimum spend, limits and where a reward can be used. Compare the final payment and credited balance separately from the advertised discount. A coupon does not establish the currency conversion rate."
+    },
+    {
+      "q": "What should I do when a product link no longer works?",
+      "a": "Reopen the original seller listing and check the item identifier, stock and selected variation. Ask CSSBuy for help if parsing fails. Do not treat a different product reached through a replacement link as the same item without checking it."
+    }
+  ],
+  "de": [
+    {
+      "q": "Ist cssbuys.pro die offizielle Website von CSSBuy?",
+      "a": "Nein. Dies ist eine unabhängige Ratgeberseite. Sie nimmt keine Bestellungen an, verwaltet kein Guthaben, erstellt keine Lagerfotos und organisiert keinen Versand. Diese Leistungen werden über CSSBuy abgewickelt."
+    },
+    {
+      "q": "Wie bestelle ich einen Artikel über CSSBuy?",
+      "a": "Öffne das ursprüngliche Angebot und prüfe Händler sowie Variante. Verwende den Link anschließend bei CSSBuy. Bestätige Größe, Farbe, Menge und aktuelle Gebühren vor der Zahlung. Falls der Link nicht erkannt wird, frage nach der Funktion „Expert Buy“."
+    },
+    {
+      "q": "Warum werden Artikel und internationaler Versand getrennt bezahlt?",
+      "a": "Zuerst wird der Artikel gekauft und zum chinesischen Lager geliefert. Der internationale Versand folgt nach der Lagerprüfung und Paketvorbereitung. Plane beide Schritte ein, statt den Artikelpreis als Preis einschließlich Zustellung zu betrachten."
+    },
+    {
+      "q": "Welche Kosten gehören in mein CSSBuy-Budget?",
+      "a": "Erfasse Artikelpreis, chinesischen Inlandsversand, mögliche Service- und Zahlungsgebühren, Währungsumrechnung, zusätzliche Lagerleistungen, internationalen Versand und anfallende Kosten im Zielland. Trenne Schätzungen von bestätigten und bezahlten Beträgen."
+    },
+    {
+      "q": "Zeigt diese Website aktuelle CSSBuy-Versandtarife an?",
+      "a": "Nein. Unsere Planungshilfen und Beispiele erklären Gewichts- und Kostenberechnungen. Aktuelle Linien und Preise findest du im offiziellen CSSBuy-Rechner mit deinem Zielland, den Wareneigenschaften und den Paketmaßen."
+    },
+    {
+      "q": "Warum können gleich schwere Pakete unterschiedlich viel kosten?",
+      "a": "Maße, Inhalt, Zielland oder zulässige Versandlinien können verschieden sein. Ein sperriges Paket kann ein höheres Abrechnungsgewicht haben. Vergleiche vollständige Angebote mit gleichen Angaben und prüfe die Regeln jeder Linie."
+    },
+    {
+      "q": "Wie berechne ich das Volumengewicht?",
+      "a": "Multipliziere Länge, Breite und Höhe des verpackten Pakets in den geforderten Einheiten und teile durch den Divisor der Linie. Prüfe, welches Gewicht berechnet wird und welche Rundungen oder Abrechnungsschritte gelten."
+    },
+    {
+      "q": "Wie lange dauert die Lieferung mit CSSBuy?",
+      "a": "Es gibt keine einheitliche Lieferzeit für alle Bestellungen. Händlerversand, Lagerbearbeitung, Verpackung, internationaler Transport und lokale Zustellung sind getrennte Phasen. Nutze die aktuelle Schätzung der gewählten Linie und plane Unsicherheit ein."
+    },
+    {
+      "q": "Wie viele kostenlose QC-Fotos bewirbt CSSBuy?",
+      "a": "Die am 4. November 2026 geprüfte offizielle Startseite wirbt mit 3–5 kostenlosen QC-Fotos. Prüfe den Umfang für deine konkrete Bestellung sowie Optionen für zusätzliche Fotos oder Maße vor der Beauftragung."
+    },
+    {
+      "q": "Warum sehe ich ein Lagergewicht, aber keine QC-Fotos?",
+      "a": "Ein Gewichtseintrag zeigt nicht, ob die Fotoaufnahme abgeschlossen ist. Prüfe Bestellstatus und gebuchte Leistungen und frage im betreffenden Auftrag nach den Bildern. Gib den Versand nicht frei, solange eine wichtige QC-Frage offen ist."
+    },
+    {
+      "q": "Was kosten zusätzliche Fotos oder Videoprüfungen?",
+      "a": "Prüfe das aktuelle Serviceangebot oder bitte CSSBuy um ein Angebot mit der gewünschten Ansicht oder Messung. Zusätzliche Fotos, Maße oder Videos sind nicht automatisch kostenlos oder für jeden Artikel verfügbar."
+    },
+    {
+      "q": "Beweisen QC-Fotos Echtheit oder Funktionsfähigkeit?",
+      "a": "Nein. Fotos helfen bei Variante, sichtbarem Zustand, Maßen und Zubehör. Sie belegen nicht alle Materialien, verborgenen Mängel, den Batteriezustand oder die langfristige Funktion eines Produkts."
+    },
+    {
+      "q": "Was tun bei falscher Größe oder Schäden auf den Lagerfotos?",
+      "a": "Sichere Bestelldaten und relevante Fotos, beschreibe die sichtbare Abweichung und kontaktiere CSSBuy zeitnah im Auftrag. Kläre Rückgabe oder Ersatz, bevor du Verpackungen entfernen oder die Ware international versenden lässt."
+    },
+    {
+      "q": "Wie lange kann ich eine Rückgabe aus dem Lager beantragen?",
+      "a": "CSSBuy nennt in den öffentlichen Fragen und Antworten unter anderem die Zustimmung des Verkäufers, weniger als sieben Tage im Lager und bezahltes Rückporto. Prüfe den konkreten Auftrag sofort; dies ist kein bedingungsloses Rückgaberecht für jeden Artikel."
+    },
+    {
+      "q": "Ist eine Warenrückgabe dasselbe wie eine Guthabenauszahlung?",
+      "a": "Nein. Bei einer Warenrückgabe geht es um den Verkäufer und den Artikel. Eine Guthabenauszahlung betrifft Geld auf deinem CSSBuy-Konto. Stelle den passenden Antrag und bewahre beide Vorgänge getrennt auf."
+    },
+    {
+      "q": "Geht eine Erstattung automatisch auf meine Karte oder mein Bankkonto?",
+      "a": "Gehe nicht davon aus. Prüfe, ob eine Gutschrift im CSSBuy-Konto oder eine Rückzahlung auf das ursprüngliche Zahlungsmittel vorgesehen ist. Kläre bei einer Auszahlung den verfügbaren Weg, Gebühren und Bearbeitungsinformationen im Konto oder beim Support."
+    },
+    {
+      "q": "Warum kann die endgültige Versandgebühr von der Vorauszahlung abweichen?",
+      "a": "Die Vorauszahlung beruht auf geschätzten Versanddaten. Bestätigte Maße, Gewicht und Linienbedingungen können die Berechnung verändern. Vergleiche die Abrechnung mit der Schätzung und prüfe eine mögliche Kontogutschrift, statt eine Bankrückzahlung vorauszusetzen."
+    },
+    {
+      "q": "Wie lange ist die Lagerung kostenlos?",
+      "a": "Offizielle Produktinformationen unterscheiden zwischen 90 Tagen für reguläre Waren und 30 Tagen für sensible Waren. Prüfe Einstufung und Ablaufdatum des Artikels im Konto; die allgemeine Angabe von 90 Tagen gilt nicht automatisch für alles."
+    },
+    {
+      "q": "Kann ich Lagerung verlängern oder durch Zusammenlegen neu starten?",
+      "a": "Frage vor dem angezeigten Ablaufdatum nach einer Verlängerung und bestätige Preis sowie betroffenen Auftrag. Zusammenlegung, ein neuer Einkauf oder eine Supportanfrage setzen die Frist älterer Artikel nicht automatisch zurück."
+    },
+    {
+      "q": "Was soll ich tun, wenn die Lagerfrist bereits abgelaufen ist?",
+      "a": "Kontaktiere CSSBuy sofort mit der Bestell- oder Paketnummer. Frage, ob die Ware noch verfügbar ist und welche Schritte möglich sind. Verlasse dich weder auf eine Wiederherstellung noch auf zusätzliche Zeit durch eine frühere Räumungsankündigung."
+    },
+    {
+      "q": "Soll ich alle Artikel zu einem Paket zusammenlegen?",
+      "a": "Vergleiche ein gemeinsames Paket mit realistischen getrennten Sendungen. Prüfe Warenverträglichkeit, Paketmaße, feste Gebühren, Schutz und Lagerfristen. Ein großes Paket ist nicht automatisch die günstigste geeignete Lösung."
+    },
+    {
+      "q": "Senkt das Entfernen von Schuhkartons immer die Versandkosten?",
+      "a": "Nein. Es kann Volumen sparen, doch entscheidend sind der endgültige Karton, die Abrechnungsregeln und mögliche Verpackungsgebühren. Berücksichtige den Wert der Schuhkartons und den nötigen Schutz, bevor du ihre Entfernung beauftragst."
+    },
+    {
+      "q": "Ist Vakuumverpackung für alle Kleidungsstücke geeignet?",
+      "a": "Nein. Prüfe zunächst Verarbeitung, Material, Form und Verzierungen. Vergleiche normales Falten, vorsichtige Kompression und Vakuumverpackung und lasse das Lager die geeignete Methode bestätigen."
+    },
+    {
+      "q": "Kann CSSBuy Elektronik mit Batterien oder Flüssigkeiten versenden?",
+      "a": "Das hängt vom genauen Produkt, Batterie- oder Flüssigkeitseigenschaften, Zielland und aktuellen Linienregeln ab. Gib korrekte Spezifikationen an und bestätige eine geeignete Versandmöglichkeit, bevor du einen Mischkarton zusammenstellst."
+    },
+    {
+      "q": "Was prüfe ich, wenn die Sendungsverfolgung keine Updates zeigt?",
+      "a": "Ermittle die letzte bestätigte Transportphase und den Beförderer. Sichere Scan und Zeitpunkt und prüfe die Hinweise der Versandlinie. Stelle eine Anfrage im Paketdatensatz; fehlende Scans allein beweisen keinen Verlust."
+    },
+    {
+      "q": "Deckt die Paketversicherung jeden Verlust, Schaden oder Zollfall ab?",
+      "a": "Gehe nicht von einer umfassenden Deckung aus. Prüfe die aktuelle Police deiner Versandlinie einschließlich Versicherungswert, Ausschlüssen, Meldefristen und Nachweisen. Bewahre die geforderten Fotos, Rechnungen und Verpackungsunterlagen auf."
+    },
+    {
+      "q": "Wie prüfe ich CSSBuy-Gutscheine, Punkte und Wechselkurse?",
+      "a": "Prüfe Berechtigung, Ablauf, Mindestbetrag, Höchstgrenzen und Verwendungszweck der Prämie. Vergleiche Zahlung und gutgeschriebenes Guthaben getrennt vom beworbenen Rabatt. Ein Gutschein bestimmt nicht den Umrechnungskurs."
+    },
+    {
+      "q": "Was tun, wenn ein Produktlink nicht mehr funktioniert?",
+      "a": "Öffne das ursprüngliche Händlerangebot und prüfe Artikelnummer, Verfügbarkeit und Variante. Bitte CSSBuy bei Importproblemen um Hilfe. Ein anderes Produkt hinter einem Ersatzlink ist erst nach Prüfung als Alternative zu bewerten."
+    }
+  ],
+  "fr": [
+    {
+      "q": "cssbuys.pro est-il le site officiel de CSSBuy ?",
+      "a": "Non. Ce site propose des guides indépendants. Il ne prend pas de commandes, ne conserve pas de solde, ne réalise pas de photos en entrepôt et n'organise pas d'expéditions. Ces services passent par CSSBuy."
+    },
+    {
+      "q": "Comment commander un produit avec CSSBuy ?",
+      "a": "Ouvrez l'annonce d'origine, vérifiez le vendeur et la variante, puis utilisez son lien sur CSSBuy. Confirmez taille, couleur, quantité et frais actuels avant de payer. Si le lien n'est pas reconnu, renseignez-vous sur l'option « Expert Buy »."
+    },
+    {
+      "q": "Pourquoi paie-t-on séparément l'article et l'expédition internationale ?",
+      "a": "L'article est d'abord acheté puis livré à l'entrepôt chinois. Le transport international se prépare ensuite, après les contrôles et la préparation du colis. Prévoyez les deux étapes : le prix du produit n'est pas son prix livré."
+    },
+    {
+      "q": "Que faut-il inclure dans un budget CSSBuy ?",
+      "a": "Notez le prix des articles, la livraison en Chine, les éventuels frais de service et de paiement, la conversion, les services en entrepôt, le fret international et les frais applicables à destination. Séparez estimations, montants confirmés et paiements."
+    },
+    {
+      "q": "Ce site fournit-il les tarifs CSSBuy en temps réel ?",
+      "a": "Non. Nos outils et exemples expliquent les calculs de poids et de coût. Pour connaître les lignes disponibles et leurs tarifs, utilisez le calculateur officiel avec votre destination, les caractéristiques des articles et les dimensions emballées."
+    },
+    {
+      "q": "Pourquoi deux colis de même poids peuvent-ils coûter différemment ?",
+      "a": "Leurs dimensions, contenus, destinations ou lignes admissibles peuvent différer. Un colis volumineux peut avoir un poids facturable supérieur. Comparez des devis complets avec les mêmes données et vérifiez les règles de chaque ligne."
+    },
+    {
+      "q": "Comment calculer le poids volumétrique ?",
+      "a": "Multipliez longueur, largeur et hauteur du colis emballé dans les unités demandées, puis divisez par le diviseur indiqué pour la ligne. Vérifiez le poids retenu pour la facturation ainsi que les arrondis et paliers éventuels."
+    },
+    {
+      "q": "Combien de temps prend une livraison CSSBuy ?",
+      "a": "Il n'existe pas de délai unique. Expédition du vendeur, traitement en entrepôt, emballage, transport international et livraison locale sont des étapes distinctes. Consultez l'estimation actuelle de la ligne choisie et prévoyez une marge d'incertitude."
+    },
+    {
+      "q": "Combien de photos QC gratuites CSSBuy annonce-t-il ?",
+      "a": "La page d'accueil officielle consultée le 4 novembre 2026 annonce 3 à 5 photos QC gratuites. Vérifiez ce qui est inclus pour votre commande ainsi que les options de photos ou de mesures supplémentaires avant de les demander."
+    },
+    {
+      "q": "Pourquoi vois-je un poids en entrepôt sans photos QC ?",
+      "a": "Un poids enregistré ne prouve pas que les photos sont terminées. Vérifiez le statut et les services sélectionnés, puis demandez les images manquantes dans la commande concernée. N'autorisez pas l'envoi tant qu'une question QC importante reste ouverte."
+    },
+    {
+      "q": "Combien coûtent des photos supplémentaires ou une vérification vidéo ?",
+      "a": "Consultez les services actuels ou demandez à CSSBuy un devis précisant la vue ou la mesure souhaitée. Ne supposez pas que les photos, mesures ou vidéos supplémentaires sont gratuites ou disponibles pour chaque article."
+    },
+    {
+      "q": "Les photos QC prouvent-elles l'authenticité ou le fonctionnement ?",
+      "a": "Non. Elles aident à vérifier variante reçue, état visible, mesures et accessoires. Elles ne permettent pas d'établir tous les matériaux, défauts cachés, l'état d'une batterie ou les performances à long terme."
+    },
+    {
+      "q": "Que faire si les photos montrent une mauvaise taille ou des dégâts ?",
+      "a": "Conservez les détails de la commande et les photos utiles, décrivez l'écart visible et contactez rapidement CSSBuy depuis la commande. Vérifiez les possibilités de retour ou d'échange avant de retirer l'emballage ou d'autoriser l'expédition internationale."
+    },
+    {
+      "q": "Quel est le délai pour demander un retour depuis l'entrepôt ?",
+      "a": "La FAQ publique de CSSBuy mentionne notamment l'accord du vendeur, moins de sept jours à l'entrepôt et le paiement du retour. Vérifiez rapidement votre commande : ce n'est pas une promesse de retour sans condition pour tous les produits."
+    },
+    {
+      "q": "Renvoyer un article et retirer mon solde sont-ils la même démarche ?",
+      "a": "Non. Un retour de produit concerne l'article et son vendeur. Le retrait du solde concerne l'argent déjà présent sur votre compte CSSBuy. Choisissez la demande adaptée et gardez séparément les justificatifs des deux opérations."
+    },
+    {
+      "q": "Un remboursement revient-il automatiquement sur ma carte ou mon compte bancaire ?",
+      "a": "Ne le présumez pas. Vérifiez s'il s'agit d'un crédit sur le compte CSSBuy ou d'un remboursement vers le moyen de paiement initial. Pour retirer un solde, confirmez le mode disponible, les frais et les indications de traitement."
+    },
+    {
+      "q": "Pourquoi les frais d'expédition finaux diffèrent-ils de l'acompte ?",
+      "a": "L'acompte repose sur une estimation. Les dimensions, le poids vérifiés et les conditions de la ligne peuvent modifier le calcul. Comparez la facture à l'estimation et vérifiez un éventuel crédit CSSBuy sans supposer un remboursement bancaire."
+    },
+    {
+      "q": "Combien de temps le stockage est-il gratuit ?",
+      "a": "Les informations produit officielles distinguent 90 jours pour les articles ordinaires et 30 pour les articles sensibles. Vérifiez la catégorie et l'échéance dans votre compte : la mention générale de 90 jours ne s'applique pas automatiquement à tout."
+    },
+    {
+      "q": "Puis-je prolonger le stockage ou le réinitialiser en regroupant les articles ?",
+      "a": "Demandez une prolongation avant l'échéance affichée et confirmez son prix ainsi que la commande concernée. Ne supposez pas qu'un regroupement, un nouvel achat ou une demande d'assistance remet à zéro le délai des anciens articles."
+    },
+    {
+      "q": "Que faire si la durée de stockage est dépassée ?",
+      "a": "Contactez immédiatement CSSBuy avec l'identifiant de la commande ou du colis. Demandez si les marchandises sont encore disponibles et quelles actions restent possibles. Ne supposez pas qu'elles sont récupérables ou qu'un ancien avis de déstockage prolonge votre délai."
+    },
+    {
+      "q": "Dois-je regrouper tous mes articles dans un seul colis ?",
+      "a": "Comparez un colis groupé à des envois séparés réalistes. Vérifiez compatibilité des articles, dimensions, frais fixes, protection et échéances de stockage. Un colis plus grand n'est pas automatiquement la solution adaptée la moins chère."
+    },
+    {
+      "q": "Retirer les boîtes à chaussures réduit-il toujours les frais ?",
+      "a": "Non. Cela peut réduire le volume, mais le résultat dépend du carton final, de la facturation et des frais d'emballage éventuels. Évaluez l'utilité des boîtes et la protection nécessaire avant de demander leur retrait."
+    },
+    {
+      "q": "L'emballage sous vide convient-il à tous les vêtements ?",
+      "a": "Non. Examinez d'abord la construction, le tissu, la forme et les ornements. Comparez pliage simple, compression légère et sous vide, puis demandez à l'entrepôt de confirmer la méthode appropriée."
+    },
+    {
+      "q": "CSSBuy peut-il expédier des appareils avec batteries ou des liquides ?",
+      "a": "Cela dépend du produit exact, des caractéristiques de la batterie ou du liquide, de la destination et des règles actuelles. Fournissez des spécifications précises et confirmez une ligne admissible avant d'intégrer l'article à un colis mixte."
+    },
+    {
+      "q": "Que vérifier lorsque le suivi ne se met plus à jour ?",
+      "a": "Identifiez la dernière étape confirmée et le transporteur. Conservez le dernier scan avec sa date et consultez les indications de la ligne. Posez votre question depuis le colis concerné ; une absence de scans ne prouve pas à elle seule une perte."
+    },
+    {
+      "q": "L'assurance couvre-t-elle toutes les pertes, détériorations ou difficultés douanières ?",
+      "a": "Ne supposez pas une couverture universelle. Vérifiez la police actuelle de la ligne, le montant assuré, les exclusions, les délais de déclaration et les justificatifs. Conservez les photos, factures et éléments d'emballage demandés."
+    },
+    {
+      "q": "Comment vérifier un coupon CSSBuy, des points ou un taux de change ?",
+      "a": "Vérifiez l'éligibilité, l'expiration, le minimum d'achat, les plafonds et l'utilisation autorisée de la récompense. Comparez paiement final et solde crédité séparément de la remise annoncée. Un coupon ne détermine pas le taux de conversion."
+    },
+    {
+      "q": "Que faire si un lien produit ne fonctionne plus ?",
+      "a": "Rouvrez l'annonce d'origine et vérifiez l'identifiant, le stock et la variante. Demandez de l'aide à CSSBuy si l'importation échoue. Un produit différent derrière un nouveau lien ne doit pas être considéré comme identique sans vérification."
+    }
+  ],
+  "es": [
+    {
+      "q": "¿cssbuys.pro es la web oficial de CSSBuy?",
+      "a": "No. Esta es una web de guías independientes. No acepta pedidos, guarda saldos, toma fotos en el almacén ni organiza envíos. Esos servicios se gestionan a través de CSSBuy."
+    },
+    {
+      "q": "¿Cómo compro un producto a través de CSSBuy?",
+      "a": "Abre el anuncio original y comprueba el vendedor y la variante. Usa después el enlace en CSSBuy. Confirma talla, color, cantidad y cargos vigentes antes de pagar. Si no reconoce el enlace, consulta la opción «Expert Buy»."
+    },
+    {
+      "q": "¿Por qué se pagan por separado el producto y el envío internacional?",
+      "a": "Primero se compra el artículo y se entrega en el almacén chino. El transporte internacional se prepara después de las comprobaciones y del embalaje. Incluye ambas etapas en el presupuesto: el precio del producto no equivale al coste entregado."
+    },
+    {
+      "q": "¿Qué debo incluir en un presupuesto CSSBuy?",
+      "a": "Anota producto, envío dentro de China, posibles comisiones de servicio y pago, cambio de moneda, servicios de almacén, transporte internacional y cargos aplicables en destino. Separa las estimaciones de los importes confirmados y pagados."
+    },
+    {
+      "q": "¿Esta web muestra tarifas CSSBuy en tiempo real?",
+      "a": "No. Nuestras herramientas y ejemplos explican cálculos de peso y coste. Para consultar líneas y tarifas actuales, usa la calculadora oficial con tu destino, las características del artículo y las medidas del paquete embalado."
+    },
+    {
+      "q": "¿Por qué dos paquetes del mismo peso pueden costar distinto?",
+      "a": "Pueden cambiar las dimensiones, el contenido, el destino o las líneas admitidas. Un paquete voluminoso puede tener mayor peso facturable. Compara presupuestos completos con los mismos datos y revisa las reglas de cada línea."
+    },
+    {
+      "q": "¿Cómo calculo el peso volumétrico?",
+      "a": "Multiplica largo, ancho y alto del paquete embalado en las unidades exigidas y divide por el divisor de la línea. Comprueba qué peso se utiliza para cobrar, además de los redondeos y los incrementos aplicables."
+    },
+    {
+      "q": "¿Cuánto tarda una entrega CSSBuy?",
+      "a": "No existe un plazo único. El envío del vendedor, la gestión del almacén, el embalaje, el transporte internacional y la entrega local son etapas distintas. Consulta la estimación actual de la línea y deja margen para variaciones."
+    },
+    {
+      "q": "¿Cuántas fotos QC gratuitas anuncia CSSBuy?",
+      "a": "La página oficial revisada el 4 de noviembre de 2026 anuncia entre 3 y 5 fotos QC gratuitas. Comprueba lo incluido en tu pedido y las opciones de fotos o medidas adicionales antes de solicitarlas."
+    },
+    {
+      "q": "¿Por qué aparece el peso en el almacén, pero no las fotos QC?",
+      "a": "Registrar el peso no significa que la tarea de fotos haya terminado. Revisa el estado y los servicios seleccionados y pregunta por las imágenes en ese pedido. No apruebes el envío si sigue pendiente una duda QC importante."
+    },
+    {
+      "q": "¿Cuánto cuestan las fotos adicionales o las comprobaciones en vídeo?",
+      "a": "Consulta el menú actual o pide a CSSBuy un presupuesto que especifique la vista o medida necesaria. No des por hecho que las fotos, medidas o vídeos adicionales son gratuitos ni que están disponibles para cualquier artículo."
+    },
+    {
+      "q": "¿Las fotos QC demuestran autenticidad o funcionamiento?",
+      "a": "No. Ayudan a comprobar la variante recibida, el estado visible, las medidas y las piezas incluidas. No demuestran todos los materiales, defectos ocultos, el estado de la batería ni el rendimiento a largo plazo."
+    },
+    {
+      "q": "¿Qué hago si las fotos muestran una talla equivocada o daños?",
+      "a": "Guarda los datos del pedido y las fotos relevantes, describe la diferencia visible y contacta pronto con CSSBuy desde ese pedido. Consulta devolución o sustitución antes de retirar embalajes o autorizar el envío internacional."
+    },
+    {
+      "q": "¿Cuánto tiempo tengo para pedir una devolución desde el almacén?",
+      "a": "La FAQ pública de CSSBuy indica condiciones como aceptación del vendedor, menos de siete días en almacén y pago del transporte de devolución. Revisa tu pedido cuanto antes; no es una devolución incondicional para cualquier producto."
+    },
+    {
+      "q": "¿Devolver un artículo es lo mismo que retirar el saldo?",
+      "a": "No. La devolución de un producto afecta al artículo y al vendedor. La retirada de saldo afecta al dinero que ya tienes en la cuenta CSSBuy. Usa la solicitud adecuada y conserva por separado los registros de ambas operaciones."
+    },
+    {
+      "q": "¿Un reembolso vuelve automáticamente a mi tarjeta o banco?",
+      "a": "No lo supongas. Comprueba si se trata de un abono en CSSBuy o de una devolución al método de pago original. Para retirar saldo, confirma la vía disponible, las comisiones y la información de tramitación en la cuenta o con soporte."
+    },
+    {
+      "q": "¿Por qué el importe final del envío puede diferir del anticipo?",
+      "a": "El anticipo se calcula con datos estimados. Las dimensiones, el peso verificado y las condiciones de la línea pueden cambiar el resultado. Compara la factura con la estimación y revisa posibles abonos en CSSBuy sin asumir un reembolso bancario."
+    },
+    {
+      "q": "¿Cuánto tiempo es gratuito el almacenamiento?",
+      "a": "La información oficial de productos distingue 90 días para mercancía normal y 30 para mercancía sensible. Comprueba la clasificación y la fecha límite de cada artículo en tu cuenta; no apliques los 90 días generales a todos los casos."
+    },
+    {
+      "q": "¿Puedo ampliar el almacenamiento o reiniciarlo al agrupar artículos?",
+      "a": "Solicita la ampliación antes de la fecha mostrada y confirma el precio y el pedido afectado. No supongas que agrupar, comprar algo nuevo o preguntar al soporte reinicia el plazo de artículos anteriores."
+    },
+    {
+      "q": "¿Qué hago si mi artículo ha superado el plazo de almacenamiento?",
+      "a": "Contacta inmediatamente con CSSBuy e indica el identificador del pedido o paquete. Pregunta si la mercancía sigue disponible y qué opciones quedan. No supongas que puede recuperarse ni que un aviso antiguo de vaciado concede tiempo adicional."
+    },
+    {
+      "q": "¿Conviene agrupar todos los artículos en un paquete?",
+      "a": "Compara un paquete conjunto con alternativas separadas realistas. Revisa compatibilidad, dimensiones, gastos fijos, protección y plazos de almacenamiento. Un paquete mayor no siempre es la opción adecuada más barata."
+    },
+    {
+      "q": "¿Quitar las cajas de zapatos siempre abarata el envío?",
+      "a": "No. Puede reducir volumen, pero depende del embalaje final, las reglas de cobro y los posibles cargos de preparación. Considera el valor de la caja y la protección necesaria antes de pedir que la retiren."
+    },
+    {
+      "q": "¿El envasado al vacío sirve para toda la ropa?",
+      "a": "No. Revisa primero la confección, el material, la forma y los adornos. Compara doblado normal, compresión suave y vacío, y pide al almacén que confirme qué método es adecuado."
+    },
+    {
+      "q": "¿CSSBuy puede enviar electrónica con baterías o líquidos?",
+      "a": "Depende del producto exacto, los atributos de la batería o del líquido, el destino y las reglas vigentes. Proporciona especificaciones correctas y confirma una línea admitida antes de incluir el artículo en un paquete mixto."
+    },
+    {
+      "q": "¿Qué compruebo cuando el seguimiento no se actualiza?",
+      "a": "Identifica la última etapa confirmada y el transportista, guarda el registro con su fecha y consulta las indicaciones de la línea. Pregunta desde el paquete correspondiente: una pausa en los registros no demuestra por sí sola una pérdida."
+    },
+    {
+      "q": "¿El seguro cubre cualquier pérdida, daño o problema aduanero?",
+      "a": "No presupongas una cobertura universal. Revisa la póliza vigente para tu línea: valor asegurado, exclusiones, plazos de aviso y pruebas. Conserva las fotos, facturas y registros de embalaje exigidos."
+    },
+    {
+      "q": "¿Cómo compruebo cupones CSSBuy, puntos y tipos de cambio?",
+      "a": "Revisa requisitos, caducidad, compra mínima, límites y usos permitidos de la recompensa. Compara el pago final y el saldo recibido por separado del descuento anunciado. Un cupón no determina el tipo de cambio."
+    },
+    {
+      "q": "¿Qué hago cuando un enlace de producto deja de funcionar?",
+      "a": "Abre el anuncio original del vendedor y comprueba identificador, disponibilidad y variante. Pide ayuda a CSSBuy si falla la importación. No consideres idéntico un producto distinto al que llegue un enlace de sustitución sin revisarlo."
+    }
+  ],
+  "it": [
+    {
+      "q": "cssbuys.pro è il sito ufficiale di CSSBuy?",
+      "a": "No. Questo è un sito di guide indipendenti. Non accetta ordini, custodisce saldi, scatta foto in magazzino o organizza spedizioni. Questi servizi vengono gestiti tramite CSSBuy."
+    },
+    {
+      "q": "Come ordino un prodotto tramite CSSBuy?",
+      "a": "Apri l'inserzione originale e controlla venditore e variante, poi usa il link su CSSBuy. Conferma taglia, colore, quantità e costi attuali prima di pagare. Se il link non viene riconosciuto, chiedi informazioni sull'opzione «Expert Buy»."
+    },
+    {
+      "q": "Perché articolo e spedizione internazionale si pagano separatamente?",
+      "a": "L'articolo viene prima acquistato e consegnato al magazzino cinese. Il trasporto internazionale si organizza dopo i controlli e la preparazione del pacco. Prevedi entrambe le fasi: il prezzo del prodotto non è il costo fino alla consegna."
+    },
+    {
+      "q": "Che cosa devo includere in un budget CSSBuy?",
+      "a": "Registra prezzo del prodotto, consegna interna in Cina, eventuali commissioni di servizio e pagamento, conversione valutaria, servizi di magazzino, trasporto internazionale e costi applicabili a destinazione. Separa stime, importi confermati e somme pagate."
+    },
+    {
+      "q": "Questo sito fornisce tariffe CSSBuy in tempo reale?",
+      "a": "No. Strumenti ed esempi spiegano i calcoli di peso e costo. Per linee disponibili e prezzi aggiornati, usa il calcolatore ufficiale con destinazione, caratteristiche degli articoli e misure del pacco imballato."
+    },
+    {
+      "q": "Perché due pacchi dello stesso peso possono costare diversamente?",
+      "a": "Possono differire dimensioni, contenuto, destinazione o linee ammesse. Un pacco ingombrante può avere un peso fatturabile maggiore. Confronta preventivi completi con gli stessi dati e verifica le regole di ogni linea."
+    },
+    {
+      "q": "Come si calcola il peso volumetrico?",
+      "a": "Moltiplica lunghezza, larghezza e altezza del pacco imballato nelle unità richieste, poi dividi per il divisore indicato dalla linea. Verifica quale peso viene fatturato, compresi eventuali arrotondamenti e scaglioni."
+    },
+    {
+      "q": "Quanto impiega una consegna CSSBuy?",
+      "a": "Non esiste un tempo unico per tutti gli ordini. Invio del venditore, gestione in magazzino, imballaggio, trasporto internazionale e consegna locale sono fasi distinte. Consulta la stima attuale della linea scelta e considera possibili variazioni."
+    },
+    {
+      "q": "Quante foto QC gratuite pubblicizza CSSBuy?",
+      "a": "La pagina ufficiale consultata il 4 novembre 2026 pubblicizza 3–5 foto QC gratuite. Verifica cosa comprende il tuo ordine e le opzioni per immagini o misure aggiuntive prima di richiederle."
+    },
+    {
+      "q": "Perché vedo il peso in magazzino ma non le foto QC?",
+      "a": "Il peso registrato non dimostra che le fotografie siano pronte. Controlla stato e servizi selezionati, poi chiedi delle immagini nel relativo ordine. Non approvare la spedizione finché resta una domanda QC importante senza risposta."
+    },
+    {
+      "q": "Quanto costano foto aggiuntive o controlli video?",
+      "a": "Consulta i servizi attuali o chiedi a CSSBuy un preventivo indicando la vista o la misura necessaria. Non presumere che fotografie, misure o video aggiuntivi siano gratuiti o disponibili per ogni prodotto."
+    },
+    {
+      "q": "Le foto QC provano l'autenticità o il funzionamento?",
+      "a": "No. Aiutano a verificare variante ricevuta, condizioni visibili, misure e accessori. Non dimostrano tutti i materiali, i difetti nascosti, lo stato della batteria o le prestazioni nel tempo."
+    },
+    {
+      "q": "Cosa faccio se le foto mostrano taglia sbagliata o danni?",
+      "a": "Salva dettagli dell'ordine e foto pertinenti, descrivi la differenza visibile e contatta presto CSSBuy tramite l'ordine. Chiedi le possibilità di reso o sostituzione prima di rimuovere l'imballaggio o autorizzare l'invio internazionale."
+    },
+    {
+      "q": "Quanto tempo ho per chiedere un reso dal magazzino?",
+      "a": "Le FAQ pubbliche CSSBuy indicano condizioni quali accettazione del venditore, meno di sette giorni in magazzino e pagamento del trasporto di ritorno. Controlla subito l'ordine: non è una promessa di reso incondizionato per ogni prodotto."
+    },
+    {
+      "q": "Restituire un articolo equivale a ritirare il saldo dell'account?",
+      "a": "No. Il reso riguarda l'articolo e il venditore. Il prelievo del saldo riguarda denaro già presente sull'account CSSBuy. Usa la richiesta corretta e conserva separatamente le registrazioni delle due operazioni."
+    },
+    {
+      "q": "Un rimborso torna automaticamente sulla carta o sul conto bancario?",
+      "a": "Non darlo per scontato. Verifica se si tratta di un credito CSSBuy o di un rimborso sul metodo originale. Per ritirare il saldo, conferma modalità disponibili, commissioni e informazioni di elaborazione nell'account o con l'assistenza."
+    },
+    {
+      "q": "Perché il costo finale della spedizione può differire dall'anticipo?",
+      "a": "L'anticipo usa dati stimati. Dimensioni e peso verificati, insieme alle condizioni della linea, possono modificare il calcolo. Confronta il conto finale con la stima e controlla eventuali crediti CSSBuy senza presumere un rimborso bancario."
+    },
+    {
+      "q": "Per quanto tempo il deposito è gratuito?",
+      "a": "Le informazioni ufficiali dei prodotti distinguono 90 giorni per merci ordinarie e 30 per merci sensibili. Controlla classificazione e scadenza nell'account; non applicare automaticamente l'indicazione generale di 90 giorni a ogni articolo."
+    },
+    {
+      "q": "Posso prolungare il deposito o azzerarlo riunendo gli articoli?",
+      "a": "Chiedi una proroga prima della scadenza indicata e conferma prezzo e ordine interessato. Non presumere che riunire articoli, effettuare un nuovo acquisto o contattare l'assistenza faccia ripartire il termine degli articoli precedenti."
+    },
+    {
+      "q": "Cosa faccio se il periodo di deposito è scaduto?",
+      "a": "Contatta immediatamente CSSBuy con l'identificativo dell'ordine o del pacco. Chiedi se la merce è ancora disponibile e quali azioni restano possibili. Non presumere che sia recuperabile o che un vecchio avviso di sgombero conceda altro tempo."
+    },
+    {
+      "q": "Conviene riunire tutti gli articoli in un solo pacco?",
+      "a": "Confronta un pacco unico con alternative separate realistiche. Verifica compatibilità degli articoli, dimensioni, costi fissi, protezione e scadenze. Un pacco più grande non è automaticamente la soluzione adatta meno costosa."
+    },
+    {
+      "q": "Rimuovere le scatole per scarpe riduce sempre la spedizione?",
+      "a": "No. Può ridurre il volume, ma il risultato dipende dal cartone finale, dalle regole tariffarie e dai costi di preparazione. Valuta il valore delle scatole e la protezione delle scarpe prima di richiederne la rimozione."
+    },
+    {
+      "q": "Il sottovuoto è adatto a tutti i capi?",
+      "a": "No. Esamina prima costruzione, tessuto, forma e decorazioni. Confronta normale piegatura, compressione delicata e sottovuoto, poi chiedi al magazzino di confermare il metodo adatto."
+    },
+    {
+      "q": "CSSBuy può spedire elettronica con batterie o liquidi?",
+      "a": "Dipende dal prodotto preciso, dalle caratteristiche della batteria o del liquido, dalla destinazione e dalle regole vigenti. Fornisci specifiche corrette e conferma una linea ammessa prima di includere l'articolo in un pacco misto."
+    },
+    {
+      "q": "Cosa controllo quando il tracking non si aggiorna?",
+      "a": "Identifica l'ultima fase confermata e il corriere, salva l'ultimo evento con data e ora e consulta le indicazioni della linea. Chiedi informazioni dal pacco interessato: l'assenza di scansioni da sola non prova lo smarrimento."
+    },
+    {
+      "q": "L'assicurazione copre ogni perdita, danno o problema doganale?",
+      "a": "Non presumere una copertura universale. Leggi la polizza attuale della linea, compresi valore assicurato, esclusioni, termini di segnalazione e prove. Conserva foto, fatture e documentazione dell'imballaggio richieste."
+    },
+    {
+      "q": "Come verifico coupon CSSBuy, punti e tassi di cambio?",
+      "a": "Controlla requisiti, scadenza, spesa minima, limiti e utilizzi consentiti del premio. Confronta pagamento finale e saldo accreditato separatamente dallo sconto pubblicizzato. Un coupon non determina il tasso di conversione."
+    },
+    {
+      "q": "Cosa faccio se un link prodotto non funziona più?",
+      "a": "Riapri l'inserzione originale e controlla identificativo, disponibilità e variante. Chiedi aiuto a CSSBuy se l'importazione fallisce. Non considerare identico un prodotto diverso raggiunto tramite un link sostitutivo senza verificarlo."
+    }
+  ],
+  "zh": [
+    {
+      "q": "cssbuys.pro 是 CSSBuy 官方网站吗？",
+      "a": "不是。本站提供独立购买和运输指南，不接收订单、不保管账户余额、不拍摄仓库照片，也不安排发货。相关服务需要通过 CSSBuy 办理。"
+    },
+    {
+      "q": "如何通过 CSSBuy 购买商品？",
+      "a": "先打开原始商品页面，核对卖家和所选款式，再将链接用于 CSSBuy 下单。付款前确认尺码、颜色、数量和当前费用。链接无法识别时，可以咨询 Expert Buy 人工代购选项。"
+    },
+    {
+      "q": "为什么商品和国际运输需要分别付款？",
+      "a": "商品先完成购买并送到中国仓库，仓库检查和包裹准备完成后再安排国际运输。预算应覆盖这两个阶段，不能把商品标价直接当作最终送达价格。"
+    },
+    {
+      "q": "CSSBuy 预算应该包括哪些费用？",
+      "a": "记录商品价格、中国国内运费、可能产生的服务费与支付手续费、货币兑换、可选仓库服务、国际运费及适用的目的地费用。把估算、已确认报价和已付金额分开。"
+    },
+    {
+      "q": "本站提供 CSSBuy 实时运费报价吗？",
+      "a": "不提供。本站的工具和示例用于解释重量和费用的计算方法。查询可用线路和现行价格时，请在 CSSBuy 官方计算器中输入目的地、商品属性和包装后的尺寸重量。"
+    },
+    {
+      "q": "为什么相同重量的两个包裹运费不同？",
+      "a": "包裹尺寸、内容、目的地或可选线路可能不同。体积较大的包裹也可能有更高的计费重量。比较时应使用相同输入条件，查看完整报价和每条线路的计费规则。"
+    },
+    {
+      "q": "如何计算体积重？",
+      "a": "按照线路要求的单位，将包装后的长、宽、高相乘，再除以该线路注明的体积重除数。还要确认线路使用实际重量、体积重还是两者较大值，以及进位和计费档位。"
+    },
+    {
+      "q": "CSSBuy 多久能送达？",
+      "a": "所有订单没有统一时效。卖家发货、仓库处理、包装、国际运输和末端派送是不同阶段。应参考所选线路的最新预计时效，并为可能的变化预留时间。"
+    },
+    {
+      "q": "CSSBuy 官方介绍包含多少张免费 QC 照片？",
+      "a": "2026 年 11 月 4 日核查的官方首页介绍为 3–5 张免费 QC 照片。请确认具体订单包含哪些照片，并在申请额外角度或测量前查看对应服务选项。"
+    },
+    {
+      "q": "为什么仓库显示重量，却没有 QC 照片？",
+      "a": "出现重量记录不能证明拍照任务已完成。先查看订单状态和已选服务，再在对应订单中咨询缺少的照片。影响验收的重要问题未解决前，不应直接批准国际发货。"
+    },
+    {
+      "q": "补拍照片或视频检查多少钱？",
+      "a": "查看当前服务菜单，或向 CSSBuy 描述需要的具体角度和测量方式后询价。不能默认补拍照片、测量或视频免费，也不能假设每种商品都提供这些服务。"
+    },
+    {
+      "q": "QC 照片能证明商品真伪或使用性能吗？",
+      "a": "不能。照片有助于检查收到的款式、可见状况、尺寸和配件，但无法证明所有材料、隐藏瑕疵、电池状态或长期使用性能。"
+    },
+    {
+      "q": "仓库照片显示尺码错误或破损怎么办？",
+      "a": "保存订单详情和相关照片，客观描述可见的不符之处，并尽快通过对应订单联系 CSSBuy。拆除包装或批准国际发货前，先确认退货或换货的可行方案。"
+    },
+    {
+      "q": "商品入库后有多久可以申请退货？",
+      "a": "CSSBuy 公开问答列出的条件包括卖家接受退货、商品入库不足七天，以及支付退货运费。请及时核查具体订单；这不是对所有商品无条件退货的承诺。"
+    },
+    {
+      "q": "商品退货与提取账户余额是一回事吗？",
+      "a": "不是。商品退货涉及卖家和具体商品，余额提取涉及已经存入 CSSBuy 账户的资金。应使用相应申请入口，并将两类交易记录分别保存。"
+    },
+    {
+      "q": "退款会自动退回银行卡或原付款渠道吗？",
+      "a": "不能直接假设。先确认该笔交易是退入 CSSBuy 余额，还是退回原支付方式。需要提取余额时，应在账户或客服处核对可用渠道、费用和处理说明。"
+    },
+    {
+      "q": "为什么最终运费可能不同于预付金额？",
+      "a": "预付款根据估算信息计算，最终核实的尺寸、重量和线路条件可能改变结果。应将包裹账单与原估算逐项比较，并检查账户中的差额记录，不能默认是银行卡退款。"
+    },
+    {
+      "q": "免费仓储期限有多久？",
+      "a": "官方商品说明区分普通商品 90 天和敏感商品 30 天。请以账户里具体商品的分类和到期日期核对，不要把一般介绍中的 90 天套用到所有商品。"
+    },
+    {
+      "q": "可以延长仓储，或通过合包重新开始计时吗？",
+      "a": "应在显示的到期日前咨询延期，确认价格和适用订单。不能假设合包、新购买一件商品或向客服咨询，就会重新计算旧商品的仓储期限。"
+    },
+    {
+      "q": "仓储已经到期的商品应该怎么办？",
+      "a": "立即提供订单号或包裹号联系 CSSBuy，询问商品是否仍在仓库，以及目前还有哪些处理方式。不能假设过期商品一定可以找回，也不能把过去的清仓公告当作新的宽限期。"
+    },
+    {
+      "q": "是否应该把所有商品合成一个包裹？",
+      "a": "将合包方案与实际可行的分包方案比较，检查商品兼容性、包装尺寸、固定费用、保护要求和仓储期限。更大的合并包裹不一定是合适方案中最便宜的一个。"
+    },
+    {
+      "q": "拆除鞋盒一定能降低运费吗？",
+      "a": "不一定。拆鞋盒可能减少体积，但最终效果取决于外箱尺寸、计费规则和包装服务费。申请前还要考虑鞋盒本身的用途，以及鞋子需要怎样保护。"
+    },
+    {
+      "q": "所有衣物都适合真空包装吗？",
+      "a": "不适合。先检查衣物结构、面料、版型和装饰配件，再比较普通折叠、轻度压缩与真空包装，并请仓库确认适合的处理方式。"
+    },
+    {
+      "q": "CSSBuy 可以寄带电池的电子产品或液体吗？",
+      "a": "是否可寄取决于具体商品、电池或液体属性、目的地和最新线路规则。应提供准确规格，确认存在合适的运输方式后，再将其加入混合包裹。"
+    },
+    {
+      "q": "物流信息不更新时应该检查什么？",
+      "a": "确认最后一次已知运输阶段和承运商，保存扫描记录及时间，并查看所选线路的说明。咨询时使用对应包裹记录；单凭一段时间没有更新，不能认定包裹丢失。"
+    },
+    {
+      "q": "包裹保险能覆盖所有丢失、破损或海关问题吗？",
+      "a": "不能默认全部覆盖。请查看所选线路的现行保单，核对保额、除外责任、报案期限和证据要求，并保存需要的照片、发票及包装记录。"
+    },
+    {
+      "q": "如何核对 CSSBuy 优惠券、积分和汇率？",
+      "a": "检查适用资格、有效期、最低消费、优惠上限和奖励用途。把最终实付金额及到账余额与宣传折扣分别核对；优惠券不能代表货币兑换汇率。"
+    },
+    {
+      "q": "商品链接打不开应该怎么办？",
+      "a": "重新打开卖家的原始商品页面，核对商品编号、库存和所选款式。若链接解析失败，可向 CSSBuy 咨询。替换链接指向不同商品时，应重新核对，不能直接视为同款。"
+    }
+  ]
+}

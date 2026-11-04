@@ -1,0 +1,36 @@
+{
+  "checked_at": "2026-11-04",
+  "scope": "Buyer-facing metadata and FAQ evidence; conditional policies must be checked against the buyer's account and current route terms.",
+  "sources": [
+    {
+      "url": "https://www.cssbuy.com/?go=m",
+      "publisher": "CSSBuy",
+      "supports": ["The homepage currently advertises 3–5 free QC photos."],
+      "caution": "The general 90-day storage banner does not resolve the separate sensitive-item limit. No price for extra photos or video is inferred."
+    },
+    {
+      "url": "https://m.cssbuy.com/?action=estimates&go=page",
+      "publisher": "CSSBuy",
+      "supports": ["The public Q&A makes return assistance conditional on seller acceptance, fewer than seven days in the warehouse and payment of return shipping.", "The public Q&A describes ordinary storage starting from In Warehouse and warns about overdue stock."],
+      "caution": "A historical clearance notice is not an ongoing grace period. The FAQ asset does not publish a universal storage-extension price."
+    },
+    {
+      "url": "https://m.cssbuy.com/item-664948435986.html",
+      "publisher": "CSSBuy",
+      "supports": ["Product service text distinguishes ordinary items with 90 free storage days and sensitive items with 30 free storage days."],
+      "caution": "The buyer should confirm classification and expiry for their own order."
+    },
+    {
+      "url": "https://m.cssbuy.com/item-micro-19931705646731953271183.html",
+      "publisher": "CSSBuy",
+      "supports": ["Independent current official product-page text repeats the ordinary 90-day versus sensitive 30-day distinction."],
+      "caution": "A marketplace return statement for most products is not an unconditional return guarantee for every order."
+    },
+    {
+      "url": "https://m.cssbuy.com/buyforme",
+      "publisher": "CSSBuy",
+      "supports": ["Ordering begins with the original product link or product search, with Expert Buy offered when search fails.", "Product price and Chinese local delivery are paid before the international shipping stage.", "Warehouse inspection and photographs follow receipt of goods.", "International shipping deposit uses estimated weight, method and destination; final shipping uses carrier-verified size and weight, with the documented difference returned to the CSSBuy account after shipment.", "Tracking and after-sales requests are available from the parcel record.", "Rewards are described separately from currency conversion."],
+      "caution": "The assets do not promise a coupon, exchange rate, payment channel, delivery date or refund-processing time."
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 const CANONICAL_HOST = 'cssbuys.pro';
-const CACHE_VERSION = '20261007-seo-six-languages-v4';
+const CACHE_VERSION = '20261104-buyer-guides-six-languages-v5';
 const STORE_CATEGORIES = {
   "other-stuff": "https://cnfanshp.com/other-stuff/",
   "electronics": "https://cnfanshp.com/electronics/",
@@ -23,43 +23,6 @@ function canonicalPath(pathname) {
   return pathname;
 }
 
-const ANALYTICS_SCRIPT = `<script>
-document.addEventListener('click',function(event){
-  if(!event.target.closest)return;
-  var link=event.target.closest('a[href]');
-  if(!link)return;
-  try{
-    var target=new URL(link.href,location.href);
-    if((target.hostname==='cnfanshp.com'||target.hostname==='www.cnfanshp.com')&&typeof gtag==='function'){
-      gtag('event','store_outbound_click',{
-        link_url:target.href,
-        link_text:(link.textContent||'').trim().slice(0,100),
-        page_location:location.href,
-        language:document.documentElement.lang,
-        link_type:target.pathname==='/AllProducts/'?'catalog':target.pathname.indexOf('/AllProducts/')===0?'product':'category',
-        item_id:target.pathname.indexOf('/AllProducts/')===0?target.pathname.split('/').pop().replace('.html',''):'',
-        transport_type:'beacon'
-      });
-    }
-  }catch(_error){}
-});
-document.addEventListener('submit',function(event){
-  var form=event.target;
-  if(!form.matches || !form.matches('form[role="search"]') || typeof gtag!=='function')return;
-  try{
-    var target=new URL(form.action,location.href);
-    if(target.hostname!=='cnfanshp.com')return;
-    var input=form.querySelector('[name="keywords"]');
-    gtag('event','store_search',{
-      search_term:(input?input.value:'').trim().slice(0,150),
-      language:document.documentElement.lang,
-      page_location:location.href,
-      transport_type:'beacon'
-    });
-  }catch(_error){}
-});
-</script>`;
-
 export default {
   async fetch(request, env, ctx) {
     const url = new URL(request.url);
@@ -70,7 +33,7 @@ export default {
       url.hostname = CANONICAL_HOST;
       url.port = '';
       url.pathname = finalPath;
-      return Response.redirect(url.toString(), 301);
+      return Response.redirect(url.toString(), 308);
     }
 
     const category = /^\/categories\/([^/]+)\/?$/.exec(url.pathname);
@@ -92,26 +55,15 @@ export default {
     const headers = new Headers(response.headers);
     headers.set('x-content-type-options', 'nosniff');
     headers.set('referrer-policy', 'strict-origin-when-cross-origin');
-    headers.set('cache-control', 'public, max-age=300, s-maxage=86400, stale-while-revalidate=604800');
-    if (url.pathname === '/sitemap.xml') headers.set('content-type', 'application/xml; charset=UTF-8');
-    if (url.pathname === '/robots.txt' || url.pathname === '/sitemap.txt') headers.set('content-type', 'text/plain; charset=UTF-8');
+    headers.set('cache-control', response.status === 200 ? 'public, max-age=300, s-maxage=86400, stale-while-revalidate=604800' : 'no-store');
+    if (response.status === 200 && url.pathname === '/sitemap.xml') headers.set('content-type', 'application/xml; charset=UTF-8');
+    if (response.status === 200 && (url.pathname === '/robots.txt' || url.pathname === '/sitemap.txt')) headers.set('content-type', 'text/plain; charset=UTF-8');
 
-    let finalResponse = new Response(response.body, {
+    const finalResponse = new Response(response.body, {
       status: response.status,
       statusText: response.statusText,
       headers
     });
-
-    if (headers.get('content-type')?.includes('text/html')) {
-      finalResponse.headers.delete('content-length');
-      finalResponse = new HTMLRewriter()
-        .on('body', {
-          element(element) {
-            element.append(ANALYTICS_SCRIPT, { html: true });
-          }
-        })
-        .transform(finalResponse);
-    }
 
     if (request.method === 'GET' && finalResponse.status === 200) {
       ctx.waitUntil(caches.default.put(cacheKey, finalResponse.clone()));
