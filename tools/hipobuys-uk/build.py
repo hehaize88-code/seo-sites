@@ -92,8 +92,17 @@ root.main.insert(1,block)
 for a in root.find_all('a',href=True):
     if a['href']=='https://hipobuys.de/de/':a['href']=route('de','home')
 nav=root.find('nav')
-if nav and not nav.find('a',string='Articles'):
-    a=root.new_tag('a',href='/guides');a.string='Articles';nav.append(a)
+if nav:
+    guide_links=nav.find_all('a',href='/guides')
+    if guide_links:
+        guide_links[0].string='Articles'
+        for duplicate in guide_links[1:]:duplicate.decompose()
+    else:
+        a=root.new_tag('a',href='/guides');a.string='Articles';nav.append(a)
+for old in root.select('#november-guide-styles'):old.decompose()
+style=root.new_tag('style',id='november-guide-styles')
+style.string='''#november-guides .grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:18px}#november-guides .guide-tile{min-height:0;padding:22px}#november-guides .guide-tile h3{margin:0 0 12px;font-size:23px;line-height:1.25}#november-guides .guide-tile p{margin:0}#november-guides .locale-nav{display:flex;flex-wrap:wrap;gap:8px;margin:18px 0}#november-guides .locale-nav a{padding:5px 10px;border:1px solid #ded6c9;border-radius:6px;text-decoration:none}#november-guides .locale-nav a[aria-current]{background:#0d7468;color:white}@media(max-width:700px){#november-guides .grid{grid-template-columns:1fr}#november-guides .guide-tile{padding:18px}}'''
+root.head.append(style)
 (SITE/'index.html').write_text(str(root))
 # A standalone, crawlable language directory.
 save('/languages',shell('en','languages','Hipobuy UK language editions','The same buyer guides in eight languages.','<section class="catalogue">'+language_nav('en','home')+'</section>','CollectionPage'))
