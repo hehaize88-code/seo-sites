@@ -11,6 +11,17 @@ const LEGACY_REDIRECTS = new Map([
   ["/hipobuy-uk-qc-w2c-shipping-check-2026-07-10", "/hipobuy-uk-w2c-qc-shipping-workflow-2026"],
   ["/daily-seo/hipobuy-uk-vat-qc-parcel-guide-2026-07-09", "/hipobuy-uk-vat-customs-guide-2026"],
   ["/en", "/en/"],
+  ["/articles", "/guides"],
+  ["/en/articles", "/guides"],
+  ["/en/articles/", "/guides"],
+]);
+
+// Retain the established German migration, while serving the new UK-specific
+// German edition locally. New translated guides must not redirect to missing pages.
+const GERMAN_LEGACY_PATHS = new Set([
+  "/de", "/de/", "/de/hipobuy-kosten", "/de/hipobuy-kosten/",
+  "/de/hipobuy-gutschein", "/de/hipobuy-gutschein/", "/de/qc-fotos", "/de/qc-fotos/",
+  "/de/w2c-links", "/de/w2c-links/", "/de/versand-aus-china", "/de/versand-aus-china/",
 ]);
 
 const SECURITY_HEADERS = {
@@ -32,7 +43,7 @@ function permanentRedirect(url, pathname, hostname = CANONICAL_HOST) {
 }
 
 function cleanPathname(pathname) {
-  if (pathname === "/index.html") return "/";
+  if (pathname.endsWith("/index.html")) return pathname.slice(0, -10);
   return pathname.endsWith(".html") ? pathname.slice(0, -5) : pathname;
 }
 
@@ -46,7 +57,7 @@ export default {
       return permanentRedirect(url, legacyTarget || cleanPath);
     }
 
-    if (cleanPath === "/de" || cleanPath === "/de/" || cleanPath.startsWith("/de/")) {
+    if (GERMAN_LEGACY_PATHS.has(cleanPath)) {
       return permanentRedirect(url, cleanPath, "hipobuys.de");
     }
 

@@ -1,0 +1,8 @@
+translations/
+__pycache__/
+prepare.py
+translate.py
+review.py
+faq.py
+curated.py
+content/en/*.html

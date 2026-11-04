@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-
 Sitemap: https://hipobuys.uk/sitemap.xml
