@@ -19,13 +19,17 @@
     var url;
     try { url = new URL(link.href, window.location.href); } catch (error) { return; }
     if (url.hostname !== 'cnfanssp.com' && url.hostname !== 'www.cnfanssp.com') return;
-    track('open_main_site', {
+    var details = {
       link_url: url.href,
       link_domain: url.hostname,
       link_text: (link.textContent || link.getAttribute('aria-label') || '').trim().slice(0, 100),
       click_location: link.dataset.location || 'article_link',
       product_id: link.dataset.productId || ''
-    });
+    };
+    track('open_main_site', details);
+    if (details.product_id && url.pathname === '/AllProducts/' + details.product_id + '.html') {
+      track('product_outbound', details);
+    }
   }
   document.addEventListener('click', outbound);
   document.addEventListener('auxclick', outbound);

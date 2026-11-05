@@ -12,9 +12,11 @@ python tools/cssbuys-store/validate.py
 node tools/cssbuys-store/behavior.test.mjs
 ```
 
-Production contains eight complete language routes (English at `/`, plus de, fr, es, it, pl, nl and pt). Each has a homepage, guide index, FAQ, 17 full article pages and 10 product reference pages. Language switches retain the corresponding page. The sitemap includes 240 canonical pages. Legacy redirects and intentionally excluded historical pages remain intact.
+Production contains eight complete language routes (English at `/`, plus de, fr, es, it, pl, nl and pt). Each has a homepage, guide index, FAQ, 19 full article pages and 10 product reference pages. Language switches retain the corresponding page. The sitemap includes 256 canonical pages. Legacy redirects and intentionally excluded historical pages remain intact.
 
 Edit article fragments in `articles/<language>/`, article metadata and `ui.<language>.json` before building. Seven priority titles and the new article openings have explicit reviewed overrides. Product reference prices are USD values observed on the source catalogue on 2026-10-08, not checkout offers. They exclude shipping and other charges. Product names identify catalogue listings and do not certify authenticity.
+
+The two hand-authored parcel and tracking guides live in `editorial/<language>.json`. Their titles and copy are rendered directly, alongside the reviewed homepage actions and guide summaries in `editorial/refresh.json`.
 
 ## Translation workflow
 
@@ -28,6 +30,6 @@ Models prepare drafts. Review factual statements, negation, numbers, brand names
 
 ## Analytics and acceptance checks
 
-The existing GA4 measurement ID is unchanged. `open_main_site` identifies page language, placement and product ID. Search submissions also emit `search` with the query. Navigation has a short bounded fallback if analytics is slow or blocked. The worker skips adding a duplicate script to newly generated pages.
+The existing GA4 measurement ID is unchanged. `open_main_site` identifies page language, placement and product ID. Product-detail outbound links additionally emit `product_outbound` when the linked item ID matches the destination. Search submissions also emit `search` with the query. Navigation has a short bounded fallback if analytics is slow or blocked. The worker skips adding a duplicate script to newly generated pages.
 
 Check live homepage search, a product link, a localized article and language switching after deployment. Confirm sitemap availability and submit it through the site's existing Search Console property. Index requests do not guarantee indexing or rankings.

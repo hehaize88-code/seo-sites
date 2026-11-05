@@ -1,0 +1,90 @@
+{
+  "parcel": {
+    "title": "Jak zlecić wysyłkę paczki w CSSBuy? Lista kontrolna",
+    "description": "Sprawdź zakupy w magazynie, porównaj warianty pakowania i wagę rozliczeniową. Zobacz, co zatwierdzasz przed wysyłką i gdzie szukać numeru paczki.",
+    "lead": "Aby zlecić wysyłkę z magazynu CSSBuy, wejdź do sekcji My intl order na swoim koncie. Zaznacz rzeczy, które mają pojechać razem, rozpocznij zlecenie i sprawdź dostępne metody dostawy dla swojego adresu. Zanim zatwierdzisz wybór, warto rozpisać zawartość paczki na konkretnym przykładzie. Załóżmy, że czekają na ciebie buty i bluza. Czy oba zakupy są gotowe? Czy zależy ci na oryginalnym pudełku? Czy podane w kalkulatorze wymiary uwzględniają ochronę butów? Od odpowiedzi zależy, który wariant warto zamówić.",
+    "sections": [
+      [
+        "Wybierz właściwe pozycje z magazynu",
+        "Zacznij od numerów zamówień. Otwórz szczegóły butów i dopasuj numer pozycji do zdjęć magazynowych. Porównaj model, wariant, rozmiar na metkach obu butów i liczbę dodatków z wybraną ofertą. Przy bluzie przyjrzyj się kolorowi, metce i ewentualnemu uszkodzeniu. Zdjęcie katalogowe pokazuje produkt sprzedawcy; do decyzji o wysyłce potrzebujesz zdjęć egzemplarza, który trafił do magazynu. Zapisanie identyfikatorów przy obu nazwach pozwala później odróżnić tę parę od innej w tym samym rozmiarze.",
+        "Jeśli wątpliwość dotyczy rozmiaru bluzy, poproś o konkretny pomiar. Przy szerokości pod pachami ubranie powinno leżeć płasko, a na zdjęciu powinny być widoczne oba końce miarki. Porównaj wynik ze swoją bluzą mierzoną tak samo. Jeśli metka lub wymiary wskazują na pomyłkę i rozważasz zwrot, sprawdź zasady sprzedawcy w szczegółach zakupu. Zostaw pozycję poza zleceniem do czasu podjęcia decyzji. Buty możesz dalej uwzględniać w symulacji, nawet jeśli przesyłkę ostatecznie zlecisz później."
+      ],
+      [
+        "Porównaj jedną wspólną paczkę z dwiema osobnymi",
+        "Przygotuj dwie wyceny z tym samym adresem docelowym. W pierwszej umieść bluzę i buty w jednym kartonie, w drugiej policz każdą paczkę osobno i dodaj obie kwoty. Zwróć uwagę, które usługi są doliczane dla każdego kartonu. Porównuj rozwiązania o podobnym poziomie ochrony, bo przesyłka bez zabezpieczenia butów i przesyłka z dodatkowym usztywnieniem odpowiadają na różne potrzeby. Odnotuj też, czy wybrana linia dopuszcza cały zestaw i jego przewidywane wymiary.",
+        "Wspólna paczka bywa wygodna, gdy oba zakupy przeszły kontrolę jakości, mają dotrzeć do jednej osoby, a karton pomieści pudełko i złożoną bluzę. Rozdzielenie warto rozważyć, jeśli decyzja o zwrocie jednego zakupu nadal jest otwarta albo dla któregoś przedmiotu pojawia się ograniczenie wybranej linii. Wyobraź sobie, że bluza leży na delikatnej cholewce. Sam fakt, że wszystko zmieści się w jednym pudełku, nie odpowiada jeszcze na pytanie, w jakim stanie zawartość dotrze na miejsce."
+      ],
+      [
+        "Napisz, które pudełko zachować i co zabezpieczyć",
+        "Rozróżnij oryginalne pudełko po butach i zewnętrzny karton transportowy. Jeśli buty mają być prezentem, poproś wyraźnie o zachowanie oryginalnego pudełka i zabezpieczenie jego narożników. W uwadze podaj numer zamówienia butów. Jeśli pudełko jest dla ciebie zbędne, zaznacz, że zgadzasz się na jego usunięcie, i ustal sposób ochrony nosków oraz cholewek. W jednym zleceniu nie zostawiaj dwóch sprzecznych uwag, na przykład polecenia wyrzucenia wszystkich pudełek obok prośby o zachowanie tego konkretnego.",
+        "Przy ubraniach zastanów się, co można bezpiecznie złożyć lub ścisnąć. Gruby nadruk, usztywniany element albo delikatna aplikacja mogą źle znieść mocny nacisk. Dostępne opcje sprawdzaj na ekranie zlecenia, a przy nietypowym przedmiocie zapytaj o pakowanie przed zatwierdzeniem. Ochrona dodaje materiału, więc może zmienić końcowe wymiary. Zapisz, czy w symulacji uwzględniasz całe pudełko producenta, samą parę po przepakowaniu czy dodatkowo wzmocniony karton. Bez tego kolejny pomiar trudno odnieść do pierwszej wyceny."
+      ],
+      [
+        "Policz wagę rozliczeniową na przykładzie paczki 2 kg",
+        "Przyjmij roboczo, że zapakowana paczka waży 2 kg, a karton mierzy 40 × 30 × 20 cm. Jego objętość wynosi 24 000 cm³. Jeżeli zasady konkretnej linii przewidują dzielnik 6000 przy wymiarach w centymetrach i wyniku w kilogramach, w tym przykładzie otrzymujesz 4 kg wagi objętościowej. Gdy ta sama linia porównuje wagę rzeczywistą z objętościową i wybiera wyższą, do dalszego rozliczenia przyjmuje się 4 kg. Sprawdź następnie progi i sposób zaokrąglania opisane przy danej usłudze.",
+        "Dla drugiego wariantu przyjmij tę samą podstawę kartonu i wysokość 15 cm. Objętość zmniejszy się do 18 000 cm³, co przy tym samym przykładowym dzielniku daje 3 kg. To wskazówka, jaki wpływ ma wysokość, a nie gotowa różnica w cenie. Inna linia może stosować inne reguły, a usunięcie pudełka nie musi przynieść zakładanych wymiarów. Zapisz oba warianty obok siebie z datą kalkulacji. Jeżeli pole w kalkulatorze przyjmuje gramy, dla rzeczywistych 2 kg wpisz 2000."
+      ],
+      [
+        "Sprawdź adres, warunki linii i treść zlecenia",
+        "Przeczytaj adres tak, jak zobaczy go osoba doręczająca. Zwróć uwagę na nazwisko odbiorcy, nazwę ulicy, numer domu i mieszkania, miejscowość, kod pocztowy, kraj i telefon kontaktowy. Jeśli formularz ma osobne pole na dodatkowe szczegóły, upewnij się w podsumowaniu, że numer mieszkania faktycznie został zapisany. Gdy paczkę odbiera inna osoba, zapytaj ją o poprawną pisownię adresu, zamiast przenosić z pamięci dane starszego zamówienia. Przed potwierdzeniem zmień też nieaktualny numer telefonu.",
+        "Następnie porównaj linie widoczne dla właściwego kraju i faktycznej zawartości paczki. Sprawdź ograniczenia dotyczące przedmiotów i wymiarów, dostępność śledzenia oraz opis dodatkowych usług, które chcesz wybrać. Wpisując informacje o zawartości, korzystaj z rzeczywistych pozycji zamówienia. Zapisz nazwę linii, usługi pakowania, kwotę i listę obu artykułów. Zrzut podsumowania najlepiej zachować razem z numerami zamówień, aby łatwo wskazać, jaką konfigurację zaakceptowano, gdy później zmienią się wymiary kartonu."
+      ],
+      [
+        "Odróżnij zaliczkę od ostatecznego kosztu",
+        "W opisie procesu CSSBuy kwota pobierana na etapie zlecania wysyłki międzynarodowej jest zaliczką obliczaną między innymi z przewidywanej wagi, kierunku i wybranej metody transportu. Ostateczne rozliczenie opiera się na rozmiarze i wadze zweryfikowanych przez przewoźnika. Oddziel w swoim zestawieniu koszt towarów, transport od sprzedawcy do magazynu, usługi pakowania i przewóz zagraniczny. Wtedy łatwiej ustalisz, która pozycja zmieniła się względem kalkulacji i o którą warto zapytać obsługę.",
+        "Jeżeli końcowa wycena odbiega od przewidywań, najpierw porównaj tę samą linię, te same usługi i tę samą walutę. Następnie sprawdź różnice w wymiarach, wadze rzeczywistej i progu wagowym. Zdjęcie samych butów na wadze nie pokazuje masy kompletu z bluzą, pudełkiem i zabezpieczeniem. Jeśli dane w zestawieniu nadal się nie zgadzają, zapytaj o pomiar gotowego kartonu i podstawę rozliczenia linii. W wiadomości podaj numer paczki, aby odpowiedź odnosiła się do twojej przesyłki.",
+        "Warto mieć pod ręką kartkę z trzema liczbami: masa otrzymana od magazynu, długość najdłuższego boku gotowego kartonu i kwota pobrana przy zleceniu. Jeżeli pojawia się różnica, możesz poprosić o brakujące dane bez ponownego opisywania całych zakupów. Przykładowo sam wzrost masy o kilkadziesiąt gramów nie wyjaśnia, czy przekroczono kolejny próg. Odczytaj próg z warunków dokładnie tej linii, którą wybrano, a następnie sprawdź, po której stronie progu leży gotowa przesyłka."
+      ],
+      [
+        "Po złożeniu zlecenia zachowaj właściwy numer",
+        "Zapisz wewnętrzny numer paczki oraz informację, które pozycje obejmuje. Po nadaniu wejdź do My Parcel i skorzystaj z przypisanego do paczki numeru śledzenia. Numer chińskiej przesyłki od sprzedawcy może nadal pokazywać doręczenie do magazynu. To osobny odcinek drogi. Jeśli dostrzeżesz pomyłkę w adresie lub wybranej pozycji, skontaktuj się przez właściwą kartę paczki i zapytaj o dostępne działania na obecnym etapie.",
+        "Jeśli zmieniasz zdanie po potwierdzeniu, opisz obsłudze jedną konkretną zmianę. Podaj dotychczasowy wybór, oczekiwany wariant i numer zamówienia, którego to dotyczy. Poproś o potwierdzenie możliwości wykonania zmiany przed wysyłką. Samo wysłanie prośby nie rozstrzyga, czy karton można jeszcze przepakować. Zachowaj odpowiedź w historii tej samej paczki zamiast zakładać drugie zlecenie na te same pozycje.",
+        "Na koniec pozostaw sobie krótką notatkę: które zakupy jadą, co miało stać się z pudełkiem, jakie były przewidywane wymiary i dlaczego wybrano daną linię. Przy następnym zamówieniu taka notatka daje lepsze porównanie niż sama zapamiętana cena. Wiesz dzięki niej, czy zmienił się koszt podobnej przesyłki, czy porównujesz inne pakowanie, inny gabaryt albo dodatkową usługę."
+      ]
+    ]
+  },
+  "tracking": {
+    "title": "Śledzenie CSSBuy nie aktualizuje się? Sprawdź paczkę w My Parcel",
+    "description": "Znajdź numer śledzenia CSSBuy, odróżnij etykietę od odbioru paczki i sprawdź, kiedy szukać drugiego numeru lub napisać do obsługi.",
+    "lead": "Jeśli śledzenie paczki CSSBuy od pewnego czasu wygląda tak samo, zacznij od ostatniego konkretnego zdarzenia. Kto je zarejestrował? Jakiego numeru dotyczy? Czy przewoźnik potwierdził fizyczny odbiór paczki, czy otrzymał dopiero dane do etykiety? Odpowiedzi znajdziesz, zestawiając kartę My Parcel z historią podaną przez przewoźnika. Poniżej przejdziesz tę drogę krok po kroku, od chińskiego zamówienia do ewentualnego kontaktu z firmą doręczającą przesyłkę w twojej miejscowości.",
+    "sections": [
+      [
+        "Ustal, czy sprawdzasz odcinek krajowy czy międzynarodowy",
+        "Po zakupie sprzedawca wysyła towar do magazynu CSSBuy w Chinach. Ten odcinek może mieć własny numer śledzenia i zakończyć się doręczeniem, zanim w ogóle zlecisz wysyłkę za granicę. W szczegółach zamówienia sprawdź, czy numer dotyczy dostawy od sprzedawcy do magazynu. Następnie obejrzyj szczegóły przyjętej pozycji i zdjęcia, jeśli są dostępne. Informacja, że towar trafił do magazynu, pomaga połączyć właściwe zamówienie z późniejszą wysyłką, ale nie określa jeszcze położenia międzynarodowej paczki.",
+        "Wyobraź sobie, że kupujesz buty i bluzę u dwóch sprzedawców. Buty docierają wcześniej, a bluzę magazyn przyjmuje później. Jeśli połączysz oba zakupy, mają wspólny dalszy przebieg. Jeśli zlecisz wysyłkę tylko butów, bluza pozostaje osobną pozycją. Porównaj zawartość paczki z tym, na co czekasz. Przy kilku podobnych zamówieniach łatwo otworzyć numer sprzedawcy od właściwego modelu, ale od innego egzemplarza niż ten, który wyjechał za granicę."
+      ],
+      [
+        "Odszukaj właściwy numer na karcie My Parcel",
+        "Po wysyłce otwórz My Parcel w swoim panelu użytkownika CSSBuy. Znajdź odpowiednią paczkę po zawartości, dacie zlecenia i kraju doręczenia. Zapisz jej identyfikator wewnętrzny oraz osobno numer śledzenia przypisany do przesyłki. Pierwszego użyjesz w rozmowie z CSSBuy, drugi służy przewoźnikowi do wyszukania zdarzeń. Jeśli obok podano przewoźnika lub odnośnik do historii, skorzystaj z niego, zachowując nazwę usługi. Przepisując numer ręcznie, łatwo pomylić podobnie wyglądające litery i cyfry.",
+        "Jeśli na karcie masz jedynie potwierdzenie zlecenia, przeczytaj opis etapu i ewentualne uwagi do paczki. Możliwe, że widzisz dane o przygotowaniu przesyłki, a nie jej nadaniu. Sprawdź, czy konto wskazuje czynność do wykonania, na przykład potwierdzenie szczegółu zamówienia. W razie wątpliwości zapytaj o etap przygotowania, podając wewnętrzny identyfikator. Numer krajowy skopiowany z zakupu butów albo kod innej paczki z podobnego dnia nie zastąpi brakującego numeru międzynarodowego."
+      ],
+      [
+        "Przeczytaj, co oznacza ostatni widoczny komunikat",
+        "Komunikat w rodzaju „utworzono etykietę” albo „otrzymano dane przesyłki” oznacza zarejestrowanie informacji elektronicznej. Z kolei wpis o przyjęciu przez przewoźnika lub skan w konkretnym oddziale potwierdza zarejestrowanie fizycznego zdarzenia. Otwórz pełną historię i poszukaj tekstu źródłowego. Ogólne tłumaczenie „w drodze” potrafi obejmować bardzo różne etapy. Jeśli jedyny wpis dotyczy etykiety, właściwe pytanie brzmi, czy istnieje potwierdzenie przekazania paczki przewoźnikowi. Daty jej odlotu nie da się ustalić z tego jednego wpisu.",
+        "Zanotuj datę i godzinę ostatniego zdarzenia oraz strefę czasową, o ile została podana. Czas aktualizacji strony może się różnić od rzeczywistego czasu skanu. Dwa serwisy mogą też pokazywać ten sam skan w czasie lokalnym różnych krajów, więc porównuj zdarzenia po rodzaju i miejscu. Jeśli lokalizacja jest ogólna, zachowaj podaną nazwę. Przypisanie paczki do konkretnego lotniska tylko dlatego, że podobną trasą szła inna przesyłka, utrudni późniejsze wyjaśnienie."
+      ],
+      [
+        "Sprawdź przekazanie do lokalnej firmy doręczającej",
+        "Na niektórych trasach ostatni odcinek dostawy obsługuje inna firma, czasem z własnym numerem przesyłki. Szukaj nazwy partnera lub drugiego numeru w historii pierwszego przewoźnika i w danych My Parcel. Jeśli jest podany, wpisz go na oficjalnej stronie wymienionej firmy. Zapisz oba numery przy tym samym identyfikatorze CSSBuy. Gdy lokalna firma już rozpoznaje numer, zwróć uwagę na treść zdarzenia. Może mieć dane w systemie przed faktycznym odbiorem kartonu.",
+        "Jeśli pierwszy przewoźnik podaje, że paczkę przekazano dalej, a nowy numer nie jest widoczny, odnotuj dokładny tekst i nazwę linii. Zapytaj CSSBuy, który operator ma doręczyć tę konkretną przesyłkę i czy udostępnił numer krajowy. Zgadywanie po długości kodu lub sprawdzanie kolejnych przewoźników bez związku z przesyłką będzie mało pomocne. Gdy otrzymasz nowy numer, wróć do osi czasu i dopisz źródło, które powiązało oba kody."
+      ],
+      [
+        "Odróżnij brak nowego skanu od zdarzenia wymagającego reakcji",
+        "Jeżeli ostatni wpis opisuje zwykły etap przewozu, porównaj go z zakresem czasu wyświetlonym dla wybranej linii i sprawdź, od którego etapu jest liczony. Data zapłaty za towar, zlecenie wysyłki i przekazanie paczki przewoźnikowi to różne początki. Z samej przerwy między skanami trudno ustalić, gdzie fizycznie znajduje się karton. W takiej sytuacji interesuje cię ostatni potwierdzony ruch i to, czy kolejny operator zdążył już odnotować przejęcie.",
+        "Inaczej postępuj przy komunikacie o niedokładnym adresie, nieudanej próbie doręczenia lub oczekiwaniu na dokumenty. Wejdź bezpośrednio na oficjalną stronę przewoźnika lub do konta CSSBuy, ustal numer objęty komunikatem i przeczytaj dostępne instrukcje. Jeśli pojawia się status doręczenia do odbiorcy, a paczki nie ma, sprawdź wskazany punkt odbioru, lokalizację i udostępnione potwierdzenie. Zachowaj datę oraz tekst zdarzenia. Numer telefonu, adres i zdjęcie całej etykiety przekazuj tylko wtedy, gdy są rzeczywiście potrzebne w prywatnym kanale obsługi."
+      ],
+      [
+        "Przykład z dwoma numerami i jedną parą butów",
+        "Załóżmy, że przy zamówieniu butów widzisz „doręczono” w Chinach, na karcie My Parcel jest numer A, a u przewoźnika A ostatni wpis brzmi „przesłano dane”. Na tym etapie masz potwierdzenie dostawy krajowej do magazynu i zarejestrowania międzynarodowej przesyłki w systemie. Nie widzisz jeszcze skanu odbioru dla A. Nie reklamuj niedoręczenia pod swoim polskim adresem na podstawie chińskiego komunikatu. Zapytaj o potwierdzenie wydania paczki obsługującej ją linii.",
+        "W drugim wariancie A ma już skan w kraju docelowym i odsyła do operatora lokalnego z numerem B. Historia B pokazuje próbę doręczenia oraz prośbę o kontakt w sprawie numeru mieszkania. Porównaj dane adresowe z potwierdzeniem zamówienia i postępuj zgodnie z oficjalnymi instrukcjami lokalnej firmy. Gdy zgłaszasz sprawę również do CSSBuy, dołącz zdarzenie dla B i informację o tym, skąd pochodzi drugi numer. To pozwala uniknąć powrotu do dawno zakończonego etapu w magazynie.",
+        "W obu wariantach dobrze sprawdza się prosty zapis w czterech kolumnach: numer, operator, ostatnie zdarzenie, informacja potrzebna do następnego kroku. Dla A może brakować potwierdzenia odbioru. Dla B informacja o miejscu doręczenia może być kompletna, a do uzupełnienia pozostaje jedynie adres. Jeśli czekasz na kilka paczek, dopisz obok zawartość lub własną krótką nazwę. Dzięki temu zrzut z próby doręczenia butów nie trafi przez pomyłkę do zgłoszenia dotyczącego osobno wysłanej bluzy."
+      ],
+      [
+        "Podaj obsłudze pytanie, na które można konkretnie odpowiedzieć",
+        "Wybierz właściwą kartę paczki w My Parcel i dołącz notatkę do tej przesyłki. Przykład: „Paczka CSSBuy [ID], linia [nazwa], kraj odbioru [kraj]. Na stronie przewoźnika pod numerem [A] ostatni wpis to [oryginalny tekst] z [data, godzina i strefa]. W panelu nie widzę kolejnej rejestracji. Czy możecie sprawdzić, czy przewoźnik potwierdził odbiór?”. Jeśli sprawa dotyczy przejęcia przez firmę lokalną, zamiast pytania o odbiór w Chinach poproś o jej nazwę i powiązany numer.",
+        "Dołącz zrzut z ostatnim czytelnym komunikatem, a zbędne dane osobowe wykadruj. Zapisz, jaką czynność już wykonujesz, na przykład sprawdzenie obu numerów u podanych przewoźników lub kontakt po próbie doręczenia. Przy dalszej wymianie wiadomości trzymaj się tego samego wątku. Jeśli ktoś pyta, od kiedy przesyłka nie zmienia statusu, podaj datę ostatniego zdarzenia i datę jego ostatniego sprawdzenia. Dzięki temu adresat rozróżni przewóz bez nowej publicznej aktualizacji od sytuacji, w której strona przewoźnika już pokazuje nowy skan, a zapisany wcześniej zrzut po prostu się zdezaktualizował.",
+        "Po odpowiedzi dopisz nowy numer, wyjaśniony etap i ewentualną czynność, która pozostała po twojej stronie. Tak sporządzona historia jest przydatna również wtedy, gdy dalszą obsługę przejmuje inna osoba."
+      ]
+    ]
+  }
+}

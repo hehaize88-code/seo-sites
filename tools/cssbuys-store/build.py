@@ -4,7 +4,8 @@ import json
 from pathlib import Path
 import re
 import xml.etree.ElementTree as ET
-from bs4 import BeautifulSoup
+from editorial import (COPY, NEW_ARTICLES, PARCEL, POINTS, QC, REVISED, SHEET, SHIPPING, SHOES,
+                       TRACKING, UPDATED, add_reviewed_articles, article_body, first_screen, source_links)
 
 BASE = Path(__file__).resolve().parent
 OUT = BASE.parents[1] / 'cssbuys-store'
@@ -19,7 +20,7 @@ OPENINGS = json.loads((BASE / 'reviewed-openings.json').read_text())
 PRODUCTS = json.loads((BASE / 'products.json').read_text())
 BY_ID = {x['id']: x for x in PRODUCTS}
 FEATURED = ['3400', '3401', '3402', '3399']
-PRIORITY = ['cssbuy-shoe-sizing-qc-checklist', 'qc-guide', 'cssbuy-spreadsheet', 'cssbuy-shipping-calculator-estimate', 'cssbuy-fees-payment-total-cost', 'cssbuy-shoe-finds-price-sizing', 'cssbuy-hoodie-finds-sizing-fabric']
+PRIORITY = [SHEET, QC, PARCEL, TRACKING, SHIPPING, SHOES, 'cssbuy-fees-payment-total-cost', 'cssbuy-shoe-finds-price-sizing', 'cssbuy-hoodie-finds-sizing-fabric']
 ORDER = PRIORITY + [s for s in META if s not in PRIORITY]
 CATEGORY_PATHS = ['shoes', 't-shirts', 'hoodies-sweaters', 'jackets', 'pants-shorts', 'Jersey', 'headwear', 'accessories', 'electronics', 'short-sets', 'other-stuff']
 SITEMAP = []
@@ -84,8 +85,9 @@ def product_card(p, lang, t, featured=False, location='product_grid'):
     return f'''<article class="product-card{' compact' if featured else ''}"><a class="product-link" href="{esc(main_url(p,location,lang))}" target="_blank" rel="noopener" data-location="{location}" data-product-id="{p['id']}"><img src="/assets/products/{p['id']}.webp" alt="{esc(name)}" width="600" height="600" {'fetchpriority="high"' if featured and p['id']=='3400' else 'loading="lazy"'} decoding="async"><div class="product-copy"><h3>{esc(name)}</h3><span class="price">US${p['price']}</span><span class="product-cta">{l['open']} <span aria-hidden="true">↗</span></span></div></a>{'' if featured else f'<a class="detail-link" href="{path(lang,"/products/"+p["id"])}">{l["productGuide"]}</a>'}</article>'''
 
 def article_meta(lang):
-    m = META if lang=='en' else json.loads((BASE / f'articles.{lang}.json').read_text())
+    m = json.loads((BASE / ("articles.json" if lang=="en" else f"articles.{lang}.json")).read_text())
     for slug,title in TITLES.get(lang,{}).items():m[slug]['title']=title
+    add_reviewed_articles(m, lang)
     return m
 
 def guide_card(slug,lang,meta):
@@ -101,8 +103,10 @@ def breadcrumb(lang,suffix,name):
 def home(lang,t,meta):
     l=LOCALES[lang];suffix='/'
     schemas=[{'@context':'https://schema.org','@type':'WebSite','url':url(lang),'name':'CSSBuys Store','inLanguage':lang},{'@context':'https://schema.org','@type':'ItemList','name':l['products'],'itemListElement':[{'@type':'ListItem','position':i+1,'name':product_name(p,lang,t),'url':url(lang,'/products/'+p['id'])} for i,p in enumerate(PRODUCTS)]}]
+    actions = [(SHEET, 'findLink'), (QC, 'qcLink'), (PARCEL, 'parcelLink')]
+    quick_links = ''.join(f'<a href="{path(lang,"/guides/"+slug)}">{esc(COPY[lang][key])}</a>' for slug, key in actions)
     content=head(lang,suffix,l['homeTitle'],l['homeLead'],schemas,'/assets/products/3400.webp')+header(lang,suffix)
-    content+=f'''<main id="main"><section class="hero"><div class="wrap hero-grid"><div><p class="eyebrow">CSSBuys Store</p><h1>{l['homeTitle']}</h1><p class="lead">{l['homeLead']}</p><form class="hero-search" action="{MAIN}/search.html" method="get" role="search" aria-label="{esc(l['searchLabel'])}" data-main-search><label for="product-keywords">{l['searchLabel']}</label><div class="search-row"><input type="search" id="product-keywords" name="keywords" placeholder="{esc(l['placeholder'])}" required maxlength="120"><input type="hidden" name="channelid" value="2"><button type="submit">{l['search']}</button></div><p class="hint">{l['searchHint']}</p></form></div><aside class="featured-panel"><h2>{l['featured']}</h2><div class="featured-grid">{''.join(product_card(BY_ID[i],lang,t,True,'hero_products') for i in FEATURED)}</div></aside></div></section>
+    content+=f'''<main id="main"><section class="hero"><div class="wrap hero-grid"><div><p class="eyebrow">CSSBuys Store</p><h1>{l['homeTitle']}</h1><p class="lead">{l['homeLead']}</p><form class="hero-search" action="{MAIN}/search.html" method="get" role="search" aria-label="{esc(l['searchLabel'])}" data-main-search><label for="product-keywords">{l['searchLabel']}</label><div class="search-row"><input type="search" id="product-keywords" name="keywords" placeholder="{esc(l['placeholder'])}" required maxlength="120"><input type="hidden" name="channelid" value="2"><button type="submit">{l['search']}</button></div><p class="hint">{l['searchHint']}</p></form><div class="home-actions">{quick_links}</div></div><aside class="featured-panel"><h2>{l['featured']}</h2><div class="featured-grid">{''.join(product_card(BY_ID[i],lang,t,True,'hero_products') for i in FEATURED)}</div></aside></div></section>
 <section class="section" id="categories"><div class="wrap"><h2>{l['categories']}</h2><p>{t(UI['categoryIntro'])}</p><div class="category-grid">{''.join(f'<a href="{MAIN}/{route}/" target="_blank" rel="noopener" data-location="categories">{esc(t(name))} ↗</a>' for name,route in zip(UI['categories'],CATEGORY_PATHS))}</div></div></section>
 <section class="section" id="products"><div class="wrap"><h2>{l['products']}</h2><p class="hint">{l['checked']}</p><div class="product-grid">{''.join(product_card(p,lang,t) for p in PRODUCTS)}</div><p class="hint">{l['productNote']}</p></div></section>
 <section class="section guide-section"><div class="wrap"><h2>{l['guides']}</h2><div class="guide-grid">{''.join(guide_card(s,lang,meta) for s in PRIORITY)}</div><a class="button secondary" href="{path(lang,'/guides/')}">{l['allGuides']}</a></div></section>
@@ -117,7 +121,7 @@ def hub(lang,t,meta):
 
 def article(lang,slug,t,meta):
     l=LOCALES[lang];m=meta[slug];suffix='/guides/'+slug
-    body=BeautifulSoup((BASE/'articles'/lang/f'{slug}.html').read_text(),'html.parser')
+    body = article_body(lang, slug, m)
     if body.h1:body.h1.decompose()
     for p in list(body.select('.meta,.eyebrow,.toc,.related')):p.decompose()
     for a in body.select('a[href]'):
@@ -129,6 +133,9 @@ def article(lang,slug,t,meta):
             a['href']=prefix(lang)+href
     if lang in OPENINGS.get(slug, {}) and body.p:
         body.p.string = OPENINGS[slug][lang]
+    rows = [(product_name(BY_ID[i],lang,t), path(lang,'/products/'+i), BY_ID[i]['price'])
+            for i in ('3400','3401','3402')] if slug == SHEET else []
+    intro = first_screen(lang, slug, body, rows, lambda s: path(lang,'/guides/'+s))
     toc=[]
     for i,h in enumerate(body.select('h2')):
         if not h.get('id'):h['id']='section-'+str(i+1)
@@ -137,20 +144,30 @@ def article(lang,slug,t,meta):
     refs=['cssbuy-spreadsheet','qc-guide','cssbuy-shipping-calculator-estimate','cssbuy-fees-payment-total-cost']
     if 'shoe' in slug:refs=['cssbuy-shoe-finds-price-sizing','cssbuy-shoe-sizing-qc-checklist','qc-guide','cssbuy-fees-payment-total-cost']
     if 'hoodie' in slug:refs=['cssbuy-spreadsheet','cssbuy-size-measurement-qc-photo-limits','qc-guide','cssbuy-fees-payment-total-cost']
-    refs=[s for s in refs if s!=slug]
-    schema={'@context':'https://schema.org','@type':'Article','headline':m['title'],'description':m['description'],'datePublished':m['published'],'dateModified':DATE,'inLanguage':lang,'mainEntityOfPage':{'@type':'WebPage','@id':url(lang,suffix)},'author':{'@type':'Organization','name':'CSSBuys Store Editorial'},'publisher':{'@type':'Organization','name':'CSSBuys Store'}}
+    curated = {QC: [SHOES, PARCEL, SHIPPING], SHEET: [QC, PARCEL, SHIPPING],
+               SHIPPING: [PARCEL, TRACKING, 'cssbuy-fees-payment-total-cost'],
+               PARCEL: [QC, SHIPPING, TRACKING], TRACKING: [PARCEL, SHIPPING],
+               POINTS: ['cssbuy-fees-payment-total-cost', SHIPPING]}
+    refs=[s for s in curated.get(slug, refs) if s!=slug]
+    modified = UPDATED if slug in REVISED else DATE
+    schema={'@context':'https://schema.org','@type':'Article','headline':m['title'],'description':m['description'],'datePublished':m['published'],'dateModified':modified,'inLanguage':lang,'mainEntityOfPage':{'@type':'WebPage','@id':url(lang,suffix)},'author':{'@type':'Organization','name':'CSSBuys Store Editorial'},'publisher':{'@type':'Organization','name':'CSSBuys Store'}}
     product_ids=['3400','3394'] if 'shoe' in slug else ['3401','3396'] if 'hoodie' in slug else ['3400','3401','3402'] if slug in ['cssbuy-spreadsheet','cssbuy-fees-payment-total-cost'] else []
     content=head(lang,suffix,m['title'],m['description'],[schema,breadcrumb(lang,suffix,m['title'])])+header(lang,suffix)
-    content+=f'<main id="main" class="article-wrap"><article id="article-content"><p class="eyebrow">{l["guides"]} · {l["updated"]} <time datetime="{DATE}">{DATE}</time></p><h1>{esc(m["title"])}</h1><nav class="toc" aria-label="{esc(l["toc"])}">'+''.join(toc)+'</nav>'+str(body)
+    content+=f'<main id="main" class="article-wrap"><article id="article-content"><p class="eyebrow">{l["guides"]} · {l["updated"]} <time datetime="{modified}">{modified}</time></p><h1>{esc(m["title"])}</h1>{intro}<nav class="toc" aria-label="{esc(l["toc"])}">'+''.join(toc)+'</nav>'+str(body)
     if product_ids:content+=f'<section class="article-products"><h2>{l["featured"]}</h2><p>{l["checked"]}</p><div class="article-product-grid">'+''.join(product_card(BY_ID[i],lang,t,False,'article_products') for i in product_ids)+f'</div><p class="hint">{l["productNote"]}</p></section>'
-    content+=f'<section class="source-box"><h2>{l["references"]}</h2><p>{t(UI["sourceNote"])}</p><ul><li><a href="https://new.cssbuy.com/buyforme" target="_blank" rel="noopener">CSSBuy: {t(UI["buyingSource"])}</a></li><li><a href="https://new.cssbuy.com/estimates" target="_blank" rel="noopener">CSSBuy: {t(UI["shippingSource"])}</a></li></ul></section></article><section class="related-guides"><h2>{l["related"]}</h2><div class="guide-grid">'+''.join(guide_card(s,lang,meta) for s in refs)+'</div></section></main>'
+    if slug in REVISED:
+        sources = source_links(lang, slug, t(UI['buyingSource']), t(UI['shippingSource']))
+    else:
+        sources = f'<li><a href="https://new.cssbuy.com/buyforme" target="_blank" rel="noopener">CSSBuy: {t(UI["buyingSource"])}</a></li><li><a href="https://new.cssbuy.com/estimates" target="_blank" rel="noopener">CSSBuy: {t(UI["shippingSource"])}</a></li>'
+    note = '' if slug in NEW_ARTICLES else f'<p>{t(UI["sourceNote"])}</p>'
+    content+=f'<section class="source-box"><h2>{l["references"]}</h2>{note}<ul>{sources}</ul></section></article><section class="related-guides"><h2>{l["related"]}</h2><div class="guide-grid">'+''.join(guide_card(s,lang,meta) for s in refs)+'</div></section></main>'
     write(lang,suffix,content+footer(lang))
 
 def product(lang,p,t,meta):
     l=LOCALES[lang];name=product_name(p,lang,t);suffix='/products/'+p['id'];desc=t(UI['productIntro'])
     schemas=[{'@context':'https://schema.org','@type':'Product','name':name,'image':DOMAIN+'/assets/products/'+p['id']+'.webp','description':desc,'url':url(lang,suffix),'category':t(p['category'])},breadcrumb(lang,suffix,name)]
     content=head(lang,suffix,name+' | '+l['productGuide'],desc,schemas,'/assets/products/'+p['id']+'.webp')+header(lang,suffix)
-    content+=f'''<main id="main" class="article-wrap product-detail"><article><p class="eyebrow">{l['productGuide']}</p><h1>{esc(name)}</h1><p class="lead">{desc}</p><div class="product-detail-grid"><img src="/assets/products/{p['id']}.webp" alt="{esc(name)}" width="900" height="900" fetchpriority="high"><div><p>{l['priceLabel']}</p><strong class="price">US${p['price']}</strong><p>{t(p['note'])}</p><a class="button" href="{esc(main_url(p,'product_detail',lang))}" target="_blank" rel="noopener" data-product-id="{p['id']}" data-location="product_detail">{l['open']} ↗</a><p class="hint">{l['checked']}</p></div></div><h2>{l['qc']}</h2><ul class="checklist">{''.join('<li>'+esc(t(s))+'</li>' for s in p['checks'])}</ul><p>{t(UI['record'])}</p><p>{t(UI['decision'])}</p><p>{t(UI['limit'])}</p><p class="hint">{l['productNote']}</p><h2>{l['source']}</h2><p>{t(UI['productSources'])}</p><p><a href="{esc(main_url(p,'product_source',lang))}" target="_blank" rel="noopener" data-product-id="{p['id']}" data-location="product_source">cnfanssp.com · {p['id']} ↗</a></p></article><section class="related-guides"><h2>{l['related']}</h2><p>{t(UI['productRelated'])}</p><div class="guide-grid">{''.join(guide_card(s,lang,meta) for s in ['qc-guide','cssbuy-shoe-sizing-qc-checklist' if p['category']=='Shoes' else 'cssbuy-hoodie-finds-sizing-fabric' if p['category']=='Hoodies & Sweaters' else 'cssbuy-size-measurement-qc-photo-limits','cssbuy-fees-payment-total-cost'])}</div></section></main>'''
+    content+=f'''<main id="main" class="article-wrap product-detail"><article><p class="eyebrow">{l['productGuide']}</p><h1>{esc(name)}</h1><p class="lead">{desc}</p><div class="product-detail-grid"><img src="/assets/products/{p['id']}.webp" alt="{esc(name)}" width="900" height="900" fetchpriority="high"><div><p>{l['priceLabel']}</p><strong class="price">US${p['price']}</strong><p>{t(p['note'])}</p><a class="button" href="{esc(main_url(p,'product_detail',lang))}" target="_blank" rel="noopener" data-product-id="{p['id']}" data-location="product_detail">{l['open']} ↗</a><p class="hint">{l['checked']}</p></div></div><h2>{l['qc']}</h2><ul class="checklist">{''.join('<li>'+esc(t(s))+'</li>' for s in p['checks'])}</ul><p>{t(UI['record'])}</p><p>{t(UI['decision'])}</p><p>{t(UI['limit'])}</p><p class="hint">{l['productNote']}</p><h2>{l['source']}</h2><p>{t(UI['productSources'])}</p><p><a href="{esc(main_url(p,'product_source',lang))}" target="_blank" rel="noopener" data-product-id="{p['id']}" data-location="product_source">{esc(name)} · {p['id']} ↗</a></p></article><section class="related-guides"><h2>{l['related']}</h2><p>{t(UI['productRelated'])}</p><div class="guide-grid">{''.join(guide_card(s,lang,meta) for s in ['qc-guide','cssbuy-shoe-sizing-qc-checklist' if p['category']=='Shoes' else 'cssbuy-hoodie-finds-sizing-fabric' if p['category']=='Hoodies & Sweaters' else 'cssbuy-size-measurement-qc-photo-limits','cssbuy-fees-payment-total-cost'])}</div></section></main>'''
     write(lang,suffix,content+footer(lang))
 
 def faq(lang,t):
@@ -168,16 +185,16 @@ def build():
     for lang in LOCALES:
         t=translator(lang);meta=article_meta(lang)
         home(lang,t,meta);hub(lang,t,meta);faq(lang,t)
-        for slug in META:article(lang,slug,t,meta)
+        for slug in meta:article(lang,slug,t,meta)
         for p in PRODUCTS:product(lang,p,t,meta)
-        print(lang, '30 pages', flush=True)
+        print(lang, len(meta) + len(PRODUCTS) + 3, 'pages', flush=True)
     language_hub()
     ET.register_namespace('', 'http://www.sitemaps.org/schemas/sitemap/0.9')
     ET.register_namespace('xhtml','http://www.w3.org/1999/xhtml')
     ns='{http://www.sitemaps.org/schemas/sitemap/0.9}';x='{http://www.w3.org/1999/xhtml}'
     root=ET.Element(ns+'urlset')
     for address,suffix in SITEMAP:
-        entry=ET.SubElement(root,ns+'url');ET.SubElement(entry,ns+'loc').text=address;ET.SubElement(entry,ns+'lastmod').text=DATE
+        entry=ET.SubElement(root,ns+'url');ET.SubElement(entry,ns+'loc').text=address;ET.SubElement(entry,ns+'lastmod').text=(UPDATED if suffix in ('/', '/guides/') or suffix.removeprefix('/guides/') in REVISED else DATE)
         for code in list(LOCALES)+['x-default']:
             ET.SubElement(entry,x+'link',{'rel':'alternate','hreflang':code,'href':url('en' if code=='x-default' else code,suffix)})
     ET.indent(root,space='  ')

@@ -1,0 +1,83 @@
+{
+  "parcel": {
+    "title": "Comment expédier un colis CSSBuy depuis l’entrepôt",
+    "description": "Vérifiez les articles, comparez les emballages et les lignes de livraison, puis contrôlez l’adresse et l’avance sur frais de port avant l’envoi.",
+    "lead": "Dans votre espace personnel CSSBuy, ouvrez « My intl order », sélectionnez les articles reçus à l’entrepôt et renseignez l’adresse de livraison. Avant de payer le transport international, vérifiez les photos, les consignes d’emballage et la ligne proposée pour ces articles. Prenons le cas d’une paire de chaussures et d’un sweat à capuche à expédier ensemble.",
+    "sections": [
+      [
+        "Vérifier chaque article à l’entrepôt",
+        "Ouvrez la fiche de chaque article et retrouvez sa référence de commande. Comparez le modèle, le coloris, la taille et la quantité avec les options choisies à l’achat. Une même annonce peut réunir plusieurs dizaines de variantes. La photo du vendeur aide à reconnaître le modèle, mais ce sont les photos de l’entrepôt qui permettent de contrôler ce qui est arrivé. Si le transporteur chinois annonce une livraison, vérifiez également que l’article apparaît bien dans la liste de ceux que vous pouvez sélectionner.",
+        "Pour la paire de chaussures, regardez l’étiquette de chaque pied et vérifiez que les deux chaussures forment une paire cohérente. Pour le sweat, rapprochez la mesure sur la photo de celle indiquée sur le tableau du vendeur. Une largeur de poitrine prise à plat se compare à une autre largeur à plat. Si le début du mètre est hors champ, demandez une photo qui montre les deux extrémités. Laissez l’article concerné hors de la sélection tant que vous hésitez à le garder et consultez la date limite de retour propre à cette commande."
+      ],
+      [
+        "Décider quels articles regrouper",
+        "Le regroupement permet de réunir plusieurs articles dans un carton d’expédition. Faites une première estimation avec les chaussures et le sweat, puis une autre pour chaque colis si vous envisagez deux départs. Notez à chaque fois la ligne accessible, les frais de transport estimés et les options d’emballage. Deux envois peuvent entraîner deux frais de départ. À l’inverse, un carton plus volumineux peut faire monter le poids facturé. Comparez les résultats obtenus pour votre destination et le service dont vous avez besoin.",
+        "Supposons que le sweat soit prêt et que vous attendiez encore l’échange d’une chaussure. L’expédier tout de suite vous oblige à organiser un second envoi pour la paire. Attendre peut vous convenir si les conditions de stockage le permettent et si vous n’avez pas besoin du sweat pour une date précise. Si vous ajoutez un appareil à batterie, recommencez la recherche de lignes avec cet appareil coché. Certaines options proposées pour du textile peuvent disparaître. Pour isoler l’effet du regroupement sur le prix, gardez autant que possible la même ligne et les mêmes protections dans les simulations."
+      ],
+      [
+        "Préciser ce qu’il faut faire de la boîte à chaussures",
+        "Si vous tenez à recevoir la boîte d’origine en bon état, demandez qu’elle soit placée à l’intérieur du carton d’expédition et examinez les options de renfort affichées. Si seules les chaussures vous intéressent, vérifiez qu’un retrait de la boîte est proposé pour cet article. Précisez comment protéger la paire afin que les chaussures ne frottent pas l’une contre l’autre et ne soient pas écrasées. Citez la référence de l’article dans votre consigne, surtout si le colis contient d’autres boîtes à conserver.",
+        "Une note courte suffit. Vous pouvez écrire, par exemple, « Pour les chaussures de la commande A, retirez la boîte si l’option est disponible et gardez la paire ensemble. Laissez le sweat dans son sachet. » Adaptez cette demande aux services effectivement proposés. Une fermeture métallique ou une boucle appuyée contre une chaussure peut laisser une marque, même avec un vêtement souple dans le carton. Demandez quelles protections l’entrepôt peut utiliser, combien elles coûtent et, si la mesure est disponible, quelles dimensions elles donnent au colis fini."
+      ],
+      [
+        "Simuler l’expédition d’un colis de 2 kg",
+        "Dans le calculateur officiel, sélectionnez le pays de destination et saisissez le poids dans l’unité demandée. Pour un champ en grammes, 2 kg correspondent à 2 000 g. Indiquez les trois dimensions extérieures du colis après emballage. Les mesures d’une semelle ou d’un vêtement servent au contrôle de taille, mais elles ne décrivent pas le carton. Conservez le nom de la ligne, la date de la simulation et les dimensions utilisées afin de pouvoir refaire le calcul après la mesure de l’entrepôt.",
+        "Prenons deux emballages fictifs pour les mêmes chaussures et le même sweat. Un carton de 40 × 30 × 20 cm occupe 24 000 cm³. Avec 35 × 25 × 18 cm, il occupe 15 750 cm³. À poids mesuré identique, ce changement peut modifier la facture sur une ligne qui tient compte du volume. Consultez son coefficient volumétrique, ses tranches et ses règles d’arrondi. Une ligne facturée au poids réel peut conduire à un autre choix. La différence entre ces deux volumes ne permet pas, à elle seule, d’annoncer une économie en euros.",
+        "Si votre estimation dépend d’un carton tout juste inférieur à une dimension maximale, testez aussi des dimensions légèrement supérieures. Vous verrez ainsi si un peu de rembourrage vous ferait changer de tranche ou rendrait la ligne inaccessible. Vous pourrez alors demander un autre emballage ou prévoir une autre ligne."
+      ],
+      [
+        "Relire l’adresse, le service et le montant à avancer",
+        "Relisez l’adresse comme si vous étiez le livreur. Vérifiez le pays, le code postal, la rue, le numéro, le bâtiment ou l’appartement et le nom que l’on trouvera sur place. Utilisez des coordonnées auxquelles vous pourrez réellement être joint. Une adresse enregistrée peut être exacte pour un ancien envoi et inadaptée au destinataire actuel. Assurez-vous de cette correspondance avant de valider le départ.",
+        "Ouvrez le détail de la ligne pour contrôler les restrictions sur les articles, les dimensions admises, le suivi annoncé et le délai estimé. Si vous avez choisi un renfort ou une assurance, relisez la prestation sélectionnée et son coût. Conservez ensemble la liste des commandes, la consigne d’emballage, la ligne et le montant affiché. CSSBuy détermine l’avance sur les frais de port à partir du poids estimé, du mode de transport et de la destination. Le montant final dépend des dimensions et du poids vérifiés par le transporteur. Distinguez cette avance du prix des produits et du transport en Chine pour pouvoir rapprocher ensuite les montants du bon envoi.",
+        "Avant de régler, vérifiez aussi la devise affichée à côté du montant. Si vous comparez cette estimation à une capture plus ancienne, notez les services inclus dans chacune afin de pouvoir expliquer un éventuel écart."
+      ],
+      [
+        "Retrouver le colis après validation",
+        "Après l’envoi de la demande, cherchez la fiche du colis avant de recommencer la procédure ou de renouveler un paiement. Retrouvez les références sélectionnées et gardez le numéro de colis avec elles. Si l’entrepôt vous pose une question d’emballage, répondez tant que la préparation est en cours. En cas d’erreur d’adresse ou d’article oublié, écrivez depuis la fiche du colis et demandez si une correction est encore possible à l’étape affichée.",
+        "Après le départ, ouvrez « My Parcel » dans l’espace personnel pour consulter le suivi de cette expédition. Dans notre exemple, les chaussures et le sweat peuvent avoir deux références vendeur et voyager sous un seul numéro international. Gardez les références d’achat pour identifier les articles et utilisez le numéro sortant pour la livraison. À réception, examinez le carton et pointez son contenu sur votre liste. En cas de manque ou de dommage, conservez l’emballage et les photos utiles avec le numéro du colis pour la demande de service après-vente."
+      ]
+    ]
+  },
+  "tracking": {
+    "title": "Suivi CSSBuy bloqué : que vérifier dans « My Parcel » ?",
+    "description": "Retrouvez le bon numéro de suivi CSSBuy, distinguez une étiquette d’une prise en charge et vérifiez quand écrire à l’entrepôt ou au transporteur local.",
+    "lead": "Ouvrez « My Parcel » dans votre espace personnel CSSBuy et sélectionnez le colis international attendu. Relevez le nom du transporteur, le numéro de suivi et le dernier événement daté. Ces informations permettent de savoir qui interroger et sur quelle étape. Le nombre de jours écoulés depuis l’achat du produit, à lui seul, renseigne peu sur le trajet international.",
+    "sections": [
+      [
+        "Identifier le trajet auquel appartient le numéro",
+        "Un article acheté par l’intermédiaire de CSSBuy peut d’abord voyager du vendeur jusqu’à l’entrepôt en Chine. Le trajet international commence plus tard, après votre demande d’expédition. Si le vendeur a envoyé votre commande, mais que les articles n’apparaissent pas encore au stock, ouvrez la fiche de commande. Une livraison annoncée sur ce premier trajet peut concerner l’adresse de l’entrepôt. Vérifiez alors la réception et le contrôle de l’article dans votre espace personnel.",
+        "Après regroupement, les numéros attribués aux envois des vendeurs continuent à raconter leurs trajets respectifs. Le colis qui contient les articles sélectionnés peut avoir un autre numéro pour l’expédition internationale. Sur une première ligne de votre note, inscrivez les références vendeur. Sur la suivante, placez la référence du colis international et le numéro de transport qui lui est associé. Ce rapprochement évite de chercher sur la mauvaise fiche si plusieurs paires se ressemblent ou si vous avez organisé deux départs."
+      ],
+      [
+        "Retrouver la référence de colis et le suivi du transporteur",
+        "Dans « My Parcel », identifiez l’envoi d’après le contenu, la destination et la ligne choisie. Conservez la référence CSSBuy pour échanger avec l’entrepôt et le numéro de suivi pour interroger le site du transporteur. Copiez ce dernier directement depuis la fiche. Un espace en trop ou une confusion entre un zéro et la lettre O suffit parfois à provoquer une erreur de recherche.",
+        "Si la fiche indique que l’emballage est en cours ou qu’un renseignement ou un paiement est attendu, lisez d’abord le message affiché. Le numéro de transport peut apparaître à une étape ultérieure. Si un lien de suivi est présent, vérifiez le nom de l’opérateur associé au colis. Plusieurs sociétés peuvent utiliser des identifiants qui se ressemblent. Si la recherche échoue, relevez la réponse exacte et l’état de la fiche CSSBuy. Ces deux informations aideront le support à distinguer un numéro récemment attribué d’une recherche effectuée auprès du mauvais opérateur."
+      ],
+      [
+        "Lire ce que confirme le dernier événement",
+        "Un transporteur peut recevoir les données nécessaires à l’étiquette avant de prendre le carton en charge. UPS distingue par exemple la création d’étiquette de l’entrée de l’envoi dans son réseau. Les intitulés peuvent changer chez un autre opérateur. Consultez l’explication du statut sur le site qui l’a émis. Une date de livraison prévisionnelle reste une estimation. Pour reconstituer le parcours déjà effectué, relevez plutôt le texte des événements datés.",
+        "Copiez le dernier intitulé utile, le lieu s’il est indiqué, l’heure et la source. Si une traduction automatique donne une phrase étrange, gardez le libellé d’origine à côté. Un changement de fuseau horaire ou la reprise du même événement par un second site peut donner l’impression de deux mouvements successifs. Cherchez une nouvelle prise en charge, un nouveau lieu ou un nouveau mode de remise avant de conclure que le colis a franchi une étape."
+      ],
+      [
+        "Vérifier le passage au transporteur local",
+        "Une ligne internationale peut confier la livraison finale à un partenaire. Cherchez dans l’historique d’origine et dans la fiche CSSBuy le nom de ce partenaire, un lien vers son suivi ou une seconde référence. Utilisez le numéro local quand l’un de ces documents le rattache à votre colis. Gardez alors les deux numéros et le message qui établit le lien entre eux. Certaines expéditions conservent un seul identifiant de bout en bout.",
+        "Le transporteur local peut être informé d’une remise à venir avant de recevoir le colis. Aux États-Unis par exemple, USPS affiche des statuts distinguant un envoi encore chez son partenaire d’un envoi déjà en sa possession. Si la ligne internationale annonce un départ et que le partenaire local attend encore la remise, consignez ces deux indications. L’adresse du transporteur ou le pays dont le nom figure dans l’intitulé de la ligne ne suffit pas à localiser physiquement le carton. Cherchez surtout quel opérateur a confirmé sa prise en charge en dernier."
+      ],
+      [
+        "Savoir quand agir sans attendre un nouveau scan",
+        "Rapprochez le dernier événement du délai indicatif affiché pour votre ligne et des éventuels avis de perturbation en cours. La fréquence des scans dépend du service et de l’étape. Un long trajet entre deux installations peut produire un intervalle silencieux. Choisissez votre prochaine vérification à partir de l’estimation communiquée ou de la consigne figurant dans « My Parcel ». Consulter plusieurs fois la même ligne d’historique ne permet pas d’avancer sa date.",
+        "Une demande de correction d’adresse, un avis de passage, une date limite de retrait ou une demande précise de document appellent une autre réponse. Ouvrez vous-même le site officiel du transporteur ou votre espace CSSBuy, puis lisez l’instruction associée à cet envoi. Notez l’échéance et la référence du dossier. Si le colis est indiqué livré alors que vous ne l’avez pas reçu, vérifiez le lieu ou la preuve de remise disponible et questionnez le transporteur chargé de la livraison. Si la difficulté porte sur un départ ou une remise internationale encore incertaine, écrivez depuis la fiche du colis CSSBuy."
+      ],
+      [
+        "Exemple d’un sweat regroupé avec des chaussures",
+        "Imaginons que le vendeur indique avoir livré le sweat lundi. Vous reconnaissez le bon article sur les photos de l’entrepôt puis vous le faites expédier avec des chaussures. Une étiquette apparaît dans « My Parcel » tandis que le distributeur local dit attendre le colis. Lundi correspond à la livraison intérieure du sweat. L’étiquette ouvre le dossier d’expédition sortante et le site local indique ce que son propre réseau a enregistré. Ces trois événements concernent le même achat, mais ne donnent pas encore une date précise de livraison à domicile.",
+        "Supposons ensuite que la ligne internationale ajoute un scan de prise en charge puis une remise avec un numéro local. Conservez ces deux événements et interrogez le partenaire nommé avec cette nouvelle référence. S’il affiche une tentative de livraison, consultez ses modalités de retrait ou de nouvelle présentation. S’il attend toujours le colis alors que la période de livraison annoncée est passée, demandez à CSSBuy de vérifier la remise. Citez le dernier scan confirmé et le délai indiqué pour votre envoi plutôt que la date de commande du sweat."
+      ],
+      [
+        "Écrire une demande à laquelle le support peut répondre",
+        "Un message utile peut se lire ainsi. « Colis [référence], ligne [nom], numéro de suivi [numéro]. Le dernier scan physique indique [texte] à [lieu] le [date]. Pour la référence locale [numéro], le transporteur affiche [état]. Pouvez-vous confirmer quel opérateur détient le colis et si une intervention est attendue de ma part ? » Joignez l’extrait de suivi pertinent dans l’espace personnel et masquez les informations privées étrangères au dossier.",
+        "Si la réponse ne permet pas encore de dater le prochain scan, demandez à quel moment reprendre contact. Ajoutez les nouveaux événements au même dossier avec leur date et leur source. Vous garderez ainsi distincts les faits confirmés par l’entrepôt, ceux confirmés par le transporteur et les points encore en cours de vérification. À réception, rapprochez l’étiquette et le contenu de la référence du colis. Si vous avez ensuite une question sur l’état des articles, ce même dossier vous permettra d’identifier précisément l’envoi."
+      ]
+    ]
+  }
+}

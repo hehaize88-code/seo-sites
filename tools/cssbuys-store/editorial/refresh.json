@@ -1,0 +1,338 @@
+{
+  "en": {
+    "qcTitle": "CSSBuy QC Return Checklist: Ship, Request Photos or Return?",
+    "qcDescription": "Use your CSSBuy warehouse photos to decide whether to ship, ask for a measurement or request a return. Check the item, size label and seller’s return window.",
+    "sheetTitle": "CSSBuy Spreadsheet: Product Links, Prices & QC Checklist",
+    "sheetDescription": "Compare three CSSBuy finds with product links, dated USD prices and a QC check for each. See which option to verify before you order.",
+    "shipTitle": "CSSBuy Shipping Calculator Guide: Enter Weight and Dimensions",
+    "shipDescription": "Open the official CSSBuy shipping calculator and follow a 2 kg parcel example. Compare eligible routes, weight increments and the final packed measurements.",
+    "findLink": "Browse product finds",
+    "qcLink": "Check warehouse photos",
+    "parcelLink": "How to submit a parcel",
+    "qcDecision": "Ship the item, ask for another photo or request a return?",
+    "sheetHeading": "Three finds to compare before you order",
+    "productLabel": "Product",
+    "priceLabel": "Listed price (USD)",
+    "qcLabel": "What to check in QC",
+    "priceDate": "These prices were recorded on 8 October 2026. Shipping costs extra. Open the listing to check today’s price for your size and style.",
+    "checks": [
+      "Match both size labels to your order and ask for a heel-to-toe insole measurement.",
+      "Ask for the sweater’s chest width, measured flat from armpit to armpit.",
+      "Check whether your selected option includes the T-shirt, the shorts or both."
+    ],
+    "calcLink": "Open the official CSSBuy shipping calculator",
+    "calcExample": "For example, choose your destination and enter 2,000 g for a packed parcel weighing 2 kg. Enter 35 × 25 × 18 cm for its outer dimensions. Compare the eligible routes’ weight rules and rounding, then check the quoted price for each. Repeat with the warehouse measurements before paying.",
+    "sourceShip": "Parcel forwarding and consolidation",
+    "sourceReturn": "Returns and exchanges",
+    "pointLink": "Received the wrong item? Check your QC photos before requesting a return.",
+    "sizeLink": "Wrong shoe size? Use the QC return checklist.",
+    "qcOutcomes": [
+      [
+        "Approve shipment",
+        "Release the item for shipping when the variant, measurements and contents match your order and the photos show it in acceptable condition."
+      ],
+      [
+        "Ask for a closer look",
+        "If one detail is unclear, request a specific view or measurement, such as the size label or an insole measured from heel to toe."
+      ],
+      [
+        "Request a return or exchange",
+        "If you received the wrong item, parts are missing or a defect is confirmed, save the photos and check the seller’s return deadline before submitting your request."
+      ]
+    ]
+  },
+  "de": {
+    "qcTitle": "CSSBuy-Fotocheck: Versenden, Detailfoto anfordern oder zurückgeben?",
+    "qcDescription": "Prüfe die Lagerfotos, das Größenetikett und die Rückgabefrist des Verkäufers. So entscheidest du, ob du den Artikel versenden lässt oder reklamierst.",
+    "sheetTitle": "CSSBuy Spreadsheet: Produktlinks, Preise und QC-Checkliste",
+    "sheetDescription": "Vergleiche drei CSSBuy-Fundstücke mit Produktlinks, dokumentierten Dollarpreisen und passenden Fotochecks. Prüfe vor dem Kauf die gewählte Variante.",
+    "shipTitle": "CSSBuy-Versandrechner: Gewicht und Paketmaße richtig eingeben",
+    "shipDescription": "Öffne den offiziellen CSSBuy-Versandrechner und rechne ein 2-kg-Paket durch. Vergleiche verfügbare Versandlinien, Gewichtsstufen und Außenmaße.",
+    "findLink": "Produkte entdecken",
+    "qcLink": "Lagerfotos prüfen",
+    "parcelLink": "Paket zum Versand anmelden",
+    "qcDecision": "Versand freigeben, ein Foto nachfordern oder zurückgeben?",
+    "sheetHeading": "Drei Fundstücke im direkten Vergleich",
+    "productLabel": "Produkt",
+    "priceLabel": "Angebotspreis (USD)",
+    "qcLabel": "Darauf auf den Lagerfotos achten",
+    "priceDate": "Preisstand: 8. Oktober 2026, zuzüglich Versand. Öffne das Angebot und prüfe den heutigen Preis für deine Größe und Ausführung.",
+    "checks": [
+      "Vergleiche beide Größenetiketten mit der Bestellung und bitte um die Innenlänge der Einlegesohle von der Ferse bis zur Spitze.",
+      "Lass die Brustweite am flach liegenden Pullover von Achsel zu Achsel messen.",
+      "Prüfe, ob die gewählte Variante das T-Shirt, die Shorts oder beides umfasst."
+    ],
+    "calcLink": "Offiziellen CSSBuy-Versandrechner öffnen",
+    "calcExample": "Beispiel: Wähle das Zielland und gib für ein verpacktes Paket von 2 kg ein Gewicht von 2.000 g ein. Als Außenmaße verwendest du 35 × 25 × 18 cm. Vergleiche für jede verfügbare Versandlinie, welches Gewicht sie ansetzt, wie sie aufrundet und welchen Preis sie anzeigt. Rechne vor der Zahlung mit den tatsächlichen Lagermaßen noch einmal nach.",
+    "sourceShip": "Paketweiterleitung und Sammelversand",
+    "sourceReturn": "Rückgabe und Umtausch",
+    "pointLink": "Falschen Artikel erhalten? Prüfe vor der Rückgabe die Lagerfotos.",
+    "sizeLink": "Falsche Schuhgröße? Zur Checkliste für die Rückgabe.",
+    "qcOutcomes": [
+      [
+        "Versand freigeben",
+        "Gib den Artikel frei, wenn Variante, Maße und Lieferumfang zur Bestellung passen und sein Zustand auf den Fotos in Ordnung ist."
+      ],
+      [
+        "Gezielt nachfragen",
+        "Bleibt ein Detail unklar, bitte um eine bestimmte Aufnahme oder Messung, etwa ein Foto des Größenetiketts oder die Länge der Einlegesohle von der Ferse bis zur Spitze."
+      ],
+      [
+        "Rückgabe oder Umtausch beantragen",
+        "Bei einem falschen Artikel, fehlenden Teilen oder einem bestätigten Mangel sichere die Fotos und prüfe vor dem Antrag die Rückgabefrist des Verkäufers."
+      ]
+    ]
+  },
+  "fr": {
+    "qcTitle": "Photos QC CSSBuy : expédier, demander une photo ou retourner ?",
+    "qcDescription": "Vérifiez l’article, l’étiquette de taille et le délai de retour du vendeur sur CSSBuy. Décidez quand demander une mesure ou valider l’expédition.",
+    "sheetTitle": "Tableau CSSBuy : liens produits, prix et vérifications QC",
+    "sheetDescription": "Comparez trois trouvailles CSSBuy : lien produit, prix en dollars à la date du relevé et contrôle photo à prévoir pour chaque variante.",
+    "shipTitle": "Calculateur de livraison CSSBuy : saisir le poids et les dimensions",
+    "shipDescription": "Ouvrez le calculateur officiel CSSBuy et suivez l’exemple d’un colis de 2 kg. Comparez les lignes disponibles, les paliers de poids et le prix affiché.",
+    "findLink": "Parcourir les produits",
+    "qcLink": "Vérifier les photos de l’entrepôt",
+    "parcelLink": "Préparer l’envoi d’un colis",
+    "qcDecision": "Expédier, demander une autre photo ou retourner l’article ?",
+    "sheetHeading": "Trois articles à comparer avant de commander",
+    "productLabel": "Article",
+    "priceLabel": "Prix affiché (USD)",
+    "qcLabel": "À vérifier sur les photos",
+    "priceDate": "Prix relevés le 8 octobre 2026, hors frais de livraison. Ouvrez la fiche pour vérifier le prix actuel de la taille et du modèle choisis.",
+    "checks": [
+      "Comparez les deux étiquettes de pointure à la commande et demandez la longueur de la semelle intérieure, du talon à la pointe.",
+      "Demandez la largeur du pull posé à plat, d’une aisselle à l’autre.",
+      "Vérifiez si la variante choisie comprend le t-shirt, le short ou les deux."
+    ],
+    "calcLink": "Ouvrir le calculateur de livraison officiel de CSSBuy",
+    "calcExample": "Pour cet exemple, choisissez le pays de destination. Saisissez 2 000 g pour un colis de 2 kg emballage compris, puis 35 × 25 × 18 cm pour ses dimensions extérieures. Comparez le poids retenu, la règle d’arrondi et le tarif affiché sur chaque ligne disponible. Avant de payer, refaites le calcul avec les mesures de l’entrepôt.",
+    "sourceShip": "Réexpédition et regroupement de colis",
+    "sourceReturn": "Retours et échanges",
+    "pointLink": "Mauvais article reçu ? Vérifiez les photos avant de demander un retour.",
+    "sizeLink": "Mauvaise pointure ? Consultez les vérifications à faire avant le retour.",
+    "qcOutcomes": [
+      [
+        "Valider l’expédition",
+        "Validez si la variante, les mesures et le contenu correspondent à la commande et que l’état de l’article vous convient sur les photos."
+      ],
+      [
+        "Demander une vérification",
+        "Si un détail reste incertain, demandez une vue ou une mesure précise, par exemple une photo de l’étiquette ou la longueur de la semelle intérieure du talon à la pointe."
+      ],
+      [
+        "Demander un retour ou un échange",
+        "Si l’article reçu est incorrect, s’il manque une pièce ou si un défaut est confirmé, sauvegardez les photos et vérifiez le délai de retour du vendeur avant de faire la demande."
+      ]
+    ]
+  },
+  "es": {
+    "qcTitle": "Control de calidad CSSBuy: ¿enviar, pedir otra foto o devolver?",
+    "qcDescription": "Revisa el artículo, la etiqueta de talla y el plazo de devolución del vendedor. Decide con las fotos de CSSBuy si necesitas otra medida antes del envío.",
+    "sheetTitle": "Hoja de cálculo CSSBuy: enlaces, precios y controles de calidad",
+    "sheetDescription": "Compara tres productos de CSSBuy con sus enlaces, precios en dólares y controles de calidad. Comprueba el precio de la variante que quieres pedir.",
+    "shipTitle": "Calculadora de envíos de CSSBuy: cómo introducir peso y medidas",
+    "shipDescription": "Abre la calculadora oficial de CSSBuy y sigue el ejemplo de un paquete de 2 kg. Compara las rutas disponibles, el redondeo del peso y sus tarifas.",
+    "findLink": "Explorar los productos",
+    "qcLink": "Revisar las fotos del almacén",
+    "parcelLink": "Cómo solicitar el envío",
+    "qcDecision": "¿Autorizar el envío, pedir otra foto o devolver el artículo?",
+    "sheetHeading": "Tres productos para comparar antes de comprar",
+    "productLabel": "Producto",
+    "priceLabel": "Precio anunciado (USD)",
+    "qcLabel": "Qué revisar en las fotos",
+    "priceDate": "Precios registrados el 8 de octubre de 2026, con envío aparte. Abre la ficha para consultar el precio actual de tu talla y modelo.",
+    "checks": [
+      "Compara las etiquetas de talla de ambos zapatos con tu pedido y pide que midan la plantilla del talón a la punta.",
+      "Pide el ancho de pecho del jersey, medido de axila a axila con la prenda extendida.",
+      "Confirma si la opción elegida incluye la camiseta, el pantalón corto o ambas prendas."
+    ],
+    "calcLink": "Abrir la calculadora de envíos oficial de CSSBuy",
+    "calcExample": "Para probar con un paquete de 2 kg ya embalado, selecciona el país de destino e introduce 2000 g. Usa 35 × 25 × 18 cm como medidas exteriores. Compara qué peso aplica cada ruta disponible, cómo lo redondea y qué tarifa muestra. Antes de pagar, vuelve a calcular el importe con las medidas del almacén.",
+    "sourceShip": "Reenvío y agrupación de paquetes",
+    "sourceReturn": "Devoluciones y cambios",
+    "pointLink": "¿Recibiste otro artículo? Revisa las fotos antes de pedir la devolución.",
+    "sizeLink": "¿La talla del calzado es incorrecta? Revisa la lista para devoluciones.",
+    "qcOutcomes": [
+      [
+        "Autorizar el envío",
+        "Aprueba el envío si la variante, las medidas y el contenido coinciden con tu pedido y el artículo se ve en buen estado en las fotos."
+      ],
+      [
+        "Pedir una comprobación",
+        "Si tienes una duda concreta, pide una foto o medida específica, como una imagen de la etiqueta de talla o la longitud de la plantilla del talón a la punta."
+      ],
+      [
+        "Solicitar una devolución o un cambio",
+        "Si el artículo es incorrecto, faltan piezas o se confirma un defecto, guarda las fotos y revisa el plazo de devolución del vendedor antes de enviar la solicitud."
+      ]
+    ]
+  },
+  "it": {
+    "qcTitle": "Foto QC CSSBuy: spedire, chiedere altre foto o fare il reso?",
+    "qcDescription": "Controlla l’articolo, l’etichetta della taglia e i termini di reso del venditore. Usa le foto di CSSBuy per decidere se approvare la spedizione.",
+    "sheetTitle": "Foglio CSSBuy: link ai prodotti, prezzi e controlli QC",
+    "sheetDescription": "Confronta tre prodotti CSSBuy con i relativi link, i prezzi in dollari alla data indicata e i dettagli da verificare nelle foto di magazzino.",
+    "shipTitle": "Calcolatore di spedizione CSSBuy: come inserire peso e misure",
+    "shipDescription": "Apri il calcolatore ufficiale di CSSBuy e prova l’esempio di un pacco da 2 kg. Confronta le linee disponibili, gli scaglioni di peso e le tariffe.",
+    "findLink": "Esplora i prodotti",
+    "qcLink": "Controlla le foto di magazzino",
+    "parcelLink": "Come richiedere la spedizione",
+    "qcDecision": "Spedire, chiedere un’altra foto o richiedere il reso?",
+    "sheetHeading": "Tre prodotti a confronto prima dell’ordine",
+    "productLabel": "Prodotto",
+    "priceLabel": "Prezzo indicato (USD)",
+    "qcLabel": "Cosa controllare nelle foto",
+    "priceDate": "Prezzi rilevati l’8 ottobre 2026, spese di spedizione escluse. Apri la scheda per verificare il prezzo di oggi per la taglia e la variante scelte.",
+    "checks": [
+      "Confronta le etichette della taglia di entrambe le scarpe con l’ordine e chiedi la lunghezza della soletta dal tallone alla punta.",
+      "Chiedi la larghezza del maglione da ascella ad ascella, misurata con il capo steso.",
+      "Verifica se la variante selezionata comprende la maglietta, i pantaloncini o entrambi."
+    ],
+    "calcLink": "Apri il calcolatore di spedizione ufficiale di CSSBuy",
+    "calcExample": "Scegli il paese di destinazione e inserisci 2.000 g per un pacco di esempio che pesa 2 kg imballaggio compreso. Indica 35 × 25 × 18 cm come misure esterne. Per ogni linea disponibile, confronta il peso fatturabile, le regole di arrotondamento e la tariffa visualizzata. Prima di pagare, ripeti il calcolo con le misure del magazzino.",
+    "sourceShip": "Inoltro e raggruppamento dei pacchi",
+    "sourceReturn": "Resi e cambi",
+    "pointLink": "Hai ricevuto un articolo diverso? Controlla le foto prima di chiedere il reso.",
+    "sizeLink": "Numero di scarpe sbagliato? Consulta la lista dei controlli per il reso.",
+    "qcOutcomes": [
+      [
+        "Autorizzare la spedizione",
+        "Approva la spedizione se variante, misure e contenuto corrispondono all’ordine e le condizioni dell’articolo nelle foto ti soddisfano."
+      ],
+      [
+        "Chiedere una verifica",
+        "Se un dettaglio è poco chiaro, chiedi una foto o una misura precisa, per esempio l’etichetta della taglia o la lunghezza della soletta dal tallone alla punta."
+      ],
+      [
+        "Richiedere il reso o il cambio",
+        "Se è arrivato un articolo diverso, mancano dei pezzi o un difetto è confermato, salva le foto e controlla il termine di reso del venditore prima di inviare la richiesta."
+      ]
+    ]
+  },
+  "pl": {
+    "qcTitle": "Zdjęcia QC w CSSBuy: wysyłka, dodatkowe zdjęcie czy zwrot?",
+    "qcDescription": "Porównaj produkt i metkę ze swoim zamówieniem, sprawdź termin zwrotu u sprzedawcy i zdecyduj, czy zatwierdzić wysyłkę, czy poprosić magazyn o pomiar.",
+    "sheetTitle": "Arkusz CSSBuy: linki do produktów, ceny i lista kontroli QC",
+    "sheetDescription": "Porównaj trzy produkty z arkusza CSSBuy. Zobacz linki, ceny w dolarach z datą sprawdzenia oraz wskazówki, co sprawdzić na zdjęciach z magazynu.",
+    "shipTitle": "Kalkulator wysyłki CSSBuy: jak wpisać wagę i wymiary paczki",
+    "shipDescription": "Otwórz oficjalny kalkulator CSSBuy i przejdź przez przykład paczki o wadze 2 kg. Porównaj dostępne metody wysyłki, progi wagowe i ceny.",
+    "findLink": "Przeglądaj produkty",
+    "qcLink": "Sprawdź zdjęcia z magazynu",
+    "parcelLink": "Jak zgłosić paczkę do wysyłki",
+    "qcDecision": "Zatwierdzić wysyłkę, poprosić o zdjęcie czy zgłosić zwrot?",
+    "sheetHeading": "Trzy produkty do porównania przed zakupem",
+    "productLabel": "Produkt",
+    "priceLabel": "Cena w ofercie (USD)",
+    "qcLabel": "Co sprawdzić na zdjęciach",
+    "priceDate": "Ceny spisano 8 października 2026 r. Wysyłka jest płatna osobno. Otwórz ofertę i sprawdź aktualną cenę wybranego rozmiaru i wariantu.",
+    "checks": [
+      "Porównaj oznaczenia rozmiaru na obu butach z zamówieniem i poproś o pomiar wkładki od pięty do czubka.",
+      "Poproś o szerokość swetra pod pachami, mierzoną od szwu do szwu po rozłożeniu na płasko.",
+      "Sprawdź, czy wybrany wariant obejmuje koszulkę, spodenki czy obie części zestawu."
+    ],
+    "calcLink": "Otwórz oficjalny kalkulator wysyłki CSSBuy",
+    "calcExample": "Wybierz kraj docelowy. Dla przykładowej paczki ważącej po zapakowaniu 2 kg wpisz 2000 g i podaj wymiary zewnętrzne 35 × 25 × 18 cm. Dla każdej dostępnej metody sprawdź, jaka waga podlega opłacie, jak jest zaokrąglana i ile wynosi wycena. Przed zapłatą powtórz obliczenie z wymiarami podanymi przez magazyn.",
+    "sourceShip": "Przekazywanie i łączenie przesyłek",
+    "sourceReturn": "Zwroty i wymiany",
+    "pointLink": "W magazynie jest inny produkt? Sprawdź zdjęcia przed zgłoszeniem zwrotu.",
+    "sizeLink": "Buty mają zły rozmiar? Sprawdź listę kontrolną przed zwrotem.",
+    "qcOutcomes": [
+      [
+        "Zatwierdź wysyłkę",
+        "Zatwierdź wysyłkę, gdy wariant, wymiary i zawartość zgadzają się z zamówieniem, a stan produktu na zdjęciach jest zadowalający."
+      ],
+      [
+        "Poproś o zdjęcie lub pomiar",
+        "Jeśli masz wątpliwości, wskaż konkretny szczegół: poproś na przykład o zdjęcie metki z rozmiarem albo o zmierzenie wkładki od pięty do czubka."
+      ],
+      [
+        "Zgłoś zwrot lub wymianę",
+        "Jeśli przysłano inny produkt, brakuje części lub zdjęcia potwierdzają wadę, zapisz je i przed zgłoszeniem sprawdź termin zwrotu u sprzedawcy."
+      ]
+    ]
+  },
+  "nl": {
+    "qcTitle": "CSSBuy-fotocheck: verzenden, een extra foto vragen of retourneren?",
+    "qcDescription": "Controleer je artikel, het maatlabel en de retourtermijn van de verkoper. Bepaal met de magazijnfoto’s van CSSBuy of je de verzending kunt goedkeuren.",
+    "sheetTitle": "CSSBuy-spreadsheet: productlinks, prijzen en QC-checklist",
+    "sheetDescription": "Vergelijk drie CSSBuy-vondsten met productlinks, dollarprijzen op de peildatum en één fotocontrole per artikel. Bekijk de prijs van jouw uitvoering.",
+    "shipTitle": "CSSBuy-verzendcalculator: gewicht en pakketmaten invullen",
+    "shipDescription": "Open de officiële verzendcalculator van CSSBuy en volg het voorbeeld van een pakket van 2 kg. Vergelijk verzendopties, gewichtsstappen en tarieven.",
+    "findLink": "Bekijk de producten",
+    "qcLink": "Controleer de magazijnfoto’s",
+    "parcelLink": "Een pakket laten verzenden",
+    "qcDecision": "Verzenden, een extra foto vragen of het artikel retourneren?",
+    "sheetHeading": "Drie vondsten om vóór je bestelling te vergelijken",
+    "productLabel": "Product",
+    "priceLabel": "Vermelde prijs (USD)",
+    "qcLabel": "Waar let je op bij de fotocontrole?",
+    "priceDate": "De prijzen zijn genoteerd op 8 oktober 2026, exclusief verzending. Open de productpagina voor de actuele prijs van jouw maat en uitvoering.",
+    "checks": [
+      "Vergelijk de maatlabels van beide schoenen met je bestelling en vraag naar de lengte van de binnenzool, van hiel tot teen.",
+      "Vraag om de borstbreedte van de plat neergelegde trui, gemeten van oksel tot oksel.",
+      "Controleer of je gekozen uitvoering het T-shirt, de korte broek of beide bevat."
+    ],
+    "calcLink": "Open de officiële verzendcalculator van CSSBuy",
+    "calcExample": "Kies het land van bestemming. Vul voor een voorbeeldpakket van 2 kg inclusief verpakking 2000 g in en gebruik als buitenmaten 35 × 25 × 18 cm. Bekijk per beschikbare verzendoptie welk gewicht telt, hoe dit wordt afgerond en welke prijs erbij staat. Herhaal de berekening vóór betaling met de door het magazijn gemeten maten.",
+    "sourceShip": "Pakketten doorsturen en samenvoegen",
+    "sourceReturn": "Retourneren en ruilen",
+    "pointLink": "Verkeerd artikel ontvangen? Bekijk de magazijnfoto’s voordat je een retour aanvraagt.",
+    "sizeLink": "Verkeerde schoenmaat? Bekijk de checklist voor retourneren.",
+    "qcOutcomes": [
+      [
+        "Verzending goedkeuren",
+        "Geef het artikel vrij als de uitvoering, de maten en de inhoud kloppen met je bestelling en de staat op de foto’s aan je verwachtingen voldoet."
+      ],
+      [
+        "Om een foto of meting vragen",
+        "Vraag bij twijfel om één specifieke foto of meting, bijvoorbeeld van het maatlabel of van de lengte van de binnenzool van hiel tot teen."
+      ],
+      [
+        "Een retour of omruiling aanvragen",
+        "Heb je het verkeerde artikel ontvangen, ontbreken er onderdelen of is een gebrek bevestigd, bewaar dan de foto’s en controleer vóór je aanvraag de retourtermijn van de verkoper."
+      ]
+    ]
+  },
+  "pt": {
+    "qcTitle": "Fotos de inspeção da CSSBuy: enviar, pedir outra foto ou devolver?",
+    "qcDescription": "Confira o artigo, a etiqueta de tamanho e o prazo de devolução do vendedor. Use as fotos do armazém da CSSBuy para decidir se pode autorizar o envio.",
+    "sheetTitle": "Tabela CSSBuy: links de produtos, preços e lista de inspeção",
+    "sheetDescription": "Compare três produtos da CSSBuy com links, preços em dólares na data da consulta e um detalhe a verificar nas fotos de cada artigo.",
+    "shipTitle": "Calculadora de envio da CSSBuy: como inserir peso e dimensões",
+    "shipDescription": "Abra a calculadora oficial da CSSBuy e acompanhe o exemplo de um pacote de 2 kg. Compare as opções de envio, o arredondamento do peso e as tarifas.",
+    "findLink": "Explorar os produtos",
+    "qcLink": "Conferir as fotos do armazém",
+    "parcelLink": "Como solicitar o envio",
+    "qcDecision": "Autorizar o envio, pedir outra foto ou devolver o artigo?",
+    "sheetHeading": "Três produtos para comparar antes da compra",
+    "productLabel": "Produto",
+    "priceLabel": "Preço anunciado (USD)",
+    "qcLabel": "O que verificar nas fotos",
+    "priceDate": "Preços registados em 8 de outubro de 2026, com custos de envio à parte. Consulte a página do produto para confirmar o preço atual do tamanho e do modelo escolhidos.",
+    "checks": [
+      "Compare as etiquetas de tamanho dos dois sapatos com o pedido e peça a medida da palmilha, do calcanhar à ponta.",
+      "Peça a largura do peito, medida de axila a axila com a peça estendida numa superfície plana.",
+      "Confirme se a opção escolhida inclui a parte de cima, os calções ou as duas peças."
+    ],
+    "calcLink": "Abrir a calculadora de envio oficial da CSSBuy",
+    "calcExample": "Escolha o país de destino. Para um pacote de exemplo com 2 kg já embalado, introduza 2000 g e as dimensões exteriores de 35 × 25 × 18 cm. Em cada opção disponível, confira o peso usado para a cobrança, a regra de arredondamento e o preço apresentado. Antes de pagar, repita o cálculo com as medidas do armazém.",
+    "sourceShip": "Reencaminhamento e agrupamento de encomendas",
+    "sourceReturn": "Devoluções e trocas",
+    "pointLink": "Recebeu o artigo errado? Confira as fotos antes de pedir a devolução.",
+    "sizeLink": "O calçado chegou no tamanho errado? Consulte a lista de inspeção para devolução.",
+    "qcOutcomes": [
+      [
+        "Autorizar o envio",
+        "Autorize o envio se a variante, as medidas e o conteúdo correspondem ao pedido e o estado do artigo nas fotos é satisfatório."
+      ],
+      [
+        "Pedir uma verificação",
+        "Se um detalhe não estiver claro, peça uma foto ou medida específica, como uma imagem da etiqueta de tamanho ou o comprimento da palmilha do calcanhar à ponta."
+      ],
+      [
+        "Pedir devolução ou troca",
+        "Se o artigo estiver trocado, faltarem peças ou houver um defeito confirmado, guarde as fotos e consulte o prazo de devolução do vendedor antes de enviar o pedido."
+      ]
+    ]
+  }
+}

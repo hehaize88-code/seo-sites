@@ -4,6 +4,7 @@ from pathlib import Path
 from urllib.parse import urlsplit,unquote
 import xml.etree.ElementTree as ET
 from bs4 import BeautifulSoup
+from editorial import NEW_ARTICLES, UPDATED
 BASE=Path(__file__).resolve().parent
 ROOT=BASE.parents[1]/'cssbuys-store'
 LANGS=['en','de','fr','es','it','pl','nl','pt']
@@ -49,16 +50,28 @@ for address in urls:
   if u.path.startswith('/categories/'):continue
   check(file_for(u.path).exists(),f'Broken link {path} -> {href}')
  for image in soup.select('img[src^="/assets/"]'):check((ROOT/image['src'].lstrip('/')).exists(),f'Missing image {path}')
+articles = json.loads((BASE/'articles.json').read_text())
+products = json.loads((BASE/'products.json').read_text())
+page_count = 3 + len(articles) + len(NEW_ARTICLES) + len(products)
 for lang in LANGS:
  group=[p for p in pages if locale(p)==lang]
- check(len(group)==30,f'Page count {lang}: {len(group)}')
+ check(len(group)==page_count,f'Page count {lang}: {len(group)}')
+ for slug in NEW_ARTICLES:
+  article_path=('' if lang=='en' else '/'+lang)+'/guides/'+slug
+  page=pages.get(article_path)
+  check(page is not None, f'Missing guide {article_path}')
+  if page:
+   metadata=next(s for s in json.loads(page.select_one('script[type="application/ld+json"]').string) if s.get('@type')=='Article')
+   check(metadata['headline']==page.h1.get_text(strip=True) and metadata['inLanguage']==lang and metadata['datePublished']==UPDATED, f'Article metadata {article_path}')
+   check(len(page.select('article > h2'))>=5 and len(page.select('article > p'))>=10, f'Incomplete article {article_path}')
+   check(any(a.get('href')==article_path for a in pages[('' if lang=='en' else '/'+lang)+'/guides/'].select('a')), f'Missing hub link {article_path}')
  for file in (BASE/'articles/en').glob('*.html'):
   source=BeautifulSoup(file.read_text(),'html.parser')
   target=BeautifulSoup((BASE/'articles'/lang/file.name).read_text(),'html.parser')
   for tag in ['h2','p','li','td','th']:
    check(len(source.find_all(tag))==len(target.find_all(tag)),f'Partial translation {lang} {file.name} {tag}')
-check(len(urls)==240 and len(set(urls))==240,'Sitemap count')
-print(f'Checked {len(pages)} pages, {len(urls)} sitemap URLs and 136 complete article bodies.')
+check(len(urls)==len(set(urls))==page_count*len(LANGS),'Sitemap count')
+print(f'Checked {len(pages)} pages, {len(urls)} sitemap URLs and {(len(articles)+len(NEW_ARTICLES))*len(LANGS)} complete article bodies.')
 for e in errors:print(e)
 if errors:raise SystemExit(f'{len(errors)} validation errors')
 print('PASS')

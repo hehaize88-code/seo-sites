@@ -16,12 +16,14 @@ function setup(analytics=true) {
 }
 const x=setup();const element=new Element();
 element.link={href:'https://www.cnfanssp.com/AllProducts/3400.html',textContent:'Jordan 4',dataset:{location:'hero_products',productId:'3400'}};
-x.handlers.click({target:element});assert.equal(x.events.length,1);assert.equal(x.events[0][1],'open_main_site');assert.equal(x.events[0][2].page_language,'fr');assert.equal(x.events[0][2].product_id,'3400');
-element.link.href='https://cssbuys.store/fr/guides/';x.handlers.click({target:element});assert.equal(x.events.length,1);
+x.handlers.click({target:element});assert.equal(x.events.length,2);assert.equal(x.events[0][1],'open_main_site');assert.equal(x.events[0][2].page_language,'fr');assert.equal(x.events[0][2].product_id,'3400');
+assert.equal(x.events[1][1],'product_outbound');assert.equal(x.events[1][2].product_id,'3400');
+element.link.href='https://cssbuys.store/fr/guides/';x.handlers.click({target:element});assert.equal(x.events.length,2);
+element.link.href='https://www.cnfanssp.com/shoes/';x.handlers.click({target:element});assert.deepEqual(x.events.map(e=>e[1]),['open_main_site','product_outbound','open_main_site']);
 const form=new Form('  Jordan 4  ');x.forms.push(form);let prevented=0;
 x.handlers.submit({target:form,preventDefault:()=>prevented++});assert.equal(prevented,1);assert.equal(form.input.value,'Jordan 4');
-assert.equal(x.events[1][1],'search');assert.equal(x.events[1][2].search_term,'Jordan 4');assert.equal(x.events[2][2].click_location,'homepage_search');
-x.events[2][2].event_callback();x.timers.forEach(fn=>fn());assert.equal(form.submissions,1);
+assert.equal(x.events[3][1],'search');assert.equal(x.events[3][2].search_term,'Jordan 4');assert.equal(x.events[4][2].click_location,'homepage_search');
+x.events[4][2].event_callback();x.timers.forEach(fn=>fn());assert.equal(form.submissions,1);
 x.winhandlers.pageshow();assert.equal(form.dataset.submitting,undefined);
 const y=setup(false);let blocked=false;y.handlers.submit({target:new Form('LACOSTE'),preventDefault:()=>blocked=true});assert.equal(blocked,false);
 let blank=false;y.handlers.submit({target:new Form('   '),preventDefault:()=>blank=true});assert.equal(blank,true);

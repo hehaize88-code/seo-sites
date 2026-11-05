@@ -1,0 +1,83 @@
+{
+  "parcel": {
+    "title": "How to Submit a CSSBuy Parcel: A Pre-Shipping Checklist",
+    "description": "Choose warehouse items, compare packing options and shipping lines, and check your address and deposit before submitting a CSSBuy parcel.",
+    "lead": "Open My intl order in your CSSBuy User Center, select the warehouse items you want to ship, and enter your delivery details. Before paying the shipping deposit, check the photos, the packing instructions and the route offered for that combination of items. Here is how to make those decisions, using a pair of shoes and a hoodie as a running example.",
+    "sections": [
+      [
+        "Start with the items CSSBuy has received",
+        "Open the record for each item you intend to select. Match its order reference, quantity and chosen option to what you bought. A single product listing might cover a dozen colours. The photograph on the listing can help identify the model, but the warehouse photographs show which colour and size arrived. If you bought two of one item, count the units before adding the order to the parcel. A seller's domestic delivery notification and a warehouse item ready to select are two different milestones.",
+        "For the shoes, read the size on both labels and compare the pair. For the hoodie, line up the photographed label and a useful measurement with the seller's size chart. If the chart gives a flat chest width, compare it with another flat width. A photo that cuts off the end of the ruler leaves the question open. Ask for the missing view while the item is in the warehouse. Keep an unresolved item out of the parcel and check any return deadline shown for that particular order before you decide to wait for another delivery."
+      ],
+      [
+        "Choose what to consolidate",
+        "CSSBuy offers consolidation so several warehouse items can travel in one outer parcel. Write down the available route, estimated freight and packing services for the combined selection. Then check the same fields for the alternatives you would actually use. Two parcels may each incur a starting charge, while a larger combined box can attract a higher billable weight. You need both quotes to see which difference matters for your items and destination.",
+        "Imagine the hoodie has arrived but you are waiting for the seller to exchange one shoe. Shipping the hoodie alone means paying for a second parcel later. Waiting could make sense if the exchange fits the warehouse timing and you have no deadline for the hoodie. If another item in the same order has a battery, check which routes accept that combination. A route available for a garment alone may disappear when the other item is selected. Decide which items and services to compare before relying on a displayed price.",
+        "For a fair comparison, keep the destination, service level and packing assumptions the same in both estimates. If you change the shipping line at the same time as you remove a box, you cannot tell which decision changed the price."
+      ],
+      [
+        "Give the warehouse a packing instruction it can follow",
+        "With a shoebox, decide what you want to receive. A collector who needs the original box should request that it travel inside the shipping carton and check the reinforcement options shown for the parcel. If you only need the shoes, ask whether the warehouse can remove that specific retail box while protecting the shoes from rubbing or being crushed. Identify the order reference in the note. A general instruction to remove all boxes could also discard packaging you wanted to keep for another item.",
+        "Describe the result in plain language. For example, “For the shoes in order A, remove the retail box if available and keep the pair together. Keep the hoodie in its protective bag.” Adjust those instructions to the options in your account. The hoodie may help fill space, but a hard buckle, exposed zipper or heavy item packed against a shoe can mark the surface. When shape matters, ask what protection the warehouse can provide. Compare any service charge and the resulting packed dimensions before choosing."
+      ],
+      [
+        "Use the packed size to check a 2 kg estimate",
+        "Enter the destination and parcel details in the official shipping calculator. Use the weight units shown on screen. When it asks for grams, a 2 kg parcel is 2,000 g. Enter the outer length, width and height you expect after packing. Product measurements from a size chart describe the item and cannot stand in for those dimensions. Save the route name and date alongside the estimate so you can repeat the same comparison when the warehouse has measured the carton.",
+        "For an illustration, suppose the shoes and hoodie together weigh 2 kg packed. A box measuring 40 × 30 × 20 cm occupies 24,000 cubic centimetres. A smaller outer carton measuring 35 × 25 × 18 cm occupies 15,750. Even if both briefly show the same scale weight, the smaller carton can make a difference on a route priced by volume. Use the volumetric divisor, minimum charge and rounding rule published for the route on your screen. A route priced by actual weight could give a different answer. Neither box size alone tells you a price.",
+        "If your cheapest option depends on staying just below a size or weight limit, check the estimate with slightly larger dimensions too. This shows whether a little padding would move the parcel to a different price band or make the route unavailable. You can then decide whether to accept the next eligible option or change the packing."
+      ],
+      [
+        "Check the recipient, route and total before paying",
+        "Read the recipient details as they would appear on a label. Confirm the destination country, postal code, street number, building or apartment, and the name used for delivery. Check that the contact method is one you can actually monitor. An address saved for a previous parcel can look familiar even when it belongs to a different recipient. Compare these fields with the current order before confirming the route.",
+        "Read the route's conditions for the selected items, including size limits, tracking coverage and the delivery estimate. If you add reinforcement or insurance, look at the service description and charge in the account. Save the item selection, packing note, route and total together. CSSBuy calculates the international shipping deposit from the destination, shipping method and estimated weight. The final freight calculation uses the parcel size and weight verified by the shipping company. Record the initial deposit separately from the product purchase and domestic delivery so a later account adjustment can be matched to the right payment."
+      ],
+      [
+        "Follow the parcel after submission",
+        "Once you have submitted, look for the parcel record before starting another submission or payment. Match the included order references to your list and keep the parcel reference beside them. If the record shows a packing question, read it while the warehouse can still act on your instructions. If you spot a wrong address or an omitted item, send a note against that parcel and ask whether the requested change is still possible at its current stage.",
+        "When the parcel has been sent out, open My Parcel in the User Center and use the tracking information attached to that shipment. In the shoes-and-hoodie example, you may have two seller order references and one international tracking record. Save that record for the delivery journey and keep the incoming seller numbers with the individual orders. At delivery, check the outer carton and unpack against your saved list. If something is missing or damaged, record which item is affected and keep the relevant packing and photos with the parcel reference when contacting support."
+      ]
+    ]
+  },
+  "tracking": {
+    "title": "CSSBuy Tracking Not Updating? What to Check in My Parcel",
+    "description": "Find the right CSSBuy tracking number, read the latest carrier scan, and decide when to check a local carrier or send a parcel note.",
+    "lead": "Open My Parcel in your CSSBuy User Center and choose the international parcel you are waiting for. Record the carrier, tracking number and last dated event. Those three details tell you much more than the number of days since you placed the product order. Start by checking which part of the journey the number actually describes.",
+    "sections": [
+      [
+        "Check which shipment you are following",
+        "An item bought through CSSBuy can have a domestic journey from the seller to the warehouse and a separate international journey after you submit a parcel. Open the item's order details if the seller has dispatched it but it has yet to appear in the warehouse. A domestic tracking event marked delivered can mean the item reached its destination in China. Check your warehouse record for receipt and inspection before looking for a delivery at your home address.",
+        "Once two or more items are packed together, their seller numbers continue to describe their original journeys. The outgoing parcel can have its own tracking number covering all the selected items. Keep a simple note with the incoming order numbers on one line and the outgoing parcel reference and tracking number on the next. This is especially helpful if several parcels contain similar shoes or clothing, or if the warehouse divided your selection into more than one shipment."
+      ],
+      [
+        "Find the parcel number and carrier tracking number",
+        "In My Parcel, match the shipment to its contents, destination and chosen line. Record the CSSBuy parcel reference for messages to the warehouse and the carrier tracking number for a carrier lookup. Copy the characters from the parcel record rather than retyping a long string from a screenshot. An extra space or a letter that looks like a digit is enough to make a genuine number appear unrecognised.",
+        "If the record only shows packing or a request for payment or information, read the account message before searching a tracking website. A carrier number may become available later in the dispatch process. If there is already a shipment link, use the carrier named for that parcel. Two carriers can use similar-looking identifiers. When the carrier lookup gives no result, save its exact response alongside the account status. That lets support distinguish a number that was just assigned from a record associated with the wrong line."
+      ],
+      [
+        "Read the wording of the latest event",
+        "Separate electronic information from a physical scan. A carrier can receive label details before it receives a carton. UPS, for example, distinguishes its label-created status from the stage when it has the shipment in its network. With other carriers the names and order of events may differ. Read the explanation supplied by the operator that produced the status. Treat a forecast arrival date as a planning estimate and use dated events to establish which steps have actually been recorded.",
+        "A useful tracking note contains the exact event text, facility or city if displayed, local date and time if supplied, and the page you read it on. Keep the original wording if an automatic translation sounds odd. A time-zone change or a repeat of the same event on a second website can make the history look as if the parcel moved twice. Check for a new location or a new physical scan before recording another step."
+      ],
+      [
+        "Check the handover to the delivery carrier",
+        "An international line may use a partner for the final delivery. Look in the parcel details and the original carrier's history for a named delivery partner, a local tracking link or an additional reference. Use a second number only when one of those sources connects it to your parcel. If you do find one, save both numbers and the message that links them. Some shipments continue under one identifier throughout, so a blank secondary field alone tells you little.",
+        "The local operator may know about an intended handover before receiving the package. For example, USPS uses statuses for parcels with a shipping partner while USPS is awaiting the item. The country named in a line's description or an electronic notification from the local operator does not establish the parcel's physical location. If the international history shows a departure and the local page shows it is awaiting the shipment, record both entries. The next useful question is which carrier has confirmed possession most recently."
+      ],
+      [
+        "Decide whether the latest status needs action",
+        "Compare the time since the last meaningful event with the delivery range and any current service notice for the specific route you bought. Scan frequency differs by carrier and leg. Long-distance travel can leave a gap between facilities. Repeatedly refreshing the same carrier history adds no evidence. Set a point to check again based on the published estimate or the next instruction shown in the parcel record.",
+        "A message asking for an address correction, an attempted delivery, a collection deadline or a specific document changes the decision. Open the carrier's official tracking page or CSSBuy account independently and follow the instructions there. Record the stated deadline, the office handling the issue and any case reference. If tracking says delivered and you have no parcel, compare the delivery location or proof of delivery shown with your address and ask the delivering carrier about that particular scan. For a missing international handover or a dispatch the warehouse has yet to confirm, use the CSSBuy parcel note."
+      ],
+      [
+        "Work through a quiet tracking interval",
+        "Suppose a seller's tracking page says your hoodie was delivered on Monday. Your CSSBuy warehouse record later shows the correct hoodie, and you choose to send it with a pair of shoes. On the outgoing parcel record a carrier label appears, while the local carrier says it is waiting for the item. Monday belongs to the earlier domestic delivery. The label is the starting point for the outgoing record, and the local message says what that carrier currently knows. None of those entries supplies an exact arrival date for your home.",
+        "Now suppose the original line adds an acceptance scan and later shows a handover with a linked local reference. Save those two new facts and check that local reference on the named carrier's site. If it shows a delivery attempt, the practical next step is to read the carrier's collection or redelivery instructions. If it still shows no receipt and the route's quoted delivery window has passed, ask CSSBuy to verify the handover. Mention the last confirmed scan and the line's estimate so the person reading your note can identify the gap."
+      ],
+      [
+        "Send one parcel note with a question someone can answer",
+        "Keep your message tied to the parcel. A useful example is “Parcel [reference], shipping line [name], tracking [number]. The last physical scan was [text] at [location] on [date]. The local carrier shows [status] for [linked number]. Can you confirm which operator currently has the parcel and whether I need to provide anything?” Attach the relevant status history or address warning inside the account if needed, with unrelated personal information cropped out.",
+        "Ask for the next check or response point if the carrier cannot yet confirm the next scan. Save the reply with the existing case and add any later event to the same record. This preserves the difference between what the warehouse confirmed, what the carrier reported and what is still being investigated. When the shipment reaches you, match the label and contents to the parcel reference and use the same record for an after-sales question if one arises."
+      ]
+    ]
+  }
+}
