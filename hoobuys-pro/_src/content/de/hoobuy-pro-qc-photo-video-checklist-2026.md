@@ -1,6 +1,6 @@
 Hoobuy QC-Fotos: Prüfliste für Schuhe und Kleidung
 Prüfe Artikel, Größe, Maße und sichtbare Fehler in Hoobuy QC-Fotos und entscheide über gezielte zusätzliche Nachweise.
-
+<h2>Mit genauem Produkt und Paket weiterarbeiten</h2><p>Prüfe vor der Bestellung mit dem <a href="/hoobuy-product-links">Link-Leitfaden</a> Original-ID und Variante. Die <a href="/hoobuy-clothing-finds">drei Kleidungsbeispiele</a> verbinden datierte Preise mit konkreten Größen- und QC-Fragen. Trenne Waren- und Zahlungskosten von der <a href="/shipping-guide">internationalen Versandschätzung</a>.</p>
 <p><strong>Beginne QC mit genauer Bestellung, Farbe, Größe und Menge, danach folgen Maße und sichtbarer Zustand.</strong> Angebotsbilder oder Fotos anderer Käufer beweisen nicht den Zustand deines Artikels. Lagerfotos garantieren keine Echtheit, verborgenen Materialien oder Haltbarkeit.</p>
 <p>Eine gute Prüfung beantwortet eine konkrete Frage. Wer nur auffällige Mängel sucht, übersieht falsche Varianten oder fehlende Teile. Gehe von der Identität zu entscheidungsrelevanten Details.</p>
 <h2>Grenzen der Bilder verstehen</h2>

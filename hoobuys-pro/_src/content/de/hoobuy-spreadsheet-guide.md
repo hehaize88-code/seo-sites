@@ -1,6 +1,6 @@
 Hoobuy Spreadsheet mit QC: Links, Fotos und Preise prüfen
 Prüfe Hoobuy-Listen anhand genauer Links, Varianten und datierter Preise; trenne Verkäuferbilder von Lager-QC.
-
+<h2>Mit genauem Produkt und Paket weiterarbeiten</h2><p>Prüfe vor der Bestellung mit dem <a href="/hoobuy-product-links">Link-Leitfaden</a> Original-ID und Variante. Die <a href="/hoobuy-clothing-finds">drei Kleidungsbeispiele</a> verbinden datierte Preise mit konkreten Größen- und QC-Fragen. Trenne Waren- und Zahlungskosten von der <a href="/shipping-guide">internationalen Versandschätzung</a>.</p>
 <p><strong>Ein Hoobuy Spreadsheet mit QC unterscheidet das Verkäuferangebot vom Nachweis über den tatsächlich eingetroffenen Artikel.</strong> Speichere vor dem Kauf URL, Variante, Ausgangspreis, Größenbelege und Datum. Ergänze danach Lagerreferenz, Fotos und Prüfentscheidung.</p>
 <p>Bild, Kurzname und Link unterstützen die Suche, reichen aber nicht für eine Entscheidung. Angebote veralten, Bilder werden wiederverwendet und Varianten ändern sich. Jede Zeile ist ein datierter Datensatz und keine dauerhafte Zusage.</p>
 <h2>Mit der genauen Zielseite beginnen</h2>

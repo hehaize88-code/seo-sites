@@ -1,6 +1,6 @@
-Calculadora Hoobuy: estimación frente al cargo final
-Explica diferencias de transporte guardando entradas, depósito, medidas verificadas y ajustes del mismo paquete.
-
+Cargo final Hoobuy: por qué cambia el precio del envío
+Compara estimación, depósito y cargo final Hoobuy. Revisa cambios de medidas, embalaje, ruta, servicios y liquidación del transporte.
+<p class="answer"><strong>Si cambia el importe final, compara los datos iniciales con medidas embaladas y servicios elegidos.</strong> Conserva estimación, depósito y liquidación como etapas separadas. Usa la <a href="/shipping-guide">guía de la calculadora</a> para el primer presupuesto; aquí se explica la conciliación posterior.</p>
 <p>Una estimación Hoobuy es útil si se puede reproducir. Guarda los datos introducidos y la fecha, no solo el precio. La guía oficial distingue depósito estimado y coste final calculado con peso y dimensiones verificados. Una diferencia no demuestra por sí sola un error.</p>
 <h2>Guardar todas las entradas</h2>
 <p>Registra destino, código postal pertinente, categoría, peso, dimensiones, línea y embalaje. Marca cada dato como medido o supuesto. Una incógnita no vale cero. Para comparar dos momentos debes conocer qué entradas cambiaron.</p>

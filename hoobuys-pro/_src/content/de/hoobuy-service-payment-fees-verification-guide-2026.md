@@ -1,6 +1,6 @@
 Hoobuy-Gebühren: Bestellung, Zahlung und Leistungen
 Ordne Gebühren nach Vorgang und prüfe aktuelle Beträge, ohne allgemeine Prozentsätze vorauszusetzen.
-
+<h2>Mit genauem Produkt und Paket weiterarbeiten</h2><p>Prüfe vor der Bestellung mit dem <a href="/hoobuy-product-links">Link-Leitfaden</a> Original-ID und Variante. Die <a href="/hoobuy-clothing-finds">drei Kleidungsbeispiele</a> verbinden datierte Preise mit konkreten Größen- und QC-Fragen. Trenne Waren- und Zahlungskosten von der <a href="/shipping-guide">internationalen Versandschätzung</a>.</p>
 <p>Eine verlässliche Gebührenaussage nennt Leistung, Berechnungsbasis und Transaktion. Ein anderswo genannter Prozentsatz beweist nicht, was für deine Zahlung gilt. Ordne die Kosten vor dem Addieren.</p>
 <h2>Gebühren unterscheiden</h2>
 <p>Trenne Produkt, Inlandslieferung, bestätigte Bestellgebühren, Aufladung oder Zahlung, Umrechnung, Lagerleistungen und internationalen Versand. Bezeichnungen können wechseln; Funktion und Einschluss im Gesamtbetrag sind entscheidend.</p>

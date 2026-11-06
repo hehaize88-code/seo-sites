@@ -25,7 +25,7 @@
     "essential": "Start with these essentials",
     "productsTitle": "Hoobuy Finds: Shoes, Hoodies & Product Links",
     "productsDesc": "Browse product links with matching listing images, approximate USD prices and category-specific checks before ordering.",
-    "catalogNote": "Product names and images identify source listings, not warehouse QC or authenticity checks. Prices below retain the September 10, 2026 reference values; confirm the selected option on the destination page.",
+    "catalogNote": "Product names and images identify source listings. The three clothing records with source IDs were checked on November 6, 2026; other records retain September 10 reference prices. Confirm the selected option, availability and current amount before purchase.",
     "currency": "USD estimates use ¥1 ≈ $0.14 as a comparison assumption, not a live exchange rate or checkout quote. Shipping and selected services are separate.",
     "view": "View product",
     "listing": "Listing image",
@@ -56,7 +56,15 @@
     "skip": "Skip to content",
     "sitemap": "Sitemap",
     "filter": "Filter products",
-    "results": "products"
+    "results": "products",
+    "qcNav": "QC photos",
+    "shippingNav": "Shipping",
+    "articlesNav": "Articles",
+    "buyNav": "How to buy",
+    "reference": "Source ID",
+    "checked": "Listing checked",
+    "releaseReview": "Updated November 6, 2026",
+    "releaseSource": "Workflow and calculator inputs checked against the official Hoobuy resources on November 6, 2026. Product records are dated listing observations; selected options, stock and checkout charges require confirmation. Photos identify listings and do not certify a purchased item. <a href=\"https://hoobuy.com/estimation\" target=\"_blank\" rel=\"noopener\">Hoobuy Shipping Fee Estimation</a> · <a href=\"https://hoobuy.com/beginner-guide?stepKey=Custom1\" target=\"_blank\" rel=\"noopener\">Hoobuy Beginner’s Guide</a>"
   },
   "de": {
     "home": "Startseite",
@@ -84,7 +92,7 @@
     "essential": "Die wichtigsten Grundlagen",
     "productsTitle": "Hoobuy-Produktfunde: Schuhe, Hoodies & Produktlinks",
     "productsDesc": "Produktlinks mit passenden Angebotsbildern, ungefähren USD-Preisen und gezielten Prüfhinweisen vor der Bestellung.",
-    "catalogNote": "Namen und Bilder kennzeichnen Angebote, keine Lagerprüfung oder Echtheitsbestätigung. Die Preise entsprechen den Referenzwerten vom 10. September 2026; prüfe die ausgewählte Variante auf der Zielseite.",
+    "catalogNote": "Namen und Bilder identifizieren Angebote. Die drei Kleidungsdatensätze mit Original-ID wurden am 6. November 2026 geprüft; andere Preise behalten den Referenzstand vom 10. September. Bestätige Variante, Verfügbarkeit und aktuellen Betrag vor dem Kauf.",
     "currency": "Die USD-Schätzungen verwenden ¥1 ≈ $0,14 als Vergleichsannahme, nicht als aktuellen Wechselkurs oder Zahlungsangebot. Versand und gewählte Leistungen kommen gesondert hinzu.",
     "view": "Produkt ansehen",
     "listing": "Angebotsbild",
@@ -115,7 +123,15 @@
     "skip": "Zum Inhalt",
     "sitemap": "Sitemap",
     "filter": "Produkte filtern",
-    "results": "Produkte"
+    "results": "Produkte",
+    "qcNav": "QC-Fotos",
+    "shippingNav": "Versandkosten",
+    "articlesNav": "Artikel",
+    "buyNav": "Kaufanleitung",
+    "reference": "Original-ID",
+    "checked": "Angebot geprüft",
+    "releaseReview": "Aktualisiert am 6. November 2026",
+    "releaseSource": "Ablauf und Rechnereingaben wurden am 6. November 2026 anhand der offiziellen Hoobuy-Quellen geprüft. Produktdaten sind datierte Angebotsbeobachtungen; Variante, Bestand und Zahlbetrag bleiben beim Kauf zu bestätigen. Bilder identifizieren Angebote und ersetzen keine Prüfung eines gekauften Artikels. <a href=\"https://hoobuy.com/estimation\" target=\"_blank\" rel=\"noopener\">Hoobuy Shipping Fee Estimation</a> · <a href=\"https://hoobuy.com/beginner-guide?stepKey=Custom1\" target=\"_blank\" rel=\"noopener\">Hoobuy Beginner’s Guide</a>"
   },
   "es": {
     "home": "Inicio",
@@ -143,7 +159,7 @@
     "essential": "Guías esenciales para empezar",
     "productsTitle": "Productos Hoobuy: calzado, sudaderas y enlaces",
     "productsDesc": "Enlaces de productos con imágenes de la ficha, precios aproximados en USD y comprobaciones específicas antes del pedido.",
-    "catalogNote": "Nombres e imágenes identifican fichas, no inspecciones del almacén ni autenticidad. Los importes conservan la referencia del 10 de septiembre de 2026; verifica la variante en la página de destino.",
+    "catalogNote": "Nombres e imágenes identifican ofertas. Las tres prendas con ID original se revisaron el 6 de noviembre de 2026; los demás precios conservan la referencia del 10 de septiembre. Confirma opción, disponibilidad e importe actual antes de comprar.",
     "currency": "Las estimaciones USD usan ¥1 ≈ $0,14 como supuesto comparativo, no como cambio actual ni precio de pago. Transporte y servicios elegidos son independientes.",
     "view": "Ver producto",
     "listing": "Imagen de la ficha",
@@ -174,7 +190,15 @@
     "skip": "Ir al contenido",
     "sitemap": "Mapa del sitio",
     "filter": "Filtrar productos",
-    "results": "productos"
+    "results": "productos",
+    "qcNav": "Fotos QC",
+    "shippingNav": "Envío",
+    "articlesNav": "Artículos",
+    "buyNav": "Cómo comprar",
+    "reference": "ID original",
+    "checked": "Ficha revisada",
+    "releaseReview": "Actualizado el 6 de noviembre de 2026",
+    "releaseSource": "Proceso y campos del calculador contrastados con los recursos oficiales Hoobuy el 6 de noviembre de 2026. Los productos son observaciones fechadas de fichas; variante, stock e importe se confirman al comprar. Las fotos identifican ofertas y no certifican una unidad adquirida. <a href=\"https://hoobuy.com/estimation\" target=\"_blank\" rel=\"noopener\">Hoobuy Shipping Fee Estimation</a> · <a href=\"https://hoobuy.com/beginner-guide?stepKey=Custom1\" target=\"_blank\" rel=\"noopener\">Hoobuy Beginner’s Guide</a>"
   },
   "fr": {
     "home": "Accueil",
@@ -202,7 +226,7 @@
     "essential": "Les bases pour commencer",
     "productsTitle": "Produits Hoobuy : chaussures, sweats et liens",
     "productsDesc": "Liens produits avec images correspondantes, prix approximatifs en USD et contrôles adaptés avant la commande.",
-    "catalogNote": "Noms et images identifient des offres, pas des contrôles d'entrepôt ni une authentification. Les prix conservent la référence du 10 septembre 2026 ; vérifiez la variante sur la fiche liée.",
+    "catalogNote": "Noms et images identifient des offres. Les trois vêtements avec ID original ont été vérifiés le 6 novembre 2026 ; les autres prix gardent la référence du 10 septembre. Confirmez variante, disponibilité et montant actuel avant achat.",
     "currency": "Les estimations USD utilisent ¥1 ≈ $0,14 comme hypothèse comparative, pas comme taux actuel ou prix de paiement. Transport et services choisis sont distincts.",
     "view": "Voir le produit",
     "listing": "Image de la fiche",
@@ -233,7 +257,15 @@
     "skip": "Aller au contenu",
     "sitemap": "Plan du site",
     "filter": "Filtrer les produits",
-    "results": "produits"
+    "results": "produits",
+    "qcNav": "Photos QC",
+    "shippingNav": "Livraison",
+    "articlesNav": "Articles",
+    "buyNav": "Comment acheter",
+    "reference": "ID original",
+    "checked": "Fiche vérifiée",
+    "releaseReview": "Mis à jour le 6 novembre 2026",
+    "releaseSource": "Parcours et champs du calculateur vérifiés le 6 novembre 2026 auprès des ressources officielles Hoobuy. Les produits sont des observations de fiches datées ; variante, stock et montant payable restent à confirmer. Les images identifient des offres sans certifier un article acheté. <a href=\"https://hoobuy.com/estimation\" target=\"_blank\" rel=\"noopener\">Hoobuy Shipping Fee Estimation</a> · <a href=\"https://hoobuy.com/beginner-guide?stepKey=Custom1\" target=\"_blank\" rel=\"noopener\">Hoobuy Beginner’s Guide</a>"
   },
   "it": {
     "home": "Home",
@@ -261,7 +293,7 @@
     "essential": "Le basi da cui iniziare",
     "productsTitle": "Prodotti Hoobuy: scarpe, felpe e collegamenti",
     "productsDesc": "Collegamenti ai prodotti con immagini corrispondenti, prezzi indicativi in USD e controlli specifici prima dell'ordine.",
-    "catalogNote": "Nomi e immagini identificano inserzioni, non controlli del magazzino o autenticità. I prezzi conservano il riferimento del 10 settembre 2026; verifica la variante nella pagina di destinazione.",
+    "catalogNote": "Nomi e immagini identificano offerte. I tre capi con ID originale sono stati verificati il 6 novembre 2026; gli altri prezzi mantengono il riferimento del 10 settembre. Conferma variante, disponibilità e importo attuale prima dell’acquisto.",
     "currency": "Le stime USD usano ¥1 ≈ $0,14 come ipotesi di confronto, non come cambio attuale o prezzo di pagamento. Spedizione e servizi scelti sono separati.",
     "view": "Vedi prodotto",
     "listing": "Immagine dell'inserzione",
@@ -292,6 +324,14 @@
     "skip": "Vai al contenuto",
     "sitemap": "Mappa del sito",
     "filter": "Filtra prodotti",
-    "results": "prodotti"
+    "results": "prodotti",
+    "qcNav": "Foto QC",
+    "shippingNav": "Spedizione",
+    "articlesNav": "Articoli",
+    "buyNav": "Come acquistare",
+    "reference": "ID originale",
+    "checked": "Scheda verificata",
+    "releaseReview": "Aggiornato il 6 novembre 2026",
+    "releaseSource": "Procedura e campi del calcolatore verificati sulle risorse ufficiali Hoobuy il 6 novembre 2026. I prodotti sono osservazioni datate di inserzioni; variante, disponibilità e importo si confermano all’acquisto. Le immagini identificano offerte senza certificare un esemplare acquistato. <a href=\"https://hoobuy.com/estimation\" target=\"_blank\" rel=\"noopener\">Hoobuy Shipping Fee Estimation</a> · <a href=\"https://hoobuy.com/beginner-guide?stepKey=Custom1\" target=\"_blank\" rel=\"noopener\">Hoobuy Beginner’s Guide</a>"
   }
 }

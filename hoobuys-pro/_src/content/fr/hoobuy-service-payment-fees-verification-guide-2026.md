@@ -1,6 +1,6 @@
 Frais Hoobuy : vérifier commande, paiement et services
 Classez les frais Hoobuy par étape et confirmez chaque montant dans la transaction actuelle sans inventer de taux fixe.
-
+<h2>Relier le produit exact au budget du colis</h2><p>Avant de commander, vérifiez ID original et variante avec le <a href="/hoobuy-product-links">guide des liens Hoobuy</a>. Les <a href="/hoobuy-clothing-finds">trois vêtements illustrés</a> associent prix datés et questions de taille et QC. Séparez marchandise et paiement de l’<a href="/shipping-guide">estimation de livraison internationale</a>.</p>
 <p>Une réponse fiable sur les frais Hoobuy doit identifier le service, la base de calcul et la transaction. Un pourcentage cité ailleurs ne prouve pas ce qui s'applique à votre paiement. Organisez les coûts avant d'additionner les montants.</p>
 <h2>Classer les frais</h2>
 <p>Séparez produit, livraison intérieure, frais de commande identifiés, recharge ou paiement, conversion, services d'entrepôt et transport international. Le nom d'une ligne peut varier ; sa fonction et son inclusion dans le total comptent davantage qu'une étiquette mémorisée.</p>

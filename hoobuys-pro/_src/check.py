@@ -12,6 +12,11 @@ for p in pages:
  assert d.xpath('/html/@lang')==[p['lang']],f
  assert d.xpath('//link[@rel="canonical"]/@href')==[p['url']],f
  assert len(d.xpath('//h1'))==1,f
+ assert d.xpath('//h1')[0].text_content().strip(),(f,'empty heading')
+ assert all(h.text_content().strip() for h in d.xpath('//h2|//h3')),(f,'empty section/card title')
+ assert d.xpath('//meta[@name="site-revision"]/@content')==['2026-11-06-links-clothing-shipping'],f
+ for asset in d.xpath('//link[@rel="stylesheet"]/@href|//script[@src]/@src'):
+  if asset.startswith('/'):assert (B/asset.lstrip('/')).is_file(),(f,asset)
  assert len(d.xpath('//meta[@name="description"]/@content')[0])>30,f
  assert 'noindex' not in d.xpath('//meta[@name="robots"]/@content')[0],f
  alt={a.get('hreflang'):a.get('href') for a in d.xpath('//link[@rel="alternate"]')}
@@ -36,6 +41,14 @@ ns={'s':'http://www.sitemaps.org/schemas/sitemap/0.9','x':'http://www.w3.org/199
 sitemap=etree.parse(str(B/'sitemap.xml'))
 assert set(sitemap.xpath('//s:loc/text()',namespaces=ns))=={p['url'] for p in pages}
 assert len(sitemap.xpath('//x:link',namespaces=ns))==len(pages)*6
-assert len(pages)==145 and Counter(p['lang'] for p in pages)=={l:29 for l in langs}
-assert all(len(docs[('/' if l=='en' else '/'+l+'/')+'guides'].xpath('//a[contains(@class,"article-card")]'))==23 for l in langs)
-print('PASS: 145 pages; 5 complete languages; unique titles; canonical/hreflang; sitemap; JSON-LD; internal links and anchors; analytics tag.')
+assert len(pages)==155 and Counter(p['lang'] for p in pages)=={l:31 for l in langs}
+assert all(len(docs[('/' if l=='en' else '/'+l+'/')+'guides'].xpath('//a[contains(@class,"article-card")]'))==25 for l in langs)
+for l in langs:
+ prefix='/' if l=='en' else '/'+l+'/'
+ for slug in ['hoobuy-product-links','hoobuy-clothing-finds']:
+  d=docs[prefix+slug]
+  assert len(d.xpath('//article[contains(@class,"article")]//p'))>=20,(l,slug,'incomplete article')
+  assert '7676979998' in d.xpath('//article')[0].text_content(),(l,slug,'missing source ID')
+ assert docs[prefix+'shipping-guide'].xpath('//a[@href="https://hoobuy.com/estimation"]'),l
+ assert len(docs[prefix+'hoobuy-clothing-finds'].xpath('//div[@class="evidence-grid"]//img'))==3,l
+print('PASS: 155 pages; 5 complete languages; 25 guides each; nonempty unique titles; canonical/hreflang; sitemap; JSON-LD; internal links, anchors and assets; analytics; new article parity.')

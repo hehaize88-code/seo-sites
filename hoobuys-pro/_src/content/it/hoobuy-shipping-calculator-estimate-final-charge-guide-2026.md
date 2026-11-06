@@ -1,6 +1,6 @@
-Calcolatore Hoobuy: stima e addebito finale
-Spiega le differenze conservando dati inseriti, deposito, misure verificate e aggiustamenti dello stesso pacco.
-
+Addebito finale Hoobuy: perché cambia il costo di spedizione
+Confronta stima, deposito e costo finale Hoobuy. Verifica variazioni di misure, imballaggio, linea, servizi scelti e saldo effettivo.
+<p class="answer"><strong>Se cambia l’importo finale, confronta dati iniziali, misure imballate e servizi selezionati.</strong> Conserva stima, deposito e saldo come fasi distinte. Per il primo preventivo usa la <a href="/shipping-guide">guida al calcolatore</a>; questo articolo riguarda il confronto successivo.</p>
 <p>Una stima Hoobuy è utile quando si può riprodurre. Salva dati e momento del calcolo, non soltanto il prezzo. La guida ufficiale distingue deposito stimato e costo finale basato su peso e dimensioni verificati. Una differenza non dimostra automaticamente un errore.</p>
 <h2>Conservare tutte le entrate</h2>
 <p>Registra destinazione, CAP pertinente, categoria, peso, dimensioni, linea e imballaggio. Distingui dati misurati e ipotizzati. Un valore ignoto non è zero. Per confrontare momenti diversi devi sapere quali elementi sono cambiati.</p>

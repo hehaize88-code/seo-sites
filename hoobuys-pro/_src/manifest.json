@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-12",
+  "date": "2026-11-06",
   "languages": [
     "en",
     "de",
@@ -7,25 +7,37 @@
     "fr",
     "it"
   ],
-  "articles_per_language": 23,
+  "articles_per_language": 25,
   "pages": [
     {
       "lang": "en",
       "slug": "",
       "url": "https://hoobuys.pro/",
-      "modified": "2026-10-12"
+      "modified": "2026-11-06"
     },
     {
       "lang": "en",
       "slug": "products",
       "url": "https://hoobuys.pro/products",
-      "modified": "2026-10-12"
+      "modified": "2026-11-06"
     },
     {
       "lang": "en",
       "slug": "guides",
       "url": "https://hoobuys.pro/guides",
-      "modified": "2026-10-12"
+      "modified": "2026-11-06"
+    },
+    {
+      "lang": "en",
+      "slug": "hoobuy-product-links",
+      "url": "https://hoobuys.pro/hoobuy-product-links",
+      "modified": "2026-11-06"
+    },
+    {
+      "lang": "en",
+      "slug": "hoobuy-clothing-finds",
+      "url": "https://hoobuys.pro/hoobuy-clothing-finds",
+      "modified": "2026-11-06"
     },
     {
       "lang": "en",
@@ -79,19 +91,19 @@
       "lang": "en",
       "slug": "hoobuy-service-payment-fees-verification-guide-2026",
       "url": "https://hoobuys.pro/hoobuy-service-payment-fees-verification-guide-2026",
-      "modified": "2026-09-10"
+      "modified": "2026-11-06"
     },
     {
       "lang": "en",
       "slug": "hoobuy-spreadsheet-guide",
       "url": "https://hoobuys.pro/hoobuy-spreadsheet-guide",
-      "modified": "2026-10-12"
+      "modified": "2026-11-06"
     },
     {
       "lang": "en",
       "slug": "hoobuy-pro-qc-photo-video-checklist-2026",
       "url": "https://hoobuys.pro/hoobuy-pro-qc-photo-video-checklist-2026",
-      "modified": "2026-10-12"
+      "modified": "2026-11-06"
     },
     {
       "lang": "en",
@@ -109,7 +121,7 @@
       "lang": "en",
       "slug": "hoobuy-shipping-calculator-estimate-final-charge-guide-2026",
       "url": "https://hoobuys.pro/hoobuy-shipping-calculator-estimate-final-charge-guide-2026",
-      "modified": "2026-09-10"
+      "modified": "2026-11-06"
     },
     {
       "lang": "en",
@@ -121,7 +133,7 @@
       "lang": "en",
       "slug": "shipping-guide",
       "url": "https://hoobuys.pro/shipping-guide",
-      "modified": "2026-10-12"
+      "modified": "2026-11-06"
     },
     {
       "lang": "en",
@@ -169,37 +181,49 @@
       "lang": "en",
       "slug": "faq",
       "url": "https://hoobuys.pro/faq",
-      "modified": "2026-10-12"
+      "modified": "2026-11-06"
     },
     {
       "lang": "en",
       "slug": "privacy",
       "url": "https://hoobuys.pro/privacy",
-      "modified": "2026-10-12"
+      "modified": "2026-11-06"
     },
     {
       "lang": "en",
       "slug": "terms",
       "url": "https://hoobuys.pro/terms",
-      "modified": "2026-10-12"
+      "modified": "2026-11-06"
     },
     {
       "lang": "de",
       "slug": "",
       "url": "https://hoobuys.pro/de/",
-      "modified": "2026-10-12"
+      "modified": "2026-11-06"
     },
     {
       "lang": "de",
       "slug": "products",
       "url": "https://hoobuys.pro/de/products",
-      "modified": "2026-10-12"
+      "modified": "2026-11-06"
     },
     {
       "lang": "de",
       "slug": "guides",
       "url": "https://hoobuys.pro/de/guides",
-      "modified": "2026-10-12"
+      "modified": "2026-11-06"
+    },
+    {
+      "lang": "de",
+      "slug": "hoobuy-product-links",
+      "url": "https://hoobuys.pro/de/hoobuy-product-links",
+      "modified": "2026-11-06"
+    },
+    {
+      "lang": "de",
+      "slug": "hoobuy-clothing-finds",
+      "url": "https://hoobuys.pro/de/hoobuy-clothing-finds",
+      "modified": "2026-11-06"
     },
     {
       "lang": "de",
@@ -253,19 +277,19 @@
       "lang": "de",
       "slug": "hoobuy-service-payment-fees-verification-guide-2026",
       "url": "https://hoobuys.pro/de/hoobuy-service-payment-fees-verification-guide-2026",
-      "modified": "2026-10-12"
+      "modified": "2026-11-06"
     },
     {
       "lang": "de",
       "slug": "hoobuy-spreadsheet-guide",
       "url": "https://hoobuys.pro/de/hoobuy-spreadsheet-guide",
-      "modified": "2026-10-12"
+      "modified": "2026-11-06"
     },
     {
       "lang": "de",
       "slug": "hoobuy-pro-qc-photo-video-checklist-2026",
       "url": "https://hoobuys.pro/de/hoobuy-pro-qc-photo-video-checklist-2026",
-      "modified": "2026-10-12"
+      "modified": "2026-11-06"
     },
     {
       "lang": "de",
@@ -283,7 +307,7 @@
       "lang": "de",
       "slug": "hoobuy-shipping-calculator-estimate-final-charge-guide-2026",
       "url": "https://hoobuys.pro/de/hoobuy-shipping-calculator-estimate-final-charge-guide-2026",
-      "modified": "2026-10-12"
+      "modified": "2026-11-06"
     },
     {
       "lang": "de",
@@ -295,7 +319,7 @@
       "lang": "de",
       "slug": "shipping-guide",
       "url": "https://hoobuys.pro/de/shipping-guide",
-      "modified": "2026-10-12"
+      "modified": "2026-11-06"
     },
     {
       "lang": "de",
@@ -343,37 +367,49 @@
       "lang": "de",
       "slug": "faq",
       "url": "https://hoobuys.pro/de/faq",
-      "modified": "2026-10-12"
+      "modified": "2026-11-06"
     },
     {
       "lang": "de",
       "slug": "privacy",
       "url": "https://hoobuys.pro/de/privacy",
-      "modified": "2026-10-12"
+      "modified": "2026-11-06"
     },
     {
       "lang": "de",
       "slug": "terms",
       "url": "https://hoobuys.pro/de/terms",
-      "modified": "2026-10-12"
+      "modified": "2026-11-06"
     },
     {
       "lang": "es",
       "slug": "",
       "url": "https://hoobuys.pro/es/",
-      "modified": "2026-10-12"
+      "modified": "2026-11-06"
     },
     {
       "lang": "es",
       "slug": "products",
       "url": "https://hoobuys.pro/es/products",
-      "modified": "2026-10-12"
+      "modified": "2026-11-06"
     },
     {
       "lang": "es",
       "slug": "guides",
       "url": "https://hoobuys.pro/es/guides",
-      "modified": "2026-10-12"
+      "modified": "2026-11-06"
+    },
+    {
+      "lang": "es",
+      "slug": "hoobuy-product-links",
+      "url": "https://hoobuys.pro/es/hoobuy-product-links",
+      "modified": "2026-11-06"
+    },
+    {
+      "lang": "es",
+      "slug": "hoobuy-clothing-finds",
+      "url": "https://hoobuys.pro/es/hoobuy-clothing-finds",
+      "modified": "2026-11-06"
     },
     {
       "lang": "es",
@@ -427,19 +463,19 @@
       "lang": "es",
       "slug": "hoobuy-service-payment-fees-verification-guide-2026",
       "url": "https://hoobuys.pro/es/hoobuy-service-payment-fees-verification-guide-2026",
-      "modified": "2026-10-12"
+      "modified": "2026-11-06"
     },
     {
       "lang": "es",
       "slug": "hoobuy-spreadsheet-guide",
       "url": "https://hoobuys.pro/es/hoobuy-spreadsheet-guide",
-      "modified": "2026-10-12"
+      "modified": "2026-11-06"
     },
     {
       "lang": "es",
       "slug": "hoobuy-pro-qc-photo-video-checklist-2026",
       "url": "https://hoobuys.pro/es/hoobuy-pro-qc-photo-video-checklist-2026",
-      "modified": "2026-10-12"
+      "modified": "2026-11-06"
     },
     {
       "lang": "es",
@@ -457,7 +493,7 @@
       "lang": "es",
       "slug": "hoobuy-shipping-calculator-estimate-final-charge-guide-2026",
       "url": "https://hoobuys.pro/es/hoobuy-shipping-calculator-estimate-final-charge-guide-2026",
-      "modified": "2026-10-12"
+      "modified": "2026-11-06"
     },
     {
       "lang": "es",
@@ -469,7 +505,7 @@
       "lang": "es",
       "slug": "shipping-guide",
       "url": "https://hoobuys.pro/es/shipping-guide",
-      "modified": "2026-10-12"
+      "modified": "2026-11-06"
     },
     {
       "lang": "es",
@@ -517,37 +553,49 @@
       "lang": "es",
       "slug": "faq",
       "url": "https://hoobuys.pro/es/faq",
-      "modified": "2026-10-12"
+      "modified": "2026-11-06"
     },
     {
       "lang": "es",
       "slug": "privacy",
       "url": "https://hoobuys.pro/es/privacy",
-      "modified": "2026-10-12"
+      "modified": "2026-11-06"
     },
     {
       "lang": "es",
       "slug": "terms",
       "url": "https://hoobuys.pro/es/terms",
-      "modified": "2026-10-12"
+      "modified": "2026-11-06"
     },
     {
       "lang": "fr",
       "slug": "",
       "url": "https://hoobuys.pro/fr/",
-      "modified": "2026-10-12"
+      "modified": "2026-11-06"
     },
     {
       "lang": "fr",
       "slug": "products",
       "url": "https://hoobuys.pro/fr/products",
-      "modified": "2026-10-12"
+      "modified": "2026-11-06"
     },
     {
       "lang": "fr",
       "slug": "guides",
       "url": "https://hoobuys.pro/fr/guides",
-      "modified": "2026-10-12"
+      "modified": "2026-11-06"
+    },
+    {
+      "lang": "fr",
+      "slug": "hoobuy-product-links",
+      "url": "https://hoobuys.pro/fr/hoobuy-product-links",
+      "modified": "2026-11-06"
+    },
+    {
+      "lang": "fr",
+      "slug": "hoobuy-clothing-finds",
+      "url": "https://hoobuys.pro/fr/hoobuy-clothing-finds",
+      "modified": "2026-11-06"
     },
     {
       "lang": "fr",
@@ -601,19 +649,19 @@
       "lang": "fr",
       "slug": "hoobuy-service-payment-fees-verification-guide-2026",
       "url": "https://hoobuys.pro/fr/hoobuy-service-payment-fees-verification-guide-2026",
-      "modified": "2026-10-12"
+      "modified": "2026-11-06"
     },
     {
       "lang": "fr",
       "slug": "hoobuy-spreadsheet-guide",
       "url": "https://hoobuys.pro/fr/hoobuy-spreadsheet-guide",
-      "modified": "2026-10-12"
+      "modified": "2026-11-06"
     },
     {
       "lang": "fr",
       "slug": "hoobuy-pro-qc-photo-video-checklist-2026",
       "url": "https://hoobuys.pro/fr/hoobuy-pro-qc-photo-video-checklist-2026",
-      "modified": "2026-10-12"
+      "modified": "2026-11-06"
     },
     {
       "lang": "fr",
@@ -631,7 +679,7 @@
       "lang": "fr",
       "slug": "hoobuy-shipping-calculator-estimate-final-charge-guide-2026",
       "url": "https://hoobuys.pro/fr/hoobuy-shipping-calculator-estimate-final-charge-guide-2026",
-      "modified": "2026-10-12"
+      "modified": "2026-11-06"
     },
     {
       "lang": "fr",
@@ -643,7 +691,7 @@
       "lang": "fr",
       "slug": "shipping-guide",
       "url": "https://hoobuys.pro/fr/shipping-guide",
-      "modified": "2026-10-12"
+      "modified": "2026-11-06"
     },
     {
       "lang": "fr",
@@ -691,37 +739,49 @@
       "lang": "fr",
       "slug": "faq",
       "url": "https://hoobuys.pro/fr/faq",
-      "modified": "2026-10-12"
+      "modified": "2026-11-06"
     },
     {
       "lang": "fr",
       "slug": "privacy",
       "url": "https://hoobuys.pro/fr/privacy",
-      "modified": "2026-10-12"
+      "modified": "2026-11-06"
     },
     {
       "lang": "fr",
       "slug": "terms",
       "url": "https://hoobuys.pro/fr/terms",
-      "modified": "2026-10-12"
+      "modified": "2026-11-06"
     },
     {
       "lang": "it",
       "slug": "",
       "url": "https://hoobuys.pro/it/",
-      "modified": "2026-10-12"
+      "modified": "2026-11-06"
     },
     {
       "lang": "it",
       "slug": "products",
       "url": "https://hoobuys.pro/it/products",
-      "modified": "2026-10-12"
+      "modified": "2026-11-06"
     },
     {
       "lang": "it",
       "slug": "guides",
       "url": "https://hoobuys.pro/it/guides",
-      "modified": "2026-10-12"
+      "modified": "2026-11-06"
+    },
+    {
+      "lang": "it",
+      "slug": "hoobuy-product-links",
+      "url": "https://hoobuys.pro/it/hoobuy-product-links",
+      "modified": "2026-11-06"
+    },
+    {
+      "lang": "it",
+      "slug": "hoobuy-clothing-finds",
+      "url": "https://hoobuys.pro/it/hoobuy-clothing-finds",
+      "modified": "2026-11-06"
     },
     {
       "lang": "it",
@@ -775,19 +835,19 @@
       "lang": "it",
       "slug": "hoobuy-service-payment-fees-verification-guide-2026",
       "url": "https://hoobuys.pro/it/hoobuy-service-payment-fees-verification-guide-2026",
-      "modified": "2026-10-12"
+      "modified": "2026-11-06"
     },
     {
       "lang": "it",
       "slug": "hoobuy-spreadsheet-guide",
       "url": "https://hoobuys.pro/it/hoobuy-spreadsheet-guide",
-      "modified": "2026-10-12"
+      "modified": "2026-11-06"
     },
     {
       "lang": "it",
       "slug": "hoobuy-pro-qc-photo-video-checklist-2026",
       "url": "https://hoobuys.pro/it/hoobuy-pro-qc-photo-video-checklist-2026",
-      "modified": "2026-10-12"
+      "modified": "2026-11-06"
     },
     {
       "lang": "it",
@@ -805,7 +865,7 @@
       "lang": "it",
       "slug": "hoobuy-shipping-calculator-estimate-final-charge-guide-2026",
       "url": "https://hoobuys.pro/it/hoobuy-shipping-calculator-estimate-final-charge-guide-2026",
-      "modified": "2026-10-12"
+      "modified": "2026-11-06"
     },
     {
       "lang": "it",
@@ -817,7 +877,7 @@
       "lang": "it",
       "slug": "shipping-guide",
       "url": "https://hoobuys.pro/it/shipping-guide",
-      "modified": "2026-10-12"
+      "modified": "2026-11-06"
     },
     {
       "lang": "it",
@@ -865,19 +925,19 @@
       "lang": "it",
       "slug": "faq",
       "url": "https://hoobuys.pro/it/faq",
-      "modified": "2026-10-12"
+      "modified": "2026-11-06"
     },
     {
       "lang": "it",
       "slug": "privacy",
       "url": "https://hoobuys.pro/it/privacy",
-      "modified": "2026-10-12"
+      "modified": "2026-11-06"
     },
     {
       "lang": "it",
       "slug": "terms",
       "url": "https://hoobuys.pro/it/terms",
-      "modified": "2026-10-12"
+      "modified": "2026-11-06"
     }
   ]
 }

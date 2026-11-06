@@ -1,6 +1,6 @@
-Calculateur Hoobuy : rapprocher estimation et facture finale
-Retrouvez les causes d'un écart de transport avec un registre des entrées, de l'acompte, des mesures et des ajustements.
-
+Facture finale Hoobuy : comprendre un écart de livraison
+Rapprochez estimation, acompte et coût final Hoobuy. Comparez mesures, emballage, ligne choisie, services et ajustements réellement facturés.
+<p class="answer"><strong>Si le coût final change, comparez la saisie initiale aux mesures emballées et aux services retenus.</strong> Conservez estimation, acompte et règlement séparément. Le <a href="/shipping-guide">guide du calculateur de livraison</a> sert à la première estimation ; cet article explique le rapprochement ultérieur.</p>
 <p>Une estimation Hoobuy devient exploitable lorsqu'elle peut être reproduite. Sauvegardez les données saisies et l'heure du calcul, pas seulement le prix. Le guide officiel du débutant distingue le dépôt estimé et le coût final fondé sur taille et poids vérifiés du colis. Une différence ne signifie donc pas automatiquement une erreur de facturation.</p>
 <h2>Conserver toutes les entrées</h2>
 <p>Notez pays, code postal pertinent, catégorie, poids, dimensions, ligne et scénario d'emballage. Indiquez si chaque valeur est estimée ou mesurée. Laissez une inconnue visible au lieu de la remplacer par zéro. Une comparaison entre deux dates n'est fiable que si vous savez quelles entrées ont changé.</p>

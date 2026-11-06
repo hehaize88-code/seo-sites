@@ -1,6 +1,6 @@
-Hoobuy-Rechner: Schätzung und Endbetrag abgleichen
-Erkläre Versandabweichungen mit gespeicherten Eingaben, Anzahlung, geprüften Paketmaßen und bestätigten Anpassungen.
-
+Hoobuy-Endbetrag: Warum sich die Versandkosten ändern
+Gleiche Hoobuy-Schätzung, Versandanzahlung und Endbetrag ab. Prüfe geänderte Maße, Verpackung, Linie, Leistungen und tatsächliche Abrechnung.
+<p class="answer"><strong>Ändert sich der Endbetrag, vergleiche ursprüngliche Eingaben mit verpackten Endmaßen und gewählten Leistungen.</strong> Halte Schätzung, Anzahlung und Abrechnung getrennt. Für den ersten Kostenvoranschlag nutze den <a href="/shipping-guide">Versandkostenrechner-Leitfaden</a>; hier geht es um den späteren Abgleich.</p>
 <p>Eine Hoobuy-Schätzung wird brauchbar, wenn sie reproduzierbar ist. Speichere Eingaben und Zeitpunkt statt nur den Preis. Der offizielle Beginner's Guide unterscheidet geschätzte Anzahlung und Endkosten anhand geprüfter Paketmaße. Eine Differenz beweist daher nicht automatisch einen Abrechnungsfehler.</p>
 <h2>Alle Eingaben aufbewahren</h2>
 <p>Erfasse Ziel, relevante Postleitzahl, Kategorie, Gewicht, Maße, Linie und Verpackung. Kennzeichne gemessene und angenommene Werte. Unbekannt ist nicht null. Für einen Zeitvergleich musst du wissen, welche Eingaben sich verändert haben.</p>

@@ -7,18 +7,36 @@
     "category": "shoes"
   },
   {
-    "title": "Hoodie-60",
+    "title": "Red zip-up hoodie",
     "url": "https://cnfanssp.com/AllProducts/6127.html",
     "image": "https://cnfanssp.com/uploads/allimg/20260429/1-2604291534502K.jpg",
     "price": "≈ $16.52  (¥118)",
-    "category": "hoodies"
+    "category": "hoodies",
+    "source_id": "7676979998",
+    "checked": "2026-11-06",
+    "titles": {
+      "en": "Red zip-up hoodie",
+      "de": "Roter Zip-Hoodie",
+      "fr": "Sweat rouge à capuche zippé",
+      "es": "Sudadera roja con cremallera",
+      "it": "Felpa rossa con cappuccio e zip"
+    }
   },
   {
-    "title": "T-Shirts-60",
+    "title": "Black graphic T-shirt",
     "url": "https://cnfanssp.com/AllProducts/6187.html",
     "image": "https://cnfanssp.com/uploads/allimg/20260429/1-260429162000554.jpg",
     "price": "≈ $15.12  (¥108)",
-    "category": "shirts"
+    "category": "shirts",
+    "source_id": "7678063505",
+    "checked": "2026-11-06",
+    "titles": {
+      "en": "Black graphic T-shirt",
+      "de": "Schwarzes Grafik-T-Shirt",
+      "fr": "T-shirt noir imprimé",
+      "es": "Camiseta negra estampada",
+      "it": "T-shirt nera con stampa"
+    }
   },
   {
     "title": "Jackets-60",
@@ -28,11 +46,20 @@
     "category": "jackets"
   },
   {
-    "title": "Pants/Shorts-60",
+    "title": "Grey elastic-waist trousers",
     "url": "https://cnfanssp.com/AllProducts/6307.html",
     "image": "https://cnfanssp.com/uploads/allimg/20260429/1-260429210FTJ.jpg",
     "price": "≈ $39.20  (¥280)",
-    "category": "pants"
+    "category": "pants",
+    "source_id": "7671009113",
+    "checked": "2026-11-06",
+    "titles": {
+      "en": "Grey elastic-waist trousers",
+      "de": "Graue Hose mit elastischem Bund",
+      "fr": "Pantalon gris à taille élastique",
+      "es": "Pantalón gris de cintura elástica",
+      "it": "Pantaloni grigi con vita elasticizzata"
+    }
   },
   {
     "title": "Headwear-60",

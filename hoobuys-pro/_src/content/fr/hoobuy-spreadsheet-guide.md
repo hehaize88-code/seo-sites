@@ -1,6 +1,6 @@
 Hoobuy Spreadsheet avec QC : liens, photos et prix
 Vérifiez une liste Hoobuy avec liens exacts, variantes, prix datés et photos du vendeur séparées des preuves QC de l'entrepôt.
-
+<h2>Relier le produit exact au budget du colis</h2><p>Avant de commander, vérifiez ID original et variante avec le <a href="/hoobuy-product-links">guide des liens Hoobuy</a>. Les <a href="/hoobuy-clothing-finds">trois vêtements illustrés</a> associent prix datés et questions de taille et QC. Séparez marchandise et paiement de l’<a href="/shipping-guide">estimation de livraison internationale</a>.</p>
 <p><strong>Un Hoobuy spreadsheet avec QC distingue l'offre du vendeur et les preuves concernant l'article effectivement reçu.</strong> Avant achat, conservez URL actuelle, variante, prix source, données de taille et date. Après réception, ajoutez référence de l'entrepôt, photographies et décision de contrôle.</p>
 <p>Une liste avec image, nom court et lien facilite la découverte, mais ne suffit pas pour décider. Les offres changent, les vendeurs réutilisent des photos et les variantes peuvent coûter différemment. Traitez chaque ligne comme un dossier daté plutôt qu'une promesse permanente.</p>
 <h2>Commencer par la destination exacte</h2>

@@ -17,3 +17,6 @@ node hoobuys-pro/_src/check_worker.mjs
 Keep equivalent article slugs across languages. English uses root URLs and other languages use locale prefixes. Both page metadata and XML sitemap must retain reciprocal hreflang and self-referencing canonical URLs. Generated files include the existing analytics property and language-aware click events. CSS and analytics files receive content-hash filenames so visitors do not reuse assets from older HTML releases. Keep older hashed assets until cached HTML has expired.
 
 `_worker.js` normalizes old HTML aliases and host variants, protects `_src`, and lets Pages serve extensionless static assets. Tests cover redirect behavior independently of the deployment platform. Verify actual routes on production after publishing.
+
+
+November 6, 2026 release: 25 guides and 31 indexable pages per language (155 total). New product-link and clothing guides cover all five languages. Clothing records 6127, 6187 and 6307 include source IDs, dated price observations and localized descriptions. Shipping uses official estimator inputs and explicitly hypothetical parcel math. Existing dated articles retain historical review dates unless revised.

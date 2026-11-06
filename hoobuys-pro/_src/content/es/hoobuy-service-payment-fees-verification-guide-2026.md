@@ -1,6 +1,6 @@
 Comisiones Hoobuy: pedido, pago y servicios
 Organiza las comisiones por etapa y verifica los importes de tu operación sin asumir porcentajes universales.
-
+<h2>Relaciona producto exacto y presupuesto</h2><p>Antes de pedir, confirma ID y opción con la <a href="/hoobuy-product-links">guía de enlaces</a>. Los <a href="/hoobuy-clothing-finds">tres ejemplos de ropa</a> unen precios fechados y preguntas específicas de talla y QC. Separa mercancía y pago de la <a href="/shipping-guide">estimación internacional</a>.</p>
 <p>Una respuesta fiable sobre comisiones debe identificar servicio, base y transacción. Un porcentaje mencionado en otra web no demuestra lo aplicable a tu pago. Clasifica los costes antes de sumar.</p>
 <h2>Clasificar cada cargo</h2>
 <p>Separa producto, entrega interior, cargos identificados del pedido, recarga o pago, conversión, servicios del almacén y transporte internacional. Los nombres pueden variar; importa la función y si el cargo ya está incluido.</p>

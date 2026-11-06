@@ -10,7 +10,11 @@
       if(/^\/AllProducts\/\d+\.html$/.test(url.pathname))send('outbound_product_click',{link_path:url.pathname});
       else if(link.dataset.category)send('category_click',{category:link.dataset.category,link_path:url.pathname});
       else send('product_index_click',{link_path:url.pathname});
-    } else if(link.closest('.article-card,.related,.essential-links'))send('article_cta_click',{link_path:url.pathname});
+    } else if(url.hostname==='hoobuy.com'||url.hostname==='www.hoobuy.com') {
+      send(url.pathname==='/estimation'?'shipping_calculator_click':'official_guide_click',{link_path:url.pathname});
+    } else if(url.hostname==='weidian.com') {
+      send('source_product_click',{item_id:url.searchParams.get('itemID')||''});
+    } else if(link.closest('.article-card,.related,.essential-links,.nav,.actions'))send('article_cta_click',{link_path:url.pathname});
   });
   var search=document.querySelector('form.search');
   if(search)search.addEventListener('submit',function(){send('search_submit');});

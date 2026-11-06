@@ -1,6 +1,6 @@
 Fotos QC Hoobuy: lista de control para calzado y ropa
 Revisa artículo, talla, medidas y defectos visibles en fotos QC Hoobuy y decide cuándo pedir una prueba adicional.
-
+<h2>Relaciona producto exacto y presupuesto</h2><p>Antes de pedir, confirma ID y opción con la <a href="/hoobuy-product-links">guía de enlaces</a>. Los <a href="/hoobuy-clothing-finds">tres ejemplos de ropa</a> unen precios fechados y preguntas específicas de talla y QC. Separa mercancía y pago de la <a href="/shipping-guide">estimación internacional</a>.</p>
 <p><strong>Empieza el QC por pedido exacto, color, talla y cantidad; después revisa medidas y estado visible.</strong> Las fotos comerciales o de otro comprador no prueban tu unidad. Una imagen del almacén no garantiza autenticidad, materiales ocultos o duración.</p>
 <p>Una revisión útil responde a una pregunta definida. Buscar solo un defecto llamativo puede ocultar errores ordinarios como una opción distinta o un accesorio ausente. Avanza desde identidad hacia detalles decisivos.</p>
 <h2>Entender los límites</h2>
