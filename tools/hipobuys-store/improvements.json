@@ -1,0 +1,1794 @@
+{
+  "en": {
+    "ui": {
+      "updated": "Updated 6 November 2026",
+      "shipping": "Shipping",
+      "guide": "How to buy",
+      "quick_check": "Status and next action",
+      "next_step": "Continue with your next step",
+      "returns_source": "Official returns notice (Chinese)",
+      "status_source": "Official order-status notice (Chinese)",
+      "fees_source": "Official service and fees",
+      "faq_title": "Hipobuy FAQ: Orders, QC, Shipping and Returns",
+      "faq_desc": "Answers to 20 practical Hipobuy questions: product links, warehouse status, photo checks, shipping estimates, return requests and wallet credit.",
+      "home_title": "Hipobuy Spreadsheet & Shop Links: QC and Shipping Guides",
+      "home_desc": "Browse product links, check warehouse photos, compare shipping costs and resolve order or return questions with independent Hipobuy guides."
+    },
+    "articles": {
+      "time": {
+        "title": "How Long Does Hipobuy Shipping Take? Stages & Delays",
+        "table": [
+          [
+            "What you see",
+            "What it establishes",
+            "What to check next"
+          ],
+          [
+            "Seller has dispatched",
+            "Domestic transport has started; not international dispatch",
+            "Domestic tracking and the correct order"
+          ],
+          [
+            "Delivered to warehouse",
+            "Carrier delivery; inspection may still be pending",
+            "Intake record and QC results"
+          ],
+          [
+            "Stored item",
+            "Item is in warehouse storage",
+            "Size, QC and return deadline before packing"
+          ],
+          [
+            "Parcel needs confirmation",
+            "A payment or detail may need attention",
+            "Current account request and revised quote"
+          ],
+          [
+            "Awaiting collection",
+            "Dispatch preparation, before carrier acceptance",
+            "Collection event and correct tracking number"
+          ],
+          [
+            "Carrier has accepted",
+            "International transport stage has begun",
+            "Latest scan, destination carrier and required recipient action"
+          ]
+        ],
+        "section": [
+          "Which shipping clock answers your question?",
+          "For “How long does Hipobuy take to ship?”, separate the seller's domestic dispatch from the warehouse's international handover. The official status notice gives a typical 3–5-day domestic journey after seller dispatch; that is not a promised order-to-door time. For your remaining delivery estimate, use the chosen line's current range and actual acceptance event. An order waiting for a photo, return decision or extra payment has a different next action from a parcel already with a carrier."
+        ],
+        "desc": "See which Hipobuy shipping stage is pending, when the delivery clock starts and what to check for seller, warehouse or international delays."
+      },
+      "tracking": {
+        "title": "Hipobuy Order Status: Tracking, Stored & Shipping Updates",
+        "table": [
+          [
+            "What you see",
+            "What it establishes",
+            "What to check next"
+          ],
+          [
+            "Seller has dispatched",
+            "Domestic transport has started; not international dispatch",
+            "Domestic tracking and the correct order"
+          ],
+          [
+            "Delivered to warehouse",
+            "Carrier delivery; inspection may still be pending",
+            "Intake record and QC results"
+          ],
+          [
+            "Stored item",
+            "Item is in warehouse storage",
+            "Size, QC and return deadline before packing"
+          ],
+          [
+            "Parcel needs confirmation",
+            "A payment or detail may need attention",
+            "Current account request and revised quote"
+          ],
+          [
+            "Awaiting collection",
+            "Dispatch preparation, before carrier acceptance",
+            "Collection event and correct tracking number"
+          ],
+          [
+            "Carrier has accepted",
+            "International transport stage has begun",
+            "Latest scan, destination carrier and required recipient action"
+          ]
+        ],
+        "section": [
+          "Build a useful tracking request",
+          "Copy the order number, parcel number if created, last exact status and timestamp into one note. State whether you are asking about seller dispatch, warehouse intake, a shipping top-up or carrier movement. Do not use the domestic tracking number to diagnose the international parcel. If a final-mile number appears, keep both references so support can see the handoff. The table above is a decision aid, not a live tracking service."
+        ],
+        "desc": "Decode Hipobuy order and parcel status, find the right tracking number and know what to do when intake, payment or carrier updates are pending."
+      },
+      "warehouse": {
+        "title": "Where Is the Hipobuy Warehouse? Address & Delivery Guide",
+        "section": [
+          "An office address is not your receiving address",
+          "The official homepage lists several operating-company office addresses. Those public company details do not identify the account-specific warehouse destination for your forwarding order. Obtain the current receiving name, phone, address and matching reference from the official forwarding process. Ask the seller to retain the full reference and save the domestic tracking number. If delivery is recorded but the order is not matched, send that evidence to support instead of sending another package to an address copied from a search snippet."
+        ],
+        "desc": "Find the correct Hipobuy forwarding address in your account and resolve delivered-but-not-stored orders without confusing office and warehouse details."
+      },
+      "calculator": {
+        "title": "Hipobuy Shipping Calculator: Actual vs Volumetric Weight",
+        "section": [
+          "A weight result does not include a price",
+          "The output answers a weight comparison before route rounding. It does not include a starting charge, increments, insurance, packaging or a current discount. Save the packed inputs and compare the official line using the same goods and destination. If the final invoice differs, use the estimate-versus-final-cost guide to reconcile the individual charges rather than multiplying a guessed price per kilogram."
+        ],
+        "desc": "Calculate actual versus volumetric weight, enter your line’s divisor and check why a packed parcel can differ from an early Hipobuy shipping estimate."
+      },
+      "rehearsal": {
+        "section": [
+          "Resolve returns before removing packaging",
+          "A rehearsal instruction can change a box, label or accessory that matters to your return decision. Review the item first, keep undecided goods out of the shipping request and explicitly state what must remain intact. Compare the cost of rehearsal and repacking with the uncertainty it resolves. Once the contents or protection changes, treat the older measurements as an earlier scenario, not the final parcel."
+        ]
+      },
+      "sizing": {
+        "section": [
+          "Record the measurement that decided the size",
+          "Keep a short acceptance note: selected size, seller chart type, unit, reference garment or foot measurement and the dimension you need checked on arrival. If a photo does not show the tape endpoints, request that specific view. A label match alone does not resolve a mismatch in actual dimensions. Review the evidence while the applicable return window remains open; do not assume a supplementary-photo request extends it."
+        ]
+      },
+      "sneakers": {
+        "section": [
+          "Move from a saved link to a checked pair",
+          "Before treating a find as ready to ship, confirm the listing identifier, selected size and colour, both shoes' labels, the requested measurements and retained accessories. Then compare the shipping quote with and without optional boxes only when protection and return conditions permit. Keep an unresolved item out of a ready parcel. Use the category link for discovery and the official order for purchasing and inspection evidence."
+        ]
+      }
+    },
+    "faq": [
+      [
+        "Is HipoBuys Store the official Hipobuy service?",
+        "No. This is an independent guide and product-link directory. Orders, payments and support belong to the service used for purchase."
+      ],
+      [
+        "Does clicking a product link place an order?",
+        "No. Review the destination listing, selected option and checkout before making any purchase."
+      ],
+      [
+        "Can an old spreadsheet prove current stock?",
+        "No. Recheck the actual listing and variant; saved links and examples may change."
+      ],
+      [
+        "Where do I get a forwarding address?",
+        "Use the current forwarding instructions in your official account, including the receiving reference. A company office address is not a substitute."
+      ],
+      [
+        "Does delivered mean the warehouse has finished QC?",
+        "Not necessarily. Carrier delivery, intake, inspection and storage are separate events."
+      ],
+      [
+        "How long does Hipobuy take to deliver?",
+        "Add the relevant seller, domestic, warehouse and international stages. Use the selected line's current estimate rather than a universal deadline."
+      ],
+      [
+        "Does a tracking number prove carrier collection?",
+        "No. Check the carrier's acceptance event and the parcel status."
+      ],
+      [
+        "Which tracking number should I use?",
+        "Use domestic tracking for seller-to-warehouse delivery and parcel or final-mile tracking for the international journey."
+      ],
+      [
+        "Why are public QC photos missing?",
+        "The particular service may have no matching reference. Check the exact listing; absence alone does not prove a quality problem."
+      ],
+      [
+        "Do another buyer's photos replace my QC?",
+        "No. Confirm the images for your own received item and selected variant."
+      ],
+      [
+        "What should an extra-photo request include?",
+        "Order identifier, exact area, angle, measurement method if needed, and a request to confirm any fee."
+      ],
+      [
+        "Can QC photos prove authenticity or comfort?",
+        "No. They show visible features and measurements, not every material property or how a product will feel."
+      ],
+      [
+        "Are all size charts interchangeable?",
+        "No. Match the seller, product, chart type and units; body measurements and flat garment widths differ."
+      ],
+      [
+        "What is volumetric weight?",
+        "A dimension-based calculation using length × width × height divided by the line's divisor. Billing and rounding depend on that line."
+      ],
+      [
+        "Is this shipping calculator a live quote?",
+        "No. It illustrates weight arithmetic. Current rates, route eligibility and extras come from the official account."
+      ],
+      [
+        "Why did my final shipping cost change?",
+        "Compare final packed weight, dimensions, route, included services and accepted discounts with the earlier estimate."
+      ],
+      [
+        "Does splitting a parcel always save money?",
+        "No. Add both quotes and extra charges, including any repeated starting cost."
+      ],
+      [
+        "Does a photo request pause the return period?",
+        "Do not assume so. Check the actual deadline and submit the relevant return request promptly if needed."
+      ],
+      [
+        "Is an approved return already money on my card?",
+        "No. Track return completion, wallet credit and any separate withdrawal as distinct steps."
+      ],
+      [
+        "Where should I send order or refund questions?",
+        "Use official support with the correct order or parcel reference. Do not publish passwords, verification codes or payment details."
+      ]
+    ]
+  },
+  "de": {
+    "ui": {
+      "updated": "Aktualisiert am 6. November 2026",
+      "shipping": "Versand",
+      "guide": "Kaufanleitung",
+      "quick_check": "Status und nächster Schritt",
+      "next_step": "Passender nächster Schritt",
+      "returns_source": "Offizielle Rückgaberegeln (Chinesisch)",
+      "status_source": "Offizielle Bestellstatus-Erklärung (Chinesisch)",
+      "fees_source": "Offizielle Leistungen und Gebühren",
+      "faq_title": "Hipobuy FAQ: Bestellung, QC, Versand und Rückgabe",
+      "faq_desc": "20 praktische Antworten zu Produktlinks, Lagerstatus, QC-Fotos, Versandkosten, Rückgaben und Kontoguthaben.",
+      "home_title": "Hipobuy Spreadsheet & Shop-Links: QC und Versand",
+      "home_desc": "Finde Produktlinks, prüfe Lagerfotos, vergleiche Versandkosten und kläre Bestell- oder Rückgabefragen mit unabhängigen Ratgebern."
+    },
+    "articles": {
+      "time": {
+        "title": "Wie lange dauert Hipobuy? Versandzeit und Verzögerungen",
+        "table": [
+          [
+            "Anzeige",
+            "Was sie aussagt",
+            "Nächste Prüfung"
+          ],
+          [
+            "Verkäufer hat versendet",
+            "Inlandstransport, kein internationaler Abgang",
+            "Inlandstracking und richtige Bestellung"
+          ],
+          [
+            "Am Lager zugestellt",
+            "Zustellung, Prüfung möglicherweise noch offen",
+            "Annahme und QC-Ergebnisse"
+          ],
+          [
+            "Eingelagert",
+            "Artikel befindet sich im Lager",
+            "Größe, QC und Rückgabefrist"
+          ],
+          [
+            "Paket wartet auf Bestätigung",
+            "Zahlung oder Angabe eventuell offen",
+            "Aktuelle Kontoanfrage und neuer Betrag"
+          ],
+          [
+            "Wartet auf Abholung",
+            "Vor Annahme durch den Transporteur",
+            "Abholereignis und Sendungsnummer"
+          ],
+          [
+            "Vom Transporteur angenommen",
+            "Internationale Transportphase begonnen",
+            "Letzter Scan, Zusteller und erforderliche Aktion"
+          ]
+        ],
+        "section": [
+          "Welche Versandzeit meinst du?",
+          "Trenne den Inlandstransport des Verkäufers von der internationalen Übergabe aus dem Lager. Die offizielle Statusseite nennt gewöhnlich 3–5 Tage für den Inlandstransport nach Verkäuferabgang; das ist keine Zusage von Bestellung bis Haustür. Nutze für die Restzeit die aktuelle Linienangabe und tatsächliche Annahme. Offene Fotos, Rückgaben oder Nachzahlungen erfordern andere Schritte als ein Paket beim Transporteur."
+        ],
+        "desc": "Erkenne die offene Hipobuy-Versandphase, den Beginn der Lieferfrist und nächste Schritte bei Verkäufer-, Lager- oder Transportverzögerungen."
+      },
+      "tracking": {
+        "title": "Hipobuy Bestellstatus: Tracking, Lager und Versand",
+        "table": [
+          [
+            "Anzeige",
+            "Was sie aussagt",
+            "Nächste Prüfung"
+          ],
+          [
+            "Verkäufer hat versendet",
+            "Inlandstransport, kein internationaler Abgang",
+            "Inlandstracking und richtige Bestellung"
+          ],
+          [
+            "Am Lager zugestellt",
+            "Zustellung, Prüfung möglicherweise noch offen",
+            "Annahme und QC-Ergebnisse"
+          ],
+          [
+            "Eingelagert",
+            "Artikel befindet sich im Lager",
+            "Größe, QC und Rückgabefrist"
+          ],
+          [
+            "Paket wartet auf Bestätigung",
+            "Zahlung oder Angabe eventuell offen",
+            "Aktuelle Kontoanfrage und neuer Betrag"
+          ],
+          [
+            "Wartet auf Abholung",
+            "Vor Annahme durch den Transporteur",
+            "Abholereignis und Sendungsnummer"
+          ],
+          [
+            "Vom Transporteur angenommen",
+            "Internationale Transportphase begonnen",
+            "Letzter Scan, Zusteller und erforderliche Aktion"
+          ]
+        ],
+        "section": [
+          "Eine hilfreiche Trackinganfrage vorbereiten",
+          "Notiere Bestellnummer, gegebenenfalls Paketnummer, genauen letzten Status und Uhrzeit. Erkläre, ob Verkäuferabgang, Lagerannahme, Nachzahlung oder Transport gemeint ist. Nutze die Inlandsnummer nicht als Beleg für internationales Tracking. Bewahre bei einem neuen Zusteller beide Nummern auf. Die Tabelle erklärt Entscheidungen und ist kein Live-Trackingdienst."
+        ],
+        "desc": "Verstehe Hipobuy-Bestellstatus, finde die richtige Trackingnummer und kläre offene Annahme, Zahlung oder Transportereignisse."
+      },
+      "warehouse": {
+        "title": "Wo ist das Hipobuy-Lager? Adresse und Zustellung",
+        "section": [
+          "Büroadresse und Empfangsadresse unterscheiden",
+          "Die offizielle Homepage nennt Büros mehrerer Betreibergesellschaften. Diese Angaben ersetzen nicht das Empfangsziel deiner Weiterleitungsbestellung. Übernimm Name, Telefon, Adresse und Zuordnungsreferenz aus dem aktuellen offiziellen Ablauf. Lass den Verkäufer die vollständige Referenz verwenden und bewahre die Inlandsnummer auf. Bei zugestellter, aber nicht zugeordneter Ware sende den Nachweis an den Support."
+        ],
+        "desc": "Finde die richtige Hipobuy-Empfangsadresse im Konto und kläre zugestellte, noch nicht eingelagerte Bestellungen."
+      },
+      "calculator": {
+        "title": "Hipobuy Versandkostenrechner: Gewicht und Volumen",
+        "section": [
+          "Gewichtsergebnis ist kein Versandpreis",
+          "Das Ergebnis vergleicht Gewichte vor Linienrundung. Grundpreis, Stufen, Versicherung, Verpackung und Rabatte sind nicht enthalten. Vergleiche dieselben Paketdaten, Waren und das Ziel im offiziellen Angebot. Bei Abweichungen hilft der neue Kostenvergleich, einzelne Positionen zu erklären, statt einen vermuteten Kilopreis zu multiplizieren."
+        ],
+        "desc": "Vergleiche tatsächliches und Volumengewicht mit deinem Liniendivisor und verstehe Abweichungen vom ersten Versandangebot."
+      },
+      "rehearsal": {
+        "section": [
+          "Rückgaben vor Verpackungsentfernung klären",
+          "Eine Probeverpackung kann Kartons, Etiketten oder Zubehör verändern, die für eine Rückgabe wichtig sind. Prüfe zuerst und lasse unentschiedene Artikel aus dem Versandauftrag. Beschreibe, was erhalten bleiben muss. Vergleiche die Gebühr mit der geklärten Unsicherheit. Neue Inhalte oder Schutzmaßnahmen machen frühere Maße zu einem alten Szenario."
+        ]
+      },
+      "sizing": {
+        "section": [
+          "Das entscheidende Maß festhalten",
+          "Notiere Größe, Tabellenart, Einheit, Referenzkleidung oder Fußmaß und das bei Ankunft zu prüfende Maß. Fehlen Bandanfang oder Endwert, fordere genau diese Aufnahme an. Eine passende Etikettangabe erklärt keine abweichenden tatsächlichen Maße. Prüfe rechtzeitig; eine Fotoanfrage verlängert die Rückgabefrist nicht automatisch."
+        ]
+      },
+      "sneakers": {
+        "section": [
+          "Vom gespeicherten Link zum geprüften Paar",
+          "Bestätige Artikelkennung, Größe, Farbe, beide Etiketten, Messungen und Zubehör. Vergleiche anschließend Versand mit oder ohne optionale Kartons nur, wenn Schutz und Rückgabebedingungen es erlauben. Halte ungeklärte Ware aus einem fertigen Paket. Der Kategorielink dient der Suche, die offizielle Bestellung liefert Kauf- und Prüfnachweise."
+        ]
+      }
+    },
+    "faq": [
+      [
+        "Ist HipoBuys Store der offizielle Dienst?",
+        "Nein. Dies ist ein unabhängiger Ratgeber mit Produktlinks. Bestellungen und Support erfolgen beim gewählten Kaufdienst."
+      ],
+      [
+        "Bestellt ein Produktklick sofort?",
+        "Nein. Prüfe Zielangebot, Variante und Checkout vor einem Kauf."
+      ],
+      [
+        "Beweist ein altes Spreadsheet den Bestand?",
+        "Nein. Prüfe das aktuelle Angebot und die gewählte Variante erneut."
+      ],
+      [
+        "Woher bekomme ich die Weiterleitungsadresse?",
+        "Aus den aktuellen offiziellen Kontoanweisungen samt Zuordnungsreferenz, nicht aus einer Büroadresse."
+      ],
+      [
+        "Bedeutet zugestellt auch fertige QC?",
+        "Nicht zwingend. Zustellung, Annahme, Prüfung und Lagerung sind eigene Schritte."
+      ],
+      [
+        "Wie lange dauert die Lieferung?",
+        "Berücksichtige Verkäufer, Inland, Lager und internationale Linie. Es gibt keine allgemeine Frist für alle Bestellungen."
+      ],
+      [
+        "Beweist die Trackingnummer die Abholung?",
+        "Nein. Prüfe die tatsächliche Annahme durch den Transporteur."
+      ],
+      [
+        "Welche Trackingnummer passt?",
+        "Die Inlandsnummer für Verkäufer zum Lager, die Paket- oder Zustellnummer für den internationalen Weg."
+      ],
+      [
+        "Warum fehlen öffentliche QC-Fotos?",
+        "Der Dienst hat möglicherweise keine passende Referenz. Prüfe das genaue Angebot; die Lücke beweist keinen Qualitätsmangel."
+      ],
+      [
+        "Ersetzen fremde Fotos meine QC?",
+        "Nein. Prüfe die Bilder deiner angekommenen Variante."
+      ],
+      [
+        "Was gehört in eine Zusatzfotoanfrage?",
+        "Bestellnummer, Bereich, Winkel, Messmethode und Bitte um vorherige Gebührenbestätigung."
+      ],
+      [
+        "Belegen QC-Fotos Echtheit oder Komfort?",
+        "Nein. Sie zeigen sichtbare Merkmale, nicht sämtliche Materialeigenschaften oder Tragekomfort."
+      ],
+      [
+        "Sind alle Größentabellen austauschbar?",
+        "Nein. Verkäufer, Produkt, Tabellenart und Einheit müssen übereinstimmen."
+      ],
+      [
+        "Was ist Volumengewicht?",
+        "Außenlänge × Breite × Höhe geteilt durch den Liniendivisor; Abrechnung und Rundung sind linienabhängig."
+      ],
+      [
+        "Ist der Rechner ein aktuelles Preisangebot?",
+        "Nein. Er zeigt Gewichtsrechnung. Preise, Zulässigkeit und Extras kommen aus dem offiziellen Konto."
+      ],
+      [
+        "Warum ändern sich Versandkosten?",
+        "Vergleiche fertiges Gewicht, Maße, Linie, Leistungen und akzeptierte Rabatte mit der Schätzung."
+      ],
+      [
+        "Spart Paketaufteilung immer Geld?",
+        "Nein. Addiere beide Angebote und zusätzliche oder wiederholte Grundkosten."
+      ],
+      [
+        "Pausiert eine Fotoanfrage die Rückgabefrist?",
+        "Gehe nicht davon aus. Prüfe die Frist und stelle bei Bedarf rechtzeitig den Rückgabeantrag."
+      ],
+      [
+        "Ist ein genehmigter Rückgabeantrag schon Geld auf der Karte?",
+        "Nein. Rückgabeabschluss, Kontogutschrift und separate Auszahlung sind unterschiedliche Schritte."
+      ],
+      [
+        "Wohin gehören Bestellfragen?",
+        "An den offiziellen Support mit Bestell- oder Paketnummer. Teile keine Passwörter, Codes oder privaten Zahlungsdaten öffentlich."
+      ]
+    ]
+  },
+  "fr": {
+    "ui": {
+      "updated": "Mis à jour le 6 novembre 2026",
+      "shipping": "Livraison",
+      "guide": "Comment acheter",
+      "quick_check": "Statut et prochaine action",
+      "next_step": "Votre prochaine étape",
+      "returns_source": "Notice officielle des retours (chinois)",
+      "status_source": "Notice officielle des statuts (chinois)",
+      "fees_source": "Services et frais officiels",
+      "faq_title": "FAQ Hipobuy : commandes, QC, livraison et retours",
+      "faq_desc": "20 réponses pratiques sur les liens produits, l’entrepôt, les photos QC, les devis de transport, les retours et le solde.",
+      "home_title": "Hipobuy Spreadsheet et liens boutique : QC et livraison",
+      "home_desc": "Trouvez des liens produits, vérifiez les photos d’entrepôt, comparez les frais et résolvez vos questions de commande ou de retour."
+    },
+    "articles": {
+      "time": {
+        "title": "Combien de temps prend Hipobuy ? Livraison et retards",
+        "table": [
+          [
+            "État affiché",
+            "Ce qu’il indique",
+            "Vérification suivante"
+          ],
+          [
+            "Vendeur ayant expédié",
+            "Transport intérieur, pas départ international",
+            "Suivi intérieur et bonne commande"
+          ],
+          [
+            "Livré à l’entrepôt",
+            "Livraison, inspection éventuellement en attente",
+            "Réception et résultats QC"
+          ],
+          [
+            "Article stocké",
+            "Marchandise dans l’entrepôt",
+            "Taille, QC et délai de retour"
+          ],
+          [
+            "Colis à confirmer",
+            "Paiement ou renseignement peut manquer",
+            "Demande actuelle du compte et devis révisé"
+          ],
+          [
+            "En attente de collecte",
+            "Préparation avant acceptation du transporteur",
+            "Collecte et bon numéro de suivi"
+          ],
+          [
+            "Accepté par le transporteur",
+            "Étape internationale commencée",
+            "Dernier scan, livreur local et action demandée"
+          ]
+        ],
+        "section": [
+          "Quel délai cherchez-vous à mesurer ?",
+          "Séparez l’expédition intérieure du vendeur de la remise internationale par l’entrepôt. La notice officielle évoque habituellement 3–5 jours pour le trajet intérieur après départ du vendeur ; ce n’est pas une promesse jusqu’à votre porte. Pour le temps restant, utilisez la fourchette actuelle de la ligne et l’acceptation réelle. Une photo, un retour ou un complément en attente exige une action différente d’un colis déjà en transport."
+        ],
+        "desc": "Identifiez l’étape Hipobuy en attente, le départ du délai et les vérifications utiles chez le vendeur, à l’entrepôt ou pendant le transport."
+      },
+      "tracking": {
+        "title": "Statuts Hipobuy : suivi, stockage et expédition",
+        "table": [
+          [
+            "État affiché",
+            "Ce qu’il indique",
+            "Vérification suivante"
+          ],
+          [
+            "Vendeur ayant expédié",
+            "Transport intérieur, pas départ international",
+            "Suivi intérieur et bonne commande"
+          ],
+          [
+            "Livré à l’entrepôt",
+            "Livraison, inspection éventuellement en attente",
+            "Réception et résultats QC"
+          ],
+          [
+            "Article stocké",
+            "Marchandise dans l’entrepôt",
+            "Taille, QC et délai de retour"
+          ],
+          [
+            "Colis à confirmer",
+            "Paiement ou renseignement peut manquer",
+            "Demande actuelle du compte et devis révisé"
+          ],
+          [
+            "En attente de collecte",
+            "Préparation avant acceptation du transporteur",
+            "Collecte et bon numéro de suivi"
+          ],
+          [
+            "Accepté par le transporteur",
+            "Étape internationale commencée",
+            "Dernier scan, livreur local et action demandée"
+          ]
+        ],
+        "section": [
+          "Préparer une demande de suivi utile",
+          "Notez commande, colis éventuel, dernier statut exact et heure. Précisez s’il s’agit du vendeur, de la réception, d’un complément ou du transport. Un numéro intérieur ne diagnostique pas le trajet international. Conservez les deux références lors d’un changement de transporteur. Le tableau explique la marche à suivre ; il ne fournit pas un suivi en direct."
+        ],
+        "desc": "Comprenez les statuts Hipobuy, trouvez le bon suivi et sachez quoi vérifier en cas de réception, paiement ou transport en attente."
+      },
+      "warehouse": {
+        "title": "Où est l’entrepôt Hipobuy ? Adresse et réception",
+        "section": [
+          "Une adresse de bureau n’est pas une adresse de réception",
+          "La page officielle présente les bureaux de plusieurs sociétés opératrices. Ils ne remplacent pas la destination de votre transfert. Obtenez nom, téléphone, adresse et référence d’association dans la procédure officielle actuelle. Demandez au vendeur de conserver la référence complète et gardez le suivi intérieur. Pour une livraison non associée à la commande, envoyez la preuve au support."
+        ],
+        "desc": "Trouvez l’adresse de réception Hipobuy dans votre compte et vérifiez les commandes livrées mais pas encore stockées."
+      },
+      "calculator": {
+        "title": "Calculateur Hipobuy : poids réel et volumétrique",
+        "section": [
+          "Un résultat de poids ne donne pas un prix",
+          "Le calcul compare les poids avant arrondi. Il n’inclut pas départ, tranches, assurance, emballage ou remise. Utilisez les mêmes mesures, produits et destination dans le devis officiel. Si la facture change, le guide estimation-coût final aide à rapprocher les postes plutôt qu’à multiplier un prix supposé par kilogramme."
+        ],
+        "desc": "Comparez poids réel et volumétrique avec le diviseur de votre ligne et comprenez les écarts entre estimation et colis emballé."
+      },
+      "rehearsal": {
+        "section": [
+          "Régler la question du retour avant d’enlever l’emballage",
+          "Une répétition d’emballage peut modifier boîte, étiquettes ou accessoires utiles au retour. Contrôlez d’abord l’article et excluez les produits indécis de la demande d’envoi. Précisez ce qui doit rester intact. Comparez la prestation à l’incertitude résolue ; tout changement de contenu ou de protection rend les anciennes mesures provisoires."
+        ]
+      },
+      "sizing": {
+        "section": [
+          "Conserver la mesure qui motive votre choix",
+          "Notez taille, type de tableau, unité, vêtement ou pied de référence et dimension à vérifier à réception. Si le début ou la fin du ruban manque, demandez cette vue. Une étiquette correcte ne résout pas un écart de dimensions. Vérifiez avant l’échéance : une demande de photo ne prolonge pas automatiquement le retour."
+        ]
+      },
+      "sneakers": {
+        "section": [
+          "Passer du lien enregistré à la paire contrôlée",
+          "Confirmez identifiant, taille, couleur, deux étiquettes, mesures et accessoires. Comparez ensuite le transport avec ou sans boîte optionnelle seulement si protection et retour le permettent. Écartez un article non résolu d’un colis prêt. La catégorie sert à découvrir ; la commande officielle fournit les preuves d’achat et d’inspection."
+        ]
+      }
+    },
+    "faq": [
+      [
+        "HipoBuys Store est-il le service officiel ?",
+        "Non. C’est un guide indépendant et un répertoire de liens. Commandes et support dépendent du service choisi pour acheter."
+      ],
+      [
+        "Un clic produit passe-t-il commande ?",
+        "Non. Vérifiez annonce, variante et paiement avant tout achat."
+      ],
+      [
+        "Un ancien spreadsheet prouve-t-il le stock ?",
+        "Non. Revérifiez l’annonce et l’option actuelle."
+      ],
+      [
+        "Où obtenir l’adresse de transfert ?",
+        "Dans les instructions actuelles du compte officiel, avec référence de réception. Une adresse de bureau ne la remplace pas."
+      ],
+      [
+        "Livré signifie-t-il QC terminé ?",
+        "Pas forcément. Livraison, réception, inspection et stockage sont distincts."
+      ],
+      [
+        "Combien de temps dure la livraison ?",
+        "Additionnez les étapes pertinentes du vendeur, de l’entrepôt et du transport. Utilisez l’estimation actuelle de la ligne."
+      ],
+      [
+        "Un suivi prouve-t-il la collecte ?",
+        "Non. Vérifiez l’événement d’acceptation par le transporteur."
+      ],
+      [
+        "Quel numéro utiliser ?",
+        "Le suivi intérieur pour vendeur-entrepôt, puis le numéro du colis ou du dernier livreur pour l’international."
+      ],
+      [
+        "Pourquoi manque-t-il des QC publics ?",
+        "Le service peut manquer de références pour cette annonce. Une absence ne prouve pas un défaut."
+      ],
+      [
+        "Les photos d’un autre acheteur remplacent-elles les miennes ?",
+        "Non. Contrôlez votre exemplaire et la variante reçue."
+      ],
+      [
+        "Que préciser pour une photo supplémentaire ?",
+        "Commande, zone, angle, méthode de mesure et confirmation préalable d’un éventuel prix."
+      ],
+      [
+        "Les QC prouvent-ils authenticité ou confort ?",
+        "Non. Ils montrent des caractéristiques visibles, pas toutes les propriétés ni le ressenti porté."
+      ],
+      [
+        "Les tableaux de tailles sont-ils universels ?",
+        "Non. Faites correspondre vendeur, produit, type de mesure et unités."
+      ],
+      [
+        "Qu’est-ce que le poids volumétrique ?",
+        "Longueur × largeur × hauteur divisées par le coefficient de la ligne ; facturation et arrondi restent propres au service."
+      ],
+      [
+        "Le calculateur est-il un devis actuel ?",
+        "Non. Il illustre un calcul de poids. Prix, admissibilité et options viennent du compte officiel."
+      ],
+      [
+        "Pourquoi le port final a-t-il changé ?",
+        "Comparez poids emballé, dimensions, ligne, prestations et remises réellement acceptées."
+      ],
+      [
+        "Séparer un colis économise-t-il toujours ?",
+        "Non. Additionnez les deux devis et tous les frais répétés ou supplémentaires."
+      ],
+      [
+        "Une demande photo suspend-elle le retour ?",
+        "Ne le supposez pas. Vérifiez l’échéance et déposez la demande de retour nécessaire à temps."
+      ],
+      [
+        "Un retour accepté est-il déjà sur ma carte ?",
+        "Non. Retour terminé, crédit du portefeuille et retrait sont trois étapes différentes."
+      ],
+      [
+        "À qui envoyer mes questions de commande ?",
+        "Au support officiel avec la bonne référence. Ne publiez pas mots de passe, codes ou données de paiement."
+      ]
+    ]
+  },
+  "es": {
+    "ui": {
+      "updated": "Actualizado el 6 de noviembre de 2026",
+      "shipping": "Envío",
+      "guide": "Cómo comprar",
+      "quick_check": "Estado y siguiente acción",
+      "next_step": "Continúa con el siguiente paso",
+      "returns_source": "Aviso oficial de devoluciones (chino)",
+      "status_source": "Aviso oficial de estados (chino)",
+      "fees_source": "Servicios y tarifas oficiales",
+      "faq_title": "FAQ Hipobuy: pedidos, QC, envío y devoluciones",
+      "faq_desc": "20 respuestas prácticas sobre enlaces, almacén, fotos QC, presupuestos de envío, devoluciones y saldo de cartera.",
+      "home_title": "Hipobuy Spreadsheet y enlaces de tienda: QC y envío",
+      "home_desc": "Encuentra enlaces, revisa fotos del almacén, compara gastos de envío y resuelve dudas de pedidos o devoluciones con guías independientes."
+    },
+    "articles": {
+      "time": {
+        "title": "¿Cuánto tarda Hipobuy? Etapas de envío y retrasos",
+        "table": [
+          [
+            "Lo que aparece",
+            "Qué indica",
+            "Qué comprobar"
+          ],
+          [
+            "Vendedor ha enviado",
+            "Transporte nacional, no salida internacional",
+            "Seguimiento nacional y pedido correcto"
+          ],
+          [
+            "Entregado al almacén",
+            "Entrega, inspección quizá pendiente",
+            "Recepción y resultados QC"
+          ],
+          [
+            "Artículo almacenado",
+            "Producto dentro del almacén",
+            "Talla, QC y plazo de devolución"
+          ],
+          [
+            "Paquete por confirmar",
+            "Puede faltar pago o información",
+            "Solicitud actual y presupuesto revisado"
+          ],
+          [
+            "Pendiente de recogida",
+            "Preparación antes de aceptar el transportista",
+            "Recogida y seguimiento correcto"
+          ],
+          [
+            "Aceptado por el transportista",
+            "Etapa internacional iniciada",
+            "Último evento, repartidor y acción requerida"
+          ]
+        ],
+        "section": [
+          "¿Qué plazo necesitas medir?",
+          "Separa el transporte nacional del vendedor y la entrega internacional al transportista. El aviso oficial menciona normalmente 3–5 días para el trayecto nacional después de la salida del vendedor; no es una promesa de pedido a domicilio. Para lo restante, usa el rango de la línea actual y la aceptación real. Fotos, devolución o pago pendiente requieren otra acción que un paquete en tránsito."
+        ],
+        "desc": "Identifica la etapa Hipobuy pendiente, cuándo empieza el plazo y qué revisar en retrasos del vendedor, almacén o transporte internacional."
+      },
+      "tracking": {
+        "title": "Estados Hipobuy: seguimiento, almacén y envío",
+        "table": [
+          [
+            "Lo que aparece",
+            "Qué indica",
+            "Qué comprobar"
+          ],
+          [
+            "Vendedor ha enviado",
+            "Transporte nacional, no salida internacional",
+            "Seguimiento nacional y pedido correcto"
+          ],
+          [
+            "Entregado al almacén",
+            "Entrega, inspección quizá pendiente",
+            "Recepción y resultados QC"
+          ],
+          [
+            "Artículo almacenado",
+            "Producto dentro del almacén",
+            "Talla, QC y plazo de devolución"
+          ],
+          [
+            "Paquete por confirmar",
+            "Puede faltar pago o información",
+            "Solicitud actual y presupuesto revisado"
+          ],
+          [
+            "Pendiente de recogida",
+            "Preparación antes de aceptar el transportista",
+            "Recogida y seguimiento correcto"
+          ],
+          [
+            "Aceptado por el transportista",
+            "Etapa internacional iniciada",
+            "Último evento, repartidor y acción requerida"
+          ]
+        ],
+        "section": [
+          "Prepara una consulta de seguimiento útil",
+          "Anota pedido, paquete si existe, último estado exacto y hora. Explica si preguntas por vendedor, recepción, suplemento o transporte. No uses el número nacional para diagnosticar el envío internacional. Guarda ambas referencias cuando cambie el repartidor. La tabla orienta acciones, no ofrece seguimiento en directo."
+        ],
+        "desc": "Comprende estados Hipobuy, encuentra el seguimiento correcto y revisa recepción, pagos o movimientos pendientes."
+      },
+      "warehouse": {
+        "title": "¿Dónde está el almacén Hipobuy? Dirección y entrega",
+        "section": [
+          "La oficina no es tu dirección de recepción",
+          "La web oficial enumera oficinas de varias sociedades. Esas direcciones no sustituyen el destino de tu pedido de reenvío. Obtén nombre, teléfono, dirección y referencia de identificación del proceso oficial actual. Pide al vendedor conservar la referencia completa y guarda el seguimiento nacional. Si consta entregado pero no asociado, envía la prueba al soporte."
+        ],
+        "desc": "Encuentra la dirección de recepción Hipobuy en tu cuenta y aclara pedidos entregados pero todavía no almacenados."
+      },
+      "calculator": {
+        "title": "Calculadora Hipobuy: peso real y volumétrico",
+        "section": [
+          "El resultado de peso no incluye un precio",
+          "La cifra compara pesos antes del redondeo. No incluye tarifa inicial, escalones, seguro, embalaje ni descuento. Usa los mismos datos, productos y destino en la cotización oficial. Si cambia el importe, consulta la guía de estimación frente a coste final para revisar conceptos en vez de multiplicar un precio supuesto por kilo."
+        ],
+        "desc": "Compara peso real y volumétrico con el divisor de tu línea y entiende por qué el paquete difiere de una estimación inicial."
+      },
+      "rehearsal": {
+        "section": [
+          "Resuelve la devolución antes de quitar embalajes",
+          "El ensayo puede modificar caja, etiquetas o accesorios relevantes para devolver. Revisa primero y deja fuera del envío artículos aún no aceptados. Especifica qué debe conservarse. Compara el precio del ensayo con la duda que resuelve. Cambiar contenido o protección convierte las medidas anteriores en un escenario previo."
+        ]
+      },
+      "sizing": {
+        "section": [
+          "Guarda la medida que decidió la talla",
+          "Anota talla, tipo de tabla, unidad, prenda o pie de referencia y dimensión a verificar al llegar. Si falta el inicio o final de la cinta, pide esa toma. Coincidir la etiqueta no resuelve una diferencia dimensional. Revisa antes de la fecha límite; una foto extra no amplía automáticamente el plazo."
+        ]
+      },
+      "sneakers": {
+        "section": [
+          "Del enlace guardado al par revisado",
+          "Confirma identificador, talla, color, ambas etiquetas, medidas y accesorios. Después compara envío con o sin caja opcional solo si protección y devolución lo permiten. Separa artículos sin resolver de un paquete listo. La categoría sirve para descubrir; el pedido oficial aporta prueba de compra e inspección."
+        ]
+      }
+    },
+    "faq": [
+      [
+        "¿HipoBuys Store es el servicio oficial?",
+        "No. Es una guía independiente y un directorio de enlaces. Pedidos y soporte corresponden al servicio de compra elegido."
+      ],
+      [
+        "¿Un clic en producto crea un pedido?",
+        "No. Revisa anuncio, variante y pago antes de comprar."
+      ],
+      [
+        "¿Un spreadsheet antiguo demuestra stock?",
+        "No. Comprueba de nuevo el anuncio y la opción actual."
+      ],
+      [
+        "¿Dónde consigo la dirección de reenvío?",
+        "En las instrucciones actuales de la cuenta oficial, con referencia de recepción. No uses una oficina como sustituto."
+      ],
+      [
+        "¿Entregado significa QC terminado?",
+        "No necesariamente. Entrega, recepción, inspección y almacenamiento son etapas distintas."
+      ],
+      [
+        "¿Cuánto tarda la entrega?",
+        "Considera vendedor, transporte nacional, almacén y línea internacional. Usa el plazo actual de esa línea."
+      ],
+      [
+        "¿Tener seguimiento demuestra recogida?",
+        "No. Comprueba la aceptación real del transportista."
+      ],
+      [
+        "¿Qué seguimiento debo utilizar?",
+        "El nacional para vendedor-almacén y el de paquete o reparto final para el viaje internacional."
+      ],
+      [
+        "¿Por qué faltan fotos QC públicas?",
+        "El servicio puede no tener referencias del anuncio exacto. La ausencia no prueba un defecto."
+      ],
+      [
+        "¿Las fotos de otro comprador sustituyen mis QC?",
+        "No. Revisa tu propio ejemplar y variante recibida."
+      ],
+      [
+        "¿Qué debe incluir una solicitud de fotos?",
+        "Pedido, zona, ángulo, método de medición y confirmación previa del coste."
+      ],
+      [
+        "¿Las QC prueban autenticidad o comodidad?",
+        "No. Muestran detalles visibles, no todas las propiedades ni cómo se siente al usarlo."
+      ],
+      [
+        "¿Son universales las tablas de tallas?",
+        "No. Deben coincidir vendedor, producto, tipo de medida y unidades."
+      ],
+      [
+        "¿Qué es el peso volumétrico?",
+        "Largo × ancho × alto divididos por el divisor de la línea; facturación y redondeo dependen del servicio."
+      ],
+      [
+        "¿La calculadora da un precio en directo?",
+        "No. Ilustra pesos. Tarifas, elegibilidad y extras se consultan en la cuenta oficial."
+      ],
+      [
+        "¿Por qué cambió el envío final?",
+        "Compara peso embalado, medidas, línea, servicios y descuentos realmente aplicados."
+      ],
+      [
+        "¿Dividir el paquete siempre ahorra?",
+        "No. Suma ambos presupuestos y costes adicionales o repetidos."
+      ],
+      [
+        "¿Pedir fotos pausa la devolución?",
+        "No lo presupongas. Comprueba el plazo y presenta a tiempo la solicitud adecuada."
+      ],
+      [
+        "¿Una devolución aprobada ya está en mi tarjeta?",
+        "No. Devolución terminada, saldo y retirada son pasos diferentes."
+      ],
+      [
+        "¿Dónde envío dudas sobre mi pedido?",
+        "Al soporte oficial con la referencia correcta. No publiques contraseñas, códigos o datos de pago."
+      ]
+    ]
+  },
+  "it": {
+    "ui": {
+      "updated": "Aggiornato il 6 novembre 2026",
+      "shipping": "Spedizione",
+      "guide": "Come acquistare",
+      "quick_check": "Stato e prossima azione",
+      "next_step": "Continua con il prossimo passo",
+      "returns_source": "Avviso ufficiale sui resi (cinese)",
+      "status_source": "Avviso ufficiale sugli stati (cinese)",
+      "fees_source": "Servizi e costi ufficiali",
+      "faq_title": "FAQ Hipobuy: ordini, QC, spedizione e resi",
+      "faq_desc": "20 risposte pratiche su link, magazzino, foto QC, preventivi di spedizione, resi e saldo del portafoglio.",
+      "home_title": "Hipobuy Spreadsheet e link negozio: QC e spedizione",
+      "home_desc": "Trova link, controlla foto del magazzino, confronta costi di spedizione e risolvi dubbi su ordini e resi con guide indipendenti."
+    },
+    "articles": {
+      "time": {
+        "title": "Quanto impiega Hipobuy? Tempi di spedizione e ritardi",
+        "table": [
+          [
+            "Stato visibile",
+            "Cosa indica",
+            "Prossimo controllo"
+          ],
+          [
+            "Venditore ha spedito",
+            "Trasporto interno, non partenza internazionale",
+            "Tracking interno e ordine corretto"
+          ],
+          [
+            "Consegnato in magazzino",
+            "Consegna, controllo forse ancora pendente",
+            "Ricezione e risultati QC"
+          ],
+          [
+            "Articolo depositato",
+            "Merce nel magazzino",
+            "Taglia, QC e termine di reso"
+          ],
+          [
+            "Pacco da confermare",
+            "Possibile pagamento o dato mancante",
+            "Richiesta attuale e preventivo rivisto"
+          ],
+          [
+            "In attesa di ritiro",
+            "Preparazione prima dell’accettazione del vettore",
+            "Ritiro e tracking corretto"
+          ],
+          [
+            "Accettato dal vettore",
+            "Fase internazionale iniziata",
+            "Ultimo evento, corriere locale e azioni richieste"
+          ]
+        ],
+        "section": [
+          "Quale tempo di spedizione vuoi misurare?",
+          "Separa il trasporto interno del venditore dalla consegna internazionale al vettore. L’avviso ufficiale indica normalmente 3–5 giorni per il tragitto interno dopo la partenza del venditore; non è una promessa dall’ordine a casa. Per il tempo restante usa la stima attuale della linea e l’accettazione effettiva. Foto, resi o integrazioni pendenti richiedono azioni diverse dal transito."
+        ],
+        "desc": "Identifica la fase Hipobuy pendente, l’inizio del conteggio e i controlli per ritardi di venditore, magazzino o trasporto."
+      },
+      "tracking": {
+        "title": "Stati Hipobuy: tracking, magazzino e spedizione",
+        "table": [
+          [
+            "Stato visibile",
+            "Cosa indica",
+            "Prossimo controllo"
+          ],
+          [
+            "Venditore ha spedito",
+            "Trasporto interno, non partenza internazionale",
+            "Tracking interno e ordine corretto"
+          ],
+          [
+            "Consegnato in magazzino",
+            "Consegna, controllo forse ancora pendente",
+            "Ricezione e risultati QC"
+          ],
+          [
+            "Articolo depositato",
+            "Merce nel magazzino",
+            "Taglia, QC e termine di reso"
+          ],
+          [
+            "Pacco da confermare",
+            "Possibile pagamento o dato mancante",
+            "Richiesta attuale e preventivo rivisto"
+          ],
+          [
+            "In attesa di ritiro",
+            "Preparazione prima dell’accettazione del vettore",
+            "Ritiro e tracking corretto"
+          ],
+          [
+            "Accettato dal vettore",
+            "Fase internazionale iniziata",
+            "Ultimo evento, corriere locale e azioni richieste"
+          ]
+        ],
+        "section": [
+          "Prepara una richiesta di tracking utile",
+          "Annota ordine, eventuale pacco, ultimo stato esatto e ora. Specifica se chiedi di venditore, ricezione, integrazione o trasporto. Il tracking interno non descrive il viaggio internazionale. Conserva entrambe le referenze quando cambia il corriere. La tabella orienta le azioni, non è un servizio di tracking in diretta."
+        ],
+        "desc": "Comprendi gli stati Hipobuy, trova il tracking giusto e verifica ricezione, pagamenti o trasporto ancora in attesa."
+      },
+      "warehouse": {
+        "title": "Dov’è il magazzino Hipobuy? Indirizzo e consegna",
+        "section": [
+          "L’ufficio non è il tuo indirizzo di ricezione",
+          "La homepage ufficiale elenca uffici di diverse società. Non sostituiscono la destinazione del tuo ordine di inoltro. Ottieni nome, telefono, indirizzo e riferimento dal processo ufficiale attuale. Chiedi al venditore di mantenere il riferimento completo e salva il tracking interno. Per una consegna non associata all’ordine, invia la prova all’assistenza."
+        ],
+        "desc": "Trova l’indirizzo di ricezione Hipobuy nell’account e chiarisci ordini consegnati ma non ancora depositati."
+      },
+      "calculator": {
+        "title": "Calcolatore Hipobuy: peso reale e volumetrico",
+        "section": [
+          "Il risultato di peso non contiene un prezzo",
+          "Il valore confronta pesi prima dell’arrotondamento. Non include quota iniziale, scaglioni, assicurazione, confezione o sconto. Usa gli stessi dati, merci e destinazione nel preventivo ufficiale. Per differenze consulta il confronto stima-costo finale, invece di moltiplicare un prezzo ipotetico per chilogrammo."
+        ],
+        "desc": "Confronta peso reale e volumetrico con il divisore della linea e chiarisci differenze fra stima iniziale e pacco imballato."
+      },
+      "rehearsal": {
+        "section": [
+          "Risolvi il reso prima di rimuovere confezioni",
+          "La prova può modificare scatola, etichette o accessori necessari al reso. Controlla prima e lascia gli articoli indecisi fuori dalla spedizione. Specifica cosa va mantenuto. Confronta il costo con l’incertezza risolta. Cambiare contenuto o protezione rende le vecchie misure uno scenario precedente."
+        ]
+      },
+      "sizing": {
+        "section": [
+          "Registra la misura che ha guidato la scelta",
+          "Annota taglia, tipo di tabella, unità, capo o piede di riferimento e misura da verificare all’arrivo. Se mancano inizio o fine del metro, chiedi proprio quella vista. Un’etichetta corretta non risolve dimensioni diverse. Controlla prima del termine: la foto extra non prolunga automaticamente il reso."
+        ]
+      },
+      "sneakers": {
+        "section": [
+          "Dal link salvato al paio verificato",
+          "Conferma identificativo, taglia, colore, entrambe le etichette, misure e accessori. Poi confronta trasporto con o senza scatole opzionali solo se protezione e reso lo permettono. Tieni prodotti irrisolti fuori da un pacco pronto. La categoria serve a scoprire; l’ordine ufficiale fornisce prove d’acquisto e controllo."
+        ]
+      }
+    },
+    "faq": [
+      [
+        "HipoBuys Store è il servizio ufficiale?",
+        "No. È una guida indipendente con link. Ordini e assistenza appartengono al servizio scelto per acquistare."
+      ],
+      [
+        "Un clic prodotto crea un ordine?",
+        "No. Controlla annuncio, variante e pagamento prima dell’acquisto."
+      ],
+      [
+        "Un vecchio spreadsheet prova la disponibilità?",
+        "No. Ricontrolla annuncio e opzione attuali."
+      ],
+      [
+        "Dove trovo l’indirizzo di inoltro?",
+        "Nelle istruzioni attuali dell’account ufficiale, con riferimento di ricezione. Un ufficio non lo sostituisce."
+      ],
+      [
+        "Consegnato significa QC terminato?",
+        "Non necessariamente. Consegna, ricezione, controllo e deposito sono separati."
+      ],
+      [
+        "Quanto impiega la consegna?",
+        "Considera venditore, trasporto interno, magazzino e linea internazionale. Usa la stima attuale del servizio."
+      ],
+      [
+        "Il tracking prova il ritiro?",
+        "No. Controlla l’effettiva accettazione del vettore."
+      ],
+      [
+        "Quale tracking devo usare?",
+        "Quello interno per venditore-magazzino, quello del pacco o ultimo corriere per l’internazionale."
+      ],
+      [
+        "Perché non ci sono QC pubblici?",
+        "Il servizio può non avere riferimenti per l’annuncio esatto. L’assenza non dimostra un difetto."
+      ],
+      [
+        "Le foto altrui sostituiscono le mie QC?",
+        "No. Verifica il tuo esemplare e la variante ricevuta."
+      ],
+      [
+        "Cosa specificare per una foto extra?",
+        "Ordine, zona, angolo, metodo di misura e conferma preventiva del costo."
+      ],
+      [
+        "Le QC provano autenticità o comodità?",
+        "No. Mostrano dettagli visibili, non tutte le proprietà o il comfort indossato."
+      ],
+      [
+        "Le tabelle taglie sono universali?",
+        "No. Devono corrispondere venditore, prodotto, tipo di misura e unità."
+      ],
+      [
+        "Cos’è il peso volumetrico?",
+        "Lunghezza × larghezza × altezza divise per il divisore della linea; fatturazione e arrotondamento dipendono dal servizio."
+      ],
+      [
+        "Il calcolatore fornisce un prezzo attuale?",
+        "No. Illustra pesi. Tariffe, idoneità ed extra vengono dall’account ufficiale."
+      ],
+      [
+        "Perché è cambiato il costo finale?",
+        "Confronta peso imballato, misure, linea, servizi e sconti realmente applicati."
+      ],
+      [
+        "Dividere il pacco fa sempre risparmiare?",
+        "No. Somma i preventivi e i costi aggiunti o ripetuti."
+      ],
+      [
+        "Chiedere foto sospende il reso?",
+        "Non presumere di sì. Controlla il termine e presenta la richiesta corretta in tempo."
+      ],
+      [
+        "Un reso approvato è già sulla carta?",
+        "No. Reso completato, saldo e prelievo sono fasi diverse."
+      ],
+      [
+        "A chi invio domande sull’ordine?",
+        "All’assistenza ufficiale con la referenza corretta. Non pubblicare password, codici o dati di pagamento."
+      ]
+    ]
+  },
+  "pl": {
+    "ui": {
+      "updated": "Aktualizacja: 6 listopada 2026",
+      "shipping": "Wysyłka",
+      "guide": "Jak kupować",
+      "quick_check": "Status i następna czynność",
+      "next_step": "Przejdź do następnego kroku",
+      "returns_source": "Oficjalne zasady zwrotów (chiński)",
+      "status_source": "Oficjalny opis statusów (chiński)",
+      "fees_source": "Oficjalne usługi i opłaty",
+      "faq_title": "FAQ Hipobuy: zamówienia, QC, wysyłka i zwroty",
+      "faq_desc": "20 praktycznych odpowiedzi o linkach, magazynie, zdjęciach QC, kosztach wysyłki, zwrotach i saldzie.",
+      "home_title": "Hipobuy Spreadsheet i linki do sklepu: QC oraz wysyłka",
+      "home_desc": "Znajdź produkty, sprawdź zdjęcia magazynowe, porównaj koszty wysyłki i wyjaśnij pytania o zamówienia lub zwroty."
+    },
+    "articles": {
+      "time": {
+        "title": "Ile trwa wysyłka Hipobuy? Etapy i opóźnienia",
+        "table": [
+          [
+            "Widoczny status",
+            "Co oznacza",
+            "Co sprawdzić dalej"
+          ],
+          [
+            "Sprzedawca wysłał",
+            "Transport krajowy, nie międzynarodowy",
+            "Tracking krajowy i właściwe zamówienie"
+          ],
+          [
+            "Doręczono do magazynu",
+            "Dostawa, kontrola może jeszcze czekać",
+            "Przyjęcie i wyniki QC"
+          ],
+          [
+            "Towar na stanie",
+            "Artykuł jest w magazynie",
+            "Rozmiar, QC i termin zwrotu"
+          ],
+          [
+            "Paczka do potwierdzenia",
+            "Możliwa brakująca dopłata lub informacja",
+            "Bieżący komunikat i nowa wycena"
+          ],
+          [
+            "Oczekiwanie na odbiór",
+            "Przygotowanie przed przyjęciem przez przewoźnika",
+            "Skan odbioru i numer przesyłki"
+          ],
+          [
+            "Przewoźnik przyjął",
+            "Rozpoczęty etap międzynarodowy",
+            "Ostatni skan, lokalny kurier i wymagane działanie"
+          ]
+        ],
+        "section": [
+          "Który czas wysyłki chcesz policzyć?",
+          "Oddziel wysyłkę krajową sprzedawcy od międzynarodowego przekazania z magazynu. Oficjalny opis podaje zwykle 3–5 dni krajowego przewozu po nadaniu przez sprzedawcę; to nie obietnica dostawy od zakupu do domu. Pozostały czas oceniaj z aktualnej oferty linii i rzeczywistego przyjęcia. Zdjęcia, zwrot lub dopłata wymagają innych działań niż paczka w przewozie."
+        ],
+        "desc": "Ustal oczekujący etap Hipobuy, początek terminu i następne kroki przy opóźnieniu sprzedawcy, magazynu lub transportu."
+      },
+      "tracking": {
+        "title": "Statusy Hipobuy: śledzenie, magazyn i wysyłka",
+        "table": [
+          [
+            "Widoczny status",
+            "Co oznacza",
+            "Co sprawdzić dalej"
+          ],
+          [
+            "Sprzedawca wysłał",
+            "Transport krajowy, nie międzynarodowy",
+            "Tracking krajowy i właściwe zamówienie"
+          ],
+          [
+            "Doręczono do magazynu",
+            "Dostawa, kontrola może jeszcze czekać",
+            "Przyjęcie i wyniki QC"
+          ],
+          [
+            "Towar na stanie",
+            "Artykuł jest w magazynie",
+            "Rozmiar, QC i termin zwrotu"
+          ],
+          [
+            "Paczka do potwierdzenia",
+            "Możliwa brakująca dopłata lub informacja",
+            "Bieżący komunikat i nowa wycena"
+          ],
+          [
+            "Oczekiwanie na odbiór",
+            "Przygotowanie przed przyjęciem przez przewoźnika",
+            "Skan odbioru i numer przesyłki"
+          ],
+          [
+            "Przewoźnik przyjął",
+            "Rozpoczęty etap międzynarodowy",
+            "Ostatni skan, lokalny kurier i wymagane działanie"
+          ]
+        ],
+        "section": [
+          "Przygotuj pomocne zapytanie o tracking",
+          "Zapisz numer zamówienia, ewentualnie paczki, dokładny status i godzinę. Wyjaśnij, czy chodzi o sprzedawcę, przyjęcie, dopłatę czy przewóz. Numer krajowy nie opisuje trasy międzynarodowej. Przy zmianie kuriera zachowaj obie referencje. Tabela pomaga wybrać działanie; nie jest śledzeniem na żywo."
+        ],
+        "desc": "Zrozum statusy Hipobuy, znajdź właściwy tracking i sprawdź oczekujące przyjęcie, dopłatę lub przewóz."
+      },
+      "warehouse": {
+        "title": "Gdzie jest magazyn Hipobuy? Adres i dostawa",
+        "section": [
+          "Adres biura nie jest adresem odbioru",
+          "Oficjalna strona podaje biura kilku operatorów. Nie zastępują adresu twojego zamówienia forwardingowego. Pobierz odbiorcę, telefon, adres i identyfikator z aktualnej oficjalnej procedury. Poproś sprzedawcę o pełną referencję i zachowaj numer krajowy. Gdy dostawa nie jest dopasowana, prześlij dowód obsłudze."
+        ],
+        "desc": "Znajdź adres odbioru Hipobuy na koncie i wyjaśnij zamówienia doręczone, ale jeszcze nieprzyjęte na stan."
+      },
+      "calculator": {
+        "title": "Kalkulator Hipobuy: waga rzeczywista i objętościowa",
+        "section": [
+          "Wynik wagi nie zawiera ceny",
+          "Obliczenie porównuje wagi przed zaokrągleniem. Nie obejmuje opłaty początkowej, progów, ubezpieczenia, pakowania ani rabatu. Użyj tych samych wymiarów, towaru i kraju w oficjalnej wycenie. Różnice wyjaśnia poradnik kosztu końcowego, zamiast mnożenia domniemanej ceny za kilogram."
+        ],
+        "desc": "Porównaj wagę rzeczywistą i objętościową z dzielnikiem linii oraz różnicę między wyceną a gotową paczką."
+      },
+      "rehearsal": {
+        "section": [
+          "Rozstrzygnij zwrot przed usunięciem opakowania",
+          "Próba pakowania może zmienić pudełko, metki lub akcesoria potrzebne do zwrotu. Najpierw sprawdź towar i wyłącz niezdecydowane artykuły z wysyłki. Wskaż, co ma zostać. Porównaj opłatę z usuniętą niepewnością. Nowa zawartość lub ochrona sprawia, że stare wymiary dotyczą poprzedniego wariantu."
+        ]
+      },
+      "sizing": {
+        "section": [
+          "Zapisz pomiar decydujący o rozmiarze",
+          "Notuj rozmiar, rodzaj tabeli, jednostkę, ubranie lub stopę odniesienia i wymiar do kontroli. Jeśli nie widać początku albo końca taśmy, poproś o konkretne ujęcie. Zgodna metka nie wyjaśnia innych rzeczywistych wymiarów. Sprawdź przed terminem; dodatkowe zdjęcie nie przedłuża automatycznie zwrotu."
+        ]
+      },
+      "sneakers": {
+        "section": [
+          "Od zapisanego linku do sprawdzonej pary",
+          "Potwierdź identyfikator, rozmiar, kolor, obie metki, pomiary i dodatki. Potem porównaj transport z opcjonalnym pudełkiem i bez niego, jeśli pozwalają ochrona i zwrot. Nie dodawaj nierozstrzygniętych rzeczy do gotowej paczki. Kategoria służy odkrywaniu, a oficjalna karta dowodom zakupu i kontroli."
+        ]
+      }
+    },
+    "faq": [
+      [
+        "Czy HipoBuys Store jest oficjalnym serwisem?",
+        "Nie. To niezależne poradniki i katalog linków. Zamówienia oraz pomoc należą do wybranej usługi zakupowej."
+      ],
+      [
+        "Czy kliknięcie produktu składa zamówienie?",
+        "Nie. Przed kupnem sprawdź ofertę, wariant i płatność."
+      ],
+      [
+        "Czy stary spreadsheet dowodzi dostępności?",
+        "Nie. Ponownie sprawdź aktualną ofertę i wariant."
+      ],
+      [
+        "Skąd wziąć adres forwardingowy?",
+        "Z bieżących instrukcji oficjalnego konta wraz z referencją odbioru. Adres biura go nie zastępuje."
+      ],
+      [
+        "Czy doręczono oznacza zakończone QC?",
+        "Niekoniecznie. Dostawa, przyjęcie, kontrola i składowanie są osobne."
+      ],
+      [
+        "Ile trwa dostawa?",
+        "Uwzględnij sprzedawcę, transport krajowy, magazyn i linię międzynarodową. Użyj jej aktualnego szacunku."
+      ],
+      [
+        "Czy numer śledzenia potwierdza odbiór?",
+        "Nie. Sprawdź faktyczne przyjęcie przez przewoźnika."
+      ],
+      [
+        "Którego numeru używać?",
+        "Krajowego dla sprzedawca-magazyn, a paczki lub końcowego kuriera dla trasy międzynarodowej."
+      ],
+      [
+        "Dlaczego brak publicznych QC?",
+        "Usługa może nie mieć referencji dokładnej oferty. Brak nie dowodzi wady."
+      ],
+      [
+        "Czy cudze zdjęcia zastępują moje QC?",
+        "Nie. Sprawdź swój otrzymany egzemplarz i wariant."
+      ],
+      [
+        "Co podać we wniosku o zdjęcie?",
+        "Numer, obszar, kąt, metodę pomiaru i prośbę o wcześniejsze potwierdzenie opłaty."
+      ],
+      [
+        "Czy QC dowodzi autentyczności i wygody?",
+        "Nie. Pokazuje widoczne cechy, nie wszystkie właściwości ani komfort używania."
+      ],
+      [
+        "Czy tabele rozmiarów są uniwersalne?",
+        "Nie. Dopasuj sprzedawcę, produkt, rodzaj pomiaru i jednostki."
+      ],
+      [
+        "Czym jest waga objętościowa?",
+        "Długość × szerokość × wysokość podzielone przez dzielnik linii; rozliczenie i zaokrąglenie zależą od niej."
+      ],
+      [
+        "Czy kalkulator podaje aktualną cenę?",
+        "Nie. Ilustruje wagę. Stawki, dopuszczenie i dodatki pochodzą z oficjalnego konta."
+      ],
+      [
+        "Dlaczego końcowa opłata się zmieniła?",
+        "Porównaj wagę po spakowaniu, wymiary, linię, usługi i zastosowane rabaty."
+      ],
+      [
+        "Czy podział zawsze oszczędza?",
+        "Nie. Zsumuj wyceny i dodatkowe lub powtórzone koszty."
+      ],
+      [
+        "Czy zdjęcie zatrzymuje termin zwrotu?",
+        "Nie zakładaj tego. Sprawdź termin i złóż właściwy wniosek na czas."
+      ],
+      [
+        "Czy zaakceptowany zwrot jest już na karcie?",
+        "Nie. Zakończenie zwrotu, saldo i wypłata są różnymi etapami."
+      ],
+      [
+        "Gdzie wysłać pytanie o zamówienie?",
+        "Do oficjalnej obsługi z właściwym numerem. Nie publikuj haseł, kodów ani danych płatniczych."
+      ]
+    ]
+  },
+  "pt": {
+    "ui": {
+      "updated": "Atualizado em 6 de novembro de 2026",
+      "shipping": "Envio",
+      "guide": "Como comprar",
+      "quick_check": "Estado e próxima ação",
+      "next_step": "Continue para o próximo passo",
+      "returns_source": "Aviso oficial de devoluções (chinês)",
+      "status_source": "Aviso oficial de estados (chinês)",
+      "fees_source": "Serviços e custos oficiais",
+      "faq_title": "FAQ Hipobuy: encomendas, QC, envio e devoluções",
+      "faq_desc": "20 respostas práticas sobre ligações, armazém, fotos QC, estimativas, devoluções e saldo da carteira.",
+      "home_title": "Hipobuy Spreadsheet e ligações de loja: QC e envio",
+      "home_desc": "Encontre produtos, confira fotos do armazém, compare custos de envio e resolva dúvidas de encomendas ou devoluções com guias independentes."
+    },
+    "articles": {
+      "time": {
+        "title": "Quanto demora a Hipobuy? Etapas de envio e atrasos",
+        "table": [
+          [
+            "Estado mostrado",
+            "O que indica",
+            "O que verificar"
+          ],
+          [
+            "Vendedor enviou",
+            "Transporte interno, não partida internacional",
+            "Rastreio interno e encomenda certa"
+          ],
+          [
+            "Entregue no armazém",
+            "Entrega, inspeção possivelmente pendente",
+            "Receção e resultados QC"
+          ],
+          [
+            "Artigo armazenado",
+            "Mercadoria no armazém",
+            "Tamanho, QC e prazo de devolução"
+          ],
+          [
+            "Pacote por confirmar",
+            "Pode faltar pagamento ou informação",
+            "Pedido atual e orçamento revisto"
+          ],
+          [
+            "Aguarda recolha",
+            "Preparação antes de aceitar o transportador",
+            "Recolha e rastreio correto"
+          ],
+          [
+            "Aceite pelo transportador",
+            "Etapa internacional iniciada",
+            "Último evento, distribuidor e ação exigida"
+          ]
+        ],
+        "section": [
+          "Que prazo pretende medir?",
+          "Separe o transporte interno do vendedor da entrega internacional ao transportador. O aviso oficial refere normalmente 3–5 dias para o percurso interno após a saída do vendedor; não é uma promessa da compra até casa. Para o tempo restante use a previsão atual da linha e a aceitação real. Fotos, devoluções ou pagamentos pendentes exigem ações diferentes de um pacote em trânsito."
+        ],
+        "desc": "Identifique a etapa Hipobuy pendente, o início do prazo e o que verificar em atrasos do vendedor, armazém ou transporte."
+      },
+      "tracking": {
+        "title": "Estados Hipobuy: rastreio, armazém e envio",
+        "table": [
+          [
+            "Estado mostrado",
+            "O que indica",
+            "O que verificar"
+          ],
+          [
+            "Vendedor enviou",
+            "Transporte interno, não partida internacional",
+            "Rastreio interno e encomenda certa"
+          ],
+          [
+            "Entregue no armazém",
+            "Entrega, inspeção possivelmente pendente",
+            "Receção e resultados QC"
+          ],
+          [
+            "Artigo armazenado",
+            "Mercadoria no armazém",
+            "Tamanho, QC e prazo de devolução"
+          ],
+          [
+            "Pacote por confirmar",
+            "Pode faltar pagamento ou informação",
+            "Pedido atual e orçamento revisto"
+          ],
+          [
+            "Aguarda recolha",
+            "Preparação antes de aceitar o transportador",
+            "Recolha e rastreio correto"
+          ],
+          [
+            "Aceite pelo transportador",
+            "Etapa internacional iniciada",
+            "Último evento, distribuidor e ação exigida"
+          ]
+        ],
+        "section": [
+          "Prepare uma pergunta de rastreio útil",
+          "Anote encomenda, pacote se existir, último estado exato e hora. Esclareça se pergunta sobre vendedor, receção, suplemento ou transporte. O número interno não explica o percurso internacional. Guarde ambas as referências quando mudar o transportador. A tabela orienta decisões; não fornece rastreio em direto."
+        ],
+        "desc": "Entenda estados Hipobuy, encontre o rastreio certo e verifique receção, pagamentos ou transporte pendentes."
+      },
+      "warehouse": {
+        "title": "Onde fica o armazém Hipobuy? Morada e entrega",
+        "section": [
+          "O escritório não é a sua morada de receção",
+          "A página oficial lista escritórios de várias sociedades. Não substituem o destino da sua encomenda de reencaminhamento. Obtenha nome, telefone, morada e referência no processo oficial atual. Peça ao vendedor que preserve a referência completa e guarde o rastreio interno. Se houver entrega sem associação, envie a prova ao apoio."
+        ],
+        "desc": "Encontre a morada de receção Hipobuy na conta e esclareça encomendas entregues mas ainda não armazenadas."
+      },
+      "calculator": {
+        "title": "Calculadora Hipobuy: peso real e volumétrico",
+        "section": [
+          "O resultado de peso não contém preço",
+          "O cálculo compara pesos antes de arredondar. Não inclui cobrança inicial, escalões, seguro, embalagem ou desconto. Use os mesmos dados, produtos e destino no orçamento oficial. Para diferenças, consulte a comparação estimativa-custo final em vez de multiplicar um preço suposto por quilo."
+        ],
+        "desc": "Compare peso real e volumétrico com o divisor da linha e perceba diferenças entre estimativa inicial e pacote embalado."
+      },
+      "rehearsal": {
+        "section": [
+          "Resolva a devolução antes de retirar embalagens",
+          "O ensaio pode alterar caixas, etiquetas ou acessórios importantes para devolver. Analise primeiro e exclua artigos indecisos do envio. Especifique o que deve permanecer. Compare a taxa com a incerteza resolvida. Novos conteúdos ou proteção tornam as medidas antigas um cenário anterior."
+        ]
+      },
+      "sizing": {
+        "section": [
+          "Registe a medida que determinou o tamanho",
+          "Anote tamanho, tipo de tabela, unidade, peça ou pé de referência e dimensão a conferir na chegada. Se faltar início ou fim da fita, peça essa vista. Uma etiqueta correta não resolve dimensões diferentes. Verifique antes do prazo; fotos extra não prolongam automaticamente a devolução."
+        ]
+      },
+      "sneakers": {
+        "section": [
+          "Da ligação guardada ao par verificado",
+          "Confirme identificador, tamanho, cor, ambas as etiquetas, medidas e acessórios. Compare depois envio com ou sem caixas opcionais apenas se proteção e devolução o permitirem. Deixe artigos por resolver fora de um pacote pronto. A categoria ajuda a descobrir; a encomenda oficial fornece provas de compra e inspeção."
+        ]
+      }
+    },
+    "faq": [
+      [
+        "HipoBuys Store é o serviço oficial?",
+        "Não. É um guia independente e um diretório de ligações. Encomendas e apoio pertencem ao serviço escolhido para comprar."
+      ],
+      [
+        "Clicar num produto cria uma encomenda?",
+        "Não. Confira anúncio, variante e pagamento antes de comprar."
+      ],
+      [
+        "Um spreadsheet antigo prova o stock?",
+        "Não. Verifique novamente anúncio e opção atuais."
+      ],
+      [
+        "Onde obtenho a morada de reencaminhamento?",
+        "Nas instruções atuais da conta oficial, com referência de receção. Um escritório não a substitui."
+      ],
+      [
+        "Entregue significa QC terminado?",
+        "Não necessariamente. Entrega, receção, inspeção e armazenamento são diferentes."
+      ],
+      [
+        "Quanto demora a entrega?",
+        "Considere vendedor, transporte interno, armazém e linha internacional. Use a previsão atual da linha."
+      ],
+      [
+        "O rastreio prova a recolha?",
+        "Não. Confira a aceitação real pelo transportador."
+      ],
+      [
+        "Que número devo usar?",
+        "O interno para vendedor-armazém e o de pacote ou distribuição final para o percurso internacional."
+      ],
+      [
+        "Porque faltam QC públicos?",
+        "O serviço pode não ter referências do anúncio exato. A ausência não prova um defeito."
+      ],
+      [
+        "Fotos de outros substituem as minhas QC?",
+        "Não. Analise o seu exemplar e a variante recebida."
+      ],
+      [
+        "Que incluir num pedido de foto extra?",
+        "Encomenda, zona, ângulo, método de medição e confirmação prévia de custos."
+      ],
+      [
+        "QC prova autenticidade ou conforto?",
+        "Não. Mostra características visíveis, não todas as propriedades nem a sensação de uso."
+      ],
+      [
+        "As tabelas de tamanhos são universais?",
+        "Não. Faça corresponder vendedor, produto, tipo de medida e unidades."
+      ],
+      [
+        "O que é peso volumétrico?",
+        "Comprimento × largura × altura divididos pelo divisor da linha; cobrança e arredondamento dependem do serviço."
+      ],
+      [
+        "A calculadora dá uma cotação atual?",
+        "Não. Ilustra pesos. Preços, elegibilidade e extras vêm da conta oficial."
+      ],
+      [
+        "Porque mudou o custo final?",
+        "Compare peso embalado, dimensões, linha, serviços e descontos realmente aceites."
+      ],
+      [
+        "Dividir o pacote poupa sempre?",
+        "Não. Some ambos os orçamentos e custos adicionais ou repetidos."
+      ],
+      [
+        "Pedir fotos suspende o prazo de devolução?",
+        "Não assuma isso. Confira o prazo e apresente o pedido adequado a tempo."
+      ],
+      [
+        "Uma devolução aprovada já está no cartão?",
+        "Não. Devolução terminada, saldo e levantamento são passos diferentes."
+      ],
+      [
+        "Onde envio perguntas sobre a encomenda?",
+        "Ao apoio oficial com a referência correta. Não publique palavras-passe, códigos ou dados de pagamento."
+      ]
+    ]
+  },
+  "nl": {
+    "ui": {
+      "updated": "Bijgewerkt op 6 november 2026",
+      "shipping": "Verzending",
+      "guide": "Hoe kopen",
+      "quick_check": "Status en volgende actie",
+      "next_step": "Ga verder met de volgende stap",
+      "returns_source": "Officiële retourmelding (Chinees)",
+      "status_source": "Officiële statusmelding (Chinees)",
+      "fees_source": "Officiële diensten en kosten",
+      "faq_title": "Hipobuy FAQ: bestellingen, QC, verzending en retouren",
+      "faq_desc": "20 praktische antwoorden over productlinks, magazijn, QC-foto’s, verzendschattingen, retouren en wallettegoed.",
+      "home_title": "Hipobuy Spreadsheet en shoplinks: QC en verzending",
+      "home_desc": "Vind producten, controleer magazijnfoto’s, vergelijk verzendkosten en los bestel- of retourvragen op met onafhankelijke gidsen."
+    },
+    "articles": {
+      "time": {
+        "title": "Hoe lang duurt Hipobuy? Verzendtijd en vertraging",
+        "table": [
+          [
+            "Wat je ziet",
+            "Wat het aangeeft",
+            "Volgende controle"
+          ],
+          [
+            "Verkoper heeft verzonden",
+            "Binnenlands vervoer, geen internationaal vertrek",
+            "Binnenlandse tracking en juiste order"
+          ],
+          [
+            "Bij magazijn bezorgd",
+            "Bezorging, inspectie mogelijk nog open",
+            "Ontvangst en QC-resultaten"
+          ],
+          [
+            "Artikel opgeslagen",
+            "Goederen in het magazijn",
+            "Maat, QC en retourtermijn"
+          ],
+          [
+            "Pakket te bevestigen",
+            "Mogelijk ontbrekende betaling of informatie",
+            "Actueel accountverzoek en nieuwe offerte"
+          ],
+          [
+            "Wacht op ophaling",
+            "Voorbereiding vóór acceptatie vervoerder",
+            "Ophaalevent en juiste tracking"
+          ],
+          [
+            "Geaccepteerd door vervoerder",
+            "Internationale fase gestart",
+            "Laatste scan, bezorger en gevraagde actie"
+          ]
+        ],
+        "section": [
+          "Welke verzendklok bedoel je?",
+          "Scheid binnenlandse verkopersverzending van internationale overdracht uit het magazijn. De officiële statusmelding noemt doorgaans 3–5 dagen voor het binnenlandse traject na verkopersvertrek; dat is geen belofte van bestelling tot voordeur. Gebruik voor de resttijd de actuele lijnschatting en echte acceptatie. Openstaande foto’s, retouren of betalingen vragen andere acties dan een pakket in vervoer."
+        ],
+        "desc": "Ontdek welke Hipobuy-verzendfase wacht, wanneer de bezorgtijd begint en wat je bij verkoper, magazijn of vervoerder controleert."
+      },
+      "tracking": {
+        "title": "Hipobuy bestelstatus: tracking, opslag en verzending",
+        "table": [
+          [
+            "Wat je ziet",
+            "Wat het aangeeft",
+            "Volgende controle"
+          ],
+          [
+            "Verkoper heeft verzonden",
+            "Binnenlands vervoer, geen internationaal vertrek",
+            "Binnenlandse tracking en juiste order"
+          ],
+          [
+            "Bij magazijn bezorgd",
+            "Bezorging, inspectie mogelijk nog open",
+            "Ontvangst en QC-resultaten"
+          ],
+          [
+            "Artikel opgeslagen",
+            "Goederen in het magazijn",
+            "Maat, QC en retourtermijn"
+          ],
+          [
+            "Pakket te bevestigen",
+            "Mogelijk ontbrekende betaling of informatie",
+            "Actueel accountverzoek en nieuwe offerte"
+          ],
+          [
+            "Wacht op ophaling",
+            "Voorbereiding vóór acceptatie vervoerder",
+            "Ophaalevent en juiste tracking"
+          ],
+          [
+            "Geaccepteerd door vervoerder",
+            "Internationale fase gestart",
+            "Laatste scan, bezorger en gevraagde actie"
+          ]
+        ],
+        "section": [
+          "Maak een nuttige trackingvraag",
+          "Noteer order, eventueel pakket, laatste exacte status en tijd. Benoem verkoper, ontvangst, bijbetaling of vervoer. Binnenlandse tracking beschrijft niet de internationale reis. Bewaar beide nummers bij een nieuwe bezorger. De tabel helpt beslissen en is geen live trackingdienst."
+        ],
+        "desc": "Begrijp Hipobuy-statussen, vind de juiste tracking en controleer openstaande ontvangst, betaling of transportupdates."
+      },
+      "warehouse": {
+        "title": "Waar is het Hipobuy-magazijn? Adres en bezorging",
+        "section": [
+          "Een kantooradres is geen ontvangstadres",
+          "De officiële homepage noemt kantoren van meerdere bedrijven. Die vervangen niet de bestemming van jouw doorstuurorder. Haal naam, telefoon, adres en koppelingreferentie uit het actuele officiële proces. Laat de verkoper de hele referentie behouden en bewaar binnenlandse tracking. Stuur bij bezorgde maar niet gekoppelde waar het bewijs naar ondersteuning."
+        ],
+        "desc": "Vind het juiste Hipobuy-ontvangstadres in je account en verklaar bezorgde maar nog niet opgeslagen bestellingen."
+      },
+      "calculator": {
+        "title": "Hipobuy verzendcalculator: werkelijk en volumegewicht",
+        "section": [
+          "Een gewichtsresultaat bevat geen prijs",
+          "De uitkomst vergelijkt gewichten vóór afronding. Starttarief, stappen, verzekering, verpakking en korting ontbreken. Gebruik dezelfde maten, goederen en bestemming in de officiële offerte. De gids over schatting en eindkosten helpt afwijkende posten vergelijken in plaats van een gegiste kiloprijs te vermenigvuldigen."
+        ],
+        "desc": "Vergelijk werkelijk en volumegewicht met je lijndeler en begrijp waarom het verpakte pakket afwijkt van een vroege schatting."
+      },
+      "rehearsal": {
+        "section": [
+          "Los retourvragen op vóór verpakkingsverwijdering",
+          "Proefverpakken kan doos, labels of accessoires veranderen die voor retour belangrijk zijn. Controleer eerst en houd onbesliste spullen uit de verzendopdracht. Benoem wat intact moet blijven. Vergelijk de kosten met de opgeloste onzekerheid. Gewijzigde inhoud of bescherming maakt oude maten een eerder scenario."
+        ]
+      },
+      "sizing": {
+        "section": [
+          "Leg de beslissende maat vast",
+          "Noteer maat, tabeltype, eenheid, referentiekleding of voetmaat en de te controleren dimensie. Ontbreekt begin of einde van de meetband, vraag die opname. Een correct label verklaart geen afwijkende werkelijke maten. Controleer vóór de deadline; extra foto’s verlengen de retourtermijn niet automatisch."
+        ]
+      },
+      "sneakers": {
+        "section": [
+          "Van bewaarde link naar gecontroleerd paar",
+          "Bevestig artikelnummer, maat, kleur, beide labels, metingen en accessoires. Vergelijk vervolgens vervoer met of zonder optionele dozen als bescherming en retour dit toestaan. Houd onbesliste items buiten een klaar pakket. De categorie helpt ontdekken; de officiële order levert aankoop- en inspectiebewijs."
+        ]
+      }
+    },
+    "faq": [
+      [
+        "Is HipoBuys Store de officiële dienst?",
+        "Nee. Dit is een onafhankelijke gids en linkdirectory. Bestellingen en ondersteuning horen bij de gekozen aankoopdienst."
+      ],
+      [
+        "Plaatst een productklik een order?",
+        "Nee. Controleer aanbieding, uitvoering en betaling voordat je koopt."
+      ],
+      [
+        "Bewijst een oud spreadsheet de voorraad?",
+        "Nee. Controleer de actuele aanbieding en variant opnieuw."
+      ],
+      [
+        "Waar haal ik het doorstuuradres?",
+        "Uit actuele officiële accountinstructies met ontvangstreferentie. Een kantooradres vervangt dit niet."
+      ],
+      [
+        "Betekent bezorgd ook QC klaar?",
+        "Niet noodzakelijk. Bezorging, ontvangst, inspectie en opslag zijn apart."
+      ],
+      [
+        "Hoe lang duurt bezorging?",
+        "Neem verkoper, binnenlands vervoer, magazijn en internationale lijn mee. Gebruik de actuele lijnschatting."
+      ],
+      [
+        "Bewijst tracking dat het is opgehaald?",
+        "Nee. Controleer daadwerkelijke acceptatie door de vervoerder."
+      ],
+      [
+        "Welk nummer moet ik gebruiken?",
+        "Binnenlandse tracking voor verkoper-magazijn, pakket- of laatste bezorgnummer voor internationaal vervoer."
+      ],
+      [
+        "Waarom ontbreken openbare QC-foto’s?",
+        "De dienst heeft mogelijk geen referentie voor die exacte aanbieding. Afwezigheid bewijst geen defect."
+      ],
+      [
+        "Vervangen andermans foto’s mijn QC?",
+        "Nee. Controleer je eigen ontvangen uitvoering."
+      ],
+      [
+        "Wat hoort in een extra-fotoverzoek?",
+        "Order, gebied, hoek, meetmethode en voorafgaande bevestiging van eventuele kosten."
+      ],
+      [
+        "Bewijzen QC-foto’s echtheid of comfort?",
+        "Nee. Ze tonen zichtbare kenmerken, niet alle eigenschappen of draaggevoel."
+      ],
+      [
+        "Zijn maattabellen universeel?",
+        "Nee. Laat verkoper, product, meettype en eenheden overeenkomen."
+      ],
+      [
+        "Wat is volumegewicht?",
+        "Lengte × breedte × hoogte gedeeld door de lijndeler; facturering en afronding zijn dienstafhankelijk."
+      ],
+      [
+        "Geeft de calculator een actuele prijs?",
+        "Nee. Hij illustreert gewicht. Tarieven, geschiktheid en extra’s komen uit het officiële account."
+      ],
+      [
+        "Waarom veranderden de eindkosten?",
+        "Vergelijk verpakt gewicht, maten, lijn, diensten en werkelijk toegepaste kortingen."
+      ],
+      [
+        "Bespaart splitsen altijd geld?",
+        "Nee. Tel beide offertes en extra of herhaalde kosten op."
+      ],
+      [
+        "Pauzeert een fotoverzoek de retourtermijn?",
+        "Ga daar niet van uit. Controleer de deadline en dien tijdig de juiste aanvraag in."
+      ],
+      [
+        "Staat een goedgekeurde retour al op mijn kaart?",
+        "Nee. Voltooide retour, wallettegoed en opname zijn verschillende stappen."
+      ],
+      [
+        "Waar stel ik vragen over mijn order?",
+        "Bij officiële ondersteuning met de juiste referentie. Publiceer geen wachtwoorden, codes of betaalgegevens."
+      ]
+    ]
+  }
+}

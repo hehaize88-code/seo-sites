@@ -49,5 +49,20 @@ sitemap=etree.parse(str(ROOT/'sitemap.xml'))
 urls={urlsplit(x).path for x in sitemap.xpath('//*[local-name()="loc"]/text()')}
 assert urls==pages,('sitemap coverage',urls^pages)
 for name in ['google-sitemap.xml','sitemap-extra.xml']:assert (ROOT/name).read_bytes()==(ROOT/'sitemap.xml').read_bytes()
-assert len(articles)==56
+assert len(articles)==80
+languages=['en','de','fr','es','it','pl','pt','nl']
+for lang in languages:
+    localized=[p for p in articles if docs[p].get('lang')==lang]
+    assert len(localized)==10,(lang,'article parity')
+    faq='/faq' if lang=='en' else f'/{lang}/faq/'
+    assert len(docs[faq].xpath('//div[@class="faq-list"]/section'))==20,(lang,'FAQ parity')
+    for p in localized:
+        assert len(docs[p].xpath('//a[@data-guide-next]'))==2,(p,'next-step links')
+        assert docs[p].xpath('//nav[@id="nav"]/a[@href=$url]',url=faq),(p,'localized FAQ navigation')
+        if any(s in p for s in ['returns-refunds','qc-photos-missing','estimate-vs-final']):
+            assert len(docs[p].xpath('//article//section[starts-with(@id,"s")]'))==8,(p,'new article sections')
+            assert len(docs[p].xpath('//article')[0].text_content().split())>=700,(p,'full localized article')
+            if lang=='en':assert len(docs[p].xpath('//article')[0].text_content().split())>=1200,p
+            graph=json.loads(docs[p].xpath('//script[@type="application/ld+json"]/text()')[0])['@graph']
+            assert graph[0]['datePublished']=='2026-11-06',p+' new publication date'
 print(f'PASS: {len(pages)} routes, {len(articles)} full articles, reciprocal eight-language metadata, internal links, sitemap and analytics installation.')

@@ -1,7 +1,7 @@
 # hipobuys.store editorial build
 
 Source content is maintained in `content/{en,de,fr,es,it,pl,pt,nl}.txt`.
-All seven article topics must exist in every language. English retains the
+All ten article topics must exist in every language. English retains the
 existing root URLs; other languages use their existing language directory.
 The old English homepage `/en/` redirects to `/`.
 
@@ -56,3 +56,23 @@ Primary reference entry points:
 Account-specific receiving addresses, current shipping prices, exact delivery
 promises, storage deadlines and current rehearsal fees are intentionally not
 invented. The live account and selected carrier terms determine those details.
+
+## November 2026 release
+
+- Added three distinct guides in all eight languages: returns/refunds and wallet credit, missing QC photos and precise extra-photo requests, and shipping estimate versus final charge (24 URLs). English drafts are 1,200–1,300 words; every translation covers all eight sections and the same worked examples.
+- Improved all seven existing editorial topics (56 URLs), including query-led titles/descriptions for the four high-priority pages, stage/action tables and contextual next-step navigation. Kept original URLs and publication dates.
+- Added twenty localized FAQ answers per language and consistent navigation to Spreadsheet, QC, Shipping, FAQ, Articles and buying guidance. Existing archive pages remain accessible.
+- Preserved G-N31DJZNW37 and existing product/calculator events; added guide_next_click with only destination path and existing language/path context. No account conversion or external analytics configuration changes are implied.
+- Regenerated all three equivalent sitemap endpoints with 186 canonical routes; added HTTP normalization to the existing single-step host/path redirect.
+
+Prioritization evidence: GSC settled 7 October–3 November 2026 had 54 clicks / 3,086 impressions / 1.7% CTR versus 35 / 1,724 / 2.0% in the prior period. Shipping-time had 0 clicks / 277 impressions; tracking 4 / 303; calculator 9 / 277; warehouse 13 / 265. Bing 7 October–5 November had 0 clicks / 16 impressions. Its broader keyword research suggests spreadsheet and shop intent, not Google search volumes. GA4 9 October–5 November recorded 118 sessions, 50 organic sessions, 6 outbound_product_click events and 5 shipping_weight_calculation events. These periods and measures are not combined into one metric.
+
+Primary policy sources reviewed 6 November 2026:
+- https://hipobuy.com/notice/1740617772327604226 (Chinese returns policy: eligibility, application timing, condition and buyer-reason return charges)
+- https://hipobuy.com/notice/1901881491622285313 (Chinese order/parcel status: domestic stage, intake/storage, balance credits and shipping top-up stage)
+- https://hipobuy.com/notice/1740653781924810754 (service and fee components)
+- https://hipobuy.com/ (warehouse inspection workflow; company-office addresses do not establish a personal forwarding destination)
+
+Competitor topic checks included hipobuyspreadsheet.com/guide/returns-and-refunds/ and hipobuywithqc.com/qc. Their wording and unverified timing claims are not reproduced as platform rules. New guides are original practical explanations with illustrative, explicitly labelled arithmetic. There are no live price, stock, ranking or delivery guarantees.
+
+Run the structural and runtime checks above before committing generated output. The verifier now requires ten articles and twenty FAQ answers in each of eight languages, complete new-article sections, reciprocal language metadata, contextual internal links and sitemap coverage. No other domain folder is part of this release.

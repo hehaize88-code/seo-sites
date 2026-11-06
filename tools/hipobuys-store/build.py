@@ -8,7 +8,7 @@ HERE=Path(__file__).resolve().parent
 ROOT=HERE.parents[1]/'hipobuys-store'
 SITE='https://hipobuys.store'
 STORE='https://cnfanshp.com'
-DATE='2026-10-12'
+DATE='2026-11-06'
 SLUGS={
  'tracking':'hipobuy-order-status-tracking-guide',
  'warehouse':'hipobuy-warehouse-location-forwarding-address',
@@ -17,9 +17,13 @@ SLUGS={
  'time':'hipobuy-shipping-time-seller-warehouse-delivery',
  'sizing':'hipobuy-size-guide-clothing-shoes',
  'sneakers':'hipobuy-sneaker-finds-sizing-qc',
+ 'returns':'hipobuy-returns-refunds-wallet-credit',
+ 'qc_missing':'hipobuy-qc-photos-missing-extra-photos',
+ 'quote':'hipobuy-shipping-estimate-vs-final-cost',
 }
-ORDER=['time','sizing','sneakers','tracking','warehouse','calculator','rehearsal']
-NEW={'time','sizing','sneakers'}
+ORDER=['time','quote','qc_missing','returns','tracking','calculator','warehouse','sizing','sneakers','rehearsal']
+NEW={'returns','qc_missing','quote'}
+OCTOBER={'time','sizing','sneakers'}
 LEGACY=json.loads((HERE/'legacy.json').read_text())
 PRODUCTS=json.loads((HERE/'products.json').read_text())
 DATA={}
@@ -35,9 +39,17 @@ def parse_content(text):
         result[key]={'title':title,'desc':desc,'intro':intro,'sections':sections}
     assert set(result)==set(SLUGS)
     return result
-for lang in LANGS: DATA[lang]=parse_content((HERE/'content'/f'{lang}.txt').read_text())
+EXTRA=json.loads((HERE/'improvements.json').read_text())
+for lang in LANGS:
+    DATA[lang]=parse_content((HERE/'content'/f'{lang}.txt').read_text()+'\n'+(HERE/'content'/f'{lang}-new.txt').read_text())
+    UI[lang].update(EXTRA[lang]['ui'])
+    for key,changes in EXTRA[lang]['articles'].items():
+        for field in ('title','desc','intro'):
+            if field in changes: DATA[lang][key][field]=changes[field]
+
 def home(lang):return '/' if lang=='en' else f'/{lang}/'
 def hub(lang):return '/articles' if lang=='en' else f'/{lang}/articles/'
+def faq_route(lang):return '/faq' if lang=='en' else f'/{lang}/faq/'
 def route(lang,key):return '/'+SLUGS[key] if lang=='en' else f'/{lang}/{SLUGS[key]}/'
 def target(path):return ROOT/('index.html' if path=='/' else path.strip('/')+'/index.html' if path.endswith('/') else path[1:]+'.html')
 def write(path,text):
@@ -60,16 +72,19 @@ def frame(lang,path,title,desc,body,urls=None,schema=None):
     alternates=alts(urls) if urls else ''
     switch=langbar(lang,urls) if urls else ''
     data=json.dumps(schema or {'@context':'https://schema.org','@type':'WebPage','name':title,'url':SITE+path,'inLanguage':lang},ensure_ascii=False).replace('</','<\\/')
-    return f'''<!doctype html><html lang="{lang}"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>{E(title)}</title><meta name="description" content="{E(desc)}"><meta name="robots" content="index,follow,max-image-preview:large"><link rel="canonical" href="{SITE+path}">{alternates}<meta property="og:title" content="{E(title)}"><meta property="og:description" content="{E(desc)}"><meta property="og:url" content="{SITE+path}"><link rel="stylesheet" href="/assets/{css_name}"><link rel="stylesheet" href="/assets/brand-logo.css">{TAG}<script defer src="/assets/{js_name}"></script><script type="application/ld+json">{data}</script></head><body><header class="topbar"><a class="brand brand-logo" href="{home(lang)}" aria-label="HipoBuys Store"><img src="/assets/hipobuy-logo.png" alt="HipoBuys Store" width="488" height="112"></a><button class="menu" aria-expanded="false" aria-controls="nav">{u['menu']}</button><nav class="nav" id="nav"><a href="{home(lang)}">{u['home']}</a><a href="{hub(lang)}">{u['articles']}</a><a href="{STORE}/AllProducts/" target="_blank" rel="nofollow sponsored noopener">{u['products']}</a></nav></header><main>{switch}{body}</main><footer class="footer"><div class="footer-inner"><div><h2>HipoBuys Store</h2><p>{u['independent']}</p></div><div><h3>{u['related']}</h3><a href="{hub(lang)}">{u['all']}</a><a href="https://hipobuy.com/" target="_blank" rel="noopener">{u['official']}</a></div><div><h3>{u['privacy']}</h3><a href="/privacy">{u['privacy']} (English)</a><p>{u['external']}</p></div></div></footer></body></html>'''
+    return f'''<!doctype html><html lang="{lang}"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>{E(title)}</title><meta name="description" content="{E(desc)}"><meta name="robots" content="index,follow,max-image-preview:large"><link rel="canonical" href="{SITE+path}">{alternates}<meta property="og:title" content="{E(title)}"><meta property="og:description" content="{E(desc)}"><meta property="og:url" content="{SITE+path}"><link rel="stylesheet" href="/assets/{css_name}"><link rel="stylesheet" href="/assets/brand-logo.css">{TAG}<script defer src="/assets/{js_name}"></script><script type="application/ld+json">{data}</script></head><body><header class="topbar"><a class="brand brand-logo" href="{home(lang)}" aria-label="HipoBuys Store"><img src="/assets/hipobuy-logo.png" alt="HipoBuys Store" width="488" height="112"></a><button class="menu" aria-expanded="false" aria-controls="nav">{u['menu']}</button><nav class="nav" id="nav"><a href="{home(lang)}">{u['home']}</a><a href="{TYPED[lang][0]['path']}">Spreadsheet</a><a href="{TYPED[lang][1]['path']}">QC</a><a href="{route(lang,'time')}">{u['shipping']}</a><a href="{faq_route(lang)}">FAQ</a><a href="{hub(lang)}">{u['articles']}</a><a href="{route(lang,'warehouse')}">{u['guide']}</a><a href="{STORE}/AllProducts/" target="_blank" rel="nofollow sponsored noopener">{u['products']}</a></nav></header><main>{switch}{body}</main><footer class="footer"><div class="footer-inner"><div><h2>HipoBuys Store</h2><p>{u['independent']}</p></div><div><h3>{u['related']}</h3><a href="{hub(lang)}">{u['all']}</a><a href="https://hipobuy.com/" target="_blank" rel="noopener">{u['official']}</a></div><div><h3>{u['privacy']}</h3><a href="/privacy">{u['privacy']} (English)</a><p>{u['external']}</p></div></div></footer></body></html>'''
 def cards(lang,keys):
     u=UI[lang]
     return '<div class="article-grid">'+''.join(f'<a class="article-card" href="{route(lang,k)}"><h2>{E(DATA[lang][k]["title"])}</h2><p>{E(DATA[lang][k]["desc"])}</p><b>{u["read"]} →</b></a>' for k in keys)+'</div>'
 def source_box(lang,key):
     u=UI[lang]
     links=[('https://hipobuy.com/',u['official'])]
-    if key in ('calculator','rehearsal','time'):links.append(('https://hipobuy.com/estimation',u['estimator']))
-    if key in ('calculator','rehearsal'):links.append(('https://www.dhl.com/discover/en-gb/ship-with-dhl/products-and-services/weight-and-dimensions','DHL — '+u['volume']))
+    if key in ('calculator','rehearsal','time','quote'):links.append(('https://hipobuy.com/estimation',u['estimator']))
+    if key in ('calculator','rehearsal','quote'):links.append(('https://www.dhl.com/discover/en-gb/ship-with-dhl/products-and-services/weight-and-dimensions','DHL — '+u['volume']))
     if key in ('sizing','sneakers'):links.append(('https://www.nike.com/size-fit/mens-footwear','Nike — '+DATA[lang]['sizing']['title'].split(':')[0]))
+    if key in ('returns','qc_missing'):links.append(('https://hipobuy.com/notice/1740617772327604226',u['returns_source']))
+    if key in ('tracking','time','warehouse','returns','quote','qc_missing'):links.append(('https://hipobuy.com/notice/1901881491622285313',u['status_source']))
+    if key in ('quote','calculator','rehearsal'):links.append(('https://hipobuy.com/notice/1740653781924810754',u['fees_source']))
     return f'<section class="source-note"><h2>{u["sources"]}</h2><p>{u["independent"]}</p><ul>'+''.join(f'<li><a href="{E(url)}" target="_blank" rel="noopener">{E(label)}</a></li>' for url,label in links)+'</ul></section>'
 def calculator(lang):
     u=UI[lang]
@@ -82,9 +97,18 @@ def article(lang,key):
     tool=calculator(lang) if key=='calculator' else ''
     direct=f'<p><a href="{route(lang,"calculator")}">{u["calculator_link"]} →</a></p>' if key=='rehearsal' else ''
     shoes=f'<div class="callout"><a href="{STORE}/shoes/" target="_blank" rel="nofollow sponsored noopener">{u["shoe_category"]} →</a><p>{u["external"]}</p></div>' if key=='sneakers' else ''
-    related={'tracking':['time','warehouse','rehearsal'],'warehouse':['tracking','sizing','calculator'],'calculator':['rehearsal','time','sneakers'],'rehearsal':['calculator','warehouse','time'],'time':['tracking','warehouse','calculator'],'sizing':['sneakers','warehouse','tracking'],'sneakers':['sizing','calculator','rehearsal']}[key]
-    body=f'<section class="hero"><div class="hero-inner"><p class="eyebrow">{u["updated"]}</p><h1>{E(d["title"])}</h1><p class="dek">{E(d["desc"])}</p></div></section><div class="layout"><article class="article"><p class="quick-answer">{E(d["intro"])}</p>{tool}{contents}{sections}{direct}{shoes}{source_box(lang,key)}</article><aside class="sidebar"><div class="side-card"><h2>{u["related"]}</h2>'+''.join(f'<a href="{route(lang,k)}">{E(DATA[lang][k]["title"])}</a>' for k in related)+f'</div><div class="side-card"><p>{u["external"]}</p><a class="button" href="{STORE}/AllProducts/" target="_blank" rel="nofollow sponsored noopener">{u["browse"]}</a></div></aside></div>'
-    schema={'@context':'https://schema.org','@graph':[{'@type':'Article','headline':d['title'],'description':d['desc'],'datePublished':DATE if key in NEW else '2026-09-11','dateModified':DATE,'author':{'@type':'Organization','name':'HipoBuys Store Editorial'},'publisher':{'@type':'Organization','name':'HipoBuys Store'},'mainEntityOfPage':SITE+path,'inLanguage':lang},{'@type':'BreadcrumbList','itemListElement':[{'@type':'ListItem','position':1,'name':u['home'],'item':SITE+home(lang)},{'@type':'ListItem','position':2,'name':u['articles'],'item':SITE+hub(lang)},{'@type':'ListItem','position':3,'name':d['title'],'item':SITE+path}]}]}
+    related={'returns':['qc_missing','tracking','quote'],'qc_missing':['sizing','returns','warehouse'],'quote':['calculator','rehearsal','returns'],'tracking':['time','returns','warehouse'],'warehouse':['tracking','sizing','calculator'],'calculator':['quote','rehearsal','time'],'rehearsal':['calculator','warehouse','time'],'time':['tracking','quote','warehouse'],'sizing':['qc_missing','sneakers','returns'],'sneakers':['sizing','calculator','rehearsal']}[key]
+    enrichment=EXTRA[lang]['articles'].get(key,{})
+    table=''
+    if enrichment.get('table'):
+        rows=enrichment['table']
+        table='<div class="table-wrap" tabindex="0" role="region" aria-label="'+E(u['quick_check'])+'"><table><caption>'+E(u['quick_check'])+'</caption><thead><tr>'+''.join('<th scope="col">'+E(c)+'</th>' for c in rows[0])+'</tr></thead><tbody>'+''.join('<tr>'+''.join('<td>'+E(c)+'</td>' for c in row)+'</tr>' for row in rows[1:])+'</tbody></table></div>'
+    extra=''
+    if enrichment.get('section'):
+        extra='<section id="decision"><h2>'+E(enrichment['section'][0])+'</h2>'+''.join('<p>'+E(x)+'</p>' for x in enrichment['section'][1:])+'</section>'
+    next_steps='<nav class="next-steps" aria-label="'+E(u['next_step'])+'"><strong>'+E(u['next_step'])+'</strong>'+''.join('<a data-guide-next href="'+route(lang,k)+'">'+E(DATA[lang][k]['title'])+' →</a>' for k in related[:2])+'</nav>'
+    body=f'<section class="hero"><div class="hero-inner"><p class="eyebrow">{u["updated"]}</p><h1>{E(d["title"])}</h1><p class="dek">{E(d["desc"])}</p></div></section><div class="layout"><article class="article"><p class="quick-answer">{E(d["intro"])}</p>{table}{next_steps}{tool}{contents}{extra}{sections}{direct}{shoes}{source_box(lang,key)}</article><aside class="sidebar"><div class="side-card"><h2>{u["related"]}</h2>'+''.join(f'<a href="{route(lang,k)}">{E(DATA[lang][k]["title"])}</a>' for k in related)+f'</div><div class="side-card"><p>{u["external"]}</p><a class="button" href="{STORE}/AllProducts/" target="_blank" rel="nofollow sponsored noopener">{u["browse"]}</a></div></aside></div>'
+    schema={'@context':'https://schema.org','@graph':[{'@type':'Article','headline':d['title'],'description':d['desc'],'datePublished':DATE if key in NEW else '2026-10-12' if key in OCTOBER else '2026-09-11','dateModified':DATE,'author':{'@type':'Organization','name':'HipoBuys Store Editorial'},'publisher':{'@type':'Organization','name':'HipoBuys Store'},'mainEntityOfPage':SITE+path,'inLanguage':lang},{'@type':'BreadcrumbList','itemListElement':[{'@type':'ListItem','position':1,'name':u['home'],'item':SITE+home(lang)},{'@type':'ListItem','position':2,'name':u['articles'],'item':SITE+hub(lang)},{'@type':'ListItem','position':3,'name':d['title'],'item':SITE+path}]}]}
     write(path,frame(lang,path,d['title'],d['desc'],body,{l:route(l,key) for l in LANGS},schema))
 
 # Preserve the existing root catalogue; remove misleading freshness claims from new previews.
@@ -122,9 +146,14 @@ for lang in LANGS:
     if lang=='en':body+=f'<h2>{u["archive"]}</h2><ul>'+''.join(f'<li><a href="{url}">{E(title)}</a></li>' for url,title in archive)+'</ul>'
     body+='</section>'
     write(path,frame(lang,path,u['articles']+' | HipoBuys Store',u['home_desc'],body,{l:hub(l) for l in LANGS}))
+    faqs=EXTRA[lang]['faq']
+    assert len(faqs)>=20
+    body='<section class="hub"><h1>'+E(u['faq_title'])+'</h1><p>'+E(u['faq_desc'])+'</p><div class="faq-list">'+''.join('<section><h2>'+E(q)+'</h2><p>'+E(a)+'</p></section>' for q,a in faqs)+'</div>'+cards(lang,['time','qc_missing','returns','quote'])+'</section>'
+    write(faq_route(lang),frame(lang,faq_route(lang),u['faq_title'],u['faq_desc'],body,{l:faq_route(l) for l in LANGS}))
     for t,d in TYPED[lang].items():
-        keys={0:['sneakers','sizing','warehouse'],1:['sizing','sneakers','tracking'],2:['calculator','rehearsal','warehouse'],3:['time','calculator','tracking'],4:['calculator','rehearsal','sneakers']}[t]
+        keys={0:['sneakers','sizing','warehouse'],1:['qc_missing','sizing','returns'],2:['quote','calculator','rehearsal'],3:['time','calculator','tracking'],4:['calculator','rehearsal','sneakers']}[t]
         body=f'<section class="hero"><div class="hero-inner"><h1>{E(d["title"])}</h1><p class="dek">{E(d["desc"])}</p></div></section><section class="hub"><p class="topic-note">{NOTES[lang][t]}</p><h2>{u["related"]}</h2>{cards(lang,keys)}{source_box(lang,"calculator" if t in [2,3,4] else "sizing")}</section>'
+        if t==0:body+='<section class="hub">'+search(lang)+'</section>'+product_cards(lang)
         write(d['path'],frame(lang,d['path'],d['title'],d['desc'],body,{l:TYPED[l][t]['path'] for l in LANGS}))
 
 # /en/ was a different English homepage. It now redirects to the existing English root.
@@ -144,7 +173,7 @@ for file in ROOT.rglob('*.html'):
         text=re.sub(r'</head>','<meta name="description" content="Read Hipobuy product, warehouse, sizing and shipping guides in English, German, French, Spanish, Italian, Polish, Portuguese and Dutch."></head>',text,flags=re.I)
     if file.parent==ROOT and file.stem not in [*SLUGS.values(),'index','articles','404']:
         text=re.sub(r'<section data-editorial-links>.*?</section>','',text,flags=re.S)
-        text=text.replace('</main>',f'<section data-editorial-links class="hub"><h2>{UI["en"]["latest"]}</h2>{cards("en",["time","sizing","sneakers"])}</section></main>')
+        text=text.replace('</main>',f'<section data-editorial-links class="hub"><h2>{UI["en"]["latest"]}</h2>{cards("en",["returns","qc_missing","quote"])}</section></main>')
     file.write_text(text)
 
 # Correct the previous privacy statement, which said analytics might be added in future.
@@ -160,12 +189,12 @@ for p in ROOT.rglob('*.html'):
     path='/' if rel=='index.html' else '/'+rel[:-10] if rel.endswith('/index.html') else '/'+rel[:-5]
     pages.append(path)
 pages.sort()
-generated={route(l,k) for l in LANGS for k in SLUGS}|{home(l) for l in LANGS}|{hub(l) for l in LANGS}|{x['path'] for a in LEGACY.values() for x in a}
+generated={route(l,k) for l in LANGS for k in SLUGS}|{home(l) for l in LANGS}|{hub(l) for l in LANGS}|{faq_route(l) for l in LANGS}|{x['path'] for a in LEGACY.values() for x in a}
 urls_by_path={}
 for k in SLUGS:
     mapping={l:route(l,k) for l in LANGS}
     for p in mapping.values():urls_by_path[p]=mapping
-for fn in [home,hub]:
+for fn in [home,hub,faq_route]:
     mapping={l:fn(l) for l in LANGS}
     for p in mapping.values():urls_by_path[p]=mapping
 for t in range(5):

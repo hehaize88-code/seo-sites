@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://hipobuys.store/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/"/>
@@ -18,7 +18,7 @@
   </url>
   <url>
     <loc>https://hipobuys.store/articles</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/articles"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/articles/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/articles/"/>
@@ -73,7 +73,7 @@
   </url>
   <url>
     <loc>https://hipobuys.store/de/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/"/>
@@ -86,7 +86,7 @@
   </url>
   <url>
     <loc>https://hipobuys.store/de/articles/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/articles"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/articles/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/articles/"/>
@@ -98,8 +98,21 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://hipobuys.store/articles"/>
   </url>
   <url>
+    <loc>https://hipobuys.store/de/faq/</loc>
+    <lastmod>2026-11-06</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/faq"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/faq/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/faq/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://hipobuys.store/es/faq/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://hipobuys.store/it/faq/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://hipobuys.store/pl/faq/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://hipobuys.store/pt/faq/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://hipobuys.store/nl/faq/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hipobuys.store/faq"/>
+  </url>
+  <url>
     <loc>https://hipobuys.store/de/hipobuy-gutschein/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/en/hipobuy-coupon/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/hipobuy-gutschein/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/coupon-hipobuy/"/>
@@ -112,7 +125,7 @@
   </url>
   <url>
     <loc>https://hipobuys.store/de/hipobuy-kosten/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/en/hipobuy-fees/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/hipobuy-kosten/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/frais-hipobuy/"/>
@@ -125,7 +138,7 @@
   </url>
   <url>
     <loc>https://hipobuys.store/de/hipobuy-order-status-tracking-guide/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/hipobuy-order-status-tracking-guide"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/hipobuy-order-status-tracking-guide/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/hipobuy-order-status-tracking-guide/"/>
@@ -137,8 +150,21 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://hipobuys.store/hipobuy-order-status-tracking-guide"/>
   </url>
   <url>
+    <loc>https://hipobuys.store/de/hipobuy-qc-photos-missing-extra-photos/</loc>
+    <lastmod>2026-11-06</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/hipobuy-qc-photos-missing-extra-photos"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/hipobuy-qc-photos-missing-extra-photos/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/hipobuy-qc-photos-missing-extra-photos/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://hipobuys.store/es/hipobuy-qc-photos-missing-extra-photos/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://hipobuys.store/it/hipobuy-qc-photos-missing-extra-photos/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://hipobuys.store/pl/hipobuy-qc-photos-missing-extra-photos/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://hipobuys.store/pt/hipobuy-qc-photos-missing-extra-photos/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://hipobuys.store/nl/hipobuy-qc-photos-missing-extra-photos/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hipobuys.store/hipobuy-qc-photos-missing-extra-photos"/>
+  </url>
+  <url>
     <loc>https://hipobuys.store/de/hipobuy-rehearsal-parcel-volumetric-weight/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/hipobuy-rehearsal-parcel-volumetric-weight"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/hipobuy-rehearsal-parcel-volumetric-weight/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/hipobuy-rehearsal-parcel-volumetric-weight/"/>
@@ -150,8 +176,21 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://hipobuys.store/hipobuy-rehearsal-parcel-volumetric-weight"/>
   </url>
   <url>
+    <loc>https://hipobuys.store/de/hipobuy-returns-refunds-wallet-credit/</loc>
+    <lastmod>2026-11-06</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/hipobuy-returns-refunds-wallet-credit"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/hipobuy-returns-refunds-wallet-credit/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/hipobuy-returns-refunds-wallet-credit/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://hipobuys.store/es/hipobuy-returns-refunds-wallet-credit/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://hipobuys.store/it/hipobuy-returns-refunds-wallet-credit/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://hipobuys.store/pl/hipobuy-returns-refunds-wallet-credit/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://hipobuys.store/pt/hipobuy-returns-refunds-wallet-credit/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://hipobuys.store/nl/hipobuy-returns-refunds-wallet-credit/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hipobuys.store/hipobuy-returns-refunds-wallet-credit"/>
+  </url>
+  <url>
     <loc>https://hipobuys.store/de/hipobuy-shipping-calculator-weight-dimensions/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/hipobuy-shipping-calculator-weight-dimensions"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/hipobuy-shipping-calculator-weight-dimensions/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/hipobuy-shipping-calculator-weight-dimensions/"/>
@@ -163,8 +202,21 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://hipobuys.store/hipobuy-shipping-calculator-weight-dimensions"/>
   </url>
   <url>
+    <loc>https://hipobuys.store/de/hipobuy-shipping-estimate-vs-final-cost/</loc>
+    <lastmod>2026-11-06</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/hipobuy-shipping-estimate-vs-final-cost"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/hipobuy-shipping-estimate-vs-final-cost/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/hipobuy-shipping-estimate-vs-final-cost/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://hipobuys.store/es/hipobuy-shipping-estimate-vs-final-cost/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://hipobuys.store/it/hipobuy-shipping-estimate-vs-final-cost/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://hipobuys.store/pl/hipobuy-shipping-estimate-vs-final-cost/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://hipobuys.store/pt/hipobuy-shipping-estimate-vs-final-cost/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://hipobuys.store/nl/hipobuy-shipping-estimate-vs-final-cost/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hipobuys.store/hipobuy-shipping-estimate-vs-final-cost"/>
+  </url>
+  <url>
     <loc>https://hipobuys.store/de/hipobuy-shipping-time-seller-warehouse-delivery/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/hipobuy-shipping-time-seller-warehouse-delivery"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/hipobuy-shipping-time-seller-warehouse-delivery/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/hipobuy-shipping-time-seller-warehouse-delivery/"/>
@@ -177,7 +229,7 @@
   </url>
   <url>
     <loc>https://hipobuys.store/de/hipobuy-size-guide-clothing-shoes/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/hipobuy-size-guide-clothing-shoes"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/hipobuy-size-guide-clothing-shoes/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/hipobuy-size-guide-clothing-shoes/"/>
@@ -190,7 +242,7 @@
   </url>
   <url>
     <loc>https://hipobuys.store/de/hipobuy-sneaker-finds-sizing-qc/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/hipobuy-sneaker-finds-sizing-qc"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/hipobuy-sneaker-finds-sizing-qc/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/hipobuy-sneaker-finds-sizing-qc/"/>
@@ -203,7 +255,7 @@
   </url>
   <url>
     <loc>https://hipobuys.store/de/hipobuy-warehouse-location-forwarding-address/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/hipobuy-warehouse-location-forwarding-address"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/hipobuy-warehouse-location-forwarding-address/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/hipobuy-warehouse-location-forwarding-address/"/>
@@ -216,7 +268,7 @@
   </url>
   <url>
     <loc>https://hipobuys.store/de/qc-fotos/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/en/qc-photos/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/qc-fotos/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/photos-qc/"/>
@@ -229,7 +281,7 @@
   </url>
   <url>
     <loc>https://hipobuys.store/de/versand-aus-china/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/en/shipping-from-china/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/versand-aus-china/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/livraison-depuis-la-chine/"/>
@@ -242,7 +294,7 @@
   </url>
   <url>
     <loc>https://hipobuys.store/de/w2c-links/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/en/w2c-links/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/w2c-links/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/liens-w2c/"/>
@@ -258,7 +310,7 @@
   </url>
   <url>
     <loc>https://hipobuys.store/en/hipobuy-coupon/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/en/hipobuy-coupon/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/hipobuy-gutschein/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/coupon-hipobuy/"/>
@@ -271,7 +323,7 @@
   </url>
   <url>
     <loc>https://hipobuys.store/en/hipobuy-fees/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/en/hipobuy-fees/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/hipobuy-kosten/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/frais-hipobuy/"/>
@@ -284,7 +336,7 @@
   </url>
   <url>
     <loc>https://hipobuys.store/en/qc-photos/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/en/qc-photos/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/qc-fotos/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/photos-qc/"/>
@@ -297,7 +349,7 @@
   </url>
   <url>
     <loc>https://hipobuys.store/en/shipping-from-china/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/en/shipping-from-china/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/versand-aus-china/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/livraison-depuis-la-chine/"/>
@@ -310,7 +362,7 @@
   </url>
   <url>
     <loc>https://hipobuys.store/en/w2c-links/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/en/w2c-links/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/w2c-links/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/liens-w2c/"/>
@@ -323,7 +375,7 @@
   </url>
   <url>
     <loc>https://hipobuys.store/es/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/"/>
@@ -336,7 +388,7 @@
   </url>
   <url>
     <loc>https://hipobuys.store/es/articles/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/articles"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/articles/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/articles/"/>
@@ -349,7 +401,7 @@
   </url>
   <url>
     <loc>https://hipobuys.store/es/cupon-hipobuy/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/en/hipobuy-coupon/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/hipobuy-gutschein/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/coupon-hipobuy/"/>
@@ -362,7 +414,7 @@
   </url>
   <url>
     <loc>https://hipobuys.store/es/enlaces-w2c/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/en/w2c-links/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/w2c-links/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/liens-w2c/"/>
@@ -375,7 +427,7 @@
   </url>
   <url>
     <loc>https://hipobuys.store/es/envio-desde-china/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/en/shipping-from-china/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/versand-aus-china/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/livraison-depuis-la-chine/"/>
@@ -387,8 +439,21 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://hipobuys.store/en/shipping-from-china/"/>
   </url>
   <url>
+    <loc>https://hipobuys.store/es/faq/</loc>
+    <lastmod>2026-11-06</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/faq"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/faq/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/faq/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://hipobuys.store/es/faq/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://hipobuys.store/it/faq/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://hipobuys.store/pl/faq/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://hipobuys.store/pt/faq/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://hipobuys.store/nl/faq/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hipobuys.store/faq"/>
+  </url>
+  <url>
     <loc>https://hipobuys.store/es/fotos-qc/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/en/qc-photos/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/qc-fotos/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/photos-qc/"/>
@@ -401,7 +466,7 @@
   </url>
   <url>
     <loc>https://hipobuys.store/es/hipobuy-order-status-tracking-guide/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/hipobuy-order-status-tracking-guide"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/hipobuy-order-status-tracking-guide/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/hipobuy-order-status-tracking-guide/"/>
@@ -413,8 +478,21 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://hipobuys.store/hipobuy-order-status-tracking-guide"/>
   </url>
   <url>
+    <loc>https://hipobuys.store/es/hipobuy-qc-photos-missing-extra-photos/</loc>
+    <lastmod>2026-11-06</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/hipobuy-qc-photos-missing-extra-photos"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/hipobuy-qc-photos-missing-extra-photos/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/hipobuy-qc-photos-missing-extra-photos/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://hipobuys.store/es/hipobuy-qc-photos-missing-extra-photos/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://hipobuys.store/it/hipobuy-qc-photos-missing-extra-photos/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://hipobuys.store/pl/hipobuy-qc-photos-missing-extra-photos/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://hipobuys.store/pt/hipobuy-qc-photos-missing-extra-photos/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://hipobuys.store/nl/hipobuy-qc-photos-missing-extra-photos/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hipobuys.store/hipobuy-qc-photos-missing-extra-photos"/>
+  </url>
+  <url>
     <loc>https://hipobuys.store/es/hipobuy-rehearsal-parcel-volumetric-weight/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/hipobuy-rehearsal-parcel-volumetric-weight"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/hipobuy-rehearsal-parcel-volumetric-weight/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/hipobuy-rehearsal-parcel-volumetric-weight/"/>
@@ -426,8 +504,21 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://hipobuys.store/hipobuy-rehearsal-parcel-volumetric-weight"/>
   </url>
   <url>
+    <loc>https://hipobuys.store/es/hipobuy-returns-refunds-wallet-credit/</loc>
+    <lastmod>2026-11-06</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/hipobuy-returns-refunds-wallet-credit"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/hipobuy-returns-refunds-wallet-credit/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/hipobuy-returns-refunds-wallet-credit/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://hipobuys.store/es/hipobuy-returns-refunds-wallet-credit/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://hipobuys.store/it/hipobuy-returns-refunds-wallet-credit/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://hipobuys.store/pl/hipobuy-returns-refunds-wallet-credit/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://hipobuys.store/pt/hipobuy-returns-refunds-wallet-credit/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://hipobuys.store/nl/hipobuy-returns-refunds-wallet-credit/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hipobuys.store/hipobuy-returns-refunds-wallet-credit"/>
+  </url>
+  <url>
     <loc>https://hipobuys.store/es/hipobuy-shipping-calculator-weight-dimensions/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/hipobuy-shipping-calculator-weight-dimensions"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/hipobuy-shipping-calculator-weight-dimensions/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/hipobuy-shipping-calculator-weight-dimensions/"/>
@@ -439,8 +530,21 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://hipobuys.store/hipobuy-shipping-calculator-weight-dimensions"/>
   </url>
   <url>
+    <loc>https://hipobuys.store/es/hipobuy-shipping-estimate-vs-final-cost/</loc>
+    <lastmod>2026-11-06</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/hipobuy-shipping-estimate-vs-final-cost"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/hipobuy-shipping-estimate-vs-final-cost/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/hipobuy-shipping-estimate-vs-final-cost/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://hipobuys.store/es/hipobuy-shipping-estimate-vs-final-cost/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://hipobuys.store/it/hipobuy-shipping-estimate-vs-final-cost/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://hipobuys.store/pl/hipobuy-shipping-estimate-vs-final-cost/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://hipobuys.store/pt/hipobuy-shipping-estimate-vs-final-cost/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://hipobuys.store/nl/hipobuy-shipping-estimate-vs-final-cost/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hipobuys.store/hipobuy-shipping-estimate-vs-final-cost"/>
+  </url>
+  <url>
     <loc>https://hipobuys.store/es/hipobuy-shipping-time-seller-warehouse-delivery/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/hipobuy-shipping-time-seller-warehouse-delivery"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/hipobuy-shipping-time-seller-warehouse-delivery/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/hipobuy-shipping-time-seller-warehouse-delivery/"/>
@@ -453,7 +557,7 @@
   </url>
   <url>
     <loc>https://hipobuys.store/es/hipobuy-size-guide-clothing-shoes/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/hipobuy-size-guide-clothing-shoes"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/hipobuy-size-guide-clothing-shoes/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/hipobuy-size-guide-clothing-shoes/"/>
@@ -466,7 +570,7 @@
   </url>
   <url>
     <loc>https://hipobuys.store/es/hipobuy-sneaker-finds-sizing-qc/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/hipobuy-sneaker-finds-sizing-qc"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/hipobuy-sneaker-finds-sizing-qc/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/hipobuy-sneaker-finds-sizing-qc/"/>
@@ -479,7 +583,7 @@
   </url>
   <url>
     <loc>https://hipobuys.store/es/hipobuy-warehouse-location-forwarding-address/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/hipobuy-warehouse-location-forwarding-address"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/hipobuy-warehouse-location-forwarding-address/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/hipobuy-warehouse-location-forwarding-address/"/>
@@ -492,7 +596,7 @@
   </url>
   <url>
     <loc>https://hipobuys.store/es/tarifas-hipobuy/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/en/hipobuy-fees/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/hipobuy-kosten/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/frais-hipobuy/"/>
@@ -505,13 +609,23 @@
   </url>
   <url>
     <loc>https://hipobuys.store/faq</loc>
+    <lastmod>2026-11-06</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/faq"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/faq/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/faq/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://hipobuys.store/es/faq/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://hipobuys.store/it/faq/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://hipobuys.store/pl/faq/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://hipobuys.store/pt/faq/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://hipobuys.store/nl/faq/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hipobuys.store/faq"/>
   </url>
   <url>
     <loc>https://hipobuys.store/first-order-checklist</loc>
   </url>
   <url>
     <loc>https://hipobuys.store/fr/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/"/>
@@ -524,7 +638,7 @@
   </url>
   <url>
     <loc>https://hipobuys.store/fr/articles/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/articles"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/articles/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/articles/"/>
@@ -537,7 +651,7 @@
   </url>
   <url>
     <loc>https://hipobuys.store/fr/coupon-hipobuy/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/en/hipobuy-coupon/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/hipobuy-gutschein/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/coupon-hipobuy/"/>
@@ -549,8 +663,21 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://hipobuys.store/en/hipobuy-coupon/"/>
   </url>
   <url>
+    <loc>https://hipobuys.store/fr/faq/</loc>
+    <lastmod>2026-11-06</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/faq"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/faq/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/faq/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://hipobuys.store/es/faq/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://hipobuys.store/it/faq/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://hipobuys.store/pl/faq/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://hipobuys.store/pt/faq/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://hipobuys.store/nl/faq/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hipobuys.store/faq"/>
+  </url>
+  <url>
     <loc>https://hipobuys.store/fr/frais-hipobuy/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/en/hipobuy-fees/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/hipobuy-kosten/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/frais-hipobuy/"/>
@@ -563,7 +690,7 @@
   </url>
   <url>
     <loc>https://hipobuys.store/fr/hipobuy-order-status-tracking-guide/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/hipobuy-order-status-tracking-guide"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/hipobuy-order-status-tracking-guide/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/hipobuy-order-status-tracking-guide/"/>
@@ -575,8 +702,21 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://hipobuys.store/hipobuy-order-status-tracking-guide"/>
   </url>
   <url>
+    <loc>https://hipobuys.store/fr/hipobuy-qc-photos-missing-extra-photos/</loc>
+    <lastmod>2026-11-06</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/hipobuy-qc-photos-missing-extra-photos"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/hipobuy-qc-photos-missing-extra-photos/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/hipobuy-qc-photos-missing-extra-photos/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://hipobuys.store/es/hipobuy-qc-photos-missing-extra-photos/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://hipobuys.store/it/hipobuy-qc-photos-missing-extra-photos/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://hipobuys.store/pl/hipobuy-qc-photos-missing-extra-photos/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://hipobuys.store/pt/hipobuy-qc-photos-missing-extra-photos/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://hipobuys.store/nl/hipobuy-qc-photos-missing-extra-photos/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hipobuys.store/hipobuy-qc-photos-missing-extra-photos"/>
+  </url>
+  <url>
     <loc>https://hipobuys.store/fr/hipobuy-rehearsal-parcel-volumetric-weight/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/hipobuy-rehearsal-parcel-volumetric-weight"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/hipobuy-rehearsal-parcel-volumetric-weight/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/hipobuy-rehearsal-parcel-volumetric-weight/"/>
@@ -588,8 +728,21 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://hipobuys.store/hipobuy-rehearsal-parcel-volumetric-weight"/>
   </url>
   <url>
+    <loc>https://hipobuys.store/fr/hipobuy-returns-refunds-wallet-credit/</loc>
+    <lastmod>2026-11-06</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/hipobuy-returns-refunds-wallet-credit"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/hipobuy-returns-refunds-wallet-credit/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/hipobuy-returns-refunds-wallet-credit/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://hipobuys.store/es/hipobuy-returns-refunds-wallet-credit/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://hipobuys.store/it/hipobuy-returns-refunds-wallet-credit/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://hipobuys.store/pl/hipobuy-returns-refunds-wallet-credit/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://hipobuys.store/pt/hipobuy-returns-refunds-wallet-credit/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://hipobuys.store/nl/hipobuy-returns-refunds-wallet-credit/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hipobuys.store/hipobuy-returns-refunds-wallet-credit"/>
+  </url>
+  <url>
     <loc>https://hipobuys.store/fr/hipobuy-shipping-calculator-weight-dimensions/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/hipobuy-shipping-calculator-weight-dimensions"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/hipobuy-shipping-calculator-weight-dimensions/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/hipobuy-shipping-calculator-weight-dimensions/"/>
@@ -601,8 +754,21 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://hipobuys.store/hipobuy-shipping-calculator-weight-dimensions"/>
   </url>
   <url>
+    <loc>https://hipobuys.store/fr/hipobuy-shipping-estimate-vs-final-cost/</loc>
+    <lastmod>2026-11-06</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/hipobuy-shipping-estimate-vs-final-cost"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/hipobuy-shipping-estimate-vs-final-cost/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/hipobuy-shipping-estimate-vs-final-cost/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://hipobuys.store/es/hipobuy-shipping-estimate-vs-final-cost/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://hipobuys.store/it/hipobuy-shipping-estimate-vs-final-cost/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://hipobuys.store/pl/hipobuy-shipping-estimate-vs-final-cost/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://hipobuys.store/pt/hipobuy-shipping-estimate-vs-final-cost/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://hipobuys.store/nl/hipobuy-shipping-estimate-vs-final-cost/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hipobuys.store/hipobuy-shipping-estimate-vs-final-cost"/>
+  </url>
+  <url>
     <loc>https://hipobuys.store/fr/hipobuy-shipping-time-seller-warehouse-delivery/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/hipobuy-shipping-time-seller-warehouse-delivery"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/hipobuy-shipping-time-seller-warehouse-delivery/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/hipobuy-shipping-time-seller-warehouse-delivery/"/>
@@ -615,7 +781,7 @@
   </url>
   <url>
     <loc>https://hipobuys.store/fr/hipobuy-size-guide-clothing-shoes/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/hipobuy-size-guide-clothing-shoes"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/hipobuy-size-guide-clothing-shoes/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/hipobuy-size-guide-clothing-shoes/"/>
@@ -628,7 +794,7 @@
   </url>
   <url>
     <loc>https://hipobuys.store/fr/hipobuy-sneaker-finds-sizing-qc/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/hipobuy-sneaker-finds-sizing-qc"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/hipobuy-sneaker-finds-sizing-qc/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/hipobuy-sneaker-finds-sizing-qc/"/>
@@ -641,7 +807,7 @@
   </url>
   <url>
     <loc>https://hipobuys.store/fr/hipobuy-warehouse-location-forwarding-address/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/hipobuy-warehouse-location-forwarding-address"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/hipobuy-warehouse-location-forwarding-address/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/hipobuy-warehouse-location-forwarding-address/"/>
@@ -654,7 +820,7 @@
   </url>
   <url>
     <loc>https://hipobuys.store/fr/liens-w2c/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/en/w2c-links/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/w2c-links/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/liens-w2c/"/>
@@ -667,7 +833,7 @@
   </url>
   <url>
     <loc>https://hipobuys.store/fr/livraison-depuis-la-chine/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/en/shipping-from-china/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/versand-aus-china/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/livraison-depuis-la-chine/"/>
@@ -680,7 +846,7 @@
   </url>
   <url>
     <loc>https://hipobuys.store/fr/photos-qc/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/en/qc-photos/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/qc-fotos/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/photos-qc/"/>
@@ -714,7 +880,7 @@
   </url>
   <url>
     <loc>https://hipobuys.store/hipobuy-order-status-tracking-guide</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/hipobuy-order-status-tracking-guide"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/hipobuy-order-status-tracking-guide/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/hipobuy-order-status-tracking-guide/"/>
@@ -726,11 +892,24 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://hipobuys.store/hipobuy-order-status-tracking-guide"/>
   </url>
   <url>
+    <loc>https://hipobuys.store/hipobuy-qc-photos-missing-extra-photos</loc>
+    <lastmod>2026-11-06</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/hipobuy-qc-photos-missing-extra-photos"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/hipobuy-qc-photos-missing-extra-photos/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/hipobuy-qc-photos-missing-extra-photos/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://hipobuys.store/es/hipobuy-qc-photos-missing-extra-photos/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://hipobuys.store/it/hipobuy-qc-photos-missing-extra-photos/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://hipobuys.store/pl/hipobuy-qc-photos-missing-extra-photos/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://hipobuys.store/pt/hipobuy-qc-photos-missing-extra-photos/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://hipobuys.store/nl/hipobuy-qc-photos-missing-extra-photos/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hipobuys.store/hipobuy-qc-photos-missing-extra-photos"/>
+  </url>
+  <url>
     <loc>https://hipobuys.store/hipobuy-qc-photos-storefront-checklist</loc>
   </url>
   <url>
     <loc>https://hipobuys.store/hipobuy-rehearsal-parcel-volumetric-weight</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/hipobuy-rehearsal-parcel-volumetric-weight"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/hipobuy-rehearsal-parcel-volumetric-weight/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/hipobuy-rehearsal-parcel-volumetric-weight/"/>
@@ -745,11 +924,24 @@
     <loc>https://hipobuys.store/hipobuy-restricted-items-shipping-lines</loc>
   </url>
   <url>
+    <loc>https://hipobuys.store/hipobuy-returns-refunds-wallet-credit</loc>
+    <lastmod>2026-11-06</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/hipobuy-returns-refunds-wallet-credit"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/hipobuy-returns-refunds-wallet-credit/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/hipobuy-returns-refunds-wallet-credit/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://hipobuys.store/es/hipobuy-returns-refunds-wallet-credit/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://hipobuys.store/it/hipobuy-returns-refunds-wallet-credit/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://hipobuys.store/pl/hipobuy-returns-refunds-wallet-credit/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://hipobuys.store/pt/hipobuy-returns-refunds-wallet-credit/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://hipobuys.store/nl/hipobuy-returns-refunds-wallet-credit/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hipobuys.store/hipobuy-returns-refunds-wallet-credit"/>
+  </url>
+  <url>
     <loc>https://hipobuys.store/hipobuy-review-2026-safety-workflow</loc>
   </url>
   <url>
     <loc>https://hipobuys.store/hipobuy-shipping-calculator-weight-dimensions</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/hipobuy-shipping-calculator-weight-dimensions"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/hipobuy-shipping-calculator-weight-dimensions/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/hipobuy-shipping-calculator-weight-dimensions/"/>
@@ -764,8 +956,21 @@
     <loc>https://hipobuys.store/hipobuy-shipping-estimate-europe-storefront</loc>
   </url>
   <url>
+    <loc>https://hipobuys.store/hipobuy-shipping-estimate-vs-final-cost</loc>
+    <lastmod>2026-11-06</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/hipobuy-shipping-estimate-vs-final-cost"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/hipobuy-shipping-estimate-vs-final-cost/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/hipobuy-shipping-estimate-vs-final-cost/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://hipobuys.store/es/hipobuy-shipping-estimate-vs-final-cost/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://hipobuys.store/it/hipobuy-shipping-estimate-vs-final-cost/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://hipobuys.store/pl/hipobuy-shipping-estimate-vs-final-cost/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://hipobuys.store/pt/hipobuy-shipping-estimate-vs-final-cost/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://hipobuys.store/nl/hipobuy-shipping-estimate-vs-final-cost/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hipobuys.store/hipobuy-shipping-estimate-vs-final-cost"/>
+  </url>
+  <url>
     <loc>https://hipobuys.store/hipobuy-shipping-time-seller-warehouse-delivery</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/hipobuy-shipping-time-seller-warehouse-delivery"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/hipobuy-shipping-time-seller-warehouse-delivery/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/hipobuy-shipping-time-seller-warehouse-delivery/"/>
@@ -781,7 +986,7 @@
   </url>
   <url>
     <loc>https://hipobuys.store/hipobuy-size-guide-clothing-shoes</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/hipobuy-size-guide-clothing-shoes"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/hipobuy-size-guide-clothing-shoes/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/hipobuy-size-guide-clothing-shoes/"/>
@@ -794,7 +999,7 @@
   </url>
   <url>
     <loc>https://hipobuys.store/hipobuy-sneaker-finds-sizing-qc</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/hipobuy-sneaker-finds-sizing-qc"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/hipobuy-sneaker-finds-sizing-qc/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/hipobuy-sneaker-finds-sizing-qc/"/>
@@ -819,7 +1024,7 @@
   </url>
   <url>
     <loc>https://hipobuys.store/hipobuy-warehouse-location-forwarding-address</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/hipobuy-warehouse-location-forwarding-address"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/hipobuy-warehouse-location-forwarding-address/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/hipobuy-warehouse-location-forwarding-address/"/>
@@ -835,7 +1040,7 @@
   </url>
   <url>
     <loc>https://hipobuys.store/it/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/"/>
@@ -848,7 +1053,7 @@
   </url>
   <url>
     <loc>https://hipobuys.store/it/articles/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/articles"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/articles/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/articles/"/>
@@ -861,7 +1066,7 @@
   </url>
   <url>
     <loc>https://hipobuys.store/it/costi-hipobuy/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/en/hipobuy-fees/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/hipobuy-kosten/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/frais-hipobuy/"/>
@@ -874,7 +1079,7 @@
   </url>
   <url>
     <loc>https://hipobuys.store/it/coupon-hipobuy/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/en/hipobuy-coupon/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/hipobuy-gutschein/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/coupon-hipobuy/"/>
@@ -886,8 +1091,21 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://hipobuys.store/en/hipobuy-coupon/"/>
   </url>
   <url>
+    <loc>https://hipobuys.store/it/faq/</loc>
+    <lastmod>2026-11-06</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/faq"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/faq/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/faq/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://hipobuys.store/es/faq/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://hipobuys.store/it/faq/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://hipobuys.store/pl/faq/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://hipobuys.store/pt/faq/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://hipobuys.store/nl/faq/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hipobuys.store/faq"/>
+  </url>
+  <url>
     <loc>https://hipobuys.store/it/foto-qc/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/en/qc-photos/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/qc-fotos/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/photos-qc/"/>
@@ -900,7 +1118,7 @@
   </url>
   <url>
     <loc>https://hipobuys.store/it/hipobuy-order-status-tracking-guide/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/hipobuy-order-status-tracking-guide"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/hipobuy-order-status-tracking-guide/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/hipobuy-order-status-tracking-guide/"/>
@@ -912,8 +1130,21 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://hipobuys.store/hipobuy-order-status-tracking-guide"/>
   </url>
   <url>
+    <loc>https://hipobuys.store/it/hipobuy-qc-photos-missing-extra-photos/</loc>
+    <lastmod>2026-11-06</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/hipobuy-qc-photos-missing-extra-photos"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/hipobuy-qc-photos-missing-extra-photos/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/hipobuy-qc-photos-missing-extra-photos/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://hipobuys.store/es/hipobuy-qc-photos-missing-extra-photos/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://hipobuys.store/it/hipobuy-qc-photos-missing-extra-photos/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://hipobuys.store/pl/hipobuy-qc-photos-missing-extra-photos/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://hipobuys.store/pt/hipobuy-qc-photos-missing-extra-photos/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://hipobuys.store/nl/hipobuy-qc-photos-missing-extra-photos/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hipobuys.store/hipobuy-qc-photos-missing-extra-photos"/>
+  </url>
+  <url>
     <loc>https://hipobuys.store/it/hipobuy-rehearsal-parcel-volumetric-weight/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/hipobuy-rehearsal-parcel-volumetric-weight"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/hipobuy-rehearsal-parcel-volumetric-weight/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/hipobuy-rehearsal-parcel-volumetric-weight/"/>
@@ -925,8 +1156,21 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://hipobuys.store/hipobuy-rehearsal-parcel-volumetric-weight"/>
   </url>
   <url>
+    <loc>https://hipobuys.store/it/hipobuy-returns-refunds-wallet-credit/</loc>
+    <lastmod>2026-11-06</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/hipobuy-returns-refunds-wallet-credit"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/hipobuy-returns-refunds-wallet-credit/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/hipobuy-returns-refunds-wallet-credit/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://hipobuys.store/es/hipobuy-returns-refunds-wallet-credit/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://hipobuys.store/it/hipobuy-returns-refunds-wallet-credit/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://hipobuys.store/pl/hipobuy-returns-refunds-wallet-credit/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://hipobuys.store/pt/hipobuy-returns-refunds-wallet-credit/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://hipobuys.store/nl/hipobuy-returns-refunds-wallet-credit/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hipobuys.store/hipobuy-returns-refunds-wallet-credit"/>
+  </url>
+  <url>
     <loc>https://hipobuys.store/it/hipobuy-shipping-calculator-weight-dimensions/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/hipobuy-shipping-calculator-weight-dimensions"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/hipobuy-shipping-calculator-weight-dimensions/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/hipobuy-shipping-calculator-weight-dimensions/"/>
@@ -938,8 +1182,21 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://hipobuys.store/hipobuy-shipping-calculator-weight-dimensions"/>
   </url>
   <url>
+    <loc>https://hipobuys.store/it/hipobuy-shipping-estimate-vs-final-cost/</loc>
+    <lastmod>2026-11-06</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/hipobuy-shipping-estimate-vs-final-cost"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/hipobuy-shipping-estimate-vs-final-cost/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/hipobuy-shipping-estimate-vs-final-cost/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://hipobuys.store/es/hipobuy-shipping-estimate-vs-final-cost/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://hipobuys.store/it/hipobuy-shipping-estimate-vs-final-cost/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://hipobuys.store/pl/hipobuy-shipping-estimate-vs-final-cost/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://hipobuys.store/pt/hipobuy-shipping-estimate-vs-final-cost/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://hipobuys.store/nl/hipobuy-shipping-estimate-vs-final-cost/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hipobuys.store/hipobuy-shipping-estimate-vs-final-cost"/>
+  </url>
+  <url>
     <loc>https://hipobuys.store/it/hipobuy-shipping-time-seller-warehouse-delivery/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/hipobuy-shipping-time-seller-warehouse-delivery"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/hipobuy-shipping-time-seller-warehouse-delivery/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/hipobuy-shipping-time-seller-warehouse-delivery/"/>
@@ -952,7 +1209,7 @@
   </url>
   <url>
     <loc>https://hipobuys.store/it/hipobuy-size-guide-clothing-shoes/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/hipobuy-size-guide-clothing-shoes"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/hipobuy-size-guide-clothing-shoes/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/hipobuy-size-guide-clothing-shoes/"/>
@@ -965,7 +1222,7 @@
   </url>
   <url>
     <loc>https://hipobuys.store/it/hipobuy-sneaker-finds-sizing-qc/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/hipobuy-sneaker-finds-sizing-qc"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/hipobuy-sneaker-finds-sizing-qc/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/hipobuy-sneaker-finds-sizing-qc/"/>
@@ -978,7 +1235,7 @@
   </url>
   <url>
     <loc>https://hipobuys.store/it/hipobuy-warehouse-location-forwarding-address/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/hipobuy-warehouse-location-forwarding-address"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/hipobuy-warehouse-location-forwarding-address/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/hipobuy-warehouse-location-forwarding-address/"/>
@@ -991,7 +1248,7 @@
   </url>
   <url>
     <loc>https://hipobuys.store/it/link-w2c/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/en/w2c-links/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/w2c-links/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/liens-w2c/"/>
@@ -1004,7 +1261,7 @@
   </url>
   <url>
     <loc>https://hipobuys.store/it/spedizione-dalla-cina/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/en/shipping-from-china/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/versand-aus-china/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/livraison-depuis-la-chine/"/>
@@ -1020,7 +1277,7 @@
   </url>
   <url>
     <loc>https://hipobuys.store/nl/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/"/>
@@ -1033,7 +1290,7 @@
   </url>
   <url>
     <loc>https://hipobuys.store/nl/articles/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/articles"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/articles/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/articles/"/>
@@ -1045,8 +1302,21 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://hipobuys.store/articles"/>
   </url>
   <url>
+    <loc>https://hipobuys.store/nl/faq/</loc>
+    <lastmod>2026-11-06</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/faq"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/faq/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/faq/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://hipobuys.store/es/faq/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://hipobuys.store/it/faq/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://hipobuys.store/pl/faq/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://hipobuys.store/pt/faq/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://hipobuys.store/nl/faq/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hipobuys.store/faq"/>
+  </url>
+  <url>
     <loc>https://hipobuys.store/nl/hipobuy-korting/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/en/hipobuy-coupon/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/hipobuy-gutschein/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/coupon-hipobuy/"/>
@@ -1059,7 +1329,7 @@
   </url>
   <url>
     <loc>https://hipobuys.store/nl/hipobuy-kosten/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/en/hipobuy-fees/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/hipobuy-kosten/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/frais-hipobuy/"/>
@@ -1072,7 +1342,7 @@
   </url>
   <url>
     <loc>https://hipobuys.store/nl/hipobuy-order-status-tracking-guide/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/hipobuy-order-status-tracking-guide"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/hipobuy-order-status-tracking-guide/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/hipobuy-order-status-tracking-guide/"/>
@@ -1084,8 +1354,21 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://hipobuys.store/hipobuy-order-status-tracking-guide"/>
   </url>
   <url>
+    <loc>https://hipobuys.store/nl/hipobuy-qc-photos-missing-extra-photos/</loc>
+    <lastmod>2026-11-06</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/hipobuy-qc-photos-missing-extra-photos"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/hipobuy-qc-photos-missing-extra-photos/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/hipobuy-qc-photos-missing-extra-photos/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://hipobuys.store/es/hipobuy-qc-photos-missing-extra-photos/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://hipobuys.store/it/hipobuy-qc-photos-missing-extra-photos/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://hipobuys.store/pl/hipobuy-qc-photos-missing-extra-photos/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://hipobuys.store/pt/hipobuy-qc-photos-missing-extra-photos/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://hipobuys.store/nl/hipobuy-qc-photos-missing-extra-photos/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hipobuys.store/hipobuy-qc-photos-missing-extra-photos"/>
+  </url>
+  <url>
     <loc>https://hipobuys.store/nl/hipobuy-rehearsal-parcel-volumetric-weight/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/hipobuy-rehearsal-parcel-volumetric-weight"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/hipobuy-rehearsal-parcel-volumetric-weight/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/hipobuy-rehearsal-parcel-volumetric-weight/"/>
@@ -1097,8 +1380,21 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://hipobuys.store/hipobuy-rehearsal-parcel-volumetric-weight"/>
   </url>
   <url>
+    <loc>https://hipobuys.store/nl/hipobuy-returns-refunds-wallet-credit/</loc>
+    <lastmod>2026-11-06</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/hipobuy-returns-refunds-wallet-credit"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/hipobuy-returns-refunds-wallet-credit/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/hipobuy-returns-refunds-wallet-credit/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://hipobuys.store/es/hipobuy-returns-refunds-wallet-credit/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://hipobuys.store/it/hipobuy-returns-refunds-wallet-credit/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://hipobuys.store/pl/hipobuy-returns-refunds-wallet-credit/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://hipobuys.store/pt/hipobuy-returns-refunds-wallet-credit/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://hipobuys.store/nl/hipobuy-returns-refunds-wallet-credit/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hipobuys.store/hipobuy-returns-refunds-wallet-credit"/>
+  </url>
+  <url>
     <loc>https://hipobuys.store/nl/hipobuy-shipping-calculator-weight-dimensions/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/hipobuy-shipping-calculator-weight-dimensions"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/hipobuy-shipping-calculator-weight-dimensions/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/hipobuy-shipping-calculator-weight-dimensions/"/>
@@ -1110,8 +1406,21 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://hipobuys.store/hipobuy-shipping-calculator-weight-dimensions"/>
   </url>
   <url>
+    <loc>https://hipobuys.store/nl/hipobuy-shipping-estimate-vs-final-cost/</loc>
+    <lastmod>2026-11-06</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/hipobuy-shipping-estimate-vs-final-cost"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/hipobuy-shipping-estimate-vs-final-cost/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/hipobuy-shipping-estimate-vs-final-cost/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://hipobuys.store/es/hipobuy-shipping-estimate-vs-final-cost/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://hipobuys.store/it/hipobuy-shipping-estimate-vs-final-cost/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://hipobuys.store/pl/hipobuy-shipping-estimate-vs-final-cost/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://hipobuys.store/pt/hipobuy-shipping-estimate-vs-final-cost/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://hipobuys.store/nl/hipobuy-shipping-estimate-vs-final-cost/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hipobuys.store/hipobuy-shipping-estimate-vs-final-cost"/>
+  </url>
+  <url>
     <loc>https://hipobuys.store/nl/hipobuy-shipping-time-seller-warehouse-delivery/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/hipobuy-shipping-time-seller-warehouse-delivery"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/hipobuy-shipping-time-seller-warehouse-delivery/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/hipobuy-shipping-time-seller-warehouse-delivery/"/>
@@ -1124,7 +1433,7 @@
   </url>
   <url>
     <loc>https://hipobuys.store/nl/hipobuy-size-guide-clothing-shoes/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/hipobuy-size-guide-clothing-shoes"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/hipobuy-size-guide-clothing-shoes/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/hipobuy-size-guide-clothing-shoes/"/>
@@ -1137,7 +1446,7 @@
   </url>
   <url>
     <loc>https://hipobuys.store/nl/hipobuy-sneaker-finds-sizing-qc/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/hipobuy-sneaker-finds-sizing-qc"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/hipobuy-sneaker-finds-sizing-qc/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/hipobuy-sneaker-finds-sizing-qc/"/>
@@ -1150,7 +1459,7 @@
   </url>
   <url>
     <loc>https://hipobuys.store/nl/hipobuy-warehouse-location-forwarding-address/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/hipobuy-warehouse-location-forwarding-address"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/hipobuy-warehouse-location-forwarding-address/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/hipobuy-warehouse-location-forwarding-address/"/>
@@ -1163,7 +1472,7 @@
   </url>
   <url>
     <loc>https://hipobuys.store/nl/qc-fotos/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/en/qc-photos/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/qc-fotos/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/photos-qc/"/>
@@ -1176,7 +1485,7 @@
   </url>
   <url>
     <loc>https://hipobuys.store/nl/verzending-uit-china/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/en/shipping-from-china/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/versand-aus-china/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/livraison-depuis-la-chine/"/>
@@ -1189,7 +1498,7 @@
   </url>
   <url>
     <loc>https://hipobuys.store/nl/w2c-links/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/en/w2c-links/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/w2c-links/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/liens-w2c/"/>
@@ -1202,7 +1511,7 @@
   </url>
   <url>
     <loc>https://hipobuys.store/pl/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/"/>
@@ -1215,7 +1524,7 @@
   </url>
   <url>
     <loc>https://hipobuys.store/pl/articles/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/articles"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/articles/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/articles/"/>
@@ -1227,8 +1536,21 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://hipobuys.store/articles"/>
   </url>
   <url>
+    <loc>https://hipobuys.store/pl/faq/</loc>
+    <lastmod>2026-11-06</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/faq"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/faq/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/faq/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://hipobuys.store/es/faq/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://hipobuys.store/it/faq/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://hipobuys.store/pl/faq/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://hipobuys.store/pt/faq/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://hipobuys.store/nl/faq/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hipobuys.store/faq"/>
+  </url>
+  <url>
     <loc>https://hipobuys.store/pl/hipobuy-order-status-tracking-guide/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/hipobuy-order-status-tracking-guide"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/hipobuy-order-status-tracking-guide/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/hipobuy-order-status-tracking-guide/"/>
@@ -1240,8 +1562,21 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://hipobuys.store/hipobuy-order-status-tracking-guide"/>
   </url>
   <url>
+    <loc>https://hipobuys.store/pl/hipobuy-qc-photos-missing-extra-photos/</loc>
+    <lastmod>2026-11-06</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/hipobuy-qc-photos-missing-extra-photos"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/hipobuy-qc-photos-missing-extra-photos/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/hipobuy-qc-photos-missing-extra-photos/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://hipobuys.store/es/hipobuy-qc-photos-missing-extra-photos/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://hipobuys.store/it/hipobuy-qc-photos-missing-extra-photos/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://hipobuys.store/pl/hipobuy-qc-photos-missing-extra-photos/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://hipobuys.store/pt/hipobuy-qc-photos-missing-extra-photos/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://hipobuys.store/nl/hipobuy-qc-photos-missing-extra-photos/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hipobuys.store/hipobuy-qc-photos-missing-extra-photos"/>
+  </url>
+  <url>
     <loc>https://hipobuys.store/pl/hipobuy-rehearsal-parcel-volumetric-weight/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/hipobuy-rehearsal-parcel-volumetric-weight"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/hipobuy-rehearsal-parcel-volumetric-weight/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/hipobuy-rehearsal-parcel-volumetric-weight/"/>
@@ -1253,8 +1588,21 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://hipobuys.store/hipobuy-rehearsal-parcel-volumetric-weight"/>
   </url>
   <url>
+    <loc>https://hipobuys.store/pl/hipobuy-returns-refunds-wallet-credit/</loc>
+    <lastmod>2026-11-06</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/hipobuy-returns-refunds-wallet-credit"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/hipobuy-returns-refunds-wallet-credit/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/hipobuy-returns-refunds-wallet-credit/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://hipobuys.store/es/hipobuy-returns-refunds-wallet-credit/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://hipobuys.store/it/hipobuy-returns-refunds-wallet-credit/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://hipobuys.store/pl/hipobuy-returns-refunds-wallet-credit/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://hipobuys.store/pt/hipobuy-returns-refunds-wallet-credit/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://hipobuys.store/nl/hipobuy-returns-refunds-wallet-credit/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hipobuys.store/hipobuy-returns-refunds-wallet-credit"/>
+  </url>
+  <url>
     <loc>https://hipobuys.store/pl/hipobuy-shipping-calculator-weight-dimensions/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/hipobuy-shipping-calculator-weight-dimensions"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/hipobuy-shipping-calculator-weight-dimensions/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/hipobuy-shipping-calculator-weight-dimensions/"/>
@@ -1266,8 +1614,21 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://hipobuys.store/hipobuy-shipping-calculator-weight-dimensions"/>
   </url>
   <url>
+    <loc>https://hipobuys.store/pl/hipobuy-shipping-estimate-vs-final-cost/</loc>
+    <lastmod>2026-11-06</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/hipobuy-shipping-estimate-vs-final-cost"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/hipobuy-shipping-estimate-vs-final-cost/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/hipobuy-shipping-estimate-vs-final-cost/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://hipobuys.store/es/hipobuy-shipping-estimate-vs-final-cost/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://hipobuys.store/it/hipobuy-shipping-estimate-vs-final-cost/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://hipobuys.store/pl/hipobuy-shipping-estimate-vs-final-cost/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://hipobuys.store/pt/hipobuy-shipping-estimate-vs-final-cost/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://hipobuys.store/nl/hipobuy-shipping-estimate-vs-final-cost/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hipobuys.store/hipobuy-shipping-estimate-vs-final-cost"/>
+  </url>
+  <url>
     <loc>https://hipobuys.store/pl/hipobuy-shipping-time-seller-warehouse-delivery/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/hipobuy-shipping-time-seller-warehouse-delivery"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/hipobuy-shipping-time-seller-warehouse-delivery/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/hipobuy-shipping-time-seller-warehouse-delivery/"/>
@@ -1280,7 +1641,7 @@
   </url>
   <url>
     <loc>https://hipobuys.store/pl/hipobuy-size-guide-clothing-shoes/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/hipobuy-size-guide-clothing-shoes"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/hipobuy-size-guide-clothing-shoes/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/hipobuy-size-guide-clothing-shoes/"/>
@@ -1293,7 +1654,7 @@
   </url>
   <url>
     <loc>https://hipobuys.store/pl/hipobuy-sneaker-finds-sizing-qc/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/hipobuy-sneaker-finds-sizing-qc"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/hipobuy-sneaker-finds-sizing-qc/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/hipobuy-sneaker-finds-sizing-qc/"/>
@@ -1306,7 +1667,7 @@
   </url>
   <url>
     <loc>https://hipobuys.store/pl/hipobuy-warehouse-location-forwarding-address/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/hipobuy-warehouse-location-forwarding-address"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/hipobuy-warehouse-location-forwarding-address/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/hipobuy-warehouse-location-forwarding-address/"/>
@@ -1319,7 +1680,7 @@
   </url>
   <url>
     <loc>https://hipobuys.store/pl/koszty-hipobuy/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/en/hipobuy-fees/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/hipobuy-kosten/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/frais-hipobuy/"/>
@@ -1332,7 +1693,7 @@
   </url>
   <url>
     <loc>https://hipobuys.store/pl/kupon-hipobuy/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/en/hipobuy-coupon/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/hipobuy-gutschein/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/coupon-hipobuy/"/>
@@ -1345,7 +1706,7 @@
   </url>
   <url>
     <loc>https://hipobuys.store/pl/linki-w2c/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/en/w2c-links/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/w2c-links/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/liens-w2c/"/>
@@ -1358,7 +1719,7 @@
   </url>
   <url>
     <loc>https://hipobuys.store/pl/wysylka-z-chin/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/en/shipping-from-china/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/versand-aus-china/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/livraison-depuis-la-chine/"/>
@@ -1371,7 +1732,7 @@
   </url>
   <url>
     <loc>https://hipobuys.store/pl/zdjecia-qc/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/en/qc-photos/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/qc-fotos/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/photos-qc/"/>
@@ -1393,7 +1754,7 @@
   </url>
   <url>
     <loc>https://hipobuys.store/pt/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/"/>
@@ -1406,7 +1767,7 @@
   </url>
   <url>
     <loc>https://hipobuys.store/pt/articles/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/articles"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/articles/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/articles/"/>
@@ -1419,7 +1780,7 @@
   </url>
   <url>
     <loc>https://hipobuys.store/pt/cupom-hipobuy/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/en/hipobuy-coupon/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/hipobuy-gutschein/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/coupon-hipobuy/"/>
@@ -1432,7 +1793,7 @@
   </url>
   <url>
     <loc>https://hipobuys.store/pt/envio-da-china/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/en/shipping-from-china/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/versand-aus-china/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/livraison-depuis-la-chine/"/>
@@ -1444,8 +1805,21 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://hipobuys.store/en/shipping-from-china/"/>
   </url>
   <url>
+    <loc>https://hipobuys.store/pt/faq/</loc>
+    <lastmod>2026-11-06</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/faq"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/faq/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/faq/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://hipobuys.store/es/faq/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://hipobuys.store/it/faq/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://hipobuys.store/pl/faq/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://hipobuys.store/pt/faq/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://hipobuys.store/nl/faq/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hipobuys.store/faq"/>
+  </url>
+  <url>
     <loc>https://hipobuys.store/pt/fotos-qc/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/en/qc-photos/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/qc-fotos/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/photos-qc/"/>
@@ -1458,7 +1832,7 @@
   </url>
   <url>
     <loc>https://hipobuys.store/pt/hipobuy-order-status-tracking-guide/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/hipobuy-order-status-tracking-guide"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/hipobuy-order-status-tracking-guide/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/hipobuy-order-status-tracking-guide/"/>
@@ -1470,8 +1844,21 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://hipobuys.store/hipobuy-order-status-tracking-guide"/>
   </url>
   <url>
+    <loc>https://hipobuys.store/pt/hipobuy-qc-photos-missing-extra-photos/</loc>
+    <lastmod>2026-11-06</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/hipobuy-qc-photos-missing-extra-photos"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/hipobuy-qc-photos-missing-extra-photos/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/hipobuy-qc-photos-missing-extra-photos/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://hipobuys.store/es/hipobuy-qc-photos-missing-extra-photos/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://hipobuys.store/it/hipobuy-qc-photos-missing-extra-photos/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://hipobuys.store/pl/hipobuy-qc-photos-missing-extra-photos/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://hipobuys.store/pt/hipobuy-qc-photos-missing-extra-photos/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://hipobuys.store/nl/hipobuy-qc-photos-missing-extra-photos/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hipobuys.store/hipobuy-qc-photos-missing-extra-photos"/>
+  </url>
+  <url>
     <loc>https://hipobuys.store/pt/hipobuy-rehearsal-parcel-volumetric-weight/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/hipobuy-rehearsal-parcel-volumetric-weight"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/hipobuy-rehearsal-parcel-volumetric-weight/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/hipobuy-rehearsal-parcel-volumetric-weight/"/>
@@ -1483,8 +1870,21 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://hipobuys.store/hipobuy-rehearsal-parcel-volumetric-weight"/>
   </url>
   <url>
+    <loc>https://hipobuys.store/pt/hipobuy-returns-refunds-wallet-credit/</loc>
+    <lastmod>2026-11-06</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/hipobuy-returns-refunds-wallet-credit"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/hipobuy-returns-refunds-wallet-credit/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/hipobuy-returns-refunds-wallet-credit/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://hipobuys.store/es/hipobuy-returns-refunds-wallet-credit/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://hipobuys.store/it/hipobuy-returns-refunds-wallet-credit/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://hipobuys.store/pl/hipobuy-returns-refunds-wallet-credit/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://hipobuys.store/pt/hipobuy-returns-refunds-wallet-credit/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://hipobuys.store/nl/hipobuy-returns-refunds-wallet-credit/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hipobuys.store/hipobuy-returns-refunds-wallet-credit"/>
+  </url>
+  <url>
     <loc>https://hipobuys.store/pt/hipobuy-shipping-calculator-weight-dimensions/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/hipobuy-shipping-calculator-weight-dimensions"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/hipobuy-shipping-calculator-weight-dimensions/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/hipobuy-shipping-calculator-weight-dimensions/"/>
@@ -1496,8 +1896,21 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://hipobuys.store/hipobuy-shipping-calculator-weight-dimensions"/>
   </url>
   <url>
+    <loc>https://hipobuys.store/pt/hipobuy-shipping-estimate-vs-final-cost/</loc>
+    <lastmod>2026-11-06</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/hipobuy-shipping-estimate-vs-final-cost"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/hipobuy-shipping-estimate-vs-final-cost/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/hipobuy-shipping-estimate-vs-final-cost/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://hipobuys.store/es/hipobuy-shipping-estimate-vs-final-cost/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://hipobuys.store/it/hipobuy-shipping-estimate-vs-final-cost/"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://hipobuys.store/pl/hipobuy-shipping-estimate-vs-final-cost/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://hipobuys.store/pt/hipobuy-shipping-estimate-vs-final-cost/"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://hipobuys.store/nl/hipobuy-shipping-estimate-vs-final-cost/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://hipobuys.store/hipobuy-shipping-estimate-vs-final-cost"/>
+  </url>
+  <url>
     <loc>https://hipobuys.store/pt/hipobuy-shipping-time-seller-warehouse-delivery/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/hipobuy-shipping-time-seller-warehouse-delivery"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/hipobuy-shipping-time-seller-warehouse-delivery/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/hipobuy-shipping-time-seller-warehouse-delivery/"/>
@@ -1510,7 +1923,7 @@
   </url>
   <url>
     <loc>https://hipobuys.store/pt/hipobuy-size-guide-clothing-shoes/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/hipobuy-size-guide-clothing-shoes"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/hipobuy-size-guide-clothing-shoes/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/hipobuy-size-guide-clothing-shoes/"/>
@@ -1523,7 +1936,7 @@
   </url>
   <url>
     <loc>https://hipobuys.store/pt/hipobuy-sneaker-finds-sizing-qc/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/hipobuy-sneaker-finds-sizing-qc"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/hipobuy-sneaker-finds-sizing-qc/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/hipobuy-sneaker-finds-sizing-qc/"/>
@@ -1536,7 +1949,7 @@
   </url>
   <url>
     <loc>https://hipobuys.store/pt/hipobuy-warehouse-location-forwarding-address/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/hipobuy-warehouse-location-forwarding-address"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/hipobuy-warehouse-location-forwarding-address/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/hipobuy-warehouse-location-forwarding-address/"/>
@@ -1549,7 +1962,7 @@
   </url>
   <url>
     <loc>https://hipobuys.store/pt/links-w2c/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/en/w2c-links/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/w2c-links/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/liens-w2c/"/>
@@ -1562,7 +1975,7 @@
   </url>
   <url>
     <loc>https://hipobuys.store/pt/taxas-hipobuy/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://hipobuys.store/en/hipobuy-fees/"/>
     <xhtml:link rel="alternate" hreflang="de" href="https://hipobuys.store/de/hipobuy-kosten/"/>
     <xhtml:link rel="alternate" hreflang="fr" href="https://hipobuys.store/fr/frais-hipobuy/"/>

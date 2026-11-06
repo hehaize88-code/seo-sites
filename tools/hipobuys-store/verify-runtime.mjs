@@ -14,6 +14,13 @@ globalThis.HTMLRewriter=class {on(){return this;}transform(r){return r;}};
 const env={ASSETS:{fetch:async request=>{const path=new URL(typeof request==='object'&&'url' in request?request.url:request).pathname;calls.push(path);if(path.endsWith('.xml'))return new Response('<urlset/>',{headers:{'content-type':'application/xml'}});return new Response('<html/>',{headers:{'content-type':'text/html'}});}}};
 for(const [from,to] of Object.entries(tests)){const r=await m.default.fetch(new Request('https://hipobuys.store'+from+'?audit=1'),env);assert.equal(r.status,301);assert.equal(r.headers.get('location'),'https://hipobuys.store'+to+'?audit=1');}
 for(const path of ['/','/de/','/it/hipobuy-size-guide-clothing-shoes/','/google-sitemap.xml']){const r=await m.default.fetch(new Request('https://hipobuys.store'+path),env);assert.equal(r.status,200);assert.ok(r.headers.get('content-security-policy'));}
+const secure=await m.default.fetch(new Request('http://www.hipobuys.store/de/index.html?audit=1'),env);assert.equal(secure.status,301);assert.equal(secure.headers.get('location'),'https://hipobuys.store/de/?audit=1');
+for(const lang of ['en','de','fr','es','it','pl','pt','nl']){
+  for(const slug of ['hipobuy-returns-refunds-wallet-credit','hipobuy-qc-photos-missing-extra-photos','hipobuy-shipping-estimate-vs-final-cost']){
+    const path=lang==='en'?'/'+slug:'/'+lang+'/'+slug+'/';
+    const r=await m.default.fetch(new Request('https://hipobuys.store'+path),env);assert.equal(r.status,200,path);
+  }
+}
 const missing=await m.default.fetch(new Request('https://hipobuys.store/not-a-page'),env);assert.equal(missing.status,404);assert.match(missing.headers.get('x-robots-tag'),/noindex/);
 
 // Exercise the real calculator handler with public example and invalid values.

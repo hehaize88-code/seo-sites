@@ -39,7 +39,7 @@ async function notFound(request,env){
 }
 export default {async fetch(request,env){
   const u=new URL(request.url),path=canonicalPath(u.pathname);
-  if(u.hostname==='www.hipobuys.store'||path!==u.pathname){u.hostname='hipobuys.store';u.protocol='https:';u.pathname=path;return redirect(u);}
+  if(u.hostname==='www.hipobuys.store'||u.protocol==='http:'||path!==u.pathname){u.hostname='hipobuys.store';u.protocol='https:';u.pathname=path;return redirect(u);}
   if(!PAGES.has(path)&&!ASSETS.has(path))return notFound(request,env);
   const response=await env.ASSETS.fetch(request);
   if(response.status===404)return notFound(request,env);
