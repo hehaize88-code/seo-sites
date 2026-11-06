@@ -13,6 +13,7 @@ for path in pages:
     assert d.xpath('//link[@rel="canonical"]/@href')==['https://hipobuys.store'+path],path+' canonical'
     assert len(d.xpath('//title'))==1 and d.xpath('string(//title)').strip(),path+' title'
     assert d.xpath('//meta[@name="description"]/@content'),path+' description'
+    assert len(d.xpath('//section[@data-editorial-links]'))<=1,path+' duplicate discovery section'
     tracking_scripts=''.join((s.get('src') or '')+(s.text or '') for s in d.xpath('//script'))
     assert tracking_scripts.count('G-N31DJZNW37')==2,path+' GA tag must initialize once'
     for script in d.xpath('//script[@type="application/ld+json"]'):json.loads(script.text)

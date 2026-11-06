@@ -126,6 +126,9 @@ def topic_type(path):
     return 4
 TYPED={lang:{topic_type(d['path']):d for d in LEGACY[lang]} for lang in LANGS}
 assert all(len(x)==5 for x in TYPED.values())
+# Older descriptions were cut mid-word. Use complete localized topic summaries.
+for lang,topics in TYPED.items():
+    for t,d in topics.items():d['desc']=NOTES[lang][t]
 def topic_cards(lang):
     return '<div class="article-grid">'+''.join(f'<a class="article-card" href="{d["path"]}"><h2>{E(d["title"])}</h2><p>{E(d["desc"])}</p></a>' for d in LEGACY[lang])+'</div>'
 
@@ -172,7 +175,7 @@ for file in ROOT.rglob('*.html'):
     if file.stem=='languages' and not html.fromstring(text).xpath('//meta[@name="description"]'):
         text=re.sub(r'</head>','<meta name="description" content="Read Hipobuy product, warehouse, sizing and shipping guides in English, German, French, Spanish, Italian, Polish, Portuguese and Dutch."></head>',text,flags=re.I)
     if file.parent==ROOT and file.stem not in [*SLUGS.values(),'index','articles','404']:
-        text=re.sub(r'<section data-editorial-links>.*?</section>','',text,flags=re.S)
+        text=re.sub(r'<section data-editorial-links(?:\s[^>]*)?>.*?</section>','',text,flags=re.S)
         text=text.replace('</main>',f'<section data-editorial-links class="hub"><h2>{UI["en"]["latest"]}</h2>{cards("en",["returns","qc_missing","quote"])}</section></main>')
     file.write_text(text)
 
