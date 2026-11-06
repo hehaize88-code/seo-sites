@@ -45,3 +45,32 @@ Runtime dependencies: Python with beautifulsoup4 and ftfy. For new translation t
 6. `node hoobuys-org/_src/check-runtime.mjs`
 
 Publish the committed static output. The worker blocks public access to `_src`, preserves old extensionless URLs and existing fragment IDs, redirects html/index aliases and serves 404 status for missing pages. No browser-based local visual QA was run because the managed Sites environment requires skipping it when its browser tool is unavailable. Production is checked separately after deployment.
+
+## Search-intent release — 2026-11-06
+
+Scope remains `hoobuys-org/` only. No other domain, product data hub, hosting account, or measurement ID was changed.
+
+- 270 canonical indexable URLs: 30 per language, including 23 full articles per language.
+- Three new originals (1,326–1,387 English words before shared page elements): `hoobuy-spreadsheet-women`, `hoobuy-budget-finds`, `hoobuy-links-not-working`. All eight translations have full body sections, equivalent links and reciprocal language alternates.
+- Rewrote `hoobuy-spreadsheet-guide` around browsing, real catalogue examples and the selected-option workflow. Extended QC, shipping-calculator and total-cost articles with relevant next steps and official references. Kept existing article URLs; retained original publication dates for the October guides.
+- Homepage now targets spreadsheet/finds/links intent. Header exposes Finds, Spreadsheet, QC, Shipping, SEO articles and FAQ. The catalogue has native clothing/shoes/accessories anchors that work without JavaScript.
+- Rechecked all ten catalogue destination pages in the connected browser. Recorded visible source item IDs and USD display-price snapshots in `products.json` dated 2026-11-06. These are not checkout prices, authenticated products, live stock guarantees or warehouse QC. Images remain the existing source images.
+- Preserved GA4 `G-Q60K7ELE45`, query-free product-click events, guide clicks, language switches and calculator events. No purchase/conversion data is fabricated.
+
+### Evidence behind the priority
+
+Read-only platform review in the preceding research turn used GSC 2026-10-07 through 2026-11-03: 9 clicks, 377 impressions, 2.4% CTR, position 9.8 (previous 28 days: 0 clicks, 27 impressions). `hoobuy spreadsheet` had 10 impressions at position 8.7; `hoobuy finds` 9 at 6.2; `hoobuy spreadsheet women` 7 at 4.0, all assigned to `/de/`. The root had 234 impressions/4 clicks, `/products` 63/3, `/guides` 28/0. These are small samples, not search-volume estimates or proof of future lift.
+
+GSC showed 27 indexed and 226 excluded URLs (210 discovered/not indexed, 8 crawled/not indexed). Bing's sitemap inventory still showed an August crawl with 11 URLs while Google's sitemap read 243. GA4 showed 28 sessions, 13 organic, and zero key events in the same 28-day period. Existing event implementation was retained and runtime-tested; zero key events alone does not establish broken tracking.
+
+Competitor research informed useful category navigation, product-level examples and explicit shipping inputs. Competitor prose, claims of testing and undocumented platform rules were not copied. Official references are linked in the articles. Live prices were read from the ten linked catalogue pages; no shipping quote, delivery date, return window or fixed photo allowance was invented.
+
+### Reproduce and validate
+
+1. Run `build.py` to create English pages and the translation string inventory.
+2. If source text changed, run `translate.py --models /path/to/argos-models`. The offline model input normalizes shopping idioms; original source keys are retained. Models are not deployed.
+3. Run `release-review.py`, `release-headings.py`, `release-paragraphs.py`, `release-intros.py` in that order. These preserve reviewed titles, all new headings, complete Chinese article paragraphs and reviewed introductions in the other seven translated locales. Existing editorial and product dictionaries remain active.
+4. Run `build.py --all`, `verify.py`, `node check-runtime.mjs`, and `git diff --check`.
+5. Publish through the existing GitHub integration and verify the `2026-11-06-org-search-intent` revision on actual pages. The deployment gate checks all 270 URLs, metadata, language counterparts, article structure parity, source-domain links, local assets and absence of English paragraph fallbacks in new articles.
+
+Shipping arithmetic is an example rather than a quote. Search performance should be compared by query, country, device and landing page over comparable complete periods; the current low volumes do not support a guaranteed percentage improvement.

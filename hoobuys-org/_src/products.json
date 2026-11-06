@@ -2,51 +2,111 @@
   {
     "title": "Hoodie",
     "url": "https://www.cnfanssp.com/AllProducts/6127.html",
-    "image": "https://cnfanssp.com/uploads/allimg/20260429/1-2604291534502K.jpg"
+    "image": "https://cnfanssp.com/uploads/allimg/20260429/1-2604291534502K.jpg",
+    "catalogue_id": "6127",
+    "item_id": "7676979998",
+    "price_usd": 16.25,
+    "category": "clothing",
+    "check": "Compare chest width, body length and sleeve measurements.",
+    "checked": "2026-11-06"
   },
   {
     "title": "Jeans",
     "url": "https://www.cnfanssp.com/AllProducts/5974.html",
-    "image": "https://cnfanssp.com/uploads/allimg/20260204/1-260204140604392.webp"
+    "image": "https://cnfanssp.com/uploads/allimg/20260204/1-260204140604392.webp",
+    "catalogue_id": "5974",
+    "item_id": "7687492288",
+    "price_usd": 32.37,
+    "category": "clothing",
+    "check": "Check waist measurement, rise and inseam for the selected size.",
+    "checked": "2026-11-06"
   },
   {
     "title": "Shoes · 6037",
     "url": "https://www.cnfanssp.com/AllProducts/6037.html",
-    "image": "https://cnfanssp.com/uploads/allimg/20260416/1-260416212220506.jpg"
+    "image": "https://cnfanssp.com/uploads/allimg/20260416/1-260416212220506.jpg",
+    "catalogue_id": "6037",
+    "item_id": "7673839429",
+    "price_usd": 34.16,
+    "category": "shoes",
+    "check": "Confirm the selected size and request clear labels for both shoes.",
+    "checked": "2026-11-06"
   },
   {
     "title": "Backpack",
     "url": "https://www.cnfanssp.com/AllProducts/5976.html",
-    "image": "https://cnfanssp.com/uploads/allimg/20260204/1-260204140JQ60.webp"
+    "image": "https://cnfanssp.com/uploads/allimg/20260204/1-260204140JQ60.webp",
+    "catalogue_id": "5976",
+    "item_id": "7687455340",
+    "price_usd": 38.57,
+    "category": "accessories",
+    "check": "Check exterior dimensions, compartment size and strap adjustment.",
+    "checked": "2026-11-06"
   },
   {
     "title": "Sunglasses",
     "url": "https://www.cnfanssp.com/AllProducts/5983.html",
-    "image": "https://cnfanssp.com/uploads/allimg/20260204/1-2602041414051F.jpg"
+    "image": "https://cnfanssp.com/uploads/allimg/20260204/1-2602041414051F.jpg",
+    "catalogue_id": "5983",
+    "item_id": "7684471331",
+    "price_usd": 18.6,
+    "category": "accessories",
+    "check": "Confirm the exact frame option and dimensions; photos do not verify lens protection.",
+    "checked": "2026-11-06"
   },
   {
     "title": "Jacket",
     "url": "https://www.cnfanssp.com/AllProducts/5975.html",
-    "image": "https://cnfanssp.com/uploads/allimg/20260204/1-260204140F0102.webp"
+    "image": "https://cnfanssp.com/uploads/allimg/20260204/1-260204140F0102.webp",
+    "catalogue_id": "5975",
+    "item_id": "7684471339",
+    "price_usd": 39.39,
+    "category": "clothing",
+    "check": "Compare chest and sleeve measurements and confirm the intended lining.",
+    "checked": "2026-11-06"
   },
   {
     "title": "Shoes · 6045",
     "url": "https://www.cnfanssp.com/AllProducts/6045.html",
-    "image": "https://cnfanssp.com/uploads/allimg/20260416/1-260416213SK57.jpg"
+    "image": "https://cnfanssp.com/uploads/allimg/20260416/1-260416213SK57.jpg",
+    "catalogue_id": "6045",
+    "item_id": "7673948613",
+    "price_usd": 75.76,
+    "category": "shoes",
+    "check": "Compare the seller’s sizing method and decide whether the box is needed.",
+    "checked": "2026-11-06"
   },
   {
     "title": "Earrings",
     "url": "https://www.cnfanssp.com/AllProducts/5970.html",
-    "image": "https://cnfanssp.com/uploads/allimg/20260204/1-260204140221P6.webp"
+    "image": "https://cnfanssp.com/uploads/allimg/20260204/1-260204140221P6.webp",
+    "catalogue_id": "5970",
+    "item_id": "7687455342",
+    "price_usd": 49.59,
+    "category": "accessories",
+    "check": "Check dimensions, fastening and material information before ordering.",
+    "checked": "2026-11-06"
   },
   {
     "title": "Belt",
     "url": "https://www.cnfanssp.com/AllProducts/5919.html",
-    "image": "https://cnfanssp.com/uploads/allimg/20260204/1-260204123I13Z.webp"
+    "image": "https://cnfanssp.com/uploads/allimg/20260204/1-260204123I13Z.webp",
+    "catalogue_id": "5919",
+    "item_id": "7684473213",
+    "price_usd": 5.37,
+    "category": "accessories",
+    "check": "Confirm the length method, adjustment range and buckle dimensions.",
+    "checked": "2026-11-06"
   },
   {
     "title": "Wallet",
     "url": "https://www.cnfanssp.com/AllProducts/5931.html",
-    "image": "https://cnfanssp.com/uploads/allimg/20260204/1-260204130452329.jpg"
+    "image": "https://cnfanssp.com/uploads/allimg/20260204/1-260204130452329.jpg",
+    "catalogue_id": "5931",
+    "item_id": "7684525775",
+    "price_usd": 10.61,
+    "category": "accessories",
+    "check": "Check closed dimensions, compartments and fastening details.",
+    "checked": "2026-11-06"
   }
 ]

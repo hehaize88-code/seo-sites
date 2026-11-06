@@ -1,6 +1,6 @@
 const PAGES = __PAGES__;
 const LANGS = ['zh-CN', 'de', 'fr', 'es', 'it', 'pl', 'nl', 'pt'];
-const REVISION = '2026-10-12-org-multilingual';
+const REVISION = '2026-11-06-org-search-intent';
 function route(path) {
   const parts = path.split('/').filter(Boolean);
   const lang = LANGS.includes(parts[0]) ? parts.shift() : '';
