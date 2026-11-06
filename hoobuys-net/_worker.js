@@ -1,5 +1,5 @@
 // Static editions contain their complete content, language links and metadata.
-const RELEASE = 'multilingual-guides-20261012-logo-v2';
+const RELEASE = 'click-growth-20261106-nine-languages';
 const LANGS = new Set(['zh-cn', 'de', 'fr', 'es', 'it', 'pl', 'nl', 'pt']);
 const LEGACY = new Map([
   ['/hoobuy-net-w2c-qc-shipping-workflow-2026', '/hoobuy-order-status-purchase-dispatch-qc-storage-2026'],

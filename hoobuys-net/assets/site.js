@@ -13,8 +13,11 @@
     const a = event.target.closest && event.target.closest('a[href]');
     if (!a) return;
     const url = new URL(a.href, location.href);
-    if (url.hostname === 'cnfanssp.com' || url.hostname === 'cnfanshp.com') {
-      send('outbound_product_click', {link_url: url.origin + url.pathname});
+    if (url.hostname === 'cnfansge.com' || url.hostname === 'www.cnfansge.com') {
+      send('outbound_product_click', {link_url: url.origin + url.pathname, link_type: url.pathname.startsWith('/AllProducts/') ? 'product' : 'category'});
+    }
+    if (url.hostname === location.hostname && a.closest('.guide-card, .quick-answer, .related')) {
+      send('guide_click', {destination_path: url.pathname});
     }
     if (a.closest('[data-language-links]')) send('language_change', {selected_language: a.hreflang});
     if (a.hasAttribute('download')) send('worksheet_download');

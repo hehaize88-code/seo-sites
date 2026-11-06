@@ -1,90 +1,144 @@
 {
   "hoobuy-split-domestic-parcels-tracking-2026": {
     "datePublished": "2026-09-11",
-    "dateModified": "2026-09-11"
+    "dateModified": "2026-10-12"
   },
   "modify-hoobuy-order-after-submission-2026": {
     "datePublished": "2026-09-11",
-    "dateModified": "2026-09-11"
+    "dateModified": "2026-10-12"
   },
   "hoobuy-order-id-warehouse-item-id-parcel-id-guide-2026": {
     "datePublished": "2026-09-11",
-    "dateModified": "2026-09-11"
+    "dateModified": "2026-10-12"
   },
   "hoobuy-consolidation-vs-split-parcels-guide-2026": {
     "datePublished": "2026-08-26",
-    "dateModified": "2026-08-26"
+    "dateModified": "2026-10-12"
   },
   "hoobuy-tracking-status-no-update-troubleshooting-2026": {
     "datePublished": "2026-09-05",
-    "dateModified": "2026-09-05"
+    "dateModified": "2026-10-12"
   },
   "hoobuy-forwarding-order-taobao-weidian-guide-2026": {
     "datePublished": "2026-08-10",
-    "dateModified": "2026-08-10"
+    "dateModified": "2026-10-12"
   },
   "hoobuy-spreadsheet-guide": {
     "datePublished": "2026-08-13",
-    "dateModified": "2026-08-13"
+    "dateModified": "2026-10-12"
   },
   "hoobuy-order-status-purchase-dispatch-qc-storage-2026": {
     "datePublished": "2026-08-12",
-    "dateModified": "2026-08-12"
+    "dateModified": "2026-10-12"
   },
   "hoobuy-rehearsal-shipping-decision-guide-2026": {
     "datePublished": "2026-08-28",
-    "dateModified": "2026-08-28"
+    "dateModified": "2026-10-12"
   },
   "hoobuy-delivered-but-not-stored-warehouse-intake-2026": {
     "datePublished": "2026-09-11",
-    "dateModified": "2026-09-11"
+    "dateModified": "2026-10-12"
   },
   "hoobuy-seller-sent-warehouse-not-received-2026": {
     "datePublished": "2026-09-11",
-    "dateModified": "2026-09-11"
+    "dateModified": "2026-10-12"
   },
   "hoobuy-returns-exchanges-after-warehouse-qc-2026": {
     "datePublished": "2026-08-14",
-    "dateModified": "2026-08-14"
+    "dateModified": "2026-10-12"
   },
   "shipping-guide": {
     "datePublished": "2026-08-13",
-    "dateModified": "2026-08-13"
+    "dateModified": "2026-11-06"
   },
   "hoobuy-purchase-failed-order-cancelled-status-2026": {
     "datePublished": "2026-09-11",
-    "dateModified": "2026-09-11"
+    "dateModified": "2026-10-12"
   },
   "hoobuy-pending-for-confirmation-status-2026": {
     "datePublished": "2026-09-11",
-    "dateModified": "2026-09-11"
+    "dateModified": "2026-10-12"
   },
   "hoobuy-packaging-box-removal-reinforcement-moisture-guide-2026": {
     "datePublished": "2026-09-01",
-    "dateModified": "2026-09-01"
+    "dateModified": "2026-10-12"
   },
   "hoobuy-warehouse-receipt-mismatch-guide-2026": {
     "datePublished": "2026-09-11",
-    "dateModified": "2026-09-11"
+    "dateModified": "2026-10-12"
   },
   "hoobuy-actual-vs-volumetric-weight-guide-2026": {
     "datePublished": "2026-08-30",
-    "dateModified": "2026-08-30"
+    "dateModified": "2026-10-12"
   },
   "hoobuy-shipping-line-comparison-cost-speed-restrictions-2026": {
     "datePublished": "2026-09-03",
-    "dateModified": "2026-09-03"
+    "dateModified": "2026-10-12"
   },
   "hoobuy-tracking-number-domestic-international-guide-2026": {
     "datePublished": "2026-09-11",
-    "dateModified": "2026-09-11"
+    "dateModified": "2026-10-12"
   },
   "hoobuy-paid-order-outstanding-balance-2026": {
     "datePublished": "2026-09-11",
-    "dateModified": "2026-09-11"
+    "dateModified": "2026-10-12"
   },
   "hoobuy-parcel-insurance-claim-evidence-guide-2026": {
     "datePublished": "2026-09-07",
-    "dateModified": "2026-09-07"
+    "dateModified": "2026-10-12"
+  },
+  "404": {
+    "dateModified": "2026-10-12"
+  },
+  "about": {
+    "dateModified": "2026-10-12"
+  },
+  "articles": {
+    "dateModified": "2026-11-06"
+  },
+  "editorial-policy": {
+    "dateModified": "2026-10-12"
+  },
+  "faq": {
+    "dateModified": "2026-10-12"
+  },
+  "guides": {
+    "dateModified": "2026-11-06"
+  },
+  "hoobuy-process-pending-guide": {
+    "dateModified": "2026-11-06"
+  },
+  "hoobuy-product-spreadsheet-links-guide": {
+    "dateModified": "2026-11-06"
+  },
+  "hoobuy-qc-photos-measurements-guide": {
+    "dateModified": "2026-11-06"
+  },
+  "index": {
+    "dateModified": "2026-11-06"
+  },
+  "languages": {
+    "dateModified": "2026-10-12"
+  },
+  "privacy": {
+    "dateModified": "2026-10-12"
+  },
+  "products": {
+    "dateModified": "2026-11-06"
+  },
+  "terms": {
+    "dateModified": "2026-10-12"
+  },
+  "hoobuy-links-not-working-taobao-weidian": {
+    "dateModified": "2026-11-06",
+    "datePublished": "2026-11-06"
+  },
+  "hoobuy-shipping-to-brazil-guide": {
+    "dateModified": "2026-11-06",
+    "datePublished": "2026-11-06"
+  },
+  "hoobuy-total-cost-fees-guide": {
+    "dateModified": "2026-11-06",
+    "datePublished": "2026-11-06"
   }
 }

@@ -74,3 +74,11 @@ main{min-height:45vh}.latest-grid{grid-template-columns:repeat(2,minmax(0,1fr))}
 /* Uploaded HooBuy wordmark; preserve the original image and aspect ratio. */
 .site-brand .site-logo{display:block;width:150px;height:auto;max-width:100%;object-fit:contain}
 @media(max-width:760px){.site-brand .site-logo{width:135px}}
+
+/* Keep useful answers and navigation compact without hiding article content. */
+.article-toc,.quick-answer{background:#061827;border:1px solid #2a7185;border-radius:16px;padding:18px 22px;margin:22px 0}
+.article-toc strong{color:var(--cyan2)}.article-toc ol{columns:2;column-gap:30px;margin:10px 0 0;padding-left:0;list-style:none}.article-toc li{font-size:14px;line-height:1.55;break-inside:avoid;margin:0 0 7px}
+.quick-answer h2{margin:0 0 12px}.quick-answer ul{margin-bottom:0}.quick-answer p{margin-bottom:12px}
+.article-toc summary{cursor:pointer;color:var(--cyan2);font-weight:700}.article-toc[open] summary{margin-bottom:12px}
+.site-header nav{gap:6px 14px}.article h2{scroll-margin-top:20px}
+@media(max-width:760px){.article-toc,.quick-answer{padding:14px;margin:18px 0}.article-toc ol{columns:1}.article-toc li{font-size:14px}.site-header nav{gap:3px 14px;font-size:12px}.quick-answer li{font-size:15px}}

@@ -6,7 +6,7 @@ from html import escape
 import json,re,hashlib,argparse
 
 S=Path(__file__).parent; B=S.parent
-ORIGIN='https://hoobuys.net'; DATE='2026-10-12'; RELEASE='multilingual-guides-20261012-logo-v2'
+ORIGIN='https://hoobuys.net'; DATE='2026-11-06'; RELEASE='click-growth-20261106-nine-languages'
 LANGS={'en':('','English'),'zh-CN':('zh-cn','简体中文'),'de':('de','Deutsch'),'fr':('fr','Français'),'es':('es','Español'),'it':('it','Italiano'),'pl':('pl','Polski'),'nl':('nl','Nederlands'),'pt':('pt','Português')}
 CAT=json.loads((S/'catalog.json').read_text()); PAGES=json.loads((S/'pages.json').read_text()); UPDATES=json.loads((S/'updates.json').read_text()); DATES=json.loads((S/'dates.json').read_text())
 INLINE=json.loads((S/'inline_translations.json').read_text())
@@ -27,7 +27,8 @@ def local_url(value,lang):
 
 def tr(text,translations,override=None):
     normalized=text.strip();key=hashlib.sha256(normalized.encode()).hexdigest()[:12]
-    if key not in CAT:return text
+    if not normalized:return text
+    if key not in CAT:raise ValueError('Uncatalogued source text: '+normalized[:100])
     if key not in translations:raise ValueError('Missing translation '+key)
     translated=translations[key] if override is None else override
     if not translated:return ''
@@ -83,7 +84,7 @@ def build_page(lang,slug,translations):
     graph=[{'@type':'WebSite','@id':ORIGIN+path(lang,'index')+'#website','url':ORIGIN+path(lang,'index'),'name':'HooBuys.net','inLanguage':lang},{'@type':'Organization','@id':ORIGIN+'/#organization','name':'HooBuys.net Editorial','url':ORIGIN+'/'}]
     page={'@type':'Article' if slug in ARTICLES else 'WebPage','@id':url+'#page','url':url,'name':title,'description':desc,'inLanguage':lang,'isPartOf':{'@id':ORIGIN+path(lang,'index')+'#website'}}
     if slug in ARTICLES:
-        page.update({'headline':s.h1.get_text(' ',strip=True),'datePublished':DATES.get(slug,{}).get('datePublished',DATE),'dateModified':DATE,'mainEntityOfPage':{'@id':url},'author':{'@id':ORIGIN+'/#organization'},'publisher':{'@id':ORIGIN+'/#organization'},'isAccessibleForFree':True})
+        page.update({'headline':s.h1.get_text(' ',strip=True),'datePublished':DATES.get(slug,{}).get('datePublished','2026-10-12'),'dateModified':DATES.get(slug,{}).get('dateModified',DATE),'mainEntityOfPage':{'@id':url},'author':{'@id':ORIGIN+'/#organization'},'publisher':{'@id':ORIGIN+'/#organization'},'isAccessibleForFree':True})
     graph.append(page)
     if slug in ARTICLES:
         home=s.select_one('.site-header nav a').get_text(strip=True)
@@ -101,7 +102,7 @@ def build_page(lang,slug,translations):
     for table in list(s.find_all('table')):
         wrapper=s.new_tag('div',attrs={'class':'table-scroll','tabindex':'0','role':'region','aria-label':s.h1.get_text(' ',strip=True)})
         table.wrap(wrapper)
-    out=B/(LANGS[lang][0] or '.')/f'{slug}.html';out.parent.mkdir(parents=True,exist_ok=True);out.write_text(str(s)+'\n')
+    out=B/(LANGS[lang][0] or '.')/f'{slug}.html';out.parent.mkdir(parents=True,exist_ok=True);out.write_text(str(s).rstrip()+'\n')
     return url
 
 def main():
@@ -120,7 +121,7 @@ def main():
     if not args.english_only:
         xml=['<?xml version="1.0" encoding="UTF-8"?>',f'<urlset xmlns="{NS}" xmlns:xhtml="http://www.w3.org/1999/xhtml">']
         for lang,slug,url in urls:
-            xml.append('<url><loc>'+escape(url)+'</loc><lastmod>'+DATE+'</lastmod>')
+            xml.append('<url><loc>'+escape(url)+'</loc><lastmod>'+DATES.get(slug,{}).get('dateModified',DATE)+'</lastmod>')
             for code in LANGS:xml.append(f'<xhtml:link rel="alternate" hreflang="{code}" href="{ORIGIN+path(code,slug)}"/>')
             xml.append(f'<xhtml:link rel="alternate" hreflang="x-default" href="{ORIGIN+path("en",slug)}"/></url>')
         xml.append('</urlset>');(B/'sitemap.xml').write_text('\n'.join(xml)+'\n');(B/'sitemap.txt').write_text('\n'.join(u for _,_,u in urls)+'\n')

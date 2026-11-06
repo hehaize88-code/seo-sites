@@ -17,10 +17,12 @@ Production remains the `hoobuys-net` directory of this GitHub repository. Genera
 
 ## Coverage and routing
 
-English retains the original root URLs. Complete editions use `/zh-cn/`, `/de/`, `/fr/`, `/es/`, `/it/`, `/pl/`, `/nl/` and `/pt/`. Each of the 35 indexable pages has all nine language alternatives, a self-canonical and an English `x-default`. The 404 page is excluded from the sitemap.
+English retains the original root URLs. Complete editions use `/zh-cn/`, `/de/`, `/fr/`, `/es/`, `/it/`, `/pl/`, `/nl/` and `/pt/`. Each of the 38 indexable pages has all nine language alternatives, a self-canonical and an English `x-default`: 342 indexable URLs and nine localized 404 pages. The 404 pages are excluded from the sitemap.
 
 Each article keeps its original subject. The product-spreadsheet guide is separate from the private order ledger. The shipping calculator topic expands the existing `/shipping-guide` rather than adding a competing URL. New guides cover product links, QC photos and Process Pending. Existing articles remain complete.
 
-Analytics retain the existing measurement ID. Custom events record product-link clicks, product search submissions, language changes, worksheet downloads and half-article reading depth. Raw search input is not added to custom events. Receiving events and business results still need to be checked in the property's reports.
+Analytics retain the existing measurement ID. Custom events record product-link clicks (with product/category type), guide clicks, product search submissions, language changes, worksheet downloads and half-article reading depth. Raw search input is not added to custom events. Receiving events and business results still need to be checked in the property's reports.
+
+The November 6 release adds total-cost, broken-link and Brazil-shipping guides in all nine languages. `release_articles.json` and `release_delta.json` preserve the release's English drafting records; the authoritative build inputs remain `en/`, `catalog.json`, `pages.json` and `i18n/`. Translations are committed static text and require no production translation service. The Chinese additions and Portuguese Brazil article received full prose revision; titles, metadata, terms and arithmetic examples were reviewed across all editions. Page-specific substantive update dates come from `dates.json`, rather than changing every sitemap date on every build. Product discovery and search use the current external `cnfansge.com` catalogue, without adding a local product database.
 
 Publication is a GitHub commit to the existing production branch; verify the returned commit/check status and the live `X-Hoobuys-Release` header. Search indexing or ranking improvements are not guaranteed by deployment.

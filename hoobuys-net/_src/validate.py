@@ -33,12 +33,12 @@ for lang in LANGS:
         check(len(s.select('script[src*="googletagmanager.com/gtag"]'))==1,f'Analytics duplication {lang}/{slug}')
         check('translate.google.com' not in str(s),f'Runtime translation retained {lang}/{slug}')
         for form in s.select('form.search'):
-            check(form.get('action')=='https://cnfanssp.com/search.html',f'Wrong product search destination {lang}/{slug}')
+            check(form.get('action')=='https://cnfansge.com/search.html',f'Wrong product search destination {lang}/{slug}')
             check(form.select_one('input[name="channelid"]').get('value')=='2',f'Wrong search category {lang}/{slug}')
         for a in s.select('.product-card a[href], .route[href]'):
-            check(urlsplit(a['href']).netloc=='cnfanssp.com',f'Wrong commercial destination {lang}/{slug}')
+            check(urlsplit(a['href']).netloc=='cnfansge.com',f'Wrong commercial destination {lang}/{slug}')
         for img in s.select('.product-card img[src]'):
-            check(urlsplit(img['src']).netloc=='cnfanssp.com',f'Wrong product image host {lang}/{slug}')
+            check(urlsplit(img['src']).netloc=='cnfansge.com',f'Wrong product image host {lang}/{slug}')
         if slug!='404':
             c=s.select('link[rel="canonical"]');check(len(c)==1 and c[0].get('href')==ORIGIN+path(lang,slug),f'Canonical {lang}/{slug}')
             links={a['hreflang']:a['href'] for a in s.select('link[hreflang]')}
