@@ -4,11 +4,36 @@
     "description": "Find Hoobuy QC photos, match reference images to the right product, check your own order and request the missing evidence before shipping.",
     "lead": "Looking for “QC Hoobuy” photos? Start by separating public reference pictures from the warehouse photos of your own order. Only the second set can show the item you are about to ship.",
     "sections": [
-      ["Find the right set of photos", "Sign in to your Hoobuy account and open the relevant order or warehouse item. Check its current status and any photo or inspection section. Screen labels can change; match the order number, seller, colour, size and quantity before reviewing an image. A paid order is not evidence that the item has reached the warehouse.", "If photos are missing, establish whether the seller has dispatched the item, the warehouse has received it, and inspection has finished. Ask support which step is incomplete. Searching public QC sites will not reveal private photos that have not yet been taken."],
-      ["Use a public QC finder as a reference", "A public QC finder usually searches a product link or item identifier. Use the original seller link, not just a generic product name. Compare seller, listing ID, variant and photo date. Similar photographs can belong to another batch or a different size.", "No result means the service has no matching reference it can show; it does not prove the product is unsafe or unavailable. A matching result is not a guarantee of authenticity, quality or present stock. This site provides inspection guides, not a private order-photo database."],
-      ["Inspect your order in a useful sequence", "First check identity: size label, colour selection, quantity and included accessories. Next inspect the whole shape, then both sides, seams, edges, print placement and any visible damage. Save the original images so you can distinguish an actual defect from a compressed preview.", "For fit, compare a clearly photographed measurement with a garment or item you already own. A size label alone is weak evidence of dimensions. Photographs cannot establish hidden construction, material composition, long-term durability or an exact colour under different lighting."],
-      ["Request one image that resolves one question", "Write down the uncertain point and what evidence would change your decision. For a tilted print, request a flat, straight-on full view. For an uncertain width, specify the two measurement endpoints and ask for both to be visible in one frame.", "Check any extra-photo charge and current request procedure in your account before confirming. Avoid repeated requests for the same angle. If the item is clearly the wrong variant, preserve the order record and ask about the available remedy instead of collecting unnecessary photographs."],
-      ["Record the decision before parcel submission", "Keep the seller link, order identifier, selected variant, photo date, concern and final action together. Mark the item as ready, awaiting evidence, or awaiting a remedy; do not treat an unanswered question as approval.", "Review any applicable return deadline while the item is still at the warehouse. Then use the shipping checklist to check packed weight, dimensions and route restrictions. A satisfactory photograph does not guarantee that every shipping route accepts the item."]
+      [
+        "Find the right set of photos",
+        "Sign in to your Hoobuy account and open the relevant order or warehouse item. Check its current status and any photo or inspection section. Screen labels can change; match the order number, seller, colour, size and quantity before reviewing an image. A paid order is not evidence that the item has reached the warehouse.",
+        "If photos are missing, establish whether the seller has dispatched the item, the warehouse has received it, and inspection has finished. Ask support which step is incomplete. Searching public QC sites will not reveal private photos that have not yet been taken."
+      ],
+      [
+        "Use a public QC finder as a reference",
+        "A public QC finder usually searches a product link or item identifier. Use the original seller link, not just a generic product name. Compare seller, listing ID, variant and photo date. Similar photographs can belong to another batch or a different size.",
+        "No result means the service has no matching reference it can show; it does not prove the product is unsafe or unavailable. A matching result is not a guarantee of authenticity, quality or present stock. This site provides inspection guides, not a private order-photo database."
+      ],
+      [
+        "Inspect your order in a useful sequence",
+        "First check identity: size label, colour selection, quantity and included accessories. Next inspect the whole shape, then both sides, seams, edges, print placement and any visible damage. Save the original images so you can distinguish an actual defect from a compressed preview.",
+        "For fit, compare a clearly photographed measurement with a garment or item you already own. A size label alone is weak evidence of dimensions. Photographs cannot establish hidden construction, material composition, long-term durability or an exact colour under different lighting."
+      ],
+      [
+        "Request one image that resolves one question",
+        "Write down the uncertain point and what evidence would change your decision. For a tilted print, request a flat, straight-on full view. For an uncertain width, specify the two measurement endpoints and ask for both to be visible in one frame.",
+        "Check any extra-photo charge and current request procedure in your account before confirming. Avoid repeated requests for the same angle. If the item is clearly the wrong variant, preserve the order record and ask about the available remedy instead of collecting unnecessary photographs."
+      ],
+      [
+        "Record the decision before parcel submission",
+        "Keep the seller link, order identifier, selected variant, photo date, concern and final action together. Mark the item as ready, awaiting evidence, or awaiting a remedy; do not treat an unanswered question as approval.",
+        "Review any applicable return deadline while the item is still at the warehouse. Then use the shipping checklist to check packed weight, dimensions and route restrictions. A satisfactory photograph does not guarantee that every shipping route accepts the item."
+      ],
+      [
+        "A three-step decision when QC photos are missing",
+        "If the seller has not dispatched, investigate purchasing or stock with the item order number. If domestic tracking shows delivery but the warehouse record is incomplete, ask about intake and matching. If the item is stored but the required photo is missing, request that specific inspection evidence. These situations need different answers; searching the same public reference repeatedly will not resolve any of them.",
+        "Example: a size label matches the order, but the chest width is not visible. Keep the item awaiting measurement, compare against a garment you own, and request a flat measurement with both endpoints visible. If the result answers the question, record the decision once. If the product link has changed, preserve the original variant evidence instead of approving the item against an unrelated current listing."
+      ]
     ]
   },
   "pending": {
@@ -16,11 +41,36 @@
     "description": "A practical Hoobuy Process Pending checklist: verify payment, purchase progress and seller stock, then send a clear support request without duplicating orders.",
     "lead": "“Process Pending” is a status to investigate, not a reliable delivery countdown. Identify the last confirmed step before deciding whether to wait, ask support or request cancellation.",
     "sections": [
-      ["Save the current order record", "Record the order number, payment time, selected variant, amount and the exact status text. Take a dated screenshot of the order and check for messages requesting confirmation, a variant change or an additional payment. Do not post account details or payment identifiers in a public discussion.", "Compare the order record with your payment history. A bank authorisation, wallet balance and a completed order payment are different records. If they disagree, ask support to reconcile the transaction before paying again."],
-      ["Separate purchase progress from delivery progress", "Check whether there is evidence that the agent has purchased the item, whether the seller has dispatched it, and whether a domestic tracking number exists. A seller-to-warehouse parcel and an international parcel are different stages with different tracking records.", "Do not infer warehouse arrival from payment alone. QC photos generally become relevant after receipt and inspection; an empty photo section is not enough to diagnose a purchasing delay. Ask which step is pending rather than asking only where the parcel is."],
-      ["Send a support message that can be answered", "Use a short, factual request: “Order [number], paid [date and time], currently shows [exact status]. Please confirm whether purchase is complete, whether this variant is available, and whether I need to act. If purchase cannot proceed, what cancellation or refund options currently apply?”", "Attach the order screenshot and relevant payment evidence through the account's support channel. Keep one conversation for the same issue when possible. A clear timeline is more useful than several conflicting messages or an unsupported accusation."],
-      ["Decide whether waiting still fits your plan", "Compare the response with your actual deadline, seller availability and the rest of your parcel. Avoid treating another shopper's waiting time as a promise for your order. This guide does not claim a fixed processing time or a guaranteed cancellation window.", "Before placing a replacement order, confirm what will happen to the first one. Ask whether cancellation is still possible and where any approved refund will go. A refund to an account balance is not automatically a completed withdrawal to your original payment method."],
-      ["Close the loop when the status changes", "Save the support response and check that the order itself reflects the agreed next step. If a substitute size or colour is proposed, compare it with the original requirement before accepting. Update your product tracker so a shared haul does not contain duplicate or unwanted items.", "Once warehouse photos are available, inspect the actual item before combining it into a parcel. If there is still no clear answer, follow up with the same order number and timeline. Use current account terms for deadlines, fees and eligibility; do not rely on an old forum post."]
+      [
+        "Save the current order record",
+        "Record the order number, payment time, selected variant, amount and the exact status text. Take a dated screenshot of the order and check for messages requesting confirmation, a variant change or an additional payment. Do not post account details or payment identifiers in a public discussion.",
+        "Compare the order record with your payment history. A bank authorisation, wallet balance and a completed order payment are different records. If they disagree, ask support to reconcile the transaction before paying again."
+      ],
+      [
+        "Separate purchase progress from delivery progress",
+        "Check whether there is evidence that the agent has purchased the item, whether the seller has dispatched it, and whether a domestic tracking number exists. A seller-to-warehouse parcel and an international parcel are different stages with different tracking records.",
+        "Do not infer warehouse arrival from payment alone. QC photos generally become relevant after receipt and inspection; an empty photo section is not enough to diagnose a purchasing delay. Ask which step is pending rather than asking only where the parcel is."
+      ],
+      [
+        "Send a support message that can be answered",
+        "Use a short, factual request: “Order [number], paid [date and time], currently shows [exact status]. Please confirm whether purchase is complete, whether this variant is available, and whether I need to act. If purchase cannot proceed, what cancellation or refund options currently apply?”",
+        "Attach the order screenshot and relevant payment evidence through the account's support channel. Keep one conversation for the same issue when possible. A clear timeline is more useful than several conflicting messages or an unsupported accusation."
+      ],
+      [
+        "Decide whether waiting still fits your plan",
+        "Compare the response with your actual deadline, seller availability and the rest of your parcel. Avoid treating another shopper's waiting time as a promise for your order. This guide does not claim a fixed processing time or a guaranteed cancellation window.",
+        "Before placing a replacement order, confirm what will happen to the first one. Ask whether cancellation is still possible and where any approved refund will go. A refund to an account balance is not automatically a completed withdrawal to your original payment method."
+      ],
+      [
+        "Close the loop when the status changes",
+        "Save the support response and check that the order itself reflects the agreed next step. If a substitute size or colour is proposed, compare it with the original requirement before accepting. Update your product tracker so a shared haul does not contain duplicate or unwanted items.",
+        "Once warehouse photos are available, inspect the actual item before combining it into a parcel. If there is still no clear answer, follow up with the same order number and timeline. Use current account terms for deadlines, fees and eligibility; do not rely on an old forum post."
+      ],
+      [
+        "When the order changes, update the delivery timeline",
+        "Record purchase confirmation, domestic dispatch and warehouse receipt as separate events. If you are given a new seller link or offered a substitute, verify the product identity and selected variant again. Do not transfer an approval or delivery assumption from the original listing automatically.",
+        "Use the shipping-time guide for the later parcel stages. A purchased item can still be waiting for the seller, and a stored item can still be waiting for your QC decision. Keeping those distinctions in the tracker makes the next support request specific and prevents an international route estimate being mistaken for the whole order’s arrival date."
+      ]
     ]
   },
   "cost": {
@@ -28,11 +78,36 @@
     "description": "Estimate Hoobuy parcel weight correctly, compare actual and volumetric weight, and separate shipping quotes from the full purchase budget.",
     "lead": "A useful shipping estimate starts with destination, packed weight and outer box dimensions. Item price or the number of products alone cannot tell you the final international shipping cost.",
     "sections": [
-      ["Collect the inputs before comparing routes", "Record the destination country and postal area, item categories, packed weight, outer length, width and height, and the date of the quote. Packaging changes the inputs: a shoebox, protective padding or a large outer carton can affect the result even when the products stay the same.", "Use the current account estimator and route conditions for availability. Check restrictions that apply to the actual contents, such as batteries or fragile items. An estimate is conditional; it is not proof that a route will accept the final parcel."],
-      ["Understand actual and volumetric weight", "Actual weight is the measured parcel weight. Volumetric weight converts occupied space into a weight using the route's divisor. If the route bills the greater of the two, compare them before applying that route's rounding rule, minimum charge or weight increments.", "The calculator below demonstrates length × width × height ÷ divisor, with centimetres and kilograms. Enter the divisor shown by the route you are checking. There is no universal Hoobuy divisor. The result is a weight illustration, not a live price quote."],
-      ["Compare a packaging change with a worked example", "Example only: a 4 kg parcel measuring 40 × 30 × 30 cm has a volumetric weight of 6 kg when an illustrative divisor of 6,000 is used. At 40 × 30 × 20 cm, it becomes 4 kg. If the greater weight is billed, the comparison changes from 6 kg to 4 kg before rounding.", "This does not establish a particular route's divisor or promise a saving. Removing retail packaging can reduce space but also remove protection or an accessory you want to retain. Compare the packed result and protection level, not only an unboxed item weight."],
-      ["Keep the full budget separate from postage", "Track product cost, seller-to-warehouse shipping, optional inspection or packing services, international postage and any destination charges that apply. Check what the quoted route price includes before adding a cost again. Currency conversion and payment charges may also affect what you actually pay.", "Do not use an arbitrary low customs value to force the budget to fit. Follow current destination requirements and the account's declaration instructions. This guide does not provide a country-specific tax rate, a duty-free allowance or a guarantee against customs charges."],
-      ["Compare two quotes on the same basis", "Save each route name, quote time, destination, dimensions, weight, contents, included services and stated delivery estimate. If one quote uses unpacked item weights and the other uses a final carton, they are not a fair comparison.", "Repeat the estimate after packing changes and before paying. A delivery estimate is not a guaranteed arrival date. Keep the quote and parcel record together so a later adjustment can be understood against the inputs you actually submitted."]
+      [
+        "Collect the inputs before comparing routes",
+        "Record the destination country and postal area, item categories, packed weight, outer length, width and height, and the date of the quote. Packaging changes the inputs: a shoebox, protective padding or a large outer carton can affect the result even when the products stay the same.",
+        "Use the current account estimator and route conditions for availability. Check restrictions that apply to the actual contents, such as batteries or fragile items. An estimate is conditional; it is not proof that a route will accept the final parcel."
+      ],
+      [
+        "Understand actual and volumetric weight",
+        "Actual weight is the measured parcel weight. Volumetric weight converts occupied space into a weight using the route's divisor. If the route bills the greater of the two, compare them before applying that route's rounding rule, minimum charge or weight increments.",
+        "The calculator below demonstrates length × width × height ÷ divisor, with centimetres and kilograms. Enter the divisor shown by the route you are checking. There is no universal Hoobuy divisor. The result is a weight illustration, not a live price quote."
+      ],
+      [
+        "Compare a packaging change with a worked example",
+        "Example only: a 4 kg parcel measuring 40 × 30 × 30 cm has a volumetric weight of 6 kg when an illustrative divisor of 6,000 is used. At 40 × 30 × 20 cm, it becomes 4 kg. If the greater weight is billed, the comparison changes from 6 kg to 4 kg before rounding.",
+        "This does not establish a particular route's divisor or promise a saving. Removing retail packaging can reduce space but also remove protection or an accessory you want to retain. Compare the packed result and protection level, not only an unboxed item weight."
+      ],
+      [
+        "Keep the full budget separate from postage",
+        "Track product cost, seller-to-warehouse shipping, optional inspection or packing services, international postage and any destination charges that apply. Check what the quoted route price includes before adding a cost again. Currency conversion and payment charges may also affect what you actually pay.",
+        "Do not use an arbitrary low customs value to force the budget to fit. Follow current destination requirements and the account's declaration instructions. This guide does not provide a country-specific tax rate, a duty-free allowance or a guarantee against customs charges."
+      ],
+      [
+        "Compare two quotes on the same basis",
+        "Save each route name, quote time, destination, dimensions, weight, contents, included services and stated delivery estimate. If one quote uses unpacked item weights and the other uses a final carton, they are not a fair comparison.",
+        "Repeat the estimate after packing changes and before paying. A delivery estimate is not a guaranteed arrival date. Keep the quote and parcel record together so a later adjustment can be understood against the inputs you actually submitted."
+      ],
+      [
+        "Distinguish the deposit from the measured shipping charge",
+        "Keep the original estimate, the shipping payment record and the final packed measurements together. If the amount changes, compare weight, dimensions, selected services and billing increments before assuming the item price was changed. Ask support to identify the input responsible for an unexplained difference.",
+        "For Germany, the dedicated quote-comparison guide works through a fictional first-weight and additional-weight tariff. It explains why a small weight change can cross a billing increment without presenting invented prices as live rates. Use the current official estimator for actual prices and the route’s own divisor and rounding rules."
+      ]
     ]
   },
   "extra": {
@@ -40,23 +115,73 @@
     "description": "Choose useful Hoobuy extra QC photos with precise angle and measurement requests for print placement, size, damage and missing accessories.",
     "lead": "Request an extra QC photo only when it can resolve a specific uncertainty. More images of the same view do not necessarily make a warehouse decision easier.",
     "sections": [
-      ["Define the decision before requesting a photo", "Write one sentence describing the concern: the print may be off-centre, a seam may be open, the garment width is unknown, or an accessory may be missing. Then state what a satisfactory image would show. This makes the request easier to fulfil and easier to evaluate.", "Separate a visible problem from a missing view. If the order record says blue and the received label clearly identifies another variant, preserve that evidence and ask about a remedy. Another decorative overview may add nothing to the decision."],
-      ["Specify the angle and reference points", "For print alignment, ask for the item laid flat, without stretched fabric, photographed straight-on with the full outline visible. For stitching, request both a close view of the suspect area and enough surrounding material to locate it.", "For width or length, name both measurement endpoints. Ask for the ruler's zero and the endpoint to be visible in the same frame. For a missing accessory, request the full set of contents laid out together, rather than a close-up of the main item."],
-      ["Use a concise request template", "“Order [number], variant [size/colour]. Please photograph [specific area] from [angle]. Include [ruler/endpoints/full outline]. I need to determine [one question] before deciding whether to ship or request a remedy. Please confirm any charge before proceeding.”", "Remove any instruction that does not help answer the question. Keep personal or payment information out of public examples. Confirm the current extra-photo service, cost and available measurements in your own account; this guide does not advertise a fixed fee or free allowance."],
-      ["Read the new image against the original concern", "Compare the same landmarks in the old and new views. A flat photograph may resolve a perspective illusion; a close-up may instead show that an apparent mark was a shadow. Save both versions and describe what changed in the evidence.", "A photograph cannot reliably prove fibre composition, waterproofing, long-term strength or an exact colour on every screen. If the required property cannot be demonstrated visually, ask whether another form of evidence is available rather than treating a sharp image as proof."],
-      ["Stop once the next action is clear", "Mark the issue as resolved, still uncertain or a confirmed mismatch. For a resolved concern, continue to parcel review. For a confirmed mismatch, check the current return or exchange process and preserve the listing, selected variant and relevant photos.", "If the answer remains uncertain, weigh the importance of the issue and any applicable deadline before ordering another view. Do not allow a sequence of repetitive photo requests to consume a return window. Keep the decision and its supporting image in your tracker."]
+      [
+        "Define the decision before requesting a photo",
+        "Write one sentence describing the concern: the print may be off-centre, a seam may be open, the garment width is unknown, or an accessory may be missing. Then state what a satisfactory image would show. This makes the request easier to fulfil and easier to evaluate.",
+        "Separate a visible problem from a missing view. If the order record says blue and the received label clearly identifies another variant, preserve that evidence and ask about a remedy. Another decorative overview may add nothing to the decision."
+      ],
+      [
+        "Specify the angle and reference points",
+        "For print alignment, ask for the item laid flat, without stretched fabric, photographed straight-on with the full outline visible. For stitching, request both a close view of the suspect area and enough surrounding material to locate it.",
+        "For width or length, name both measurement endpoints. Ask for the ruler's zero and the endpoint to be visible in the same frame. For a missing accessory, request the full set of contents laid out together, rather than a close-up of the main item."
+      ],
+      [
+        "Use a concise request template",
+        "“Order [number], variant [size/colour]. Please photograph [specific area] from [angle]. Include [ruler/endpoints/full outline]. I need to determine [one question] before deciding whether to ship or request a remedy. Please confirm any charge before proceeding.”",
+        "Remove any instruction that does not help answer the question. Keep personal or payment information out of public examples. Confirm the current extra-photo service, cost and available measurements in your own account; this guide does not advertise a fixed fee or free allowance."
+      ],
+      [
+        "Read the new image against the original concern",
+        "Compare the same landmarks in the old and new views. A flat photograph may resolve a perspective illusion; a close-up may instead show that an apparent mark was a shadow. Save both versions and describe what changed in the evidence.",
+        "A photograph cannot reliably prove fibre composition, waterproofing, long-term strength or an exact colour on every screen. If the required property cannot be demonstrated visually, ask whether another form of evidence is available rather than treating a sharp image as proof."
+      ],
+      [
+        "Stop once the next action is clear",
+        "Mark the issue as resolved, still uncertain or a confirmed mismatch. For a resolved concern, continue to parcel review. For a confirmed mismatch, check the current return or exchange process and preserve the listing, selected variant and relevant photos.",
+        "If the answer remains uncertain, weigh the importance of the issue and any applicable deadline before ordering another view. Do not allow a sequence of repetitive photo requests to consume a return window. Keep the decision and its supporting image in your tracker."
+      ],
+      [
+        "Check the new evidence before requesting another view",
+        "Save the exact question beside the requested photo. If you asked for width, check that the ruler starts at the intended seam and finishes at the other seam in the same frame. If either endpoint is hidden, describe that specific omission in the follow-up instead of asking for more photos in general.",
+        "Review the order’s current remedy options while waiting. There is no universal deadline supplied by this guide. An extra photograph may answer a visual question but cannot guarantee fit, material composition or route eligibility. Once the evidence is sufficient, update the QC decision and proceed to the parcel checklist."
+      ]
     ]
   },
   "sheet": {
-    "title": "Hoobuy Spreadsheet: Free W2C and QC Tracking Template",
-    "description": "Download a Hoobuy spreadsheet template for product links, variants, QC decisions and parcel costs. Learn how to keep a useful W2C record.",
-    "lead": "A useful Hoobuy spreadsheet connects a product link to the exact variant you ordered and the evidence you reviewed. Download the blank CSV template below and import it into your preferred spreadsheet app.",
+    "title": "Hoobuy Spreadsheet: Product Links, QC Checks & Free Tracker",
+    "description": "Browse product routes and download a free Hoobuy spreadsheet tracker. Check seller links, selected variants, QC photos and parcel costs before ordering.",
+    "lead": "Start with a product route, verify the live seller listing, then keep the exact variant and your QC decision together. The free CSV below is a blank order tracker; use the product index for finds and the checklist for each purchase.",
     "sections": [
-      ["Create one row for each ordered variant", "Record the product name, original seller URL, listing ID, selected colour, size, quantity and owner. Separate two sizes into two rows even when they share a product page. A generic product name is not enough to distinguish variants or a seller who has changed a listing.", "The downloadable file is a blank tracking template, not a pre-verified product catalogue. Product-index links are starting points for research. Check the live seller listing and account price before ordering; a saved spreadsheet can become outdated."],
-      ["Separate references from your own QC evidence", "Use distinct columns for a public reference photo and your order's warehouse photos. Add the order number, photo date, concern and next action. A public image can suggest what to inspect, but it does not verify the specific item received for you.", "Use clear states such as awaiting photos, awaiting measurement, remedy requested and ready for parcel. Update the state only when the evidence changes. An empty cell should mean unknown, not automatically approved."],
-      ["Track costs without hiding unknowns", "Keep product cost, domestic shipping, optional services and the final parcel allocation in separate columns. Record the currency and label estimates. Do not mix currencies into a total without documenting the conversion used.", "For a shared haul, agree how postage will be divided before submission. Item weight, occupied space and a simple equal split produce different results. Preserve the agreed rule and final parcel receipt so every participant can understand the allocation."],
-      ["Review a row before moving it to the parcel", "Open the original listing and check seller, variant and quantity against the order. Review the warehouse photos, resolve missing measurements and note any applicable return deadline. Then mark the item ready and link it to the correct parcel record.", "If a seller substitutes an item or a replacement order is placed, keep the original row and record its outcome. Do not overwrite the history in a way that makes two orders appear to be one. This is particularly useful when a pending order later resumes."],
-      ["Share only what other shoppers need", "Create a separate public copy if you want to share product finds. Remove order numbers, names, addresses, support messages, payment references and private warehouse links. Check the spreadsheet's sharing permissions before distributing it.", "Keep your working copy current by recording the last check date. A useful spreadsheet shows what was verified, when it was checked and what remains unknown. It should not label a product “verified” solely because a link or a reference photo exists."]
+      [
+        "Create one row for each ordered variant",
+        "Record the product name, original seller URL, listing ID, selected colour, size, quantity and owner. Separate two sizes into two rows even when they share a product page. A generic product name is not enough to distinguish variants or a seller who has changed a listing.",
+        "The downloadable file is a blank tracking template, not a pre-verified product catalogue. Product-index links are starting points for research. Check the live seller listing and account price before ordering; a saved spreadsheet can become outdated."
+      ],
+      [
+        "Separate references from your own QC evidence",
+        "Use distinct columns for a public reference photo and your order's warehouse photos. Add the order number, photo date, concern and next action. A public image can suggest what to inspect, but it does not verify the specific item received for you.",
+        "Use clear states such as awaiting photos, awaiting measurement, remedy requested and ready for parcel. Update the state only when the evidence changes. An empty cell should mean unknown, not automatically approved."
+      ],
+      [
+        "Track costs without hiding unknowns",
+        "Keep product cost, domestic shipping, optional services and the final parcel allocation in separate columns. Record the currency and label estimates. Do not mix currencies into a total without documenting the conversion used.",
+        "For a shared haul, agree how postage will be divided before submission. Item weight, occupied space and a simple equal split produce different results. Preserve the agreed rule and final parcel receipt so every participant can understand the allocation."
+      ],
+      [
+        "Review a row before moving it to the parcel",
+        "Open the original listing and check seller, variant and quantity against the order. Review the warehouse photos, resolve missing measurements and note any applicable return deadline. Then mark the item ready and link it to the correct parcel record.",
+        "If a seller substitutes an item or a replacement order is placed, keep the original row and record its outcome. Do not overwrite the history in a way that makes two orders appear to be one. This is particularly useful when a pending order later resumes."
+      ],
+      [
+        "Share only what other shoppers need",
+        "Create a separate public copy if you want to share product finds. Remove order numbers, names, addresses, support messages, payment references and private warehouse links. Check the spreadsheet's sharing permissions before distributing it.",
+        "Keep your working copy current by recording the last check date. A useful spreadsheet shows what was verified, when it was checked and what remains unknown. It should not label a product “verified” solely because a link or a reference photo exists."
+      ],
+      [
+        "Keep broken links and uncertain costs visible",
+        "When a saved link fails, keep the original URL and mark the row with the observed problem: loading error, unavailable variant, changed listing or missing QC reference. Record the last check date and the replacement address separately. Do not erase the relationship between the ordered variant and the warehouse evidence.",
+        "Keep unknown shipping inputs blank and label provisional measurements. For a shared parcel, assign a person to resolve each open issue before submission. A complete row should make the next action clear, even when you do not yet know the final price or delivery date. Use the link-troubleshooting guide when a catalogue route changes."
+      ]
     ]
   },
   "shipping": {
@@ -64,11 +189,36 @@
     "description": "Review a Hoobuy parcel before shipping: resolve QC issues, confirm contents and packing, compare route inputs and save the final quote.",
     "lead": "Finish the item-level checks before making a parcel-level decision. A low shipping estimate is not a reason to include an unresolved wrong size, missing part or damaged item.",
     "sections": [
-      ["Give every item a clear status", "Check the order, selected variant, quantity and warehouse photographs. Separate ready items from those awaiting a measurement, a support response or a remedy. Review any applicable return deadline while the item remains at the warehouse.", "A shared parcel needs an owner for each unresolved decision. Keep one record of what is approved so a pending exchange or duplicate order is not accidentally included. Do not assume a checked size label confirms fit."],
-      ["Confirm the contents and protection", "List the exact items and accessories to retain. Specify whether retail boxes, dust bags or spare parts should remain. Fragile goods need appropriate protection; removing a box is not automatically a sensible saving.", "Review the packed dimensions and weight after your packaging choices are applied. Compare any available packing record with your instructions. If a measurement is still an estimate, keep it labelled as such rather than presenting it as a final parcel figure."],
-      ["Check route eligibility before price", "Use the destination and actual contents to review the route's current restrictions, weight and dimension limits, tracking coverage and stated delivery estimate. Check special characteristics such as batteries or liquids against the applicable conditions.", "Only compare quotes with the same destination, contents and packing assumptions. Use the shipping-cost guide to understand dimensional weight and separate optional services from postage. Neither this checklist nor a previous quote guarantees current route availability."],
-      ["Read the final parcel summary", "Compare the parcel's item list, recipient details, selected service and total with your saved plan. Follow the current declaration instructions and destination requirements. Confirm which charges are included and which remain outside the quote.", "If the account shows an adjustment, compare it with the final weight, dimensions or selected services. Ask for clarification before confirming an unexplained change. Keep private addresses and payment details out of public screenshots."],
-      ["Keep a record for tracking and follow-up", "Save the parcel identifier, submission date, selected route, packed measurements and payment record. Distinguish seller-to-warehouse tracking from the international parcel number and any subsequent local-carrier number.", "Check updates through the relevant account or carrier information. A period without a new scan does not by itself establish loss or a guaranteed delivery date. When asking for help, provide the parcel identifier and a short timeline through the appropriate private channel."]
+      [
+        "Give every item a clear status",
+        "Check the order, selected variant, quantity and warehouse photographs. Separate ready items from those awaiting a measurement, a support response or a remedy. Review any applicable return deadline while the item remains at the warehouse.",
+        "A shared parcel needs an owner for each unresolved decision. Keep one record of what is approved so a pending exchange or duplicate order is not accidentally included. Do not assume a checked size label confirms fit."
+      ],
+      [
+        "Confirm the contents and protection",
+        "List the exact items and accessories to retain. Specify whether retail boxes, dust bags or spare parts should remain. Fragile goods need appropriate protection; removing a box is not automatically a sensible saving.",
+        "Review the packed dimensions and weight after your packaging choices are applied. Compare any available packing record with your instructions. If a measurement is still an estimate, keep it labelled as such rather than presenting it as a final parcel figure."
+      ],
+      [
+        "Check route eligibility before price",
+        "Use the destination and actual contents to review the route's current restrictions, weight and dimension limits, tracking coverage and stated delivery estimate. Check special characteristics such as batteries or liquids against the applicable conditions.",
+        "Only compare quotes with the same destination, contents and packing assumptions. Use the shipping-cost guide to understand dimensional weight and separate optional services from postage. Neither this checklist nor a previous quote guarantees current route availability."
+      ],
+      [
+        "Read the final parcel summary",
+        "Compare the parcel's item list, recipient details, selected service and total with your saved plan. Follow the current declaration instructions and destination requirements. Confirm which charges are included and which remain outside the quote.",
+        "If the account shows an adjustment, compare it with the final weight, dimensions or selected services. Ask for clarification before confirming an unexplained change. Keep private addresses and payment details out of public screenshots."
+      ],
+      [
+        "Keep a record for tracking and follow-up",
+        "Save the parcel identifier, submission date, selected route, packed measurements and payment record. Distinguish seller-to-warehouse tracking from the international parcel number and any subsequent local-carrier number.",
+        "Check updates through the relevant account or carrier information. A period without a new scan does not by itself establish loss or a guaranteed delivery date. When asking for help, provide the parcel identifier and a short timeline through the appropriate private channel."
+      ],
+      [
+        "Make a final comparison before confirmation",
+        "Compare the final parcel record with the plan using four checks: the right items, appropriate protection, eligible route and understood total. If one check is unresolved, record what information is missing. A tracking number or a low price does not resolve a wrong variant or an unexplained extra charge.",
+        "After confirmation, add the actual carrier acceptance event to your timeline when available. Keep that separate from parcel submission and label creation. For Germany-bound parcels, use the destination-specific comparison guide; for progress questions, use the shipping-time guide. Both rely on your current account information and the actual contents of the parcel."
+      ]
     ]
   },
   "alignment": {
@@ -76,11 +226,177 @@
     "description": "Check Hoobuy QC print placement using a flat view, centre lines and repeatable reference points. Separate perspective distortion from a real mismatch.",
     "lead": "A print can look crooked because the item is folded, stretched or photographed at an angle. Start with a level view and stable reference points before deciding that placement is wrong.",
     "sections": [
-      ["Check the photograph before judging the product", "Look for rotated camera framing, a raised shoulder, uneven sleeves and folds through the print. Those features can move the apparent centre without changing the actual placement. Compare the complete silhouette instead of judging a tight crop in isolation.", "If the view is unsuitable, request a straight-on image of the item laid flat with the full outline visible. Keep the fabric relaxed. Pulling one side to make the item look neat can introduce a different distortion."],
-      ["Choose repeatable reference points", "For a front print, compare its centre with the garment's structural centre using the neckline, central closure or matching side seams where appropriate. Check the same landmarks in the seller's listing. Some designs are intentionally offset or asymmetric.", "Do not assume that the centre of the photograph is the centre of the garment. For paired items, place them in comparable positions and compare corresponding edges, panels and labels. A different camera angle can make one item appear wider or longer."],
-      ["Measure only what the image supports", "If placement matters, request a ruler between explicitly named points, such as a seam and the edge of a print. The ruler's zero, endpoint and measured surface should be visible. A ruler lying above a folded surface does not provide a reliable flat measurement.", "Avoid inventing a millimetre tolerance that the seller never specified. Compare with the actual listing, selected variant and any stated measurements. An image without a trustworthy scale can support a visual observation but not an exact dimensional claim."],
-      ["Write a factual concern with a useful image", "Describe the visible relationship: “In the flat view, the print centre appears left of the neckline centre.” Attach the whole-item view and a relevant detail, then ask for a confirming angle or measurement. This is more actionable than describing the entire item as bad.", "Keep the listing screenshot and order variant alongside the warehouse image. If the design is meant to be asymmetric, document that before treating it as a defect. Photos alone do not authenticate a product or prove production specifications that are not documented."],
-      ["Choose the next action from the evidence", "If the new view resolves the apparent offset, record why and continue checking the rest of the item. If a clear mismatch remains, review the current return or exchange options before shipping. If evidence is still weak, decide whether one specific additional view would help.", "Keep the original images and final decision together. Do not submit a parcel simply because a return deadline is approaching; first establish the available options in the account. Use the extra-photo guide for a precise request and the parcel checklist when the item is ready."]
+      [
+        "Check the photograph before judging the product",
+        "Look for rotated camera framing, a raised shoulder, uneven sleeves and folds through the print. Those features can move the apparent centre without changing the actual placement. Compare the complete silhouette instead of judging a tight crop in isolation.",
+        "If the view is unsuitable, request a straight-on image of the item laid flat with the full outline visible. Keep the fabric relaxed. Pulling one side to make the item look neat can introduce a different distortion."
+      ],
+      [
+        "Choose repeatable reference points",
+        "For a front print, compare its centre with the garment's structural centre using the neckline, central closure or matching side seams where appropriate. Check the same landmarks in the seller's listing. Some designs are intentionally offset or asymmetric.",
+        "Do not assume that the centre of the photograph is the centre of the garment. For paired items, place them in comparable positions and compare corresponding edges, panels and labels. A different camera angle can make one item appear wider or longer."
+      ],
+      [
+        "Measure only what the image supports",
+        "If placement matters, request a ruler between explicitly named points, such as a seam and the edge of a print. The ruler's zero, endpoint and measured surface should be visible. A ruler lying above a folded surface does not provide a reliable flat measurement.",
+        "Avoid inventing a millimetre tolerance that the seller never specified. Compare with the actual listing, selected variant and any stated measurements. An image without a trustworthy scale can support a visual observation but not an exact dimensional claim."
+      ],
+      [
+        "Write a factual concern with a useful image",
+        "Describe the visible relationship: “In the flat view, the print centre appears left of the neckline centre.” Attach the whole-item view and a relevant detail, then ask for a confirming angle or measurement. This is more actionable than describing the entire item as bad.",
+        "Keep the listing screenshot and order variant alongside the warehouse image. If the design is meant to be asymmetric, document that before treating it as a defect. Photos alone do not authenticate a product or prove production specifications that are not documented."
+      ],
+      [
+        "Choose the next action from the evidence",
+        "If the new view resolves the apparent offset, record why and continue checking the rest of the item. If a clear mismatch remains, review the current return or exchange options before shipping. If evidence is still weak, decide whether one specific additional view would help.",
+        "Keep the original images and final decision together. Do not submit a parcel simply because a return deadline is approaching; first establish the available options in the account. Use the extra-photo guide for a precise request and the parcel checklist when the item is ready."
+      ],
+      [
+        "Keep visual observations separate from purchase decisions",
+        "A flat photo can resolve perspective without proving that every other aspect of an item is correct. After checking placement, return to the selected size, colour, quantity and accessories. Save the confirming image with its date so a later support conversation refers to the same evidence.",
+        "If the seller listing has changed, retain the original order specification and screenshot when available. Do not use a different current design as the comparison standard for the item already received. The product-link troubleshooting guide explains how to record a changed listing without overwriting your purchase history."
+      ]
+    ]
+  },
+  "time": {
+    "title": "Hoobuy Shipping Time: Order Stages, Tracking and Delays",
+    "description": "Understand Hoobuy shipping time from seller dispatch to delivery. Check warehouse progress, tracking gaps and the evidence to send support.",
+    "lead": "Hoobuy shipping time has several separate stages. A route estimate normally concerns the international parcel; it does not tell you how long purchasing, seller delivery, warehouse inspection or packing will take. Start with the last confirmed event on your own order.",
+    "sections": [
+      [
+        "Which delivery clock are you looking at?",
+        "Before comparing delivery stories, write down the start and end events. One shopper may count from payment, another from warehouse dispatch, and a third from the first carrier scan. Those are different measurements. Your useful timeline is purchase confirmation, seller dispatch, warehouse receipt, QC availability, parcel submission, carrier acceptance and delivery. Leave a missing event blank instead of filling it with an assumed date. Record the timezone when comparing an account update with a carrier update from another country.",
+        "The official beginner guide separates inspection and storage from parcel submission, payment of the shipping deposit, packing and delivery. That separation matters when you have a deadline. If your item is still awaiting purchase, an international shipping estimate is not yet a countdown for that item. This guide gives you a method for diagnosing progress; it does not promise a universal number of days or imply that choosing a faster international line makes the earlier stages instantaneous."
+      ],
+      [
+        "Before warehouse arrival: confirm purchase and seller dispatch",
+        "Open the item order and compare the payment record with the latest status and messages. Confirm the selected size and colour. If the order asks for a decision or a balance adjustment, resolve that specific request through your account. If purchase is complete, look for seller dispatch information and the domestic tracking record. Keep this tracking number separate from any later international parcel number. A seller creating a label is different from a carrier recording possession of the item.",
+        "When there is no dispatch evidence, ask whether the selected variant is available and whether the seller has supplied an expected dispatch date. Do not place the same order again merely because the page appears unchanged. First establish whether the original can still be fulfilled or cancelled. A replacement can create two purchases if the first resumes. If several items will travel together, identify which item is actually holding up the group and keep its decision separate from items that are already ready."
+      ],
+      [
+        "Received does not mean QC is complete",
+        "After domestic delivery, check the warehouse item record and inspection section. A delivery scan, warehouse intake and available QC images are separate evidence. Match the warehouse record with your order identifier, quantity and variant. If photographs are absent, ask which step remains: matching the parcel to the order, recording the item, inspection or uploading images. There is no useful shortcut in refreshing a public QC finder for private photographs that have not yet been created.",
+        "Use this stage to complete an inspection once, in a clear order. Check identity and accessories, overall condition, then measurements or details that affect your decision. If one missing image matters, request that view with clear endpoints or framing. Check any applicable return deadline while waiting for evidence. Shipping an unresolved wrong size to meet an arbitrary dispatch target can make the eventual remedy more complicated. A successful QC check is permission to consider packing, not proof that the international parcel has departed."
+      ],
+      [
+        "Submitted, packed and accepted by the carrier are different events",
+        "When you submit a parcel, save its identifier, selected items, route and quote. Check that payment or any confirmation request is complete. Packing instructions can affect both preparation and final dimensions. Read the final parcel record rather than assuming that a submitted request immediately creates carrier movement. The official guide describes packing and dispatch after the shipping payment step. A tracking number appearing in the account is useful evidence, but it should be read together with the first physical carrier event.",
+        "If tracking says information received or label created, record that wording accurately. Do not rewrite it as departed. If your account and carrier disagree, keep both timestamps and ask support whether the parcel has been handed over and whether another tracking number is expected. Where a later local carrier is involved, save that reference separately. Some route stages are less visible than others, so an absence of public scans needs investigation in context rather than an automatic conclusion that the parcel is lost."
+      ],
+      [
+        "Read a delivery estimate with its conditions",
+        "Save the route estimate shown when you compare options, including the date, destination and any stated definition of working days or starting event. Check whether the estimate covers the whole journey or only a particular transport stage. An estimate can change with the destination, parcel characteristics and service selected. Use the current account information for those details. Do not treat an old screenshot, an influencer haul or another customer’s successful delivery as a guarantee for your parcel.",
+        "For a time-sensitive purchase, separate the documented estimate from your own contingency allowance. For example, you can keep three columns in your tracker: confirmed event, provider estimate and personal deadline. This is a planning format, not a prediction model. If one stage is unconfirmed, write unknown. If the order cannot tolerate uncertainty, reconsider it before adding another item or paying for an international service. A shipping choice should fit the contents and destination as well as the calendar."
+      ],
+      [
+        "What to do when tracking stops updating",
+        "First verify that you are checking the current parcel number on the relevant account or carrier page. Compare the last event, its location and timestamp. Check for a request directed to you, such as an address correction, delivery appointment or supporting document. Verify any request through the official account or carrier website before providing information or paying. A message that mentions your parcel is not enough to establish that its sender is the carrier.",
+        "If there is no requested action, compare the silence with the route’s current guidance and support or claim conditions. Do not invent a fixed number of days after which every parcel becomes lost. Ask who currently holds the parcel, what event is expected next, whether an investigation can be opened and what deadline applies. Retain the reply with your timeline. A tracking gap is a symptom; it does not independently identify a customs problem, a lost item or a particular delivery date."
+      ],
+      [
+        "Send a support request with a usable timeline",
+        "A useful private request reads: Parcel [identifier], submitted [date], route [name], last confirmed event [exact wording and date]. The account shows [status], while the carrier shows [status]. Please confirm whether I need to act, which party currently has the parcel, and the next available investigation step. Attach only the relevant screenshots. For a pre-warehouse issue, use the item order number instead of presenting it as an international parcel problem.",
+        "Keep payment details, addresses and private order identifiers out of public discussions. Save the response and follow up in the same support thread when possible. If you are given a specific action or follow-up date, add it to your tracker. If you request cancellation, a return or compensation, ask about the current eligibility and process rather than assuming one remedy applies to every stage. A refund request and a completed refund are separate events and should be recorded separately."
+      ],
+      [
+        "Use the timeline to improve the next order",
+        "After delivery, compare the actual timestamps for each stage with your original plan. Keep purchasing time separate from international transit time. If one seller delayed a consolidated parcel, that is a different lesson from a packing delay or a last-mile delivery problem. Note which measurements, screenshots and support answers were actually useful. This produces a more reliable personal record than a single statement that the whole order took a certain number of days.",
+        "Before your next parcel, confirm all QC decisions, save the final packed measurements and compare route conditions using those same inputs. Use the shipping-cost guide for actual and volumetric weight and the spreadsheet guide for a structured record. Continue to check live conditions each time: your own history can help you ask better questions, but it does not set the terms or delivery promise for a new purchase."
+      ]
+    ]
+  },
+  "broken": {
+    "title": "Hoobuy Links Not Working? Check the Listing, Variant and QC",
+    "description": "Troubleshoot a Hoobuy product or spreadsheet link: separate loading errors, sold-out variants, changed listings and missing QC before ordering.",
+    "lead": "A Hoobuy link that will not load is not automatically a sold-out product. First identify what failed: the saved link, the original listing, the chosen variant or the QC reference. Keep the original product identity intact while you investigate.",
+    "sections": [
+      [
+        "Save the link and describe the failure",
+        "Copy the complete address from your spreadsheet or product card and record the date of the check. Note whether you see an error page, a sign-in request, an empty product, unavailable options, a different item or simply a page that continues loading. These symptoms lead to different checks. Save a screenshot of the visible result, but keep the address as text as well: an image alone may hide the product identifier or the final destination after a redirect.",
+        "Keep the original seller URL, listing identifier and Hoobuy URL in separate fields if you have them. Preserve the expected product name, seller, size and colour from your own record. Do not overwrite the old row with a visually similar item while investigating. A spreadsheet link is a route to a listing, not an enduring promise that its contents, variants, price or availability will remain unchanged. The objective is to establish what is still verifiable before you pay."
+      ],
+      [
+        "Check a copied address without changing the product identity",
+        "Look for spaces, line breaks, missing characters or punctuation accidentally included when the link was copied from a message. Open the address in a normal browser tab and compare the final visible address with the saved one. If the spreadsheet uses a shortened link, record where it actually leads. Avoid guessing a new identifier or replacing numbers in the path. A plausible-looking address can load successfully while pointing to an entirely different product.",
+        "If you still have the original marketplace listing, use that original link in the official Hoobuy product search. Follow the current search flow on the official site rather than constructing a new agent URL from memory. Check that the result matches the seller and listing you intended. A successful page load resolves only the loading question; it does not yet verify the correct variant, current price, return conditions or suitability for the destination you plan to ship to."
+      ],
+      [
+        "Separate browser problems from listing problems",
+        "A sign-in screen, a temporary network failure and a product marked unavailable are not equivalent. Check whether the official homepage and another known product page load in the same browser. If the whole service fails, record the error and try again later instead of immediately marking every spreadsheet entry as removed. If only one item fails, preserve that distinction. Where a login is required, use the official site and your existing account flow.",
+        "Do not install an unknown extension or enter credentials into a copycat page to unlock a link. If your browser shows a security warning, verify the destination before continuing. A seller or spreadsheet maintainer may be able to provide the current listing address, but their reply still needs to be checked against the expected product. If the page cannot be verified, mark the record unresolved. Unknown is a useful state; inventing a replacement link is not a repair."
+      ],
+      [
+        "Check the exact size and colour before calling it available",
+        "A product page can remain online when one selected variant is unavailable. Open the size, colour, model and quantity choices and compare them with your saved row. Read the displayed price for the actual combination you intend to buy. A starting price, a placeholder value or a price shown before options are selected may not describe that combination. Do not treat a page that opens as proof that the agent can purchase the item for you.",
+        "If the account reports a stock issue after purchase submission, retain the original selection and ask what options are currently available. A substitute requires a new decision: a different size or colour is not the same order merely because it sits on the same listing. Check the current cancellation or refund options before buying an alternative. Keep any first order visible in the tracker until its outcome is confirmed, so a delayed order does not silently become a duplicate."
+      ],
+      [
+        "A changed product page needs a fresh comparison",
+        "Compare the seller, product identifier, title, photographs, specifications and available variants. Some changes may be harmless edits; others can mean the record no longer describes the item you saved. A familiar picture is insufficient evidence of identical construction or sizing. If the original seller provides a new link, record both addresses and the date, then review the new listing as a separate candidate until the relevant details have been checked.",
+        "For example, a saved medium black sweatshirt may lead to a page that now offers a different size chart. Keep the earlier reference for your history, but use the current chart to decide whether the new candidate fits. Do not automatically carry forward a ready-to-buy status, a prior QC approval or a cost estimate. Product evidence belongs to the listing and variant it actually describes; a link replacement should not erase that relationship."
+      ],
+      [
+        "Missing public QC does not diagnose a broken listing",
+        "A public QC service may have no result for the identifier or may not recognise the particular form of link you supplied. That tells you about the reference available through that service. It does not establish that the seller has no stock, that your own order has failed inspection, or that the item is safe to buy. Check the service’s supported input and, where appropriate, use the original listing identifier without guessing a different product.",
+        "For an order you have already placed, check the private warehouse record in your Hoobuy account. Public reference photographs and your order photographs answer different questions. Match the actual received size, colour and quantity before evaluating condition. A public image from another buyer may help identify useful inspection angles, but it cannot substitute for evidence of the unit being shipped to you. Keep reference and order-photo links in separate spreadsheet columns."
+      ],
+      [
+        "Build a useful report for support or a spreadsheet maintainer",
+        "Record the source page, original link, final destination, expected item and exact mismatch. Add the check date and a short status such as loading error, variant unavailable, changed listing or QC reference missing. If the issue concerns a paid order, include the order identifier only through the private account support channel. Ask a specific question: Is this variant purchasable, does the listing still match this product, or is a corrected original address available?",
+        "If you share a public copy of the report, remove account identifiers, private warehouse images, payment records and any address. A maintainer needs enough information to reproduce the broken route, not access to your account. When a corrected address is supplied, retest it and update the recorded check date. Distinguish link repaired from product checked. Repairing navigation does not independently validate quality, seller reliability, shipping eligibility or return rights."
+      ],
+      [
+        "Decide whether to keep, replace or pause the row",
+        "Keep the candidate when the original identity and required variant can be verified. Replace it only after a new listing has been compared on product details, size, price, available evidence and purchase conditions. Pause it when key information remains missing. For a group order, identify the person responsible for that decision and do not include an unresolved substitute in the parcel list. This prevents a spreadsheet maintenance task from becoming an accidental purchasing instruction.",
+        "Before payment, repeat the final checks in the live account: chosen variant, quantity, item charge, domestic shipping and any displayed restrictions. After warehouse receipt, review your own QC photos. Before international shipping, check the packed measurements and route conditions. These are separate decisions. Keeping them separate makes a Hoobuy spreadsheet useful even when a link changes, and gives you a clear record of what was verified at each point."
+      ]
+    ]
+  },
+  "germany": {
+    "title": "Hoobuy Shipping Cost to Germany: Compare Parcel Quotes",
+    "description": "Plan Hoobuy shipping to Germany using packed weight, dimensions and route conditions. Work through a sample quote comparison without invented live rates.",
+    "lead": "There is no single Hoobuy shipping price to Germany that applies to every parcel. Use Germany as the destination, then compare eligible routes with the same contents, packed weight and outer dimensions. A lightweight but bulky box may cost more than its scale weight suggests.",
+    "sections": [
+      [
+        "Start with a parcel specification, not a price screenshot",
+        "Prepare a record containing Germany as the destination, the delivery area requested by the estimator, each item category, the actual packed weight and the outer length, width and height in centimetres. Add the quote date and the packing assumptions. If the items have not been packed, label the measurements provisional. A screenshot from another shopper is not comparable unless you know the relevant inputs and the quote conditions that produced it.",
+        "The official Hoobuy estimator accepts a destination, weight, item category and dimensions. Use the live estimator to see the routes available for your current inputs. Then read each route’s terms before comparing price. This guide does not publish a live Germany tariff, a guaranteed delivery time or a list of routes that will always be available. Its purpose is to help you interpret a current quote and avoid comparing parcels or services that are materially different."
+      ],
+      [
+        "Resolve QC and the parcel contents before choosing a route",
+        "Check the selected variants, quantity, accessories and any open QC concerns before final packing. A missing measurement or pending exchange can change what will actually travel. If you remove an item, request a substitute or retain a retail box, revisit the shipping inputs. Keep an explicit list of what should stay in the parcel, including dust bags, spare parts and protective packaging. A cheaper estimate based on incomplete contents is not a saving you can rely on.",
+        "Route eligibility comes before price. Review the current acceptance conditions for your actual item types and characteristics, especially where a parcel contains batteries, liquids or fragile goods. Do not assume that a route used for ordinary clothing also accepts every accessory. If a restriction is unclear, ask the service about the specific contents through the official channel. Never disguise the item category to make a cheaper route appear available in the calculator."
+      ],
+      [
+        "Compare actual weight with volumetric weight",
+        "Actual weight is the mass measured for the parcel. Volumetric weight represents the space the box occupies. Calculate length × width × height ÷ the applicable divisor, keeping the units consistent. Then read the route rule to find whether the higher weight is charged and how rounding, minimum weight or additional increments work. The divisor and billing rules belong to the selected route; an example in a general guide does not override those conditions.",
+        "Worked example only: suppose the packed box weighs 4 kg and measures 40 × 30 × 30 cm. With an illustrative divisor of 6,000, its volumetric weight is 6 kg. Reducing the last dimension to 20 cm gives 4 kg. Under an illustrative higher-of-the-two rule, the starting billable comparison becomes 6 kg versus 4 kg, before rounding. These numbers are a transparent calculation, not a quote or confirmation of a particular Germany route."
+      ],
+      [
+        "Use a fictional tariff to understand the calculation",
+        "Suppose a fictional service charges 50 CNY for the first 0.5 kg and 12 CNY for each additional started 0.5 kg. At 4 kg, the calculation is 50 + 7 × 12 = 134 CNY. At 6 kg, it is 50 + 11 × 12 = 182 CNY. A weight of 4.01 kg would move into the next increment in this example, making 50 + 8 × 12 = 146 CNY. These invented figures explain increments; they are not Hoobuy prices.",
+        "When you read a real quote, replace every fictional input with the route’s current first-weight charge, increment, additional charge and rounding rule. Check any surcharges or minimums separately. Do not assume a two-kilogram reduction always produces a proportional reduction in cost. A route priced in increments, a minimum charge or a change in service eligibility can alter the result. Save the actual quote instead of using this example as a budget commitment."
+      ],
+      [
+        "Compare packing options without sacrificing necessary protection",
+        "Ask what changes are practical for the specific items: folding soft clothing, removing an unwanted retail box or retaining protection for fragile components have different consequences. Compare the resulting outer measurements and protection level. A shoe box may occupy substantial space, but removing it may also remove packaging you want to keep. Do not compress rigid or delicate goods merely to achieve a lower calculated volumetric weight. Record the instructions and check the final packing record where available.",
+        "If considering two parcels instead of one, quote both complete parcels with their own packaging, minimum charges and services, then add the results. Two smaller parcels do not automatically cost less than one larger parcel. Also check whether splitting changes eligibility or tracking arrangements. For a shared order, agree how costs will be allocated before payment; dividing by item count produces a different outcome from dividing by actual weight or occupied space."
+      ],
+      [
+        "Separate international postage from the full purchase budget",
+        "Maintain separate entries for the products, seller-to-warehouse shipping, optional photo or packing services, international postage and payment or currency-conversion charges that actually apply. Read what is included in the selected quote so you do not add an included service twice. A domestic shipping label on a product page does not establish the international price to Germany. Similarly, a shipping deposit and a final measured charge can be different records.",
+        "For destination taxes, import requirements or carrier handling charges, consult the current official German customs guidance and the selected service’s terms. This article does not calculate tax, promise a tax-free threshold or treat a route name as proof that every destination charge is included. Keep documentation of the purchase and follow the applicable declaration requirements. If the scope of a quoted included charge is unclear, ask before payment rather than inserting a guessed amount into your budget."
+      ],
+      [
+        "Compare quotes in a consistent decision table",
+        "For each candidate route, record quote time, destination, contents, actual weight, dimensions, divisor if relevant, chargeable weight, rounding, price, included services, tracking and the stated delivery estimate. Keep optional protection or insurance choices consistent across the comparison. If the account does not expose a value, write not stated and ask where it matters. Avoid making an apparently precise comparison by filling missing terms with assumptions taken from a different route.",
+        "Price is one column in the decision. Check whether the tracking coverage and delivery estimate fit your needs and whether the service accepts the contents. Read any compensation terms before assuming a lost or damaged parcel would be fully reimbursed. An estimated transit interval is not the same as a guaranteed arrival date. Use the shipping-time guide to separate purchasing, warehouse and carrier stages when deciding whether the overall plan fits your deadline."
+      ],
+      [
+        "Verify the final amount and keep the evidence",
+        "Before confirming shipment, compare the final item list, recipient details, packed measurements, selected route and total with the saved quote. If the price changed, check whether the dimensions, weight, rounding or optional services changed. The official beginner guide explains that final shipping charges depend on verified parcel measurements. Ask for clarification where a difference is not explained by the record, and keep the estimate and final payment as separate entries in the tracker.",
+        "After dispatch, preserve the parcel identifier, tracking references, payment record and relevant support answers privately. If you later compare your Germany shipment with another purchase, use the same start and end events and record any differences in contents and packaging. The most useful budget is a reproducible record of the inputs and terms you accepted. Update those inputs for every new parcel rather than reusing an old Germany price as if it were a permanent rate."
+      ]
     ]
   }
 }

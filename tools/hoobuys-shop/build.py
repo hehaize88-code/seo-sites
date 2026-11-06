@@ -14,8 +14,8 @@ import xml.etree.ElementTree as ET
 HERE = Path(__file__).resolve().parent
 SITE = HERE.parents[1] / 'hoobuys-shop'
 DATA = HERE / 'content'
-DATE = '2026-10-13'
-VERSION = '20261013-seo-v1'
+DATE = '2026-11-06'
+VERSION = '20261106-seo-v2'
 HOST = 'https://hoobuys.shop'
 LANGS = {'en':'English', 'zh-CN':'简体中文', 'de':'Deutsch', 'fr':'Français', 'es':'Español', 'it':'Italiano', 'pl':'Polski', 'nl':'Nederlands', 'pt':'Português'}
 SLUGS = {
@@ -26,8 +26,21 @@ SLUGS = {
     'sheet':'hoobuy-spreadsheet-guide',
     'shipping':'shipping-guide',
     'alignment':'hoobuy-alignment-symmetry-print-placement-qc-2026',
+    'time':'hoobuy-shipping-time-tracking-guide',
+    'broken':'hoobuy-links-not-working',
+    'germany':'hoobuy-shipping-cost-germany',
 }
-PUBLISHED = {'alignment':'2026-08-14', 'extra':'2026-09-12'}
+PUBLISHED = {'alignment':'2026-08-14', 'extra':'2026-09-12',
+             'qc':'2026-10-13', 'pending':'2026-10-13', 'cost':'2026-10-13'}
+RELATED = {
+ 'qc':['extra','broken','shipping'], 'pending':['time','broken','qc'],
+ 'cost':['germany','shipping','time'], 'extra':['alignment','qc','shipping'],
+ 'sheet':['broken','qc','cost'], 'shipping':['time','germany','qc'],
+ 'alignment':['extra','qc','broken'], 'time':['pending','shipping','germany'],
+ 'broken':['sheet','qc','pending'], 'germany':['cost','time','shipping']}
+REFERENCES = ['https://hoobuy.com/beginner-guide?stepKey=Custom1',
+              'https://hoobuy.com/estimation', 'https://hoobuy.com/m/help-center',
+              'https://www.help.zoll-portal.de/EN/Help/Services/customs-declaration-for-postal-consignments/customs-declaration-for-postal-consignments.html']
 UI = json.loads((DATA / 'ui.json').read_text())
 ARTICLES = {lang:json.loads((DATA / f'{lang}.json').read_text()) for lang in LANGS}
 PRODUCT_IDS = ['5974','6037','5976','5983','5975','6045','5970','5919','5822','5931']
@@ -54,6 +67,7 @@ def header(lang, slug):
     u = UI[lang]
     routes = ['', 'guides', 'products', SLUGS['sheet'], SLUGS['shipping'], 'faq']
     nav = ''.join(f'<a href="{path(lang,p)}"{(" aria-current=\"page\"" if p == slug else "")}>{E(label)}</a>' for p,label in zip(routes,u['nav']))
+    nav += f'<a href="{path(lang,SLUGS["qc"])}">{E(u["qcNav"])}</a>'
     return f'''<header class="top site-header"><div class="wrap bar"><a class="site-brand" href="{path(lang)}" aria-label="{E(u['nav'][0])}"><img class="site-logo" src="/assets/hoobuy-logo-20261012.png" width="225" height="60" alt="Hoobuy" decoding="async"></a>{language_menu(lang,slug)}<button class="menu" id="menuBtn" type="button" aria-controls="nav" aria-expanded="false" aria-label="{E(u['menu'])}">☰</button><nav class="nav" id="nav" aria-label="{E(u['menu'])}">{nav}<a class="hot" href="https://cnfanssp.com/AllProducts/">{E(u['open'])}</a></nav></div></header>'''
 
 def shell(lang, slug, title, description, content, schema=None, article=False):
@@ -115,10 +129,15 @@ def build_articles(lang):
         slug = SLUGS[key]
         toc = ''.join(f'<a href="#step-{i}">{E(s[0])}</a>' for i,s in enumerate(a['sections'],1))
         sections = ''.join(f'<details class="reading-section" open><summary><h2 id="step-{i}">{E(s[0])}</h2></summary><div class="reading-content">'+''.join(f'<p>{E(p)}</p>' for p in s[1:])+'</div></details>' for i,s in enumerate(a['sections'],1))
-        tools = tracker(lang) if key == 'sheet' else calculator(lang) if key == 'cost' else diagram(lang) if key == 'alignment' else ''
-        related_keys = {'qc':['extra','alignment','sheet'],'pending':['sheet','qc','shipping'],'cost':['shipping','sheet','qc'],'extra':['alignment','qc','shipping'],'sheet':['pending','qc','cost'],'shipping':['qc','extra','cost'],'alignment':['extra','qc','shipping']}[key]
+        tools = tracker(lang) if key == 'sheet' else calculator(lang) if key in {'cost','germany'} else diagram(lang) if key == 'alignment' else ''
+        if key == 'sheet':
+            tools += f'<p><a class="text-link" href="{path(lang,"products")}">{E(u["productsTitle"])}</a></p>'
+        related_keys = RELATED[key]
         body = f'<main class="wrap article"><nav class="crumb" aria-label="{E(u["nav"][1])}"><a href="{path(lang)}">{E(u["nav"][0])}</a> / <a href="{path(lang,"guides")}">{E(u["nav"][1])}</a></nav><article><header class="article-head"><p class="meta">{E(u["updated"])} <time datetime="{DATE}">{DATE}</time> · Hoobuys Shop</p><h1>{E(a["title"])}</h1><p class="lede">{E(a["lead"])}</p></header>{tools}<div class="reading-tools"><details class="reading-toc"><summary>{E(u["toc"])}</summary><nav>{toc}</nav></details><button type="button" class="reading-toggle" data-expand="{E(u["expand"])}" data-collapse="{E(u["collapse"])}">{E(u["expand"])}</button></div>{sections}<p class="source">{E(u["sourceNote"])}</p></article><section><h2>{E(u["related"])}</h2><div class="grid3">'+''.join(card(lang,r) for r in related_keys)+f'</div></section><aside class="note">{E(u["notice"])}</aside></main>'
-        schema = {'@context':'https://schema.org','@type':'Article','headline':a['title'],'description':a['description'],'mainEntityOfPage':url(lang,slug),'url':url(lang,slug),'inLanguage':lang,'dateModified':DATE,'datePublished':PUBLISHED.get(key,DATE) if lang == 'en' else DATE,'author':{'@type':'Organization','name':'Hoobuys Shop','url':HOST+'/'},'publisher':{'@type':'Organization','name':'Hoobuys Shop','logo':{'@type':'ImageObject','url':HOST+'/assets/hoobuy-logo-20261012.png'}}}
+        reference_count = 4 if key == 'germany' else 3
+        references = '<section class="official-sources"><h2>'+E(u['sourcesTitle'])+'</h2><ul>'+''.join(f'<li><a href="{E(address,quote=True)}">{E(label)}</a></li>' for address,label in zip(REFERENCES[:reference_count],u['sourceLabels']))+'</ul></section>'
+        body = body.replace('</article><section>',references+'</article><section>',1)
+        schema = {'@context':'https://schema.org','@type':'Article','headline':a['title'],'description':a['description'],'mainEntityOfPage':url(lang,slug),'url':url(lang,slug),'inLanguage':lang,'dateModified':DATE,'datePublished':PUBLISHED.get(key,DATE) if lang == 'en' else ('2026-10-13' if key not in {'time','broken','germany'} else DATE),'author':{'@type':'Organization','name':'Hoobuys Shop','url':HOST+'/'},'publisher':{'@type':'Organization','name':'Hoobuys Shop','logo':{'@type':'ImageObject','url':HOST+'/assets/hoobuy-logo-20261012.png'}}}
         if lang == 'en' and key in {'sheet','shipping'}: schema.pop('datePublished')
         write(lang,slug,shell(lang,slug,a['title'],a['description'],body,schema,True))
 
@@ -135,6 +154,8 @@ def get_archive():
 def build_hubs(lang,archive):
     u = UI[lang]
     home = f'<main class="wrap"><section class="hero"><p class="eyebrow">HOOBUYS SHOP · QC / W2C / SHIPPING</p><h1>{E(u["homeTitle"])}</h1><p>{E(u["homeLead"])}</p>{search(lang)}</section><section><h2>{E(u["latest"])}</h2><div class="grid2">'+''.join(card(lang,k) for k in ['qc','pending','cost','extra'])+f'</div><a class="text-link" href="{path(lang,"guides")}">{E(u["all"])} →</a></section>'+categories(lang)+products(lang)+faq(lang)+f'<aside class="note">{E(u["notice"])}</aside></main>'
+    new_guides = '<section><h2>'+E(u['newGuides'])+'</h2><div class="grid3">'+''.join(card(lang,k) for k in ['time','broken','germany'])+'</div></section>'
+    home = home.replace('</section><section>', '</section>'+new_guides+'<section>',1)
     write(lang,'',shell(lang,'',u['homeTitle'],u['homeLead'],home,{'@context':'https://schema.org','@type':'WebSite','name':'Hoobuys Shop','url':url(lang),'inLanguage':lang}))
     archive_links = ''.join(f'<li><a href="/{a["slug"]}" lang="{a["lang"]}">{E(a["title"])}</a><span class="archive-lang">{E(a["lang"])}</span></li>' for a in archive)
     guides = f'<main class="wrap"><section class="hero"><h1>{E(u["guidesTitle"])}</h1><p>{E(u["homeLead"])}</p></section><section><div class="guide-list">'+''.join(card(lang,k) for k in SLUGS)+f'</div></section><section><details class="archive"><summary>{E(u["archive"])} ({len(archive)})</summary><p>{E(u["archiveNote"])}</p><ul>{archive_links}</ul></details></section><aside class="note">{E(u["notice"])}</aside></main>'
@@ -144,7 +165,8 @@ def build_hubs(lang,archive):
     write(lang,'guides',shell(lang,'guides',u['guidesTitle'],u['homeLead'],guides,schema))
     product_body = f'<main class="wrap"><section class="hero"><h1>{E(u["productsTitle"])}</h1><p>{E(u["notice"])}</p>{search(lang)}</section>'+categories(lang)+products(lang)+'</main>'
     write(lang,'products',shell(lang,'products',u['productsTitle'],u['notice'],product_body))
-    write(lang,'faq',shell(lang,'faq',u['faqTitle']+' | Hoobuys Shop',u['homeLead'],f'<main class="wrap"><section class="hero"><h1>{E(u["faqTitle"])}</h1></section>'+faq(lang)+f'<a class="text-link" href="{path(lang,"guides")}">{E(u["all"])}</a></main>'))
+    faq_schema = {'@context':'https://schema.org','@type':'FAQPage','inLanguage':lang,'mainEntity':[{'@type':'Question','name':q,'acceptedAnswer':{'@type':'Answer','text':a}} for q,a in zip(u['faqQuestions'],u['faqAnswers'])]}
+    write(lang,'faq',shell(lang,'faq',u['faqTitle']+' | Hoobuys Shop',u['homeLead'],f'<main class="wrap"><section class="hero"><h1>{E(u["faqTitle"])}</h1></section>'+faq(lang)+f'<a class="text-link" href="{path(lang,"guides")}">{E(u["all"])}</a></main>',faq_schema))
     links = ''.join(f'<a class="card" lang="{code}" href="{path(code)}">{name}</a>' for code,name in LANGS.items())
     write(lang,'languages',shell(lang,'languages',u['languagesTitle'],u['homeLead'],f'<main class="wrap"><section class="hero"><h1>{E(u["languagesTitle"])}</h1></section><div class="grid3">{links}</div></main>'))
 
@@ -189,8 +211,8 @@ def main():
     for lang in LANGS:
         assert set(ARTICLES[lang]) == set(SLUGS),lang
         assert len(UI[lang]['csv']) == 22
-        for article in ARTICLES[lang].values():
-            assert len(article['sections']) == 5
+        for key,article in ARTICLES[lang].items():
+            assert len(article['sections']) == (8 if key in {'time','broken','germany'} else 6)
             assert all(len(section) == 3 for section in article['sections'])
         build_articles(lang)
         build_hubs(lang,archive)

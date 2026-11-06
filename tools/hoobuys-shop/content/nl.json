@@ -1,44 +1,402 @@
 {
- "qc":{"title":"Hoobuy QC-foto’s vinden en je bestelling controleren","description":"Vind de QC-foto’s van je Hoobuy-bestelling, onderscheid openbare referenties en vraag gericht om ontbrekend bewijs voordat je verzendt.","lead":"Maak bij een zoekopdracht naar ‘QC Hoobuy’ onderscheid tussen openbare referentiefoto’s en magazijnfoto’s van je eigen bestelling. Alleen die laatste tonen het artikel dat je gaat versturen.","sections":[
- ["Zoek de foto’s van de juiste bestelling","Open in je Hoobuy-account de betreffende bestelling of het magazijnartikel. Bekijk de status en het onderdeel voor foto’s of inspectie; namen kunnen veranderen. Controleer bestelnummer, verkoper, kleur, maat en aantal. Betaling bewijst nog geen aankomst in het magazijn.","Ontbreken foto’s, controleer dan verzending door de verkoper, ontvangst en afronding van de inspectie. Vraag welke stap nog openstaat. Een openbare QC-zoekdienst kan geen privéfoto’s vinden die nog niet zijn gemaakt."],
- ["Gebruik openbare QC-resultaten als referentie","Zoek met de oorspronkelijke verkoperslink of het artikelnummer, niet alleen een algemene productnaam. Vergelijk verkoper, advertentie, variant en fotodatum. Vergelijkbare beelden kunnen een andere maat of partij tonen.","Geen resultaat betekent alleen dat de dienst geen passende referentie toont. Een resultaat garandeert geen echtheid, kwaliteit of actuele voorraad. Deze website biedt controlegidsen, geen database met privéfoto’s van bestellingen."],
- ["Controleer je artikel in een nuttige volgorde","Begin met maatlabel, kleur, aantal en accessoires. Bekijk daarna vorm, beide kanten, naden, randen, printpositie en zichtbare schade. Bewaar originele beelden om compressie van een voorvertoning niet met een gebrek te verwarren.","Vergelijk een duidelijk gefotografeerde maat met een artikel dat je al bezit. Een maatlabel bewijst geen afmetingen. Foto’s bewijzen evenmin interne constructie, materiaalsamenstelling, levensduur of een exacte kleur onder ieder licht."],
- ["Laat één foto één concrete vraag oplossen","Noteer de onzekerheid en welk bewijs je beslissing zou veranderen. Vraag bij een scheef lijkende print om een rechte totaalopname van het platgelegde artikel. Benoem bij een breedtemeting beide eindpunten en laat ze samen in beeld brengen.","Controleer procedure en eventuele kosten in je account voordat je bevestigt. Herhaal niet telkens dezelfde hoek. Is een verkeerde variant al duidelijk aangetoond, bewaar dan de bestelgegevens en vraag naar mogelijke oplossingen."],
- ["Leg de beslissing vast vóór verzending","Bewaar verkoperslink, bestelnummer, variant, fotodatum, vraag en beslissing bij elkaar. Gebruik duidelijke statussen: klaar, bewijs afwachten of oplossing afwachten. Een onbeantwoorde vraag is geen goedkeuring.","Controleer toepasselijke retourtermijnen zolang het artikel in het magazijn ligt. Bekijk daarna verpakt gewicht, buitenmaten en verzendbeperkingen. Goede foto’s betekenen niet dat iedere verzendlijn het artikel accepteert."]]},
- "pending":{"title":"Hoobuy Process Pending: controleer dit vóór opnieuw bestellen","description":"Controleer betaling, aankoop en voorraad bij Hoobuy Process Pending en stel een gerichte supportvraag zonder dubbele bestelling.","lead":"‘Process Pending’ is een status om te onderzoeken, geen betrouwbare aftelklok tot bezorging. Zoek de laatste bevestigde stap voordat je wacht, contact opneemt of annulering aanvraagt.","sections":[
- ["Bewaar de huidige bestelgegevens","Noteer bestelnummer, betaaldatum en tijd, variant, bedrag en exacte statustekst. Maak een gedateerde schermafbeelding en controleer verzoeken om bevestiging, een andere variant of bijbetaling. Publiceer geen account- of betaalgegevens.","Vergelijk bestelling en betaalgeschiedenis. Een bankautorisatie, accountsaldo en afgeronde bestelbetaling zijn verschillende registraties. Vraag bij afwijkingen om controle van de transactie voordat je opnieuw betaalt."],
- ["Scheid aankoop van transport","Controleer of aankoop bevestigd is, of de verkoper heeft verzonden en of er een binnenlands volgnummer bestaat. Het traject verkoper-magazijn en de internationale zending zijn afzonderlijke stappen met eigen gegevens.","Betalen bewijst geen magazijnontvangst. QC-foto’s horen bij ontvangst en inspectie; een leeg foto-onderdeel verklaart niet zelfstandig een aankoopvertraging. Vraag precies welke stap nog moet worden uitgevoerd."],
- ["Stuur een vraag die beantwoord kan worden","Voorbeeld: ‘Bestelling [nummer], betaald op [datum en tijd], toont [exacte status]. Bevestig alstublieft of de aankoop is afgerond, of de variant beschikbaar is en of ik iets moet doen. Welke annulerings- of terugbetalingsopties gelden als aankoop niet mogelijk is?’","Voeg de bestelafbeelding en noodzakelijk betaalbewijs toe via het privé-supportkanaal. Houd het liefst één gesprek aan. Een heldere tijdlijn helpt meer dan tegenstrijdige berichten of ongefundeerde beschuldigingen."],
- ["Bepaal of wachten nog past","Vergelijk de reactie met je echte deadline, voorraad en andere pakketartikelen. De wachttijd van een andere koper is geen toezegging voor jou. Deze gids noemt geen vaste verwerkingstijd of gegarandeerde annuleringsperiode.","Vraag vóór een vervangende bestelling wat er met de eerste gebeurt, of annuleren nog kan en waar een goedgekeurde terugbetaling terechtkomt. Een tegoed op je account is niet automatisch een voltooide opname naar je oorspronkelijke betaalmethode."],
- ["Controleer het vervolg na een statuswijziging","Bewaar het antwoord en kijk of de bestelling de afgesproken stap weergeeft. Beoordeel voorgestelde andere maten of kleuren voordat je ze accepteert. Werk je tracker bij om dubbele of ongewenste artikelen in een gezamenlijke zending te voorkomen.","Controleer de werkelijke artikelen zodra magazijnfoto’s beschikbaar zijn. Blijft het onduidelijk, vervolg dan met hetzelfde nummer en dezelfde tijdlijn. Gebruik actuele accountvoorwaarden voor kosten, termijnen en mogelijkheden, geen oude forumberichten."]]},
- "cost":{"title":"Hoobuy verzendkosten: werkelijk en volumetrisch gewicht","description":"Vergelijk werkelijk en volumetrisch gewicht, reken een pakketvoorbeeld door en houd Hoobuy-porto apart van je volledige aankoopbudget.","lead":"Een bruikbare schatting begint met bestemming, verpakt gewicht en buitenmaten. Alleen productprijs of aantal artikelen zegt niet wat internationaal verzenden kost.","sections":[
- ["Verzamel eerst de invoergegevens","Noteer land en postcodegebied, productcategorieën, verpakt gewicht, buitenlengte, breedte en hoogte en offertedatum. Schoenendozen, bescherming en een grotere omdoos veranderen de berekening, ook bij dezelfde producten.","Controleer beschikbaarheid en beperkingen in de actuele accountcalculator en lijnvoorwaarden. Houd rekening met de echte inhoud, zoals batterijen of breekbare artikelen. Een schatting bevestigt niet dat het definitieve pakket wordt geaccepteerd."],
- ["Begrijp de twee gewichten","Werkelijk gewicht wordt gewogen. Volumetrisch gewicht zet ingenomen ruimte om in gewicht met de deler van de verzendlijn. Wordt het hoogste gebruikt, vergelijk dan eerst beide en pas daarna afronding, minimum of gewichtsstappen toe.","De calculator toont lengte × breedte × hoogte ÷ deler, in centimeters en kilogrammen. Vul de deler van de specifieke lijn in. Er bestaat geen universele Hoobuy-deler. Het resultaat is een gewichtsvoorbeeld, geen actuele prijsopgave."],
- ["Reken een verpakkingswijziging door","Alleen een voorbeeld: 4 kg met 40 × 30 × 30 cm geeft 6 kg volumetrisch gewicht bij een aangenomen deler van 6.000. Bij 40 × 30 × 20 cm wordt dat 4 kg. Bij gebruik van het hoogste gewicht daalt de vergelijking vóór afronding van 6 naar 4 kg.","Dit beschrijft geen specifieke lijn en belooft geen besparing. Een verkoopdoos verwijderen kan ruimte besparen, maar ook bescherming of gewenste accessoires kosten. Vergelijk het ingepakte eindresultaat en de bescherming, niet alleen losse productgewichten."],
- ["Houd totaalbudget en porto gescheiden","Registreer producten, vervoer naar het magazijn, optionele inspectie of verpakking, internationale porto en toepasselijke bestemmingskosten apart. Controleer wat inbegrepen is om dubbel tellen te voorkomen. Wisselkoersen en betaaltoeslagen kunnen ook invloed hebben.","Gebruik geen willekeurig lage douanewaarde om binnen het budget te blijven. Volg actuele bestemmingsregels en aangifte-instructies in het account. Deze gids geeft geen lokale belastingtarieven, vrijstellingen of garantie tegen douanekosten."],
- ["Vergelijk gelijkwaardige offertes","Bewaar lijn, offertemoment, bestemming, maten, gewicht, inhoud, inbegrepen diensten en verwachte looptijd. Een offerte voor onverpakte artikelen is niet rechtstreeks vergelijkbaar met een offerte voor de definitieve doos.","Bereken opnieuw na verpakkingswijzigingen en vóór betaling. Een geschatte looptijd is geen gegarandeerde bezorgdatum. Bewaar offerte en pakketgegevens samen om latere aanpassingen aan de oorspronkelijke invoer te kunnen toetsen."]]},
- "extra":{"title":"Extra Hoobuy QC-foto’s: gerichte hoeken en metingen","description":"Vraag gerichte extra QC-foto’s bij Hoobuy voor printpositie, afmetingen, schade of ontbrekende accessoires met een duidelijk berichtsjabloon.","lead":"Vraag een extra QC-foto als die een specifieke onzekerheid kan oplossen. Meer beelden vanuit dezelfde hoek maken je beslissing niet vanzelf beter.","sections":[
- ["Bepaal de vraag vóór de fotoaanvraag","Beschrijf het probleem in één zin: mogelijk verschoven print, open naad, onbekende breedte of ontbrekend accessoire. Leg vervolgens vast wat een bruikbaar beeld moet tonen. Dat maakt zowel uitvoering als beoordeling eenvoudiger.","Maak onderscheid tussen een zichtbaar probleem en een ontbrekend aanzicht. Bewijst het label al een andere variant, bewaar dat bewijs en vraag om een oplossing. Een extra decoratieve overzichtsfoto voegt dan weinig toe."],
- ["Noem hoek en herkenningspunten","Vraag voor printpositie om een platgelegd artikel, ontspannen stof, rechte opname en volledige omtrek. Voor naden zijn een detail van de verdachte plek en voldoende omgeving nodig om de plek terug te vinden.","Benoem bij lengte of breedte beide meetpunten. Nulpunt en eindpunt van de liniaal moeten samen zichtbaar zijn. Laat bij ontbrekende accessoires de volledige inhoud naast elkaar fotograferen in plaats van alleen het hoofdartikel."],
- ["Gebruik een kort verzoek","‘Bestelling [nummer], variant [maat/kleur]. Fotografeer [gebied] vanuit [hoek] met [liniaal/eindpunten/volledige omtrek]. Ik moet [één vraag] beantwoorden vóór verzending of een verzoek om oplossing. Bevestig eventuele kosten vooraf.’","Verwijder overbodige instructies en persoonlijke gegevens uit openbare voorbeelden. Controleer diensten, beschikbare metingen en prijzen in je account. Deze gids belooft geen vaste prijs of gratis aantal foto’s."],
- ["Beoordeel de nieuwe foto vanuit de oorspronkelijke vraag","Vergelijk dezelfde herkenningspunten in beide beelden. Een vlakke opname kan perspectief verklaren; een detail kan aantonen dat een vlek een schaduw was. Bewaar beide versies en beschrijf wat het bewijs nu anders laat zien.","Foto’s bewijzen niet betrouwbaar vezelsamenstelling, waterdichtheid, langdurige sterkte of exacte kleur op elk scherm. Vraag bij niet-visuele eigenschappen naar ander bewijs. Een scherp beeld is op zichzelf geen bevestiging."],
- ["Stop zodra de volgende actie duidelijk is","Markeer opgelost, nog onzeker of bevestigde afwijking. Ga bij oplossing door naar de pakketcontrole. Bekijk bij een afwijking de actuele retour- of omruilprocedure en bewaar advertentie, variant en relevante beelden.","Weeg vóór een volgende aanvraag belang en toepasselijke termijnen af. Herhaalde foto’s horen geen retourperiode op te gebruiken. Leg beslissing en bijbehorend beeld vast in de tracker."]]},
- "sheet":{"title":"Hoobuy Spreadsheet: gratis W2C- en QC-sjabloon","description":"Download een gratis Hoobuy-CSV voor verkoperslinks, varianten, QC-beslissingen en pakketkosten en houd je gegevens overzichtelijk bij.","lead":"Een nuttige Hoobuy-spreadsheet verbindt productlink, bestelde variant en beoordeeld bewijs. Download het lege CSV-bestand en importeer het in je spreadsheetprogramma.","sections":[
- ["Eén rij per bestelde variant","Noteer naam, oorspronkelijke verkopers-URL, artikel-ID, kleur, maat, aantal en eigenaar. Twee maten krijgen twee rijen, ook bij dezelfde advertentie. Een algemene naam onderscheidt geen varianten of later gewijzigde aanbiedingen.","Het bestand is een leeg volgsjabloon, geen vooraf gecontroleerde productcatalogus. Indexlinks zijn een startpunt voor onderzoek. Controleer actuele advertentie en accountprijs vóór aankoop; opgeslagen tabellen kunnen verouderen."],
- ["Scheid referenties van je eigen QC","Gebruik aparte kolommen voor openbare referenties en magazijnfoto’s van je eigen bestelling. Voeg bestelnummer, fotodatum, vraag en volgende actie toe. Een openbare afbeelding helpt bepalen wat je controleert, maar verifieert jouw ontvangen exemplaar niet.","Gebruik duidelijke statussen: foto’s afwachten, meting afwachten, oplossing aangevraagd en klaar voor pakket. Werk ze bij als bewijs verandert. Een lege cel betekent onbekend, niet goedgekeurd."],
- ["Maak kosten en onbekende bedragen zichtbaar","Scheid productprijs, binnenlandse verzending, extra diensten en uiteindelijke pakketverdeling. Noteer valuta en markeer schattingen. Tel verschillende valuta niet op zonder de omrekening vast te leggen.","Spreek bij een gezamenlijk pakket vooraf af hoe porto wordt verdeeld. Gewicht, ingenomen ruimte en gelijke delen geven andere uitkomsten. Bewaar de afspraak en definitieve rekening zodat iedereen de verdeling kan begrijpen."],
- ["Controleer een rij vóór opname in het pakket","Open de oorspronkelijke advertentie en vergelijk verkoper, variant en aantal met de bestelling. Bekijk foto’s, regel ontbrekende metingen en noteer retourtermijnen. Markeer daarna gereed en koppel het juiste pakket.","Bewaar bij vervanging of opnieuw bestellen de oorspronkelijke rij met de uitkomst. Overschrijf de geschiedenis niet zodat twee orders één lijken. Dit helpt wanneer een wachtende bestelling later alsnog doorgaat."],
- ["Deel alleen noodzakelijke informatie","Maak voor openbare producttips een afzonderlijke kopie. Verwijder bestelnummers, namen, adressen, privéberichten, betaalreferenties en persoonlijke magazijnlinks. Controleer deelrechten vóór verspreiding.","Noteer de laatste controledatum in je werkversie. Een goede tabel laat zien wat en wanneer is gecontroleerd en wat onbekend blijft. Alleen een link of referentiefoto rechtvaardigt het label ‘geverifieerd’ niet."]]},
- "shipping":{"title":"Hoobuy verzendchecklist: QC, verpakking en pakketcontrole","description":"Los QC-vragen op vóór Hoobuy-verzending, bevestig inhoud en bescherming, vergelijk voorwaarden en bewaar de definitieve offerte.","lead":"Rond de controles per artikel af voordat je over het hele pakket beslist. Lage porto is geen reden om een onopgeloste verkeerde maat, ontbrekend onderdeel of schade mee te sturen.","sections":[
- ["Geef ieder artikel een duidelijke status","Controleer bestelling, variant, aantal en magazijnfoto’s. Scheid gereedstaande artikelen van zaken die wachten op meting, antwoord of oplossing. Controleer retourtermijnen zolang de goederen in het magazijn liggen.","Bij een gezamenlijk pakket heeft elke open beslissing een verantwoordelijke nodig. Bewaar één overzicht van goedkeuringen om een lopende omruiling of dubbele bestelling niet mee te sturen. Een juist label garandeert geen passende maat."],
- ["Bevestig inhoud en bescherming","Som artikelen en te bewaren accessoires op, inclusief verkoopdozen, beschermhoezen en reserveonderdelen. Breekbare goederen vragen passende bescherming; een doos verwijderen is niet automatisch verstandig besparen.","Controleer maten en gewicht nadat verpakkingskeuzes zijn toegepast. Vergelijk beschikbare verpakkingsgegevens met je instructies. Laat geschatte waarden herkenbaar als schatting en presenteer ze niet als definitieve meting."],
- ["Controleer geschiktheid vóór de prijs","Bekijk voor echte bestemming en inhoud de actuele beperkingen, gewichts- en maatlimieten, tracking en geschatte looptijd. Toets bijzonderheden zoals batterijen of vloeistoffen aan de voorwaarden.","Vergelijk alleen offertes met dezelfde inhoud en verpakkingsaannames. De kostengids legt volumetrisch gewicht en optionele diensten uit. Deze checklist en oude offertes garanderen geen huidige beschikbaarheid van een lijn."],
- ["Lees het definitieve pakketoverzicht","Vergelijk artikelen, ontvanger, dienst en totaal met je opgeslagen plan. Volg actuele aangifte-instructies en bestemmingsregels. Controleer welke kosten wel en niet zijn inbegrepen.","Vergelijk aanpassingen met definitief gewicht, maten of diensten. Vraag uitleg vóór je een onbegrepen wijziging bevestigt. Verberg privé-adressen en betaalgegevens in openbare schermafbeeldingen."],
- ["Bewaar gegevens voor tracking en vervolgvragen","Noteer pakketnummer, indieningsdatum, lijn, verpakte maten en betaling. Onderscheid het traject verkoper-magazijn, het internationale nummer en een eventueel later lokaal bezorgnummer.","Bekijk updates via het betreffende account of de vervoerder. Geen nieuwe scan bewijst op zichzelf geen verlies of bezorgdatum. Geef bij een privé-supportvraag pakketnummer en een korte tijdlijn."]]},
- "alignment":{"title":"Hoobuy QC: printuitlijning en symmetrie controleren","description":"Beoordeel printpositie op Hoobuy QC-foto’s met vlakke aanzichten, middenlijnen en vaste herkenningspunten om perspectieffouten te onderscheiden.","lead":"Een print kan scheef lijken door plooien, uitgerekte stof of een schuine camera. Begin met een recht aanzicht en betrouwbare herkenningspunten.","sections":[
- ["Beoordeel eerst de opname","Let op een gedraaid kader, opgetilde schouder, ongelijk liggende mouwen en plooien door de print. Ze kunnen het schijnbare midden verschuiven zonder de werkelijke positie te veranderen. Bekijk de hele omtrek, niet alleen een uitsnede.","Vraag zo nodig een rechte totaalopname van het platgelegde artikel. Houd de stof ontspannen: aan één kant trekken voor een net beeld veroorzaakt een nieuwe vervorming."],
- ["Kies herhaalbare referentiepunten","Vergelijk het midden van een voorprint met geschikte structuurpunten zoals halsopening, middensluiting of overeenkomstige zijnaden. Bekijk dezelfde punten in de advertentie. Sommige ontwerpen zijn bewust verschoven of asymmetrisch.","Het midden van de foto is niet vanzelf het midden van de kleding. Leg paren vergelijkbaar neer en vergelijk passende randen, panelen en labels. Andere camerahoeken veranderen schijnbare breedte en lengte."],
- ["Meet alleen wat de foto ondersteunt","Vraag bij belangrijke plaatsing om een liniaal tussen benoemde punten, bijvoorbeeld naad en printrand. Nulpunt, eindpunt en gemeten oppervlak moeten zichtbaar zijn. Een liniaal boven een plooi geeft geen betrouwbare vlakke maat.","Verzin geen millimetertolerantie die de verkoper niet heeft opgegeven. Gebruik de advertentie, gekozen variant en gedocumenteerde maten. Zonder betrouwbare schaal ondersteunt een foto een waarneming, geen exacte afmeting."],
- ["Beschrijf de twijfel feitelijk","Bijvoorbeeld: ‘Op de vlakke opname lijkt het printmidden links van het midden van de halsopening te liggen.’ Voeg totaalbeeld en detail toe en vraag een bevestigende hoek of meting. Dat is bruikbaarder dan een algemeen negatief oordeel.","Bewaar advertentie, bestelvariant en magazijnfoto samen. Leg bedoelde asymmetrie vast voordat je die een gebrek noemt. Foto’s bewijzen geen echtheid of niet-gedocumenteerde productienormen."],
- ["Kies een vervolgstap op basis van bewijs","Lost een nieuw beeld de twijfel op, noteer dan waarom en controleer verder. Blijft een duidelijke afwijking, bekijk retour- of omruilopties vóór verzending. Bij zwak bewijs kan één gerichte extra opname helpen.","Bewaar originelen en beslissing. Verzend niet enkel omdat een retourtermijn nadert; controleer eerst de opties in het account. Gebruik de gids voor extra foto’s en daarna de pakketchecklist."]]}
+  "qc": {
+    "title": "Hoobuy QC-foto’s vinden en je bestelling controleren",
+    "description": "Vind de QC-foto’s van je Hoobuy-bestelling, onderscheid openbare referenties en vraag gericht om ontbrekend bewijs voordat je verzendt.",
+    "lead": "Maak bij een zoekopdracht naar ‘QC Hoobuy’ onderscheid tussen openbare referentiefoto’s en magazijnfoto’s van je eigen bestelling. Alleen die laatste tonen het artikel dat je gaat versturen.",
+    "sections": [
+      [
+        "Zoek de foto’s van de juiste bestelling",
+        "Open in je Hoobuy-account de betreffende bestelling of het magazijnartikel. Bekijk de status en het onderdeel voor foto’s of inspectie; namen kunnen veranderen. Controleer bestelnummer, verkoper, kleur, maat en aantal. Betaling bewijst nog geen aankomst in het magazijn.",
+        "Ontbreken foto’s, controleer dan verzending door de verkoper, ontvangst en afronding van de inspectie. Vraag welke stap nog openstaat. Een openbare QC-zoekdienst kan geen privéfoto’s vinden die nog niet zijn gemaakt."
+      ],
+      [
+        "Gebruik openbare QC-resultaten als referentie",
+        "Zoek met de oorspronkelijke verkoperslink of het artikelnummer, niet alleen een algemene productnaam. Vergelijk verkoper, advertentie, variant en fotodatum. Vergelijkbare beelden kunnen een andere maat of partij tonen.",
+        "Geen resultaat betekent alleen dat de dienst geen passende referentie toont. Een resultaat garandeert geen echtheid, kwaliteit of actuele voorraad. Deze website biedt controlegidsen, geen database met privéfoto’s van bestellingen."
+      ],
+      [
+        "Controleer je artikel in een nuttige volgorde",
+        "Begin met maatlabel, kleur, aantal en accessoires. Bekijk daarna vorm, beide kanten, naden, randen, printpositie en zichtbare schade. Bewaar originele beelden om compressie van een voorvertoning niet met een gebrek te verwarren.",
+        "Vergelijk een duidelijk gefotografeerde maat met een artikel dat je al bezit. Een maatlabel bewijst geen afmetingen. Foto’s bewijzen evenmin interne constructie, materiaalsamenstelling, levensduur of een exacte kleur onder ieder licht."
+      ],
+      [
+        "Laat één foto één concrete vraag oplossen",
+        "Noteer de onzekerheid en welk bewijs je beslissing zou veranderen. Vraag bij een scheef lijkende print om een rechte totaalopname van het platgelegde artikel. Benoem bij een breedtemeting beide eindpunten en laat ze samen in beeld brengen.",
+        "Controleer procedure en eventuele kosten in je account voordat je bevestigt. Herhaal niet telkens dezelfde hoek. Is een verkeerde variant al duidelijk aangetoond, bewaar dan de bestelgegevens en vraag naar mogelijke oplossingen."
+      ],
+      [
+        "Leg de beslissing vast vóór verzending",
+        "Bewaar verkoperslink, bestelnummer, variant, fotodatum, vraag en beslissing bij elkaar. Gebruik duidelijke statussen: klaar, bewijs afwachten of oplossing afwachten. Een onbeantwoorde vraag is geen goedkeuring.",
+        "Controleer toepasselijke retourtermijnen zolang het artikel in het magazijn ligt. Bekijk daarna verpakt gewicht, buitenmaten en verzendbeperkingen. Goede foto’s betekenen niet dat iedere verzendlijn het artikel accepteert."
+      ],
+      [
+        "A three-step decision when QC photos are missing",
+        "Als de verkoper niet heeft verzonden, onderzoek dan de aankoop of voorraad met het bestelnummer van het artikel. Als de binnenlandse tracking de levering laat zien, maar het magazijnrecord onvolledig is, vraag dan naar de intake en matching. Als het item opgeslagen is maar de vereiste foto ontbreekt, vraag dan om specifiek inspectiebewijs. These situations need different answers; herhaaldelijk zoeken naar dezelfde openbare referentie zal geen van deze problemen oplossen.",
+        "Voorbeeld: een maatlabel komt overeen met de bestelling, maar de borstwijdte is niet zichtbaar. Laat het artikel in afwachting van meting liggen, vergelijk het met een kledingstuk dat u bezit en vraag om een vlakke meting waarbij beide eindpunten zichtbaar zijn. Als het resultaat de vraag beantwoordt, legt u de beslissing één keer vast. Als de productlink is gewijzigd, bewaar dan het originele variantbewijs in plaats van het artikel goed te keuren op basis van een niet-gerelateerde huidige aanbieding."
+      ]
+    ]
+  },
+  "pending": {
+    "title": "Hoobuy Process Pending: controleer dit vóór opnieuw bestellen",
+    "description": "Controleer betaling, aankoop en voorraad bij Hoobuy Process Pending en stel een gerichte supportvraag zonder dubbele bestelling.",
+    "lead": "‘Process Pending’ is een status om te onderzoeken, geen betrouwbare aftelklok tot bezorging. Zoek de laatste bevestigde stap voordat je wacht, contact opneemt of annulering aanvraagt.",
+    "sections": [
+      [
+        "Bewaar de huidige bestelgegevens",
+        "Noteer bestelnummer, betaaldatum en tijd, variant, bedrag en exacte statustekst. Maak een gedateerde schermafbeelding en controleer verzoeken om bevestiging, een andere variant of bijbetaling. Publiceer geen account- of betaalgegevens.",
+        "Vergelijk bestelling en betaalgeschiedenis. Een bankautorisatie, accountsaldo en afgeronde bestelbetaling zijn verschillende registraties. Vraag bij afwijkingen om controle van de transactie voordat je opnieuw betaalt."
+      ],
+      [
+        "Scheid aankoop van transport",
+        "Controleer of aankoop bevestigd is, of de verkoper heeft verzonden en of er een binnenlands volgnummer bestaat. Het traject verkoper-magazijn en de internationale zending zijn afzonderlijke stappen met eigen gegevens.",
+        "Betalen bewijst geen magazijnontvangst. QC-foto’s horen bij ontvangst en inspectie; een leeg foto-onderdeel verklaart niet zelfstandig een aankoopvertraging. Vraag precies welke stap nog moet worden uitgevoerd."
+      ],
+      [
+        "Stuur een vraag die beantwoord kan worden",
+        "Voorbeeld: ‘Bestelling [nummer], betaald op [datum en tijd], toont [exacte status]. Bevestig alstublieft of de aankoop is afgerond, of de variant beschikbaar is en of ik iets moet doen. Welke annulerings- of terugbetalingsopties gelden als aankoop niet mogelijk is?’",
+        "Voeg de bestelafbeelding en noodzakelijk betaalbewijs toe via het privé-supportkanaal. Houd het liefst één gesprek aan. Een heldere tijdlijn helpt meer dan tegenstrijdige berichten of ongefundeerde beschuldigingen."
+      ],
+      [
+        "Bepaal of wachten nog past",
+        "Vergelijk de reactie met je echte deadline, voorraad en andere pakketartikelen. De wachttijd van een andere koper is geen toezegging voor jou. Deze gids noemt geen vaste verwerkingstijd of gegarandeerde annuleringsperiode.",
+        "Vraag vóór een vervangende bestelling wat er met de eerste gebeurt, of annuleren nog kan en waar een goedgekeurde terugbetaling terechtkomt. Een tegoed op je account is niet automatisch een voltooide opname naar je oorspronkelijke betaalmethode."
+      ],
+      [
+        "Controleer het vervolg na een statuswijziging",
+        "Bewaar het antwoord en kijk of de bestelling de afgesproken stap weergeeft. Beoordeel voorgestelde andere maten of kleuren voordat je ze accepteert. Werk je tracker bij om dubbele of ongewenste artikelen in een gezamenlijke zending te voorkomen.",
+        "Controleer de werkelijke artikelen zodra magazijnfoto’s beschikbaar zijn. Blijft het onduidelijk, vervolg dan met hetzelfde nummer en dezelfde tijdlijn. Gebruik actuele accountvoorwaarden voor kosten, termijnen en mogelijkheden, geen oude forumberichten."
+      ],
+      [
+        "Wanneer de bestelling verandert, update dan de bezorgtijdlijn",
+        "Registreer aankoopbevestiging, binnenlandse verzending en magazijnontvangst als afzonderlijke gebeurtenissen. Als u een nieuwe verkoperslink krijgt of een vervangend product wordt aangeboden, verifieert u de productidentiteit en de geselecteerde variant opnieuw. Breng een goedkeurings- of leveringsaanname niet automatisch over van de oorspronkelijke aanbieding.",
+        "Gebruik de verzendtijdgids voor de latere pakketfasen. Een gekocht artikel kan nog steeds op de verkoper wachten, en een opgeslagen artikel kan nog steeds op uw QC-beslissing wachten. Door deze verschillen in de tracker te behouden, wordt het volgende ondersteuningsverzoek specifiek en wordt voorkomen dat een internationale routeschatting wordt aangezien voor de aankomstdatum van de hele bestelling."
+      ]
+    ]
+  },
+  "cost": {
+    "title": "Hoobuy verzendkosten: werkelijk en volumetrisch gewicht",
+    "description": "Vergelijk werkelijk en volumetrisch gewicht, reken een pakketvoorbeeld door en houd Hoobuy-porto apart van je volledige aankoopbudget.",
+    "lead": "Een bruikbare schatting begint met bestemming, verpakt gewicht en buitenmaten. Alleen productprijs of aantal artikelen zegt niet wat internationaal verzenden kost.",
+    "sections": [
+      [
+        "Verzamel eerst de invoergegevens",
+        "Noteer land en postcodegebied, productcategorieën, verpakt gewicht, buitenlengte, breedte en hoogte en offertedatum. Schoenendozen, bescherming en een grotere omdoos veranderen de berekening, ook bij dezelfde producten.",
+        "Controleer beschikbaarheid en beperkingen in de actuele accountcalculator en lijnvoorwaarden. Houd rekening met de echte inhoud, zoals batterijen of breekbare artikelen. Een schatting bevestigt niet dat het definitieve pakket wordt geaccepteerd."
+      ],
+      [
+        "Begrijp de twee gewichten",
+        "Werkelijk gewicht wordt gewogen. Volumetrisch gewicht zet ingenomen ruimte om in gewicht met de deler van de verzendlijn. Wordt het hoogste gebruikt, vergelijk dan eerst beide en pas daarna afronding, minimum of gewichtsstappen toe.",
+        "De calculator toont lengte × breedte × hoogte ÷ deler, in centimeters en kilogrammen. Vul de deler van de specifieke lijn in. Er bestaat geen universele Hoobuy-deler. Het resultaat is een gewichtsvoorbeeld, geen actuele prijsopgave."
+      ],
+      [
+        "Reken een verpakkingswijziging door",
+        "Alleen een voorbeeld: 4 kg met 40 × 30 × 30 cm geeft 6 kg volumetrisch gewicht bij een aangenomen deler van 6.000. Bij 40 × 30 × 20 cm wordt dat 4 kg. Bij gebruik van het hoogste gewicht daalt de vergelijking vóór afronding van 6 naar 4 kg.",
+        "Dit beschrijft geen specifieke lijn en belooft geen besparing. Een verkoopdoos verwijderen kan ruimte besparen, maar ook bescherming of gewenste accessoires kosten. Vergelijk het ingepakte eindresultaat en de bescherming, niet alleen losse productgewichten."
+      ],
+      [
+        "Houd totaalbudget en porto gescheiden",
+        "Registreer producten, vervoer naar het magazijn, optionele inspectie of verpakking, internationale porto en toepasselijke bestemmingskosten apart. Controleer wat inbegrepen is om dubbel tellen te voorkomen. Wisselkoersen en betaaltoeslagen kunnen ook invloed hebben.",
+        "Gebruik geen willekeurig lage douanewaarde om binnen het budget te blijven. Volg actuele bestemmingsregels en aangifte-instructies in het account. Deze gids geeft geen lokale belastingtarieven, vrijstellingen of garantie tegen douanekosten."
+      ],
+      [
+        "Vergelijk gelijkwaardige offertes",
+        "Bewaar lijn, offertemoment, bestemming, maten, gewicht, inhoud, inbegrepen diensten en verwachte looptijd. Een offerte voor onverpakte artikelen is niet rechtstreeks vergelijkbaar met een offerte voor de definitieve doos.",
+        "Bereken opnieuw na verpakkingswijzigingen en vóór betaling. Een geschatte looptijd is geen gegarandeerde bezorgdatum. Bewaar offerte en pakketgegevens samen om latere aanpassingen aan de oorspronkelijke invoer te kunnen toetsen."
+      ],
+      [
+        "Onderscheid de aanbetaling van de gemeten verzendkosten",
+        "Bewaar de oorspronkelijke schatting, het betalingsbewijs van de verzending en de uiteindelijke verpakkingsafmetingen bij elkaar. Als het bedrag verandert, vergelijk dan het gewicht, de afmetingen, de geselecteerde services en de factureringsverhogingen voordat u ervan uitgaat dat de artikelprijs is gewijzigd. Vraag ondersteuning om de input te identificeren die verantwoordelijk is voor een onverklaard verschil.",
+        "Voor Duitsland werkt de speciale gids voor het vergelijken van offertes met een fictief tarief voor het eerste gewicht en het extra gewicht. Het verklaart waarom een kleine gewichtsverandering een factuurverhoging kan overschrijden zonder verzonnen prijzen als actuele tarieven te presenteren. Gebruik de huidige officiële schatter voor actuele prijzen en de eigen deler en afrondingsregels van de route."
+      ]
+    ]
+  },
+  "extra": {
+    "title": "Extra Hoobuy QC-foto’s: gerichte hoeken en metingen",
+    "description": "Vraag gerichte extra QC-foto’s bij Hoobuy voor printpositie, afmetingen, schade of ontbrekende accessoires met een duidelijk berichtsjabloon.",
+    "lead": "Vraag een extra QC-foto als die een specifieke onzekerheid kan oplossen. Meer beelden vanuit dezelfde hoek maken je beslissing niet vanzelf beter.",
+    "sections": [
+      [
+        "Bepaal de vraag vóór de fotoaanvraag",
+        "Beschrijf het probleem in één zin: mogelijk verschoven print, open naad, onbekende breedte of ontbrekend accessoire. Leg vervolgens vast wat een bruikbaar beeld moet tonen. Dat maakt zowel uitvoering als beoordeling eenvoudiger.",
+        "Maak onderscheid tussen een zichtbaar probleem en een ontbrekend aanzicht. Bewijst het label al een andere variant, bewaar dat bewijs en vraag om een oplossing. Een extra decoratieve overzichtsfoto voegt dan weinig toe."
+      ],
+      [
+        "Noem hoek en herkenningspunten",
+        "Vraag voor printpositie om een platgelegd artikel, ontspannen stof, rechte opname en volledige omtrek. Voor naden zijn een detail van de verdachte plek en voldoende omgeving nodig om de plek terug te vinden.",
+        "Benoem bij lengte of breedte beide meetpunten. Nulpunt en eindpunt van de liniaal moeten samen zichtbaar zijn. Laat bij ontbrekende accessoires de volledige inhoud naast elkaar fotograferen in plaats van alleen het hoofdartikel."
+      ],
+      [
+        "Gebruik een kort verzoek",
+        "‘Bestelling [nummer], variant [maat/kleur]. Fotografeer [gebied] vanuit [hoek] met [liniaal/eindpunten/volledige omtrek]. Ik moet [één vraag] beantwoorden vóór verzending of een verzoek om oplossing. Bevestig eventuele kosten vooraf.’",
+        "Verwijder overbodige instructies en persoonlijke gegevens uit openbare voorbeelden. Controleer diensten, beschikbare metingen en prijzen in je account. Deze gids belooft geen vaste prijs of gratis aantal foto’s."
+      ],
+      [
+        "Beoordeel de nieuwe foto vanuit de oorspronkelijke vraag",
+        "Vergelijk dezelfde herkenningspunten in beide beelden. Een vlakke opname kan perspectief verklaren; een detail kan aantonen dat een vlek een schaduw was. Bewaar beide versies en beschrijf wat het bewijs nu anders laat zien.",
+        "Foto’s bewijzen niet betrouwbaar vezelsamenstelling, waterdichtheid, langdurige sterkte of exacte kleur op elk scherm. Vraag bij niet-visuele eigenschappen naar ander bewijs. Een scherp beeld is op zichzelf geen bevestiging."
+      ],
+      [
+        "Stop zodra de volgende actie duidelijk is",
+        "Markeer opgelost, nog onzeker of bevestigde afwijking. Ga bij oplossing door naar de pakketcontrole. Bekijk bij een afwijking de actuele retour- of omruilprocedure en bewaar advertentie, variant en relevante beelden.",
+        "Weeg vóór een volgende aanvraag belang en toepasselijke termijnen af. Herhaalde foto’s horen geen retourperiode op te gebruiken. Leg beslissing en bijbehorend beeld vast in de tracker."
+      ],
+      [
+        "Controleer het nieuwe bewijsmateriaal voordat u om een nieuwe weergave vraagt",
+        "Bewaar de exacte vraag naast de gevraagde foto. Als je om de breedte hebt gevraagd, controleer dan of de liniaal begint bij de beoogde naad en eindigt bij de andere naad in hetzelfde frame. Als een van beide eindpunten verborgen is, beschrijf dan die specifieke omissie in de follow-up in plaats van om meer foto's in het algemeen te vragen.",
+        "Bekijk tijdens het wachten de huidige herstelopties van de bestelling. Deze handleiding bevat geen universele deadline. Een extra foto kan een visuele vraag beantwoorden, maar kan de pasvorm, materiaalsamenstelling of geschiktheid van de route niet garanderen. Zodra het bewijs voldoende is, werkt u de QC-beslissing bij en gaat u verder met de pakketchecklist."
+      ]
+    ]
+  },
+  "sheet": {
+    "title": "Hoobuy-spreadsheet: productlinks, kwaliteitscontroles en gratis tracker",
+    "description": "Blader door productroutes en download een gratis Hoobuy-spreadsheettracker. Controleer verkoperslinks, geselecteerde varianten, QC-foto's en pakketkosten voordat u bestelt.",
+    "lead": "Begin met een productroute, verifieer de live verkoperslijst en houd vervolgens de exacte variant en uw QC-beslissing bij elkaar. Het gratis CSV-bestand hieronder is een blanco ordertracker; gebruik de productindex voor vondsten en de checklist bij elke aankoop.",
+    "sections": [
+      [
+        "Eén rij per bestelde variant",
+        "Noteer naam, oorspronkelijke verkopers-URL, artikel-ID, kleur, maat, aantal en eigenaar. Twee maten krijgen twee rijen, ook bij dezelfde advertentie. Een algemene naam onderscheidt geen varianten of later gewijzigde aanbiedingen.",
+        "Het bestand is een leeg volgsjabloon, geen vooraf gecontroleerde productcatalogus. Indexlinks zijn een startpunt voor onderzoek. Controleer actuele advertentie en accountprijs vóór aankoop; opgeslagen tabellen kunnen verouderen."
+      ],
+      [
+        "Scheid referenties van je eigen QC",
+        "Gebruik aparte kolommen voor openbare referenties en magazijnfoto’s van je eigen bestelling. Voeg bestelnummer, fotodatum, vraag en volgende actie toe. Een openbare afbeelding helpt bepalen wat je controleert, maar verifieert jouw ontvangen exemplaar niet.",
+        "Gebruik duidelijke statussen: foto’s afwachten, meting afwachten, oplossing aangevraagd en klaar voor pakket. Werk ze bij als bewijs verandert. Een lege cel betekent onbekend, niet goedgekeurd."
+      ],
+      [
+        "Maak kosten en onbekende bedragen zichtbaar",
+        "Scheid productprijs, binnenlandse verzending, extra diensten en uiteindelijke pakketverdeling. Noteer valuta en markeer schattingen. Tel verschillende valuta niet op zonder de omrekening vast te leggen.",
+        "Spreek bij een gezamenlijk pakket vooraf af hoe porto wordt verdeeld. Gewicht, ingenomen ruimte en gelijke delen geven andere uitkomsten. Bewaar de afspraak en definitieve rekening zodat iedereen de verdeling kan begrijpen."
+      ],
+      [
+        "Controleer een rij vóór opname in het pakket",
+        "Open de oorspronkelijke advertentie en vergelijk verkoper, variant en aantal met de bestelling. Bekijk foto’s, regel ontbrekende metingen en noteer retourtermijnen. Markeer daarna gereed en koppel het juiste pakket.",
+        "Bewaar bij vervanging of opnieuw bestellen de oorspronkelijke rij met de uitkomst. Overschrijf de geschiedenis niet zodat twee orders één lijken. Dit helpt wanneer een wachtende bestelling later alsnog doorgaat."
+      ],
+      [
+        "Deel alleen noodzakelijke informatie",
+        "Maak voor openbare producttips een afzonderlijke kopie. Verwijder bestelnummers, namen, adressen, privéberichten, betaalreferenties en persoonlijke magazijnlinks. Controleer deelrechten vóór verspreiding.",
+        "Noteer de laatste controledatum in je werkversie. Een goede tabel laat zien wat en wanneer is gecontroleerd en wat onbekend blijft. Alleen een link of referentiefoto rechtvaardigt het label ‘geverifieerd’ niet."
+      ],
+      [
+        "Houd verbroken verbindingen en onzekere kosten zichtbaar",
+        "Wanneer een opgeslagen link mislukt, behoudt u de oorspronkelijke URL en markeert u de rij met het waargenomen probleem: laadfout, niet-beschikbare variant, gewijzigde vermelding of ontbrekende QC-referentie. Noteer de datum van de laatste controle en het vervangingsadres apart. Wis de relatie tussen de bestelde variant en het magazijnbewijs niet.",
+        "Houd onbekende verzendgegevens blanco en label voorlopige metingen. Voor een gedeeld pakket wijst u een persoon aan die elk openstaand probleem oplost voordat het wordt verzonden. Een volledige rij moet de volgende actie duidelijk maken, zelfs als je de definitieve prijs of leverdatum nog niet weet. Gebruik de gids voor het oplossen van koppelingsproblemen wanneer een catalogusroute verandert."
+      ]
+    ]
+  },
+  "shipping": {
+    "title": "Hoobuy verzendchecklist: QC, verpakking en pakketcontrole",
+    "description": "Los QC-vragen op vóór Hoobuy-verzending, bevestig inhoud en bescherming, vergelijk voorwaarden en bewaar de definitieve offerte.",
+    "lead": "Rond de controles per artikel af voordat je over het hele pakket beslist. Lage porto is geen reden om een onopgeloste verkeerde maat, ontbrekend onderdeel of schade mee te sturen.",
+    "sections": [
+      [
+        "Geef ieder artikel een duidelijke status",
+        "Controleer bestelling, variant, aantal en magazijnfoto’s. Scheid gereedstaande artikelen van zaken die wachten op meting, antwoord of oplossing. Controleer retourtermijnen zolang de goederen in het magazijn liggen.",
+        "Bij een gezamenlijk pakket heeft elke open beslissing een verantwoordelijke nodig. Bewaar één overzicht van goedkeuringen om een lopende omruiling of dubbele bestelling niet mee te sturen. Een juist label garandeert geen passende maat."
+      ],
+      [
+        "Bevestig inhoud en bescherming",
+        "Som artikelen en te bewaren accessoires op, inclusief verkoopdozen, beschermhoezen en reserveonderdelen. Breekbare goederen vragen passende bescherming; een doos verwijderen is niet automatisch verstandig besparen.",
+        "Controleer maten en gewicht nadat verpakkingskeuzes zijn toegepast. Vergelijk beschikbare verpakkingsgegevens met je instructies. Laat geschatte waarden herkenbaar als schatting en presenteer ze niet als definitieve meting."
+      ],
+      [
+        "Controleer geschiktheid vóór de prijs",
+        "Bekijk voor echte bestemming en inhoud de actuele beperkingen, gewichts- en maatlimieten, tracking en geschatte looptijd. Toets bijzonderheden zoals batterijen of vloeistoffen aan de voorwaarden.",
+        "Vergelijk alleen offertes met dezelfde inhoud en verpakkingsaannames. De kostengids legt volumetrisch gewicht en optionele diensten uit. Deze checklist en oude offertes garanderen geen huidige beschikbaarheid van een lijn."
+      ],
+      [
+        "Lees het definitieve pakketoverzicht",
+        "Vergelijk artikelen, ontvanger, dienst en totaal met je opgeslagen plan. Volg actuele aangifte-instructies en bestemmingsregels. Controleer welke kosten wel en niet zijn inbegrepen.",
+        "Vergelijk aanpassingen met definitief gewicht, maten of diensten. Vraag uitleg vóór je een onbegrepen wijziging bevestigt. Verberg privé-adressen en betaalgegevens in openbare schermafbeeldingen."
+      ],
+      [
+        "Bewaar gegevens voor tracking en vervolgvragen",
+        "Noteer pakketnummer, indieningsdatum, lijn, verpakte maten en betaling. Onderscheid het traject verkoper-magazijn, het internationale nummer en een eventueel later lokaal bezorgnummer.",
+        "Bekijk updates via het betreffende account of de vervoerder. Geen nieuwe scan bewijst op zichzelf geen verlies of bezorgdatum. Geef bij een privé-supportvraag pakketnummer en een korte tijdlijn."
+      ],
+      [
+        "Maak een laatste vergelijking voordat u bevestigt",
+        "Vergelijk het definitieve pakketrecord met het plan aan de hand van vier controles: de juiste artikelen, passende bescherming, in aanmerking komende route en begrepen totaal. Als één controle onopgelost blijft, registreer dan welke informatie ontbreekt. Een trackingnummer of een lage prijs lossen een verkeerde variant of onverklaarbare extra kosten niet op.",
+        "Voeg na bevestiging de daadwerkelijke acceptatiegebeurtenis van de vervoerder toe aan uw tijdlijn, indien beschikbaar. Houd dat gescheiden van het indienen van pakketten en het maken van labels. Voor pakketten met bestemming Duitsland gebruikt u de bestemmingsspecifieke vergelijkingsgids; Voor voortgangsvragen gebruikt u de verzendtijdgids. Beiden vertrouwen op uw huidige rekeninggegevens en de daadwerkelijke inhoud van het pakket."
+      ]
+    ]
+  },
+  "alignment": {
+    "title": "Hoobuy QC: printuitlijning en symmetrie controleren",
+    "description": "Beoordeel printpositie op Hoobuy QC-foto’s met vlakke aanzichten, middenlijnen en vaste herkenningspunten om perspectieffouten te onderscheiden.",
+    "lead": "Een print kan scheef lijken door plooien, uitgerekte stof of een schuine camera. Begin met een recht aanzicht en betrouwbare herkenningspunten.",
+    "sections": [
+      [
+        "Beoordeel eerst de opname",
+        "Let op een gedraaid kader, opgetilde schouder, ongelijk liggende mouwen en plooien door de print. Ze kunnen het schijnbare midden verschuiven zonder de werkelijke positie te veranderen. Bekijk de hele omtrek, niet alleen een uitsnede.",
+        "Vraag zo nodig een rechte totaalopname van het platgelegde artikel. Houd de stof ontspannen: aan één kant trekken voor een net beeld veroorzaakt een nieuwe vervorming."
+      ],
+      [
+        "Kies herhaalbare referentiepunten",
+        "Vergelijk het midden van een voorprint met geschikte structuurpunten zoals halsopening, middensluiting of overeenkomstige zijnaden. Bekijk dezelfde punten in de advertentie. Sommige ontwerpen zijn bewust verschoven of asymmetrisch.",
+        "Het midden van de foto is niet vanzelf het midden van de kleding. Leg paren vergelijkbaar neer en vergelijk passende randen, panelen en labels. Andere camerahoeken veranderen schijnbare breedte en lengte."
+      ],
+      [
+        "Meet alleen wat de foto ondersteunt",
+        "Vraag bij belangrijke plaatsing om een liniaal tussen benoemde punten, bijvoorbeeld naad en printrand. Nulpunt, eindpunt en gemeten oppervlak moeten zichtbaar zijn. Een liniaal boven een plooi geeft geen betrouwbare vlakke maat.",
+        "Verzin geen millimetertolerantie die de verkoper niet heeft opgegeven. Gebruik de advertentie, gekozen variant en gedocumenteerde maten. Zonder betrouwbare schaal ondersteunt een foto een waarneming, geen exacte afmeting."
+      ],
+      [
+        "Beschrijf de twijfel feitelijk",
+        "Bijvoorbeeld: ‘Op de vlakke opname lijkt het printmidden links van het midden van de halsopening te liggen.’ Voeg totaalbeeld en detail toe en vraag een bevestigende hoek of meting. Dat is bruikbaarder dan een algemeen negatief oordeel.",
+        "Bewaar advertentie, bestelvariant en magazijnfoto samen. Leg bedoelde asymmetrie vast voordat je die een gebrek noemt. Foto’s bewijzen geen echtheid of niet-gedocumenteerde productienormen."
+      ],
+      [
+        "Kies een vervolgstap op basis van bewijs",
+        "Lost een nieuw beeld de twijfel op, noteer dan waarom en controleer verder. Blijft een duidelijke afwijking, bekijk retour- of omruilopties vóór verzending. Bij zwak bewijs kan één gerichte extra opname helpen.",
+        "Bewaar originelen en beslissing. Verzend niet enkel omdat een retourtermijn nadert; controleer eerst de opties in het account. Gebruik de gids voor extra foto’s en daarna de pakketchecklist."
+      ],
+      [
+        "Houd visuele observaties gescheiden van aankoopbeslissingen",
+        "Een platte foto kan het perspectief weergeven zonder te bewijzen dat elk ander aspect van een item correct is. Nadat u de plaatsing heeft gecontroleerd, keert u terug naar de geselecteerde maat, kleur, aantal en accessoires. Bewaar de bevestigingsafbeelding met de datum ervan, zodat een later ondersteuningsgesprek naar hetzelfde bewijsmateriaal verwijst.",
+        "Als de verkoperslijst is gewijzigd, bewaar dan de oorspronkelijke bestelspecificatie en het screenshot, indien beschikbaar. Gebruik geen ander huidig ontwerp als vergelijkingsstandaard voor het reeds ontvangen artikel. In de probleemoplossingsgids voor productlinks wordt uitgelegd hoe u een gewijzigde aanbieding kunt vastleggen zonder uw aankoopgeschiedenis te overschrijven."
+      ]
+    ]
+  },
+  "time": {
+    "title": "Hoobuy levertijd: bestelfasen, tracking en vertragingen",
+    "description": "Begrijp de verzendtijd van Hoobuy vanaf de verzending van de verkoper tot de levering. Controleer de voortgang van het magazijn, volg hiaten en het bewijsmateriaal om ondersteuning te sturen.",
+    "lead": "De levertijd van Hoobuy kent verschillende afzonderlijke fasen. Een routeschatting betreft normaliter het internationale pakket; het vertelt u niet hoe lang de aankoop, levering door de verkoper, magazijninspectie of verpakking zal duren. Begin met het laatste bevestigde evenement op uw eigen bestelling.",
+    "sections": [
+      [
+        "Naar welke bezorgklok kijk je?",
+        "Voordat u de bezorgverhalen vergelijkt, noteert u de begin- en eindgebeurtenissen. De ene klant kan rekenen vanaf de betaling, de andere vanaf de verzending in het magazijn en een derde vanaf de eerste scan van de vervoerder. Dat zijn verschillende metingen. Uw nuttige tijdlijn bestaat uit de aankoopbevestiging, de verzending door de verkoper, de magazijnontvangst, de beschikbaarheid van QC, het indienen van pakketten, de acceptatie door de vervoerder en de levering. Laat een ontbrekende gebeurtenis leeg in plaats van deze te vullen met een veronderstelde datum. Leg de tijdzone vast wanneer u een accountupdate vergelijkt met een providerupdate uit een ander land.",
+        "De officiële beginnersgids scheidt inspectie en opslag van pakketindiening, betaling van de verzendkosten, verpakking en levering. Die scheiding is belangrijk als je een deadline hebt. Als uw artikel nog in afwachting is van aankoop, is een internationale verzendschatting nog geen aftelling voor dat artikel. Deze gids biedt u een methode om de voortgang te diagnosticeren; het belooft geen universeel aantal dagen en impliceert ook niet dat het kiezen van een snellere internationale lijn de eerdere fasen onmiddellijk maakt."
+      ],
+      [
+        "Vóór aankomst in het magazijn: bevestig de aankoop en de verzending door de verkoper",
+        "Open de artikelbestelling en vergelijk het betalingsrecord met de laatste status en berichten. Bevestig de geselecteerde maat en kleur. Als de bestelling om een beslissing of een saldoaanpassing vraagt, kunt u dat specifieke verzoek via uw account oplossen. Als de aankoop is voltooid, zoekt u naar de verzendinformatie van de verkoper en het binnenlandse trackingrecord. Bewaar dit trackingnummer gescheiden van eventuele latere internationale pakketnummers. Een verkoper die een label maakt, verschilt van een vervoerder die het bezit van het artikel vastlegt.",
+        "Als er geen verzendbewijs is, vraag dan of de geselecteerde variant beschikbaar is en of de verkoper een verwachte verzenddatum heeft opgegeven. Plaats niet opnieuw dezelfde bestelling alleen maar omdat de pagina er onveranderd uitziet. Bepaal eerst of het origineel nog kan worden vervuld of geannuleerd. Een vervanging kan tot twee aankopen leiden als de eerste wordt hervat. Als meerdere items samen reizen, identificeer dan welk item de groep feitelijk tegenhoudt en houd de beslissing gescheiden van items die al klaar zijn."
+      ],
+      [
+        "Ontvangen betekent niet dat de QC voltooid is",
+        "Controleer na binnenlandse bezorging het magazijnartikelrecord en de inspectiesectie. Een afleverscan, magazijninname en beschikbare QC-beelden zijn afzonderlijk bewijsmateriaal. Match het magazijnrecord met uw order-ID, hoeveelheid en variant. Als er geen foto's zijn, vraag dan welke stap overblijft: het pakket afstemmen op de bestelling, het item registreren, controleren of afbeeldingen uploaden. Er is geen bruikbare snelkoppeling voor het vernieuwen van een openbare QC-zoeker voor privéfoto's die nog niet zijn gemaakt.",
+        "Gebruik deze fase om in een duidelijke volgorde eenmalig een inspectie uit te voeren. Controleer de identiteit en accessoires, de algehele staat en vervolgens de afmetingen of details die van invloed zijn op uw beslissing. Als een ontbrekend beeld ertoe doet, vraag dan om die weergave met duidelijke eindpunten of kaders. Controleer de toepasselijke retourdeadline terwijl u wacht op bewijs. Het verzenden van een onopgeloste verkeerde maat om aan een willekeurig verzenddoel te voldoen, kan de uiteindelijke oplossing ingewikkelder maken. Een succesvolle kwaliteitscontrole is toestemming om het inpakken te overwegen, geen bewijs dat het internationale pakket is vertrokken."
+      ],
+      [
+        "Ingediend, ingepakt en geaccepteerd door de vervoerder zijn verschillende gebeurtenissen",
+        "Wanneer u een pakket verzendt, slaat u de identificatie, de geselecteerde items, de route en de offerte op. Controleer of de betaling of een bevestigingsverzoek is voltooid. Verpakkingsinstructies kunnen zowel de voorbereiding als de uiteindelijke afmetingen beïnvloeden. Lees het definitieve pakketrecord in plaats van ervan uit te gaan dat een ingediend verzoek onmiddellijk vervoerderbewegingen veroorzaakt. De officiële gids beschrijft het verpakken en verzenden na de betalingsstap voor verzending. Een trackingnummer dat in het account verschijnt, is nuttig bewijs, maar moet samen met de eerste fysieke dragergebeurtenis worden gelezen.",
+        "Als uit de tracking blijkt dat er informatie is ontvangen of dat er een label is gemaakt, noteer die bewoording dan nauwkeurig. Herschrijf het niet als vertrokken. Als uw account en vervoerder het niet eens zijn, bewaar dan beide tijdstempels en vraag aan de ondersteuning of het pakket is overgedragen en of er een ander trackingnummer wordt verwacht. Indien er sprake is van een latere lokale vervoerder, bewaar deze referentie dan apart. Sommige routefasen zijn minder zichtbaar dan andere, dus als er geen openbare scans zijn, is onderzoek in de context nodig in plaats van een automatische conclusie dat het pakket verloren is gegaan."
+      ],
+      [
+        "Lees een leveringsschatting met de voorwaarden ervan",
+        "Sla de routeschatting op die wordt weergegeven wanneer u opties vergelijkt, inclusief de datum, bestemming en eventuele opgegeven definitie van werkdagen of startgebeurtenis. Controleer of de offerte de hele reis bestrijkt of alleen een bepaalde transportfase. Een schatting kan veranderen afhankelijk van de bestemming, pakketkenmerken en geselecteerde service. Gebruik voor deze details de huidige accountgegevens. Beschouw een oude screenshot, een influencer-verzameling of de succesvolle bezorging van een andere klant niet als garantie voor uw pakket.",
+        "Voor een tijdgevoelige aankoop dient u de gedocumenteerde schatting te scheiden van uw eigen onvoorziene uitgaven. U kunt bijvoorbeeld drie kolommen in uw tracker bijhouden: bevestigde gebeurtenis, schatting van de provider en persoonlijke deadline. Dit is een planningsformat, geen voorspellingsmodel. Als één fase onbevestigd is, schrijf dan onbekend. Als de bestelling geen onzekerheid tolereert, heroverweeg deze dan voordat u nog een artikel toevoegt of voor een internationale dienst betaalt. Een verzendkeuze moet passen bij de inhoud en bestemming, evenals bij de kalender."
+      ],
+      [
+        "Wat te doen als de tracking niet meer wordt bijgewerkt",
+        "Controleer eerst of u het huidige pakketnummer controleert op de betreffende account- of vervoerderpagina. Vergelijk de laatste gebeurtenis, de locatie en het tijdstempel. Controleer of er een verzoek aan u is gericht, zoals een adrescorrectie, een bezorgafspraak of een bewijsstuk. Controleer elk verzoek via het officiële account of de website van de vervoerder voordat u informatie verstrekt of betaalt. Een bericht waarin uw pakket vermeld wordt, is niet voldoende om vast te stellen dat de afzender de vervoerder is.",
+        "Als er geen gevraagde actie is, vergelijk dan de stilte met de huidige begeleidings- en ondersteunings- of claimvoorwaarden van de route. Bedenk geen vast aantal dagen waarna elk pakketje verloren gaat. Vraag wie het pakket momenteel in zijn bezit heeft, welke gebeurtenis daarna wordt verwacht, of er een onderzoek kan worden geopend en welke termijn geldt. Bewaar het antwoord samen met uw tijdlijn. Een tracking gap is een symptoom; het identificeert niet zelfstandig een douaneprobleem, een verloren voorwerp of een bepaalde leverdatum."
+      ],
+      [
+        "Stuur een ondersteuningsverzoek met een bruikbare tijdlijn",
+        "Een nuttig privéverzoek luidt: Pakket [identificator], ingediend [datum], route [naam], laatst bevestigde gebeurtenis [exacte bewoording en datum]. Op de rekening staat [status], terwijl bij de vervoerder [status] staat. Bevestig of ik actie moet ondernemen, welke partij het pakket momenteel in bezit heeft en wat de volgende beschikbare onderzoeksstap is. Voeg alleen de relevante screenshots toe. Gebruik voor een probleem vóór het magazijn het artikelordernummer in plaats van het te presenteren als een internationaal pakketprobleem.",
+        "Houd betalingsgegevens, adressen en persoonlijke bestelgegevens buiten openbare discussies. Bewaar het antwoord en volg het indien mogelijk op in dezelfde ondersteuningsthread. Als u een specifieke actie- of vervolgdatum krijgt, voegt u deze toe aan uw tracker. Als u een annulering, retourzending of compensatie aanvraagt, vraag dan naar de huidige geschiktheid en procedure, in plaats van ervan uit te gaan dat er voor elke fase één oplossing geldt. Een restitutieverzoek en een voltooide restitutie zijn afzonderlijke gebeurtenissen en moeten afzonderlijk worden geregistreerd."
+      ],
+      [
+        "Gebruik de tijdlijn om de volgende bestelling te verbeteren",
+        "Vergelijk na de oplevering de werkelijke tijdstempels voor elke fase met uw oorspronkelijke plan. Houd de aankooptijd gescheiden van de internationale transittijd. Als een verkoper een geconsolideerd pakket vertraagd heeft, is dat een andere les dan een vertraging bij het inpakken of een last-mile-leveringsprobleem. Noteer welke metingen, schermafbeeldingen en ondersteunende antwoorden daadwerkelijk nuttig waren. Dit levert een betrouwbaarder persoonlijk record op dan een enkele verklaring dat de hele bestelling een bepaald aantal dagen heeft geduurd.",
+        "Bevestig vóór uw volgende pakket alle QC-beslissingen, sla de definitieve verpakkingsmetingen op en vergelijk de routeomstandigheden met behulp van dezelfde invoer. Gebruik de verzendkostengids voor het werkelijke en volumetrische gewicht en de spreadsheetgids voor een gestructureerd record. Blijf elke keer de live-omstandigheden controleren: uw eigen geschiedenis kan u helpen betere vragen te stellen, maar deze bepaalt niet de voorwaarden of leveringsbelofte voor een nieuwe aankoop."
+      ]
+    ]
+  },
+  "broken": {
+    "title": "Hoobuy-link werkt niet? Controleer product en variant",
+    "description": "Problemen met een Hoobuy-product of spreadsheetlink oplossen: afzonderlijke laadfouten, uitverkochte varianten, gewijzigde aanbiedingen en ontbrekende kwaliteitscontrole voordat u bestelt.",
+    "lead": "Een Hoobuy-link die niet laadt, is niet automatisch een uitverkocht product. Identificeer eerst wat er mislukt is: de opgeslagen link, de originele aanbieding, de gekozen variant of de QC-referentie. Houd de oorspronkelijke productidentiteit intact terwijl u onderzoek doet.",
+    "sections": [
+      [
+        "Sla de link op en beschrijf de fout",
+        "Kopieer het volledige adres uit uw spreadsheet of productkaart en noteer de datum van de controle. Let op of u een foutpagina, een inlogverzoek, een leeg product, niet-beschikbare opties, een ander artikel of gewoon een pagina ziet die doorgaat met laden. Deze symptomen leiden tot verschillende controles. Bewaar een screenshot van het zichtbare resultaat, maar bewaar het adres ook als tekst: alleen een afbeelding kan de product-ID of de eindbestemming verbergen na een omleiding.",
+        "Bewaar de oorspronkelijke verkoper-URL, vermeldings-ID en Hoobuy-URL in afzonderlijke velden als u die heeft. Bewaar de verwachte productnaam, verkoper, maat en kleur uit uw eigen administratie. Overschrijf tijdens het onderzoek de oude rij niet met een visueel vergelijkbaar item. Een spreadsheetlink is een route naar een vermelding, en geen blijvende belofte dat de inhoud, varianten, prijs of beschikbaarheid ongewijzigd zullen blijven. Het doel is om vast te stellen wat nog controleerbaar is voordat u betaalt."
+      ],
+      [
+        "Controleer een gekopieerd adres zonder de productidentiteit te wijzigen",
+        "Zoek naar spaties, regeleinden, ontbrekende tekens of leestekens die per ongeluk zijn opgenomen toen de link uit een bericht werd gekopieerd. Open het adres in een normaal browsertabblad en vergelijk het uiteindelijke zichtbare adres met het opgeslagen adres. Als de spreadsheet een verkorte link gebruikt, noteer dan waar deze daadwerkelijk naartoe leidt. Vermijd het raden van een nieuwe ID of het vervangen van getallen in het pad. Een plausibel ogend adres kan succesvol worden geladen terwijl het naar een heel ander product verwijst.",
+        "Als je nog steeds de originele marktplaatsvermelding hebt, gebruik dan die originele link in de officiële Hoobuy-productzoekopdracht. Volg de huidige zoekstroom op de officiële site in plaats van een nieuwe agent-URL uit het geheugen op te bouwen. Controleer of het resultaat overeenkomt met de verkoper en aanbieding die u bedoelde. Een succesvolle paginalading lost alleen de laadvraag op; het verifieert nog niet de juiste variant, huidige prijs, retourvoorwaarden of geschiktheid voor de bestemming waarnaar u wilt verzenden."
+      ],
+      [
+        "Scheid browserproblemen van lijstproblemen",
+        "Een inlogscherm, een tijdelijke netwerkstoring en een product gemarkeerd als niet beschikbaar zijn niet hetzelfde. Controleer of de officiële homepage en een andere bekende productpagina in dezelfde browser worden geladen. Als de hele service mislukt, noteer dan de fout en probeer het later opnieuw, in plaats van elk spreadsheetitem onmiddellijk als verwijderd te markeren. Als slechts één item faalt, behoud dan dat onderscheid. Als inloggen vereist is, gebruik dan de officiële site en uw bestaande accountstroom.",
+        "Installeer geen onbekende extensie en voer geen inloggegevens in op een copycat-pagina om een link te ontgrendelen. Als uw browser een beveiligingswaarschuwing weergeeft, verifieer dan de bestemming voordat u doorgaat. Een verkoper of spreadsheetbeheerder kan mogelijk het huidige aanbiedingsadres opgeven, maar zijn antwoord moet nog steeds worden gecontroleerd aan de hand van het verwachte product. Als de pagina niet kan worden geverifieerd, markeert u de record als onopgelost. Onbekend is een nuttige toestand; het bedenken van een vervangende schakel is geen reparatie."
+      ],
+      [
+        "Controleer de exacte maat en kleur voordat u deze beschikbaar stelt",
+        "Een productpagina kan online blijven wanneer één geselecteerde variant niet beschikbaar is. Open de maat-, kleur-, model- en aantalkeuzes en vergelijk ze met uw opgeslagen rij. Lees de weergegeven prijs voor de daadwerkelijke combinatie die u wilt kopen. Een startprijs, een tijdelijke waarde of een prijs die wordt weergegeven voordat opties worden geselecteerd, beschrijft die combinatie mogelijk niet. Beschouw een geopende pagina niet als bewijs dat de agent het artikel voor u kan kopen.",
+        "Als het account een aandelenuitgifte meldt nadat de aankoop is ingediend, bewaar dan de oorspronkelijke selectie en vraag welke opties momenteel beschikbaar zijn. Een vervanging vereist een nieuwe beslissing: een andere maat of kleur is niet dezelfde bestelling alleen maar omdat deze in dezelfde aanbieding staat. Controleer de huidige annulerings- of terugbetalingsopties voordat u een alternatief koopt. Houd elke eerste bestelling zichtbaar in de tracker totdat de uitkomst ervan is bevestigd, zodat een vertraagde bestelling niet stilletjes een duplicaat wordt."
+      ],
+      [
+        "Een gewijzigde productpagina heeft een nieuwe vergelijking nodig",
+        "Vergelijk de verkoper, product-ID, titel, foto's, specificaties en beschikbare varianten. Sommige wijzigingen kunnen onschadelijke bewerkingen zijn; anderen kunnen betekenen dat de record niet langer het item beschrijft dat u hebt opgeslagen. Een bekend beeld is onvoldoende bewijs voor een identieke constructie of maatvoering. Als de oorspronkelijke verkoper een nieuwe link verstrekt, noteer dan zowel de adressen als de datum en bekijk de nieuwe advertentie vervolgens als een afzonderlijke kandidaat totdat de relevante gegevens zijn gecontroleerd.",
+        "Een opgeslagen mediumzwart sweatshirt kan bijvoorbeeld leiden naar een pagina die nu een andere maattabel biedt. Bewaar de eerdere referentie voor uw geschiedenis, maar gebruik het huidige diagram om te beslissen of de nieuwe kandidaat past. Draag niet automatisch een koopklare status, een voorafgaande QC-goedkeuring of een kostenraming over. Productbewijs hoort bij de aanbieding en variant die het feitelijk beschrijft; een linkvervanging mag die relatie niet uitwissen."
+      ],
+      [
+        "Een ontbrekende openbare QC diagnosticeert geen defecte vermelding",
+        "Een openbare kwaliteitscontroledienst heeft mogelijk geen resultaat voor de identificatie of herkent de specifieke vorm van de link die u heeft opgegeven niet. Dat vertelt u over de referentie die beschikbaar is via die service. Er wordt niet vastgesteld dat de verkoper geen voorraad heeft, dat uw eigen bestelling niet is gecontroleerd of dat het artikel veilig is om te kopen. Controleer de ondersteunde invoer van de service en gebruik, indien van toepassing, de oorspronkelijke vermeldings-ID zonder een ander product te raden.",
+        "Voor een bestelling die u al heeft geplaatst, controleert u het privémagazijnrecord in uw Hoobuy-account. Openbare referentiefoto's en uw bestellingsfoto's beantwoorden verschillende vragen. Zorg ervoor dat de daadwerkelijk ontvangen maat, kleur en hoeveelheid overeenkomen voordat u de staat evalueert. Een publieke afbeelding van een andere koper kan helpen bij het identificeren van nuttige inspectiehoeken, maar kan niet in de plaats komen van bewijs dat het apparaat naar u wordt verzonden. Bewaar referentie- en bestelfotolinks in afzonderlijke spreadsheetkolommen."
+      ],
+      [
+        "Bouw een nuttig rapport voor ondersteuning of een spreadsheetonderhouder",
+        "Leg de bronpagina, originele link, eindbestemming, verwacht item en exacte mismatch vast. Voeg de controledatum en een korte status toe, zoals laadfout, variant niet beschikbaar, gewijzigde vermelding of ontbrekende QC-referentie. Als het probleem een betaalde bestelling betreft, vermeld dan de bestel-ID alleen via het ondersteuningskanaal voor uw privéaccount. Stel een specifieke vraag: is deze variant te koop, komt de aanbieding nog overeen met dit product of is er een gecorrigeerd origineel adres beschikbaar?",
+        "Als u een openbare kopie van het rapport deelt, verwijdert u account-ID's, afbeeldingen van privémagazijnen, betalingsgegevens en elk adres. Een beheerder heeft voldoende informatie nodig om de gebroken route te reproduceren, geen toegang tot uw account. Wanneer een gecorrigeerd adres wordt opgegeven, test het dan opnieuw en werk de geregistreerde controledatum bij. Onderscheid de gerepareerde link van het gecontroleerde product. Het repareren van de navigatie valideert niet op onafhankelijke wijze de kwaliteit, de betrouwbaarheid van de verkoper, de geschiktheid voor verzending of het retourrecht."
+      ],
+      [
+        "Bepaal of u de rij wilt behouden, vervangen of pauzeren",
+        "Behoud de kandidaat wanneer de originele identiteit en de vereiste variant kunnen worden geverifieerd. Vervang deze pas nadat een nieuwe aanbieding is vergeleken op productdetails, maat, prijs, beschikbaar bewijsmateriaal en aankoopvoorwaarden. Pauzeer het wanneer er nog steeds belangrijke informatie ontbreekt. Voor een groepsbestelling identificeert u de persoon die verantwoordelijk is voor die beslissing en neemt u geen onopgeloste vervanger op in de pakketlijst. Dit voorkomt dat een spreadsheetonderhoudstaak een onbedoelde aankoopinstructie wordt.",
+        "Vóór de betaling herhaalt u de laatste controles in het live-account: gekozen variant, aantal, artikelkosten, binnenlandse verzending en eventuele weergegeven beperkingen. Controleer na ontvangst in het magazijn uw eigen QC-foto's. Controleer vóór internationale verzending de afmetingen van de verpakking en de routevoorwaarden. Het zijn afzonderlijke besluiten. Door ze gescheiden te houden, is een Hoobuy-spreadsheet nuttig, zelfs als een link verandert, en krijgt u een duidelijk overzicht van wat er op elk punt is geverifieerd."
+      ]
+    ]
+  },
+  "germany": {
+    "title": "Hoobuy verzendkosten naar Duitsland vergelijken",
+    "description": "Plan Hoobuy-verzending naar Duitsland met behulp van het verpakte gewicht, de afmetingen en de routevoorwaarden. Werk door een voorbeeld van een offertevergelijking zonder verzonnen live tarieven.",
+    "lead": "Er is geen enkele Hoobuy-verzendprijs naar Duitsland die voor elk pakket geldt. Gebruik Duitsland als bestemming en vergelijk vervolgens in aanmerking komende routes met dezelfde inhoud, verpakt gewicht en buitenafmetingen. Een lichtgewicht maar omvangrijke doos kan meer kosten dan het gewicht doet vermoeden.",
+    "sections": [
+      [
+        "Begin met een pakketspecificatie, niet met een prijsscreenshot",
+        "Maak een dossier op met daarin Duitsland als bestemming, het door de schatter gevraagde leveringsgebied, elke artikelcategorie, het werkelijke verpakte gewicht en de buitenlengte, breedte en hoogte in centimeters. Voeg de offertedatum en de verpakkingsaannames toe. Als de artikelen niet zijn verpakt, label dan de afmetingen voorlopig. Een screenshot van een andere klant is niet vergelijkbaar, tenzij u de relevante invoer kent en de offertevoorwaarden die deze hebben geproduceerd.",
+        "De officiële Hoobuy-schatter accepteert een bestemming, gewicht, itemcategorie en afmetingen. Gebruik de live schatter om de beschikbare routes voor uw huidige invoer te bekijken. Lees vervolgens de voorwaarden van elke route voordat u de prijzen vergelijkt. Deze gids publiceert geen live Duitsland-tarief, een gegarandeerde levertijd of een lijst met routes die altijd beschikbaar zullen zijn. Het doel ervan is om u te helpen een huidige offerte te interpreteren en te voorkomen dat u pakketten of diensten vergelijkt die wezenlijk verschillend zijn."
+      ],
+      [
+        "Los de QC en de pakketinhoud op voordat u een route kiest",
+        "Controleer de geselecteerde varianten, hoeveelheid, accessoires en eventuele openstaande QC-problemen vóór de definitieve verpakking. Een ontbrekende meting of een lopende uitwisseling kan veranderen wat er daadwerkelijk zal reizen. Als u een artikel verwijdert, een vervangend artikel aanvraagt of een doos behoudt, raadpleeg dan de verzendgegevens opnieuw. Houd een expliciete lijst bij van wat er in het pakket moet blijven, inclusief stofzakken, reserveonderdelen en beschermende verpakkingen. Een goedkopere schatting op basis van een onvolledige inhoud is geen besparing waarop u kunt vertrouwen.",
+        "Het in aanmerking komen voor een route gaat vóór de prijs. Bekijk de huidige acceptatievoorwaarden voor uw werkelijke itemtypes en -kenmerken, vooral als een pakket batterijen, vloeistoffen of breekbare goederen bevat. Ga er niet van uit dat een route voor gewone kleding ook elk accessoire accepteert. Als een beperking onduidelijk is, vraag dan de dienst naar de specifieke inhoud via het officiële kanaal. Verberg nooit de itemcategorie om een goedkopere route beschikbaar te laten lijken in de calculator."
+      ],
+      [
+        "Vergelijk het werkelijke gewicht met het volumegewicht",
+        "Het werkelijke gewicht is de gemeten massa van het pakket. Het volumetrische gewicht vertegenwoordigt de ruimte die de doos inneemt. Bereken lengte × breedte × hoogte ÷ de toepasselijke deler, waarbij de eenheden consistent blijven. Lees dan de routeregel om te zien of het hogere gewicht in rekening wordt gebracht en hoe afrondingen, minimumgewichten of extra verhogingen werken. De deler en factureringsregels horen bij de geselecteerde route; een voorbeeld in een algemene handleiding heft deze voorwaarden niet op.",
+        "Enkel uitgewerkt voorbeeld: stel dat de verpakte doos 4 kg weegt en 40 × 30 × 30 cm meet. Met een illustratieve deler van 6.000 is het volumegewicht 6 kg. Als u de laatste afmeting verkleint naar 20 cm, krijgt u 4 kg. Volgens een illustratieve 'hoger-van-de-twee'-regel wordt de factureerbare startvergelijking 6 kg versus 4 kg, vóór afronding. Deze cijfers zijn een transparante berekening en geen offerte of bevestiging van een bepaalde Duitse route."
+      ],
+      [
+        "Gebruik een fictief tarief om de berekening te begrijpen",
+        "Stel dat een fictieve dienst 50 CNY in rekening brengt voor de eerste 0,5 kg en 12 CNY voor elke extra begonnen 0,5 kg. Bij 4 kg is de berekening 50 + 7 × 12 = 134 CNY. Bij 6 kg is dit 50 + 11 × 12 = 182 CNY. Een gewicht van 4,01 kg zou in dit voorbeeld naar de volgende stap gaan, wat 50 + 8 × 12 = 146 CNY oplevert. Deze verzonnen figuren verklaren de stappen; het zijn geen Hoobuy-prijzen.",
+        "Wanneer u een echte prijsopgave leest, vervangt u elke fictieve invoer door de huidige toeslag, verhoging, toeslag en afrondingsregel van de route. Controleer eventuele toeslagen of minima apart. Ga er niet van uit dat een reductie van twee kilogram altijd een evenredige kostenbesparing oplevert. Een route die in verhogingen wordt geprijsd, een minimumtarief of een wijziging in de geschiktheid voor de service kunnen het resultaat beïnvloeden. Bewaar de daadwerkelijke offerte in plaats van dit voorbeeld als budgettoezegging te gebruiken."
+      ],
+      [
+        "Vergelijk verpakkingsopties zonder de noodzakelijke bescherming op te offeren",
+        "Vraag welke wijzigingen praktisch zijn voor de specifieke artikelen: het opvouwen van zachte kleding, het verwijderen van een ongewenste doos of het behouden van bescherming voor breekbare onderdelen hebben verschillende gevolgen. Vergelijk de resulterende buitenmetingen en het beschermingsniveau. Een schoenendoos kan veel ruimte in beslag nemen, maar als u deze verwijdert, kunt u ook de verpakking verwijderen die u wilt bewaren. Comprimeer stijve of delicate goederen niet alleen maar om een lager berekend volumegewicht te bereiken. Noteer de instructies en controleer het definitieve verpakkingsdocument, indien beschikbaar.",
+        "Als u twee pakketten overweegt in plaats van één, vermeld dan beide complete pakketten met hun eigen verpakking, minimale kosten en diensten en voeg vervolgens de resultaten toe. Twee kleinere pakketten kosten niet automatisch minder dan één groter pakket. Controleer ook of de splitsing de geschiktheid of de trackingregeling verandert. Spreek bij een gedeelde bestelling vóór betaling af hoe de kosten worden verdeeld; delen op basis van het aantal items levert een ander resultaat op dan delen op basis van het werkelijke gewicht of de bezette ruimte."
+      ],
+      [
+        "Aparte internationale verzendkosten van het volledige aankoopbudget",
+        "Houd aparte vermeldingen bij voor de producten, verzending van verkoper naar magazijn, optionele foto- of verpakkingsservices, internationale verzendkosten en betalings- of valutaconversiekosten die daadwerkelijk van toepassing zijn. Lees wat er in de geselecteerde offerte is inbegrepen, zodat u niet twee keer een inbegrepen dienst toevoegt. Een binnenlands verzendlabel op een productpagina bepaalt niet de internationale prijs naar Duitsland. Op dezelfde manier kunnen een aanbetaling voor verzending en een uiteindelijk gemeten toeslag verschillende records zijn.",
+        "Raadpleeg voor bestemmingsbelastingen, importvereisten of administratiekosten van de vervoerder de huidige officiële Duitse douanerichtlijnen en de voorwaarden van de geselecteerde service. Dit artikel berekent geen belasting, belooft geen belastingvrije drempel en beschouwt een routenaam niet als bewijs dat elke bestemmingstoeslag is inbegrepen. Bewaar de documentatie van de aankoop en volg de toepasselijke aangiftevereisten. Als de reikwijdte van een opgegeven inbegrepen bedrag onduidelijk is, vraag dit dan vóór de betaling, in plaats van een geschat bedrag in uw budget op te nemen."
+      ],
+      [
+        "Vergelijk offertes in een consistente beslissingstabel",
+        "Noteer voor elke kandidaatroute het tijdstip van de offerte, de bestemming, de inhoud, het werkelijke gewicht, de afmetingen, deler indien relevant, het belastbare gewicht, de afronding, de prijs, de inbegrepen diensten, de tracking en de opgegeven leveringsschatting. Zorg ervoor dat optionele beschermings- of verzekeringskeuzes consistent zijn tijdens de vergelijking. Als de rekening geen waarde blootlegt, schrijf dan 'niet vermeld' en vraag waar het ertoe doet. Vermijd het maken van een ogenschijnlijk nauwkeurige vergelijking door ontbrekende termen te vullen met aannames uit een andere route.",
+        "Prijs is één kolom in de beslissing. Controleer of de trackingdekking en leveringsschatting aan uw behoeften voldoen en of de service de inhoud accepteert. Lees de compensatievoorwaarden voordat u ervan uitgaat dat een verloren of beschadigd pakket volledig wordt vergoed. Een geschat transitinterval is niet hetzelfde als een gegarandeerde aankomstdatum. Gebruik de verzendtijdgids om de aankoop-, magazijn- en transportfasen van elkaar te scheiden, zodat u kunt beslissen of het algemene plan binnen uw deadline past."
+      ],
+      [
+        "Controleer het eindbedrag en bewaar het bewijsmateriaal",
+        "Voordat u de verzending bevestigt, vergelijkt u de definitieve artikellijst, de gegevens van de ontvanger, de verpakkingsafmetingen, de geselecteerde route en het totaal met de opgeslagen offerte. Als de prijs is gewijzigd, controleer dan of de afmetingen, het gewicht, de afronding of de optionele services zijn gewijzigd. In de officiële beginnersgids wordt uitgelegd dat de uiteindelijke verzendkosten afhankelijk zijn van geverifieerde pakketafmetingen. Vraag om opheldering als een verschil niet door het dossier wordt verklaard, en bewaar de schatting en de eindbetaling als aparte vermeldingen in de tracker.",
+        "Bewaar na verzending de pakketidentificatie, trackingreferenties, betalingsgegevens en relevante ondersteuningsantwoorden privé. Als u uw zending Duitsland later vergelijkt met een andere aankoop, gebruik dan dezelfde begin- en eindgebeurtenissen en noteer eventuele verschillen in inhoud en verpakking. Het nuttigste budget is een reproduceerbaar overzicht van de input en voorwaarden die u heeft geaccepteerd. Update deze gegevens voor elk nieuw pakket in plaats van een oude Duitse prijs te hergebruiken alsof het een permanent tarief is."
+      ]
+    ]
+  }
 }

@@ -1,44 +1,402 @@
 {
- "qc":{"title":"Fotos QC de Hoobuy: cómo encontrarlas y revisar tu pedido","description":"Encuentra las fotos QC de tu pedido de Hoobuy, distingue las referencias públicas y solicita las pruebas necesarias antes del envío.","lead":"Al buscar «QC Hoobuy», distingue las imágenes públicas de referencia de las fotos de almacén de tu pedido. Solo estas últimas muestran el artículo que vas a enviar.","sections":[
- ["Encuentra las fotos correctas","Entra en tu cuenta de Hoobuy y abre el pedido o artículo de almacén correspondiente. Revisa el estado y la sección de fotos o inspección; los nombres pueden cambiar. Comprueba número de pedido, vendedor, color, talla y cantidad antes de mirar las imágenes. Pagar no demuestra que el artículo haya llegado.","Si faltan fotos, averigua si el vendedor ha enviado, si el almacén ha recibido y si terminó la inspección. Pregunta qué paso sigue pendiente. Un buscador público no puede encontrar fotos privadas que todavía no se han tomado."],
- ["Usa los buscadores QC como referencia","Busca mediante el enlace original del vendedor o el identificador, no solo un nombre genérico. Compara vendedor, anuncio, variante y fecha: imágenes parecidas pueden corresponder a otra talla o lote.","No encontrar resultados solo indica que ese servicio no muestra una referencia coincidente. Encontrarlos no garantiza autenticidad, calidad ni existencias actuales. Esta web ofrece guías de inspección, no una base de fotos privadas de pedidos."],
- ["Revisa tu artículo en un orden útil","Empieza por etiqueta de talla, color, cantidad y accesorios. Después examina forma general, ambas caras, costuras, bordes, posición del estampado y daños visibles. Guarda los originales para no confundir la compresión de una vista previa con un defecto.","Compara una medida bien fotografiada con un artículo que ya tengas. La etiqueta de talla no demuestra las dimensiones. Las fotos no prueban construcción interna, composición, durabilidad ni un color exacto bajo todas las luces."],
- ["Resuelve una duda con una imagen concreta","Anota la incertidumbre y qué prueba cambiaría tu decisión. Para un estampado inclinado, pide una vista completa, frontal y con la prenda plana. Para una anchura, indica ambos extremos y solicita que aparezcan juntos.","Antes de confirmar, consulta el procedimiento y posibles costes de fotos adicionales en tu cuenta. Evita repetir el mismo ángulo. Si ya está clara una variante incorrecta, conserva el pedido y pregunta por las soluciones disponibles."],
- ["Registra la decisión antes de enviar","Guarda juntos enlace del vendedor, número de pedido, variante, fecha de fotos, duda y decisión. Usa estados como listo, esperando prueba o esperando solución. Una pregunta sin respuesta no equivale a aprobación.","Revisa los plazos de devolución aplicables mientras el artículo está en el almacén. Después comprueba peso embalado, dimensiones y restricciones de transporte. Unas fotos satisfactorias no garantizan que todas las líneas acepten el producto."]]},
- "pending":{"title":"Hoobuy Process Pending: qué revisar antes de volver a comprar","description":"Comprueba pago, compra y stock cuando Hoobuy muestra Process Pending y envía una consulta clara sin duplicar pedidos.","lead":"«Process Pending» es un estado que debes aclarar, no una cuenta atrás fiable. Identifica el último paso confirmado antes de esperar, contactar con soporte o solicitar una cancelación.","sections":[
- ["Guarda el estado actual del pedido","Anota número, fecha y hora del pago, variante, importe y texto exacto del estado. Guarda una captura fechada y revisa solicitudes de confirmación, cambios de variante o pagos adicionales. No publiques datos de cuenta ni referencias de pago.","Compara pedido e historial de pagos. Una autorización bancaria, el saldo de la cuenta y un pedido pagado son registros distintos. Si no coinciden, pide a soporte que concilie la operación antes de pagar otra vez."],
- ["Distingue compra y transporte","Busca confirmación de compra, salida del vendedor y número de seguimiento nacional. El trayecto vendedor-almacén y el envío internacional son etapas distintas con registros separados.","El pago no demuestra recepción en almacén. Las fotos QC corresponden a la recepción e inspección; una sección vacía no explica por sí sola un retraso en la compra. Pregunta exactamente qué paso está pendiente."],
- ["Envía una consulta que se pueda responder","Modelo: «Pedido [número], pagado el [fecha y hora], con estado [texto exacto]. Confirmad si la compra está completada, si la variante está disponible y si debo hacer algo. Si no puede comprarse, ¿qué opciones de cancelación o reembolso se aplican?»","Adjunta captura y justificante necesario en el canal privado de soporte. Mantén, si puedes, una sola conversación. Una cronología clara resulta más útil que mensajes contradictorios o acusaciones sin pruebas."],
- ["Decide si esperar encaja con tus planes","Compara la respuesta con tu fecha límite real, existencias y otros artículos del paquete. La espera de otro comprador no es una promesa para ti. Esta guía no fija un tiempo de procesamiento ni garantiza una ventana de cancelación.","Antes de repetir la compra, confirma qué ocurrirá con el primer pedido, si aún puede cancelarse y adónde iría un reembolso aprobado. Abonar saldo en la cuenta no equivale a completar una retirada al método de pago original."],
- ["Comprueba el siguiente paso cuando cambie el estado","Guarda la respuesta y verifica que el pedido refleja lo acordado. Revisa cualquier talla o color sustituto antes de aceptar. Actualiza tu tabla para evitar duplicados o productos no deseados en un envío compartido.","Cuando haya fotos de almacén, inspecciona el artículo antes de agruparlo. Si sigue sin estar claro, continúa con el mismo número y cronología. Para costes, plazos y requisitos, consulta las condiciones actuales de la cuenta, no publicaciones antiguas."]]},
- "cost":{"title":"Envío Hoobuy: calcular peso real y volumétrico","description":"Compara peso real y volumétrico, calcula un ejemplo con las dimensiones del paquete y separa el envío Hoobuy del presupuesto total.","lead":"Una estimación útil necesita destino, peso embalado y dimensiones exteriores. El precio o el número de artículos no basta para calcular el transporte internacional.","sections":[
- ["Recoge los datos antes de comparar","Anota país y zona postal, categorías, peso embalado, largo, ancho y alto exteriores, y fecha del presupuesto. Cajas de zapatos, protección o un cartón mayor cambian el cálculo aunque los productos sean iguales.","Consulta disponibilidad y restricciones en el estimador actual de tu cuenta y las condiciones de la línea. Considera el contenido real, como baterías o artículos frágiles. Una estimación no confirma que aceptarán el paquete final."],
- ["Entiende los dos tipos de peso","El peso real se mide en una báscula. El volumétrico convierte el espacio ocupado en peso mediante el divisor de la línea. Si se factura el mayor, compáralos antes de aplicar redondeos, mínimos o tramos de peso del servicio.","La calculadora ilustra largo × ancho × alto ÷ divisor, con centímetros y kilogramos. Introduce el divisor de la línea concreta. No existe un divisor universal de Hoobuy. El resultado es una demostración de peso, no una tarifa en directo."],
- ["Compara un cambio de embalaje","Solo como ejemplo: un paquete de 4 kg y 40 × 30 × 30 cm da 6 kg volumétricos con un divisor supuesto de 6.000. Con 40 × 30 × 20 cm, da 4 kg. Si se usa el mayor peso, el valor pasa de 6 a 4 kg antes del redondeo.","Esto no identifica las condiciones de una línea ni promete ahorro. Quitar una caja puede reducir volumen, pero también protección o accesorios que quieras conservar. Compara el embalaje final y su protección, no solo el peso del producto sin caja."],
- ["Separa el presupuesto completo del porte","Registra por separado productos, transporte al almacén, inspección o embalaje opcional, envío internacional y cargos aplicables en destino. Comprueba lo incluido antes de sumar otra vez. La conversión de moneda y las comisiones de pago también pueden influir.","No utilices un valor aduanero artificialmente bajo para ajustar el presupuesto. Sigue los requisitos actuales del destino y las instrucciones de declaración de la cuenta. Esta guía no ofrece tipos fiscales, franquicias ni garantías de ausencia de cargos aduaneros."],
- ["Compara presupuestos equivalentes","Guarda línea, fecha y hora, destino, medidas, peso, contenido, servicios incluidos y plazo estimado. Una oferta basada en artículos sin embalar no es comparable directamente con otra del cartón definitivo.","Recalcula tras modificar el embalaje y antes de pagar. Un plazo estimado no garantiza una fecha de llegada. Conserva oferta y ficha del paquete para entender ajustes posteriores frente a los datos enviados."]]},
- "extra":{"title":"Fotos QC adicionales Hoobuy: ángulos y medidas útiles","description":"Solicita fotos QC adicionales para estampados, medidas, daños o accesorios faltantes con instrucciones claras y una plantilla de mensaje.","lead":"Pide una foto QC adicional cuando pueda resolver una duda concreta. Más imágenes del mismo ángulo no facilitan necesariamente la decisión.","sections":[
- ["Define la pregunta antes de pedir la foto","Resume la duda en una frase: estampado descentrado, posible costura abierta, anchura desconocida o accesorio faltante. Indica qué debería mostrar una imagen satisfactoria. Así se puede realizar la petición y evaluar el resultado.","Distingue un defecto visible de una vista que falta. Si la etiqueta ya demuestra una variante distinta, guarda esa prueba y consulta una solución. Otra foto general decorativa puede no aportar nada."],
- ["Especifica ángulo y puntos de referencia","Para la posición del estampado, pide prenda plana, tela sin estirar, toma frontal y contorno completo. Para costuras, solicita detalle de la zona sospechosa y suficiente contexto para localizarla.","En medidas de largo o ancho, nombra ambos extremos. El cero y el extremo final de la regla deben verse en la misma imagen. Si falta un accesorio, pide todo el contenido extendido, no solo un primer plano del artículo principal."],
- ["Usa una solicitud breve","«Pedido [número], variante [talla/color]. Fotografiad [zona] desde [ángulo], incluyendo [regla/extremos/contorno]. Necesito aclarar [una pregunta] antes de enviar o solicitar una solución. Confirmad cualquier coste antes de proceder.»","Elimina instrucciones irrelevantes y datos privados de los ejemplos públicos. Comprueba servicios, medidas disponibles y precios en tu cuenta. Esta guía no anuncia una tarifa fija ni un número de fotos gratuitas."],
- ["Compara la imagen con la duda original","Observa los mismos puntos en ambas vistas. Una foto plana puede aclarar un efecto de perspectiva y un detalle puede revelar que una supuesta mancha era una sombra. Conserva las dos y explica qué cambió en la evidencia.","Una foto no demuestra de forma fiable composición, impermeabilidad, resistencia a largo plazo o color exacto en todas las pantallas. Si la propiedad no puede probarse visualmente, pregunta por otras pruebas. Nitidez no equivale a demostración."],
- ["Detente cuando el siguiente paso esté claro","Marca resuelto, aún incierto o discrepancia confirmada. Si se resuelve, revisa el paquete. Si hay discrepancia, consulta el procedimiento actual de devolución o cambio y conserva anuncio, variante y fotos.","Antes de otra solicitud, valora importancia y plazos aplicables. Las fotos repetitivas no deberían consumir el plazo de devolución. Guarda la decisión y su imagen de apoyo en tu tabla."]]},
- "sheet":{"title":"Hoobuy Spreadsheet: plantilla gratuita para W2C y QC","description":"Descarga una plantilla CSV de Hoobuy para enlaces de vendedor, variantes, decisiones QC y costes del paquete, con instrucciones de uso.","lead":"Una buena hoja de Hoobuy conecta el enlace del producto, la variante comprada y las pruebas revisadas. Descarga el CSV vacío e impórtalo en tu aplicación de hojas de cálculo.","sections":[
- ["Crea una fila por variante comprada","Anota nombre, URL original del vendedor, identificador, color, talla, cantidad y propietario. Dos tallas necesitan dos filas aunque compartan anuncio. Un nombre genérico no distingue variantes ni cambios posteriores en la publicación.","El archivo es una plantilla vacía de seguimiento, no un catálogo previamente verificado. Los enlaces del índice son puntos de partida. Revisa anuncio y precio actuales antes de comprar; una hoja guardada puede quedar desactualizada."],
- ["Separa referencias y fotos de tu pedido","Usa columnas diferentes para referencias públicas y fotos de almacén de tu pedido. Añade número, fecha, duda y siguiente acción. Una imagen pública orienta la revisión, pero no verifica la unidad recibida para ti.","Utiliza estados claros: esperando fotos, esperando medidas, solución solicitada y listo para el paquete. Cámbialos cuando cambien las pruebas. Una celda vacía significa desconocido, no aprobado."],
- ["Muestra costes e incógnitas","Separa producto, envío nacional, servicios opcionales y reparto del porte final. Indica moneda y valores estimados. No sumes divisas diferentes sin documentar la conversión.","En un pedido compartido, acordad el reparto antes de enviar. Peso, espacio ocupado y división igualitaria producen resultados distintos. Guardad la regla acordada y el recibo final para que todos puedan revisarlo."],
- ["Revisa la fila antes de incluir el artículo","Abre el anuncio y compara vendedor, variante y cantidad con el pedido. Revisa las fotos, resuelve las medidas pendientes y anota los plazos de devolución aplicables. Después marca listo y vincula el paquete correcto.","Si hay sustitución o un nuevo pedido, conserva la fila original con su resultado. No sobrescribas el historial haciendo que dos compras parezcan una. Es especialmente útil cuando un pedido pendiente vuelve a avanzar."],
- ["Comparte solo lo necesario","Crea una copia pública aparte para compartir productos. Borra números de pedido, nombres, direcciones, conversaciones privadas, referencias de pago y enlaces privados del almacén. Revisa los permisos antes de difundirla.","Registra la última comprobación en tu copia de trabajo. Una hoja útil explica qué se verificó, cuándo y qué sigue sin conocerse. Un enlace o una foto de referencia no basta para etiquetar un producto como «verificado»."]]},
- "shipping":{"title":"Checklist de envío Hoobuy: QC, embalaje y revisión del paquete","description":"Antes del envío Hoobuy, resuelve dudas QC, confirma contenido y protección, revisa condiciones de transporte y guarda el presupuesto final.","lead":"Termina las comprobaciones de cada artículo antes de decidir sobre el paquete. Un envío barato no justifica incluir una talla incorrecta, piezas faltantes o daños sin resolver.","sections":[
- ["Asigna un estado claro a cada artículo","Revisa pedido, variante, cantidad y fotos. Separa los artículos listos de los que esperan medidas, respuesta o solución. Comprueba plazos de devolución mientras permanecen en el almacén.","En un paquete compartido, asigna responsable a cada decisión pendiente. Conserva una lista común de aprobaciones para no incluir cambios en curso ni duplicados. Una etiqueta correcta no garantiza que la talla quede bien."],
- ["Confirma contenido y protección","Enumera artículos y accesorios que deben conservarse. Especifica cajas originales, bolsas protectoras y repuestos. Los objetos frágiles necesitan protección adecuada; quitar una caja no siempre supone un ahorro razonable.","Comprueba medidas y peso después de aplicar tus instrucciones. Compara cualquier registro de embalaje con lo solicitado. Si un dato sigue siendo estimado, no lo presentes como medida definitiva."],
- ["Comprueba la admisión antes del precio","Consulta restricciones actuales, límites de medidas y peso, seguimiento y plazo estimado para el destino y contenido reales. Revisa características como baterías o líquidos frente a las condiciones aplicables.","Compara solo presupuestos con idéntico contenido y supuestos de embalaje. La guía de costes explica peso volumétrico y servicios opcionales. Ni esta lista ni una oferta antigua garantizan la disponibilidad actual de una línea."],
- ["Lee el resumen final del paquete","Compara lista de artículos, destinatario, servicio y total con tu plan. Sigue las instrucciones de declaración y requisitos actuales del destino. Aclara qué costes están incluidos y cuáles quedan fuera.","Si hay un ajuste, contrástalo con peso, dimensiones o servicios finales. Pide explicación antes de confirmar un cambio que no entiendas. Oculta direcciones y datos de pago en capturas públicas."],
- ["Guarda los datos para el seguimiento","Conserva identificador, fecha de envío de la solicitud, línea, medidas embaladas y comprobante de pago. Distingue seguimiento vendedor-almacén, número internacional y posible número del transportista local.","Consulta actualizaciones en la cuenta o transportista correspondiente. La falta de nuevos escaneos no demuestra por sí sola pérdida ni fecha de entrega. Para pedir ayuda, comparte identificador y cronología breve mediante un canal privado adecuado."]]},
- "alignment":{"title":"Hoobuy QC: revisar alineación y simetría del estampado","description":"Comprueba la posición del estampado en fotos QC Hoobuy con vistas planas, ejes y referencias estables para distinguir perspectiva y desajustes.","lead":"Los pliegues, la tela estirada o una cámara inclinada pueden hacer que un estampado parezca torcido. Empieza por una vista recta y referencias fiables.","sections":[
- ["Evalúa primero la fotografía","Busca encuadre girado, hombro elevado, mangas desiguales y pliegues sobre el estampado. Pueden desplazar el centro aparente sin alterar la posición real. Examina la silueta completa, no solo un recorte.","Si la vista no sirve, pide una toma frontal del artículo plano con todo el contorno. Mantén la tela relajada: tirar de un lado para colocarla mejor introduce otra deformación."],
- ["Elige referencias repetibles","Compara el centro del estampado con elementos estructurales adecuados: cuello, cierre central o costuras laterales correspondientes. Revisa los mismos puntos en el anuncio. Algunos diseños son desplazados o asimétricos a propósito.","El centro de la fotografía no es necesariamente el de la prenda. Coloca los pares de forma comparable y examina bordes, paneles y etiquetas equivalentes. Ángulos distintos cambian la anchura y longitud aparentes."],
- ["Mide solo lo que la imagen permite","Si la posición importa, pide una regla entre puntos concretos, como una costura y el borde del estampado. Deben verse cero, extremo y superficie medida. Una regla por encima de un pliegue no da una medida plana fiable.","No inventes una tolerancia en milímetros que el vendedor no haya indicado. Usa anuncio, variante y medidas documentadas. Sin escala fiable, una foto permite observar, pero no afirmar una dimensión exacta."],
- ["Describe la duda con hechos","Ejemplo: «En la vista plana, el centro del estampado parece a la izquierda del centro del cuello». Adjunta vista completa y detalle y solicita un ángulo de confirmación o una medida. Es más útil que una valoración negativa general.","Conserva captura del anuncio, variante y foto de almacén juntas. Documenta la asimetría intencionada antes de tratarla como defecto. Las fotos no autentican productos ni demuestran especificaciones de fabricación no documentadas."],
- ["Decide según las pruebas","Si otra vista resuelve la duda, registra el motivo y sigue revisando. Si persiste una discrepancia clara, comprueba devolución o cambio antes de enviar. Con pruebas débiles, considera si una sola imagen concreta ayudaría.","Guarda originales y decisión. No envíes solo porque se acerque un plazo de devolución: confirma primero las opciones disponibles. Utiliza la guía de fotos adicionales y, cuando esté listo, la checklist del paquete."]]}
+  "qc": {
+    "title": "Fotos QC de Hoobuy: cómo encontrarlas y revisar tu pedido",
+    "description": "Encuentra las fotos QC de tu pedido de Hoobuy, distingue las referencias públicas y solicita las pruebas necesarias antes del envío.",
+    "lead": "Al buscar «QC Hoobuy», distingue las imágenes públicas de referencia de las fotos de almacén de tu pedido. Solo estas últimas muestran el artículo que vas a enviar.",
+    "sections": [
+      [
+        "Encuentra las fotos correctas",
+        "Entra en tu cuenta de Hoobuy y abre el pedido o artículo de almacén correspondiente. Revisa el estado y la sección de fotos o inspección; los nombres pueden cambiar. Comprueba número de pedido, vendedor, color, talla y cantidad antes de mirar las imágenes. Pagar no demuestra que el artículo haya llegado.",
+        "Si faltan fotos, averigua si el vendedor ha enviado, si el almacén ha recibido y si terminó la inspección. Pregunta qué paso sigue pendiente. Un buscador público no puede encontrar fotos privadas que todavía no se han tomado."
+      ],
+      [
+        "Usa los buscadores QC como referencia",
+        "Busca mediante el enlace original del vendedor o el identificador, no solo un nombre genérico. Compara vendedor, anuncio, variante y fecha: imágenes parecidas pueden corresponder a otra talla o lote.",
+        "No encontrar resultados solo indica que ese servicio no muestra una referencia coincidente. Encontrarlos no garantiza autenticidad, calidad ni existencias actuales. Esta web ofrece guías de inspección, no una base de fotos privadas de pedidos."
+      ],
+      [
+        "Revisa tu artículo en un orden útil",
+        "Empieza por etiqueta de talla, color, cantidad y accesorios. Después examina forma general, ambas caras, costuras, bordes, posición del estampado y daños visibles. Guarda los originales para no confundir la compresión de una vista previa con un defecto.",
+        "Compara una medida bien fotografiada con un artículo que ya tengas. La etiqueta de talla no demuestra las dimensiones. Las fotos no prueban construcción interna, composición, durabilidad ni un color exacto bajo todas las luces."
+      ],
+      [
+        "Resuelve una duda con una imagen concreta",
+        "Anota la incertidumbre y qué prueba cambiaría tu decisión. Para un estampado inclinado, pide una vista completa, frontal y con la prenda plana. Para una anchura, indica ambos extremos y solicita que aparezcan juntos.",
+        "Antes de confirmar, consulta el procedimiento y posibles costes de fotos adicionales en tu cuenta. Evita repetir el mismo ángulo. Si ya está clara una variante incorrecta, conserva el pedido y pregunta por las soluciones disponibles."
+      ],
+      [
+        "Registra la decisión antes de enviar",
+        "Guarda juntos enlace del vendedor, número de pedido, variante, fecha de fotos, duda y decisión. Usa estados como listo, esperando prueba o esperando solución. Una pregunta sin respuesta no equivale a aprobación.",
+        "Revisa los plazos de devolución aplicables mientras el artículo está en el almacén. Después comprueba peso embalado, dimensiones y restricciones de transporte. Unas fotos satisfactorias no garantizan que todas las líneas acepten el producto."
+      ],
+      [
+        "Una decisión de tres pasos cuando faltan fotografías de control de calidad",
+        "Si el vendedor no realizó el envío, investigue la compra o el stock con el número de pedido del artículo. Si el seguimiento nacional muestra la entrega pero el registro del almacén está incompleto, pregunte sobre el ingreso y la comparación. Si el artículo está almacenado pero falta la foto requerida, solicite esa evidencia de inspección específica. Estas situaciones necesitan respuestas diferentes; buscar la misma referencia pública repetidamente no resolverá ninguno de ellos.",
+        "Ejemplo: una etiqueta de talla coincide con el pedido, pero el ancho del pecho no es visible. Mantenga el artículo en espera de medición, compárelo con una prenda de su propiedad y solicite una medición plana con ambos puntos finales visibles. Si el resultado responde a la pregunta, registre la decisión una vez. Si el enlace del producto ha cambiado, conserve la evidencia de la variante original en lugar de aprobar el artículo con un listado actual no relacionado."
+      ]
+    ]
+  },
+  "pending": {
+    "title": "Hoobuy Process Pending: qué revisar antes de volver a comprar",
+    "description": "Comprueba pago, compra y stock cuando Hoobuy muestra Process Pending y envía una consulta clara sin duplicar pedidos.",
+    "lead": "«Process Pending» es un estado que debes aclarar, no una cuenta atrás fiable. Identifica el último paso confirmado antes de esperar, contactar con soporte o solicitar una cancelación.",
+    "sections": [
+      [
+        "Guarda el estado actual del pedido",
+        "Anota número, fecha y hora del pago, variante, importe y texto exacto del estado. Guarda una captura fechada y revisa solicitudes de confirmación, cambios de variante o pagos adicionales. No publiques datos de cuenta ni referencias de pago.",
+        "Compara pedido e historial de pagos. Una autorización bancaria, el saldo de la cuenta y un pedido pagado son registros distintos. Si no coinciden, pide a soporte que concilie la operación antes de pagar otra vez."
+      ],
+      [
+        "Distingue compra y transporte",
+        "Busca confirmación de compra, salida del vendedor y número de seguimiento nacional. El trayecto vendedor-almacén y el envío internacional son etapas distintas con registros separados.",
+        "El pago no demuestra recepción en almacén. Las fotos QC corresponden a la recepción e inspección; una sección vacía no explica por sí sola un retraso en la compra. Pregunta exactamente qué paso está pendiente."
+      ],
+      [
+        "Envía una consulta que se pueda responder",
+        "Modelo: «Pedido [número], pagado el [fecha y hora], con estado [texto exacto]. Confirmad si la compra está completada, si la variante está disponible y si debo hacer algo. Si no puede comprarse, ¿qué opciones de cancelación o reembolso se aplican?»",
+        "Adjunta captura y justificante necesario en el canal privado de soporte. Mantén, si puedes, una sola conversación. Una cronología clara resulta más útil que mensajes contradictorios o acusaciones sin pruebas."
+      ],
+      [
+        "Decide si esperar encaja con tus planes",
+        "Compara la respuesta con tu fecha límite real, existencias y otros artículos del paquete. La espera de otro comprador no es una promesa para ti. Esta guía no fija un tiempo de procesamiento ni garantiza una ventana de cancelación.",
+        "Antes de repetir la compra, confirma qué ocurrirá con el primer pedido, si aún puede cancelarse y adónde iría un reembolso aprobado. Abonar saldo en la cuenta no equivale a completar una retirada al método de pago original."
+      ],
+      [
+        "Comprueba el siguiente paso cuando cambie el estado",
+        "Guarda la respuesta y verifica que el pedido refleja lo acordado. Revisa cualquier talla o color sustituto antes de aceptar. Actualiza tu tabla para evitar duplicados o productos no deseados en un envío compartido.",
+        "Cuando haya fotos de almacén, inspecciona el artículo antes de agruparlo. Si sigue sin estar claro, continúa con el mismo número y cronología. Para costes, plazos y requisitos, consulta las condiciones actuales de la cuenta, no publicaciones antiguas."
+      ],
+      [
+        "Cuando el pedido cambie, actualice el cronograma de entrega",
+        "Registre la confirmación de compra, el envío nacional y el recibo de almacén como eventos separados. Si recibe un nuevo enlace de vendedor o le ofrecen un sustituto, verifique nuevamente la identidad del producto y la variante seleccionada. No transfiera automáticamente una suposición de aprobación o entrega del listado original.",
+        "Utilice la guía de tiempos de envío para las etapas posteriores del paquete. Un artículo comprado aún puede estar esperando al vendedor y un artículo almacenado aún puede estar esperando su decisión de control de calidad. Mantener esas distinciones en el rastreador hace que la siguiente solicitud de soporte sea específica y evita que se confunda una estimación de ruta internacional con la fecha de llegada de todo el pedido."
+      ]
+    ]
+  },
+  "cost": {
+    "title": "Envío Hoobuy: calcular peso real y volumétrico",
+    "description": "Compara peso real y volumétrico, calcula un ejemplo con las dimensiones del paquete y separa el envío Hoobuy del presupuesto total.",
+    "lead": "Una estimación útil necesita destino, peso embalado y dimensiones exteriores. El precio o el número de artículos no basta para calcular el transporte internacional.",
+    "sections": [
+      [
+        "Recoge los datos antes de comparar",
+        "Anota país y zona postal, categorías, peso embalado, largo, ancho y alto exteriores, y fecha del presupuesto. Cajas de zapatos, protección o un cartón mayor cambian el cálculo aunque los productos sean iguales.",
+        "Consulta disponibilidad y restricciones en el estimador actual de tu cuenta y las condiciones de la línea. Considera el contenido real, como baterías o artículos frágiles. Una estimación no confirma que aceptarán el paquete final."
+      ],
+      [
+        "Entiende los dos tipos de peso",
+        "El peso real se mide en una báscula. El volumétrico convierte el espacio ocupado en peso mediante el divisor de la línea. Si se factura el mayor, compáralos antes de aplicar redondeos, mínimos o tramos de peso del servicio.",
+        "La calculadora ilustra largo × ancho × alto ÷ divisor, con centímetros y kilogramos. Introduce el divisor de la línea concreta. No existe un divisor universal de Hoobuy. El resultado es una demostración de peso, no una tarifa en directo."
+      ],
+      [
+        "Compara un cambio de embalaje",
+        "Solo como ejemplo: un paquete de 4 kg y 40 × 30 × 30 cm da 6 kg volumétricos con un divisor supuesto de 6.000. Con 40 × 30 × 20 cm, da 4 kg. Si se usa el mayor peso, el valor pasa de 6 a 4 kg antes del redondeo.",
+        "Esto no identifica las condiciones de una línea ni promete ahorro. Quitar una caja puede reducir volumen, pero también protección o accesorios que quieras conservar. Compara el embalaje final y su protección, no solo el peso del producto sin caja."
+      ],
+      [
+        "Separa el presupuesto completo del porte",
+        "Registra por separado productos, transporte al almacén, inspección o embalaje opcional, envío internacional y cargos aplicables en destino. Comprueba lo incluido antes de sumar otra vez. La conversión de moneda y las comisiones de pago también pueden influir.",
+        "No utilices un valor aduanero artificialmente bajo para ajustar el presupuesto. Sigue los requisitos actuales del destino y las instrucciones de declaración de la cuenta. Esta guía no ofrece tipos fiscales, franquicias ni garantías de ausencia de cargos aduaneros."
+      ],
+      [
+        "Compara presupuestos equivalentes",
+        "Guarda línea, fecha y hora, destino, medidas, peso, contenido, servicios incluidos y plazo estimado. Una oferta basada en artículos sin embalar no es comparable directamente con otra del cartón definitivo.",
+        "Recalcula tras modificar el embalaje y antes de pagar. Un plazo estimado no garantiza una fecha de llegada. Conserva oferta y ficha del paquete para entender ajustes posteriores frente a los datos enviados."
+      ],
+      [
+        "Distinguir el depósito del cargo de envío medido",
+        "Mantenga juntos el presupuesto original, el registro de pago del envío y las medidas finales del embalaje. Si el monto cambia, compare el peso, las dimensiones, los servicios seleccionados y los incrementos de facturación antes de asumir que el precio del artículo cambió. Solicite soporte para identificar el aporte responsable de una diferencia inexplicable.",
+        "Para Alemania, la guía específica de comparación de cotizaciones funciona a través de una tarifa ficticia de primer peso y peso adicional. Explica por qué un pequeño cambio de peso puede traspasar un incremento de facturación sin presentar precios inventados como tarifas reales. Utilice el estimador oficial actual para los precios reales y el divisor y las reglas de redondeo de la ruta."
+      ]
+    ]
+  },
+  "extra": {
+    "title": "Fotos QC adicionales Hoobuy: ángulos y medidas útiles",
+    "description": "Solicita fotos QC adicionales para estampados, medidas, daños o accesorios faltantes con instrucciones claras y una plantilla de mensaje.",
+    "lead": "Pide una foto QC adicional cuando pueda resolver una duda concreta. Más imágenes del mismo ángulo no facilitan necesariamente la decisión.",
+    "sections": [
+      [
+        "Define la pregunta antes de pedir la foto",
+        "Resume la duda en una frase: estampado descentrado, posible costura abierta, anchura desconocida o accesorio faltante. Indica qué debería mostrar una imagen satisfactoria. Así se puede realizar la petición y evaluar el resultado.",
+        "Distingue un defecto visible de una vista que falta. Si la etiqueta ya demuestra una variante distinta, guarda esa prueba y consulta una solución. Otra foto general decorativa puede no aportar nada."
+      ],
+      [
+        "Especifica ángulo y puntos de referencia",
+        "Para la posición del estampado, pide prenda plana, tela sin estirar, toma frontal y contorno completo. Para costuras, solicita detalle de la zona sospechosa y suficiente contexto para localizarla.",
+        "En medidas de largo o ancho, nombra ambos extremos. El cero y el extremo final de la regla deben verse en la misma imagen. Si falta un accesorio, pide todo el contenido extendido, no solo un primer plano del artículo principal."
+      ],
+      [
+        "Usa una solicitud breve",
+        "«Pedido [número], variante [talla/color]. Fotografiad [zona] desde [ángulo], incluyendo [regla/extremos/contorno]. Necesito aclarar [una pregunta] antes de enviar o solicitar una solución. Confirmad cualquier coste antes de proceder.»",
+        "Elimina instrucciones irrelevantes y datos privados de los ejemplos públicos. Comprueba servicios, medidas disponibles y precios en tu cuenta. Esta guía no anuncia una tarifa fija ni un número de fotos gratuitas."
+      ],
+      [
+        "Compara la imagen con la duda original",
+        "Observa los mismos puntos en ambas vistas. Una foto plana puede aclarar un efecto de perspectiva y un detalle puede revelar que una supuesta mancha era una sombra. Conserva las dos y explica qué cambió en la evidencia.",
+        "Una foto no demuestra de forma fiable composición, impermeabilidad, resistencia a largo plazo o color exacto en todas las pantallas. Si la propiedad no puede probarse visualmente, pregunta por otras pruebas. Nitidez no equivale a demostración."
+      ],
+      [
+        "Detente cuando el siguiente paso esté claro",
+        "Marca resuelto, aún incierto o discrepancia confirmada. Si se resuelve, revisa el paquete. Si hay discrepancia, consulta el procedimiento actual de devolución o cambio y conserva anuncio, variante y fotos.",
+        "Antes de otra solicitud, valora importancia y plazos aplicables. Las fotos repetitivas no deberían consumir el plazo de devolución. Guarda la decisión y su imagen de apoyo en tu tabla."
+      ],
+      [
+        "Consulta las nuevas pruebas antes de solicitar otra vista.",
+        "Guarde la pregunta exacta al lado de la foto solicitada. Si solicitó el ancho, verifique que la regla comience en la costura deseada y termine en la otra costura en el mismo marco. Si alguno de los puntos finales está oculto, describe esa omisión específica en el seguimiento en lugar de pedir más fotografías en general.",
+        "Revise las opciones de remedio actuales de la orden mientras espera. Esta guía no establece una fecha límite universal. Una fotografía adicional puede responder una pregunta visual, pero no puede garantizar el ajuste, la composición del material o la elegibilidad de la ruta. Una vez que la evidencia sea suficiente, actualice la decisión de control de calidad y continúe con la lista de verificación del paquete."
+      ]
+    ]
+  },
+  "sheet": {
+    "title": "Hoja de cálculo de Hoobuy: enlaces de productos, controles de calidad y seguimiento gratuito",
+    "description": "Explore las rutas de productos y descargue un rastreador de hojas de cálculo Hoobuy gratuito. Consulte los enlaces del vendedor, las variantes seleccionadas, las fotos de control de calidad y los costos del paquete antes de realizar el pedido.",
+    "lead": "Comience con una ruta de producto, verifique la lista de vendedores en vivo y luego mantenga juntas la variante exacta y su decisión de control de calidad. El siguiente CSV gratuito es un rastreador de pedidos en blanco; Utilice el índice de productos para encontrar y la lista de verificación para cada compra.",
+    "sections": [
+      [
+        "Crea una fila por variante comprada",
+        "Anota nombre, URL original del vendedor, identificador, color, talla, cantidad y propietario. Dos tallas necesitan dos filas aunque compartan anuncio. Un nombre genérico no distingue variantes ni cambios posteriores en la publicación.",
+        "El archivo es una plantilla vacía de seguimiento, no un catálogo previamente verificado. Los enlaces del índice son puntos de partida. Revisa anuncio y precio actuales antes de comprar; una hoja guardada puede quedar desactualizada."
+      ],
+      [
+        "Separa referencias y fotos de tu pedido",
+        "Usa columnas diferentes para referencias públicas y fotos de almacén de tu pedido. Añade número, fecha, duda y siguiente acción. Una imagen pública orienta la revisión, pero no verifica la unidad recibida para ti.",
+        "Utiliza estados claros: esperando fotos, esperando medidas, solución solicitada y listo para el paquete. Cámbialos cuando cambien las pruebas. Una celda vacía significa desconocido, no aprobado."
+      ],
+      [
+        "Muestra costes e incógnitas",
+        "Separa producto, envío nacional, servicios opcionales y reparto del porte final. Indica moneda y valores estimados. No sumes divisas diferentes sin documentar la conversión.",
+        "En un pedido compartido, acordad el reparto antes de enviar. Peso, espacio ocupado y división igualitaria producen resultados distintos. Guardad la regla acordada y el recibo final para que todos puedan revisarlo."
+      ],
+      [
+        "Revisa la fila antes de incluir el artículo",
+        "Abre el anuncio y compara vendedor, variante y cantidad con el pedido. Revisa las fotos, resuelve las medidas pendientes y anota los plazos de devolución aplicables. Después marca listo y vincula el paquete correcto.",
+        "Si hay sustitución o un nuevo pedido, conserva la fila original con su resultado. No sobrescribas el historial haciendo que dos compras parezcan una. Es especialmente útil cuando un pedido pendiente vuelve a avanzar."
+      ],
+      [
+        "Comparte solo lo necesario",
+        "Crea una copia pública aparte para compartir productos. Borra números de pedido, nombres, direcciones, conversaciones privadas, referencias de pago y enlaces privados del almacén. Revisa los permisos antes de difundirla.",
+        "Registra la última comprobación en tu copia de trabajo. Una hoja útil explica qué se verificó, cuándo y qué sigue sin conocerse. Un enlace o una foto de referencia no basta para etiquetar un producto como «verificado»."
+      ],
+      [
+        "Mantenga visibles los enlaces rotos y los costos inciertos",
+        "Cuando falla un enlace guardado, conserve la URL original y marque la fila con el problema observado: error de carga, variante no disponible, listado modificado o referencia de control de calidad faltante. Registre la fecha del último cheque y la dirección de reemplazo por separado. No borre la relación entre la variante solicitada y la evidencia del almacén.",
+        "Mantenga en blanco los datos de envío desconocidos y etiquete las medidas provisionales. Para un paquete compartido, asigne una persona para resolver cada problema abierto antes de enviarlo. Una fila completa debería dejar clara la siguiente acción, incluso cuando aún no se conoce el precio final o la fecha de entrega. Utilice la guía de solución de problemas de enlaces cuando cambie la ruta de un catálogo."
+      ]
+    ]
+  },
+  "shipping": {
+    "title": "Checklist de envío Hoobuy: QC, embalaje y revisión del paquete",
+    "description": "Antes del envío Hoobuy, resuelve dudas QC, confirma contenido y protección, revisa condiciones de transporte y guarda el presupuesto final.",
+    "lead": "Termina las comprobaciones de cada artículo antes de decidir sobre el paquete. Un envío barato no justifica incluir una talla incorrecta, piezas faltantes o daños sin resolver.",
+    "sections": [
+      [
+        "Asigna un estado claro a cada artículo",
+        "Revisa pedido, variante, cantidad y fotos. Separa los artículos listos de los que esperan medidas, respuesta o solución. Comprueba plazos de devolución mientras permanecen en el almacén.",
+        "En un paquete compartido, asigna responsable a cada decisión pendiente. Conserva una lista común de aprobaciones para no incluir cambios en curso ni duplicados. Una etiqueta correcta no garantiza que la talla quede bien."
+      ],
+      [
+        "Confirma contenido y protección",
+        "Enumera artículos y accesorios que deben conservarse. Especifica cajas originales, bolsas protectoras y repuestos. Los objetos frágiles necesitan protección adecuada; quitar una caja no siempre supone un ahorro razonable.",
+        "Comprueba medidas y peso después de aplicar tus instrucciones. Compara cualquier registro de embalaje con lo solicitado. Si un dato sigue siendo estimado, no lo presentes como medida definitiva."
+      ],
+      [
+        "Comprueba la admisión antes del precio",
+        "Consulta restricciones actuales, límites de medidas y peso, seguimiento y plazo estimado para el destino y contenido reales. Revisa características como baterías o líquidos frente a las condiciones aplicables.",
+        "Compara solo presupuestos con idéntico contenido y supuestos de embalaje. La guía de costes explica peso volumétrico y servicios opcionales. Ni esta lista ni una oferta antigua garantizan la disponibilidad actual de una línea."
+      ],
+      [
+        "Lee el resumen final del paquete",
+        "Compara lista de artículos, destinatario, servicio y total con tu plan. Sigue las instrucciones de declaración y requisitos actuales del destino. Aclara qué costes están incluidos y cuáles quedan fuera.",
+        "Si hay un ajuste, contrástalo con peso, dimensiones o servicios finales. Pide explicación antes de confirmar un cambio que no entiendas. Oculta direcciones y datos de pago en capturas públicas."
+      ],
+      [
+        "Guarda los datos para el seguimiento",
+        "Conserva identificador, fecha de envío de la solicitud, línea, medidas embaladas y comprobante de pago. Distingue seguimiento vendedor-almacén, número internacional y posible número del transportista local.",
+        "Consulta actualizaciones en la cuenta o transportista correspondiente. La falta de nuevos escaneos no demuestra por sí sola pérdida ni fecha de entrega. Para pedir ayuda, comparte identificador y cronología breve mediante un canal privado adecuado."
+      ],
+      [
+        "Haga una comparación final antes de la confirmación.",
+        "Compare el registro final del paquete con el plan mediante cuatro comprobaciones: los artículos correctos, la protección adecuada, la ruta elegible y el total comprendido. Si una verificación no se resuelve, registre la información que falta. Un número de seguimiento o un precio bajo no resuelven una variante incorrecta o un cargo extra inexplicable.",
+        "Después de la confirmación, agregue el evento de aceptación del transportista real a su cronograma cuando esté disponible. Manténgalo separado del envío de paquetes y la creación de etiquetas. Para paquetes con destino a Alemania, utilice la guía de comparación específica del destino; Si tiene preguntas sobre el progreso, utilice la guía de tiempos de envío. Ambos se basan en la información de su cuenta actual y en el contenido real del paquete."
+      ]
+    ]
+  },
+  "alignment": {
+    "title": "Hoobuy QC: revisar alineación y simetría del estampado",
+    "description": "Comprueba la posición del estampado en fotos QC Hoobuy con vistas planas, ejes y referencias estables para distinguir perspectiva y desajustes.",
+    "lead": "Los pliegues, la tela estirada o una cámara inclinada pueden hacer que un estampado parezca torcido. Empieza por una vista recta y referencias fiables.",
+    "sections": [
+      [
+        "Evalúa primero la fotografía",
+        "Busca encuadre girado, hombro elevado, mangas desiguales y pliegues sobre el estampado. Pueden desplazar el centro aparente sin alterar la posición real. Examina la silueta completa, no solo un recorte.",
+        "Si la vista no sirve, pide una toma frontal del artículo plano con todo el contorno. Mantén la tela relajada: tirar de un lado para colocarla mejor introduce otra deformación."
+      ],
+      [
+        "Elige referencias repetibles",
+        "Compara el centro del estampado con elementos estructurales adecuados: cuello, cierre central o costuras laterales correspondientes. Revisa los mismos puntos en el anuncio. Algunos diseños son desplazados o asimétricos a propósito.",
+        "El centro de la fotografía no es necesariamente el de la prenda. Coloca los pares de forma comparable y examina bordes, paneles y etiquetas equivalentes. Ángulos distintos cambian la anchura y longitud aparentes."
+      ],
+      [
+        "Mide solo lo que la imagen permite",
+        "Si la posición importa, pide una regla entre puntos concretos, como una costura y el borde del estampado. Deben verse cero, extremo y superficie medida. Una regla por encima de un pliegue no da una medida plana fiable.",
+        "No inventes una tolerancia en milímetros que el vendedor no haya indicado. Usa anuncio, variante y medidas documentadas. Sin escala fiable, una foto permite observar, pero no afirmar una dimensión exacta."
+      ],
+      [
+        "Describe la duda con hechos",
+        "Ejemplo: «En la vista plana, el centro del estampado parece a la izquierda del centro del cuello». Adjunta vista completa y detalle y solicita un ángulo de confirmación o una medida. Es más útil que una valoración negativa general.",
+        "Conserva captura del anuncio, variante y foto de almacén juntas. Documenta la asimetría intencionada antes de tratarla como defecto. Las fotos no autentican productos ni demuestran especificaciones de fabricación no documentadas."
+      ],
+      [
+        "Decide según las pruebas",
+        "Si otra vista resuelve la duda, registra el motivo y sigue revisando. Si persiste una discrepancia clara, comprueba devolución o cambio antes de enviar. Con pruebas débiles, considera si una sola imagen concreta ayudaría.",
+        "Guarda originales y decisión. No envíes solo porque se acerque un plazo de devolución: confirma primero las opciones disponibles. Utiliza la guía de fotos adicionales y, cuando esté listo, la checklist del paquete."
+      ],
+      [
+        "Mantenga las observaciones visuales separadas de las decisiones de compra.",
+        "Una fotografía plana puede resolver la perspectiva sin demostrar que todos los demás aspectos de un elemento son correctos. Después de comprobar la colocación, vuelva a la talla, color, cantidad y accesorios seleccionados. Guarde la imagen de confirmación con su fecha para que una conversación de soporte posterior haga referencia a la misma evidencia.",
+        "Si la lista de vendedores ha cambiado, conserve la especificación del pedido original y la captura de pantalla cuando esté disponible. No utilice un diseño actual diferente como estándar de comparación para el artículo ya recibido. La guía de solución de problemas del enlace del producto explica cómo registrar un listado modificado sin sobrescribir su historial de compras."
+      ]
+    ]
+  },
+  "time": {
+    "title": "Tiempo de envío Hoobuy: etapas, seguimiento y retrasos",
+    "description": "Comprenda el tiempo de envío de Hoobuy desde el envío del vendedor hasta la entrega. Verifique el progreso del almacén, el seguimiento de las brechas y la evidencia para enviar soporte.",
+    "lead": "El tiempo de envío de Hoobuy tiene varias etapas separadas. Una estimación de ruta normalmente se refiere al paquete internacional; no le indica cuánto tiempo llevará la compra, la entrega del vendedor, la inspección del almacén o el embalaje. Comience con el último evento confirmado en su propio pedido.",
+    "sections": [
+      [
+        "¿Qué reloj de entrega estás mirando?",
+        "Antes de comparar historias de entrega, escriba los eventos de inicio y fin. Un comprador puede contar desde el pago, otro desde el envío al almacén y un tercero desde el primer escaneo del transportista. Son medidas diferentes. Su cronograma útil es la confirmación de la compra, el envío del vendedor, el recibo del almacén, la disponibilidad del control de calidad, el envío del paquete, la aceptación y la entrega del transportista. Deje en blanco el evento que falta en lugar de completarlo con una fecha supuesta. Registre la zona horaria al comparar una actualización de cuenta con una actualización de operador de otro país.",
+        "La guía oficial para principiantes separa la inspección y el almacenamiento del envío del paquete, el pago del depósito de envío, el embalaje y la entrega. Esa separación importa cuando tienes una fecha límite. Si su artículo aún está pendiente de compra, una estimación de envío internacional aún no es una cuenta regresiva para ese artículo. Esta guía le brinda un método para diagnosticar el progreso; no promete un número universal de días ni implica que elegir una línea internacional más rápida haga que las primeras etapas sean instantáneas."
+      ],
+      [
+        "Antes de la llegada al almacén: confirmar compra y envío del vendedor",
+        "Abra el pedido del artículo y compare el registro de pago con el estado y los mensajes más recientes. Confirma la talla y el color seleccionados. Si la orden solicita una decisión o un ajuste de saldo, resuelva esa solicitud específica a través de su cuenta. Si la compra se completó, busque la información de envío del vendedor y el registro de seguimiento nacional. Mantenga este número de seguimiento separado de cualquier número de paquete internacional posterior. Un vendedor que crea una etiqueta es diferente de un transportista que registra la posesión del artículo.",
+        "Cuando no haya evidencia de envío, pregunte si la variante seleccionada está disponible y si el vendedor ha proporcionado una fecha de envío prevista. No vuelva a realizar el mismo pedido simplemente porque la página aparece sin cambios. Primero determine si el original aún puede cumplirse o cancelarse. Un reemplazo puede generar dos compras si se reanuda la primera. Si varios artículos viajarán juntos, identifique qué artículo realmente está retrasando al grupo y mantenga su decisión separada de los artículos que ya están listos."
+      ],
+      [
+        "Recibido no significa que el control de calidad esté completo",
+        "Después de la entrega nacional, consulte la sección de inspección y registro de artículos en almacén. Un escaneo de entrega, la entrada en el almacén y las imágenes de control de calidad disponibles son pruebas independientes. Haga coincidir el registro de almacén con el identificador, la cantidad y la variante de su pedido. Si faltan fotografías, pregunte qué paso queda: hacer coincidir el paquete con el pedido, registrar el artículo, inspeccionar o cargar imágenes. No existe ningún atajo útil para actualizar un buscador de control de calidad público para fotografías privadas que aún no se han creado.",
+        "Utilice esta etapa para completar una inspección una vez, en un orden claro. Verifica identidad y accesorios, estado general, luego medidas o detalles que inciden en tu decisión. Si falta una imagen importante, solicite esa vista con puntos finales o encuadres claros. Verifique cualquier fecha límite de devolución aplicable mientras espera la evidencia. Enviar un tamaño incorrecto no resuelto para cumplir con un objetivo de envío arbitrario puede complicar la solución final. Un control de calidad exitoso es un permiso para considerar el embalaje, no una prueba de que el paquete internacional haya salido."
+      ],
+      [
+        "Presentado, embalado y aceptado por el transportista son eventos diferentes.",
+        "Cuando envíe un paquete, guarde su identificador, artículos seleccionados, ruta y cotización. Verifique que el pago o cualquier solicitud de confirmación esté completo. Las instrucciones de embalaje pueden afectar tanto a la preparación como a las dimensiones finales. Lea el registro final del paquete en lugar de asumir que una solicitud enviada genera inmediatamente un movimiento del transportista. La guía oficial describe el embalaje y el envío después del paso de pago del envío. Un número de seguimiento que aparece en la cuenta es una prueba útil, pero debe leerse junto con el primer evento físico del transportista.",
+        "Si el seguimiento dice información recibida o etiqueta creada, registre esa redacción con precisión. No lo reescribas como salido. Si su cuenta y el transportista no están de acuerdo, conserve ambas marcas de tiempo y pregunte al servicio de asistencia técnica si el paquete ha sido entregado y si se espera otro número de seguimiento. Cuando esté involucrado un transportista local posterior, guarde esa referencia por separado. Algunas etapas de la ruta son menos visibles que otras, por lo que la ausencia de escaneos públicos requiere una investigación en contexto en lugar de una conclusión automática de que el paquete se ha perdido."
+      ],
+      [
+        "Leer un presupuesto de entrega con sus condiciones.",
+        "Guarde la estimación de ruta que se muestra cuando compara opciones, incluida la fecha, el destino y cualquier definición indicada de días hábiles o evento de inicio. Compruebe si el presupuesto cubre todo el viaje o sólo una etapa de transporte concreta. Un presupuesto puede cambiar según el destino, las características del paquete y el servicio seleccionado. Utilice la información de la cuenta actual para esos detalles. No trates una captura de pantalla antigua, el envío de un influencer o la entrega exitosa de otro cliente como garantía de tu paquete.",
+        "Para una compra urgente, separe el presupuesto documentado de su propia asignación para contingencias. Por ejemplo, puede mantener tres columnas en su rastreador: evento confirmado, estimación del proveedor y fecha límite personal. Este es un formato de planificación, no un modelo de predicción. Si una etapa no está confirmada, escriba desconocido. Si el pedido no puede tolerar incertidumbre, reconsiderelo antes de agregar otro artículo o pagar un servicio internacional. La elección de envío debe adaptarse al contenido y al destino, así como al calendario."
+      ],
+      [
+        "Qué hacer cuando el seguimiento deja de actualizarse",
+        "Primero verifique que está verificando el número de paquete actual en la cuenta correspondiente o en la página del transportista. Compare el último evento, su ubicación y marca de tiempo. Verifique si hay una solicitud dirigida a usted, como una corrección de dirección, una cita de entrega o un documento de respaldo. Verifique cualquier solicitud a través de la cuenta oficial o el sitio web del operador antes de proporcionar información o pagar. Un mensaje que mencione su paquete no es suficiente para establecer que el remitente es el transportista.",
+        "Si no se solicita ninguna acción, comparar el silencio con las condiciones actuales de orientación y soporte o reclamo de la ruta. No inventes un número fijo de días después del cual cada paquete se pierde. Pregunte quién posee actualmente el paquete, qué evento se espera a continuación, si se puede abrir una investigación y qué plazo se aplica. Conserve la respuesta con su cronograma. Una brecha de seguimiento es un síntoma; no identifica de forma independiente un problema aduanero, un artículo perdido o una fecha de entrega particular."
+      ],
+      [
+        "Envíe una solicitud de soporte con un cronograma utilizable",
+        "Una solicitud privada útil dice: Paquete [identificador], enviado [fecha], ruta [nombre], último evento confirmado [redacción y fecha exactas]. La cuenta muestra [estado], mientras que el transportista muestra [estado]. Confirme si debo actuar, qué parte tiene actualmente el paquete y el siguiente paso de investigación disponible. Adjunte solo las capturas de pantalla relevantes. Para un problema previo al almacén, utilice el número de pedido del artículo en lugar de presentarlo como un problema de paquete internacional.",
+        "Mantenga los detalles de pago, las direcciones y los identificadores de pedidos privados fuera de las discusiones públicas. Guarde la respuesta y haga un seguimiento en el mismo hilo de soporte cuando sea posible. Si se le proporciona una acción específica o una fecha de seguimiento, agréguela a su rastreador. Si solicita una cancelación, una devolución o una compensación, pregunte sobre la elegibilidad y el proceso actuales en lugar de asumir que se aplica un remedio a cada etapa. Una solicitud de reembolso y un reembolso completo son eventos separados y deben registrarse por separado."
+      ],
+      [
+        "Utilice la línea de tiempo para mejorar el siguiente pedido",
+        "Después de la entrega, compare las marcas de tiempo reales de cada etapa con su plan original. Mantenga el tiempo de compra separado del tiempo de tránsito internacional. Si un vendedor retrasó un paquete consolidado, esa es una lección diferente a la de un retraso en el embalaje o un problema de entrega de última milla. Tenga en cuenta qué mediciones, capturas de pantalla y respuestas de soporte fueron realmente útiles. Esto produce un registro personal más confiable que una sola declaración de que todo el pedido tomó una cierta cantidad de días.",
+        "Antes de su próximo paquete, confirme todas las decisiones de control de calidad, guarde las medidas finales del paquete y compare las condiciones de la ruta utilizando esos mismos datos. Utilice la guía de costos de envío para el peso real y volumétrico y la guía de hoja de cálculo para un registro estructurado. Continúe verificando las condiciones en vivo cada vez: su propio historial puede ayudarlo a hacer mejores preguntas, pero no establece los términos ni la promesa de entrega para una nueva compra."
+      ]
+    ]
+  },
+  "broken": {
+    "title": "¿No funciona un enlace Hoobuy? Cómo comprobarlo",
+    "description": "Solucionar problemas de un producto Hoobuy o de un enlace de hoja de cálculo: errores de carga separados, variantes agotadas, listados modificados y falta de control de calidad antes de realizar el pedido.",
+    "lead": "Un enlace de Hoobuy que no se carga no es automáticamente un producto agotado. Primero identifique qué falló: el enlace guardado, el listado original, la variante elegida o la referencia de control de calidad. Mantenga intacta la identidad original del producto mientras investiga.",
+    "sections": [
+      [
+        "Guarde el enlace y describa el error.",
+        "Copie la dirección completa de su hoja de cálculo o tarjeta de producto y registre la fecha del cheque. Tenga en cuenta si ve una página de error, una solicitud de inicio de sesión, un producto vacío, opciones no disponibles, un artículo diferente o simplemente una página que continúa cargándose. Estos síntomas dan lugar a diferentes controles. Guarde una captura de pantalla del resultado visible, pero mantenga también la dirección como texto: una imagen por sí sola puede ocultar el identificador del producto o el destino final después de una redirección.",
+        "Mantenga la URL del vendedor original, el identificador del listado y la URL de Hoobuy en campos separados si los tiene. Conserve el nombre del producto, el vendedor, el tamaño y el color esperados de su propio registro. No sobrescribas la fila anterior con un elemento visualmente similar mientras investigas. Un enlace a una hoja de cálculo es una ruta a un listado, no una promesa duradera de que su contenido, variantes, precio o disponibilidad permanecerán sin cambios. El objetivo es establecer lo que aún es verificable antes de pagar."
+      ],
+      [
+        "Verifique una dirección copiada sin cambiar la identidad del producto",
+        "Busque espacios, saltos de línea, caracteres faltantes o puntuación incluida accidentalmente cuando el enlace se copió de un mensaje. Abra la dirección en una pestaña normal del navegador y compare la dirección final visible con la guardada. Si la hoja de cálculo utiliza un enlace abreviado, registre adónde conduce realmente. Evite adivinar un nuevo identificador o reemplazar números en la ruta. Una dirección que parezca plausible puede cargarse correctamente y al mismo tiempo apuntar a un producto completamente diferente.",
+        "Si todavía tiene la lista original del mercado, utilice ese enlace original en la búsqueda oficial de productos de Hoobuy. Siga el flujo de búsqueda actual en el sitio oficial en lugar de crear una nueva URL de agente de memoria. Compruebe que el resultado coincida con el vendedor y el anuncio que deseaba. Una carga de página exitosa resuelve solo la pregunta de carga; aún no verifica la variante correcta, el precio actual, las condiciones de devolución o la idoneidad para el destino al que planea realizar el envío."
+      ],
+      [
+        "Separe los problemas del navegador de los problemas de listado",
+        "Una pantalla de inicio de sesión, una falla temporal de la red y un producto marcado como no disponible no son equivalentes. Compruebe si la página de inicio oficial y otra página de producto conocida se cargan en el mismo navegador. Si todo el servicio falla, registre el error e inténtelo nuevamente más tarde en lugar de marcar inmediatamente cada entrada de la hoja de cálculo como eliminada. Si solo falla un elemento, conserve esa distinción. Cuando sea necesario iniciar sesión, utilice el sitio oficial y el flujo de su cuenta existente.",
+        "No instale una extensión desconocida ni ingrese credenciales en una página imitadora para desbloquear un enlace. Si su navegador muestra una advertencia de seguridad, verifique el destino antes de continuar. Un vendedor o un encargado de la hoja de cálculo puede proporcionar la dirección actual del listado, pero su respuesta aún debe cotejarse con el producto esperado. Si no se puede verificar la página, marque el registro como no resuelto. Desconocido es un estado útil; inventar un enlace de reemplazo no es una reparación."
+      ],
+      [
+        "Verifique el tamaño y el color exactos antes de llamarlo disponible.",
+        "La página de un producto puede permanecer en línea cuando una variante seleccionada no está disponible. Abra las opciones de tamaño, color, modelo y cantidad y compárelas con su fila guardada. Lea el precio mostrado para la combinación real que desea comprar. Es posible que un precio inicial, un valor de marcador de posición o un precio mostrado antes de seleccionar las opciones no describan esa combinación. No trate una página que se abre como prueba de que el agente puede comprar el artículo por usted.",
+        "Si la cuenta informa un problema de stock después del envío de la compra, conserve la selección original y pregunte qué opciones están disponibles actualmente. Un sustituto requiere una nueva decisión: un tamaño o color diferente no es el mismo pedido simplemente porque se encuentra en el mismo listado. Consulte las opciones actuales de cancelación o reembolso antes de comprar una alternativa. Mantenga cualquier primer pedido visible en el rastreador hasta que se confirme su resultado, para que un pedido retrasado no se convierta silenciosamente en un duplicado."
+      ],
+      [
+        "Una página de producto modificada necesita una nueva comparación",
+        "Compara el vendedor, identificador del producto, título, fotografías, especificaciones y variantes disponibles. Algunos cambios pueden ser ediciones inofensivas; otros pueden significar que el registro ya no describe el elemento que guardó. Una imagen familiar no es prueba suficiente de una construcción o tamaño idénticos. Si el vendedor original proporciona un nuevo enlace, registre ambas direcciones y la fecha, luego revise el nuevo listado como candidato separado hasta que se hayan verificado los detalles relevantes.",
+        "Por ejemplo, una sudadera negra mediana guardada puede conducir a una página que ahora ofrece una tabla de tallas diferente. Conserve la referencia anterior para su historial, pero utilice el cuadro actual para decidir si el nuevo candidato encaja. No transfiera automáticamente un estado listo para comprar, una aprobación de control de calidad previa o una estimación de costos. La evidencia del producto pertenece al listado y a la variante que realmente describe; un reemplazo de enlace no debería borrar esa relación."
+      ],
+      [
+        "La falta de control de calidad público no diagnostica un listado roto",
+        "Es posible que un servicio público de control de calidad no tenga resultados para el identificador o que no reconozca la forma particular de enlace que usted proporcionó. Eso le informa sobre la referencia disponible a través de ese servicio. No establece que el vendedor no tiene existencias, que su propio pedido no pasó la inspección o que el artículo es seguro para comprar. Verifique la entrada admitida del servicio y, cuando corresponda, utilice el identificador de listado original sin adivinar un producto diferente.",
+        "Para un pedido que ya haya realizado, consulte el registro del almacén privado en su cuenta Hoobuy. Las fotografías de referencia pública y las fotografías de su pedido responden a diferentes preguntas. Haga coincidir el tamaño, el color y la cantidad reales recibidos antes de evaluar la condición. Una imagen pública de otro comprador puede ayudar a identificar ángulos de inspección útiles, pero no puede sustituir la evidencia de que se le envió la unidad. Mantenga los enlaces de referencia y de foto de pedido en columnas separadas de la hoja de cálculo."
+      ],
+      [
+        "Cree un informe útil para el soporte o el encargado de la hoja de cálculo.",
+        "Registre la página de origen, el enlace original, el destino final, el elemento esperado y la discrepancia exacta. Agregue la fecha de verificación y un estado breve, como error de carga, variante no disponible, listado modificado o falta referencia de control de calidad. Si el problema se refiere a un pedido pagado, incluya el identificador del pedido únicamente a través del canal de soporte de la cuenta privada. Haga una pregunta específica: ¿Se puede comprar esta variante, el listado aún coincide con este producto o hay disponible una dirección original corregida?",
+        "Si comparte una copia pública del informe, elimine los identificadores de cuenta, las imágenes del almacén privado, los registros de pago y cualquier dirección. Un mantenedor necesita suficiente información para reproducir la ruta rota, no acceder a su cuenta. Cuando se proporcione una dirección corregida, vuelva a probarla y actualice la fecha de verificación registrada. Distinguir enlace reparado del producto comprobado. La reparación de la navegación no valida de forma independiente la calidad, la confiabilidad del vendedor, la elegibilidad de envío o los derechos de devolución."
+      ],
+      [
+        "Decidir si conservar, reemplazar o pausar la fila",
+        "Conservar al candidato cuando se pueda verificar la identidad original y la variante requerida. Reemplácelo solo después de que se haya comparado un nuevo listado en cuanto a detalles del producto, tamaño, precio, evidencia disponible y condiciones de compra. Pauselo cuando falte información clave. Para un pedido grupal, identifique a la persona responsable de esa decisión y no incluya un sustituto no resuelto en la lista de paquetes. Esto evita que una tarea de mantenimiento de una hoja de cálculo se convierta en una instrucción de compra accidental.",
+        "Antes del pago, repita las comprobaciones finales en la cuenta real: variante elegida, cantidad, cargo del artículo, envío nacional y cualquier restricción mostrada. Después del recibo de almacén, revise sus propias fotografías de control de calidad. Antes de realizar envíos internacionales, verifique las medidas del empaque y las condiciones de la ruta. Estas son decisiones separadas. Mantenerlos separados hace que una hoja de cálculo de Hoobuy sea útil incluso cuando cambia un enlace y le brinda un registro claro de lo que se verificó en cada punto."
+      ]
+    ]
+  },
+  "germany": {
+    "title": "Envío de Hoobuy a Alemania: cómo comparar los costes",
+    "description": "Planifique el envío de Hoobuy a Alemania según el peso del paquete, las dimensiones y las condiciones de la ruta. Realice una comparación de cotizaciones de muestra sin tarifas reales inventadas.",
+    "lead": "No existe un precio de envío único de Hoobuy a Alemania que se aplique a todos los paquetes. Utilice Alemania como destino y luego compare rutas elegibles con el mismo contenido, peso del paquete y dimensiones exteriores. Una caja liviana pero voluminosa puede costar más de lo que sugiere su peso.",
+    "sections": [
+      [
+        "Comience con una especificación del paquete, no con una captura de pantalla del precio.",
+        "Prepare un registro que contenga Alemania como destino, la zona de entrega solicitada por el perito, cada categoría de artículo, el peso real del embalaje y el largo, ancho y alto exterior en centímetros. Agregue la fecha de cotización y los supuestos de embalaje. Si los artículos no han sido embalados, etiquete las medidas como provisionales. Una captura de pantalla de otro comprador no es comparable a menos que conozca los datos relevantes y las condiciones de cotización que la produjeron.",
+        "El estimador oficial de Hoobuy acepta destino, peso, categoría de artículo y dimensiones. Utilice el estimador en vivo para ver las rutas disponibles para sus entradas actuales. Luego lea los términos de cada ruta antes de comparar precios. Esta guía no publica una tarifa vigente en Alemania, un tiempo de entrega garantizado ni una lista de rutas que siempre estarán disponibles. Su propósito es ayudarlo a interpretar una cotización actual y evitar comparar paquetes o servicios que sean materialmente diferentes."
+      ],
+      [
+        "Resuelva el control de calidad y el contenido del paquete antes de elegir una ruta.",
+        "Verifique las variantes seleccionadas, la cantidad, los accesorios y cualquier problema de control de calidad pendiente antes del embalaje final. Una medición faltante o un cambio pendiente pueden cambiar lo que realmente viajará. Si elimina un artículo, solicita un sustituto o conserva una caja de venta minorista, revise los datos de envío. Mantenga una lista explícita de lo que debe permanecer en el paquete, incluidas bolsas para el polvo, repuestos y embalajes protectores. Un presupuesto más económico basado en contenidos incompletos no es un ahorro en el que pueda confiar.",
+        "La elegibilidad de la ruta viene antes que el precio. Revise las condiciones de aceptación actuales para los tipos y características reales de sus artículos, especialmente cuando un paquete contiene baterías, líquidos o productos frágiles. No asuma que una ruta utilizada para ropa común también acepta todos los accesorios. Si alguna restricción no está clara, consulta al servicio sobre los contenidos específicos a través del canal oficial. Nunca ocultes la categoría del artículo para que aparezca una ruta más barata disponible en la calculadora."
+      ],
+      [
+        "Comparar el peso real con el peso volumétrico",
+        "El peso real es la masa medida del paquete. El peso volumétrico representa el espacio que ocupa la caja. Calcule largo × ancho × alto ÷ el divisor aplicable, manteniendo las unidades consistentes. Luego lea la regla de ruta para saber si se cobra el peso más alto y cómo funcionan el redondeo, el peso mínimo o los incrementos adicionales. El divisor y las reglas de facturación pertenecen a la ruta seleccionada; un ejemplo en una guía general no anula esas condiciones.",
+        "Solo ejemplo resuelto: supongamos que la caja empaquetada pesa 4 kg y mide 40 × 30 × 30 cm. Con un divisor ilustrativo de 6.000, su peso volumétrico es de 6 kg. Reducir la última dimensión a 20 cm da 4 kg. Según una regla ilustrativa del mayor de los dos, la comparación facturable inicial pasa a ser 6 kg frente a 4 kg, antes del redondeo. Estos números son un cálculo transparente, no una cotización o confirmación de una ruta particular de Alemania."
+      ],
+      [
+        "Utilice una tarifa ficticia para comprender el cálculo",
+        "Supongamos que un servicio ficticio cobra 50 CNY por los primeros 0,5 kg y 12 CNY por cada 0,5 kg adicional iniciado. Con 4 kg, el cálculo es 50 + 7 × 12 = 134 CNY. Con 6 kg, es 50 + 11 × 12 = 182 CNY. Un peso de 4,01 kg pasaría al siguiente incremento en este ejemplo, lo que daría 50 + 8 × 12 = 146 CNY. Estas cifras inventadas explican incrementos; no son precios de Hoobuy.",
+        "Cuando lea una cotización real, reemplace cada entrada ficticia con el cargo por primer peso actual, el incremento, el cargo adicional y la regla de redondeo de la ruta. Consulta cualquier recargo o mínimo por separado. No asuma que una reducción de dos kilogramos siempre produce una reducción proporcional del costo. Una ruta con un precio en incrementos, un cargo mínimo o un cambio en la elegibilidad del servicio pueden alterar el resultado. Guarde la cotización real en lugar de utilizar este ejemplo como compromiso presupuestario."
+      ],
+      [
+        "Compare opciones de embalaje sin sacrificar la protección necesaria",
+        "Pregunte qué cambios son prácticos para artículos específicos: doblar ropa suave, retirar una caja no deseada o conservar protección para componentes frágiles tienen diferentes consecuencias. Compare las medidas exteriores resultantes y el nivel de protección. Una caja de zapatos puede ocupar un espacio considerable, pero quitarla también puede eliminar el embalaje que desea conservar. No comprimir mercancías rígidas o delicadas simplemente para conseguir un peso volumétrico calculado inferior. Registre las instrucciones y verifique el registro de embalaje final cuando esté disponible.",
+        "Si considera dos paquetes en lugar de uno, cotice ambos paquetes completos con su propio embalaje, cargos mínimos y servicios, luego sume los resultados. Dos paquetes más pequeños no cuestan automáticamente menos que un paquete más grande. También verifique si la división cambia la elegibilidad o los acuerdos de seguimiento. Para un pedido compartido, acuerde cómo se asignarán los costos antes del pago; dividir por el número de artículos produce un resultado diferente al de dividir por el peso real o el espacio ocupado."
+      ],
+      [
+        "Separe el envío internacional del presupuesto total de compra.",
+        "Mantenga entradas separadas para los productos, envío del vendedor al almacén, servicios opcionales de fotografía o embalaje, envío y pago internacional o cargos de conversión de moneda que realmente se apliquen. Lee lo que incluye la cotización seleccionada para no agregar dos veces un servicio incluido. Una etiqueta de envío nacional en la página de un producto no establece el precio internacional a Alemania. De manera similar, un depósito de envío y un cargo medido final pueden ser registros diferentes.",
+        "Para conocer los impuestos de destino, los requisitos de importación o los cargos de manipulación del transportista, consulte la guía aduanera oficial alemana vigente y los términos del servicio seleccionado. Este artículo no calcula impuestos, no promete un umbral libre de impuestos ni trata el nombre de una ruta como prueba de que todos los cargos de destino están incluidos. Conserve la documentación de la compra y siga los requisitos de declaración aplicables. Si el alcance de un cargo incluido cotizado no está claro, pregunte antes del pago en lugar de insertar un monto estimado en su presupuesto."
+      ],
+      [
+        "Compare cotizaciones en una tabla de decisiones consistente",
+        "Para cada ruta candidata, registre el tiempo de cotización, el destino, el contenido, el peso real, las dimensiones, el divisor si corresponde, el peso facturable, el redondeo, el precio, los servicios incluidos, el seguimiento y la estimación de entrega indicada. Mantenga las opciones de protección o seguro opcionales consistentes en toda la comparación. Si la cuenta no expone un valor, escriba no indicado y pregunte dónde importa. Evite hacer una comparación aparentemente precisa completando los términos faltantes con suposiciones tomadas de una ruta diferente.",
+        "El precio es una columna en la decisión. Comprueba si la cobertura de seguimiento y el presupuesto de entrega se ajustan a tus necesidades y si el servicio acepta el contenido. Lea los términos de compensación antes de asumir que un paquete perdido o dañado será reembolsado en su totalidad. No es lo mismo un intervalo de tránsito estimado que una fecha de llegada garantizada. Utilice la guía de tiempos de envío para separar las etapas de compra, almacén y transportista al decidir si el plan general se ajusta a su fecha límite."
+      ],
+      [
+        "Verificar el importe final y conservar las pruebas.",
+        "Antes de confirmar el envío, compare la lista final de artículos, los detalles del destinatario, las medidas empaquetadas, la ruta seleccionada y el total con la cotización guardada. Si el precio cambió, verifique si cambiaron las dimensiones, el peso, el redondeo o los servicios opcionales. La guía oficial para principiantes explica que los gastos de envío finales dependen de las medidas verificadas del paquete. Solicite una aclaración cuando el registro no explique una diferencia y mantenga la estimación y el pago final como entradas separadas en el rastreador.",
+        "Después del envío, conserve de forma privada el identificador del paquete, las referencias de seguimiento, el registro de pago y las respuestas de soporte relevantes. Si luego compara su envío a Alemania con otra compra, utilice los mismos eventos de inicio y finalización y registre cualquier diferencia en el contenido y el embalaje. El presupuesto más útil es un registro reproducible de los insumos y términos que aceptó. Actualice esos insumos para cada paquete nuevo en lugar de reutilizar un precio antiguo de Alemania como si fuera una tarifa permanente."
+      ]
+    ]
+  }
 }

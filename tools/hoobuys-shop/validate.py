@@ -57,7 +57,7 @@ def main():
                 if schema.get('inLanguage')!=lang or schema.get('url')!=HOST+current:errors.append(prefix+'schema mismatch')
                 if any(x.get('@type')=='FAQPage' for x in p.schemas):errors.append(prefix+'article has FAQ schema')
                 sections=[a for a in p.attrs('details') if a.get('class')=='reading-section']
-                if len(sections)!=5 or any('open' not in s for s in sections):errors.append(prefix+'primary sections unavailable without JS')
+                if len(sections) not in {6,8} or any('open' not in s for s in sections):errors.append(prefix+'primary sections unavailable without JS')
             if schema.get('@type')=='CollectionPage':
                 listing=schema['mainEntity'];items=listing['itemListElement']
                 if listing['numberOfItems']!=len(items):errors.append(prefix+'wrong catalogue count')
@@ -90,7 +90,7 @@ def main():
         file=ROOT/'assets'/f'hoobuy-tracker-{lang.lower()}.csv'
         rows=list(csv.reader(file.read_text(encoding='utf-8-sig').splitlines()))
         if len(rows)!=2 or any(len(row)!=22 for row in rows):errors.append(str(file)+' invalid CSV')
-    assert len(generated)==108 and articles==63,(len(generated),articles)
+    assert len(generated)==135 and articles==90,(len(generated),articles)
     if errors:
         print('\n'.join(errors));raise SystemExit(1)
     print(json.dumps({'passed':True,'static_pages':len(generated),'article_pages':articles,'languages':len(LANGS),'sitemap_urls':len(xml_urls),'checks':['internal links and anchors','reciprocal language URLs','canonical and schema','full HTML section content','XML/TXT coverage','localized CSV structure']}))
