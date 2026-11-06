@@ -34,8 +34,8 @@ for row in rows:
  s=docs[row['url']]
  for a in s.select('a[href],link[rel=alternate]'):
   href=a.get('href');v=urlsplit(href)
-  if v.netloc and v.netloc not in ['hoobuys.org','cnfanssp.com','www.cnfanssp.com']:errors.append((row['url'],'external',href));continue
-  if v.netloc in ['cnfanssp.com','www.cnfanssp.com']:continue
+  if v.netloc and v.netloc not in ['hoobuys.org','cnfanssp.com','www.cnfanssp.com','hoobuy.com']:errors.append((row['url'],'external',href));continue
+  if v.netloc in ['cnfanssp.com','www.cnfanssp.com','hoobuy.com']:continue
   if v.path in ['/sitemap.xml','/sitemap.txt']:continue
   target='https://hoobuys.org'+v.path if v.path else row['url']
   if target not in docs:errors.append((row['url'],'broken link',href));continue
@@ -50,12 +50,33 @@ for lang in M['languages']:
  if len(set(titles))!=len(titles):errors.append((lang,'duplicate titles'))
 source=json.loads((B/'_src/original.json').read_text())
 for slug,a in source.items():
- if not a['article']:continue
+ if not a['article'] or slug=='hoobuy-spreadsheet-guide':continue
  text=BeautifulSoup(a['body'],'html.parser').get_text(' ',strip=True)
  new=docs['https://hoobuys.org/'+slug].get_text(' ',strip=True)
  if text not in new:errors.append((slug,'original body not contiguous'))
-assert len(rows)==243,len(rows)
-assert M['articles_per_language']==20
+assert len(rows)==270,len(rows)
+assert M['articles_per_language']==23
+fresh=['hoobuy-spreadsheet-women','hoobuy-budget-finds','hoobuy-links-not-working']
+for slug in fresh+['hoobuy-spreadsheet-guide']:
+ en=docs['https://hoobuys.org/'+slug]
+ words=len(re.findall(r"\b[\w’'-]+\b",en.select_one('article').get_text(' ',strip=True)))
+ if not 1200<=words<=1800:errors.append((slug,'article word count',words))
+ for lang in M['languages']:
+  url='https://hoobuys.org/'+('' if lang=='en' else lang+'/')+slug
+  doc=docs[url]
+  if len(doc.select('article h2'))!=len(en.select('article h2')):errors.append((lang,slug,'missing sections'))
+  if lang!='en':
+   untranslated=[p.get_text(' ',strip=True) for p in doc.select('article p') if p.get_text(' ',strip=True) in [q.get_text(' ',strip=True) for q in en.select('article p')] and len(p.get_text())>85]
+   if untranslated:errors.append((lang,slug,'English body fallback',untranslated[:2]))
+for lang in M['languages']:
+ prefix='https://hoobuys.org/'+('' if lang=='en' else lang+'/')
+ catalogue=docs[prefix+'products']
+ if len(catalogue.select('.product-card'))!=10:errors.append((lang,'product count'))
+ for section in ['clothing','shoes','accessories']:
+  if not catalogue.select_one('#'+section):errors.append((lang,'category anchor',section))
+ if len(catalogue.select('.nav a'))!=6:errors.append((lang,'navigation count'))
+ for slug in fresh:
+  if not docs[prefix+'guides'].find('a',href=('/' if lang=='en' else '/'+lang+'/')+slug):errors.append((lang,slug,'missing hub link'))
 if errors:
  print(json.dumps(errors,ensure_ascii=False,indent=2));raise SystemExit(1)
-print('PASS: 243 indexable pages; 9 languages; 20 complete guides each; 10 reciprocal alternates; original article bodies retained; localized main-site search forms, links, assets, schema and metadata valid.')
+print('PASS: 270 indexable pages; 9 languages; 23 complete guides each; 10 reciprocal alternates; 3 new full articles and rewritten spreadsheet; localized search, category anchors, products, links, assets, schema and metadata valid.')

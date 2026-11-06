@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-12",
+  "date": "2026-11-06",
   "languages": [
     "en",
     "zh-CN",
@@ -11,7 +11,7 @@
     "nl",
     "pt"
   ],
-  "articles_per_language": 20,
+  "articles_per_language": 23,
   "pages": [
     {
       "lang": "en",
@@ -47,6 +47,21 @@
       "lang": "en",
       "slug": "languages",
       "url": "https://hoobuys.org/languages"
+    },
+    {
+      "lang": "en",
+      "slug": "hoobuy-spreadsheet-women",
+      "url": "https://hoobuys.org/hoobuy-spreadsheet-women"
+    },
+    {
+      "lang": "en",
+      "slug": "hoobuy-budget-finds",
+      "url": "https://hoobuys.org/hoobuy-budget-finds"
+    },
+    {
+      "lang": "en",
+      "slug": "hoobuy-links-not-working",
+      "url": "https://hoobuys.org/hoobuy-links-not-working"
     },
     {
       "lang": "en",
@@ -185,6 +200,21 @@
     },
     {
       "lang": "zh-CN",
+      "slug": "hoobuy-spreadsheet-women",
+      "url": "https://hoobuys.org/zh-CN/hoobuy-spreadsheet-women"
+    },
+    {
+      "lang": "zh-CN",
+      "slug": "hoobuy-budget-finds",
+      "url": "https://hoobuys.org/zh-CN/hoobuy-budget-finds"
+    },
+    {
+      "lang": "zh-CN",
+      "slug": "hoobuy-links-not-working",
+      "url": "https://hoobuys.org/zh-CN/hoobuy-links-not-working"
+    },
+    {
+      "lang": "zh-CN",
       "slug": "hoobuy-shipping-calculator-weight-and-cost",
       "url": "https://hoobuys.org/zh-CN/hoobuy-shipping-calculator-weight-and-cost"
     },
@@ -317,6 +347,21 @@
       "lang": "de",
       "slug": "languages",
       "url": "https://hoobuys.org/de/languages"
+    },
+    {
+      "lang": "de",
+      "slug": "hoobuy-spreadsheet-women",
+      "url": "https://hoobuys.org/de/hoobuy-spreadsheet-women"
+    },
+    {
+      "lang": "de",
+      "slug": "hoobuy-budget-finds",
+      "url": "https://hoobuys.org/de/hoobuy-budget-finds"
+    },
+    {
+      "lang": "de",
+      "slug": "hoobuy-links-not-working",
+      "url": "https://hoobuys.org/de/hoobuy-links-not-working"
     },
     {
       "lang": "de",
@@ -455,6 +500,21 @@
     },
     {
       "lang": "fr",
+      "slug": "hoobuy-spreadsheet-women",
+      "url": "https://hoobuys.org/fr/hoobuy-spreadsheet-women"
+    },
+    {
+      "lang": "fr",
+      "slug": "hoobuy-budget-finds",
+      "url": "https://hoobuys.org/fr/hoobuy-budget-finds"
+    },
+    {
+      "lang": "fr",
+      "slug": "hoobuy-links-not-working",
+      "url": "https://hoobuys.org/fr/hoobuy-links-not-working"
+    },
+    {
+      "lang": "fr",
       "slug": "hoobuy-shipping-calculator-weight-and-cost",
       "url": "https://hoobuys.org/fr/hoobuy-shipping-calculator-weight-and-cost"
     },
@@ -587,6 +647,21 @@
       "lang": "es",
       "slug": "languages",
       "url": "https://hoobuys.org/es/languages"
+    },
+    {
+      "lang": "es",
+      "slug": "hoobuy-spreadsheet-women",
+      "url": "https://hoobuys.org/es/hoobuy-spreadsheet-women"
+    },
+    {
+      "lang": "es",
+      "slug": "hoobuy-budget-finds",
+      "url": "https://hoobuys.org/es/hoobuy-budget-finds"
+    },
+    {
+      "lang": "es",
+      "slug": "hoobuy-links-not-working",
+      "url": "https://hoobuys.org/es/hoobuy-links-not-working"
     },
     {
       "lang": "es",
@@ -725,6 +800,21 @@
     },
     {
       "lang": "it",
+      "slug": "hoobuy-spreadsheet-women",
+      "url": "https://hoobuys.org/it/hoobuy-spreadsheet-women"
+    },
+    {
+      "lang": "it",
+      "slug": "hoobuy-budget-finds",
+      "url": "https://hoobuys.org/it/hoobuy-budget-finds"
+    },
+    {
+      "lang": "it",
+      "slug": "hoobuy-links-not-working",
+      "url": "https://hoobuys.org/it/hoobuy-links-not-working"
+    },
+    {
+      "lang": "it",
       "slug": "hoobuy-shipping-calculator-weight-and-cost",
       "url": "https://hoobuys.org/it/hoobuy-shipping-calculator-weight-and-cost"
     },
@@ -857,6 +947,21 @@
       "lang": "pl",
       "slug": "languages",
       "url": "https://hoobuys.org/pl/languages"
+    },
+    {
+      "lang": "pl",
+      "slug": "hoobuy-spreadsheet-women",
+      "url": "https://hoobuys.org/pl/hoobuy-spreadsheet-women"
+    },
+    {
+      "lang": "pl",
+      "slug": "hoobuy-budget-finds",
+      "url": "https://hoobuys.org/pl/hoobuy-budget-finds"
+    },
+    {
+      "lang": "pl",
+      "slug": "hoobuy-links-not-working",
+      "url": "https://hoobuys.org/pl/hoobuy-links-not-working"
     },
     {
       "lang": "pl",
@@ -995,6 +1100,21 @@
     },
     {
       "lang": "nl",
+      "slug": "hoobuy-spreadsheet-women",
+      "url": "https://hoobuys.org/nl/hoobuy-spreadsheet-women"
+    },
+    {
+      "lang": "nl",
+      "slug": "hoobuy-budget-finds",
+      "url": "https://hoobuys.org/nl/hoobuy-budget-finds"
+    },
+    {
+      "lang": "nl",
+      "slug": "hoobuy-links-not-working",
+      "url": "https://hoobuys.org/nl/hoobuy-links-not-working"
+    },
+    {
+      "lang": "nl",
       "slug": "hoobuy-shipping-calculator-weight-and-cost",
       "url": "https://hoobuys.org/nl/hoobuy-shipping-calculator-weight-and-cost"
     },
@@ -1127,6 +1247,21 @@
       "lang": "pt",
       "slug": "languages",
       "url": "https://hoobuys.org/pt/languages"
+    },
+    {
+      "lang": "pt",
+      "slug": "hoobuy-spreadsheet-women",
+      "url": "https://hoobuys.org/pt/hoobuy-spreadsheet-women"
+    },
+    {
+      "lang": "pt",
+      "slug": "hoobuy-budget-finds",
+      "url": "https://hoobuys.org/pt/hoobuy-budget-finds"
+    },
+    {
+      "lang": "pt",
+      "slug": "hoobuy-links-not-working",
+      "url": "https://hoobuys.org/pt/hoobuy-links-not-working"
     },
     {
       "lang": "pt",

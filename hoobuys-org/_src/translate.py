@@ -6,6 +6,11 @@ S=Path(__file__).resolve().parent
 SKIP={'English','简体中文','Deutsch','Français','Español','Italiano','Polski','Nederlands','Português','hoobuys','org','hoobuys.org','kg','QC','W2C','HooBuy','Taobao','Weidian','1688'}
 def needed(s):return bool(re.search('[A-Za-z]',s)) and s not in SKIP
 def parts(s):return re.split(r'(?<=[.!?])\s+(?=[A-Z“"0-9])',s)
+def model_input(s):
+ # Resolve shopping idioms before the offline model, preserving the original cache keys.
+ replacements=[('HooBuy finds catalogue','HooBuy product catalogue'),('Budget HooBuy finds','Low-priced HooBuy products'),('HooBuy finds','HooBuy products'),('discovery links','product catalogue links'),('discovery link','product catalogue link'),('discovery pages','product catalogue pages'),('discovery page','product catalogue page'),('discovery routes','product categories'),('discovery evidence','information about the advertised product'),('fit evidence','size measurements'),('fit requirement','requirement for the size and shape'),('selected prices','prices of the selected options'),('shortlist','list of products'),('listing','product page'),('parcel inputs','parcel weight and dimensions'),('strap drop','distance from the top of the bag to the top of its shoulder strap'),('cardigan with a shorter body','short cardigan'),('inseam measurement','measurement of the inside leg length'),('worked troubleshooting sequence','step-by-step troubleshooting example'),('worked example','calculation example'),('candidate','product under consideration')]
+ for a,b in replacements:s=re.sub(re.escape(a),b,s,flags=re.I)
+ return s
 def text_nodes(soup):return [n for n in soup.find_all(string=True) if not isinstance(n,(Comment,Doctype)) and n.parent.name not in ['script','style'] and not n.find_parent(attrs={'hreflang':True}) and needed(str(n).strip())]
 def json_strings(j):
  out=[]
@@ -44,6 +49,11 @@ def render_localized(doc,lang,slug,cache,langs,names,route):
  overrides_file=S/'overrides.json';overrides=json.loads(overrides_file.read_text()).get(lang,{}) if overrides_file.exists() else {}
  if lang=='zh-CN':overrides.update(json.loads((S/'zh-review.json').read_text()))
  overrides.update(json.loads((S/'product-translations.json').read_text()).get(lang,{}))
+ release=S/'release-overrides.json'
+ if release.exists():overrides.update(json.loads(release.read_text()).get(lang,{}))
+ blocks_file=S/'block-overrides.json'
+ blocks=json.loads(blocks_file.read_text()).get(lang,{}) if blocks_file.exists() else {}
+ reviewed=[(n,blocks[n.decode_contents()]) for n in soup.select('p') if n.decode_contents() in blocks]
  known=set(json.loads((S/'english-pages.json').read_text()))
  def convert(s):
   if lang=='en' or not needed(s):return s
@@ -62,6 +72,9 @@ def render_localized(doc,lang,slug,cache,langs,names,route):
   for n in soup.find_all():
    for a in ['alt','aria-label','placeholder']:
     if n.get(a):n[a]=convert(n[a])
+ for n,markup in reviewed:
+  n.clear()
+  for child in list(BeautifulSoup(markup,'html.parser').contents):n.append(child)
  def local_url(u):
   if u.startswith(origin):u=u[len(origin):]
   if u.startswith('/') and not u.startswith('//'):
@@ -111,7 +124,7 @@ def run_language(lang,models):
  sentences=list(dict.fromkeys(s for t in all_strings for s in parts(t) if needed(s) and s not in cache))
  started=time.time();print(lang,'pending',len(sentences),flush=True)
  for start in range(0,len(sentences),32):
-  batch=sentences[start:start+32];results=tr.translate_batch([encode(s) for s in batch],beam_size=3,max_batch_size=32,max_decoding_length=384,repetition_penalty=1.05)
+  batch=sentences[start:start+32];results=tr.translate_batch([encode(model_input(s)) for s in batch],beam_size=3,max_batch_size=32,max_decoding_length=384,repetition_penalty=1.05)
   for source,result in zip(batch,results):
    translated=html.unescape(decode(result.hypotheses[0])).strip();translated=re.sub(r'\bHoo\s*Buy\b|\bHoobuy\b','HooBuy',translated,flags=re.I)
    if not translated:raise ValueError('Empty '+lang+': '+source)
