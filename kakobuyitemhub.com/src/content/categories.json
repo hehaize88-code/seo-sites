@@ -1,0 +1,74 @@
+[
+  {
+    "slug": "all",
+    "tid": "1",
+    "label": "ALL",
+    "zh": "全部商品"
+  },
+  {
+    "slug": "shoes",
+    "tid": "4",
+    "label": "Shoes",
+    "zh": "鞋履"
+  },
+  {
+    "slug": "hoodies-sweaters",
+    "tid": "5",
+    "label": "Sweatshirts",
+    "zh": "卫衣 / 毛衣"
+  },
+  {
+    "slug": "t-shirts",
+    "tid": "6",
+    "label": "T-Shirts",
+    "zh": "T 恤"
+  },
+  {
+    "slug": "jackets",
+    "tid": "7",
+    "label": "Jackets",
+    "zh": "夹克"
+  },
+  {
+    "slug": "pants-shorts",
+    "tid": "8",
+    "label": "Pants/Shorts",
+    "zh": "长裤 / 短裤"
+  },
+  {
+    "slug": "headwear",
+    "tid": "9",
+    "label": "Headwear",
+    "zh": "帽饰"
+  },
+  {
+    "slug": "accessories",
+    "tid": "10",
+    "label": "Accessories",
+    "zh": "配饰"
+  },
+  {
+    "slug": "short-sets",
+    "tid": "11",
+    "label": "Short Sets",
+    "zh": "短款套装"
+  },
+  {
+    "slug": "electronics",
+    "tid": "12",
+    "label": "Electronics",
+    "zh": "电子产品"
+  },
+  {
+    "slug": "other-stuff",
+    "tid": "13",
+    "label": "Other Stuff",
+    "zh": "其他商品"
+  },
+  {
+    "slug": "jersey",
+    "tid": "15",
+    "label": "Jersey",
+    "zh": "球衣"
+  }
+]

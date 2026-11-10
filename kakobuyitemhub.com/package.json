@@ -1,0 +1,21 @@
+{
+  "name": "kakobuy-preview",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "astro dev --host 127.0.0.1",
+    "build": "astro build",
+    "preview": "astro preview",
+    "visual:index": "node visual-service/build-index.mjs",
+    "visual:serve": "node visual-service/server.mjs",
+    "visual:validate": "node visual-service/validate.mjs"
+  },
+  "dependencies": {
+    "@astrojs/cloudflare": "latest",
+    "@huggingface/transformers": "^4.3.2",
+    "astro": "7.4.8",
+    "cheerio": "latest",
+    "sharp": "^0.35.5",
+    "undici": "^8.12.4"
+  }
+}

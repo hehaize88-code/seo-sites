@@ -1,0 +1,9 @@
+---
+import Shell from '../../layouts/Shell.astro';
+import {locale,translator} from '../../lib/i18n';
+import {guides,editorialCopy} from '../../lib/guides';
+import EditorialNotice from '../../components/EditorialNotice.astro';
+const lang=locale(Astro.url);const t=translator(lang);const c=(s:string[])=>editorialCopy(s,lang);
+---
+<Shell title={t('Articles & guides','文章与指南')+' | Kakobuy Spreadsheet'} description={c(['Ten practical Kakobuy guides covering buying, fees, QC, storage, shipping, tracking and returns, with official references.','10 篇 Kakobuy 实用指南，涵盖购买、费用、QC、仓储、运输、追踪和退换货，附官网依据。'])}>
+<main class="guides-page"><div class="eyebrow">KAKOBUY SPREADSHEET</div><h1>{t('Articles & guides','文章与指南')}</h1><p class="intro">{c(['Understand each step before you order. These guides distinguish official platform rules from practical shopping advice.','先了解流程，再做购买决定。指南区分官网规则与实用建议，方便你核对每一步。'])}</p><EditorialNotice lang={lang}/><div class="guide-cards" lang={lang==='zh'?'zh-CN':'en'}>{guides.map((g,i)=><a href={'/guides/'+g.slug+'?lang='+lang}><span class="eyebrow">{String(i+1).padStart(2,'0')} / KAKOBUY</span><h2>{c(g.title)}</h2><p>{c(g.summary)}</p><b>{t('Read article','阅读文章')} ↗</b></a>)}</div></main></Shell>

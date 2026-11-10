@@ -1,0 +1,970 @@
+{
+  "THE GOOD FINDS START HERE": {
+    "de": "HIER BEGINNEN GUTE FUNDE",
+    "fr": "LES BONNES TROUVAILLES COMMENCENT ICI",
+    "es": "AQUÍ EMPIEZAN LOS BUENOS HALLAZGOS",
+    "it": "LE BELLE SCOPERTE INIZIANO QUI",
+    "pl": "TU ZACZYNAJĄ SIĘ DOBRE ZNALEZISKA",
+    "pt": "AS BOAS DESCOBERTAS COMEÇAM AQUI"
+  },
+  "Less searching. More finding.": {
+    "de": "Weniger suchen. Mehr entdecken.",
+    "fr": "Moins chercher. Plus découvrir.",
+    "es": "Busca menos. Descubre más.",
+    "it": "Meno ricerche. Più scoperte.",
+    "pl": "Mniej szukania. Więcej odkryć.",
+    "pt": "Menos procura. Mais descobertas."
+  },
+  "Explore products, take a closer look, and bring your next haul together.": {
+    "de": "Entdecke Produkte und Fotos für deine nächste Bestellung.",
+    "fr": "Explorez les produits et les photos pour votre prochaine commande.",
+    "es": "Explora productos y fotos para tu próximo pedido.",
+    "it": "Esplora prodotti e foto per il tuo prossimo ordine.",
+    "pl": "Przeglądaj produkty i zdjęcia do kolejnego zamówienia.",
+    "pt": "Explore produtos e fotos para a sua próxima encomenda."
+  },
+  "Search shoes, hoodies, accessories…": {
+    "de": "Suchen: shoes, hoodies, accessories…",
+    "fr": "Rechercher : shoes, hoodies, accessories…",
+    "es": "Buscar: shoes, hoodies, accessories…",
+    "it": "Cerca: shoes, hoodies, accessories…",
+    "pl": "Szukaj: shoes, hoodies, accessories…",
+    "pt": "Pesquisar: shoes, hoodies, accessories…"
+  },
+  "Start with": {
+    "de": "Beginne mit",
+    "fr": "Commencez par",
+    "es": "Empieza por",
+    "it": "Inizia da",
+    "pl": "Zacznij od",
+    "pt": "Comece por"
+  },
+  "Real product listings · Direct Kakobuy links": {
+    "de": "Echte Angebote · Direkte Kakobuy-Links",
+    "fr": "Vraies fiches produits · Liens directs Kakobuy",
+    "es": "Productos reales · Enlaces directos a Kakobuy",
+    "it": "Prodotti reali · Link diretti a Kakobuy",
+    "pl": "Prawdziwe oferty · Linki do Kakobuy",
+    "pt": "Produtos reais · Links diretos para Kakobuy"
+  },
+  "Your next find starts with a search.": {
+    "de": "Dein nächster Fund beginnt mit einer Suche.",
+    "fr": "Votre prochaine trouvaille commence par une recherche.",
+    "es": "Tu próximo hallazgo empieza con una búsqueda.",
+    "it": "La prossima scoperta inizia con una ricerca.",
+    "pl": "Kolejne odkrycie zaczyna się od wyszukiwania.",
+    "pt": "A sua próxima descoberta começa com uma pesquisa."
+  },
+  "Discover a find": {
+    "de": "Produkt entdecken",
+    "fr": "Trouver un produit",
+    "es": "Descubre un producto",
+    "it": "Scopri un prodotto",
+    "pl": "Znajdź produkt",
+    "pt": "Descubra um produto"
+  },
+  "Explore the photos": {
+    "de": "Fotos ansehen",
+    "fr": "Voir les photos",
+    "es": "Explora las fotos",
+    "it": "Guarda le foto",
+    "pl": "Obejrzyj zdjęcia",
+    "pt": "Explore as fotos"
+  },
+  "Open in Kakobuy": {
+    "de": "In Kakobuy öffnen",
+    "fr": "Ouvrir dans Kakobuy",
+    "es": "Abrir en Kakobuy",
+    "it": "Apri su Kakobuy",
+    "pl": "Otwórz w Kakobuy",
+    "pt": "Abrir no Kakobuy"
+  },
+  "YOUR NEXT PICK": {
+    "de": "DEIN NÄCHSTER FUND",
+    "fr": "VOTRE PROCHAINE TROUVAILLE",
+    "es": "TU PRÓXIMO HALLAZGO",
+    "it": "LA TUA PROSSIMA SCOPERTA",
+    "pl": "TWÓJ KOLEJNY WYBÓR",
+    "pt": "A SUA PRÓXIMA ESCOLHA"
+  },
+  "Results for “": {
+    "de": "Ergebnisse für „",
+    "fr": "Résultats pour « ",
+    "es": "Resultados de «",
+    "it": "Risultati per “",
+    "pl": "Wyniki dla „",
+    "pt": "Resultados para “"
+  },
+  "Fresh finds. Good taste.": {
+    "de": "Neue Funde. Guter Geschmack.",
+    "fr": "Nouveautés et belles trouvailles.",
+    "es": "Novedades con buen gusto.",
+    "it": "Nuove scoperte. Buon gusto.",
+    "pl": "Nowe odkrycia. Dobry gust.",
+    "pt": "Novidades com bom gosto."
+  },
+  "Sort by": {
+    "de": "Sortieren nach",
+    "fr": "Trier par",
+    "es": "Ordenar por",
+    "it": "Ordina per",
+    "pl": "Sortuj według",
+    "pt": "Ordenar por"
+  },
+  "Newest": {
+    "de": "Neueste",
+    "fr": "Plus récents",
+    "es": "Más recientes",
+    "it": "Più recenti",
+    "pl": "Najnowsze",
+    "pt": "Mais recentes"
+  },
+  "Most viewed": {
+    "de": "Meistgesehen",
+    "fr": "Plus consultés",
+    "es": "Más vistos",
+    "it": "Più visti",
+    "pl": "Najczęściej oglądane",
+    "pt": "Mais vistos"
+  },
+  "Price: high to low": {
+    "de": "Preis: absteigend",
+    "fr": "Prix : décroissant",
+    "es": "Precio: de mayor a menor",
+    "it": "Prezzo: decrescente",
+    "pl": "Cena: malejąco",
+    "pt": "Preço: decrescente"
+  },
+  "Apply": {
+    "de": "Anwenden",
+    "fr": "Appliquer",
+    "es": "Aplicar",
+    "it": "Applica",
+    "pl": "Zastosuj",
+    "pt": "Aplicar"
+  },
+  "Browse the latest source listings. Open a product for its full gallery and buying link.": {
+    "de": "Aktuelle Angebote der Quelle. Öffne ein Produkt für Fotos und Kauflink.",
+    "fr": "Consultez les fiches récentes. Ouvrez un produit pour les photos et le lien d’achat.",
+    "es": "Consulta las novedades. Abre un producto para ver fotos y el enlace de compra.",
+    "it": "Sfoglia le novità. Apri un prodotto per foto e link di acquisto.",
+    "pl": "Przeglądaj nowe oferty. Otwórz produkt, aby zobaczyć zdjęcia i link zakupu.",
+    "pt": "Veja as novidades. Abra um produto para ver fotos e o link de compra."
+  },
+  "The catalogue is taking a moment.": {
+    "de": "Katalog vorübergehend nicht verfügbar.",
+    "fr": "Catalogue temporairement indisponible.",
+    "es": "Catálogo temporalmente no disponible.",
+    "it": "Catalogo temporaneamente non disponibile.",
+    "pl": "Katalog jest chwilowo niedostępny.",
+    "pt": "Catálogo temporariamente indisponível."
+  },
+  "We could not reach the product source. Please try again shortly.": {
+    "de": "Die Produktquelle ist nicht erreichbar. Bitte später erneut versuchen.",
+    "fr": "La source est inaccessible. Réessayez dans un instant.",
+    "es": "No se puede acceder a la fuente. Inténtalo más tarde.",
+    "it": "La fonte non è raggiungibile. Riprova tra poco.",
+    "pl": "Źródło jest niedostępne. Spróbuj ponownie później.",
+    "pt": "A fonte está indisponível. Tente novamente em breve."
+  },
+  "Try again": {
+    "de": "Erneut versuchen",
+    "fr": "Réessayer",
+    "es": "Reintentar",
+    "it": "Riprova",
+    "pl": "Spróbuj ponownie",
+    "pt": "Tentar novamente"
+  },
+  "No matching finds this time.": {
+    "de": "Keine passenden Produkte gefunden.",
+    "fr": "Aucun produit correspondant.",
+    "es": "No hay productos coincidentes.",
+    "it": "Nessun prodotto corrispondente.",
+    "pl": "Brak pasujących produktów.",
+    "pt": "Nenhum produto correspondente."
+  },
+  "Try a shorter English keyword, such as shoes or hoodie.": {
+    "de": "Versuche ein kurzes englisches Wort wie shoes oder hoodie.",
+    "fr": "Essayez un mot anglais court comme shoes ou hoodie.",
+    "es": "Prueba una palabra corta en inglés, como shoes o hoodie.",
+    "it": "Prova una parola breve in inglese, come shoes o hoodie.",
+    "pl": "Użyj krótkiego angielskiego słowa, np. shoes lub hoodie.",
+    "pt": "Tente uma palavra curta em inglês, como shoes ou hoodie."
+  },
+  "Browse all finds": {
+    "de": "Alle Produkte ansehen",
+    "fr": "Voir tous les produits",
+    "es": "Ver todos los productos",
+    "it": "Vedi tutti i prodotti",
+    "pl": "Zobacz wszystkie produkty",
+    "pt": "Ver todos os produtos"
+  },
+  "Photo unavailable": {
+    "de": "Foto nicht verfügbar",
+    "fr": "Photo indisponible",
+    "es": "Foto no disponible",
+    "it": "Foto non disponibile",
+    "pl": "Zdjęcie niedostępne",
+    "pt": "Foto indisponível"
+  },
+  "SOURCE FIND": {
+    "de": "AUS DER QUELLE",
+    "fr": "FICHE SOURCE",
+    "es": "PRODUCTO ORIGINAL",
+    "it": "DALLA FONTE",
+    "pl": "OFERTA ŹRÓDŁOWA",
+    "pt": "PRODUTO DA FONTE"
+  },
+  "Source price": {
+    "de": "Quellpreis",
+    "fr": "Prix indiqué",
+    "es": "Precio de origen",
+    "it": "Prezzo alla fonte",
+    "pl": "Cena źródłowa",
+    "pt": "Preço na fonte"
+  },
+  "Prices are shown as listed by the source. Confirm currency, fees and shipping on the buying platform.": {
+    "de": "Preise wie in der Quelle. Währung, Gebühren und Versand auf der Kaufplattform prüfen.",
+    "fr": "Prix affichés par la source. Vérifiez devise, frais et livraison sur la plateforme d’achat.",
+    "es": "Precios de la fuente. Confirma moneda, gastos y envío en la plataforma de compra.",
+    "it": "Prezzi della fonte. Verifica valuta, commissioni e spedizione sulla piattaforma.",
+    "pl": "Ceny ze źródła. Sprawdź walutę, opłaty i dostawę na platformie zakupowej.",
+    "pt": "Preços da fonte. Confirme moeda, taxas e envio na plataforma de compra."
+  },
+  "Explore the full source catalogue": {
+    "de": "Vollständigen Quellkatalog ansehen",
+    "fr": "Voir le catalogue source complet",
+    "es": "Ver el catálogo de origen completo",
+    "it": "Vedi il catalogo completo della fonte",
+    "pl": "Zobacz pełny katalog źródłowy",
+    "pt": "Ver catálogo completo da fonte"
+  },
+  "FROM FIND TO FAVOURITE": {
+    "de": "VOM FUND ZUM FAVORITEN",
+    "fr": "DE LA TROUVAILLE AU COUP DE CŒUR",
+    "es": "DEL HALLAZGO AL FAVORITO",
+    "it": "DALLA SCOPERTA AL PREFERITO",
+    "pl": "OD ODKRYCIA DO ULUBIONEGO",
+    "pt": "DA DESCOBERTA AO FAVORITO"
+  },
+  "Your next haul,": {
+    "de": "Deine nächste Bestellung,",
+    "fr": "Votre prochaine commande,",
+    "es": "Tu próximo pedido,",
+    "it": "Il tuo prossimo ordine,",
+    "pl": "Twoje kolejne zamówienie,",
+    "pt": "A sua próxima encomenda,"
+  },
+  "a little simpler.": {
+    "de": "ein wenig einfacher.",
+    "fr": "un peu plus simple.",
+    "es": "un poco más fácil.",
+    "it": "un po’ più semplice.",
+    "pl": "trochę prostsze.",
+    "pt": "um pouco mais simples."
+  },
+  "Create a Kakobuy account": {
+    "de": "Kakobuy-Konto erstellen",
+    "fr": "Créer un compte Kakobuy",
+    "es": "Crear una cuenta Kakobuy",
+    "it": "Crea un account Kakobuy",
+    "pl": "Utwórz konto Kakobuy",
+    "pt": "Criar conta Kakobuy"
+  },
+  "Find your pick": {
+    "de": "Finde dein Produkt",
+    "fr": "Trouvez votre produit",
+    "es": "Encuentra tu producto",
+    "it": "Trova il tuo prodotto",
+    "pl": "Znajdź swój produkt",
+    "pt": "Encontre o seu produto"
+  },
+  "Search the catalogue and compare the original product photos.": {
+    "de": "Durchsuche den Katalog und vergleiche Originalfotos.",
+    "fr": "Parcourez le catalogue et comparez les photos originales.",
+    "es": "Busca en el catálogo y compara las fotos originales.",
+    "it": "Cerca nel catalogo e confronta le foto originali.",
+    "pl": "Przeszukaj katalog i porównaj oryginalne zdjęcia.",
+    "pt": "Pesquise no catálogo e compare as fotos originais."
+  },
+  "Check the details": {
+    "de": "Details prüfen",
+    "fr": "Vérifiez les détails",
+    "es": "Revisa los detalles",
+    "it": "Verifica i dettagli",
+    "pl": "Sprawdź szczegóły",
+    "pt": "Verifique os detalhes"
+  },
+  "Open the listing and confirm the seller, options and current price.": {
+    "de": "Prüfe Verkäufer, Varianten und aktuellen Preis im Angebot.",
+    "fr": "Vérifiez le vendeur, les options et le prix actuel de l’offre.",
+    "es": "Confirma el vendedor, las opciones y el precio actual.",
+    "it": "Verifica venditore, opzioni e prezzo attuale nell’offerta.",
+    "pl": "Sprawdź sprzedawcę, warianty i aktualną cenę oferty.",
+    "pt": "Confirme vendedor, opções e preço atual na oferta."
+  },
+  "Order through Kakobuy": {
+    "de": "Über Kakobuy bestellen",
+    "fr": "Commandez via Kakobuy",
+    "es": "Compra a través de Kakobuy",
+    "it": "Ordina tramite Kakobuy",
+    "pl": "Zamów przez Kakobuy",
+    "pt": "Encomende pelo Kakobuy"
+  },
+  "Use the buying link. Review your warehouse photos before arranging shipping.": {
+    "de": "Nutze den Kauflink. Prüfe deine Lagerfotos vor dem Versand.",
+    "fr": "Utilisez le lien d’achat. Vérifiez vos photos d’entrepôt avant l’expédition.",
+    "es": "Usa el enlace de compra. Revisa tus fotos del almacén antes del envío.",
+    "it": "Usa il link di acquisto. Controlla le foto del magazzino prima della spedizione.",
+    "pl": "Użyj linku zakupu. Sprawdź zdjęcia z magazynu przed wysyłką.",
+    "pt": "Use o link de compra. Verifique as fotos do armazém antes do envio."
+  },
+  "BEFORE YOU BUY": {
+    "de": "VOR DEM KAUF",
+    "fr": "AVANT D’ACHETER",
+    "es": "ANTES DE COMPRAR",
+    "it": "PRIMA DI ACQUISTARE",
+    "pl": "PRZED ZAKUPEM",
+    "pt": "ANTES DE COMPRAR"
+  },
+  "A few useful answers.": {
+    "de": "Einige hilfreiche Antworten.",
+    "fr": "Quelques réponses utiles.",
+    "es": "Algunas respuestas útiles.",
+    "it": "Alcune risposte utili.",
+    "pl": "Kilka przydatnych odpowiedzi.",
+    "pt": "Algumas respostas úteis."
+  },
+  "What is a Kakobuy spreadsheet?": {
+    "de": "Was ist ein Kakobuy Spreadsheet?",
+    "fr": "Qu’est-ce qu’un Kakobuy Spreadsheet ?",
+    "es": "¿Qué es un Kakobuy Spreadsheet?",
+    "it": "Cos’è un Kakobuy Spreadsheet?",
+    "pl": "Czym jest Kakobuy Spreadsheet?",
+    "pt": "O que é um Kakobuy Spreadsheet?"
+  },
+  "A browsable collection of product links. This preview reads listings directly from cnfanshm and helps you open their original marketplace links in Kakobuy.": {
+    "de": "Eine Sammlung von Produktlinks. Diese Vorschau liest Angebote direkt von cnfanshm und öffnet Originalangebote in Kakobuy.",
+    "fr": "Une collection de liens produits. Cet aperçu lit les fiches de cnfanshm et ouvre les liens d’origine dans Kakobuy.",
+    "es": "Una colección de enlaces. Esta vista lee los productos de cnfanshm y abre sus enlaces originales en Kakobuy.",
+    "it": "Una raccolta di link. Questa anteprima legge le offerte da cnfanshm e apre i link originali su Kakobuy.",
+    "pl": "Zbiór linków do produktów. Podgląd pobiera oferty z cnfanshm i otwiera oryginalne linki w Kakobuy.",
+    "pt": "Uma coleção de links. Esta prévia lê as ofertas do cnfanshm e abre os links originais no Kakobuy."
+  },
+  "Are these warehouse QC photos?": {
+    "de": "Sind dies QC-Lagerfotos?",
+    "fr": "S’agit-il de photos QC d’entrepôt ?",
+    "es": "¿Son fotos QC del almacén?",
+    "it": "Sono foto QC del magazzino?",
+    "pl": "Czy to zdjęcia QC z magazynu?",
+    "pt": "Estas são fotos QC do armazém?"
+  },
+  "The current preview shows source product-gallery images. The QC data connection is not verified yet, so these images are not labelled as warehouse QC.": {
+    "de": "Die Vorschau zeigt Produktfotos der Quelle. Die QC-Anbindung ist ungeprüft; diese Fotos sind keine bestätigten Lager-QC-Fotos.",
+    "fr": "L’aperçu montre les photos produits de la source. La connexion QC reste à vérifier ; ces photos ne sont pas des QC d’entrepôt confirmés.",
+    "es": "La vista muestra fotos de la fuente. La conexión QC no está verificada; no se presentan como fotos QC del almacén.",
+    "it": "L’anteprima mostra foto della fonte. La connessione QC non è verificata; non sono foto QC del magazzino confermate.",
+    "pl": "Podgląd pokazuje zdjęcia ze źródła. Połączenie QC nie jest potwierdzone; to nie są zweryfikowane zdjęcia QC z magazynu.",
+    "pt": "A prévia mostra fotos da fonte. A ligação QC não está verificada; não são fotos QC confirmadas do armazém."
+  },
+  "Can I search with a photo?": {
+    "de": "Kann ich mit einem Foto suchen?",
+    "fr": "Puis-je chercher avec une photo ?",
+    "es": "¿Puedo buscar con una foto?",
+    "it": "Posso cercare con una foto?",
+    "pl": "Czy mogę szukać zdjęciem?",
+    "pt": "Posso pesquisar com uma foto?"
+  },
+  "Image search will use the existing cnfanshm service. Its connection is still being verified and is not available in this preview.": {
+    "de": "Die Bildsuche wird den cnfanshm-Dienst nutzen. Die Anbindung wird geprüft und ist in dieser Vorschau noch nicht verfügbar.",
+    "fr": "La recherche par image utilisera cnfanshm. La connexion est en cours de vérification et n’est pas encore disponible.",
+    "es": "La búsqueda por imagen usará cnfanshm. La conexión se está verificando y aún no está disponible.",
+    "it": "La ricerca per immagine userà cnfanshm. La connessione è in verifica e non è ancora disponibile.",
+    "pl": "Wyszukiwanie obrazem będzie używać cnfanshm. Połączenie jest sprawdzane i nie jest jeszcze dostępne.",
+    "pt": "A pesquisa por imagem usará cnfanshm. A ligação está em verificação e ainda não está disponível."
+  },
+  "Is this the official Kakobuy website?": {
+    "de": "Ist dies die offizielle Kakobuy-Website?",
+    "fr": "Est-ce le site officiel de Kakobuy ?",
+    "es": "¿Es el sitio oficial de Kakobuy?",
+    "it": "È il sito ufficiale di Kakobuy?",
+    "pl": "Czy to oficjalna strona Kakobuy?",
+    "pt": "Este é o site oficial do Kakobuy?"
+  },
+  "No. This is an independent recommendation site. Registration and buying links open Kakobuy. Some links may earn an affiliate commission.": {
+    "de": "Nein. Dies ist eine unabhängige Empfehlungsseite. Registrierung und Kauflinks öffnen Kakobuy. Einige Links können Provisionen einbringen.",
+    "fr": "Non. C’est un site de recommandations indépendant. Les liens d’inscription et d’achat ouvrent Kakobuy. Certains liens peuvent générer une commission.",
+    "es": "No. Es un sitio de recomendaciones independiente. Los enlaces de registro y compra abren Kakobuy. Algunos pueden generar una comisión.",
+    "it": "No. È un sito indipendente di consigli. I link di iscrizione e acquisto aprono Kakobuy. Alcuni possono generare commissioni.",
+    "pl": "Nie. To niezależna strona polecająca produkty. Linki rejestracji i zakupu otwierają Kakobuy. Niektóre mogą przynosić prowizję.",
+    "pt": "Não. É um site independente de recomendações. Os links de registo e compra abrem Kakobuy. Alguns podem gerar comissão."
+  },
+  "Back to the finds": {
+    "de": "Zurück zu den Produkten",
+    "fr": "Retour aux produits",
+    "es": "Volver a los productos",
+    "it": "Torna ai prodotti",
+    "pl": "Powrót do produktów",
+    "pt": "Voltar aos produtos"
+  },
+  "Take a closer look. These images come directly from the original source listing.": {
+    "de": "Diese Bilder stammen direkt aus dem Originalangebot.",
+    "fr": "Ces images proviennent directement de la fiche source.",
+    "es": "Estas imágenes proceden directamente del anuncio original.",
+    "it": "Queste immagini provengono direttamente dall’offerta originale.",
+    "pl": "Te zdjęcia pochodzą bezpośrednio z oryginalnej oferty.",
+    "pt": "Estas imagens vêm diretamente da oferta original."
+  },
+  "View original marketplace listing": {
+    "de": "Originalangebot ansehen",
+    "fr": "Voir l’offre d’origine",
+    "es": "Ver el anuncio original",
+    "it": "Vedi l’offerta originale",
+    "pl": "Zobacz oryginalną ofertę",
+    "pt": "Ver oferta original"
+  },
+  "Before you order": {
+    "de": "Vor der Bestellung",
+    "fr": "Avant de commander",
+    "es": "Antes de pedir",
+    "it": "Prima di ordinare",
+    "pl": "Przed zamówieniem",
+    "pt": "Antes de encomendar"
+  },
+  "Confirm currency, current price, size, colour, shipping and fees on Kakobuy. The gallery is not verified warehouse QC.": {
+    "de": "Prüfe Währung, Preis, Größe, Farbe, Versand und Gebühren auf Kakobuy. Die Galerie ist kein bestätigtes Lager-QC.",
+    "fr": "Vérifiez devise, prix, taille, couleur, livraison et frais sur Kakobuy. La galerie n’est pas un QC d’entrepôt vérifié.",
+    "es": "Confirma moneda, precio, talla, color, envío y gastos en Kakobuy. La galería no es QC verificado del almacén.",
+    "it": "Verifica valuta, prezzo, taglia, colore, spedizione e commissioni su Kakobuy. La galleria non è QC verificato del magazzino.",
+    "pl": "Sprawdź walutę, cenę, rozmiar, kolor, dostawę i opłaty w Kakobuy. Galeria nie jest zweryfikowanym QC magazynowym.",
+    "pt": "Confirme moeda, preço, tamanho, cor, envio e taxas no Kakobuy. A galeria não é QC verificado do armazém."
+  },
+  "View on cnfanshm": {
+    "de": "Auf cnfanshm ansehen",
+    "fr": "Voir sur cnfanshm",
+    "es": "Ver en cnfanshm",
+    "it": "Vedi su cnfanshm",
+    "pl": "Zobacz na cnfanshm",
+    "pt": "Ver no cnfanshm"
+  },
+  "Product unavailable": {
+    "de": "Produkt nicht verfügbar",
+    "fr": "Produit indisponible",
+    "es": "Producto no disponible",
+    "it": "Prodotto non disponibile",
+    "pl": "Produkt niedostępny",
+    "pt": "Produto indisponível"
+  },
+  "The source could not be reached. Please try again.": {
+    "de": "Quelle nicht erreichbar. Bitte erneut versuchen.",
+    "fr": "Source inaccessible. Veuillez réessayer.",
+    "es": "Fuente inaccesible. Inténtalo de nuevo.",
+    "it": "Fonte non raggiungibile. Riprova.",
+    "pl": "Źródło niedostępne. Spróbuj ponownie.",
+    "pt": "Fonte indisponível. Tente novamente."
+  },
+  "This product was not found.": {
+    "de": "Dieses Produkt wurde nicht gefunden.",
+    "fr": "Ce produit est introuvable.",
+    "es": "No se encontró este producto.",
+    "it": "Prodotto non trovato.",
+    "pl": "Nie znaleziono produktu.",
+    "pt": "Produto não encontrado."
+  },
+  "DESIGN PREVIEW": {
+    "de": "DESIGNVORSCHAU",
+    "fr": "APERÇU DU DESIGN",
+    "es": "VISTA PREVIA",
+    "it": "ANTEPRIMA",
+    "pl": "PODGLĄD",
+    "pt": "PRÉVIA"
+  },
+  "Independent finds. Original marketplace links.": {
+    "de": "Unabhängige Funde. Originalangebote.",
+    "fr": "Sélection indépendante. Liens d’origine.",
+    "es": "Selección independiente. Enlaces originales.",
+    "it": "Scoperte indipendenti. Link originali.",
+    "pl": "Niezależne odkrycia. Oryginalne linki.",
+    "pt": "Seleção independente. Links originais."
+  },
+  "Discover": {
+    "de": "Entdecken",
+    "fr": "Découvrir",
+    "es": "Descubrir",
+    "it": "Scopri",
+    "pl": "Odkrywaj",
+    "pt": "Descobrir"
+  },
+  "Categories": {
+    "de": "Kategorien",
+    "fr": "Catégories",
+    "es": "Categorías",
+    "it": "Categorie",
+    "pl": "Kategorie",
+    "pt": "Categorias"
+  },
+  "How to buy": {
+    "de": "So kaufst du",
+    "fr": "Comment acheter",
+    "es": "Cómo comprar",
+    "it": "Come acquistare",
+    "pl": "Jak kupować",
+    "pt": "Como comprar"
+  },
+  "Join Kakobuy": {
+    "de": "Bei Kakobuy registrieren",
+    "fr": "Rejoindre Kakobuy",
+    "es": "Regístrate en Kakobuy",
+    "it": "Iscriviti a Kakobuy",
+    "pl": "Dołącz do Kakobuy",
+    "pt": "Registar no Kakobuy"
+  },
+  "A simpler way to find your next favourite.": {
+    "de": "Einfacher zum nächsten Lieblingsstück.",
+    "fr": "Trouvez plus simplement votre prochain favori.",
+    "es": "Encuentra tu próximo favorito más fácilmente.",
+    "it": "Trova più facilmente il tuo prossimo preferito.",
+    "pl": "Łatwiej znajdź swój kolejny ulubiony produkt.",
+    "pt": "Encontre o seu próximo favorito mais facilmente."
+  },
+  "Independent recommendation site. Not the official Kakobuy website.": {
+    "de": "Unabhängige Empfehlungsseite. Nicht die offizielle Kakobuy-Website.",
+    "fr": "Site de recommandations indépendant. Ce n’est pas le site officiel de Kakobuy.",
+    "es": "Sitio independiente de recomendaciones. No es el sitio oficial de Kakobuy.",
+    "it": "Sito indipendente di consigli. Non è il sito ufficiale di Kakobuy.",
+    "pl": "Niezależna strona polecająca produkty. To nie jest oficjalna strona Kakobuy.",
+    "pt": "Site independente de recomendações. Não é o site oficial do Kakobuy."
+  },
+  "Product information and photos are supplied by cnfanshm. Some links are affiliate links.": {
+    "de": "Produktinfos und Fotos von cnfanshm. Einige Links sind Affiliate-Links.",
+    "fr": "Informations et photos fournies par cnfanshm. Certains liens sont affiliés.",
+    "es": "Información y fotos de cnfanshm. Algunos enlaces son de afiliado.",
+    "it": "Informazioni e foto da cnfanshm. Alcuni link sono affiliati.",
+    "pl": "Informacje i zdjęcia z cnfanshm. Niektóre linki są afiliacyjne.",
+    "pt": "Informações e fotos de cnfanshm. Alguns links são afiliados."
+  },
+  "All finds": {
+    "de": "Alle Produkte",
+    "fr": "Tous les produits",
+    "es": "Todos los productos",
+    "it": "Tutti i prodotti",
+    "pl": "Wszystkie produkty",
+    "pt": "Todos os produtos"
+  },
+  "Shoes": {
+    "de": "Schuhe",
+    "fr": "Chaussures",
+    "es": "Zapatos",
+    "it": "Scarpe",
+    "pl": "Buty",
+    "pt": "Calçado"
+  },
+  "Hoodies & sweaters": {
+    "de": "Hoodies & Pullover",
+    "fr": "Sweats et pulls",
+    "es": "Sudaderas y jerséis",
+    "it": "Felpe e maglioni",
+    "pl": "Bluzy i swetry",
+    "pt": "Sweatshirts e camisolas"
+  },
+  "T-shirts": {
+    "de": "T-Shirts",
+    "fr": "T-shirts",
+    "es": "Camisetas",
+    "it": "Magliette",
+    "pl": "Koszulki",
+    "pt": "T-shirts"
+  },
+  "Jackets": {
+    "de": "Jacken",
+    "fr": "Vestes",
+    "es": "Chaquetas",
+    "it": "Giacche",
+    "pl": "Kurtki",
+    "pt": "Casacos"
+  },
+  "Pants & shorts": {
+    "de": "Hosen & Shorts",
+    "fr": "Pantalons et shorts",
+    "es": "Pantalones y shorts",
+    "it": "Pantaloni e pantaloncini",
+    "pl": "Spodnie i szorty",
+    "pt": "Calças e calções"
+  },
+  "Accessories": {
+    "de": "Accessoires",
+    "fr": "Accessoires",
+    "es": "Accesorios",
+    "it": "Accessori",
+    "pl": "Akcesoria",
+    "pt": "Acessórios"
+  },
+  "Search products": {
+    "de": "Produkte suchen",
+    "fr": "Rechercher des produits",
+    "es": "Buscar productos",
+    "it": "Cerca prodotti",
+    "pl": "Szukaj produktów",
+    "pt": "Pesquisar produtos"
+  },
+  "Search": {
+    "de": "Suchen",
+    "fr": "Rechercher",
+    "es": "Buscar",
+    "it": "Cerca",
+    "pl": "Szukaj",
+    "pt": "Pesquisar"
+  },
+  "Search with an image": {
+    "de": "Mit Bild suchen",
+    "fr": "Rechercher par image",
+    "es": "Buscar por imagen",
+    "it": "Cerca per immagine",
+    "pl": "Szukaj obrazem",
+    "pt": "Pesquisar por imagem"
+  },
+  "Close": {
+    "de": "Schließen",
+    "fr": "Fermer",
+    "es": "Cerrar",
+    "it": "Chiudi",
+    "pl": "Zamknij",
+    "pt": "Fechar"
+  },
+  "Connection pending": {
+    "de": "Anbindung ausstehend",
+    "fr": "Connexion en attente",
+    "es": "Conexión pendiente",
+    "it": "Connessione in attesa",
+    "pl": "Oczekiwanie na połączenie",
+    "pt": "Ligação pendente"
+  },
+  "No image is uploaded in this preview.": {
+    "de": "In dieser Vorschau wird kein Bild hochgeladen.",
+    "fr": "Aucune image n’est envoyée dans cet aperçu.",
+    "es": "No se suben imágenes en esta vista previa.",
+    "it": "Nessuna immagine viene caricata in questa anteprima.",
+    "pl": "W tym podglądzie żaden obraz nie jest przesyłany.",
+    "pt": "Nenhuma imagem é enviada nesta prévia."
+  },
+  "Choose your language": {
+    "de": "Sprache wählen",
+    "fr": "Choisissez votre langue",
+    "es": "Elige tu idioma",
+    "it": "Scegli la lingua",
+    "pl": "Wybierz język",
+    "pt": "Escolha o idioma"
+  },
+  "Find a language": {
+    "de": "Sprache suchen",
+    "fr": "Rechercher une langue",
+    "es": "Buscar idioma",
+    "it": "Cerca lingua",
+    "pl": "Szukaj języka",
+    "pt": "Pesquisar idioma"
+  },
+  "Product titles remain as supplied by cnfanshm.": {
+    "de": "Produkttitel bleiben wie von cnfanshm geliefert.",
+    "fr": "Les titres produits restent ceux de cnfanshm.",
+    "es": "Los títulos conservan el texto de cnfanshm.",
+    "it": "I titoli restano quelli forniti da cnfanshm.",
+    "pl": "Nazwy produktów pozostają zgodne z cnfanshm.",
+    "pt": "Os títulos mantêm o texto fornecido por cnfanshm."
+  },
+  "View product photo": {
+    "de": "Produktfoto ansehen",
+    "fr": "Voir la photo du produit",
+    "es": "Ver foto del producto",
+    "it": "Vedi foto del prodotto",
+    "pl": "Zobacz zdjęcie produktu",
+    "pt": "Ver foto do produto"
+  },
+  "Preparing image…": {
+    "de": "Bild wird vorbereitet…",
+    "fr": "Préparation de l’image…",
+    "es": "Preparando imagen…",
+    "it": "Preparazione immagine…",
+    "pl": "Przygotowywanie obrazu…",
+    "pt": "A preparar imagem…"
+  },
+  "Searching similar products…": {
+    "de": "Ähnliche Produkte werden gesucht…",
+    "fr": "Recherche de produits similaires…",
+    "es": "Buscando productos similares…",
+    "it": "Ricerca di prodotti simili…",
+    "pl": "Wyszukiwanie podobnych produktów…",
+    "pt": "A pesquisar produtos semelhantes…"
+  },
+  "Search failed. Please retry.": {
+    "de": "Suche fehlgeschlagen. Bitte erneut versuchen.",
+    "fr": "Recherche échouée. Réessayez.",
+    "es": "La búsqueda falló. Reinténtalo.",
+    "it": "Ricerca non riuscita. Riprova.",
+    "pl": "Wyszukiwanie nie powiodło się. Spróbuj ponownie.",
+    "pt": "A pesquisa falhou. Tente novamente."
+  },
+  "Choose a JPG, PNG or WebP image up to 10 MB.": {
+    "de": "Wähle JPG, PNG oder WebP bis 10 MB.",
+    "fr": "Choisissez JPG, PNG ou WebP, 10 Mo maximum.",
+    "es": "Elige JPG, PNG o WebP de hasta 10 MB.",
+    "it": "Scegli JPG, PNG o WebP fino a 10 MB.",
+    "pl": "Wybierz JPG, PNG lub WebP do 10 MB.",
+    "pt": "Escolha JPG, PNG ou WebP até 10 MB."
+  },
+  "Search cancelled.": {
+    "de": "Suche abgebrochen.",
+    "fr": "Recherche annulée.",
+    "es": "Búsqueda cancelada.",
+    "it": "Ricerca annullata.",
+    "pl": "Wyszukiwanie anulowane.",
+    "pt": "Pesquisa cancelada."
+  },
+  "No close matches in the current index. Try another photo.": {
+    "de": "Keine ähnlichen Treffer im aktuellen Index. Versuche ein anderes Foto.",
+    "fr": "Aucun résultat proche dans l’index actuel. Essayez une autre photo.",
+    "es": "Sin coincidencias cercanas en el índice actual. Prueba otra foto.",
+    "it": "Nessun risultato vicino nell’indice attuale. Prova un’altra foto.",
+    "pl": "Brak zbliżonych wyników w obecnym indeksie. Spróbuj innego zdjęcia.",
+    "pt": "Sem resultados próximos no índice atual. Tente outra foto."
+  },
+  "Search is busy. Please try again shortly.": {
+    "de": "Suche ausgelastet. Bitte gleich erneut versuchen.",
+    "fr": "Recherche occupée. Réessayez dans un instant.",
+    "es": "Búsqueda ocupada. Inténtalo en un momento.",
+    "it": "Ricerca occupata. Riprova tra poco.",
+    "pl": "Wyszukiwanie zajęte. Spróbuj za chwilę.",
+    "pt": "Pesquisa ocupada. Tente novamente em breve."
+  },
+  "Products in search index:": {
+    "de": "Produkte im Suchindex:",
+    "fr": "Produits dans l’index :",
+    "es": "Productos en el índice:",
+    "it": "Prodotti nell’indice:",
+    "pl": "Produkty w indeksie:",
+    "pt": "Produtos no índice:"
+  },
+  "Visually similar products": {
+    "de": "Optisch ähnliche Produkte",
+    "fr": "Produits visuellement similaires",
+    "es": "Productos visualmente similares",
+    "it": "Prodotti visivamente simili",
+    "pl": "Wizualnie podobne produkty",
+    "pt": "Produtos visualmente semelhantes"
+  },
+  "Some product details are temporarily unavailable.": {
+    "de": "Einige Produktdetails sind vorübergehend nicht verfügbar.",
+    "fr": "Certains détails produits sont indisponibles.",
+    "es": "Algunos detalles no están disponibles temporalmente.",
+    "it": "Alcuni dettagli sono temporaneamente indisponibili.",
+    "pl": "Niektóre szczegóły są chwilowo niedostępne.",
+    "pt": "Alguns detalhes estão temporariamente indisponíveis."
+  },
+  "Upload, drop or paste a product photo.": {
+    "de": "Produktfoto hochladen, ablegen oder einfügen.",
+    "fr": "Importez, déposez ou collez une photo produit.",
+    "es": "Sube, arrastra o pega una foto del producto.",
+    "it": "Carica, trascina o incolla una foto del prodotto.",
+    "pl": "Prześlij, przeciągnij lub wklej zdjęcie produktu.",
+    "pt": "Carregue, arraste ou cole uma foto do produto."
+  },
+  "Choose a photo": {
+    "de": "Foto auswählen",
+    "fr": "Choisir une photo",
+    "es": "Elegir foto",
+    "it": "Scegli una foto",
+    "pl": "Wybierz zdjęcie",
+    "pt": "Escolher foto"
+  },
+  "Your search photo": {
+    "de": "Dein Suchfoto",
+    "fr": "Votre photo de recherche",
+    "es": "Tu foto de búsqueda",
+    "it": "La tua foto di ricerca",
+    "pl": "Twoje zdjęcie do wyszukiwania",
+    "pt": "A sua foto de pesquisa"
+  },
+  "Cancel": {
+    "de": "Abbrechen",
+    "fr": "Annuler",
+    "es": "Cancelar",
+    "it": "Annulla",
+    "pl": "Anuluj",
+    "pt": "Cancelar"
+  },
+  "Photos are processed temporarily, not saved. Similar does not mean identical. Only indexed cnfanshm products are searched.": {
+    "de": "Fotos werden nur vorübergehend verarbeitet, nicht gespeichert. Ähnlich heißt nicht identisch. Gesucht wird nur in indexierten cnfanshm-Produkten.",
+    "fr": "Les photos sont traitées temporairement, sans stockage. Similaire ne signifie pas identique. Seuls les produits cnfanshm indexés sont recherchés.",
+    "es": "Las fotos se procesan temporalmente, sin guardarse. Similar no significa idéntico. Solo se buscan productos cnfanshm indexados.",
+    "it": "Le foto vengono elaborate temporaneamente, senza salvarle. Simile non significa identico. Si cercano solo prodotti cnfanshm indicizzati.",
+    "pl": "Zdjęcia są przetwarzane tymczasowo, bez zapisu. Podobny nie oznacza identyczny. Wyszukiwane są tylko zindeksowane produkty cnfanshm.",
+    "pt": "As fotos são processadas temporariamente, sem guardar. Semelhante não significa igual. Só são pesquisados produtos cnfanshm indexados."
+  },
+  "Explore": {
+    "de": "Entdecken",
+    "fr": "Explorer",
+    "es": "Explorar",
+    "it": "Esplora",
+    "pl": "Odkrywaj",
+    "pt": "Explorar"
+  },
+  "FAQ": {
+    "de": "Häufige Fragen",
+    "fr": "Questions fréquentes",
+    "es": "Preguntas frecuentes",
+    "it": "Domande frequenti",
+    "pl": "Częste pytania",
+    "pt": "Perguntas frequentes"
+  },
+  "Articles & guides": {
+    "de": "Artikel & Ratgeber",
+    "fr": "Articles et guides",
+    "es": "Artículos y guías",
+    "it": "Articoli e guide",
+    "pl": "Artykuły i poradniki",
+    "pt": "Artigos e guias"
+  },
+  "Read article": {
+    "de": "Artikel lesen",
+    "fr": "Lire l’article",
+    "es": "Leer artículo",
+    "it": "Leggi articolo",
+    "pl": "Przeczytaj artykuł",
+    "pt": "Ler artigo"
+  },
+  "Practical reading before your next order.": {
+    "de": "Praktische Tipps vor deiner nächsten Bestellung.",
+    "fr": "Des conseils avant votre prochaine commande.",
+    "es": "Consejos antes de tu próximo pedido.",
+    "it": "Consigli prima del prossimo ordine.",
+    "pl": "Porady przed kolejnym zamówieniem.",
+    "pt": "Conselhos antes da próxima encomenda."
+  },
+  "How to use a Kakobuy spreadsheet": {
+    "de": "So nutzt du ein Kakobuy Spreadsheet",
+    "fr": "Comment utiliser un Kakobuy Spreadsheet",
+    "es": "Cómo usar un Kakobuy Spreadsheet",
+    "it": "Come usare un Kakobuy Spreadsheet",
+    "pl": "Jak korzystać z Kakobuy Spreadsheet",
+    "pt": "Como usar um Kakobuy Spreadsheet"
+  },
+  "Find a product, compare its photos and check the original listing before ordering.": {
+    "de": "Produkt finden, Fotos vergleichen und das Originalangebot prüfen.",
+    "fr": "Trouvez un produit, comparez les photos et vérifiez l’offre d’origine.",
+    "es": "Encuentra un producto, compara fotos y revisa el anuncio original.",
+    "it": "Trova un prodotto, confronta le foto e verifica l’offerta originale.",
+    "pl": "Znajdź produkt, porównaj zdjęcia i sprawdź oryginalną ofertę.",
+    "pt": "Encontre um produto, compare fotos e verifique a oferta original."
+  },
+  "Start with a product search": {
+    "de": "Beginne mit einer Produktsuche",
+    "fr": "Commencez par une recherche",
+    "es": "Empieza buscando un producto",
+    "it": "Inizia cercando un prodotto",
+    "pl": "Zacznij od wyszukiwania produktu",
+    "pt": "Comece por pesquisar um produto"
+  },
+  "Use a short keyword such as shoes or hoodie. Open a product to see its source photos and original marketplace link. Product names remain as provided by cnfanshm.": {
+    "de": "Nutze ein kurzes Suchwort wie shoes oder hoodie. Öffne das Produkt für Fotos und den Original-Link. Produktnamen stammen unverändert von cnfanshm.",
+    "fr": "Utilisez un mot court comme shoes ou hoodie. Ouvrez le produit pour voir les photos et le lien d’origine. Les noms restent ceux de cnfanshm.",
+    "es": "Usa una palabra como shoes o hoodie. Abre el producto para ver fotos y el enlace original. Los nombres se mantienen como los facilita cnfanshm.",
+    "it": "Usa una parola come shoes o hoodie. Apri il prodotto per foto e link originale. I nomi restano quelli di cnfanshm.",
+    "pl": "Użyj słowa shoes lub hoodie. Otwórz produkt, aby zobaczyć zdjęcia i oryginalny link. Nazwy pozostają zgodne z cnfanshm.",
+    "pt": "Use uma palavra como shoes ou hoodie. Abra o produto para fotos e link original. Os nomes mantêm o texto do cnfanshm."
+  },
+  "Check the original listing": {
+    "de": "Originalangebot prüfen",
+    "fr": "Vérifiez l’offre d’origine",
+    "es": "Revisa el anuncio original",
+    "it": "Verifica l’offerta originale",
+    "pl": "Sprawdź oryginalną ofertę",
+    "pt": "Verifique a oferta original"
+  },
+  "A spreadsheet helps you discover items; it is not a stock or authenticity guarantee. Check the seller, size, colour, current price and availability on the original listing.": {
+    "de": "Ein Spreadsheet hilft beim Entdecken, garantiert aber weder Bestand noch Echtheit. Prüfe Verkäufer, Größe, Farbe, Preis und Verfügbarkeit im Originalangebot.",
+    "fr": "Un spreadsheet aide à découvrir des articles sans garantir stock ou authenticité. Vérifiez vendeur, taille, couleur, prix et disponibilité sur l’offre d’origine.",
+    "es": "Un spreadsheet ayuda a descubrir productos, sin garantizar existencias ni autenticidad. Comprueba vendedor, talla, color, precio y disponibilidad en el anuncio original.",
+    "it": "Uno spreadsheet aiuta a scoprire prodotti, senza garantire disponibilità o autenticità. Verifica venditore, taglia, colore, prezzo e disponibilità nell’offerta originale.",
+    "pl": "Spreadsheet pomaga odkrywać produkty, ale nie gwarantuje dostępności ani autentyczności. Sprawdź sprzedawcę, rozmiar, kolor, cenę i dostępność w oryginalnej ofercie.",
+    "pt": "Um spreadsheet ajuda a descobrir produtos, sem garantir stock ou autenticidade. Verifique vendedor, tamanho, cor, preço e disponibilidade na oferta original."
+  },
+  "Continue to Kakobuy": {
+    "de": "Weiter zu Kakobuy",
+    "fr": "Continuer vers Kakobuy",
+    "es": "Continuar a Kakobuy",
+    "it": "Continua su Kakobuy",
+    "pl": "Przejdź do Kakobuy",
+    "pt": "Continuar para Kakobuy"
+  },
+  "The purchase button opens the source listing through Kakobuy. Confirm your selected options, currency, service fees and shipping before paying. Some links on this site are affiliate links.": {
+    "de": "Der Kaufbutton öffnet das Angebot über Kakobuy. Prüfe Varianten, Währung, Servicegebühren und Versand vor der Zahlung. Einige Links sind Affiliate-Links.",
+    "fr": "Le bouton d’achat ouvre l’offre via Kakobuy. Vérifiez options, devise, frais et livraison avant de payer. Certains liens sont affiliés.",
+    "es": "El botón de compra abre el anuncio en Kakobuy. Confirma opciones, moneda, tarifas y envío antes de pagar. Algunos enlaces son de afiliado.",
+    "it": "Il pulsante apre l’offerta su Kakobuy. Conferma opzioni, valuta, commissioni e spedizione prima di pagare. Alcuni link sono affiliati.",
+    "pl": "Przycisk zakupu otwiera ofertę przez Kakobuy. Przed płatnością sprawdź warianty, walutę, opłaty i dostawę. Niektóre linki są afiliacyjne.",
+    "pt": "O botão abre a oferta através do Kakobuy. Confirme opções, moeda, taxas e envio antes de pagar. Alguns links são afiliados."
+  },
+  "Product photos and QC: what to check": {
+    "de": "Produktfotos und QC: Was prüfen?",
+    "fr": "Photos produits et QC : que vérifier ?",
+    "es": "Fotos y QC: qué comprobar",
+    "it": "Foto e QC: cosa controllare",
+    "pl": "Zdjęcia i QC: co sprawdzić",
+    "pt": "Fotos e QC: o que verificar"
+  },
+  "Understand the difference between listing photos and warehouse inspection photos.": {
+    "de": "Unterschiede zwischen Angebotsfotos und Lagerprüffotos verstehen.",
+    "fr": "Comprenez la différence entre photos d’annonce et photos de contrôle en entrepôt.",
+    "es": "Entiende la diferencia entre fotos del anuncio e inspección del almacén.",
+    "it": "Comprendi la differenza tra foto dell’offerta e controlli del magazzino.",
+    "pl": "Poznaj różnicę między zdjęciami oferty a kontrolą magazynową.",
+    "pt": "Entenda a diferença entre fotos da oferta e inspeção do armazém."
+  },
+  "Listing photos show the offer": {
+    "de": "Angebotsfotos zeigen das Produkt",
+    "fr": "Les photos présentent l’offre",
+    "es": "Las fotos presentan la oferta",
+    "it": "Le foto presentano l’offerta",
+    "pl": "Zdjęcia przedstawiają ofertę",
+    "pt": "As fotos apresentam a oferta"
+  },
+  "The current gallery comes from cnfanshm product listings. These images show the advertised product and are not verified photos of your own order.": {
+    "de": "Die Galerie stammt aus cnfanshm-Angeboten. Sie zeigt das beworbene Produkt, keine bestätigten Fotos deiner eigenen Bestellung.",
+    "fr": "La galerie provient des fiches cnfanshm. Elle montre le produit annoncé, pas des photos vérifiées de votre commande.",
+    "es": "La galería procede de anuncios cnfanshm. Muestra el producto anunciado, no fotos verificadas de tu pedido.",
+    "it": "La galleria proviene da cnfanshm. Mostra il prodotto pubblicizzato, non foto verificate del tuo ordine.",
+    "pl": "Galeria pochodzi z ofert cnfanshm. Pokazuje reklamowany produkt, a nie zweryfikowane zdjęcia twojego zamówienia.",
+    "pt": "A galeria vem das ofertas cnfanshm. Mostra o produto anunciado, não fotos verificadas da sua encomenda."
+  },
+  "QC belongs to a specific order": {
+    "de": "QC gehört zu einer bestimmten Bestellung",
+    "fr": "Le QC concerne une commande précise",
+    "es": "El QC corresponde a un pedido concreto",
+    "it": "Il QC riguarda un ordine specifico",
+    "pl": "QC dotyczy konkretnego zamówienia",
+    "pt": "O QC corresponde a uma encomenda específica"
+  },
+  "When warehouse inspection photos are available for your order, compare the visible size labels, colour, stitching and accessories with what you selected. A photo cannot verify every material or hidden defect.": {
+    "de": "Wenn Lagerprüffotos vorliegen, vergleiche sichtbare Größenetiketten, Farbe, Nähte und Zubehör mit deiner Auswahl. Ein Foto zeigt nicht alle Materialien oder versteckten Mängel.",
+    "fr": "Si des photos de contrôle existent pour votre commande, comparez étiquettes, couleur, coutures et accessoires à votre choix. Une photo ne vérifie pas tous les matériaux ni les défauts cachés.",
+    "es": "Si tienes fotos de inspección de tu pedido, compara etiquetas, color, costuras y accesorios con tu selección. Una foto no verifica todos los materiales ni defectos ocultos.",
+    "it": "Se disponibili, confronta etichette, colore, cuciture e accessori nelle foto del magazzino con la tua scelta. Una foto non verifica tutti i materiali o i difetti nascosti.",
+    "pl": "Jeśli masz zdjęcia kontroli zamówienia, porównaj etykiety rozmiaru, kolor, szwy i dodatki ze swoim wyborem. Zdjęcie nie weryfikuje wszystkich materiałów ani ukrytych wad.",
+    "pt": "Se houver fotos de inspeção, compare etiquetas, cor, costuras e acessórios com a sua escolha. Uma foto não verifica todos os materiais nem defeitos ocultos."
+  },
+  "Similar photos do not prove the same item": {
+    "de": "Ähnliche Fotos beweisen kein identisches Produkt",
+    "fr": "Des photos similaires ne prouvent pas un article identique",
+    "es": "Fotos similares no prueban que sea el mismo producto",
+    "it": "Foto simili non provano che sia lo stesso prodotto",
+    "pl": "Podobne zdjęcia nie dowodzą identyczności produktu",
+    "pt": "Fotos semelhantes não provam que seja o mesmo produto"
+  },
+  "Image search ranks visual similarity. Check the original product ID and listing details before assuming a result is the exact item. This site has not connected a verified warehouse QC feed.": {
+    "de": "Die Bildsuche sortiert nach optischer Ähnlichkeit. Prüfe Original-ID und Angebotsdetails, bevor du ein identisches Produkt annimmst. Diese Seite hat keine verifizierte Lager-QC-Anbindung.",
+    "fr": "La recherche classe la similarité visuelle. Vérifiez l’ID et l’offre d’origine avant de conclure à un article identique. Ce site ne dispose pas d’un flux QC d’entrepôt vérifié.",
+    "es": "La búsqueda ordena por similitud visual. Revisa el ID y los detalles originales antes de asumir que es el mismo producto. Este sitio no tiene una fuente QC de almacén verificada.",
+    "it": "La ricerca ordina per somiglianza visiva. Verifica ID e dettagli originali prima di considerare identico un prodotto. Il sito non ha un flusso QC di magazzino verificato.",
+    "pl": "Wyszukiwanie sortuje według podobieństwa wizualnego. Sprawdź oryginalny ID i ofertę przed uznaniem produktu za identyczny. Strona nie ma zweryfikowanego źródła QC magazynowego.",
+    "pt": "A pesquisa ordena por semelhança visual. Verifique ID e detalhes originais antes de considerar o produto igual. O site não tem uma fonte QC de armazém verificada."
+  }
+}

@@ -1,0 +1,418 @@
+[
+  {
+    "id": "faq-1",
+    "group": "start",
+    "q": [
+      "Is this the official Kakobuy website?",
+      "这是 Kakobuy 官网吗？"
+    ],
+    "a": [
+      "No. This is an independent recommendation site. Registration and buying links lead to Kakobuy and may include affiliate parameters.",
+      "不是。本站是独立推荐站，注册与购买链接跳转 Kakobuy，部分链接包含推广参数。"
+    ],
+    "sources": []
+  },
+  {
+    "id": "faq-2",
+    "group": "start",
+    "q": [
+      "What does a Kakobuy spreadsheet do?",
+      "Kakobuy Spreadsheet 有什么用？"
+    ],
+    "a": [
+      "It helps you discover and compare product links. Here the catalogue and photos come from cnfanshm; an entry is not a stock, quality or authenticity guarantee.",
+      "它帮助发现和比较商品链接。本站商品和图片来自 cnfanshm，收录不代表库存、品质或真伪保证。"
+    ],
+    "sources": []
+  },
+  {
+    "id": "faq-3",
+    "group": "start",
+    "q": [
+      "What is Kakobuy’s purchasing service?",
+      "Kakobuy 代购服务是什么？"
+    ],
+    "a": [
+      "The official help describes buying on your behalf and arranging delivery. Keep this purchasing service separate from the independent directory you used to find the link.",
+      "官方说明将其描述为代用户购买并安排配送。它与用来发现链接的独立商品目录是不同服务。"
+    ],
+    "sources": [
+      47
+    ]
+  },
+  {
+    "id": "faq-4",
+    "group": "start",
+    "q": [
+      "Which marketplaces does the help centre list?",
+      "帮助中心列出支持哪些平台？"
+    ],
+    "a": [
+      "The supported-platform article names Taobao, Tmall, 1688 and JD. Check the current purchase page for a particular link; that list is not a promise that every item can be bought.",
+      "支持平台文章列出淘宝、天猫、1688和京东。具体链接是否可购买仍需查看当前购买页，不能由平台名单推断每件商品都能买。"
+    ],
+    "sources": [
+      4
+    ]
+  },
+  {
+    "id": "faq-5",
+    "group": "start",
+    "q": [
+      "What if a product link cannot be read?",
+      "商品链接无法识别怎么办？"
+    ],
+    "a": [
+      "The official help describes manually supplying the link, name, price and related details. Read the actual manual-order notice before submitting; do not assume ordinary cancellation terms apply to every manual purchase.",
+      "官方说明提供手工填写链接、名称、价格等资料的方式。提交前阅读当前手工下单页提示，不默认所有手工采购都适用普通取消规则。"
+    ],
+    "sources": [
+      4
+    ]
+  },
+  {
+    "id": "faq-6",
+    "group": "start",
+    "q": [
+      "Does 1688 have minimum order requirements?",
+      "1688 商品有起订量吗？"
+    ],
+    "a": [
+      "Kakobuy’s 1688 guide tells buyers to check seller minimums and quantity-dependent pricing. Confirm the unit of sale and required quantity before submitting the order.",
+      "Kakobuy 的1688指南要求核对卖家起订量及随数量变化的报价。提交前确认销售单位和需要购买的数量。"
+    ],
+    "sources": [
+      90
+    ]
+  },
+  {
+    "id": "faq-7",
+    "group": "cost",
+    "q": [
+      "What costs should I budget for?",
+      "预算应包含哪些费用？"
+    ],
+    "a": [
+      "The fee article lists commodity cost, international freight, packaging and optional services. Commodity cost includes the seller price and domestic transport to Kakobuy.",
+      "费用文章列出商品成本、国际运费、包装及可选服务；商品成本包含卖家价格及境内寄往 Kakobuy 的运费。"
+    ],
+    "sources": [
+      74
+    ]
+  },
+  {
+    "id": "faq-8",
+    "group": "cost",
+    "q": [
+      "Is there one service-fee percentage I can rely on?",
+      "可以按一个固定服务费百分比预算吗？"
+    ],
+    "a": [
+      "We have not verified a universal current percentage. Use the live payment and shipping quote. The reviewed payment help contains inconsistent legacy wording, so we do not turn its historic figures into a guarantee.",
+      "本次未核实适用于所有订单的当前统一费率。请看实际支付和运输报价。读取的支付说明含历史文案不一致，因此不把其中数字写成保证。"
+    ],
+    "sources": [
+      74,
+      99
+    ]
+  },
+  {
+    "id": "faq-9",
+    "group": "cost",
+    "q": [
+      "Can same-seller items share domestic freight?",
+      "同一卖家的商品能合并境内运费吗？"
+    ],
+    "a": [
+      "Official guidance links this to one purchase order submitted and paid together. It also allows a freight shortfall if the goods cause an overweight parcel.",
+      "官方说明把一次境内运费与同一采购订单一起提交、付款联系起来；如果造成包裹超重，也可能需要补差。"
+    ],
+    "sources": [
+      75
+    ]
+  },
+  {
+    "id": "faq-10",
+    "group": "cost",
+    "q": [
+      "Why can a purchase require a shortfall payment?",
+      "为什么支付后还可能要求补款？"
+    ],
+    "a": [
+      "The shortfall article says seller prices can change. Check which item or freight entry changed and request an explanation before treating the new amount as the final total.",
+      "补款说明提到卖家价格可能变化。应确认涉及哪个商品或运费项目，并在确认总额前了解变化原因。"
+    ],
+    "sources": [
+      83
+    ]
+  },
+  {
+    "id": "faq-11",
+    "group": "cost",
+    "q": [
+      "How do I find the account top-up function?",
+      "账户充值入口在哪里？"
+    ],
+    "a": [
+      "The official recharge help directs users to Member Center and Recharge, with the entered amount in yuan. Verify the actual payment amount and available method on the live screen.",
+      "官方充值说明指向会员中心的充值入口，填写金额单位为人民币。实际支付金额和可用方式仍在当前支付页核对。"
+    ],
+    "sources": [
+      100
+    ]
+  },
+  {
+    "id": "faq-12",
+    "group": "qc",
+    "q": [
+      "Are the photos here my warehouse QC?",
+      "本站照片是我订单的仓库 QC 吗？"
+    ],
+    "a": [
+      "No. These are source listing photos from cnfanshm. This site has not connected a verified warehouse-QC feed for your order.",
+      "不是。这些是 cnfanshm 商品页面的图片，本站尚未接入本人订单的已验证仓库 QC 数据。"
+    ],
+    "sources": []
+  },
+  {
+    "id": "faq-13",
+    "group": "qc",
+    "q": [
+      "Does warehouse inspection prove authenticity?",
+      "仓库检查能证明商品真伪吗？"
+    ],
+    "a": [
+      "No authenticity guarantee should be inferred. The official inspection rules limit checks and expressly exclude authenticity, function and quality checks for certain electronic categories.",
+      "不能据此推断真伪保证。官方验货规则有范围限制，并明确对部分电子品类排除真伪、功能和品质检查。"
+    ],
+    "sources": [
+      89
+    ]
+  },
+  {
+    "id": "faq-14",
+    "group": "qc",
+    "q": [
+      "Will electronics be powered on for testing?",
+      "电子产品会通电测试吗？"
+    ],
+    "a": [
+      "The inspection-scope help says electronics and digital products receive appearance checks rather than power-on testing. Ask about any specific service before assuming a functional test is included.",
+      "验货范围说明称，电子和数码产品以外观检查为主，不进行通电测试。需要特殊服务时应先确认，不能默认包含功能测试。"
+    ],
+    "sources": [
+      58
+    ]
+  },
+  {
+    "id": "faq-15",
+    "group": "qc",
+    "q": [
+      "Does checking a size label guarantee fit?",
+      "检查尺码标签能保证合身吗？"
+    ],
+    "a": [
+      "No. The inspection scope refers to visible labels and excludes issues such as wearing effects and size deviations. Compare the seller’s measurements with your needs separately.",
+      "不能。验货范围涉及可见标签，并排除穿着效果、尺码偏差等问题。仍需自行比较卖家尺寸与个人需求。"
+    ],
+    "sources": [
+      58
+    ]
+  },
+  {
+    "id": "faq-16",
+    "group": "qc",
+    "q": [
+      "Can image search guarantee the same product?",
+      "以图搜商品能保证找到同款吗？"
+    ],
+    "a": [
+      "No. It ranks visual similarity within the indexed cnfanshm catalogue. Check the source ID, variant and details; the dialog shows current index coverage.",
+      "不能。它在已建立索引的 cnfanshm 商品中按视觉相似程度匹配。请核对原始 ID、规格和详情；搜图窗口显示当前覆盖数量。"
+    ],
+    "sources": []
+  },
+  {
+    "id": "faq-17",
+    "group": "storage",
+    "q": [
+      "How long does the official storage article allow?",
+      "官方仓储文章写的是多久？"
+    ],
+    "a": [
+      "It states 100 days from the normal “in storage” status and describes a reminder after 90 days. Confirm the date and applicable rule for your order; this is not a blanket free-storage claim.",
+      "文章写明正常商品从入库状态起100天，并描述90天后的提醒。请确认本人订单日期及适用规则；这不等于一概免费仓储的承诺。"
+    ],
+    "sources": [
+      1
+    ]
+  },
+  {
+    "id": "faq-18",
+    "group": "storage",
+    "q": [
+      "What if the parcel is unmatched?",
+      "包裹未匹配到订单怎么办？"
+    ],
+    "a": [
+      "Official guidance describes a separate 60-day handling limit for abnormal/unmatched parcels and asks for complete parcel information. Contact support promptly with the tracking and purchase details.",
+      "官方对异常或未匹配包裹描述了单独的60天处理期限，并要求补充完整资料。请及时携运单和采购信息联系客服。"
+    ],
+    "sources": [
+      1,
+      96
+    ]
+  },
+  {
+    "id": "faq-19",
+    "group": "storage",
+    "q": [
+      "Where should I get the forwarding address?",
+      "转运仓库地址应该从哪里获取？"
+    ],
+    "a": [
+      "Log in and use Member Center → International Forwarding → Warehouse Address, as directed by the official help. Avoid using a stale address copied from a blog.",
+      "按官方说明登录，在会员中心的国际转运栏目查看仓库地址，不要使用从旧博客复制的地址。"
+    ],
+    "sources": [
+      93
+    ]
+  },
+  {
+    "id": "faq-20",
+    "group": "shipping",
+    "q": [
+      "Can forwarding and purchased items ship together?",
+      "转运与代购商品可以一起寄吗？"
+    ],
+    "a": [
+      "The official help says stored goods may be combined within parcel limits. Security, customs-related or mailing restrictions can prevent a particular combination.",
+      "官方说明允许符合包裹限制的已入库商品合寄，但安全、通关或邮寄限制可能使某些组合不可行。"
+    ],
+    "sources": [
+      94,
+      22
+    ]
+  },
+  {
+    "id": "faq-21",
+    "group": "shipping",
+    "q": [
+      "Is item weight the same as final parcel weight?",
+      "商品重量就是最终包裹重量吗？"
+    ],
+    "a": [
+      "No. The final parcel includes packaging. Official guidance describes freight adjustments after packing, so an initial estimate may differ from the final amount.",
+      "不是。最终包裹包含包装材料。官方说明描述了打包后的运费调整，初始估算可能不同于最终金额。"
+    ],
+    "sources": [
+      108
+    ]
+  },
+  {
+    "id": "faq-22",
+    "group": "shipping",
+    "q": [
+      "How is volumetric weight calculated?",
+      "体积重如何计算？"
+    ],
+    "a": [
+      "The official page uses dimensions in centimetres divided by the selected carrier’s divisor. Applicable lines compare this with actual weight. Verify the particular line’s rule rather than assuming one divisor fits all.",
+      "官方页面按厘米单位的长宽高相乘，再除以所选承运商的系数；适用线路会与实际重量比较。请核对具体线路规则，不统一套用一个系数。"
+    ],
+    "sources": [
+      26
+    ]
+  },
+  {
+    "id": "faq-23",
+    "group": "shipping",
+    "q": [
+      "Does purchase-order “shipped” mean overseas dispatch?",
+      "采购订单已发货代表已经国际发出了吗？"
+    ],
+    "a": [
+      "Not necessarily. The purchase-status guide uses seller dispatch for the journey toward Kakobuy’s warehouse. Check the international parcel record separately.",
+      "不一定。采购状态说明中的卖家发货，指向 Kakobuy 仓库的运输。国际运输应另外查看包裹记录。"
+    ],
+    "sources": [
+      80
+    ]
+  },
+  {
+    "id": "faq-24",
+    "group": "shipping",
+    "q": [
+      "Where do I track an international parcel?",
+      "在哪里查询国际包裹物流？"
+    ],
+    "a": [
+      "Official help points to Member Center → My Parcel → Logistics Details after dispatch and notes that updates can lag across logistics parties.",
+      "官方说明指向发出后的会员中心—我的包裹—物流详情，并提醒多方物流之间可能存在更新延迟。"
+    ],
+    "sources": [
+      111
+    ]
+  },
+  {
+    "id": "faq-25",
+    "group": "after",
+    "q": [
+      "Can I cancel after paying?",
+      "付款后能取消订单吗？"
+    ],
+    "a": [
+      "The official cancellation guide makes the answer depend on order stage. Contact support promptly; after seller dispatch, return arrangements require discussion with the seller rather than an automatic cancellation.",
+      "官方取消说明按订单阶段区分处理。请尽快联系客服；卖家发出后涉及退货协商，而不是自动取消。"
+    ],
+    "sources": [
+      87
+    ]
+  },
+  {
+    "id": "faq-26",
+    "group": "after",
+    "q": [
+      "Are warehouse returns automatically approved?",
+      "入库商品退货一定会批准吗？"
+    ],
+    "a": [
+      "No. The purchase-return guide discusses request windows and seller agreement, with possible freight deductions. Ask support which deadline and condition applies to the exact order.",
+      "不一定。采购退货说明涉及申请期限、卖家同意及可能扣除的运费。请确认具体订单适用的期限和条件。"
+    ],
+    "sources": [
+      87
+    ]
+  },
+  {
+    "id": "faq-27",
+    "group": "after",
+    "q": [
+      "Can I change a variant after seller dispatch?",
+      "卖家发货后还能改规格吗？"
+    ],
+    "a": [
+      "The amendment page says an exchange request may need to wait until warehouse arrival, with seller coordination and return freight potentially borne by the buyer. Do not assume editing a note changes a dispatched item.",
+      "修改说明指出，可能需要等入库后申请换货，再协调卖家，退回运费可能由买家承担。不要认为修改备注就能改变已发出的商品。"
+    ],
+    "sources": [
+      78
+    ]
+  },
+  {
+    "id": "faq-28",
+    "group": "after",
+    "q": [
+      "Is a refund to balance the same as a payment refund?",
+      "退款到余额等于原路退款吗？"
+    ],
+    "a": [
+      "No. Product-return guidance describes balance credits; the funds-refund page separately discusses returning online-payment top-ups to the original account, with handling costs. Check the destination and refund type.",
+      "不是。商品退货说明涉及余额入账；资金退款说明另外讨论线上充值原路退回及手续费。请确认退款类型和去向。"
+    ],
+    "sources": [
+      87,
+      104
+    ]
+  }
+]

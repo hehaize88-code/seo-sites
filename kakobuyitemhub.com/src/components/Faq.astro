@@ -1,0 +1,6 @@
+---
+import faqs from '../content/faq.json';import {editorialCopy} from '../lib/guides';import SourceLinks from './SourceLinks.astro';import EditorialNotice from './EditorialNotice.astro';
+const {lang}=Astro.props;const c=(s:string[])=>editorialCopy(s,lang);
+const groups=[['start','Getting started','开始使用'],['cost','Costs & payment','费用与付款'],['qc','Photos & inspection','图片与质检'],['storage','Warehouse & storage','仓库与存放'],['shipping','Shipping & tracking','运输与追踪'],['after','Changes & returns','修改与退换货']];
+---
+<section class="faq editorial-faq" lang={lang==='zh'?'zh-CN':'en'}><div><div class="eyebrow">FAQ / 28</div><h2>{c(['Before you buy.','购买之前。'])}</h2><p class="review-date">{c(['Official information checked: 10 November 2026.','官网资料核对日期：2026 年 11 月 10 日。'])}</p><EditorialNotice lang={lang}/><nav class="faq-topics" aria-label={c(['FAQ topics','常见问题分类'])}>{groups.map(g=><a href={'#faq-'+g[0]}>{c(g.slice(1))}</a>)}</nav></div><div class="answers">{groups.map(g=><div class="faq-group" id={'faq-'+g[0]}><h3>{c(g.slice(1))}</h3>{faqs.filter(f=>f.group===g[0]).map(f=><details id={f.id}><summary>{c(f.q)}<span aria-hidden="true">+</span></summary><p>{c(f.a)}</p><SourceLinks ids={f.sources} lang={lang}/></details>)}</div>)}</div></section>

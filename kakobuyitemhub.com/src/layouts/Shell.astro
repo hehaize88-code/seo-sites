@@ -1,0 +1,27 @@
+---
+import {locale,translator} from "../lib/i18n";
+import '../styles/global.css';
+import Analytics from '../components/Analytics.astro';
+import MobileLayout from '../components/MobileLayout.astro';
+import LanguagePicker from '../components/LanguagePicker.astro';
+import {register} from '../lib/source';
+const {title='Kakobuy Spreadsheet',description}=Astro.props;
+const lang=locale(Astro.url);const zh=lang==='zh';
+const t=translator(lang);
+const live=Astro.url.hostname==='kakobuyitemhub.com';
+const noindex=!live||Astro.response.status>=400||Astro.url.searchParams.has('q')||Astro.url.searchParams.has('visual')||!['en','zh'].includes(lang);
+if(noindex)Astro.response.headers.set('X-Robots-Tag','noindex, follow');
+const canonical=new URL(Astro.url.pathname,'https://kakobuyitemhub.com');
+for(const key of ['lang','category','page','sort']){const value=Astro.url.searchParams.get(key);if(value)canonical.searchParams.set(key,value);}
+if(canonical.searchParams.get('lang')==='en')canonical.searchParams.delete('lang');
+
+---
+<!doctype html><html lang={lang==='zh'?'zh-CN':lang}><head><Analytics/><meta charset="utf-8"/><meta name="viewport" content="width=device-width"/><title>{title}</title><meta name="description" content={description??t('A simpler way to find your next favourite.','让发现心仪商品变得简单。')}/><meta name="robots" content={noindex?"noindex,follow":"index,follow"}/><link rel="canonical" href={canonical.href}/><link rel="icon" type="image/x-icon" href="https://www.kakobuy.com/favicon.ico"/></head><body>
+<div class="preview-bar">{live?'KAKOBUY ITEM HUB':t('DESIGN PREVIEW','设计预览')} <span>·</span> {t('Independent finds. Original marketplace links.','独立商品推荐 · 保留原始商品链接')}</div>
+<header><a class="official-brand" href={'/?lang='+lang} aria-label="Kakobuy Spreadsheet"><img src="https://nstatic.kakobuy.com/banner/202602/22/1080564df2b8f006455d32460b53b7d9.png" width="642" height="162" alt="Kakobuy"/><small>SPREADSHEET</small></a><div class="header-actions"><LanguagePicker lang={lang}/><a class="button small" href={register} rel="sponsored noopener" target="_blank">{t('Join Kakobuy','注册 Kakobuy')} ↗</a></div></header>
+<nav class="feature-nav" aria-label={t('Explore','探索')}><a href={'/discover?lang='+lang}><span aria-hidden="true">▦</span>{t('Discover','发现商品')}</a><a href={'/categories?lang='+lang}>{t('Categories','分类')}</a><a href={'/?lang='+lang+'&visual=1'}>{t('Search with an image','以图搜商品')}</a><a class={Astro.url.pathname==='/faq'?'active':''} href={'/faq?lang='+lang}>{t('FAQ','常见问题')}</a><a class={Astro.url.pathname.startsWith('/guides')?'active':''} href={'/guides?lang='+lang}>{t('Articles & guides','文章与指南')}</a><a href={'/?lang='+lang+'#how-it-works'}>{t('How to buy','购买指南')}</a></nav>
+<slot/>
+<footer><div><a class="official-brand" href={'/?lang='+lang} aria-label="Kakobuy Spreadsheet"><img src="https://nstatic.kakobuy.com/banner/202602/22/1080564df2b8f006455d32460b53b7d9.png" width="642" height="162" alt="Kakobuy"/><small>SPREADSHEET</small></a><p>{t('A simpler way to find your next favourite.','让发现心仪商品变得简单。')}</p></div><div><p>{t('Independent recommendation site. Not the official Kakobuy website.','独立商品推荐站，非 Kakobuy 官方网站。')}</p><p>{t('Product information and photos are supplied by cnfanshm. Some links are affiliate links.','商品资料与图片来自 cnfanshm。部分出站链接包含推广参数。')}</p><a href="https://cnfanshm.com" target="_blank" rel="noopener">cnfanshm.com ↗</a></div></footer>
+<script>document.querySelectorAll('img[data-product]').forEach(img=>img.addEventListener('error',()=>{(img as HTMLImageElement).style.display='none';img.parentElement?.classList.add('missing');}));</script>
+<MobileLayout/></body></html>
+

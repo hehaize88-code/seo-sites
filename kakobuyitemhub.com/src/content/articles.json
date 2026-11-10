@@ -1,0 +1,864 @@
+[
+  {
+    "slug": "kakobuy-spreadsheet-guide",
+    "keyword": "how to use kakobuy spreadsheet",
+    "title": [
+      "How to use a Kakobuy spreadsheet: from a find to a warehouse order",
+      "如何使用 Kakobuy Spreadsheet：从发现商品到仓库订单"
+    ],
+    "summary": [
+      "A practical buying workflow that keeps the seller link, selected variant and international shipment separate.",
+      "把商品链接、所选规格和国际运输分开核对，建立清晰的新手购买流程。"
+    ],
+    "sections": [
+      {
+        "heading": [
+          "What a spreadsheet does—and what it does not",
+          "推荐目录能解决什么问题"
+        ],
+        "body": [
+          "A Kakobuy spreadsheet is a discovery tool, not the seller or the warehouse. On this site, product cards and photos are read from cnfanshm. Opening a card gives you a starting point for checking an item; it does not reserve stock, authenticate a brand or lock a checkout price. Decide what you want to compare before collecting dozens of links: category, visible design, dimensions and the version you intend to order.",
+          "Kakobuy Spreadsheet 是发现商品的目录，不是卖家或仓库。本站卡片和图片读取自 cnfanshm。打开商品只是核对商品的起点，不会替你锁定库存、鉴定品牌或固定结算价格。先明确需要比较的类别、外观、尺寸和版本，再整理链接，比只收藏大量图片更有用。"
+        ],
+        "sources": []
+      },
+      {
+        "heading": [
+          "Keep the original item and the variant together",
+          "同时记录原始商品与规格"
+        ],
+        "body": [
+          "Kakobuy’s supported-platform help describes buying from Chinese marketplaces and a manual-information route for links it cannot parse. A link alone may not identify the colour, size or set shown in a picture. Our recommendation is to record the original marketplace ID beside the exact variant text. If a seller offers a top and trousers separately, verify what one selected option includes before multiplying the quantity.",
+          "官网说明支持中国电商平台采购，并为无法识别的链接提供手工填写方式。链接本身未必能确定图片中的颜色、尺码或套装。建议把原始商品 ID 与完整规格文字一起记录。若上衣和裤子分别出售，先确认所选选项包含什么，再填写数量。"
+        ],
+        "sources": [
+          4
+        ]
+      },
+      {
+        "heading": [
+          "Read the purchase page before paying",
+          "付款前重新核对购买页"
+        ],
+        "body": [
+          "Kakobuy describes its role as purchasing on your behalf. Treat the purchase page as a fresh confirmation, not a copy of the spreadsheet card. Compare the source link, variant, quantity and seller-to-warehouse freight. If a value is missing or a price changes, pause and resolve it with the platform. Avoid putting several unrelated item links into one ambiguous note; keep a clear record for each intended purchase.",
+          "Kakobuy 将自身服务描述为代用户购买。购买页应当重新核对，不能默认与目录卡片完全一致。检查来源链接、规格、数量及卖家到仓库的运费。信息缺失或价格变化时，先向平台确认。建议每件商品保留独立记录，不要把多个无关链接混在含糊的备注里。"
+        ],
+        "sources": [
+          47,
+          83
+        ]
+      },
+      {
+        "heading": [
+          "A paid item is not an international parcel",
+          "支付商品款不等于已寄往国外"
+        ],
+        "body": [
+          "The official order-status guide separates payment, purchasing, seller dispatch, storage and availability for shipment. “Shipped” on a purchase order can refer to the seller’s domestic leg to the warehouse. Read the screen’s context before assuming a package is on its way to your home. Keep purchase-order records separate from the parcel record created for international transport; they answer different tracking questions.",
+          "官方状态说明区分付款、采购、卖家发货、入库和可提交国际运输。采购订单中的“已发货”可能只是卖家寄往仓库。先确认页面属于采购订单还是国际包裹，再判断运输阶段。建议把采购订单记录与国际包裹记录分开保存，避免查错物流。"
+        ],
+        "sources": [
+          80
+        ]
+      },
+      {
+        "heading": [
+          "Finish with a warehouse decision",
+          "入库后再决定如何寄出"
+        ],
+        "body": [
+          "According to the arrival guide, warehouse processing includes inspection and measurement before shipment submission becomes available. At that point, review the item information and decide whether you need clarification before building a parcel. Our practical sequence is: verify item, resolve visible discrepancies, compare shipping options, then submit. This is an organisational checklist, not a promise that every order will follow the same timeline.",
+          "到货说明写明，商品需经过检查和测量，之后才能提交运输。此时应检查商品信息，决定是否需要补充确认，再组合包裹。建议顺序为：核对商品、处理可见差异、比较运输选项、提交包裹。这是操作整理建议，不是每笔订单时效相同的承诺。"
+        ],
+        "sources": [
+          84
+        ]
+      }
+    ],
+    "checklist": [
+      "Keep the original ID and variant text. Confirm the order stage before looking for international tracking.",
+      "保留原始 ID 和规格文字；查询国际物流前先确认订单阶段。"
+    ],
+    "related": [
+      "kakobuy-fees",
+      "kakobuy-order-tracking"
+    ],
+    "reviewed": "2026-11-10"
+  },
+  {
+    "slug": "kakobuy-fees",
+    "keyword": "kakobuy fees",
+    "title": [
+      "Kakobuy fees: build a total-cost budget before buying",
+      "Kakobuy 费用：下单前如何计算总预算"
+    ],
+    "summary": [
+      "Separate item cost, domestic freight, packaging and international shipping without relying on an advertised fee percentage.",
+      "拆分商品价、境内运费、包装及国际运输，避免只凭一个手续费百分比估算。"
+    ],
+    "sections": [
+      {
+        "heading": [
+          "Start with the official cost categories",
+          "先拆分官方列出的费用项目"
+        ],
+        "body": [
+          "The official fee guide groups the bill into commodity cost, international freight, packaging and optional value-added services. Commodity cost includes the seller’s item price and delivery within China to Kakobuy. This is more useful than asking whether a platform has one universal service-fee percentage: a low headline percentage says little about the amount required to receive your particular order.",
+          "官网费用说明将支出分为商品成本、国际运费、包装及可选增值服务；商品成本包含卖家价格和中国境内寄往 Kakobuy 的运费。这个分类比寻找统一手续费百分比更实用：单一费率无法说明你的订单最终需要支付多少。"
+        ],
+        "sources": [
+          74
+        ]
+      },
+      {
+        "heading": [
+          "Use a budget with unknowns visible",
+          "把未知费用留在预算表里"
+        ],
+        "body": [
+          "Make one row per item with its current price, quantity and domestic delivery charge. Add separate rows for international shipping, packaging and selected extras. Leave unknown figures marked “not quoted” rather than zero. For example, two items priced at CNY100 and CNY150 with CNY12 domestic freight have a known subtotal of CNY262; that is an illustrative subtotal, not a Kakobuy delivered-price quote.",
+          "按商品逐行记录当前单价、数量和境内运费，再单列国际运输、包装及可选服务。尚未报价的项目写“待确认”，不要填零。例如两件商品分别为人民币100元和150元，境内运费12元，已知小计为262元；这只是示例小计，不是 Kakobuy 到手总价。"
+        ],
+        "sources": []
+      },
+      {
+        "heading": [
+          "Same seller does not remove every freight adjustment",
+          "同一卖家也可能出现运费补差"
+        ],
+        "body": [
+          "Kakobuy’s same-seller help ties a single domestic delivery charge to items submitted and paid together in one purchase order, while allowing an additional charge if the parcel is overweight. Before assuming two purchases will be combined, check that the seller and order arrangement really match. Keep the original quote so any later change can be compared with a specific line in the budget.",
+          "官网把同一卖家的一次境内运费与“同一采购订单一起提交并付款”联系起来，并说明超重时可能补收费用。不要仅因店铺名字相同，就默认先后下的两单会合并运费。保存原报价，之后出现变化时才能逐项核对。"
+        ],
+        "sources": [
+          75
+        ]
+      },
+      {
+        "heading": [
+          "Check a shortfall against the actual order",
+          "收到补款提示时核对对应项目"
+        ],
+        "body": [
+          "The shortfall help says seller prices can change. A request for more money therefore needs to be read against the item and domestic freight details rather than treated as a second copy of the original payment. Our recommendation is to ask what changed, which item is affected and whether the displayed amount replaces or adds to the earlier figure. Do not infer that every price change is an international shipping charge.",
+          "官方补款说明提到卖家价格可能变化。应把补款提示与具体商品和境内运费对应起来，不要直接理解为重复付款。建议确认变化原因、涉及商品，以及新金额是替代原报价还是额外增加。不要把所有补差都当成国际运费。"
+        ],
+        "sources": [
+          83
+        ]
+      },
+      {
+        "heading": [
+          "Use checkout for payment charges",
+          "支付手续费以当前结算为准"
+        ],
+        "body": [
+          "The payment-method help retrieved for this review contains inconsistent wording, including another platform’s name and placeholder banking fields. We therefore do not publish its historical percentage as a current universal rate. Compare the amount you pay with the balance or order amount credited on the actual payment screen. If that difference is unclear, request a breakdown before sending money; do not use banking details copied from an old guide.",
+          "本次读取的支付说明存在其他平台名称和银行信息占位符等不一致内容，因此不把其中历史百分比写成当前统一费率。请比较实际支付金额与到账余额或订单金额。差额不清楚时先索取说明，不要使用从旧攻略复制的银行收款资料。"
+        ],
+        "sources": [
+          99
+        ]
+      }
+    ],
+    "checklist": [
+      "Mark unquoted costs explicitly; confirm every payment-screen total before paying.",
+      "明确标记待报价费用，并在付款前核对实际支付页总额。"
+    ],
+    "related": [
+      "kakobuy-shipping-weight",
+      "kakobuy-consolidation"
+    ],
+    "reviewed": "2026-11-10"
+  },
+  {
+    "slug": "product-photos-and-qc",
+    "keyword": "kakobuy QC",
+    "title": [
+      "Kakobuy QC photos: what warehouse inspection can actually tell you",
+      "Kakobuy QC 图片：仓库检查能告诉你什么"
+    ],
+    "summary": [
+      "Read inspection photos as evidence of visible details, not a guarantee of authenticity, fit or function.",
+      "用照片核对可见细节，不把它当成真伪、合身程度或功能保证。"
+    ],
+    "sections": [
+      {
+        "heading": [
+          "Separate three different kinds of photo",
+          "区分三种不同来源的图片"
+        ],
+        "body": [
+          "A seller’s gallery advertises a listing. A reference photo from another order shows another purchased unit. Your own warehouse photo should be tied to your specific order. These are not interchangeable. The gallery on this site comes from cnfanshm listings and is not presented as verified warehouse QC. When comparing pictures, first identify which of these sources you are looking at and which product ID it belongs to.",
+          "卖家相册用于展示商品；他人订单参考图对应另一件已购买商品；自己的仓库照片应对应本人订单。三者不能互相代替。本站相册来自 cnfanshm 商品页面，不标为已验证仓库 QC。比较图片前，先确认照片类型及对应商品 ID。"
+        ],
+        "sources": []
+      },
+      {
+        "heading": [
+          "What official inspection covers",
+          "官方验货说明的范围"
+        ],
+        "body": [
+          "The purchase-inspection pages describe checks of visible attributes such as colour, labelled size and major damage, with limits for sealed packages and product categories. Use that scope to frame a specific question: “Does this label match my selected size?” is more actionable than “Is this perfect?” Check order remarks too, because the official guidance refers to the final selected or amended order information.",
+          "采购验货说明主要涉及颜色、标签尺码、大面积损伤等可见属性，并对密封包装和不同品类设有限制。提问应当具体，例如“标签是否与所选尺码一致”，比“这个是不是完美”更容易处理。还要核对最终订单备注，因为官方检查说明涉及最后确认或修改的信息。"
+        ],
+        "sources": [
+          76,
+          89
+        ]
+      },
+      {
+        "heading": [
+          "What a photograph cannot establish",
+          "照片无法解决的问题"
+        ],
+        "body": [
+          "Kakobuy’s inspection scope does not promise to power on electronics or establish every aspect of quality. A clear photograph also cannot measure comfort, prove long-term durability or reveal every internal defect. If function is central to the purchase, ask the seller and platform what evidence is actually available before ordering. Do not convert a good-looking product photo into a “QC passed” or authenticity claim.",
+          "官方验货范围不承诺给电子产品通电测试，也不覆盖所有品质问题。清晰照片仍不能判断穿着舒适度、长期耐用性或全部内部缺陷。若功能是购买核心，先向卖家和平台确认能提供哪些证据。不要把“照片好看”改写成“质检通过”或真品保证。"
+        ],
+        "sources": [
+          58,
+          89
+        ]
+      },
+      {
+        "heading": [
+          "Compare one detail at a time",
+          "逐项检查，而不是只看整体印象"
+        ],
+        "body": [
+          "Our suggested review is to compare the order’s colour and size text, visible label, number of components, obvious damage and included accessories. Keep a note of any discrepancy and point to the exact image area. When a photo angle hides the detail you need, the correct conclusion is “not visible,” not “confirmed correct.” Request clarification before deciding whether to proceed with shipping.",
+          "建议依次核对订单颜色与尺码文字、可见标签、组件数量、明显破损和配件。发现差异时记录具体位置。照片角度没有拍到需要检查的部位，应当记录为“无法看清”，而不是“确认正确”。先补充确认，再决定是否继续运输。"
+        ],
+        "sources": []
+      },
+      {
+        "heading": [
+          "Act while the order context is clear",
+          "在订单信息明确时及时反馈"
+        ],
+        "body": [
+          "If you suspect a discrepancy, save the source listing, selected variant and relevant photo together. Send support a concise comparison instead of an unexplained screenshot. Ask which inspection or after-sales option applies to that particular order. This keeps a visual concern separate from a return entitlement: the availability and outcome of a return still depend on the applicable order and seller conditions.",
+          "如果怀疑有差异，把原始链接、所选规格和相关照片一起保存。给客服发送简明对照，而不是只发一张没有说明的截图。询问该订单适用的检查或售后选项。照片疑点与退货资格是两回事，是否能退仍取决于订单及卖家条件。"
+        ],
+        "sources": [
+          87
+        ]
+      }
+    ],
+    "checklist": [
+      "Identify whose photo it is. Record what is visible, what differs and what remains unverified.",
+      "先确认照片归属，再记录已看清的细节、差异及无法确认的部分。"
+    ],
+    "related": [
+      "kakobuy-returns",
+      "kakobuy-warehouse-storage"
+    ],
+    "reviewed": "2026-11-10"
+  },
+  {
+    "slug": "kakobuy-warehouse-storage",
+    "keyword": "kakobuy warehouse storage",
+    "title": [
+      "Kakobuy warehouse storage: dates, unmatched parcels and practical reminders",
+      "Kakobuy 仓储：期限、无主包裹与提醒安排"
+    ],
+    "summary": [
+      "Understand which event starts the storage clock and why an unmatched parcel needs immediate attention.",
+      "明确仓储期限从什么状态开始，以及为什么资料未匹配包裹需要及时处理。"
+    ],
+    "sections": [
+      {
+        "heading": [
+          "Read the clock from the correct status",
+          "从正确的订单状态计算期限"
+        ],
+        "body": [
+          "The official storage article states a normal storage period of 100 days from the “in storage” status and describes a reminder after 90 days. It separately describes 60 days from “Signed for” for abnormal or unmatched parcels. These are two different situations, not interchangeable extensions. Check the current order record and the linked policy before relying on a date calculated from your payment receipt.",
+          "官方仓储文章写明，正常商品从“入库”状态开始计算100天，并描述90天后的提醒；异常或资料未匹配包裹则从“签收”状态起计算60天。这不是可互换或叠加的期限。应核对当前订单记录和政策，不要从付款时间自行推算。"
+        ],
+        "sources": [
+          1
+        ]
+      },
+      {
+        "heading": [
+          "Storage time is not a fee quotation",
+          "仓储期限不等于免费承诺"
+        ],
+        "body": [
+          "A permitted storage period and a storage-price promise are different claims. The cited article describes time limits and consequences; it should not be stretched into an unconditional “100 days free for every item” statement. If charges or an extension matter to your plan, ask about that exact order. Also distinguish storage from the useful life of a perishable item: a warehouse deadline does not preserve the product itself.",
+          "允许存放多久与是否免费，是两种不同说法。引用文章讲的是期限和后果，不能扩大成“所有商品100天全部免费”。若费用或延期影响你的安排，请针对具体订单确认。易变质商品自身保质期也不同于仓储期限，仓库并不会延长商品寿命。"
+        ],
+        "sources": [
+          1
+        ]
+      },
+      {
+        "heading": [
+          "Resolve an unmatched delivery",
+          "处理已签收但未匹配的包裹"
+        ],
+        "body": [
+          "The unmatched-parcel help explains that complete order and parcel information is needed to identify the owner and display the status. If your domestic tracking shows delivery but your account does not show the item, gather the tracking number, sender, purchase proof and product information. Contact Kakobuy rather than submitting another purchase for the same goods. Keep the support case and original delivery evidence together.",
+          "未匹配包裹说明指出，需要完整订单和包裹资料才能确认归属并更新状态。如果境内物流显示签收，账户却没有商品，先准备运单号、寄件人、购买凭据和商品信息，再联系 Kakobuy。不要直接重新购买同一件商品。建议把客服记录与原始签收证据放在一起。"
+        ],
+        "sources": [
+          96
+        ]
+      },
+      {
+        "heading": [
+          "Create your own reminder buffer",
+          "为自己安排提前提醒"
+        ],
+        "body": [
+          "Our practical suggestion is to record the storage start shown on each order and set an earlier personal review date. A review reminder is not a platform-granted extension. Use it to decide whether to ship available items, resolve an unresolved issue or ask about a missing item. When several orders arrive on different days, track each one separately instead of assigning one date to the whole haul.",
+          "建议逐单记录页面显示的仓储起始日期，并设置更早的个人检查提醒。这不代表平台给予延期。利用提醒决定是否寄出已有商品、解决未处理问题或追问缺失商品。多个订单到货日期不同时，应分别记录，不要给整批商品统一设置一个期限。"
+        ],
+        "sources": []
+      },
+      {
+        "heading": [
+          "Do not let consolidation hide a deadline",
+          "别让等合箱掩盖最早到期日"
+        ],
+        "body": [
+          "Waiting for another seller’s package may be convenient, but compare that benefit with the earliest deadline among items already stored. Ask support about unresolved cases while there is still time to respond. The official storage page warns that overdue goods can be treated as abandoned and destroyed. Do not plan on recovering an item after the deadline or assume another email will always arrive first.",
+          "等待其他卖家的包裹可能方便合箱，但要同时查看现有商品最早的到期时间。尚有处理时间时就向客服确认未解决情况。官方仓储页面警示，逾期商品可能按放弃处理并销毁。不要把过期后找回商品或再次收到邮件当成既定安排。"
+        ],
+        "sources": [
+          1
+        ]
+      }
+    ],
+    "checklist": [
+      "Record the start date per order; resolve unmatched parcels and review the oldest item first.",
+      "逐单记录起始日期，处理未匹配包裹，优先检查最早入库的商品。"
+    ],
+    "related": [
+      "kakobuy-forwarding",
+      "kakobuy-consolidation"
+    ],
+    "reviewed": "2026-11-10"
+  },
+  {
+    "slug": "kakobuy-shipping-weight",
+    "keyword": "kakobuy shipping cost",
+    "title": [
+      "Kakobuy shipping cost: actual weight, volumetric weight and final packing",
+      "Kakobuy 运费：实际重量、体积重与最终打包"
+    ],
+    "summary": [
+      "Learn why the cheapest-looking item or the lightest warehouse weight may not produce the lowest parcel charge.",
+      "为什么商品轻、页面价格低，不一定代表包裹最终运费低。"
+    ],
+    "sections": [
+      {
+        "heading": [
+          "Three measurements to keep separate",
+          "区分三个重量概念"
+        ],
+        "body": [
+          "The product’s weight is not the same as the packed parcel’s weight. Packaging adds material, and a carrier can also use a volumetric measure of the space occupied. Kakobuy’s weight help distinguishes item weight from the final package. When comparing options, write down which figure the quote uses. A bare “2 kg” without its measurement basis is not enough to make a reliable comparison.",
+          "商品重量不同于最终包裹重量，包装会增加材料；承运商还可能按占用空间计算体积重。Kakobuy 重量说明明确区分商品与打包后的包裹。比较方案时应记录报价采用哪一种重量。只有“2公斤”而没有计算依据，无法可靠比较。"
+        ],
+        "sources": [
+          108
+        ]
+      },
+      {
+        "heading": [
+          "How volumetric weight works",
+          "理解体积重计算"
+        ],
+        "body": [
+          "The official volumetric-weight page gives length × width × height in centimetres, divided by a carrier-specific divisor, and describes comparison with actual weight for applicable lines. It lists different possible divisors; do not apply one divisor to every route. First find the chosen line’s billing rule, dimensions and rounding method, then calculate. The formula is a tool for understanding a quote, not a replacement for it.",
+          "官方体积重说明给出厘米单位的长×宽×高，再除以承运商规定的系数，并对适用线路与实际重量比较。页面列出不同系数，不能给所有路线套用同一个数。先确认线路计费规则、尺寸和进位方式，再计算。公式用于理解报价，不替代实际报价。"
+        ],
+        "sources": [
+          26
+        ]
+      },
+      {
+        "heading": [
+          "A clearly labelled example",
+          "一个明确标注为示例的计算"
+        ],
+        "body": [
+          "Suppose a box measures 40 × 30 × 20 cm and a hypothetical line uses a divisor of 6000. The volume is 24,000 cm³ and the volumetric result is 4 kg. If the actual parcel is 2.5 kg and that line bills the larger figure, the comparison starts from 4 kg before its rounding or extra charges. These are invented teaching inputs, not a live Kakobuy rate or a recommended parcel size.",
+          "假设箱子尺寸为40×30×20厘米，某示例线路采用6000作为系数：体积为24,000立方厘米，算得体积重4公斤。如果实际重量为2.5公斤，且该线路按两者较大值计费，那么在进位和附加费之前，应从4公斤开始比较。这些数字只是教学假设，不是实时报价或包装尺寸建议。"
+        ],
+        "sources": []
+      },
+      {
+        "heading": [
+          "Why the amount can change after packing",
+          "为什么打包后还可能调整金额"
+        ],
+        "body": [
+          "The official weight guidance describes an initial freight collection followed by adjustment after packaging: an excess can go back to balance and a shortfall may require payment. Do not compare the initial item-weight estimate with another line’s fully packed quote as though they were identical. Keep both stages of the quotation, including the measured size, so you can ask a precise question if the adjustment is unexpected.",
+          "官方重量说明描述了先收取运费、打包后再调整的流程，多收部分可能退回余额，少收部分需要补款。不要把按商品重量估算的初始金额，与另一线路的最终打包价直接比较。保留前后报价和测量尺寸，出现疑问时才能具体说明。"
+        ],
+        "sources": [
+          108
+        ]
+      },
+      {
+        "heading": [
+          "Compare the complete route offer",
+          "比较完整运输方案"
+        ],
+        "body": [
+          "For a useful comparison, keep destination, contents and packaging assumptions the same. Then compare the line’s quoted total, weight basis, limits and delivery information shown at submission. A lower volumetric figure alone does not establish the lowest total. Treat any packaging change as a trade-off: reducing bulk can affect the protection you want for fragile or presentation-sensitive goods. Ask for the current available options rather than assuming every service is available.",
+          "有效比较需要固定目的地、包裹内容和包装假设，再核对提交时显示的总价、计费重量、限制和时效信息。体积重较低不自动等于总价最低。减少体积也可能影响易碎物品或礼盒的保护需求，需权衡包装。应询问当前可选方案，不默认所有服务都能提供。"
+        ],
+        "sources": []
+      }
+    ],
+    "checklist": [
+      "Keep dimensions, actual weight and the exact line rule beside each quote.",
+      "每份报价旁同时记录尺寸、实际重量和对应线路规则。"
+    ],
+    "related": [
+      "kakobuy-fees",
+      "kakobuy-consolidation"
+    ],
+    "reviewed": "2026-11-10"
+  },
+  {
+    "slug": "kakobuy-consolidation",
+    "keyword": "kakobuy consolidation",
+    "title": [
+      "Kakobuy consolidation: when to combine items and when to split a parcel",
+      "Kakobuy 合箱：何时合并、何时拆分包裹"
+    ],
+    "summary": [
+      "Compare complete parcel plans instead of assuming one large box is always cheaper.",
+      "比较完整包裹方案，不预设一个大箱子一定更便宜。"
+    ],
+    "sections": [
+      {
+        "heading": [
+          "What consolidation changes",
+          "合箱改变的是运输组合"
+        ],
+        "body": [
+          "Consolidation means arranging multiple stored items into a shipping plan. Kakobuy’s combined-delivery explanation illustrates how repeated first-weight charges can make separate parcels more expensive in some cases. Its example is not a current rate card. Treat consolidation as an option to compare, not a guaranteed percentage discount, and start from the actual items available in your warehouse account.",
+          "合箱是把多件已入库商品组合成运输方案。官方合并配送说明用例子展示，分别寄送可能重复产生首重费用，但其中示例不是当前价目表。应把合箱当作需要比较的选项，而不是保证节省固定百分比，并以账户内实际可寄商品为准。"
+        ],
+        "sources": [
+          25
+        ]
+      },
+      {
+        "heading": [
+          "Check compatibility before comparing prices",
+          "先确认能否一起寄，再比较价格"
+        ],
+        "body": [
+          "The official help says purchase and forwarding goods can be sent together after storage, subject to parcel limits and security or customs-related restrictions. Another page explains that mailing restrictions can prevent goods from being selected together. If an item is unavailable for a proposed parcel, identify the restriction instead of repeatedly submitting the same combination. Ask whether a different permitted line or separate parcel is possible.",
+          "官方说明允许已入库的代购和转运商品一起寄出，但受包裹限制及安全、通关等条件影响。另一条说明指出，邮寄限制可能导致商品无法同时勾选。遇到无法组合的商品，应先查明原因，再询问是否有其他允许的线路或分开发送方案。"
+        ],
+        "sources": [
+          94,
+          22
+        ]
+      },
+      {
+        "heading": [
+          "Build two comparable plans",
+          "制作两套可比较的方案"
+        ],
+        "body": [
+          "Our suggested worksheet has Plan A: all eligible items together, and Plan B: a sensible split by size, fragility or route compatibility. Record the complete quoted freight and selected packaging for each parcel, then add the totals. Keep the destination and service assumptions consistent. Comparing one parcel’s freight with only one half of a split plan makes the split look misleadingly cheap.",
+          "建议列出方案A：所有符合条件的商品合箱；方案B：按尺寸、易碎程度或线路兼容性合理拆分。逐包记录完整运费和所选包装，再相加比较。目的地和服务假设保持一致。不能把一整箱运费只与拆箱方案其中一包的运费比较。"
+        ],
+        "sources": []
+      },
+      {
+        "heading": [
+          "Consider bulk and protection together",
+          "同时考虑体积与保护"
+        ],
+        "body": [
+          "A large lightweight item can alter the dimensions of a combined box even when it adds little actual weight. Use the chosen line’s weight rule to understand that effect. Do not remove protection simply to chase a lower number without considering the item’s needs. A useful question for support is which packing options are available and how each would affect the quote, rather than asking for an unspecified “cheapest packing.”",
+          "体积大但较轻的物品，即使增加重量不多，也可能改变整箱尺寸。应按所选线路的计费规则理解这种影响。不要只为降低数字而忽视物品保护需求。询问客服有哪些包装选项及其对报价的影响，比笼统要求“最便宜包装”更有效。"
+        ],
+        "sources": [
+          26
+        ]
+      },
+      {
+        "heading": [
+          "Do not wait indefinitely for the final item",
+          "别无限等待最后一件商品"
+        ],
+        "body": [
+          "Combining arrivals from different sellers introduces a scheduling decision. Compare the possible saving with the oldest stored item’s deadline and any unresolved order issue. If an item is delayed, ask whether shipping what is ready now is the more practical option. Keep a written record of the final selected contents so a later tracking question can be attached to the right parcel rather than the entire shopping list.",
+          "不同卖家的商品合箱，还涉及等待时间。需要把可能节省的运费，与最早入库商品的期限和未解决问题一起考虑。若某件商品延迟，评估先寄出已就绪商品是否更实际。保留最终包裹内容清单，后续查物流时才能对应具体包裹，而不是整张采购清单。"
+        ],
+        "sources": []
+      }
+    ],
+    "checklist": [
+      "Compare both full totals and confirm that every item is eligible for the selected line.",
+      "比较两套方案的完整总额，并确认每件商品符合所选线路条件。"
+    ],
+    "related": [
+      "kakobuy-shipping-weight",
+      "kakobuy-warehouse-storage"
+    ],
+    "reviewed": "2026-11-10"
+  },
+  {
+    "slug": "kakobuy-order-tracking",
+    "keyword": "kakobuy tracking",
+    "title": [
+      "Kakobuy tracking and order status: identify which journey you are following",
+      "Kakobuy 物流与订单状态：先确认正在查哪段运输"
+    ],
+    "summary": [
+      "Separate seller dispatch, warehouse processing and the international parcel before troubleshooting a delay.",
+      "区分卖家发货、仓库处理与国际包裹，再判断延迟发生在哪一步。"
+    ],
+    "sections": [
+      {
+        "heading": [
+          "Start with the record type",
+          "先确认记录属于哪一类"
+        ],
+        "body": [
+          "A shopping-agent purchase has more than one journey. The seller can ship domestically to Kakobuy before an international parcel exists. The official order-status list describes purchase payment, procurement, seller dispatch, storage and readiness for shipment separately. Before searching a tracking number, identify whether you are viewing an item order or a parcel submitted for overseas delivery. This avoids treating warehouse arrival as final delivery to you.",
+          "代购订单不只有一段运输。国际包裹生成之前，卖家可能先在境内寄往 Kakobuy。官方状态说明分别列出付款、采购、卖家发货、入库与可提交运输。查询运单前，先确认当前记录是商品采购订单，还是已提交的国际包裹，避免把仓库签收误认为本人收货。"
+        ],
+        "sources": [
+          80
+        ]
+      },
+      {
+        "heading": [
+          "Read warehouse processing separately",
+          "仓库处理是独立阶段"
+        ],
+        "body": [
+          "The arrival help explains that inspection and measurement happen before goods become ready for parcel submission. A domestic delivery scan therefore does not necessarily mean the item is immediately selectable for shipping. Check the order notes and the relevant status first. If you contact support, include the purchase-order number and domestic tracking evidence instead of only saying that the international tracking is missing.",
+          "到货说明指出，商品经过检查和测量后才进入可提交运输状态，因此境内物流签收不一定意味着立即可以打包。先看订单状态和备注。联系客服时提供采购订单号与境内物流证据，而不是只说“国际物流没有更新”。"
+        ],
+        "sources": [
+          84
+        ]
+      },
+      {
+        "heading": [
+          "Submission is not the same as a carrier scan",
+          "提交包裹不等于承运商已扫描"
+        ],
+        "body": [
+          "The dispatch help distinguishes platform handling from logistics pickup and notes that weekends and public holidays affect collection. Its stated handling targets should not be read as a guaranteed delivery date in your country. Separate three questions: has the parcel been submitted, has it been handed over, and has the carrier published a scan? A delay at one stage does not prove a failure at another.",
+          "发运说明区分平台处理与物流提货，并提到周末及公共假日会影响揽收。页面给出的处理安排不应被理解成你所在国家的保证送达时间。应分别确认：是否提交包裹、是否交接承运商、承运商是否发布扫描记录，不能从某一步延迟直接推断另一环节失败。"
+        ],
+        "sources": [
+          106
+        ]
+      },
+      {
+        "heading": [
+          "Use the official parcel tracking location",
+          "从官方包裹记录查物流"
+        ],
+        "body": [
+          "Kakobuy’s tracking article directs users to Member Center, My Parcel and Logistics Details after dispatch. It also notes that international logistics updates can lag because multiple parties are involved. Open the tracking details attached to your actual parcel; if an alternative tracking link is provided there, keep it with that parcel record. Do not assume a number from the seller’s shipment is the international number.",
+          "官方物流说明指向会员中心的“我的包裹—物流详情”，并提醒国际物流涉及多个参与方，更新可能延后。应打开本人实际包裹对应的物流信息；若平台提供其他查询链接，一并保留。不要默认卖家寄出的境内运单号就是国际运单号。"
+        ],
+        "sources": [
+          111
+        ]
+      },
+      {
+        "heading": [
+          "Prepare a useful support message",
+          "如何整理有效的客服问题"
+        ],
+        "body": [
+          "A useful message includes the parcel number, destination, selected line, last visible event and the time shown beside it. Explain which step is unclear and attach one relevant screenshot. Ask for the present handover or tracking status rather than demanding an invented arrival date. If the system shows delivery but you have not received the parcel, report that specific discrepancy promptly with the displayed delivery details.",
+          "有效的问题应包含包裹号、目的地、所选线路、最后一条物流事件及时间。说明不清楚的是哪一步，并附一张相关截图。询问当前交接或运输状态，而不是要求未经依据的到货日期。若系统显示签收但你未收到，请及时报告这一具体差异并提供页面信息。"
+        ],
+        "sources": []
+      }
+    ],
+    "checklist": [
+      "Keep purchase-order and international-parcel records separate; report the exact last event.",
+      "分开保存采购订单与国际包裹记录，反馈最后一条具体物流事件。"
+    ],
+    "related": [
+      "kakobuy-warehouse-storage",
+      "kakobuy-forwarding"
+    ],
+    "reviewed": "2026-11-10"
+  },
+  {
+    "slug": "kakobuy-returns",
+    "keyword": "kakobuy refund",
+    "title": [
+      "Kakobuy returns and refunds: a decision guide by order stage",
+      "Kakobuy 退换与退款：按订单阶段判断下一步"
+    ],
+    "summary": [
+      "Learn the difference between cancellation, seller-approved returns and a refund of account funds.",
+      "区分取消采购、需卖家同意的退货，以及账户资金退款。"
+    ],
+    "sections": [
+      {
+        "heading": [
+          "Name the action you actually need",
+          "先说清需要哪一种处理"
+        ],
+        "body": [
+          "“Refund” can mean cancelling an uncompleted purchase, returning goods already dispatched by a seller, exchanging a warehouse item, or withdrawing unused account funds. These do not share one procedure. Start by recording the order number, current status and the result you want. A precise request helps support identify the applicable policy instead of treating a payment question as a product-return request.",
+          "“退款”可能指取消尚未完成的采购、退回卖家已经寄出的商品、更换仓库商品，或退回未使用账户资金。几种情况不是同一流程。先记录订单号、当前状态和希望得到的处理结果，客服才容易找到对应规则，避免把支付问题当作商品退货。"
+        ],
+        "sources": []
+      },
+      {
+        "heading": [
+          "Before and after seller dispatch",
+          "卖家发货前后的区别"
+        ],
+        "body": [
+          "The official cancellation article distinguishes paid, processing and already-mailed orders. Once goods have been dispatched, it describes discussion with the seller rather than an automatic reversal. The order-amendment page likewise treats changes differently before and after dispatch. If you chose the wrong size, contact support as soon as you notice; do not assume editing a saved note alone changes an order already placed with the seller.",
+          "官方取消说明按已付款、处理中和卖家已发货等阶段区分处理。卖家发出后涉及与卖家协商，并非自动撤销。订单修改说明同样区分发货前后。选错尺码时应及时联系客服，不要假定修改自己保存的备注，就能改变已经向卖家下达的采购。"
+        ],
+        "sources": [
+          87,
+          78
+        ]
+      },
+      {
+        "heading": [
+          "Warehouse return windows need an order-specific check",
+          "仓库退换期限要对应具体订单"
+        ],
+        "body": [
+          "The reviewed purchase-return article discusses a five-day warehouse return request and a fourteen-day exchange request, with seller agreement and possible freight costs. Another official after-sales page covers different scenarios and contains historical wording. Do not collapse those pages into a universal “free returns” promise. Ask support which rule applies to your order, from which event the window runs and what cost will be deducted if the seller agrees.",
+          "本次核对的采购退换文章提到入库五天内申请退货、十四天内申请换货，并涉及卖家同意及可能产生的运费。另一售后页面还包含不同情形和历史文案，不能把它们合并成统一“免费退换”承诺。应向客服确认本人订单适用规则、期限起算事件及可能扣除的费用。"
+        ],
+        "sources": [
+          87,
+          60
+        ]
+      },
+      {
+        "heading": [
+          "Balance credit and payment-method refunds are different",
+          "退到账户余额与原路退款不同"
+        ],
+        "body": [
+          "The product-return guidance describes money returning to available Kakobuy balance after the relevant return process. The separate funds-refund page discusses returning online-payment top-ups to their original account and user-borne handling charges. A balance increase does not by itself prove money has reached your bank or payment provider. Track the refund type, requested amount and stated destination independently from the product-return status.",
+          "商品退货说明涉及款项在退货流程后返回 Kakobuy 可用余额；独立的资金退款说明则涉及线上充值原路退回及手续费承担。账户余额增加，并不等于钱已经到银行卡或支付平台。应分别记录退款类型、申请金额和去向，不与商品退货状态混为一谈。"
+        ],
+        "sources": [
+          104,
+          87
+        ]
+      },
+      {
+        "heading": [
+          "Build an evidence pack, not a promise",
+          "准备证据，不预设处理结果"
+        ],
+        "body": [
+          "Keep the original listing, selected variant, order timeline, relevant warehouse photos and support responses. Describe the mismatch using visible facts. Ask whether the seller accepts the return, who pays domestic freight and what happens if the request is declined. Our checklist helps organise a case; it does not create a right to cancellation or guarantee a successful refund. Read any special notice on a manual or unusual purchase before paying.",
+          "保存原始页面、所选规格、订单时间线、相关仓库照片与客服答复，用可见事实描述差异。确认卖家是否接受、谁承担境内运费，以及拒绝后如何处理。本清单用于整理材料，不创造取消资格，也不保证退款成功。手工或特殊采购付款前，还需阅读该页面的单独提示。"
+        ],
+        "sources": []
+      }
+    ],
+    "checklist": [
+      "Confirm status, applicable deadline, seller agreement, deductions and the refund destination.",
+      "确认状态、适用期限、卖家答复、扣费及退款去向。"
+    ],
+    "related": [
+      "product-photos-and-qc",
+      "kakobuy-order-tracking"
+    ],
+    "reviewed": "2026-11-10"
+  },
+  {
+    "slug": "kakobuy-1688-guide",
+    "keyword": "kakobuy 1688",
+    "title": [
+      "Buying from 1688 through Kakobuy: quantities, price tiers and box contents",
+      "通过 Kakobuy 购买1688商品：起订量、阶梯价与箱内数量"
+    ],
+    "summary": [
+      "Read a wholesale offer carefully before treating its displayed unit price as a single-item price.",
+      "先读懂批发报价，再判断页面单价是否适用于你要买的数量。"
+    ],
+    "sections": [
+      {
+        "heading": [
+          "A displayed price needs a quantity context",
+          "单价必须结合购买数量理解"
+        ],
+        "body": [
+          "Kakobuy’s 1688 guidance warns that unit price and shipping can depend on quantity. A prominently displayed price therefore does not settle the cost of a small order. Before moving a listing into Kakobuy, identify the quantity attached to the price you selected and whether the seller counts pieces, pairs, sets or boxes. Copy the seller’s unit description into your notes so it does not get lost in translation.",
+          "Kakobuy 的1688说明提醒，单价和运费会随数量变化，因此醒目的页面价格不一定适用于小额采购。转入 Kakobuy 前，应确认该单价对应的数量，卖家按件、双、套还是箱计数。建议把卖家的单位说明原样记下，避免翻译后丢失信息。"
+        ],
+        "sources": [
+          90
+        ]
+      },
+      {
+        "heading": [
+          "Check the minimum before submitting",
+          "提交前确认起订条件"
+        ],
+        "body": [
+          "The official guidance says an order that does not meet the seller’s minimum may be invalid and need to be placed again with correct details. Our recommendation is to verify whether the minimum applies to one variant or the combined purchase rather than guessing. Do not change quantities simply to make a form accept an order unless you actually intend to buy that amount. Resolve an unclear requirement with the seller or purchasing support first.",
+          "官方说明指出，不满足卖家最低数量要求的订单可能无效，需要按正确资料重新下单。建议确认起订量是针对单个规格还是合计购买，不要自行猜测。不要只为了让表单通过而填写超过实际需求的数量；规则不明确时，先向卖家或采购客服确认。"
+        ],
+        "sources": [
+          90
+        ]
+      },
+      {
+        "heading": [
+          "Write down one unambiguous order specification",
+          "整理一份不含糊的采购规格"
+        ],
+        "body": [
+          "A useful purchase note records the source link, chosen colour or model, quantity, unit of sale and the expected contents of each unit. For example, “three boxes” is incomplete if the number of pieces per box matters to you. This is an editorial checklist, not a special Kakobuy form requirement. Its purpose is to make the intended purchase understandable before money is committed and before the warehouse receives the shipment.",
+          "建议记录来源链接、颜色或型号、数量、销售单位，以及每个单位预期包含的东西。例如你关心每箱件数时，仅写“三箱”是不够的。这是整理采购信息的建议，不是 Kakobuy 强制表单要求；目的是在付款及入库前，把需求表达清楚。"
+        ],
+        "sources": []
+      },
+      {
+        "heading": [
+          "Understand the box-counting limitation",
+          "理解箱数检查的边界"
+        ],
+        "body": [
+          "The 1688 article specifically warns that Kakobuy counts boxes without guaranteeing the number of pieces inside each box. If inner quantity is essential, ask what confirmation can be obtained before ordering; do not infer an inner count from a warehouse photograph of sealed cartons. Keep the seller’s pack-size description and written response with the order. A cheaper box price is not meaningful until you know what that box is supposed to contain.",
+          "1688文章明确提醒，平台清点箱数，并不保证每箱内部件数。如果箱内数量是关键，购买前就要询问能获得什么确认，不能凭密封箱子的照片推断内部数量。保留卖家对每箱规格的描述和答复。未明确箱内预期内容前，便宜的每箱价也缺乏比较意义。"
+        ],
+        "sources": [
+          90
+        ]
+      },
+      {
+        "heading": [
+          "Agree return expectations before buying in quantity",
+          "大批量购买前确认售后预期"
+        ],
+        "body": [
+          "Kakobuy’s 1688 guidance recommends clarifying return or exchange arrangements with the supplier, including responsibility for shipping. Use that conversation to resolve your specific risks: mixed variants, wrong quantity or an unsuitable item. Then calculate the purchase against your actual need rather than against the largest advertised discount tier. Buying more than needed to reach a lower unit price can still raise the total amount at risk.",
+          "官方1688说明建议预先与供应商明确退换安排及运费承担。可在这一环节讨论混装规格、数量不符或商品不适用等实际风险。然后按真实需求计算，而不是只盯最大折扣档。为降低单价而买超过需求的数量，仍可能增加整体支出与风险。"
+        ],
+        "sources": [
+          90
+        ]
+      }
+    ],
+    "checklist": [
+      "Confirm selling unit, quantity tier, minimum order and box contents before payment.",
+      "付款前确认销售单位、数量档位、起订条件和箱内内容。"
+    ],
+    "related": [
+      "kakobuy-fees",
+      "kakobuy-returns"
+    ],
+    "reviewed": "2026-11-10"
+  },
+  {
+    "slug": "kakobuy-forwarding",
+    "keyword": "kakobuy forwarding",
+    "title": [
+      "Kakobuy forwarding: warehouse address, parcel identification and combined shipping",
+      "Kakobuy 转运：仓库地址、包裹认领与合并运输"
+    ],
+    "summary": [
+      "Keep a self-purchased parcel connected to the correct account from the moment you arrange domestic delivery.",
+      "从安排境内寄送开始，就把自行购买的包裹与正确账户对应起来。"
+    ],
+    "sections": [
+      {
+        "heading": [
+          "Choose the right workflow",
+          "先确认使用哪一种流程"
+        ],
+        "body": [
+          "Purchasing through an agent and forwarding something you bought yourself begin with different responsibilities. For forwarding, you arrange the seller-side purchase and need the parcel information to match the warehouse record. Do not assume that a label with a warehouse address is enough to make the item appear automatically in your account. Keep the seller’s shipment record accessible so an unmatched delivery can be identified.",
+          "代购与自行购买后的转运，开始阶段承担的工作不同。转运通常由你处理卖家端采购，并确保包裹信息与仓库记录匹配。不要认为只写了仓库地址，商品就一定会自动出现在账户里。应保留卖家的寄件记录，以便资料未匹配时查找。"
+        ],
+        "sources": [
+          93,
+          96
+        ]
+      },
+      {
+        "heading": [
+          "Obtain the address from your account",
+          "从本人账户取得仓库地址"
+        ],
+        "body": [
+          "The official address-help page directs users to log in, open Member Center and find Warehouse Address under International Forwarding. Use the current address shown there rather than one copied from a dated blog post. Our practical check is to compare every required address field before confirming the seller’s dispatch. If a field or identifying detail is unclear, ask the platform before the package leaves the seller.",
+          "官方地址说明要求登录会员中心，在国际转运栏目查看仓库地址。应使用账户当前显示的信息，不复制旧博客上的地址。建议卖家寄出前逐项核对需要填写的地址字段；不清楚某字段或身份识别信息时，先向平台确认。"
+        ],
+        "sources": [
+          93
+        ]
+      },
+      {
+        "heading": [
+          "Keep enough information to identify the parcel",
+          "保留能识别包裹的资料"
+        ],
+        "body": [
+          "The unmatched-parcel guidance says complete order and package details are needed to associate goods with the user. Keep the domestic carrier, tracking number, seller reference and a description of the contents together. If delivery has already occurred without the required order information, complete the missing details and contact support promptly. Do not wait for an international tracking event for a parcel that has not yet been matched to your account.",
+          "未匹配包裹说明强调，需要完整订单和包裹资料才能与用户关联。建议把境内承运商、运单号、卖家记录和内容描述一起保存。若已经送达却未补齐所需资料，应尽快完善并联系客服，不要等待尚未认领包裹出现国际物流事件。"
+        ],
+        "sources": [
+          96
+        ]
+      },
+      {
+        "heading": [
+          "Inspection depends on the selected forwarding service",
+          "转运检查取决于所选服务"
+        ],
+        "body": [
+          "The inspection-scope page distinguishes forwarding arrangements and says unpacking inspection depends on the selected service and the information supplied. It also explains limits for functional testing. Ask which inspection will actually take place for your parcel instead of assuming it is identical to a purchasing order. Provide accurate item descriptions when needed so a check can be compared with something concrete.",
+          "验货范围页面区分转运安排，开箱检查取决于所选服务及提供的信息，同时说明功能检查的限制。应确认自己的转运包裹实际会接受哪些检查，不默认与代购订单完全相同。需要时提供准确商品描述，让检查有具体依据。"
+        ],
+        "sources": [
+          58
+        ]
+      },
+      {
+        "heading": [
+          "Combine only after checking eligibility",
+          "确认条件后再考虑与代购商品合寄"
+        ],
+        "body": [
+          "Official help allows stored forwarding and purchase goods to be sent together within applicable limits, while noting that restrictions may prevent a combination. Once the parcel is correctly identified and ready, compare a combined shipment with separate alternatives. Use current line quotes and the oldest relevant storage deadline. Consolidation is a later shipping choice; it does not replace the initial work of registering and identifying the incoming parcel.",
+          "官方说明允许符合限制的已入库转运商品与代购商品合寄，但部分条件可能阻止组合。正确认领且可寄后，再比较合寄与分寄方案，并查看当前线路报价及最早仓储期限。合箱是后续运输选择，不能代替最初的包裹登记与认领工作。"
+        ],
+        "sources": [
+          94
+        ]
+      }
+    ],
+    "checklist": [
+      "Use the account address, preserve domestic tracking and confirm the parcel is matched before shipping.",
+      "使用账户内地址，保留境内物流，确认包裹已匹配后再安排运输。"
+    ],
+    "related": [
+      "kakobuy-warehouse-storage",
+      "kakobuy-order-tracking"
+    ],
+    "reviewed": "2026-11-10"
+  }
+]

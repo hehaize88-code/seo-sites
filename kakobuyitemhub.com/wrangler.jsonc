@@ -1,0 +1,11 @@
+{
+  "name": "kakobuyitemhub-com",
+  "main": "@astrojs/cloudflare/entrypoints/server",
+  "compatibility_date": "2026-11-03",
+  "assets": {
+    "binding": "ASSETS",
+    "directory": "./dist/client"
+  },
+  "workers_dev": true,
+  "preview_urls": true
+}

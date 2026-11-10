@@ -1,0 +1,4 @@
+---
+import {exchangeRate as rate} from '../lib/money';const {lang}=Astro.props;
+---
+<p class="price-note">{lang==='zh'?'美元参考价，按主站人民币价格换算。':'Estimated USD prices converted from source CNY prices.'} 1 CNY = {rate.rates.USD} USD · <a href={rate.source} target="_blank" rel="noopener">{rate.date}</a> · {lang==='zh'?'不含运费及其他费用，实际结算以 Kakobuy 为准。':'Excludes shipping and other fees. Final checkout prices are set by Kakobuy.'}</p>

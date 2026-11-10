@@ -1,0 +1,7 @@
+---
+import faqs from '../content/faq.json';import {guides,editorialCopy} from '../lib/guides';import SourceLinks from './SourceLinks.astro';import EditorialNotice from './EditorialNotice.astro';
+const {lang}=Astro.props;const c=(s:string[])=>editorialCopy(s,lang);const selected=['start','cost','qc','storage','shipping','after'].map(group=>faqs.find(f=>f.group===group)!);
+const latest=[...guides].sort((a,b)=>b.reviewed.localeCompare(a.reviewed)).slice(0,3);
+---
+<section class="faq home-faq" lang={lang==='zh'?'zh-CN':'en'}><div><div class="eyebrow">FAQ</div><h2>{c(['Before you buy.','购买之前。'])}</h2><EditorialNotice lang={lang}/><a class="reading-all" href={'/faq?lang='+lang}>{c(['View all 28 answers','查看全部 28 条 FAQ'])} →</a></div><div class="answers">{selected.map(f=><details><summary>{c(f.q)}<span aria-hidden="true">+</span></summary><p>{c(f.a)}</p><SourceLinks ids={f.sources} lang={lang}/></details>)}</div></section>
+<section class="home-reading" lang={lang==='zh'?'zh-CN':'en'}><div class="reading-heading"><div><div class="eyebrow">KAKOBUY GUIDES</div><h2>{c(['Latest guides','最新文章'])}</h2></div><a class="reading-all" href={'/guides?lang='+lang}>{c(['View all articles','查看全部文章'])} →</a></div><div class="guide-cards">{latest.map(g=><a href={'/guides/'+g.slug+'?lang='+lang}><time datetime={g.reviewed}>{g.reviewed}</time><h3>{c(g.title)}</h3><p>{c(g.summary)}</p><b>{c(['Read article','阅读文章'])} ↗</b></a>)}</div></section>
