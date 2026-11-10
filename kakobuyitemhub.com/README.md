@@ -21,6 +21,6 @@ To regenerate: run the existing `visual-service/build-index.mjs` with the requir
 
 ## Content and SEO
 
-English/Chinese editorial content with official references; 8 interface languages. Untranslated editorial locales clearly fall back to English. Source CNY prices are converted to estimated USD at the dated rate in `src/content/exchange-rate.json`; the rate is a snapshot, not a live checkout quote. Registration and buying links retain their supplied affiliate codes. Official Kakobuy logo/favicon; GA4 G-KDMC5GFZXN.
+English/Chinese editorial content with official references; 8 interface languages. Untranslated editorial locales clearly fall back to English. Source CNY prices are converted to estimated USD at the dated rate in `src/content/exchange-rate.json`; the rate is a snapshot, not a live checkout quote. Registration and buying links retain their supplied affiliate codes. Official Kakobuy logo/favicon; GA4 G-8X01T6JL03 (dedicated kakobuyitemhub.com web stream 16310798876, configured 2026-11-10).
 
 Apex HTTPS is canonical; www/HTTP return301 preserving path/query. Main HTML is indexable on apex only; staging, search queries and untranslated locales are noindex. Robots and sitemap are server routes. Browser click/visual QA is limited by the current local browser-tool failure; WASM engine retrieval, HTTP routes, static assets, metadata and redirects are tested separately.
