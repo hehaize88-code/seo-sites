@@ -9,3 +9,5 @@ dist/
 .visual-index/
 .deploy-tools/
 public/visual/v1/
+
+public/visual/runtime-v2/
