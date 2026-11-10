@@ -1,0 +1,1 @@
+{"name":"kakobuyitemhub-www","account_id":"9010cea800ac2a140509889d88fe612e","main":"redirect-worker.mjs","compatibility_date":"2026-11-03","workers_dev":false,"routes":[{"pattern":"www.kakobuyitemhub.com","custom_domain":true}]}

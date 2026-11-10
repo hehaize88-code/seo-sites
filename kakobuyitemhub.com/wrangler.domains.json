@@ -3,10 +3,6 @@
     {
       "pattern": "kakobuyitemhub.com",
       "custom_domain": true
-    },
-    {
-      "pattern": "www.kakobuyitemhub.com",
-      "custom_domain": true
     }
   ]
 }

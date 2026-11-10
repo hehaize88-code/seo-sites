@@ -1,5 +1,5 @@
 {
-  "name": "kakobuy-preview",
+  "name": "kakobuyitemhub-com",
   "private": true,
   "type": "module",
   "scripts": {
@@ -8,7 +8,8 @@
     "preview": "astro preview",
     "visual:index": "node visual-service/build-index.mjs",
     "visual:serve": "node visual-service/server.mjs",
-    "visual:validate": "node visual-service/validate.mjs"
+    "visual:validate": "node visual-service/validate.mjs",
+    "prebuild": "node scripts/ensure-visual-assets.mjs"
   },
   "dependencies": {
     "@astrojs/cloudflare": "latest",

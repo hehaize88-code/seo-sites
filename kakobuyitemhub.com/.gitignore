@@ -8,3 +8,4 @@ dist/
 .visual-cache/
 .visual-index/
 .deploy-tools/
+public/visual/v1/

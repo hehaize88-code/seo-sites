@@ -7,5 +7,12 @@
     "directory": "./dist/client"
   },
   "workers_dev": true,
-  "preview_urls": true
+  "preview_urls": true,
+  "account_id": "9010cea800ac2a140509889d88fe612e",
+  "routes": [
+    {
+      "pattern": "kakobuyitemhub.com",
+      "custom_domain": true
+    }
+  ]
 }
