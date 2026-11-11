@@ -6,7 +6,7 @@ export default {
   if(url.pathname==='/en'||url.pathname==='/en/'){url.pathname='/';return Response.redirect(url.toString(),308)}
   if(url.pathname.length>1&&url.pathname.endsWith('/')){url.pathname=url.pathname.replace(/\/+$/,'');return Response.redirect(url.toString(),308)}
   if(/^\/sitemap(?:-[a-z-]+)?\.xml$/.test(url.pathname))return env.ASSETS.fetch(request);
-  if(/^\/(?:assets|visual|visual-models|visual-runtime|brands)\//.test(url.pathname))return env.ASSETS.fetch(request);
+  if(/^\/(?:_next|assets|visual|visual-models|visual-runtime|brands)\//.test(url.pathname))return env.ASSETS.fetch(request);
   return handler.fetch(request,env,ctx);
  }
 };
