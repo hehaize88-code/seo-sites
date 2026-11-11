@@ -1,0 +1,12 @@
+import fs from 'node:fs/promises';
+const origin='https://hipobuytab.com';
+const langs=['en','de','fr','es','it','pt','pl','zh'];
+const index=JSON.parse(await fs.readFile('public/visual/index.json','utf8'));
+const paths=['','spreadsheet','categories','image-search','guides','articles','faq','qc','shipping','guides/how-to-buy','guides/check-product-photos','guides/plan-shipping'];
+const url=(l,p)=>origin+(l==='en'&&!p?'/':'/'+l+(p?'/'+p:''));
+const xml=body=>'<?xml version="1.0" encoding="UTF-8"?>\n'+body;
+const set=items=>xml('<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'+items.map(loc=>'<url><loc>'+loc+'</loc></url>').join('')+'</urlset>');
+await fs.writeFile('public/sitemap-pages.xml',set(langs.flatMap(l=>paths.map(p=>url(l,p)))));
+for(const l of langs)await fs.writeFile('public/sitemap-products-'+l+'.xml',set(index.ids.map(id=>url(l,'product/'+id))));
+await fs.writeFile('public/sitemap.xml',xml('<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'+['sitemap-pages.xml',...langs.map(l=>'sitemap-products-'+l+'.xml')].map(p=>'<sitemap><loc>'+origin+'/'+p+'</loc></sitemap>').join('')+'</sitemapindex>'));
+console.log('Sitemaps:',index.ids.length,'product IDs ×',langs.length,'locales');

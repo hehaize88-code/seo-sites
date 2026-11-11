@@ -1,0 +1,5 @@
+export const currencies=['USD','EUR','GBP','CNY','AUD','CAD','CHF','JPY','KRW','HKD','SGD','NZD','BRL','PLN','SEK','NOK','DKK','CZK','HUF','RON','IDR','INR','MYR','PHP','THB','TRY','ZAR','MXN'] as const;
+export type Exchange={base:'CNY';date:string|null;rates:Record<string,number>;status:'current'|'unavailable';provider:string};
+export async function getExchange():Promise<Exchange>{
+ try{const r=await fetch('https://api.frankfurter.dev/v1/latest?base=CNY',{signal:AbortSignal.timeout(8000),cache:'no-store'});if(!r.ok)throw new Error('rates unavailable');const data=await r.json() as {base:string;date:string;rates:Record<string,number>};if(data.base!=='CNY'||!/^\d{4}-\d{2}-\d{2}$/.test(data.date))throw new Error('invalid rates');const rates:Record<string,number>={CNY:1};for(const code of currencies){const n=data.rates[code];if(Number.isFinite(n)&&n>0)rates[code]=n;}return{base:'CNY',date:data.date,rates,status:'current',provider:'Frankfurter'};}catch{return{base:'CNY',date:null,rates:{CNY:1},status:'unavailable',provider:'Frankfurter'};}
+}

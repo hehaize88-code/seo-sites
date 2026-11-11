@@ -1,0 +1,8 @@
+/visual/index.json
+  Cache-Control: public, max-age=300
+/visual/vectors-*
+  Cache-Control: public, max-age=31536000, immutable
+/visual-models/*
+  Cache-Control: public, max-age=604800
+/visual-runtime/*
+  Cache-Control: public, max-age=604800

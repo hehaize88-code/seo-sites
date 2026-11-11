@@ -1,0 +1,13 @@
+node_modules
+dist/
+.next/
+.wrangler/
+.vinext/
+work/
+*.tsbuildinfo
+.env*
+public/visual-models/dinov2-small/onnx/
+public/visual-runtime/*.wasm
+public/visual-runtime/*.mjs
+public/visual/worker/
+public/sitemap*.xml

@@ -1,0 +1,5 @@
+Visual search uses Meta DINOv2-small (Apache License 2.0), converted for Transformers.js by Xenova. Model revision: c2bb04a51fab207c420665f1946016107bffc701. Model: https://huggingface.co/Xenova/dinov2-small
+Transformers.js 3.8.1: https://github.com/huggingface/transformers.js (Apache License 2.0).
+ONNX Runtime: https://github.com/microsoft/onnxruntime (MIT License).
+License copies: /visual-models/LICENSE-DINOv2.txt and /visual-runtime/LICENSE-ONNXRUNTIME.txt.
+Catalog features are derived solely from public cnfanshm.com catalog images. Product content remains at its source.
