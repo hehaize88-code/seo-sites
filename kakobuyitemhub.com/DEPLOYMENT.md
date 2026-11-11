@@ -17,3 +17,6 @@ Production deployment: `e3a39b69-010d-488d-ab3c-cebd593e897b`. Headless Chrome a
 
 ## 2026-11-11 Localization
 FAQ and all ten guides now use the same translation dictionary as the interface. Added 1,428 machine translations for de/fr/es/it/pl/pt, with official reference links retained. Product titles remain source-provided. All 128 route/locale combinations passed live HTTP, language attribute and article fallback checks. Non-English/Chinese locales retain existing noindex pending editorial review. Native-speaker review remains outstanding.
+
+## Product title translations — 2026-11-11
+Product titles use a full-string translation catalog rather than category-word substitutions. The catalog covers the audited source catalogue (101 pages / 6,042 items), including both truncated listing labels and full detail titles. It stores translations only; product availability, pictures, prices and purchase links still come from cnfanshm live. Translation is machine-generated, with known brand names and identifier tokens protected; native-language quality review is still recommended. Unknown newly added or renamed source titles fall back to their original text until the catalog is refreshed. Image-search results are localized by the server using the requested language, avoiding sending the full translation catalog to the browser.
