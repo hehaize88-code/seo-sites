@@ -1,6 +1,8 @@
 ---
+import {translator} from '../lib/i18n';
 import catalogue from '../content/sources.json';
 const {ids=[],lang='en'}=Astro.props;
 const sources=catalogue as Record<string,{title:string,url:string}>;
+const t=translator(lang);
 ---
-{ids.length>0&&<div class="official-sources"><span>{lang==='zh'?'官网依据：':'Official references: '}</span>{ids.map((id:number)=><a href={sources[String(id)].url} target="_blank" rel="noopener noreferrer">{sources[String(id)].title} ↗</a>)}</div>}
+{ids.length>0&&<div class="official-sources"><span>{t("Official references: ","官网依据：")}</span>{ids.map((id:number)=><a href={sources[String(id)].url} target="_blank" rel="noopener noreferrer">{t('Official references: ','官网依据：')+id} ↗</a>)}</div>}

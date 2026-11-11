@@ -1,4 +1,4 @@
 ---
-const {lang}=Astro.props;
+import {translator} from '../lib/i18n';const {lang}=Astro.props;const t=translator(lang);
 ---
-{!['en','zh'].includes(lang)&&<p class="editorial-notice" lang="en">These guides and FAQs are currently available in English and Chinese. English content is shown for your selected interface language.</p>}
+{!['en','zh'].includes(lang)&&<p class="editorial-notice">{t('Translated from the English guide. Refer to the linked official sources for platform rules.','根据英文指南翻译，平台规则请核对所附官方来源。')}</p>}

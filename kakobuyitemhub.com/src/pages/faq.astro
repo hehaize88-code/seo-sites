@@ -1,4 +1,4 @@
 ---
 import Shell from '../layouts/Shell.astro';import Faq from '../components/Faq.astro';import {locale,translator} from '../lib/i18n';const lang=locale(Astro.url);const t=translator(lang);
 ---
-<Shell title={t('FAQ','常见问题')+' | Kakobuy Spreadsheet'} description={lang==='zh'?'28 个 Kakobuy 常见问题，涵盖费用、仓储、质检、运输及退换货，附官网参考。':'28 Kakobuy FAQs about costs, storage, inspection, shipping and returns, with official references.'}><main><div class="faq-heading"><h1>Kakobuy {t('FAQ','常见问题')}</h1></div><Faq lang={lang}/><p class="article-back"><a href={'/guides?lang='+lang}>{t('Articles & guides','文章与指南')} →</a></p></main></Shell>
+<Shell title={t('FAQ','常见问题')+' | Kakobuy Spreadsheet'} description={t("28 Kakobuy FAQs about costs, storage, inspection, shipping and returns, with official references.","28 个 Kakobuy 常见问题，涵盖费用、仓储、质检、运输及退换货，附官网参考。")}><main><div class="faq-heading"><h1>Kakobuy {t('FAQ','常见问题')}</h1></div><Faq lang={lang}/><p class="article-back"><a href={'/guides?lang='+lang}>{t('Articles & guides','文章与指南')} →</a></p></main></Shell>

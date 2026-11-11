@@ -14,3 +14,6 @@ All source images are remote; image-feature vectors are the user-approved search
 ## Browser search fix — 2026-11-10
 The browser distribution of Transformers retained bare ONNX package imports, so a native module Worker failed before inference. Prebuild now bundles these dependencies with esbuild and the WASM backend into `/visual/runtime-v2/transformers.js`; a build guard rejects unresolved package imports. The worker URL is versioned to bypass old caches.
 Production deployment: `e3a39b69-010d-488d-ab3c-cebd593e897b`. Headless Chrome against the live domain (no request interception) returned eight results for source product 6067, with that product first, both on initial load and after a cached reload. A 390×844 viewport has no horizontal overflow. This does not establish real phone performance.
+
+## 2026-11-11 Localization
+FAQ and all ten guides now use the same translation dictionary as the interface. Added 1,428 machine translations for de/fr/es/it/pl/pt, with official reference links retained. Product titles remain source-provided. All 128 route/locale combinations passed live HTTP, language attribute and article fallback checks. Non-English/Chinese locales retain existing noindex pending editorial review. Native-speaker review remains outstanding.
