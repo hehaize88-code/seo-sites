@@ -3,13 +3,17 @@ import { runWithConnectorBinding } from "../lib/connector-context";
 import type { ConnectorBinding } from "../lib/connector-contract.mjs";
 
 const worker = {
-  fetch(request: Request, env: Cloudflare.Env, ctx: ExecutionContext<{ CONNECTORS?: ConnectorBinding }>) {
+  fetch(request: Request, env: Cloudflare.Env & { ASSETS?: { fetch(request: Request): Promise<Response> } }, ctx: ExecutionContext<{ CONNECTORS?: ConnectorBinding }>) {
     const url = new URL(request.url);
     if (url.hostname === 'www.usfansgrid.com' || (url.hostname === 'usfansgrid.com' && url.protocol !== 'https:')) {
       url.hostname = 'usfansgrid.com'; url.protocol = 'https:';
       return Response.redirect(url.toString(), 308);
     }
     if(url.pathname === '/') { url.pathname='/en'; return Response.redirect(url.toString(),308); }
+    // Serve bundled files before the application catch-all route.
+    if (env.ASSETS && (url.pathname.startsWith('/_next/') || url.pathname.startsWith('/visual') || ['/usfans-logo.webp', '/favicon.png', '/favicon.svg'].includes(url.pathname))) {
+      return env.ASSETS.fetch(request);
+    }
     let binding = ctx.props?.CONNECTORS;
     // Local preview emulates the same request-scoped capability. This branch and
     // the auxiliary service binding are absent from production builds.
