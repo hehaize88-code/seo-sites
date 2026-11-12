@@ -1,0 +1,21 @@
+{
+  "name": "litbuytab-com",
+  "main": "dist/worker.js",
+  "compatibility_date": "2026-05-15",
+  "assets": {
+    "directory": "dist/public",
+    "binding": "ASSETS",
+    "run_worker_first": true
+  },
+  "workers_dev": true,
+  "routes": [
+    {
+      "pattern": "litbuytab.com",
+      "custom_domain": true
+    },
+    {
+      "pattern": "www.litbuytab.com",
+      "custom_domain": true
+    }
+  ]
+}

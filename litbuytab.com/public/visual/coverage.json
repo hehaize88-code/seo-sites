@@ -1,0 +1,33 @@
+{
+  "source": "https://cnfanshm.com",
+  "indexSource": "https://github.com/hehaize88-code/seo-sites/tree/main/usfansgrid.com/public/visual",
+  "snapshotCreatedAt": "2026-11-11T11:03:09.042Z",
+  "auditDate": "2026-11-12T04:16:13.559299+00:00",
+  "cataloguePagesRead": 208,
+  "discoveredProducts": 6042,
+  "imageBearingProductsIndexed": 6041,
+  "imagesIndexed": 25648,
+  "emptySourceProducts": [
+    {
+      "path": "/AllProducts/640.html",
+      "reason": "Empty gallery data-src and empty original product ID, live checked; related-product photos excluded"
+    }
+  ],
+  "liveDetailPagesSampled": 754,
+  "liveImageReferencesCompared": 3197,
+  "missingImageKeysInSample": 0,
+  "unreadDiscoveredCataloguePages": [],
+  "semanticModel": "Xenova/dinov2-small",
+  "secondaryImageTest": {
+    "sourceProduct": "669",
+    "photoOrdinal": 1,
+    "indexRow": 22739,
+    "expectedTopMatch": "669",
+    "cosineScore": 1.0
+  },
+  "limits": [
+    "Existing complete image snapshot is dated 2026-11-11; inventory and 754 detail pages were checked 2026-11-12. Source edits after snapshot require a rebuild.",
+    "AI similarity is not proof of exact product identity or authenticity.",
+    "No image or SKU fields are invented; blank source record 640 has no searchable image."
+  ]
+}

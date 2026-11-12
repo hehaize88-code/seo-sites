@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.wrangler/
+.env*
+public/visual/worker/
+public/visual-models/dinov2-small/onnx/
+public/visual-runtime/*.wasm
