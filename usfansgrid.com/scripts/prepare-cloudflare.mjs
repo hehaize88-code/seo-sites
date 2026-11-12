@@ -1,0 +1,11 @@
+import fs from 'node:fs';
+const file='dist/server/wrangler.json';
+const config=JSON.parse(fs.readFileSync(file,'utf8'));
+config.name='usfansgrid-com';
+config.account_id='9010cea800ac2a140509889d88fe612e';
+config.workers_dev=true;
+config.preview_urls=false;
+config.assets={...config.assets,binding:'ASSETS',run_worker_first:true};
+delete config.routes;
+fs.writeFileSync(file,JSON.stringify(config,null,2)+'\n');
+console.log('Prepared usfansgrid-com with bundled client assets.');

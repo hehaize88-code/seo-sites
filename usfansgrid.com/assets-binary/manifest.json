@@ -1,0 +1,20 @@
+[
+  {
+    "path": "public/visual-models/dinov2-small/onnx/model_quantized.onnx",
+    "sha256": "3afdc8bc63b50558d6e5770f5b799bb82455c2311183a2de43803f343a29d917",
+    "parts": [
+      "assets-binary/model_quantized.onnx.part0",
+      "assets-binary/model_quantized.onnx.part1",
+      "assets-binary/model_quantized.onnx.part2"
+    ]
+  },
+  {
+    "path": "public/visual-runtime/ort-wasm-simd-threaded.jsep.wasm",
+    "sha256": "c46655e8a94afc45338d4cb2b840475f88e5012d524509916e505079c00bfa39",
+    "parts": [
+      "assets-binary/ort-wasm-simd-threaded.jsep.wasm.part0",
+      "assets-binary/ort-wasm-simd-threaded.jsep.wasm.part1",
+      "assets-binary/ort-wasm-simd-threaded.jsep.wasm.part2"
+    ]
+  }
+]

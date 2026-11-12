@@ -1,0 +1,3 @@
+import {SITE_ORIGIN,sitePages,languageAlternates,xmlEscape} from '../../lib/site';
+import {locales,pathFor} from '../../lib/i18n';
+export function GET(){return new Response(`<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">${sitePages.flatMap(p=>locales.map(l=>`<url><loc>${SITE_ORIGIN+pathFor(l,p)}</loc>${Object.entries(languageAlternates(p)).map(([lang,url])=>`<xhtml:link rel="alternate" hreflang="${lang}" href="${xmlEscape(url)}"/>`).join('')}</url>`)).join('')}</urlset>`,{headers:{'Content-Type':'application/xml; charset=utf-8','Cache-Control':'public, max-age=3600'}});}
