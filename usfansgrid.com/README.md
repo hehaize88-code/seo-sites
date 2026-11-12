@@ -46,4 +46,5 @@ Built with the Sites Vinext starter. `npm run dev` starts development; `npm run 
 - Deploy command: npm run deploy:cloudflare
 - Node.js 22 or later. No database, API credentials or new paid service required.
 - Bind usfansgrid.com and www.usfansgrid.com as custom domains after deployment. The Worker redirects www and HTTP to HTTPS on the apex.
-- Mobile layout uses compact spacing and horizontally scrollable galleries. Saved finds and image-search results show 12 items per page without dropping matches. Catalogue keeps 20 items per page.
+- Mobile layout uses compact spacing and horizontally scrollable galleries. Catalogue, saved finds and image-search results show 12 items per page without dropping items. Five catalogue pages cover each complete 60-item upstream page.
+- Standalone pages target approximately 3–5 phone screens; naturally short pages remain shorter. Narrow phones use a two-row header; translated product names get two readable lines. Guides, FAQs and image galleries retain their complete content. Expanding answers, zooming images or changing the browser text size can increase page height.

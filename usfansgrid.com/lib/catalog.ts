@@ -22,12 +22,15 @@ export function parseCatalog(html:string){
  return chunks.map(s=>{const imageTag=s.match(/<img\b[^>]*>/i)?.[0]||'';return {recordId:s.match(/\/AllProducts\/(\d+)\.html/)?.[1]||'',name:cls(s,'product-name')||decode(s.match(/<h3[^>]*>([\s\S]*?)<\/h3>/i)?.[1]||''),priceCny:price(cls(s,'product-price')),image:imageURL(attr(imageTag,'data-src')||attr(imageTag,'src'))};}).filter(p=>p.recordId&&p.name&&p.image);
 }
 export async function getCatalog(opts:{q?:string;category?:string;sort?:string;page?:number}={}):Promise<Catalog>{
- const page=Math.max(1,Math.min(900,Math.floor(Number(opts.page)||1))),upstreamPage=Math.floor((page-1)/3)+1,offset=((page-1)%3)*20;
+ // Source pages contain 60 items. Five 12-item pages retain every source item
+ // while keeping two-column phone layouts within a few screens.
+ const pageSize=12,pagesPerSource=5;
+ const page=Math.max(1,Math.min(1500,Math.floor(Number(opts.page)||1))),upstreamPage=Math.floor((page-1)/pagesPerSource)+1,offset=((page-1)%pagesPerSource)*pageSize;
  const q=sourceSearchQuery((opts.q||'').trim().slice(0,120));const cat=categories.find(c=>c.key===opts.category)||categories[0];
  const p=new URLSearchParams({m:'home',c:q?'Search':'Lists',a:q?'lists':'index',sort:opts.sort?.startsWith('price')?'price':opts.sort==='popular'?'click':'new',sort_asc:opts.sort==='price-asc'?'asc':'desc',ZXljbXM:'1',page:String(upstreamPage)});
  if(q){p.set('keywords',q);p.set('channelid','2');}else p.set('tid',String(cat.id));
  const searchParams=new URLSearchParams({keywords:q,channelid:'2',page:String(upstreamPage)});
- try{const html=await source(q?'/search.html?'+searchParams:'/index.php?'+p);const all=parseCatalog(html);const pagination=html.split('class="pagination"')[1]?.split('</div>')[0]||'';const hasNext=[...pagination.matchAll(/(?:&amp;|&)page=(\d+)/g)].some(m=>Number(m[1])>upstreamPage);return {products:all.slice(offset,offset+20),hasNext:all.length>offset+20||hasNext,page};}catch(e){console.error('Catalogue fetch:',e instanceof Error?e.message:String(e));return {products:[],hasNext:false,page,error:'source-unavailable'};}
+ try{const html=await source(q?'/search.html?'+searchParams:'/index.php?'+p);const all=parseCatalog(html);const pagination=html.split('class="pagination"')[1]?.split('</div>')[0]||'';const hasNext=[...pagination.matchAll(/(?:&amp;|&)page=(\d+)/g)].some(m=>Number(m[1])>upstreamPage);return {products:all.slice(offset,offset+pageSize),hasNext:all.length>offset+pageSize||hasNext,page};}catch(e){console.error('Catalogue fetch:',e instanceof Error?e.message:String(e));return {products:[],hasNext:false,page,error:'source-unavailable'};}
 }
 export async function getProduct(id:string):Promise<{product:Product|null;error?:string}>{
  if(!/^\d{1,8}$/.test(id))return {product:null,error:'not-found'};

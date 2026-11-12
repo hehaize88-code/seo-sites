@@ -34,6 +34,33 @@ dialog.image-search-modal{border:0;border-radius:0;margin:0;padding:0;width:100%
  .footer-top{padding-top:22px;padding-bottom:20px;gap:16px}.footer-top>div>p{font-size:11px;line-height:1.6;margin-top:10px}.footer-nav{gap:4px 12px;font-size:12px}.footer-nav a{min-height:34px;display:flex;align-items:center}.footer-bottom{padding:13px 0;font-size:10px;gap:9px}.footer-bottom>div{gap:15px}.footer-cta{margin-top:0}.empty-state{min-height:210px;padding:24px 12px;font-size:14px}
 }
 
+/* Keep phone pages compact without shrinking readable copy or hiding products. */
+@media(max-width:680px){
+ main:not([data-page="home"]) .page-title{gap:14px}
+ main:not([data-page="home"]) .product-name{white-space:normal;display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:2;line-height:1.4;min-height:2.8em;font-size:13px;overflow-wrap:anywhere}
+ main:not([data-page="home"]) .product-grid{row-gap:18px}
+ .reading .steps .step{display:grid;grid-template-columns:28px minmax(0,1fr);column-gap:12px}
+ .reading .step-top{grid-row:1 / span 2;display:block;margin:0}
+ .reading .step-top>span{display:block;margin-top:6px}
+ .reading .step h3,.reading .step p{grid-column:2}
+ .reading .step+.step{padding-top:12px}
+ .guide-links{margin-top:20px}
+ .footer-nav{grid-template-columns:repeat(3,minmax(0,1fr));overflow-wrap:anywhere}
+ .catalog-toolbar>span{min-width:0;overflow-wrap:anywhere}
+ .category-tile h2{overflow-wrap:anywhere}
+ .visual-results-heading{scroll-margin-top:90px}
+}
+@media(max-width:380px){
+ .header-inner{height:auto;min-height:88px;flex-wrap:wrap;gap:0 8px;padding:6px 0}
+ .header-actions{width:100%;justify-content:space-between}
+ .header .official-logo{width:104px;height:26px}
+ .announcement{font-size:9px;gap:8px}
+ .announcement a{white-space:nowrap}
+ .detail-actions{grid-template-columns:1fr}
+ .footer-nav{grid-template-columns:repeat(2,minmax(0,1fr))}
+ .visual-results-heading{scroll-margin-top:115px}
+}
+
 /* The native search dialog needs its own shared header in the browser top layer. */
 .image-search-modal .header{position:sticky;top:0;z-index:30}
 .image-search-modal .search-close{margin:0}
