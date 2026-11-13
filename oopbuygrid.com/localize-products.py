@@ -1,0 +1,18 @@
+"""Build deterministic product terminology for all catalog UI languages.
+Keep brand/model names and unsupported seller wording unchanged; never invent attributes.
+Run after UI locale regeneration. Used dynamically for future catalog imports too.
+"""
+import json,pathlib
+root=pathlib.Path(__file__).parent
+sources=[json.loads((root/f).read_text()) for f in ['product-terms.json','product-modifiers.json','product-details-terms.json']]
+aliases={'striped':'stripe','stripes':'stripe','embroidery':'embroidered','rib knit':'ribbed','half zip':'half-zip','cross-body':'crossbody','keychains':'keychain','key chain':'keychain','jewellery':'jewelry','ties':'tie','polo':'polo shirt','downjacket':'down jacket','down vests':'down vest','hoodi':'hoodie','cardholde':'card holder','braclet':'bracelet','braclets':'bracelet','slacks':'pants','zapatos':'shoes','colores':'colors','earphone':'earbuds',
+'hoodies':'hoodie','hooded sweatshirt':'hoodie','hooded sweatshirts':'hoodie','sudadera':'sweatshirt','sudaderas':'sweatshirt','sweatshirts':'sweatshirt','sweaters':'sweater','pullover':'sweater','pullovers':'sweater','t-shirts':'t-shirt','t shirt':'t-shirt','t shirts':'t-shirt','tshirt':'t-shirt','tshirts':'t-shirt','tee':'t-shirt','tees':'t-shirt','shirts':'shirt','jackets':'jacket','down jackets':'down jacket','puffer jackets':'puffer jacket','puffer':'puffer jacket','puffers':'puffer jacket','coats':'coat','windbreakers':'windbreaker','vests':'vest','chaleco':'vest','trousers':'pants','pant':'pants','joggers':'sweatpants','jogger':'sweatpants','sweat pants':'sweatpants','sweatpant':'sweatpants','jean':'jeans','short':'shorts','tracksuits':'tracksuit','track suit':'tracksuit','track suits':'tracksuit','sets':'set','suits':'set','suit':'set','jerseys':'jersey','sneaker':'sneakers','shoe':'shoes','boot':'boots','sandal':'sandals','slipper':'slippers','slides':'slippers','slide':'slippers','loafer':'loafers','pump':'pumps','bags':'bag','backpacks':'backpack','wallets':'wallet','cardholder':'card holder','cardholders':'card holder','card holders':'card holder','belts':'belt','hats':'hat','caps':'cap','baseball cap':'cap','baseball caps':'cap','beanies':'beanie','scarves':'scarf','sock':'socks','boxers':'underwear','sunglass':'sunglasses','eyeglasses':'glasses','watches':'watch','bracelets':'bracelet','necklaces':'necklace','earring':'earrings','rings':'ring','perfumes':'perfume','earphones':'earbuds','speakers':'speaker','phone cases':'phone case','style':'styles','color':'colors','colours':'colors','colour':'colors','logos':'logo','printed':'print','prints':'print','long-sleeve':'long sleeve','long sleeved':'long sleeve','long-sleeved':'long sleeve','longsleeve':'long sleeve','longsleeves':'long sleeve','long sleeves':'long sleeve','short-sleeve':'short sleeve','short-sleeved':'short sleeve','short sleeved':'short sleeve','short sleeves':'short sleeve','knitted':'knit','knitwear':'knit','zipper':'zip','zip-up':'zip','zip up':'zip','gray':'grey','low top':'low-top','high top':'high-top','mens':'men',"men's":'men','womens':'women',"women's":'women','kids':'children',"children's":'children',"kid's":'children'}
+for lang in sources[0]:
+ if lang=='keys':continue
+ terms={}
+ for source in sources:terms.update(zip(source['keys'].split('|'),source[lang].split('|')))
+ for alias,key in aliases.items():terms[alias]=terms[key]
+ p=root/'dist/locales'/f'{lang}.json';d=json.loads(p.read_text());d['_productTerms']=terms
+ d.update(zip(['Currency','Sort','Close'],json.loads((root/'locale-controls.json').read_text())[lang].split('|')))
+ p.write_text(json.dumps(d,ensure_ascii=False,indent=2)+'\n')
+print('Product terminology published in',len(sources[0])-1,'languages')

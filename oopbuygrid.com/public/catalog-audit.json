@@ -1,0 +1,27 @@
+{
+  "updatedAt": "2026-11-13T02:10:28.738855+00:00",
+  "productCount": 6042,
+  "imageCount": 25676,
+  "indexedImageCount": 25676,
+  "unavailableImageCount": 0,
+  "pendingImageCount": 0,
+  "missingDetailCount": 0,
+  "missingDetailIds": [],
+  "categories": {
+    "Electronics": 173,
+    "Other": 560,
+    "Sweatshirts": 857,
+    "Shorts": 553,
+    "Shoes": 1538,
+    "TShirts": 678,
+    "Accessories": 93,
+    "Headwear": 533,
+    "Jersey": 84,
+    "Jackets": 525,
+    "ShortSets": 448
+  },
+  "listingPages": 207,
+  "sourceDiscoveredCount": 6042,
+  "missingPurchaseLinks": 1,
+  "missingImages": 1
+}

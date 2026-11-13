@@ -1,0 +1,1 @@
+{"name":"oopbuygrid-com","private":true,"version":"1.0.0","scripts":{"build":"node build.cjs","deploy":"wrangler deploy"},"devDependencies":{"wrangler":"4.92.0"}}

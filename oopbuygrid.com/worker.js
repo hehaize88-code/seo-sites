@@ -1,0 +1,1 @@
+export default {async fetch(request,env){const u=new URL(request.url);if(u.hostname==='www.oopbuygrid.com'||u.protocol==='http:'){u.hostname='oopbuygrid.com';u.protocol='https:';return Response.redirect(u.href,308)}return env.ASSETS.fetch(request)}};
