@@ -12,7 +12,10 @@ const pages=['/','/spreadsheet','/categories','/image-search','/guides','/shippi
 const esc=s=>s.replaceAll('&','&amp;').replaceAll('"','&quot;');
 const xml=routes=>'<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">'+routes.flatMap(p=>langs.map(l=>'<url><loc>'+base+p+(l==='en'?'':'?lang='+l)+'</loc>'+langs.map(k=>'<xhtml:link rel="alternate" hreflang="'+k+'" href="'+esc(base+p+(k==='en'?'':'?lang='+k))+'"/>').join('')+'<xhtml:link rel="alternate" hreflang="x-default" href="'+base+p+'"/></url>')).join('')+'</urlset>';
 fs.writeFileSync('public/sitemap-pages.xml',xml(pages));
-const ids=[...new Set(rows.map(r=>r.id))];fs.writeFileSync('public/sitemap-products.xml',xml(ids.map(id=>'/product/'+id)));
-fs.writeFileSync('public/sitemap.xml','<?xml version="1.0" encoding="UTF-8"?><sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'+['pages','products'].map(k=>'<sitemap><loc>'+base+'/sitemap-'+k+'.xml</loc></sitemap>').join('')+'</sitemapindex>');
+const ids=[...new Set(rows.map(r=>r.id))],maps=[];
+for(let i=0;i<ids.length;i+=1800){const name='products-'+(maps.length+1);maps.push(name);fs.writeFileSync('public/sitemap-'+name+'.xml',xml(ids.slice(i,i+1800).map(id=>'/product/'+id)))}
+const sitemapIndex=names=>'<?xml version="1.0" encoding="UTF-8"?><sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'+names.map(k=>'<sitemap><loc>'+base+'/sitemap-'+k+'.xml</loc></sitemap>').join('')+'</sitemapindex>';
+fs.writeFileSync('public/sitemap-products.xml',sitemapIndex(maps));
+fs.writeFileSync('public/sitemap.xml',sitemapIndex(['pages',...maps]));
 fs.writeFileSync('public/robots.txt','User-agent: *\nAllow: /\nDisallow: /api/\nDisallow: /saved\nSitemap: '+base+'/sitemap.xml\n');
 console.log('Prepared',rows.length,'searchable images and',ids.length,'product URLs');
