@@ -1,0 +1,2 @@
+import {catalog} from '../../../lib/catalog';
+export async function GET(req:Request){const u=new URL(req.url);try{return Response.json(await catalog({category:u.searchParams.get('category')||'',q:(u.searchParams.get('q')||'').slice(0,100),page:Math.min(500,Math.max(1,Number(u.searchParams.get('page'))||1)),home:u.searchParams.has('home')}),{headers:{'Cache-Control':'public, max-age=120'}})}catch(e){return Response.json({error:'Source unavailable. Please try again.',reason:String(e)},{status:502})}}

@@ -1,0 +1,18 @@
+import fs from 'node:fs';
+const raw=JSON.parse(fs.readdirSync('source-chunks').filter(n=>n.startsWith('image-index.json.part')).sort().map(n=>fs.readFileSync('source-chunks/'+n,'utf8')).join('')).result;
+const fixes=JSON.parse(fs.readFileSync('scripts/image-url-fixes.json','utf8'));
+const meta=JSON.parse(fs.readFileSync('scripts/index-meta.json','utf8'));
+const rows=raw.map(r=>({...r,id:r.id.replace(/^source-/,''),src:fixes[r.id+'|'+r.src]||r.src}));
+if(rows.length!==meta.images||rows.some(r=>!r.src.startsWith('https://cnfanshm.com/')||Buffer.from(r.rgb,'base64').length!==432))throw Error('Invalid image index');
+fs.mkdirSync('public/search',{recursive:true});
+for(let i=0;i<meta.parts.length;i++)fs.writeFileSync('public'+meta.parts[i],JSON.stringify(rows.slice(i*4000,(i+1)*4000)));
+fs.writeFileSync('public/search/manifest.json',JSON.stringify(meta));
+const base='https://superbuygrid.com',langs=['en','de','fr','es','it','zh'];
+const pages=['/','/spreadsheet','/categories','/image-search','/guides','/shipping','/qc','/faq'];
+const esc=s=>s.replaceAll('&','&amp;').replaceAll('"','&quot;');
+const xml=routes=>'<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">'+routes.flatMap(p=>langs.map(l=>'<url><loc>'+base+p+(l==='en'?'':'?lang='+l)+'</loc>'+langs.map(k=>'<xhtml:link rel="alternate" hreflang="'+k+'" href="'+esc(base+p+(k==='en'?'':'?lang='+k))+'"/>').join('')+'<xhtml:link rel="alternate" hreflang="x-default" href="'+base+p+'"/></url>')).join('')+'</urlset>';
+fs.writeFileSync('public/sitemap-pages.xml',xml(pages));
+const ids=[...new Set(rows.map(r=>r.id))];fs.writeFileSync('public/sitemap-products.xml',xml(ids.map(id=>'/product/'+id)));
+fs.writeFileSync('public/sitemap.xml','<?xml version="1.0" encoding="UTF-8"?><sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'+['pages','products'].map(k=>'<sitemap><loc>'+base+'/sitemap-'+k+'.xml</loc></sitemap>').join('')+'</sitemapindex>');
+fs.writeFileSync('public/robots.txt','User-agent: *\nAllow: /\nDisallow: /api/\nDisallow: /saved\nSitemap: '+base+'/sitemap.xml\n');
+console.log('Prepared',rows.length,'searchable images and',ids.length,'product URLs');

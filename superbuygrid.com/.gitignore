@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.wrangler/
+.vinext/
+.sites-runtime/
+*.tsbuildinfo
+public/search/
+public/sitemap*.xml
