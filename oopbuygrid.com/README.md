@@ -24,3 +24,5 @@ The public directory retains the verified cnfanshm.com snapshot: 6,042 listings,
 public/app.js and public/style.css are the application source. public/index.html is the HTML shell. build.cjs prerenders the same application functions for crawlable initial HTML. Language and image-search assets are self-contained in public. No database or private credentials are required.
 
 Large catalog JSON assets are stored losslessly in source-chunks to support API-based repository uploads. The build concatenates numbered parts into their original JSON assets.
+
+Cloudflare Git builds are connected to the main branch, with the root directory set to oopbuygrid.com and the include path restricted to oopbuygrid.com/**.
