@@ -68,5 +68,8 @@ for ident in unknown:
    except Exception:missing.append(url)
  except Exception:missing.append('/AllProducts/'+ident+'.html')
 result={'updated':time.strftime('%Y-%m-%dT%H:%M:%SZ',time.gmtime()),'fingerprintBaseline':'2026-11-13','total':len(ids),'products':len(items),'images':sum(map(len,items.values())),'missingImages':len(missing),'listingFailures':len(fail),'items':[['/AllProducts/'+ident+'.html',lookup.get('source-'+ident,'Product '+ident),entries] for ident,entries in items.items()]}
-Path('worker/search-index.js').write_text('export const SEARCH_INDEX='+json.dumps(result,separators=(',',':'))+';\n')
+serialized='export const SEARCH_INDEX='+json.dumps(result,separators=(',',':'))+';\n'
+parts=Path('worker/index-parts');parts.mkdir(exist_ok=True)
+for old in parts.glob('*.txt'):old.unlink()
+for start in range(0,len(serialized),500000):(parts/f'{start//500000:03}.txt').write_text(serialized[start:start+500000])
 (root/'audit.json').write_text(json.dumps({k:v for k,v in result.items() if k!='items'},indent=2));print({k:v for k,v in result.items() if k!='items'},flush=True)
