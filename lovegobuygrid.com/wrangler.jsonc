@@ -1,0 +1,23 @@
+{
+  "name": "lovegobuygrid-com",
+  "main": "dist/worker.js",
+  "compatibility_date": "2026-05-15",
+  "assets": {
+    "directory": "dist/assets",
+    "binding": "ASSETS",
+    "run_worker_first": true
+  },
+  "routes": [
+    {
+      "pattern": "lovegobuygrid.com",
+      "custom_domain": true
+    },
+    {
+      "pattern": "www.lovegobuygrid.com",
+      "custom_domain": true
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}

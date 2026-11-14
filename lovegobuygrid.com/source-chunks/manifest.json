@@ -1,0 +1,38 @@
+[
+  {
+    "dest": "brand/logo.png",
+    "parts": [
+      "brand_logo.png.00.b64"
+    ]
+  },
+  {
+    "dest": "favicon.ico",
+    "parts": [
+      "favicon.ico.00.b64"
+    ]
+  },
+  {
+    "dest": "search/metadata.json.gz",
+    "parts": [
+      "search_metadata.json.gz.00.b64"
+    ]
+  },
+  {
+    "dest": "search/signatures.bin.gz",
+    "parts": [
+      "search_signatures.bin.gz.00.b64",
+      "search_signatures.bin.gz.01.b64",
+      "search_signatures.bin.gz.02.b64",
+      "search_signatures.bin.gz.03.b64",
+      "search_signatures.bin.gz.04.b64",
+      "search_signatures.bin.gz.05.b64",
+      "search_signatures.bin.gz.06.b64",
+      "search_signatures.bin.gz.07.b64",
+      "search_signatures.bin.gz.08.b64",
+      "search_signatures.bin.gz.09.b64",
+      "search_signatures.bin.gz.10.b64",
+      "search_signatures.bin.gz.11.b64",
+      "search_signatures.bin.gz.12.b64"
+    ]
+  }
+]
