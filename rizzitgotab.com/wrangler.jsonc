@@ -1,0 +1,15 @@
+{
+  "name": "rizzitgotab-com",
+  "main": "dist/server/index.js",
+  "compatibility_date": "2026-11-01",
+  "routes": [
+    {
+      "pattern": "rizzitgotab.com",
+      "custom_domain": true
+    },
+    {
+      "pattern": "www.rizzitgotab.com",
+      "custom_domain": true
+    }
+  ]
+}
