@@ -1,3 +1,14 @@
+// Production GA4. Enhanced measurement handles browser-history page changes.
+if (location.hostname === 'lovegobuygrid.com') {
+  window.dataLayer = window.dataLayer || [];
+  window.gtag = function () { window.dataLayer.push(arguments); };
+  window.gtag('js', new Date());
+  window.gtag('config', 'G-CVBE6ZX24Y');
+  const analyticsScript = document.createElement('script');
+  analyticsScript.async = true;
+  analyticsScript.src = 'https://www.googletagmanager.com/gtag/js?id=G-CVBE6ZX24Y';
+  document.head.appendChild(analyticsScript);
+}
 const newestPath='/index.php?m=home&c=Lists&a=index&tid=1&sort=new&sort_asc=desc&ZXljbXM=1&page=1';
 let rates=null,currency=localStorage.getItem('currency')||'USD',searchWorker=null;
 function currencySelect(){return `<select id="currency" aria-label="${esc(t.currency)}">${['CNY','USD','EUR','GBP','AUD','CAD','PLN','SEK','DKK','NOK','CHF','JPY','KRW','SGD','HKD','TWD','THB','IDR','VND','BRL','MXN','RON','HUF','CZK'].map(c=>`<option ${c===currency?'selected':''}>${c}</option>`).join('')}</select>`;}

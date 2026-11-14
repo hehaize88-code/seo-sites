@@ -57,5 +57,5 @@ export default {async fetch(request,env,ctx){
   try{const r=await upstream(p,ctx);return new Response(r.body,{headers:{...headers,'Content-Type':r.headers.get('Content-Type')||'image/jpeg','Cache-Control':'public,max-age=86400'}});}catch{return new Response('Image unavailable',{status:502});}
  }
  if(url.pathname==='/favicon.ico')return Response.redirect('https://www.lovegobuy.com/favicon.ico',302);
- return new Response(HTML,{headers:{...headers,'Content-Type':'text/html;charset=utf-8','Content-Security-Policy':"default-src 'self'; img-src 'self' https: data: blob:; style-src 'self'; script-src 'self'; connect-src 'self' https://open.er-api.com; worker-src 'self'; base-uri 'none'; frame-ancestors 'none'"}});
+ return new Response(HTML,{headers:{...headers,'Content-Type':'text/html;charset=utf-8','Content-Security-Policy':"default-src 'self'; img-src 'self' https: data: blob:; style-src 'self'; script-src 'self' https://www.googletagmanager.com; connect-src 'self' https://open.er-api.com https://*.google-analytics.com https://*.analytics.google.com https://www.googletagmanager.com; worker-src 'self'; base-uri 'none'; frame-ancestors 'none'"}});
 }};
