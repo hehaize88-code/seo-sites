@@ -1,0 +1,14 @@
+{
+  "source": "https://cnfanshm.com",
+  "builtAt": "2026-11-13T02:10:46Z",
+  "catalogCount": 6042,
+  "indexedProducts": 6041,
+  "imageCount": 25676,
+  "missingSourceImages": [
+    "640"
+  ],
+  "algorithm": "RGB 8x8 sampled from source 12x12",
+  "signatureSha256": "655bd1521954616640b830f7185e6396664512ebc3cc376f07aac8c6617662f8",
+  "derivedFrom": "hehaize88-code/seo-sites/superbuygrid.com/source-chunks/image-index.json.part*",
+  "productDatabase": false
+}

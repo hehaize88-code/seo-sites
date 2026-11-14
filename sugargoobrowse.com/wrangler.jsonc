@@ -1,0 +1,19 @@
+{
+  "name": "sugargoobrowse-com",
+  "main": "dist/server/index.js",
+  "account_id": "9010cea800ac2a140509889d88fe612e",
+  "compatibility_date": "2026-11-14",
+  "routes": [
+    {
+      "pattern": "sugargoobrowse.com",
+      "custom_domain": true
+    },
+    {
+      "pattern": "www.sugargoobrowse.com",
+      "custom_domain": true
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
